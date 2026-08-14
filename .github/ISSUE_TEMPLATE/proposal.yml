@@ -1,0 +1,102 @@
+name: Proposal to a document
+description: Propose a change to any document of the corpus. No account with us, no identity check, no payment required.
+title: "[proposal] "
+labels: ["proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        You do not need to agree with anything we say to propose a change.
+        Anonymous proposals are considered like any other.
+
+        Every proposal gets a public answer, including the ones we reject —
+        with the reason stated. Answers are published within thirty days.
+
+  - type: dropdown
+    id: document
+    attributes:
+      label: Which document
+      description: If you are not sure, pick "not sure" and describe it below.
+      options:
+        - "01 — Declaration on self-determination"
+        - "03 — Ethics"
+        - "04 — Legal basis"
+        - "05 — Charter"
+        - "07 — DAO"
+        - "08 — Cells"
+        - "09 — Treasury"
+        - "10 — Earthlings Coin"
+        - "11 — Independent Council"
+        - "12 — Digital platform"
+        - "14 — The earthling path"
+        - "15 — SBT passport"
+        - "16 — Biometric verification policy"
+        - "17 — What may come next"
+        - "19 — Roadmap"
+        - "20 — Founding period"
+        - "22 — Legal information"
+        - "23 — About us"
+        - "26 — Objections and answers"
+        - "27 — Frequently asked questions"
+        - "28 — Privacy policy"
+        - "29 — Terms of use"
+        - "30 — How a subject of law comes about"
+        - "31 — Working agenda"
+        - "32 — Where we are now"
+        - "not sure — described below"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of proposal
+      description: >
+        On the substance — it changes meaning; it goes into the Russian master,
+        then English, then the rest. On a translation — a translation renders the
+        meaning inaccurately; it corrects that language alone.
+      options:
+        - "On the substance"
+        - "On a translation"
+        - "Not sure"
+    validations:
+      required: true
+
+  - type: input
+    id: language
+    attributes:
+      label: Language of the text you are reading
+      description: en, ru, de, es, fr, zh, ar, hi or ka.
+      placeholder: en
+    validations:
+      required: true
+
+  - type: textarea
+    id: where
+    attributes:
+      label: Where in the document
+      description: Article, section or the sentence itself. Approximate is fine.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What you propose, and why
+      description: >
+        Write in whichever of the nine languages you prefer. You do not need to
+        translate your own proposal. The answer will be published in English and
+        in the language you wrote in.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **Two things are not open.** Proposals to abolish or narrow the five
+        principles of the unamendable core (articles 8, 9 and 10 of the
+        Declaration, listed in article 13) are not considered — proposals to
+        refine their wording, or to add to the core, are. And the Manifesto of
+        Belonging is not part of the corpus.
+
+        Everything else is open in full, including the Declaration.
