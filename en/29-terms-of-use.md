@@ -2,7 +2,7 @@
 
 **In force from the moment of publication**
 
-> Where these Terms diverge from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. The processing of data are described in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
+> Where these Terms diverge from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. The processing of data is described in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
 
 ## The substance in a few points
 
@@ -15,11 +15,11 @@
 
 ---
 
-# SECTION 01. On the nature of these terms
+# SECTION 01. On the nature of these Terms
 
 Most terms of use are written by corporations to protect corporations. This is not that kind of document.
 
-These terms describe how the people's participants interact with one another: what rights they hold and what commitments they take on voluntarily.
+These Terms describe how the people's participants interact with one another: what rights they hold and what commitments they take on voluntarily.
 
 **Plain language.** We avoid legal jargon wherever we can. If a condition is unclear, then it is badly written.
 
@@ -37,7 +37,7 @@ If something is unclear or unacceptable - write to us. Proposals to amend these 
 
 Earthlings is a self-determined transnational people existing as a matter of fact on the basis of the Declaration of Self-Determination. What unites us is shared values, not territory or descent.
 
-The people exists and develops with its own infrastructure, governance, and identity regardless of how international law comes to classify it in time: no body that recognizes peoples exists for anyone. Legal cognizability - being treated as a people where a specific question arises - accumulates through practice, time, and numbers. How this is arranged and what is said against us: [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
+The people exists and develops with its own infrastructure, governance, and identity regardless of how international law comes to classify it in time: no body that recognizes peoples exists for anyone. Legal cognizability - being treated as a people where a specific question arises - accumulates through practice, time, and the number of participants. How this is arranged and what is said against us: [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
 
 > **Belonging to the people is additional, not a replacement.** It does not cancel your citizenship and does not require you to renounce it.
 
@@ -57,7 +57,7 @@ These values are embodied in the architecture, not merely declared.
 
 ## Conditions
 
-**Age** - 18 years of age or over.
+**Age** - 18 years or over.
 **Signing** the Declaration of Self-Determination.
 **Identity verification** through the people's own system.
 **A one-time contribution** - the equivalent of 79 USD. Whoever cannot make it themselves joins an open queue, and the contribution for them is made by another person or by the Treasury; no exemption from the contribution is provided for, and the contribution is paid in full in any event (Charter, Article 12 bis).
@@ -90,7 +90,7 @@ You are responsible for keeping your password and cryptographic keys safe, for a
 
 **What may be restricted by decision of the Assembly** under the procedure of Article 22 of the Charter, with a right of defence, a secret ballot, and appeal: participation in Cells, the right to submit proposals, access to particular platform services. Access to votes and to information is not restricted by these measures.
 
-**The right to vote** may be suspended **only** for proven subversion of the integrity of the voting itself - collusion, buying or selling a vote, coercing others, an attempt to circumvent the rule of one person, one passport - for a period of up to 6 months, under the procedure of Article 22 bis of the Charter. Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
+**The right to vote** may be suspended **only** for proven undermining of the integrity of the voting itself - collusion, buying or selling a vote, coercing others, an attempt to circumvent the rule of "one person, one passport" - for a period of up to 6 months, under the procedure of Article 22 bis of the Charter. Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
 
 **What the administration may do without a decision of the Assembly.** One thing only: suspend access to an account where there are clear signs that it has been compromised or is under technical attack - with immediate notice to the participant and subsequent consideration by the Assembly. This protects your account; it is not a measure of liability and does not affect a participant's rights.
 
@@ -184,7 +184,7 @@ Earthlings Coin is a utility unit of the internal economy. It is not a share, no
 
 ## What matters to understand
 
-**Today** the unit circulates only within the ecosystem and is traded nowhere. Membership is confirmed by the passport, not by the unit; it gives no votes at any volume.
+**Today** the unit circulates only within the ecosystem and is traded nowhere. Membership is confirmed by the passport, not by the unit; the unit gives no votes whatever the amount held.
 
 **In the future** exchange availability is possible, but it is not promised and is not an aim. It does not turn the unit into an investment instrument and does not mean a promise of growth in value - no one gives such a promise under any course of events.
 
@@ -204,7 +204,7 @@ The DAO Assembly is **the sole body that takes binding decisions**. All the othe
 
 1. **Proposal.** Any participant submits a proposal. No prior approval, collection of signatures, or threshold of support is required.
 2. **Discussion.** The proposal is discussed publicly, refined, and revised.
-3. **Voting.** By the thresholds and quorums laid down by the Charter.
+3. **Voting.** Under the thresholds and quorums laid down by the Charter.
 4. **Execution.** Automatically through smart contracts or by the technical structures in execution of the decision.
 5. **Transparency.** The history of proposals, discussions, and outcomes is public.
 
@@ -279,7 +279,7 @@ The contribution is made once and covers the cost of the procedure: identity ver
 
 **Before identity verification begins** you are entitled to withdraw from the service and receive the contribution back in full, without giving reasons.
 
-**Before verification begins** you separately and expressly confirm that you wish the service to be performed immediately and understand that after the passport is issued the service is deemed fully performed and the right of withdrawal ends. Without such confirmation verification does not begin.
+**Immediately before verification starts** you separately and expressly confirm that you wish the service to be performed immediately and understand that after the passport is issued the service is deemed fully performed and the right of withdrawal ends. Without such confirmation verification does not begin.
 
 **After the passport is issued** the service has been performed and no refund is made: the costs of verification and issuance have been incurred and are not returned to anyone.
 
