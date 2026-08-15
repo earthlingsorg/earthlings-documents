@@ -14,7 +14,7 @@ What is set out below falls into two parts, and the difference between them is m
 
 Disagreements between people are inevitable and arise from differences of experience, values, and interests. The conflict itself is not the problem - the problem is not knowing how to work through it.
 
-The Earthlings people chooses a restorative approach rather than a punitive one: the aim of a proceeding is to restore relations and repair consequences, not to punish.
+The Earthlings people chooses a restorative approach rather than a punitive one: the aim of a proceeding is to restore relations and repair the consequences, not to punish.
 
 ## Stage 1. Direct dialogue
 
@@ -26,7 +26,7 @@ What helps: hearing the other side out without interrupting; stating your positi
 
 If direct dialogue has not led to resolution, the parties are entitled to turn to mediation.
 
-Mediation is a voluntary process in which a neutral intermediary helps the parties find a mutually acceptable solution. **A mediator hands down no decision and does not establish who is right.** Their task is to create the conditions for a conversation.
+Mediation is a voluntary process in which a neutral intermediary helps the parties find a mutually acceptable solution. **A mediator hands down no decision and makes no finding on who is right.** Their task is to create the conditions for a conversation.
 
 **Who may be a mediator.** Any earthling whom both parties trust and who has no interest in the outcome of the dispute. The people keeps a register of those who have trained in mediation; choosing from the register is not obligatory, and the parties are entitled to agree on any other participant.
 
@@ -38,7 +38,7 @@ Mediation is a voluntary process in which a neutral intermediary helps the parti
 4. the mediator organizes the meeting and conducts the process;
 5. the agreement reached is recorded in writing.
 
-The agreement has moral force: the parties take on a voluntary commitment to carry it out. The people has no enforcement, and none is contemplated.
+The agreement has moral force: the parties take on a voluntary commitment to carry it out. The people has no means of enforcement, and none is contemplated.
 
 **Confidentiality.** The content of a mediation is disclosed neither by the mediator nor by the parties. Only the fact that it took place and the outcome are published: agreement reached or not reached.
 
@@ -72,7 +72,7 @@ What is set out in this section is what the people aims at. It creates no duties
 
 **Respect for the person.** Everyone has the right to their own opinion, faith, choices, and way of life. Discrimination, humiliation, and persecution are inadmissible in the Earthlings people.
 
-**Criticism of ideas is separated from attitude to the person.** Discussion on the merits does not turn personal.
+**Criticism of ideas is separated from one's attitude to the person.** Discussion on the merits does not turn personal.
 
 **Honesty.** Everyone is entitled to ask questions and to receive clear answers. Using the people for manipulation or personal gain at the expense of the common good is inadmissible.
 
@@ -104,7 +104,7 @@ A mistake does not destroy trust if it is followed by admission and correction.
 
 # SECTION 04. Work in Cells
 
-Within a Cell, equality, trust, and a shared contribution to the result apply.
+Within a Cell, equality, trust, and a shared contribution to the result are the rule.
 
 Decisions are taken jointly, taking account of the views of all participants. Forms of participation vary - from conception to execution - and all of them are valuable.
 
@@ -136,7 +136,7 @@ Care for humanity and the planet, regard for the interests of future generations
 
 # SECTION 07. Data and resources
 
-Participants' personal data are not used for commercial, political, or manipulative purposes. Consent to processing is informed and voluntary, and the volume of data are minimal. The details are in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
+Participants' personal data are not used for commercial, political, or manipulative purposes. Consent to processing is informed and voluntary, and the volume of data is minimal. The details are in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
 
 Common funds are allocated under the rules laid down by the document [Treasury](https://earth-lings.org/documents/en/en09-treasury.html), openly and verifiably. This document establishes no allocation rules of its own.
 
@@ -144,7 +144,7 @@ Common funds are allocated under the rules laid down by the document [Treasury](
 
 # SECTION 08. Development
 
-The Earthlings people offers the opportunity to learn what makes working together easier: non-violent communication, conducting discussions, critical thinking, and recognizing one's own states and those of others.
+The Earthlings people offers the opportunity to learn what makes working together easier: non-violent communication, conducting discussions, critical thinking, and recognizing one's own state of mind and that of others.
 
 **The people does not require these skills, does not check that anyone has them, and ties no one's rights to them.** No skill is a condition of belonging, participation, or the vote (Declaration, Article 8).
 
