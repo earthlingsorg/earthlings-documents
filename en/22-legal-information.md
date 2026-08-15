@@ -29,13 +29,13 @@ Both norms are in force and binding on states.
 
 > **What is not settled.** Freedom of association protects the founding act: people are entitled to associate and to declare what they consider themselves to be. It does not confer a status on the result. Whether a voluntarily founded non-territorial community is a people within the meaning of international law is a question the law has not decided, and we do not pass it off as decided. The objections to our position are set out in our own documents at full strength and without softening: [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
 
-The Earthlings people exists as a matter of fact, and its existence is not made dependent on an act of recognition: no body that recognizes peoples exists for anyone, there is no register of peoples, and no people has ever gone through such a procedure. What the people seeks is **legal cognizability** - being treated as a people where specific questions arise: at venues, in consultations, in proceedings. Cognizability accumulates through practice, time, numbers, and legal work. Today it is at the beginning of that path, and the people creates no rights in international law as yet.
+The Earthlings people exists as a matter of fact, and its existence is not made dependent on an act of recognition: no body that recognizes peoples exists for anyone, there is no register of peoples, and no people has ever gone through such a procedure. What the people seeks is **legal cognizability** - being treated as a people where specific questions arise: at venues, in consultations, in proceedings. Cognizability accumulates through practice, time, the number of participants, and legal work. Today it is at the beginning of that path, and the people creates no rights in international law as yet.
 
 ## Legal interfaces for external engagement
 
 For engagement with the existing legal, administrative, and financial infrastructure, registered legal structures in various jurisdictions are used - foundations, associations, and other organizational forms.
 
-**The first such instrument was registered in April 2026.** Its details are provided on a substantiated request from state authorities, financial institutions, and partners.
+**The first such instrument was registered in April 2026.** Its registration particulars are provided on a substantiated request from state authorities, financial institutions, and partners.
 
 Such structures are **solely operational and replaceable means of external engagement**:
 
@@ -45,11 +45,11 @@ Such structures are **solely operational and replaceable means of external engag
 - they are not the source of its legitimacy;
 - they may be established, replaced, and wound up without affecting the existence, continuity, and identity of the people.
 
-Persons acting through these structures carry out a **mandate of the DAO Assembly, revocable at any time by a simple majority** (Charter, Article 33). A mandate creates no office, gives no exclusive right to act on behalf of the people, and is limited by a closed list of permitted actions. Decisions in the name of the people are taken only by the Assembly.
+Persons acting through these structures carry out a **mandate of the DAO Assembly, revocable at any time by a simple majority** (Charter, Article 33). A mandate creates no office, gives no exclusive right to act on behalf of the people, and is limited by a closed list of permitted actions. Decisions on behalf of the people are taken only by the Assembly.
 
 ## Limits on the activity of the legal structures
 
-The legal structures used for external engagement **do not provide to third parties** services of the following kinds and do not carry on the corresponding activities:
+The legal structures used for external engagement **provide no services of the following kinds to third parties** and carry on no such activities:
 
 - commercial activity;
 - financial intermediation;
@@ -68,9 +68,9 @@ What matters is not that the structures are inactive, but **in whose interests a
 
 The people's Treasury disposes of **the people's own funds** - participants' contributions, transfers from Cells, donations - by decisions of the DAO Assembly, with operations publicly recorded. For operations in fiat currency an instrument legal entity is used, which is an independent taxpayer in its own jurisdiction.
 
-Holding funds in various forms, including stablecoins, and moving between them serve solely **the sufficiency of funds for current expenses and resilience to exchange-rate fluctuations**. The Treasury does not generate income from operations with assets, does not manage other people's funds, does not raise investment, and is neither an asset-management fund nor an investment intermediary.
+Holding funds in various forms, including stablecoins, and moving between them serve one purpose only: **sufficient funds for current expenses and resilience to exchange-rate fluctuations**. The Treasury does not generate income from operations with assets, does not manage other people's funds, does not raise investment, and is neither an asset-management fund nor an investment intermediary.
 
-The people's internal unit of account **is traded nowhere**, is not listed on exchanges, and is not being prepared for listing; it serves internal turnover and gives no votes at any volume.
+The people's internal unit of account **is traded nowhere**, is not listed on exchanges, and is not being prepared for listing; it serves internal turnover and gives no votes whatever the amount held.
 
 The people runs its own household for itself; it does not provide financial services to anyone.
 
