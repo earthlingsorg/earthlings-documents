@@ -20,13 +20,13 @@ The contribution does not buy belonging: belonging arises by signing the Declara
 
 ### Will there be further payments later?
 
-No. The contribution is one-time: after the passport is received there are no annual and no monthly payments.
+No. The contribution is one-time: after the passport is received there are no annual or monthly payments.
 
 → [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html)
 
 ### And if I cannot pay?
 
-Then someone else will make the contribution for you. At the payment step there is a second button - "I need the contribution": it asks nothing and puts you in an open queue where only a number and a date are visible. Anyone may pay for the queue, but no one may choose whom exactly - what is paid is always the head of the queue. The passport you receive will be exactly like everyone else's: the registry does not record who paid for it. You will have to wait, but money will not close entry for good. More detail is in the document [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html).
+Then someone else will make the contribution for you. At the payment step there is a second button - "I need the contribution": it asks nothing and puts you in an open queue where only a number and a date are visible. Anyone may pay for the queue, but no one may choose whom to pay for - payment is always made for whoever is at the head of the queue. The passport you receive will be exactly like everyone else's: the registry does not record who paid for it. You will have to wait, but money will not close entry for good. More detail is in the document [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html).
 
 → [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html)
 
@@ -36,7 +36,7 @@ Yes. After receiving the passport there is no obligatory activity: you can remai
 
 Passive participation is full participation. Entering itself increases the size of the people, and with it the weight of its common voice - and that is already a contribution. Activity usually comes later, when a person sees that others' participation brings results.
 
-If you do nothing for a long time, your status becomes inactive: the right to vote is **retained in full** and is restored on your first action, and your vote simply stops counting towards the quorum, so as not to raise the requirement for everyone else.
+If you do nothing for a long time, your status becomes inactive: the right to vote is **retained in full** and is restored on your first action, and your vote simply stops counting towards the quorum, so as not to raise the quorum requirement for everyone else.
 
 → [Charter, Article 20](https://earth-lings.org/documents/en/en05-charter.html)
 
@@ -66,7 +66,7 @@ No. Your public name is a pseudonym you choose. The document data are checked on
 
 ### And if the data leak?
 
-The link between the real person and the pseudonym is not retained: only what you hold can be disclosed. What can be stolen are encrypted irreversible hashes, from which neither an image nor document data can be obtained. The stores are separated, encryption is AES-256, and notice of an incident is given within 72 hours.
+The link between the real person and the pseudonym is not retained: only what one holds can be disclosed. What can be stolen are encrypted irreversible hashes, from which neither an image nor document data can be obtained. The stores are separated, encryption is AES-256, and notice of an incident is given within 72 hours.
 
 → [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html)
 
@@ -90,9 +90,9 @@ The link between the data and your identity is broken, and the processing of per
 
 ### Can I be expelled?
 
-No. No procedure of expulsion exists under any circumstances and for any majority.
+No. No procedure of expulsion exists under any circumstances or for any majority.
 
-**And your vote cannot be taken away for your views.** Not for how you vote, not for disagreement with decisions, and not as a general punishment for breaking rules. The restrictions at five levels concern participation in Cells - the small working groups - the right to submit proposals, and access to services, but not the vote and not belonging.
+**And your vote cannot be taken away for your views.** Not for how you vote, not for disagreement with decisions, and not as a general punishment for breaking rules. The restrictions at five levels concern participation in Cells (the small working groups), the right to submit proposals, and access to services, but not the vote and not belonging.
 
 The single exception is a proven attack on the voting mechanism itself: collusion, buying or selling a vote, coercing others, an attempt to obtain a second passport. Then the vote is suspended for up to 6 months by a decision at 75 per cent, secret, with a right of defence and appeal. Opinions are never a ground.
 
@@ -146,7 +146,7 @@ The infrastructure is the same, and there is no sense in pretending otherwise. T
 
 Previous attempts broke on three things. One token, one vote: whoever has more funds decides. No identity verification: one person votes with many wallets. No unamendable foundation: the rules of voting themselves become the subject of a vote.
 
-Here the vote is tied to a confirmed living human being and does not depend on a balance; the unit of account gives no votes at any volume; organizations cannot be participants; and belonging, the equal vote, the right to leave, and the values are placed beyond voting altogether.
+Here the vote is tied to a confirmed living human being and does not depend on a balance; the unit of account gives no votes, whatever the amount held; organizations cannot be participants; and belonging, the equal vote, the right to leave, and the values are placed beyond voting altogether.
 
 Has this construction been tested at scale - no. We say only that the causes of failure in earlier attempts are named and that answers to them are built into the design.
 
@@ -162,7 +162,7 @@ No. Supporting tools help with the initial screening of applications and with an
 
 There is nothing to wait for and no one to wait on: no body that recognizes peoples exists for anyone. There is no register of peoples, and no people - not the Kurds, not the Palestinians, not the Sami - has ever gone through a procedure confirming its existence.
 
-There is something else. Legal cognizability - when a people is treated as a people where a specific question arises: at venues, in consultations, in proceedings. It accumulates through practice, time, numbers, and legal work, and all four depend on us rather than on someone else's authority. Whether this is fast or slow, no one promises; the arguments against us are examined without softening.
+There is something else. Legal cognizability - when a people is treated as a people where a specific question arises: at venues, in consultations, in proceedings. It accumulates through practice, time, the number of participants, and legal work, and all four depend on us rather than on someone else's authority. Whether this is fast or slow, no one promises; the arguments against us are examined without softening.
 
 → [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html)
 
