@@ -46,17 +46,17 @@ The Earthlings Treasury is the people's financial mechanism, governed through vo
 
 # SECTION 02. Sources of funds
 
-The principal source is the one-time contribution on entry, equivalent to 79 USD, paid on entering. This is a single payment: after the passport is received there are no annual or monthly payments. The contribution covers the cost of identity verification and passport issuance, goes to the Treasury, and is spent under the rules of Article 9.
+The principal source is the one-time contribution on entry, equivalent to 79 USD. This is a single payment: after the passport is received there are no annual or monthly payments. The contribution covers the cost of identity verification and passport issuance, goes to the Treasury, and is spent under the rules of Article 9.
 
 The contribution on entry should be distinguished from voluntary contributions and donations.
 
 ## Article 3 bis. Paying for another
 
-The contribution for a person may be made not by them but by another person or by the Treasury. There is no exemption from the contribution: it is always paid in full, and only who pays changes.
+The contribution for a person may be made not by them but by another person or by the Treasury. There is no exemption from the contribution: it is always paid in full; all that changes is who pays.
 
-**An open queue.** A person who cannot make the contribution themselves joins an open queue by a single action. No statement, no proof, and no explanation of reasons is required of them, or can be. Only the sequence number and the date of joining are published in the queue; no information about the person is published there.
+**An open queue.** A person who cannot make the contribution themselves joins an open queue by a single action. Neither a statement, nor proof, nor an explanation of reasons is required of them, and none may be required. Only the sequence number and the date of joining are published in the queue; no information about the person is published there.
 
-**Order of payment.** The head of the queue is what is paid. A particular person cannot be chosen: the possibility of choosing creates relations of patronage incompatible with the equality of participants. The payer is not told whom they paid for; the person paid for is not told who made the contribution for them.
+**Order of payment.** Payment is made for whoever is at the head of the queue. A particular person cannot be chosen: the possibility of choosing creates relations of patronage incompatible with the equality of participants. The payer is not told whom they paid for; the person paid for is not told who made the contribution for them.
 
 **Equality of passports.** The registry does not record by whom a contribution was made. A passport paid for by another person is in no way different from any other, and paying for another entails no consequences for status, vote, or participation.
 
@@ -76,7 +76,7 @@ Any earthling may make a voluntary contribution at any time - in the unit of acc
 
 The Treasury may accept grants and donations from external organizations subject to the following conditions:
 
-- **Transparency of source** - information about the donor is published unless they have chosen to remain anonymous; on an anonymous donation, the fact of receipt and the amount are published without identifying the source;
+- **Transparency of source** - information about the donor is published unless they have chosen to remain anonymous; where a donation is anonymous, the fact of receipt and the amount are published without identifying the source;
 - **No conditions** - grants must contain no conditions contrary to the principles of the people;
 - **No influence** - donors receive neither a vote nor influence over the decisions of the DAO. The size of a donation gives nothing beyond thanks.
 
@@ -112,9 +112,9 @@ The DAO Assembly may approve additional sources subject to transparency and inde
 
 ## Article 9. Structure of the annual budget
 
-The annual budget is allocated across five directions. The proportions are changed only by a qualified majority of the DAO Assembly.
+The annual budget is allocated across five categories. The proportions are changed only by a qualified majority of the DAO Assembly.
 
-| Share | Direction | Content |
+| Share | Category | Content |
 |---|---|---|
 | 25% | Platform | Servers, development, smart-contract audit, security, user experience |
 | 30% | Growth and communications | Information campaigns, content, media work, community growth, events and partnerships |
@@ -124,11 +124,11 @@ The annual budget is allocated across five directions. The proportions are chang
 
 ## Article 10. Allocation by support
 
-When several projects have passed the threshold of approval but the direction's funds are not enough for all of them, the order of funding is determined as follows (Charter, Article 11):
+When several projects have passed the threshold of approval but the category's funds are not enough for all of them, the order of funding is determined as follows (Charter, Article 11):
 
-1. Every earthling marks all the projects they consider worth funding - one, or all of them. The number of marks is not limited and costs nothing.
+1. Every earthling marks all the projects they consider worth funding - whether just one or all of them. The number of marks is not limited and costs nothing.
 2. The number of marks for each project is counted.
-3. Projects are funded in descending order of the number of marks, until the direction's annual limit is exhausted.
+3. Projects are funded in descending order of the number of marks until the category's annual limit is exhausted.
 4. Projects that receive no funding in the current cycle retain their approval and take part in the next allocation without a further vote.
 
 > **Why not quadratic voting.** It expresses the strength of a preference: a participant allocates a budget of credits and can put more weight into a project that matters to them than another participant does. Even with equal budgets this means that a vote can be **concentrated**.
@@ -164,9 +164,9 @@ The DAO Assembly is the sole body governing the Treasury. All decisions on the a
 
 **Factors:** regularity of participation in votes, successful delivery of funded projects, contribution to the development of the community, the quality of proposals, assessments by other participants.
 
-**Use:** reference information when choosing a delegate; a chronological feed of proposals, in which the author's reputation does not affect their place in the feed, and filtering by reputation is available as a viewing mode each person switches on for themselves.
+**Use:** reference information when choosing a delegate; a chronological feed of proposals, in which the author's reputation does not affect a proposal's place in the feed, and filtering by reputation is available as a viewing mode each person switches on for themselves.
 
-> **What reputation does not do:** the list is exhaustive in the [Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html). Applied to funding, this means that the order is determined by the number of supporters, not by the applicant's reputation.
+> **What reputation does not do:** the list is laid down exhaustively in the [Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html). Applied to funding, this means that the order of funding is determined by the number of supporters, not by the applicant's reputation.
 
 ## Article 14. Delegation
 
@@ -196,7 +196,7 @@ Delegation creates no additional influence: one delegated vote equals one vote, 
 | Emergency technical decisions | 51% | 20% | - | 48 hours |
 | Expedited procedure up to 1,000 EC | 51% | 20% | 3 days | 3 days |
 
-The threshold amounts are set by decision of the DAO Assembly and are changed without amending the Charter; the values given apply as at the adoption of this document.
+The threshold amounts are set by decision of the DAO Assembly and are changed without amending the Charter; the values given are those in force when this document was adopted.
 
 ## Article 16. Conflict of interest
 
@@ -210,11 +210,11 @@ No other grounds for excluding a vote exist: an earthling's vote is not excluded
 
 ## Article 17. Submitting and considering projects
 
-**Stage 1. Submission.** Any earthling submits a funding proposal. No prior approval and no threshold of support is required. The application contains a description, aims, budget, plan, the participants involved, and success metrics. The proposal is published for open discussion.
+**Stage 1. Submission.** Any earthling submits a funding proposal. Neither prior approval nor a threshold of support is required. The application contains a description, aims, budget, plan, the participants involved, and success metrics. The proposal is published for open discussion.
 
 **Stage 2. Discussion.** 14 days; 3 days for projects up to 1,000 EC. Questions to the authors, feedback, the opportunity to revise.
 
-**Stage 3. Voting.** By the periods and thresholds of Article 15. Every earthling has one vote. Results are recorded publicly.
+**Stage 3. Voting.** Under the periods and thresholds of Article 15. Every earthling has one vote. Results are recorded publicly.
 
 **Stage 4. Delivery.** On approval, funds are released automatically as smart contracts are deployed. Funding may be staged. Public reporting is mandatory at each stage.
 
@@ -232,7 +232,7 @@ If a stage is not completed, funding stops and unused funds are returned to the 
 
 ## Article 19. The DAO Assembly
 
-It comprises all verified Earthlings and is the sole body taking decisions on the Treasury.
+The Assembly comprises all verified Earthlings and is the sole body taking decisions on the Treasury.
 
 **Powers:** approving projects and grants; changing budget proportions; approving the annual budget; forming the Core Nodes and the Emergency Multisig; changing the rules for governing the Treasury; strategic decisions.
 
@@ -266,7 +266,7 @@ A group of up to 6 technical specialists elected by the DAO Assembly to keep the
 
 ## Article 22. Emergency Multisig
 
-A multisignature wallet of six participants for urgent technical operations in critical situations. A composition of fewer than six is not permitted: the five-sixths share rounds up to the whole number with a smaller composition, and a single unavailable key would block any contract upgrade (Charter, Article 3).
+A multisignature wallet of six participants for urgent technical operations in critical situations. A composition of fewer than six is not permitted: with a smaller composition the five-sixths share rounds up to the whole composition, and a single unavailable key would block any contract upgrade (Charter, Article 3).
 
 **Powers are strictly limited:** suspending smart contracts on critical vulnerabilities; emergency measures during cyberattacks; urgent technical fixes; emergency funding of up to 5,000 EC in force majeure, with mandatory subsequent confirmation by the DAO.
 
@@ -278,7 +278,7 @@ A multisignature wallet of six participants for urgent technical operations in c
 - **the DAO may reverse any action by a simple majority**;
 - every action is confirmed by the Assembly within 7 days or is reversed.
 
-**Formation:** election by a simple majority of the DAO; rotation every 12 months with the composition renewed by at least two people; **recall by a simple majority at any time**.
+**Formation:** election by a simple majority of the DAO; rotation every 12 months, with at least two of its members replaced; **recall by a simple majority at any time**.
 
 No reputational requirements are set for nomination: the choice is made by the Assembly.
 
@@ -304,7 +304,7 @@ The contractor takes no decisions on behalf of the people; its functions are lim
 
 ## Article 24. Composition of reserves
 
-> **The purpose of operations with assets.** The Treasury does not engage in generating income from operations with assets. Conversions and the distribution across asset classes are carried out solely in order to secure sufficient funds for current expenses and resilience to exchange-rate fluctuations. The Treasury is neither an asset-management fund nor an investment intermediary.
+> **The purpose of operations with assets.** The Treasury does not seek to generate income from operations with assets. Conversions and the distribution across asset classes are carried out solely in order to secure sufficient funds for current expenses and resilience to exchange-rate fluctuations. The Treasury is neither an asset-management fund nor an investment intermediary.
 
 The Treasury's reserves are formed from external assets:
 
@@ -313,7 +313,7 @@ The Treasury's reserves are formed from external assets:
 
 Changing the proportions requires a qualified majority of the DAO Assembly.
 
-> **Why the people's unit of account is not part of the reserves.** The unit of account is an internal instrument of coordination and mutual aid, not a reserve asset. Including it in reserves would mean that the Treasury's stability depends on the value of what it issues itself - a construction that collapses exactly when reserves are needed most. Besides, the share of one's own unit in reserves is measurable only if a market exists, and there is no market and no exchange trading in the unit of account.
+> **Why the people's unit of account is not part of the reserves.** The unit of account is an internal instrument of coordination and mutual aid, not a reserve asset. Including it in reserves would mean that the Treasury's stability depends on the value of what it issues itself - a construction that collapses exactly when reserves are needed most. Besides, the share of the people's own unit in reserves is measurable only if a market exists, and there is no market and no exchange trading in the unit of account.
 >
 > Funds denominated in the unit of account are accounted for separately from the reserves - as internal turnover, not as backing.
 
@@ -338,12 +338,12 @@ Smart-contract exploits; loss of funds through technical errors; risks of the ex
 ## Article 28. Procedure for accepting grants
 
 1. **Publication of the offer** - the grantor, the amount, the conditions.
-2. **Verification.** The circumstances of the grantor and the conditions of the grant are examined by an open working group with unlimited composition; where an Independent Council exists, it is entitled to publish its own opinion. Neither the group nor the Council takes decisions, and neither can block acceptance of a grant.
+2. **Verification.** The circumstances of the grantor and the conditions of the grant are examined by an open working group whose composition is not limited; where the Independent Council has been formed, it is entitled to publish its own opinion. Neither the group nor the Council takes decisions, and neither can block acceptance of a grant.
 3. **Discussion** - 14 days to assess possible conflicts of interest.
 4. **Voting** - 7 days, simple majority.
 5. **Public acceptance** - funds are credited with full transparency as to source.
 
-**It is prohibited to accept grants** from organizations connected with arms production or with military operations; from companies with proven human rights violations; from structures financing political parties and campaigns; from sources whose funds are of untransparent origin.
+**It is prohibited to accept grants** from organizations connected with arms production or with military operations; from companies with proven human rights violations; from structures financing political parties and campaigns; from sources whose funds are of opaque origin.
 
 ## Article 29. Joint projects
 
