@@ -20,7 +20,7 @@ EC does not solve the tasks that state money solves and does not try to replace 
 
 This is the main thing in the design, and everything else follows from it.
 
-**Identity** - the non-transferable passport. It confirms that a participant is a living human being and that they are one.
+**Identity** - the non-transferable passport. It confirms that a participant is a living human being and that there is only one of them.
 
 **The vote** - it follows from participant status. One person, one vote.
 
@@ -34,13 +34,13 @@ These three axes are deliberately separated. Identity does not depend on economi
 
 This is the most important section of the document.
 
-**It does not buy a vote.** Holding any quantity of EC does not increase a participant's weight in decisions. Voting is built on the principle of one person, one vote, tied to the passport and not to a balance. This is fixed as an unamendable principle in Article 37 of the Charter and is repealed by no majority.
+**It does not buy a vote.** Holding any quantity of EC does not increase a participant's weight in decisions. Voting is built on the principle of "one person, one vote", tied to the passport and not to a balance. This is fixed as an unamendable principle in Article 37 of the Charter and is repealed by no majority.
 
-**It does not open access to participation.** Neither the right to vote, nor the right to submit proposals, nor participation in Cells, nor the resolution of a dispute requires holding EC, locking it, or pledging it. Having no EC restricts a participant in nothing.
+**It does not open access to participation.** Neither the right to vote, nor the right to submit proposals, nor participation in Cells, nor the resolution of a dispute requires holding EC, locking it, or pledging it. Having no EC restricts a participant in no way.
 
 **It is not an investment product.** No promises of future value, dividends, a share of income, or guaranteed liquidity are given, and none can be.
 
-**It is not credited for entry.** Neither entering the people, nor the membership contribution, nor passing identity verification creates or credits EC by itself.
+**It is not credited for entry.** Neither entering the people, nor the membership contribution, nor undergoing identity verification creates or credits EC by itself.
 
 **It is not wages.** The Earthlings people is not an employer, and crediting EC creates no employment relationship. Whether a particular arrangement is recognized as an employment relationship is determined by the legislation of the participant's country, not by this document.
 
@@ -74,14 +74,14 @@ Specific tariffs and reward amounts are set by decisions of the DAO and publishe
 
 **Principles that do not change:**
 
-- the total volume of issuance is capped or capped under management; the arrangement is fixed in a smart contract before distributions begin;
+- the total volume of issuance is subject to a cap, either fixed or managed; the arrangement is fixed in a smart contract before distributions begin;
 - there are no hidden premines and no secret reserves;
 - all large distributions are publicly visible;
 - shares connected with the founders, the team, and early partners unlock in stages, under rules published before distributions begin and fixed in the contract.
 
-**Directions of distribution:** infrastructure development and security; funds for Cells and initiatives; rewards to participants for contribution; programmes with universities and non-profit and research organizations; maintaining the availability of the unit, if and when it comes into being.
+**Areas of distribution:** infrastructure development and security; funds for Cells and initiatives; rewards to participants for contribution; programmes with universities and non-profit and research organizations; maintaining the availability of the unit, if and when it comes into being.
 
-**Numerical parameters** - the volume of issuance, the shares, the unlock periods - are not determined as of today. They are approved by the DAO Assembly and published before distributions begin. Until then, any figures named in the project's name or by anyone else are unreliable.
+**Numerical parameters** - the volume of issuance, the shares, the unlock periods - are not determined as of today. They are approved by the DAO Assembly and published before distributions begin. Until then, any figures given on behalf of the project or by anyone else are unreliable.
 
 ---
 
@@ -116,7 +116,7 @@ Everything described above is the target design, not a state that has been reach
 
 This question is asked more often than any other, so the answer is stated plainly and in full.
 
-**Today there is no trading**, and none is contemplated in any foreseeable arrangement: the unit serves internal turnover.
+**Today there is no trading**, and none is contemplated for the foreseeable future: the unit serves internal turnover.
 
 **In the future exchange availability is possible**, if the ecosystem grows and it is warranted - but it is **not promised, not guaranteed, and not an aim of the design**. The decision to list is taken by independent venues and regulators, not by the Earthlings people.
 
@@ -142,7 +142,7 @@ Named here are the risks that are real, not those it is customary to list.
 
 **Insufficient growth of the ecosystem.** If participants remain few, the usefulness of the unit will be limited regardless of the quality of its design.
 
-**Compromise of the multisignature.** Seizing a majority of the keys gives control over operations. Reduced by publicity of signatories, rotation, delays, and hardware wallets.
+**Compromise of the multisignature.** Seizing a majority of the keys gives control over operations. Reduced by the signatories being public, rotation, delays, and hardware wallets.
 
 **User error.** Loss of keys and transfers to a wrong address are irreversible.
 
@@ -168,11 +168,11 @@ Named here are the risks that are real, not those it is customary to list.
 
 Earthlings Coin is designed as a utility unit, not as a security, a means of payment, or a stablecoin: it gives access to services, promises no income, provides for no dividends, and distributes no profit.
 
-**Before the contract is deployed**, the applicability is assessed of the EU Markets in Crypto-Assets Regulation (MiCA, Regulation (EU) 2023/1114) and of other applicable regimes; its result is published. Depending on the outcome, restrictions may be introduced for residents of particular jurisdictions - including a complete prohibition where the law or sanctions regimes require it.
+**Before the contract is deployed**, an assessment is made of whether the EU Markets in Crypto-Assets Regulation (MiCA, Regulation (EU) 2023/1114) and other relevant regimes apply; the result is published. Depending on the outcome, restrictions may be introduced for residents of particular jurisdictions - including a complete prohibition where the law or sanctions regimes require it.
 
 **Identification and anti-money-laundering.** The holders of the unit are confirmed participants of the people who have passed identity verification; the unit does not contemplate anonymous circulation. Records of operations are held in a distributed ledger in pseudonymous form, and identity verification is carried out off-chain by the people's own system, which retains no raw biometric data and no scans of documents - see the [Biometric Verification Policy](https://earth-lings.org/documents/en/en16-biometric-verification.html). In any external circulation of the unit, the applicable AML/CFT requirements and customer-identification rules are observed to the extent prescribed by the jurisdiction of the venue concerned.
 
-**Before launch there will be published** terms of use, terms for handling the unit, and a personal data processing policy. The rules of governance are contained in the Charter.
+**Before launch there will be published:** terms of use, terms for handling the unit, and a personal data processing policy. The rules of governance are contained in the Charter.
 
 The project intends to obtain opinions from qualified lawyers in key jurisdictions before launch. The list of jurisdictions and of those engaged will be named when the arrangements have been made, not in advance.
 
