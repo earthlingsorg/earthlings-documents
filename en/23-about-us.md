@@ -164,4 +164,4 @@ The entire institutional infrastructure of Earthlings is available for public ve
 
 - The SBT smart contract on Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - The Safe Multisig treasury on Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- The documentary corpus: 23 institutional documents in 9 languages ([all documents](/en/)).
+- The documentary corpus: 25 institutional documents in 9 languages ([all documents](/en/)).

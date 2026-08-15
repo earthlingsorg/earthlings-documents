@@ -164,4 +164,4 @@ DAO опирается на три фундаментальных принцип
 
 - Смарт-контракт SBT в Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - Казна Safe Multisig в Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- Документарный корпус: 23 институциональных документа на 9 языках ([все документы](/ru/)).
+- Документарный корпус: 25 институциональных документов на 9 языках ([все документы](/ru/)).
