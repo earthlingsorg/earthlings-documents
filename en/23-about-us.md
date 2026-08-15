@@ -8,9 +8,9 @@ Earthlings is a working operational implementation of a voluntarily self-organiz
 
 The project's founding documents describe this model as the architecture of a society in which power accumulates at no single point. Earthlings brings together people from different countries around the Declaration of Self-Determination - an unamendable founding core that no majority can rewrite - and around a digital infrastructure providing verified participation on the principle of "one person, one vote" at planetary scale.
 
-The architecture of Earthlings is designed as a single institutional system rather than assembled from off-the-shelf components. For engagement with the existing legal system the people, through authorized representatives, uses registered legal structures and other legal instruments - replaceable external interfaces of engagement. The people itself is governed through its own DAO infrastructure.
+The architecture of Earthlings is designed as a single institutional system rather than assembled from off-the-shelf components. For engagement with the existing legal system the people, through authorized representatives, uses registered legal structures and other legal instruments - replaceable external interfaces for engagement. The people itself is governed through its own DAO infrastructure.
 
-25 founding documents in nine languages, four production sites covering the full operational cycle, and an on-chain identity together with a publicly verifiable treasury make up Earthlings in its current institutional state.
+Twenty-five founding documents in nine languages, four production sites covering the full operational cycle, and an on-chain identity together with a publicly verifiable treasury make up Earthlings in its current institutional state.
 
 The infrastructure of self-government - the registry, identity verification, voting, Cells, the internal economy, and the treasury - is built, deployed, and tested in a working environment. The people is in its founding phase: entry is opening, and from the first day the whole practice of self-government - votes, decisions, movements of funds - is recorded in a public chronicle. The body that by its nature requires an established membership - the Independent Council - is formed once that membership is in place; until then it is provided for by the founding documents.
 
@@ -22,7 +22,7 @@ The economic level is deliberately separated from governance and from identifica
 
 EC is the utility token of the ecosystem: it provides access to platform services, rewards contribution in Cells, and is used to fund collective initiatives.
 
-A quantity of EC is as a matter of principle not convertible into influence over governance. Wealth and the vote exist as separate architectural axes rather than being merged into a single token-weighted variable, as in most DAO models.
+The quantity of EC a person holds is, as a matter of principle, not convertible into influence over governance. Wealth and the vote exist as separate architectural axes rather than being merged into a single token-weighted variable, as in most DAO models.
 
 EC is not a security and not an investment instrument. It is not legal tender and is not electronic money; within the ecosystem it serves as a unit of account for services and contribution.
 
@@ -111,7 +111,7 @@ The detailed legal model is set out in the document [Legal Basis](/documents/en/
 
 ### The Independent Council
 
-The Independent Council, as described in the "Earthlings Charter" and in the dedicated document [The Earthlings Independent Council](/documents/en/en11-independent-council.html), is conceived as a body of seven to eleven experts drawn from Earthlings who take no part in the operational governance of the people, in the fields of:
+The Independent Council, as described in the "Earthlings Charter" and in the dedicated document [The Earthlings Independent Council](/documents/en/en11-independent-council.html), is conceived as a body of seven to eleven Earthlings who take no part in the operational governance of the people and who have recognized expertise in the fields of:
 
 - ecology;
 - law;
