@@ -15,7 +15,7 @@ The Earthlings digital platform is the core in which four levels of the people c
 - **projects and Cells** - initiating, forming, coordinating, carrying out, and recording results;
 - **the economy of participation** - the unit of account, the common fund, reward for contribution.
 
-The platform is not a social network or one more blockchain system. It is the instrument through which the Earthlings people can exist: with infrastructure that is transparent and at the same time careful with the human being.
+The platform is not a social network or one more blockchain system. It is the instrument through which the Earthlings people can exist: with infrastructure that is transparent and at the same time protective of the person.
 
 The main task is to make participation practical, safe, and honest: from the first signing of the Declaration to the delivery of complex international projects.
 
@@ -33,7 +33,7 @@ The architecture is built on a multi-layer principle. Each layer solves its own 
 
 **3. Data level.** Profile stores, project metadata, Cell statuses, DAO configurations, voting results, event logs. The principles of minimization, separation, and "collect nothing superfluous".
 
-**4. Identity and trust level.** The in-house system of identity verification, the issuance and accounting of non-transferable identity tokens, the recording of the Declaration's signing. This layer is isolated and protected to the maximum degree.
+**4. Identity and trust level.** The people's own identity-verification system, the issuance and accounting of non-transferable identity tokens, the recording of the Declaration's signing. This layer is isolated and protected to the maximum degree.
 
 **5. Level of the economy of participation.** The infrastructure of the unit of account, the common fund, the distribution of rewards, integration with projects and Cells.
 
@@ -61,13 +61,13 @@ The limits on the use of AI are set by Article 10 of the Declaration: no digital
 
 ---
 
-# SECTION 03. Identity: confirming the person and the non-transferable passport
+# SECTION 03. Identity: identity verification and the non-transferable passport
 
 Identity is built around a non-transferable digital passport (SBT) linked to a confirmed person. A strict separation is observed:
 
-- biometrics and documents are processed by the in-house identity-verification system in real time;
+- biometrics and documents are processed by the people's own identity-verification system in real time;
 - the platform receives only the fact that verification succeeded, not raw biometric data or scans;
-- after verification, a passport confirming their status is issued to the participant's address;
+- after verification, a passport confirming the participant's status is issued to their address;
 - one person, one passport; the passport is not transferred, not sold, and not taken away.
 
 ### Separating the axes: identity, vote, economy
@@ -76,7 +76,7 @@ The architecture requires that identity, the vote, and the economic trace not me
 
 - **identity** is set by the passport and by identity verification;
 - **the vote** follows from earthling status: one person, one vote;
-- **economic activity** is reflected in the unit of account and gives no additional votes at any volume.
+- **economic activity** is reflected in the unit of account and gives no additional votes, whatever its volume.
 
 ### Burning a passport
 
@@ -134,7 +134,7 @@ The platform supports the full cycle: from the appearance of an idea to the comp
 
 **5. Completion and recording.** The platform records the result, distributes rewards where they are provided for, updates the status of participants, and reflects the project's contribution on the general map of activity.
 
-> **On the division into professional and project Cells.** The Charter knows one form - a Cell of two to six people. The division into standing professional groupings by competence and temporary project teams is **a technique for organizing work on the platform**, not a separate structure of the people. It may be changed by decision of the Assembly and creates no organs, no powers, and no representation: no Cell has a collective vote or speaks on behalf of other participants.
+> **On the division into professional and project Cells.** The Charter recognizes one form - a Cell of two to six people. The division into standing professional groupings by competence and temporary project teams is **a technique for organizing work on the platform**, not a separate structure of the people. It may be changed by decision of the Assembly and creates no organs, no powers, and no representation: no Cell has a collective vote or speaks on behalf of other participants.
 
 ---
 
@@ -146,15 +146,15 @@ Every participant holding a passport and having signed the Declaration has one v
 
 **The right to vote cannot be restricted for a person's views, for how they voted, or as a general measure of liability** (Declaration, Article 10; Charter, Articles 17 and 37). The restrictions provided for by Article 22 of the Charter affect participation in Cells, the right to submit proposals, and access to particular services, but not the vote and not access to votes themselves.
 
-The only case in which the platform executes a suspension of the vote is a decision of the Assembly under Article 22 bis of the Charter for proven subversion of the integrity of voting, for a period of no more than 6 months. The platform executes such a decision and can neither initiate it, nor apply it on any other ground, nor extend it.
+The only case in which the platform executes a suspension of the vote is a decision of the Assembly under Article 22 bis of the Charter for proven undermining of the integrity of voting, for a period of no more than 6 months. The platform executes such a decision and can neither initiate it, nor apply it on any other ground, nor extend it.
 
 ## Openness and secrecy
 
 As a general rule votes are open: the fact of participation and the expression of will are available for verification by all participants. Openness is the way to be sure the count is honest.
 
-But transparency extends to the acts of institutions, not to the personal data of people. The platform is therefore obliged to support **secret voting with a verifiable count**: the result is verified by everyone, and the link between a vote and the voter is disclosed to no one, including those who operate the platform. When the secret mode applies is set out in the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
+But transparency extends to the actions of institutions, not to the personal data of people. The platform is therefore obliged to support **a secret ballot with a verifiable count**: the result is verified by everyone, and the link between a vote and the voter is disclosed to no one, including those who operate the platform. The cases in which the secret mode applies are set out in the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
 
-Secret voting applies:
+A secret ballot applies:
 
 - **as a requirement** - when a restriction of powers is under consideration and on annulment of an invalid passport issuance;
 - **by decision of the Assembly** - for particular questions or categories, in particular those touching the people's position on the acts of states and on international questions.
@@ -171,7 +171,7 @@ The platform supports transferring a vote in a particular area to another partic
 - **a ceiling** - 5 per cent of participants, but no fewer than 10 delegators;
 - **one active delegation per area** - a second is impossible without revoking the first;
 - **revocation in one step** - at any time, without giving reasons and without the consent of the person the vote was given to;
-- **questions with no delegation** - amending the Charter and the basic treasury rules, funding above a set threshold, forming the Emergency Multisig, restricting powers, and annulling a passport: on these one votes only in person.
+- **questions with no delegation** - amending the Charter and the basic treasury rules, funding above a set threshold, forming the Emergency Multisig, restricting powers, and annulling a passport: on these, votes are cast only in person.
 
 Any earthling may be a delegate: the only selection is the choice made by the delegator (Charter, Article 7).
 
@@ -181,7 +181,7 @@ All proposals are displayed **in chronological order of submission**. The author
 
 Automatic prioritization of proposals would form the agenda without any formal responsibility for it, and is therefore not implemented in the platform.
 
-## What the platform does within the DAO circuit
+## What the platform does within the DAO
 
 - an interface for voting and discussion;
 - public recording of decisions taken and of their execution status;
@@ -230,20 +230,20 @@ The platform is built with the principles of the GDPR and comparable standards i
 
 Honesty is needed here, not a promise that cannot be kept.
 
-Data held in the platform's databases are corrected and deleted at a participant's request. Entries in a distributed ledger are by their nature not deletable - and that is precisely why there are no personal data in it: what is there are pseudonymous addresses and marks of actions, not a name, not a document, and not biometrics.
+Data held in the platform's databases are corrected and deleted at a participant's request. Entries in a distributed ledger are by their nature not deletable - and that is precisely why there are no personal data in it: they hold pseudonymous addresses and marks of actions, not a name, not a document, and not biometrics.
 
-On exit the passport is burned, and a pseudonymous mark remains in the ledger that membership existed during a particular period. This is a fact of the past, not a continuing membership. This model matches the practice settled in European disputes over church registers: the entry is preserved, the status is marked.
+On exit the passport is burned, and a pseudonymous mark remains in the ledger recording that membership existed during a particular period. This is a fact of the past, not a continuing membership. This model matches the practice settled in European disputes over church registers: the entry is preserved; the status is marked.
 
 Freedom of association does not require the erasure of history: renouncing citizenship does not destroy state archives.
 
 ### Identity verification and data protection
 
-- biometrics and documents are processed by the in-house system at the moment of verification; images and scans are not retained;
+- biometrics and documents are processed by the people's own system at the moment of verification; images and scans are not retained;
 - the platform receives only the technical result: success or failure;
 - on requests from state authorities, the people may confirm the fact of a participant's status where there are lawful grounds, but does not disclose biometric data, which it does not hold;
 - entries in the registry follow the principle of pseudonymity and of minimizing personal links.
 
-The platform is not built as a system of total accounting. It aims to become an example of careful handling of data in an age when almost everything is technically possible.
+The platform is not built as a system of total record-keeping. It aims to become an example of careful handling of data in an age when almost everything is technically possible.
 
 ---
 
@@ -265,21 +265,21 @@ The platform is not tied forever to a single technology stack. Through any migra
 
 # SECTION 10. Stages of implementation
 
-Both how the target architecture is arranged and how to get there are essential.
+Both how the target architecture is arranged and how it is to be reached are essential.
 
 **Stage 1. The core - built and deployed.**
-The personal account, signing the Declaration, the map of projects, Cell statuses, the voting mechanism, integration with the in-house identity-verification system. The minimum of functions sufficient to begin.
+The personal account, signing the Declaration, the map of projects, Cell statuses, the voting mechanism, integration with the people's own identity-verification system. The minimum of functions sufficient to begin.
 
 **Stage 2. Cells and projects - built and deployed.**
 The cycle of work with Cells: applications, formation, delivery, recording of results. Supporting AI tools for analysing initiatives.
 
-**Stage 3. Filling with practice - still ahead.**
-Regular substantive votes, secret voting with a verifiable count, delegation by area, working funds, a wider range of uses for the unit of account. Filling begins when entry opens and proceeds as the number of participants grows.
+**Stage 3. Filling it with practice - still ahead.**
+Regular substantive votes, a secret ballot with a verifiable count, delegation by area, working funds, a wider range of uses for the unit of account. Filling begins when entry opens and proceeds as the number of participants grows.
 
 **Stage 4. External engagement - still ahead.**
 Engagement with international organizations, universities, and research centres. Provision of aggregated data for the analysis of global processes. Participation of the people in discussing questions that go beyond a single country.
 
-> **On the boundary of the fourth stage.** What is meant is the right to be heard, not power in the decision. The platform does not become and cannot become a place where decisions binding on anyone other than Earthlings themselves are taken. The competences of states are not affected (Declaration, Article 7).
+> **On the boundary of the fourth stage.** What is meant is the right to be heard, not power in the decision. The platform does not become and cannot become a place where decisions binding on anyone other than Earthlings themselves are taken. The powers of states are not affected (Declaration, Article 7).
 
 The division into what is built and what is still ahead is given honestly: the infrastructure exists and has been tested in a working environment, but its evidentiary and practical value arises as participation accumulates, not at the moment of deployment.
 
