@@ -11,7 +11,7 @@
 - you can return at any time after leaving;
 - a pseudonym instead of your real name is your choice;
 - biometrics serve trust, not control;
-- an in-house verification system, separated stores, data minimization.
+- the people's own verification system, separated stores, data minimization.
 
 ---
 
@@ -23,7 +23,7 @@ They serve one purpose: to confirm that behind every vote stands one living, uni
 
 ## The person, not the documents
 
-The human being matters more than documents. Your belonging to the people is determined by your free choice, not by a passport or a citizenship. The task of verification is not recognition from outside but the confirmation of a simple fact: you are you, and you are one.
+The human being matters more than documents. Your belonging to the people is determined by your free choice, not by a passport or citizenship. The task of verification is not recognition from outside but the confirmation of a simple fact: you are you, and there is only one of you.
 
 ## Four principles
 
@@ -33,7 +33,7 @@ The human being matters more than documents. Your belonging to the people is det
 
 **3. Trust through verification.** In a community without a central authority, confirmed uniqueness creates a basic layer of trust. This does not guarantee good faith in any particular dealing, but it removes anonymous multiplicity of accounts as a source of manipulation.
 
-**4. Protection against abuse.** The separation of stores, encryption, and the practical impossibility of reconstructing an image from the data retained are designed so that the system cannot be used for mass observation.
+**4. Protection against abuse.** The separation of stores, encryption, and the practical impossibility of reconstructing an image from the data retained are designed so that the system cannot be used for mass surveillance.
 
 ---
 
@@ -63,7 +63,7 @@ Verification is voluntary. You are entitled to withdraw your consent at any time
 
 # SECTION 03. Conditions for obtaining status
 
-- **age** - having reached the age of 18;
+- **age** - 18 years or over;
 - **consent** - voluntary acceptance of the Declaration;
 - **identity verification** - confirmation of uniqueness;
 - **the passport** - issuance of a non-transferable token to your address.
@@ -76,7 +76,7 @@ The full list and the legal bases are in the Privacy Policy. Verification requir
 - **an email address** - for contact;
 - **verification of a document and of the face**.
 
-**Your real first and last name are not retained.** The document data are used only at the moment of verification - to match the face against the document and confirm uniqueness - and are deleted once it is complete. Your pseudonym remains your public name.
+**Your real first and last names are not retained.** The document data are used only at the moment of verification - to match the face against the document and confirm uniqueness - and are deleted once it is complete. Your pseudonym remains your public name.
 
 ## What the status gives
 
@@ -128,7 +128,7 @@ The general measures are described in the Privacy Policy; below are those specif
 
 **Immediate deletion of source material.** Photographs and scans are deleted immediately after the check is complete.
 
-**Access control.** Multi-level authentication and logging: every access to verification data are recorded and can be audited.
+**Access control.** Multi-level authentication and logging: every access to verification data is recorded and can be audited.
 
 > **The security philosophy:** the best protection is when there is nothing to steal. We do not store what could be used against you.
 
@@ -140,7 +140,7 @@ The general rights of a participant are in the Privacy Policy and the Terms of U
 
 **Withdraw consent** - at any time; the procedure and consequences are described in section 02.
 
-**Pass verification again.** If your appearance has changed significantly and verification does not recognize you, you go through it again. The template is not "updated" in the process: it is stored nowhere, and the matching is performed from scratch every time.
+**Undergo verification again.** If your appearance has changed significantly and verification does not recognize you, you go through it again. The template is not "updated" in the process: it is stored nowhere, and the matching is performed from scratch every time.
 
 **Demand review by a human being.** An automated refusal is not final (Article 22 of the GDPR). You are entitled to state your position and to contest the result. After two unsuccessful automated attempts the case passes to a human being **without a separate request**. The number of repeat applications is not limited.
 
@@ -162,7 +162,7 @@ The list is exhaustive: no processing for other purposes takes place.
 - confirming uniqueness on registration;
 - issuing the passport;
 - confirming participant status;
-- securing the principle of one person, one vote in votes;
+- securing the principle of "one person, one vote" in votes;
 - access to services requiring confirmed status.
 
 > **What we do not do.** We do not track location. We do not analyse behaviour. We do not sell data to third parties. We do not build profiles for advertising. We do not use the system for observation. We do not transfer data to state authorities other than under a court decision in force or an equivalent lawful requirement, whose legitimacy is checked in every case.
@@ -179,12 +179,12 @@ The code of the passport smart contract is open under the MIT licence and verifi
 
 **The code of the identity verification system is closed** - precisely because it works with personal data and publishing it would make it easier to circumvent the protections. This is a deliberate choice, not a silence; the list with the reasons is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html).
 
-In exchange for that closedness we take on the following:
+In exchange for keeping it closed we take on the following:
 
 - **an independent security audit** is planned before operations are expanded; the report is published;
 - **technical documentation** is available for study;
 - **security reports** are published regularly;
-- **access logging** for verification data are maintained and subject to audit.
+- **access logging** for verification data is maintained and subject to audit.
 
 ## Independent oversight
 
@@ -226,24 +226,24 @@ Photographs and scans are deleted immediately after verification, but its result
 No. The biometric template is not retained at all: the comparison is performed at the moment of verification, after which the source data are deleted. What remains are irreversible hashes from which neither an image nor document data can be obtained.
 
 **What happens if I lose my phone?**
-The verification data are safe. To restore access it is enough to install the application on a new device and pass verification again.
+The verification data are safe. To restore access it is enough to install the application on a new device and undergo verification again.
 
 **Can my biometrics be stolen?**
 Only encrypted irreversible hashes can be stolen, and they are useless without the decryption keys. Reconstructing a facial image from them is practically impossible.
 
 **Do I have to give my real name?**
-No. Your real first and last name are not retained. The document data are checked only at the moment of verification and are deleted afterwards. In everyday interaction you are known by your pseudonym.
+No. Your real first and last names are not retained. The document data are checked only at the moment of verification and are deleted afterwards. In everyday interaction you are known by your pseudonym.
 
 **What happens to the data when I leave?**
 The link between the verification data and your identity is broken. Pseudonymized hashes are retained solely so that one person cannot hold two valid passports. This does not prevent you from returning.
 
 **What if my appearance has changed significantly?**
-Pass verification again. There is no stored template that would need updating.
+Undergo verification again. There is no stored template that would need updating.
 
 **What if verification is refused?**
 You will receive notice of the reasons. You can try again once they are addressed - for example, with better-quality images or a different document. If you disagree, you are entitled to demand review by a human being, and after two unsuccessful automated attempts such review happens automatically.
 
-**Who has access to my real first and last name?**
+**Who has access to my real first and last names?**
 No one: they are not stored. The people is technically unable to disclose data it does not hold.
 
 **Do you pass data to states?**
