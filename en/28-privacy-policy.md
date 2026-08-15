@@ -2,7 +2,7 @@
 
 **In force from the moment of publication**
 
-> Where this Policy diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. The processing of biometric data are described separately, in the [Biometric Verification Policy](https://earth-lings.org/documents/en/en16-biometric-verification.html), and where they diverge on that subject it is that Policy which applies.
+> Where this Policy diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. The processing of biometric data is described separately, in the [Biometric Verification Policy](https://earth-lings.org/documents/en/en16-biometric-verification.html), and where they diverge on that subject it is that Policy which applies.
 
 ## Our principles
 
@@ -16,7 +16,7 @@
 
 # SECTION 01. Who is responsible for your data
 
-**Controller of personal data.** At the structure-formation stage the functions of the controller are performed by the founders of the project. As institutional development proceeds, the function is handed over to a structure, and its details are published here.
+**Controller of personal data.** At the structure-formation stage the functions of the controller are performed by the founders of the project. As institutional development proceeds, the function is handed over to a structure, and its registration particulars are published here.
 
 Requests concerning data subject rights: **privacy@earth-lings.org**
 
@@ -26,7 +26,7 @@ Requests concerning data subject rights: **privacy@earth-lings.org**
 
 **Purpose limitation.** Data collected for one purpose are not used for another. The list of purposes in section 03 is exhaustive.
 
-**Intelligibility.** Every decision about collecting or using data are explained in ordinary words. If an explanation requires a legal education, then the explanation is a bad one.
+**Intelligibility.** Every decision about collecting or using data is explained in ordinary words. If an explanation requires a legal education, then the explanation is a bad one.
 
 Most platforms treat personal data as a commodity. We treat them as part of human dignity.
 
@@ -76,7 +76,7 @@ The details are in the [Biometric Verification Policy](https://earth-lings.org/d
 
 **Why:** the working of the infrastructure and your participation in decisions.
 
-Entries in the ledger are by the nature of the technology not deletable - and that is precisely why there are no personal data in them: what is there are pseudonymous addresses and marks of actions, not a name, not a document, and not biometrics.
+Entries in the ledger are by the nature of the technology not deletable - and that is precisely why there are no personal data in them: they hold pseudonymous addresses and marks of actions, not a name, not a document, and not biometrics.
 
 > **How this relates to the right to erasure** (Art. 17 GDPR). The right to erasure is exercised where data are held by us: the account, the results of identity verification, the platform logs - all of this is deleted at your request, and after deletion a ledger entry cannot be linked to you. The ledger entry itself is not deleted, because no one can delete it, ourselves included: it is not under our control and contains no data by which you could be identified. We do not claim that this exhaustively resolves the question - the relationship between immutable ledgers and the right to erasure is not settled in the practice of supervisory authorities. We chose a construction in which no personal data enter the immutable part at all.
 
@@ -168,7 +168,7 @@ The infrastructure is built so that no single point exists whose compromise woul
 
 **Rectification.** To correct inaccurate or incomplete data.
 
-**Erasure.** To delete data outside the distributed ledger. Entries in the ledger are by the nature of the technology not deletable; on exit the passport is burned, and a pseudonymous mark remains in the ledger that membership existed during a particular period. This is a fact of the past, not a continuing membership.
+**Erasure.** To delete data outside the distributed ledger. Entries in the ledger are by the nature of the technology not deletable; on exit the passport is burned, and a pseudonymous mark remains in the ledger recording that membership existed during a particular period. This is a fact of the past, not a continuing membership.
 
 **Restriction of processing** (Art. 18 GDPR). To require processing to be suspended while the accuracy of data or the merits of an objection are checked.
 
@@ -178,7 +178,7 @@ The infrastructure is built so that no single point exists whose compromise woul
 
 **Withdrawal of consent** (Art. 7(3) GDPR). To withdraw consent to the processing of biometric data or to mailings at any time. Withdrawal does not affect the lawfulness of processing before it was received; the consequences are described in the Biometric Verification Policy.
 
-**Decisions without automation** (Art. 22 GDPR). You are entitled not to be subject to a decision based solely on automated processing and producing significant consequences for you.
+**Freedom from purely automated decisions** (Art. 22 GDPR). You are entitled not to be subject to a decision based solely on automated processing and producing significant consequences for you.
 
 > **What this means in practice.** An automated refusal of identity verification is not final: you are entitled to state your position and to demand review by a human being, and after two unsuccessful automated attempts the review is carried out **without a separate request**.
 >
