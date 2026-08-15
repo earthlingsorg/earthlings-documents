@@ -8,11 +8,11 @@
 
 # SECTION 01. Introduction
 
-The Earthlings DAO is a decentralized autonomous organization, the institutional core of governance for the Earthlings people. It provides for collective decision-making, transparent allocation of resources, and coordination of action among participants and Cells without centralized authority, parties, or officeholders.
+The Earthlings DAO is a decentralized autonomous organization, the institutional core of governance for the Earthlings people. It secures collective decision-making, transparent allocation of resources, and coordination of action among participants and Cells without centralized authority, parties, or officeholders.
 
-The DAO Assembly is the **sole body that takes binding decisions**. All the other structures provided for by the Charter give technical support, emergency protection of the system, or recommendations, but take no decisions on behalf of the people and cannot block them.
+The DAO Assembly is the **sole body that takes binding decisions**. All the other structures provided for by the Charter provide technical support and emergency protection of the system, or give recommendations, but take no decisions on behalf of the people and cannot block the Assembly's decisions.
 
-Unlike classical hierarchical systems, the Earthlings DAO rests on three supports: the confirmed uniqueness of every participant, the principle of one person, one vote, and predictable procedural rules applied equally to all. The DAO does not replace states and international institutions; it creates an additional layer of coordination in the transnational space of the people.
+Unlike classical hierarchical systems, the Earthlings DAO rests on three supports: the confirmed uniqueness of every participant, the principle of "one person, one vote", and predictable procedural rules applied equally to all. The DAO does not replace states and international institutions; it creates an additional layer of coordination in the transnational space of the people.
 
 ---
 
@@ -22,15 +22,15 @@ Unlike classical hierarchical systems, the Earthlings DAO rests on three support
 
 Key processes - from votes to the allocation of resources - are recorded in verifiable logs and, where required, in a distributed ledger. The rules are open to analysis, and voting results can be independently re-checked by any participant or external auditor. There are no closed procedures and no hidden protocols.
 
-Transparency, however, extends to the acts of institutions, not to the personal data of people: how a particular person voted may be closed where openness would put them at risk (section 05).
+Transparency, however, extends to the actions of institutions, not to the personal data of people: the expression of will of a particular person may be closed where openness would put them at risk (section 05).
 
 ### Equality of participants
 
-Every earthling has an equal vote on the principle of one person, one vote. Reputation, contribution, and experience may be taken into account in discussion, but are not converted into additional weight of vote, open access to no role, and create no privileged classes of participant.
+Every earthling has an equal vote on the principle of "one person, one vote". Reputation, contribution, and experience may be taken into account in discussion, but are not converted into additional voting weight, do not open access to any role, and create no privileged classes of participant.
 
 **The vote is inalienable.** The right to vote cannot be taken away or suspended for a person's views, for how they voted, for disagreement with decisions, or as a general measure of liability (Declaration, Article 10; Charter, Articles 17 and 37). The restrictions provided for by Article 22 of the Charter affect participation in Cells, the right to submit proposals, and access to particular services, but not the vote.
 
-The single exception is proven acts aimed at undermining the integrity of the voting itself: collusion, buying or selling a vote, coercing others, circumventing the rule of one person, one passport (Charter, Article 22 bis). Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
+The single exception is proven acts aimed at undermining the integrity of the voting itself: collusion, buying or selling a vote, coercing others, circumventing the rule of "one person, one passport" (Charter, Article 22 bis). Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
 
 ### Decentralization
 
@@ -52,11 +52,11 @@ Decisions, discussions, and their consequences are preserved in a single histori
 
 # SECTION 03. Architecture
 
-**Identity layer.** Every vote is tied to a confirmed participant whose status is fixed by a non-transferable passport. This secures the principle of one person, one vote and makes the creation of multiple accounts practically impossible.
+**Identity layer.** Every vote is tied to a confirmed participant whose status is fixed by a non-transferable passport. This secures the principle of "one person, one vote" and makes the creation of multiple accounts practically impossible.
 
 **Governance layer.** The processes of initiating, discussing, and taking decisions are formalized. Every earthling is entitled to submit proposals, take part in votes, and initiate a review of decisions previously taken.
 
-**Incentive layer.** The internal unit of account is used for coordination and for assessing contribution. It gives no additional votes and does not become a source of power at any volume.
+**Incentive layer.** The internal unit of account is used for coordination and for assessing contribution. It gives no additional votes and does not become a source of power however much of it a person holds.
 
 **Coordination layer.** Cells use the DAO infrastructure to coordinate their actions. Decisions are formed from the bottom up: through the activity of Cells and the participation of people.
 
@@ -68,7 +68,7 @@ The architecture is arranged so that no technical subsystem - a server, an inter
 
 ## Everyone decides everything
 
-All Earthlings have the right to vote on any question put to the Assembly. No binding decision is taken without the participation of the community, and no structure votes in its place.
+All Earthlings have the right to vote on any question put to the Assembly. No binding decision is taken without the participation of the community, and no structure votes in the community's place.
 
 ## Delegation by area
 
@@ -84,13 +84,13 @@ The restrictions laid down by Article 7 of the [Charter](https://earth-lings.org
 - **a ceiling** - 5 per cent of Earthlings, but no fewer than 10 delegators, so the 5 per cent limit begins to bind only above a membership of 200;
 - **one active delegation per area** - a second is impossible without revoking the first;
 - **revocation at any time** - in one step, without reasons and without the delegate's consent;
-- **questions with no delegation** - amending the Charter and the basic treasury rules, major funding, forming the Emergency Multisig, restricting powers, suspending the right to vote, and annulling a passport: on these one votes only in person.
+- **questions with no delegation** - amending the Charter and the basic treasury rules, major funding, forming the Emergency Multisig, restricting powers, suspending the right to vote, and annulling a passport: on these, votes are cast only in person.
 
 **Any earthling may be a delegate:** the only selection is the choice made by the delegator.
 
 ## Expert groups
 
-By decision of the Assembly, working groups may be created by field - economy, security, law, ecology, and others - performing an analytical function.
+By decision of the Assembly, working groups performing an analytical function may be created by field - economy, security, law, ecology, and others.
 
 Their design is subject to three rules:
 
@@ -104,7 +104,7 @@ Separately from them there is the **Independent Council** - an advisory body pro
 
 Participation, contribution, and competence are recorded in inalienable marks tied to identity: participation in development, research, and audit; the quality of past proposals; confirmed professional competences.
 
-> **These marks give nothing but information.** The list of what reputation does not do is exhaustive: [Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html). Any mechanism in which reputation opens access to accumulating influence turns it into a hidden weight of vote and is therefore excluded.
+> **These marks give nothing but information.** The list of what reputation does not do is exhaustive: [Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html). Any mechanism in which reputation opens access to accumulating influence turns it into a hidden voting weight and is therefore excluded.
 
 ---
 
@@ -116,9 +116,9 @@ Participation, contribution, and competence are recorded in inalienable marks ti
 
 **2. Discussion.** A period of public discussion during which participants ask questions, propose amendments, and criticize the premises. The periods are set by the Charter.
 
-**3. Analysis.** Working groups and the Independent Council are entitled to publish an opinion on the risks and soundness of a proposal. This is a right, not a condition: **the absence of an opinion does not prevent a question being put to a vote**, and no structure can delay it by not publishing.
+**3. Analysis.** Working groups and the Independent Council are entitled to publish an opinion on the risks and soundness of a proposal. This is a right, not a condition: **the absence of an opinion does not prevent a question from being put to a vote**, and no structure can delay it by not publishing.
 
-**4. Voting.** Conducted by the thresholds and quorums laid down by the Charter.
+**4. Voting.** Conducted according to the thresholds and quorums laid down by the Charter.
 
 ## Only the Charter sets thresholds
 
@@ -130,9 +130,9 @@ A published expert opinion is an argument in the discussion, carrying the weight
 
 As a general rule votes are open: the fact of participation and the expression of will are available for verification. Openness is the way to be sure the count is honest.
 
-But there are questions where openness of a person's expression of will does not protect them but exposes them to risk. For these, **secret voting with a verifiable count** applies; the list of such questions and the procedure are laid down by the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
+But there are questions where openness of a person's expression of will does not protect them but exposes them to risk. For these, **a secret ballot with a verifiable count** applies; the list of such questions and the procedure are laid down by the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
 
-Secret voting applies as a requirement when a restriction of powers is under consideration and on annulment of an invalid passport issuance, and by decision of the Assembly for particular questions or categories, in particular those touching the people's position on the acts of states.
+A secret ballot is mandatory when a restriction of powers is under consideration and on the annulment of an invalid passport issuance, and by decision of the Assembly for particular questions or categories, in particular those touching the people's position on the acts of states.
 
 ## The feed of proposals
 
@@ -146,7 +146,7 @@ The Earthlings DAO acknowledges that any decision-making system can err. The arc
 
 ## Limiting the scale of an error
 
-For major decisions, criteria for assessing results over different horizons, permissible ranges of deviation, and conditions for review defined in advance are set.
+For major decisions the following are set: criteria for assessing results over different horizons, permissible ranges of deviation, and conditions for review defined in advance.
 
 ## Review and rollback
 
@@ -158,17 +158,17 @@ Procedures are provided for reviewing decisions that lead to unacceptable result
 
 **Instant revocability.** Delegation creates no office and is revoked in one step. Accumulated influence can vanish in a minute without anyone's permission - and that is the principal protection, more effective than any rotation.
 
-**Rotation and recall of the elected.** The Core Nodes rotate every 6 months, and the Emergency Multisig is renewed by at least two people at each rotation. Both structures are recalled by a simple majority at any time - by the same threshold that elects them: removing someone from a mandate cannot be harder than appointing them.
+**Rotation and recall of the elected.** The Core Nodes rotate every 6 months, and at each rotation at least two members of the Emergency Multisig are replaced. Both structures are recalled by a simple majority at any time - by the same threshold that elects them: removing someone from a mandate cannot be harder than appointing them.
 
 **Control of conflicts of interest.** Mandatory declaration and recusal in votes on the allocation of funds (section 08).
 
-**A right of initiative for everyone.** Any earthling puts a question to discussion and to a vote with no threshold of support and without anyone's approval.
+**A right of initiative for everyone.** Any earthling brings a question forward for discussion and a vote with no threshold of support and without anyone's approval.
 
 ## Protection of the minority
 
-The principal protection here is not procedural but structural: **the vote is inalienable**. A majority, however qualified, cannot deprive a dissenter of the right to vote for their dissent, expel them from the people, or annul their belonging. The single ground for suspending a vote is proven subversion of the integrity of the voting mechanism itself (Article 22 bis of the Charter), and it is built so as to be inapplicable to a dissenter: a specific act against the mechanism must be proven, not an opinion about a person.
+The principal protection here is not procedural but structural: **the vote is inalienable**. A majority, however qualified, cannot deprive a dissenter of the right to vote on account of their dissent, expel them from the people, or annul their belonging. The single ground for suspending a vote is proven undermining of the integrity of the voting mechanism itself (Article 22 bis of the Charter), and it is built so as to be inapplicable to a dissenter: a specific act against the mechanism must be proven, not an opinion about a person.
 
-To this are added raised thresholds for decisions touching the foundations, and the unamendable core of the Declaration, which no majority repeals.
+To this are added higher thresholds for decisions touching the foundations, and the unamendable core of the Declaration, which no majority repeals.
 
 ---
 
@@ -180,7 +180,7 @@ The model rests on two complementary traditions.
 
 **Deliberative democracy** stresses the importance of open discussion and argument. Hence the mandatory periods of discussion, the right to criticize, the inclusion of different groups, and the transparency of arguments.
 
-Together they yield a hybrid model in which decisions are both discussed and tested for quality. But the relation between them is fixed strictly and in one direction: **expertise influences arguments, not thresholds; persuasion, not arithmetic**. A specialist's opinion weighs exactly as much as participants themselves give it. Any other construction would turn an advisory body into a governing one.
+Together they yield a hybrid model in which decisions are both discussed and tested for quality. But the relation between them is fixed strictly and in one direction: **expertise influences arguments, not thresholds; persuasion, not arithmetic**. A specialist's opinion carries exactly the weight that participants themselves give it. Any other construction would turn an advisory body into a governing one.
 
 To this are added the principles of separating functions and of mutual checks, adapted to a decentralized environment.
 
@@ -196,15 +196,15 @@ Digital infrastructure and predictable procedures make it possible to take decis
 
 The DAO does not claim to replace states or to hold political sovereignty. It acts as an additional level of coordination where state institutions objectively do not cover transnational activity: global initiatives, networked projects, distributed research and humanitarian programmes.
 
-In the longer term the Earthlings people may seek consultative formats of participation with international organizations - through a bearer legal entity, as is arranged for peoples everywhere - acting **on behalf of those who have entered it**, and not on behalf of transnational civil society as a whole, and not as a state.
+In the longer term the Earthlings people may seek consultative formats of participation with international organizations - through a bearer legal entity, as is arranged for peoples everywhere - acting **on behalf of those who have joined it**, and not on behalf of transnational civil society as a whole, and not as a state.
 
 ---
 
 # SECTION 09. Fields of application
 
-Listed below are possible fields in which the infrastructure may be applied. These are not finished services but scenarios that may be realized as pilot projects, with the requirements of national and international law necessarily observed.
+Listed below are possible fields in which the infrastructure may be applied. These are not finished services but scenarios that may be implemented as pilot projects, subject in every case to the requirements of national and international law.
 
-**Health.** A technological basis for pilot models of direct interaction between people, specialists, and support funds, in strict compliance with the medical and insurance legislation of the countries where participants are located.
+**Healthcare.** A technological basis for pilot models of direct interaction between people, specialists, and support funds, in strict compliance with the medical and insurance legislation of the countries where participants are located.
 
 **Education.** Support for decentralized learning programmes, collective development of courses, and confirmation of skills through participation in the community's activity, without supplanting state systems of accreditation.
 
@@ -218,7 +218,7 @@ Listed below are possible fields in which the infrastructure may be applied. The
 
 # SECTION 10. The DAO and Cells
 
-Every Cell is autonomous, but uses the DAO as common infrastructure for putting questions forward for approval.
+Every Cell is autonomous, but uses the DAO as common infrastructure for bringing questions forward for collective agreement.
 
 **Submitting initiatives.** Cells put initiatives forward for consideration in order to obtain support, funding, or coordination with other Cells.
 
@@ -237,7 +237,7 @@ Sanctions against a Cell provided for by Article 25 of the Charter do not entail
 ## What is expected of a participant
 
 - to vote and take part in discussions in good faith, proceeding from the values of the people;
-- not to attempt to circumvent the principle of one person, one vote, and not to create artificial influence by technical means;
+- not to attempt to circumvent the principle of "one person, one vote", and not to create artificial influence by technical means;
 - to respect the autonomy of Cells and the diversity of points of view;
 - to observe the legal norms of countries of residence when implementing decisions taken;
 - to report vulnerabilities and errors discovered rather than exploit them for personal gain.
@@ -252,7 +252,7 @@ Before voting on questions affecting particular persons, initiatives, or the all
 
 **Voluntary recusal** is always possible and does not affect the calculation of the quorum.
 
-**Mandatory recusal** applies in votes on the allocation of funds for the persons listed in Article 16 of the Charter: an applicant or co-author of an application, a member of a project team, a close relative or counterparty of an applicant. No other grounds for excluding a vote exist: an earthling's vote is not excluded from the count by decision of a majority.
+**Mandatory recusal** applies, in votes on the allocation of funds, to the persons listed in Article 16 of the Charter: an applicant or co-author of an application, a member of a project team, a close relative or counterparty of an applicant. No other grounds for excluding a vote exist: an earthling's vote is not excluded from the count by decision of a majority.
 
 ## Changing the rules
 
@@ -272,10 +272,10 @@ The DAO relies on minimizing the data collected and protecting participants' con
 
 **Data in the distributed ledger.** Votes, transactions, and decisions are recorded using pseudonymous identifiers and cryptographic methods. No permanent link between a record and a person is stored; identity verification is performed by the people's own system, without external providers. In votes conducted secretly, the link between a vote and the voter is disclosed to no one, while the count remains verifiable.
 
-**Personal data.** Identity verification and document verification are performed by the in-house system in accordance with the GDPR and other applicable legislation. The people and the DAO store no photographs, scans, real names, or biometric templates: biometrics are processed at the moment of verification and are not retained. What exactly is retained to prevent repeat registration is in the [Biometric Verification Policy](https://earth-lings.org/documents/en/en16-biometric-verification.html). Account data - email, pseudonym, settings - are processed in the minimum volume.
+**Personal data.** Identity verification and document verification are performed by the people's own system in accordance with the GDPR and other applicable legislation. The people and the DAO store no photographs, scans, real names, or biometric templates: biometrics are processed at the moment of verification and are not retained. What exactly is retained to prevent repeat registration is in the [Biometric Verification Policy](https://earth-lings.org/documents/en/en16-biometric-verification.html). Account data - email, pseudonym, settings - are processed to the minimum extent.
 
 **Minimization.** Only the data necessary for the voting, authentication, and interface procedures to work are collected. They are not used for hidden profiling, sale to third parties, or commercial monetization.
 
-**Your control.** You may request access to, correction of, or deletion of the personal data processed by the platform. Entries in a distributed ledger are by technical definition unalterable - and that is precisely why there are no personal data in them: what is there are pseudonymous addresses and marks of actions. In analytical and public representations such entries are used only in anonymized or aggregated form.
+**Your control.** You may request access to, correction of, or deletion of the personal data processed by the platform. Entries in a distributed ledger are by technical definition unalterable - and that is precisely why there are no personal data in them: they hold pseudonymous addresses and marks of actions. In analytical and public representations such entries are used only in anonymized or aggregated form.
 
 **Security by architecture.** Protection is provided by a combination of cryptography, distributed infrastructure, and data minimization. The key logic does not rest on a single critical point, which lowers the risk of the infrastructure being broken into or seized in a single action.
