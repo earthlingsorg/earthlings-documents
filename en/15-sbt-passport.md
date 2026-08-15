@@ -30,7 +30,7 @@ Unlike state passports, which are tied to a territory and confirm citizenship, t
 
 > **The vote is inalienable** and cannot be taken away or suspended for a person's views, for how they voted, for disagreement with decisions, or as a general measure of liability (Declaration, Article 10; [Charter, Articles 17 and 37](https://earth-lings.org/documents/en/en05-charter.html)). The vote is the substance of belonging: by taking it away on such grounds, the people would expel a person while leaving them the name.
 
-The single exception is proven acts aimed at undermining the integrity of the voting itself: collusion, buying or selling a vote, coercing others, circumventing the rule of one person, one passport (Charter, Article 22 bis). Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
+The single exception is proven acts aimed at undermining the integrity of the voting itself: collusion, buying or selling a vote, coercing others, circumventing the rule of "one person, one passport" (Charter, Article 22 bis). Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
 
 ### Digital identification
 
@@ -57,7 +57,7 @@ The history of participation and contribution is recorded publicly: votes, compl
 
 **1. Signing the Declaration.** Reading the documents, understanding the principles, confirming agreement with a digital signature. It is this act that creates belonging.
 
-**2. Identity verification.** Confirmation that you are a living human being and that you are one. It secures the principle of one person, one vote. Original images and scans of documents are not retained.
+**2. Identity verification.** Confirmation that you are a living human being and that there is only one of you. It secures the principle of "one person, one vote". Original images and scans of documents are not retained.
 
 **3. Making the contribution.** The equivalent of 79 USD, in cryptocurrency (ETH, USDT, USDC). It covers the cost of identity verification and passport issuance, goes into the common treasury, and is allocated in published shares.
 
@@ -86,7 +86,7 @@ The history of participation and contribution is recorded publicly: votes, compl
 ### Data storage
 
 - **in the ledger:** an identifier, a pseudonym, a verification hash. Personal data are not written to the ledger;
-- **outside the ledger:** the personal data of the account, encrypted and in the minimum volume;
+- **outside the ledger:** the personal data of the account, encrypted and kept to a minimum;
 - **biometrics:** not retained. Only irreversible cryptographic hashes are retained, and only so that one person cannot hold two valid passports;
 - designed in accordance with the principles of the GDPR.
 
@@ -105,7 +105,7 @@ The passport is a digital certificate of belonging to the Earthlings people.
 
 ### What the passport does not give
 
-This matters to understand before entering, not after.
+This is important to understand before entering, not after.
 
 - **it gives no citizenship or residence** of any country;
 - **it provides no visa privileges** and no rights of entry;
@@ -114,12 +114,12 @@ This matters to understand before entering, not after.
 - **it does not exempt anyone** from complying with the laws of their country of residence;
 - **it creates no rights in international law.**
 
-The passport documents what it documents, and that is no small thing: a particular person has been confirmed as living and unique and has signed the Declaration. Inside the people everything follows from this - an equal vote, participation in decisions, inalienable belonging. What this combination means for international law is the subject of separate examination in the documents [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html) and [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html), where the arguments against are also set out.
+The passport documents what it documents, and that is no small thing: a particular person has been confirmed as living and unique, and has signed the Declaration. Inside the people everything follows from this - an equal vote, participation in decisions, inalienable belonging. What this combination means for international law is the subject of separate examination in the documents [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html) and [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html), where the arguments against are also set out.
 
 ### Data protection
 
 - a right to correction and deletion of the data processed by the platform;
-- entries in a distributed ledger are by technical definition not deletable - and that is precisely why there are no personal data in them: what is there are pseudonymous addresses and marks of actions;
+- entries in a distributed ledger are by technical definition not deletable - and that is precisely why there are no personal data in them: they hold pseudonymous addresses and marks of actions;
 - minimization of processing; encryption of personal data;
 - photographs and scans are not retained.
 
@@ -143,7 +143,7 @@ The Charter (Article 21) establishes **two and only two** exceptions, and this l
 
 It applies where it is established that a passport was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using falsified data or another person's identity.
 
-**This is not a measure of liability and not expulsion from the people.** What is established is only that the issuance never lawfully took place. No automatic reissue follows: if the obstacle to lawful issuance is removed, the person is entitled to pass verification again on general terms.
+**This is not a measure of liability and not expulsion from the people.** What is established is only that the issuance never lawfully took place. No automatic reissue follows: if the obstacle to lawful issuance is removed, the person is entitled to undergo verification again on general terms.
 
 **The procedure** is a decision of the Assembly, not an act of the operator:
 
@@ -171,7 +171,7 @@ Where restrictive measures are applied for gross breaches of common rules, the p
 - the passport data are deleted from the contract's active registry;
 - a pseudonymous mark remains in the unalterable history that the passport existed and was burned: this is a fact of the past, not a continuing membership;
 - there are no real personal data in the ledger;
-- to re-enter, the full procedure is passed and a new passport is issued.
+- to re-enter, the full procedure is gone through and a new passport is issued.
 
 ---
 
