@@ -20,7 +20,7 @@ This distinction is material, and it should be drawn precisely.
 
 **The Council is independent of the executive structures.** It is not part of the system of operational management, is not subordinate to the Core Nodes or the Emergency Multisig, does not depend on them organizationally, and cannot be formed, limited, or dissolved by them.
 
-**The Council is not independent of the people.** It is elected by the DAO Assembly, recalled by it, publicly accountable to it, and its mandate is derivative. A body accountable to no one would be a direct breach of the very principle for which the whole people is built: power does not accumulate, and no position places a person or a group beyond a common decision.
+**The Council is not independent of the people.** It is elected by the DAO Assembly, recalled by it, and publicly accountable to it; its mandate is derivative. A body accountable to no one would be a direct breach of the very principle for which the whole people is built: power does not accumulate, and no position places a person or a group beyond a common decision.
 
 The independence of the Council is independence of **judgment**, not independence from the source of its authority.
 
@@ -30,20 +30,20 @@ The independence of the Council is independence of **judgment**, not independenc
 
 ## Ethical audit
 
-- Assessment of the acts of the people's structures and mandates against ethical, environmental, and legal standards
+- Assessment of the actions of the people's structures and mandates against ethical, environmental, and legal standards
 - Analysis of cases involving internal conflicts, discrimination, or breach of trust
 
 ## Participation in procedures provided for by the Charter
 
 These are the Council's only functions built into mandatory procedures, and both take the form of an opinion, not a decision.
 
-**Preliminary consideration on a restriction of powers** (Charter, Article 22). The Council considers whether the initiative is well founded within 14 days and publishes a recommendation.
+**Preliminary consideration on a restriction of powers** (Charter, Article 22). Within 14 days the Council considers whether the initiative is well founded and publishes a recommendation.
 
 **An opinion on annulment of an invalid passport issuance** (Charter, Article 21). The Council publishes an opinion before the vote under the same procedure.
 
 > **The Council cannot stop a procedure.** If an opinion is not prepared within the set period, the question goes to a vote without it.
 
-## Public expertise
+## Public scrutiny
 
 - Independent assessment of key decisions, strategies, and initiatives
 - Analysis of sustainability and of conformity with declared aims
@@ -76,7 +76,7 @@ The list is indicative and is not a system of quotas:
 - science and education;
 - the experience of local and indigenous communities.
 
-The Council aims at a diversity of views, cultural perspectives, and geography among its members. This is a guide in choosing, not a formal condition: no characteristic of a person gives or takes away the right to be elected.
+The Council aims for a diversity of views, cultural perspectives, and geography among its members. This is a guide in choosing, not a formal condition: no characteristic of a person gives or takes away the right to be elected.
 
 ## Procedure of election
 
@@ -153,7 +153,7 @@ The Council's working groups are open to the participation of any earthling and 
 - To recommend to the Assembly a review of the membership of the Core Nodes, the Emergency Multisig, or other service structures
 - To propose candidates for membership of the Council
 
-All the rights listed are exercised in the form of public statement. None of them creates an obligation for the Assembly, suspends any procedure, or affects voting thresholds.
+All the rights listed are exercised in the form of a public statement. None of them creates an obligation for the Assembly, suspends any procedure, or affects voting thresholds.
 
 ## What the Council cannot do
 
@@ -170,7 +170,7 @@ All the rights listed are exercised in the form of public statement. None of the
 
 Independence is secured by mandatory declaration of conflicts of interest, by recusal where there is a personal interest under Article 16 of the Charter, by turnover of the membership, and by public disclosure of all opinions.
 
-A member of the Council taking part in preparing an opinion on a question affecting them personally or persons connected with them declares this before the work begins and takes no part in preparing the opinion.
+Where an opinion concerns a member of the Council personally, or persons connected with them, that member declares this before the work begins and takes no part in preparing the opinion.
 
 Detailed procedures are set by the Council's rules of procedure, which are published and cannot contradict the Charter.
 
