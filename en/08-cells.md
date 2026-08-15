@@ -8,7 +8,7 @@
 
 # SECTION 01. The role of Cells
 
-Cells are the basic organizational unit of the Earthlings people. Through them projects are delivered, products and services are created, and horizontal ties between participants are formed.
+Cells are the basic organizational units of the Earthlings people. Through them projects are delivered, products and services are created, and horizontal ties between participants are formed.
 
 **Why Cells are needed:**
 
@@ -17,7 +17,7 @@ Cells are the basic organizational unit of the Earthlings people. Through them p
 - to make participation accessible: every earthling can propose a project and become part of it;
 - to prevent the formation of bureaucratic superstructures detached from the actual work.
 
-In the Charter, Cells are treated as the basic bearers of action: it is through them that contribution is made, which is then reflected in the economy of participation and in the decisions of the DAO.
+In the Charter, Cells are treated as the basic bearers of action: it is through them that contribution is made, and that contribution is then reflected in the economy of participation and in the decisions of the DAO.
 
 > **A Cell has no vote.** Only people vote. No Cell has a collective vote, speaks on behalf of its participants, or represents them in the decisions of the people (Charter, Article 37).
 
@@ -25,7 +25,7 @@ In the Charter, Cells are treated as the basic bearers of action: it is through 
 
 # SECTION 02. How work is organized: standing groupings and project teams
 
-The Charter knows one form - a Cell of two to six people, created for a particular project, study, or initiative. Everything set out below is **a way of organizing work on the platform**, not a separate structure of the people: it may be changed by decision of the Assembly and creates no organs and no powers.
+The Charter recognizes one form - a Cell of two to six people, created for a particular project, study, or initiative. Everything set out below is **a way of organizing work on the platform**, not a separate structure of the people: it may be changed by decision of the Assembly and creates no organs and no powers.
 
 **Standing groupings by competence** - lawyers, engineers, programmers, analysts, and others - exist independently of particular projects. They maintain the quality of expertise, prepare recommendations and standards, and help newcomers enter a profession within the people.
 
@@ -43,17 +43,17 @@ Both standing groupings and project Cells are limited: from 2 to 6 participants.
 
 **Human scale.** Small groups make it possible to hear one another, to see each person's contribution, and to take decisions without turning into a miniature bureaucracy. Above six, hidden hierarchies and passive participants inevitably appear.
 
-**Manageable complexity.** Every new link increases the complexity of communication. Limiting to six holds it at a level that can be worked with without losing transparency and trust.
+**Manageable complexity.** Every new link increases the complexity of communication. A limit of six holds it at a level that can be worked with without losing transparency and trust.
 
-**An alternative to the inflation of structures.** Instead of swelling a Cell to fifteen or twenty people, several parallel Cells are created and cooperation is built between them. This prevents dependence from accumulating inside a single group.
+**An alternative to the inflation of structures.** A Cell is not swollen to fifteen or twenty people; instead, several parallel Cells are created and cooperation is built between them. This prevents dependence from accumulating inside a single group.
 
-If a project needs more people, several Cells are created rather than one enlarged structure. This is a matter of principle against bureaucracy.
+If a project needs more people, several Cells are created rather than one enlarged structure. This is a deliberate choice against bureaucracy.
 
 ---
 
 # SECTION 04. The life cycle of a project
 
-**1. The idea appears.** Any earthling submits an initiative through their personal account: an environmental project, an educational programme, a study, a technological solution. The application describes the problem, the aim, the expected effect, the time horizon, and the competences needed. No prior approval and no threshold of support is required for submission.
+**1. The idea appears.** Any earthling submits an initiative through their personal account: an environmental project, an educational programme, a study, a technological solution. The application describes the problem, the aim, the expected effect, the time horizon, and the competences needed. Neither prior approval nor a threshold of support is required for submission.
 
 **2. Initial analysis.** Supporting AI tools check conformity with the Declaration and with ethics, the absence of evident conflicts, and rough feasibility, and where necessary suggest improvements to the wording.
 
@@ -125,16 +125,16 @@ Assign a participant a task with a specific deadline. Change the rules the Cell 
 
 Case by case:
 
-- **A personal obligation** - an assignment, a deadline, responsibility for an area of work - arises only with the express consent of the person themselves. No one can be made obliged without their word.
+- **A personal obligation** - an assignment, a deadline, responsibility for an area of work - arises only with the express consent of the person themselves. No one can be placed under an obligation without their word.
 - **The rules of the Cell** are changed only with the consent of all its participants. A person agreed to work by one set of rules; they cannot be changed behind their back.
 - **Admitting a new participant** - with the consent of everyone already in the Cell and, of course, of the person joining.
-- **Parting with a participant** - with the consent of all the other participants of the Cell, after the disagreement has been attempted through the procedure in section 10. The consent of the person being removed is not required here: otherwise a team of two to six people would be hostage to one of them, and no one can be made to work together against the will of the rest.
+- **Parting with a participant** - with the consent of all the other participants of the Cell, after an attempt has been made to resolve the disagreement under the procedure in section 10. The consent of the person being removed is not required here: otherwise a team of two to six people would be hostage to one of them, and no one can be made to work together against the will of the rest.
 
 ### Why it works this way
 
 In the first case a dissenter need only step aside. In the second, stepping aside is impossible: the decision follows the person. Where one can decline, silent consent is enough; where one cannot, consent must be spoken.
 
-> **Parting with a Cell affects nothing beyond it.** A person the Cell has parted with remains an earthling with the same vote and the same belonging, is entitled to join any other Cell, and to create their own. Belonging to the people is inalienable, the right to vote is not restricted under any circumstances, and the internal affairs of a working team do not affect them.
+> **Parting with a Cell affects nothing beyond it.** A person the Cell has parted with remains an earthling with the same vote and the same belonging, is entitled to join any other Cell and to create their own. Belonging to the people is inalienable, the right to vote is not restricted under any circumstances, and the internal affairs of a working team affect neither of them.
 
 ## The participant's unshakable protection
 
@@ -157,9 +157,9 @@ Freedom here means that a person cannot be coerced, not that one person can stop
 
 - no earthling is obliged to take part in Cells - it is a right, not a duty;
 - participation in several Cells is possible if it does not lead to overload and loss of quality of work;
-- no Cell can appropriate a person to itself: they always remain a free subject.
+- no Cell can appropriate a person: they always remain a free subject.
 
-> **Leaving a Cell is always free.** It requires no consent from other participants, is not conditional on tasks being finished, and carries no penalty. Commitments taken on earlier remain a matter of the participant's word and reputation, but are not a condition of leaving and cannot be turned into a holding mechanism. The right to leave without giving reasons applies here as it does to belonging to the people.
+> **Leaving a Cell is always free.** It requires no consent from other participants, is not conditional on tasks being finished, and carries no penalty. Commitments taken on earlier remain a matter of the participant's word and reputation, but are not a condition of leaving and cannot be turned into a mechanism for holding a person in the Cell. The right to leave without giving reasons applies here as it does to belonging to the people.
 
 ---
 
@@ -177,7 +177,7 @@ Labour, skills, time, connections, equipment, and premises can be put into a Cel
 
 The system strictly separates two independent ledgers:
 
-**The governance ledger.** Who takes decisions and how. Here only the principle of one person, one vote applies. The size of a monetary contribution gives neither a vote, nor a right of veto, nor special weight.
+**The governance ledger.** Who takes decisions and how. Here only the principle of "one person, one vote" applies. The size of a monetary contribution gives neither a vote, nor a right of veto, nor special weight.
 
 **The economic ledger.** Who contributed what and who receives what. Here a contribution of capital is accounted for and rewarded.
 
@@ -188,7 +188,7 @@ The system strictly separates two independent ledgers:
 - capital never buys votes, control over a Cell, or a permanent share of power;
 - the terms are fixed openly before work begins and form part of the Cell's economic ledger.
 
-The model suits Cells naturally where the main contribution is people and their skills, and suits capital-intensive enterprises with large physical assets less well. Conceptually it continues the tradition of worker cooperatives and steward ownership: capital receives an honest finite return, but governance remains with people.
+The model is a natural fit for Cells in which the main contribution is people and their skills, and fits capital-intensive enterprises with large physical assets less well. Conceptually it continues the tradition of worker cooperatives and steward ownership: capital receives a fair, capped final return, but governance remains with people.
 
 ## Contribution to the common good
 
@@ -218,9 +218,9 @@ The economy of participation supports real action; it does not sort people by th
 
 ## The tax reality
 
-Receiving a reward for work in a Cell - in the unit of account or in fiat currency - gives rise to tax obligations in most countries. Each participant complies with the tax legislation of their country of residence themselves.
+Receiving a reward for work in a Cell - in the unit of account or in fiat currency - gives rise to tax obligations in most countries. Each participant is responsible for complying with the tax legislation of their country of residence.
 
-How what is received is valued, when the obligation arises, the applicable rates, and whether any transfers can be taken into account are determined **exclusively by the legislation of the country concerned**. In particular, the mandatory transfer to the people's Treasury may or may not reduce a participant's taxable base: in a number of jurisdictions such transfers are not deductible, and tax is payable on the whole amount received. The project does not undertake to predict this outcome for any country.
+The valuation of what is received, the moment when the obligation arises, the applicable rates, and whether any transfers may be taken into account are determined **exclusively by the legislation of the country concerned**. In particular, the mandatory transfer to the people's Treasury may or may not reduce a participant's taxable base: in a number of jurisdictions such transfers are not deductible, and tax is payable on the whole amount received. The project does not undertake to predict this outcome for any country.
 
 ## Two working scenarios
 
@@ -232,7 +232,7 @@ How what is received is valued, when the obligation arises, the applicable rates
 
 The participants of a Cell may create a company, a cooperative, or a partnership for working with clients. Such structures are created by participants **in their own name and by their own decision**, not on behalf of the Earthlings people, and fall within their own legal and tax area of responsibility.
 
-A legal structure makes it possible to conclude contracts with corporate clients, to open accounts, and simplifies accounting on large projects.
+A legal structure makes it possible to conclude contracts with corporate clients and to open accounts, and it simplifies accounting on large projects.
 
 ## The Treasury and external operations
 
@@ -254,14 +254,14 @@ Within the system of Cells, indicators of the quality of work may be used.
 
 **How this is used:** for navigation - who is easier to offer a difficult task to; for learning - where programmes of support and mentoring are needed; for transparency - to see how Cells evolve and what they learn.
 
-> **What reputation does not do.** Under Article 8 of the Charter it does not affect the weight of a vote and opens access to no role. Applied to Cells this means specifically the following:
+> **What reputation does not do.** Under Article 8 of the Charter it has no effect on the weight of a vote and opens access to no role. Applied to Cells this means specifically the following:
 >
 > - it is not a condition of joining a Cell or taking part in a project;
 > - it does not affect the order of funding: that is determined by the number of participants who supported the project, not by the applicant's rating (Charter, Article 11);
 > - it does not affect a proposal's place in the feed - the feed is chronological;
 > - it constitutes no measure of liability: restrictions apply only under Article 22 of the Charter, with a right of defence and appeal.
 >
-> Reputation is an instrument of navigation and nothing more. A mechanism in which it opens access to resources turns it into a hidden weight of vote and is therefore excluded.
+> Reputation is an instrument of navigation and nothing more. A mechanism in which it opens access to resources turns it into a hidden voting weight and is therefore excluded.
 
 ---
 
@@ -279,7 +279,7 @@ Within the system of Cells, indicators of the quality of work may be used.
 - internal dialogue within the Cell with positions placed on record;
 - recourse to an independent mediator - from other Cells or from specially trained groups;
 - for serious breaches - recourse to the Independent Council. Until the Council is formed this stage is skipped and the periods for discussion are doubled (Charter, Article 39);
-- in extreme cases - dissolution or reformatting of the Cell, taking account of the interests of all participants.
+- in extreme cases - dissolution or reconstitution of the Cell, taking account of the interests of all participants.
 
 ## Intervention by the DAO
 
@@ -292,7 +292,7 @@ The DAO intervenes in the affairs of a Cell only on the grounds expressly listed
 
 No other grounds exist. Decisions are taken by a qualified majority after an independent investigation, not by individual people.
 
-> **Sanctions against a Cell do not affect its participants as Earthlings.** Dissolving a Cell entails neither expulsion from the people, which is impossible in principle, nor a restriction of the right to vote: a conflict in a working team is no ground for that on any outcome. Restricting the powers of a particular person is possible only under Article 22 of the Charter, with a right of defence, a secret ballot, and appeal.
+> **Sanctions against a Cell do not affect its participants as Earthlings.** Dissolving a Cell entails neither expulsion from the people, which is impossible in principle, nor a restriction of the right to vote: a conflict in a working team is no ground for that, whatever the outcome. Restricting the powers of a particular person is possible only under Article 22 of the Charter, with a right of defence, a secret ballot, and appeal.
 
 ## Leaving a Cell and belonging to the people
 
@@ -319,4 +319,4 @@ The system of Cells is not fixed forever in one form. It will change together wi
 
 What remains unchanged are the principles fixed in the unamendable core of the Declaration and in Article 37 of the Charter: human scale, freedom of participation, an equal and inalienable vote, respect for the person. Neither this document nor a decision of the Assembly changes them.
 
-Earthlings Cells are not an ideal model on paper but a working instrument. It will become more exact as people try, err, correct, and try again.
+Earthlings Cells are not an ideal model on paper but a working instrument, and it will become more exact as people try, err, correct, and try again.
