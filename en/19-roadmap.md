@@ -1,6 +1,6 @@
 # Roadmap of the Transitional Period
 
-**From founding to full decentralization: principles, stages, and mechanisms of the Earthlings people's becoming**
+**From founding to full decentralization: the principles, stages, and mechanisms by which the Earthlings people takes shape**
 
 > Where this document diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies.
 
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The Earthlings people is at the stage of becoming. Full decentralization is an aim, not a starting point. We are building it openly, and anyone can observe the process.
+The Earthlings people is still in the making. Full decentralization is an aim, not a starting point. We are building it openly, and anyone can observe the process.
 
 This document describes the transitional period: from founding to full autonomy of governance. It sets down the principles, stages, and mechanisms of control that secure accountability at every step.
 
@@ -26,7 +26,7 @@ This document describes the transitional period: from founding to full autonomy 
 
 **Transparency.** All decisions, financial flows, and technical changes are documented and available to every participant. There are no closed protocols and no secret arrangements.
 
-**Staging.** The handover of governance happens gradually, as the infrastructure becomes ready and the number of participants grows.
+**By stages.** The handover of governance happens gradually, as the infrastructure becomes ready and the number of participants grows.
 
 **Reversibility.** At every stage the possibility of correcting course is preserved. Mistakes are admitted and corrected, not concealed.
 
@@ -58,7 +58,7 @@ This document describes the transitional period: from founding to full autonomy 
 - forming the Independent Council;
 - beginning a substantive practice of voting.
 
-> **The infrastructure runs ahead of the phase, and that is normal.** The voting mechanisms, the registry, and the treasury are deployed and tested in a working environment before any substantive practice appeared in them. Being deployed and being in use are different things, and we do not conflate them: the system is ready to receive decisions, but no decisions have yet been taken through it.
+> **The infrastructure runs ahead of the phase, and that is normal.** The voting mechanisms, the registry, and the treasury have been deployed and tested in a working environment before any substantive practice appeared in them. Being deployed and being in use are different things, and we do not conflate them: the system is ready to receive decisions, but no decisions have yet been taken through it.
 
 ## Phase 3. Launch of the DAO - still ahead
 
@@ -90,7 +90,7 @@ At the transitional stage, functions are performed that are subsequently handed 
 
 These powers are temporary and functional. The Charter (Article 39) expressly provides that until the corresponding structures are elected their functions are performed procedurally and under the responsibility of the founders, and that handing these functions over to the elected structures is a criterion for moving between phases.
 
-> **On external communications.** Conducting correspondence and presenting the project does not mean a right to take on obligations on behalf of the people. Actions in the legal sphere are performed only under a protective legal mandate, granted and revoked by the Assembly by a simple majority (Charter, Article 33), and decisions on behalf of the people are taken only by the Assembly.
+> **On external communications.** Conducting correspondence and presenting the project does not carry a right to take on obligations on behalf of the people. Actions in the legal sphere are performed only under a protective legal mandate, granted and revoked by the Assembly by a simple majority (Charter, Article 33), and decisions on behalf of the people are taken only by the Assembly.
 
 ## What the founders cannot do even now
 
@@ -117,7 +117,7 @@ These powers are temporary and functional. The Charter (Article 39) expressly pr
 - **voluntary donations and grants** - on the conditions laid down by the Treasury: publication of the source, the absence of conditions contrary to the people's principles, and the absence of any influence over decisions;
 - **partnerships** - cooperation with projects sharing the people's values.
 
-## Directions of expenditure
+## Categories of expenditure
 
 Development and maintenance of infrastructure; legal support; operating costs; community development and communications; the reserve fund.
 
@@ -154,7 +154,7 @@ Published no less than once every 90 days and including: total receipts by sourc
 
 # SECTION 06. Criteria for moving between phases
 
-A move happens when objective criteria are met, not by a decision of the founders.
+A move happens when objective criteria are met, and not by a decision of the founders.
 
 ## To Phase 3 (Launch of the DAO)
 
@@ -181,29 +181,29 @@ A transition is a vulnerable moment: the old order is broken, the new one is not
 
 ## The founders' power only narrows, never widens
 
-Each stage locks in the decentralization achieved and cancels part of the temporary powers. We deliberately refuse the temptation of "temporarily concentrating power for the sake of effectiveness" - it is exactly what every transitional dictatorship has justified itself with.
+Each stage locks in the decentralization achieved and cancels part of the temporary powers. We deliberately refuse the temptation of "temporarily concentrating power for the sake of effectiveness" - that is exactly how every transitional dictatorship has justified itself.
 
 ## The core is already out of reach
 
-The unamendable foundations of the Declaration are by the design of the system not subject to change - not by the founders, not by a majority, not during the transition, and not after it. What is being tuned is the procedure and the infrastructure; what all of it exists for is protected from any hand from the very beginning.
+By the design of the system, the unamendable foundations of the Declaration are not subject to change - not by the founders, not by a majority, not during the transition, and not after it. What is being tuned is the procedure and the infrastructure; what all of it exists for has been protected from any hand from the outset.
 
 ## The guarantor is not a guardian but the right to leave
 
 The ultimate protection of the transition is the same as that of a mature people: voluntariness and a registry that does not belong to us. If the transition is captured or stalled without objective reasons, participants do not depend on the founders' mercy - they leave and continue the people on an uncaptured basis.
 
-For the sake of precision: not the whole system is reproducible. Passports and the records of them lie on a public network, the passport contract code is open, and the rules, thresholds, and procedures are described in these documents - that is enough to build a new platform against the same registry. The code of the platform itself and of the identity verification system is closed, because they work with personal data (Charter, Article 30). The continuation of the people rests on the registry and on the published specification, not on the ability to copy our servers.
+For the sake of precision: not all of the system is reproducible. Passports and the records of them lie on a public network, the passport contract code is open, and the rules, thresholds, and procedures are described in these documents - that is enough to build a new platform against the same registry. The code of the platform itself and of the identity verification system is closed, because they work with personal data (Charter, Article 30). The continuation of the people rests on the registry and on the published specification, not on the ability to copy our servers.
 
 This turns transparency from a request for trust into a lever: a delay in decentralization becomes both visible and reversible by the community's own efforts. The same mechanism is described in Article 13 of the Declaration as the last resort for protecting the unamendable core.
 
 ## What makes a continuation lawful
 
-The right to continue the people on an uncaptured basis does not mean that anyone who has built the same platform becomes Earthlings. A copy of the instrument carries over neither people, nor their choice, nor accumulated legitimacy - it carries over only the instrument. A lawful continuation is recognized not by possession of the infrastructure but by verifiable marks:
+The right to continue the people on an uncaptured basis does not mean that anyone who has built the same platform becomes Earthlings. A copy of the instrument carries over neither people, nor their choice, nor accumulated legitimacy - it carries over only the instrument. A lawful continuation is recognized not by possession of the infrastructure but by verifiable signs:
 
 - **a preserved core** - a continuation leaves the unamendable foundations of the Declaration untouched; whoever changes the core by definition creates something else rather than continuing Earthlings;
-- **the will of confirmed people** - the people goes where the majority of confirmed participants freely move, one person, one vote; legitimacy is carried by people, not by servers and not by a repository;
+- **the will of confirmed people** - the people goes where the majority of confirmed participants freely move, "one person, one vote"; legitimacy is carried by people, not by servers and not by a repository;
 - **continuity of values and of procedure** - the transition is open, verifiable, and accountable by the same rules that applied before it.
 
-Neither a capture can therefore pass itself off as the people, nor a split for the sake of splitting appropriate its name: a lawful continuation has marks that cannot be faked either by copying the code or by rebuilding the platform. The right to leave protects the people from two sides at once - from whoever captures the centre, and from whoever wants to call their copy the thing that people did not follow.
+Neither can a capture therefore pass itself off as the people, nor can a split for the sake of splitting appropriate its name: a lawful continuation has signs that cannot be faked either by copying the code or by rebuilding the platform. The right to leave protects the people from two sides at once - from whoever captures the centre, and from whoever would give the name of the people to a copy that people did not follow.
 
 ---
 
