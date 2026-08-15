@@ -1,10 +1,10 @@
 This repository carries two licences.
 
 DOCUMENTS -- everything under ru/, en/, de/, es/, fr/, zh/, ar/, hi/, ka/
-and manifest/ -- are licensed under the Creative Commons Attribution 4.0
+and _manifest/ -- are licensed under the Creative Commons Attribution 4.0
 International licence, reproduced in full below.
 
-BUILD SCRIPTS -- everything under tools/ -- are licensed under the MIT
+BUILD SCRIPTS -- everything under _tools/ -- are licensed under the MIT
 licence, reproduced at the end of this file.
 
 Attribution for the documents: "Earthlings, earth-lings.org". If you change
@@ -416,7 +416,7 @@ Creative Commons may be contacted at creativecommons.org.
 
 =======================================================================
 
-MIT License, applying to the contents of tools/
+MIT License, applying to the contents of _tools/
 
 Copyright (c) 2026 Earthlings
 

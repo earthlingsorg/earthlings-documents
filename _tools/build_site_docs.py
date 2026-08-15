@@ -29,13 +29,21 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 # Мастера лежат в этом же репозитории, по языкам: ru/NN-slug.md.
 REPO = os.path.abspath(os.path.join(HERE, '..'))
 MD_DIR = os.path.join(REPO, 'ru')
-SITE = r'c:\local_git_vps\earth-lings-site'
+# Репозиторий сайта. По умолчанию - соседняя папка рядом с этой: клонировали
+# оба репозитория рядом, и всё работает. Переопределяется переменной окружения,
+# если они лежат врозь. Захардкоженный путь одной машины в публичном
+# репозитории делал скрипт неработающим у всех, кроме одного человека.
+SITE = os.environ.get('EARTHLINGS_SITE') or os.path.join(
+    os.path.dirname(REPO), 'earth-lings-site')
 DOCS = os.path.join(SITE, 'documents', 'ru')
 CSS_PATH = os.path.join(SITE, 'css', 'docs-statute.css')
 ORIGIN = 'https://earth-lings.org'
 
 assert os.path.isdir(MD_DIR), MD_DIR
-assert os.path.isdir(DOCS), DOCS
+assert os.path.isdir(DOCS), (
+    'не найден репозиторий сайта: %s\n'
+    'Ожидается earth-lings-site рядом с этим репозиторием. Если он лежит в '
+    'другом месте - EARTHLINGS_SITE=/путь/к/earth-lings-site' % DOCS)
 
 # Номер документа -> имя мастера. Отдельный список имён не нужен: имя
 # выводится из пары «номер - слаг», заданной ниже в SLUGS, и она же служит

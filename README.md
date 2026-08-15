@@ -48,8 +48,8 @@ rearranging a public repository.
 | `ru/` | Russian masters — 25 documents, the source of truth |
 | `en/` | English authentic text — in preparation |
 | `de/ es/ fr/ zh/ ar/ hi/ ka/` | official translations — in preparation |
-| `manifest/` | the Manifesto of Belonging — **not part of the corpus**, see below |
-| `tools/` | the build scripts that turn these masters into the website pages |
+| `_manifest/` | the Manifesto of Belonging — **not part of the corpus**, see below |
+| `_tools/` | the build scripts that turn these masters into the website pages |
 
 File names carry the document number and a stable slug: `ru/01-deklaraciya.md`
 is served at `earth-lings.org/documents/ru/ru01-deklaraciya.html`. The number
@@ -92,7 +92,7 @@ and does not change the document.
 
 Documents: [CC BY 4.0](LICENSE) — copy, translate, republish and quote them
 freely, including commercially, as long as you say where they came from and mark
-what you changed. `tools/`: MIT.
+what you changed. `_tools/`: MIT.
 
 We ask nothing beyond attribution. A text that cannot be reproduced is not a
 guarantee of anything, and the right to leave and rebuild elsewhere — article 13
@@ -143,7 +143,7 @@ of the Declaration — would be empty if the text itself were locked up.
 
 Документы - [CC BY 4.0](LICENSE): копируйте, переводите, переиздавайте и
 цитируйте свободно, в том числе в коммерческих целях, указав источник и пометив
-свои изменения. `tools/` - MIT.
+свои изменения. `_tools/` - MIT.
 
 Больше указания источника мы не просим. Текст, который нельзя воспроизвести, ни
 в чём не является гарантией, а право уйти и построить заново - статья 13
