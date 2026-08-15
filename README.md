@@ -1,17 +1,17 @@
-# Earthlings — founding documents
+# Earthlings - founding documents
 
 Public registry of the founding documents of the Earthlings people, and of every
 proposal made to them.
 
 **What this repository is for.** From 7 September to 6 December 2026 these texts
 are open for proposals from anyone. Every proposal is filed here as an issue and
-answered in public — including the ones we reject, with the reason stated. Every
+answered in public - including the ones we reject, with the reason stated. Every
 change to a text is linked to the proposal that caused it, so authorship is a
 matter of record rather than of courtesy. On 3 January 2027 the Declaration is
 put to a vote of people who have confirmed their identity, one person one vote.
 
-The rules of that period — deadlines, how proposals are handled, what is open
-and what is not, thresholds for adoption — are in
+The rules of that period - deadlines, how proposals are handled, what is open
+and what is not, thresholds for adoption - are in
 [`ru/20-uchreditelnyj-period.md`](ru/20-uchreditelnyj-period.md).
 
 ## Which language is the original
@@ -35,7 +35,7 @@ masters are in place today.
 The English corpus currently on the website comes from an earlier round of
 translation which we have since found unreliable, and we will not publish it
 here as if it were authoritative. It is being retranslated from the Russian
-masters and will appear under `en/` once it passes review — before 20 December
+masters and will appear under `en/` once it passes review - before 20 December
 2026, since the vote is held on both authentic texts and nobody can vote on a
 text they could not read in advance.
 
@@ -45,10 +45,10 @@ rearranging a public repository.
 
 | Directory | Contents |
 |---|---|
-| `ru/` | Russian masters — 25 documents, the source of truth |
-| `en/` | English authentic text — in preparation |
-| `de/ es/ fr/ zh/ ar/ hi/ ka/` | official translations — in preparation |
-| `_manifest/` | the Manifesto of Belonging — **not part of the corpus**, see below |
+| `ru/` | Russian masters - 25 documents, the source of truth |
+| `en/` | English authentic text - in preparation |
+| `de/ es/ fr/ zh/ ar/ hi/ ka/` | official translations - in preparation |
+| `_manifest/` | the Manifesto of Belonging - **not part of the corpus**, see below |
 | `_tools/` | the build scripts that turn these masters into the website pages |
 
 File names carry the document number and a stable slug: `ru/01-deklaraciya.md`
@@ -58,7 +58,7 @@ with the title.
 
 ## What is not open for proposals
 
-**The five principles of the unamendable core** — articles 8, 9 and 10 of the
+**The five principles of the unamendable core** - articles 8, 9 and 10 of the
 Declaration, listed in article 13. Proposals to abolish or narrow them are not
 considered. Proposals to refine their wording, and to add to the core, are
 considered like any other.
@@ -90,17 +90,17 @@ and does not change the document.
 
 ## Licence
 
-Documents: [CC BY 4.0](LICENSE) — copy, translate, republish and quote them
+Documents: [CC BY 4.0](LICENSE) - copy, translate, republish and quote them
 freely, including commercially, as long as you say where they came from and mark
 what you changed. `_tools/`: MIT.
 
 We ask nothing beyond attribution. A text that cannot be reproduced is not a
-guarantee of anything, and the right to leave and rebuild elsewhere — article 13
-of the Declaration — would be empty if the text itself were locked up.
+guarantee of anything, and the right to leave and rebuild elsewhere - article 13
+of the Declaration - would be empty if the text itself were locked up.
 
 ---
 
-# Earthlings — учредительные документы
+# Earthlings - учредительные документы
 
 Публичный реестр учредительных документов народа Earthlings и всех предложений
 к ним.
