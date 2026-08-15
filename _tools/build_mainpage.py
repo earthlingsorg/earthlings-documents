@@ -10,17 +10,30 @@
 
 Использование:
   python build_mainpage.py            собрать mainpage/ru/index.html
+  python build_mainpage.py en         собрать mainpage/en/index.html
   python build_mainpage.py --dry      показать, ничего не записывая
 """
 import io, os, re, sys, html
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import md2doc
-from build_site_docs import SITE, MD_DIR, ROOT
+from build_site_docs import SITE, REPO, ROOT, LANGS_BY_DOC
 
-MASTER = os.path.join(MD_DIR, 'МАНИФЕСТ ПРИНАДЛЕЖНОСТИ.md')
-PAGE = os.path.join(SITE, 'mainpage', 'ru', 'index.html')
-assert os.path.isfile(MASTER), MASTER
+# Манифест лежит вне корпуса: он ничего не устанавливает, предложения к нему
+# не принимаются и на голосование он не выносится (Учредительный период, 02).
+MANIFEST_DIR = os.path.join(REPO, '_manifest')
+
+LANG = 'ru'
+for a in sys.argv[1:]:
+    if not a.startswith('--'):
+        LANG = a
+
+MASTER = os.path.join(MANIFEST_DIR, '%s-manifest.md' % LANG)
+PAGE = os.path.join(SITE, 'mainpage', LANG, 'index.html')
+assert os.path.isfile(MASTER), (
+    'нет мастера Манифеста для языка "%s": %s. Языки, для которых он есть: %s' % (
+        LANG, MASTER,
+        ', '.join(sorted(f[:2] for f in os.listdir(MANIFEST_DIR) if f.endswith('-manifest.md')))))
 assert os.path.isfile(PAGE), PAGE
 
 # Последняя строка Манифеста ведёт на документ об учредительном периоде: это
