@@ -1,6 +1,6 @@
 # Working Agenda
 
-**One possible model of the future. Not a blueprint to be rolled out - a specimen of how the workings of our common home can be taken apart and tested at all.**
+**One possible model of the future. Not a blueprint to be rolled out - a specimen of how the workings of our common home can be taken apart and tested in the first place.**
 
 > Working agenda · for a narrow circle
 >
@@ -12,7 +12,7 @@
 >
 > It deliberately leaves both the strong places and the weak ones in view. The weak ones are not a defect but the content: a map of what still needs thinking about. Any part of it can be contested, rewritten, forked.
 >
-> **Where it comes from and where it calls.** This examination arose in the work on Earthlings - a cross-border voluntary community of people. But the model itself stands alone: it holds as pure reasoning, and Earthlings is neither its source nor its owner but an *environment* where models of this kind can be assembled in the small, set against one another, and tested for strength. We consider these questions important for everyone - a common home concerns each of us; and so we are ready to discuss, research, design, and test them from the first days and in the open, together with anyone who wishes to take part.
+> **Where it comes from and what it calls for.** This examination arose in the work on Earthlings - a cross-border voluntary community of people. But the model itself stands alone: it holds as pure reasoning, and Earthlings is neither its source nor its owner but an *environment* where models of this kind can be assembled in the small, set against one another, and tested for strength. We consider these questions important for everyone - a common home concerns each of us; and so we are ready to discuss, research, design, and test them from the first days and in the open, together with anyone who wishes to take part.
 
 # Part 0. How to read this document
 
@@ -173,7 +173,7 @@ To take part in the rules one lives under. Voice is needed above all where exit 
 
 Audit
 
-To read the code that executes a person. No closed source in the power over them. What rules must be transparent to the ruled.
+To read the code that executes a person. No closed source in the power over them. Whatever rules must be transparent to the ruled.
 
 Non-domination
 
@@ -190,7 +190,7 @@ The human being is at once a **user** (sovereign over their own domain) and, col
 ### Duties (the price of the no-exit layer - without it the whole construction is utopian)
 
 - **Do not corrupt shared memory.** Do not dump your costs into the biosphere and into someone else's life. Internalizing externalities is neither a tax nor a moral duty but a prohibition on memory corruption: you cannot write destruction into memory that everyone shares.
-- **Maintain the upkeep of the common.** Contribute to the kernel layer (safety, the commons, protection of the weak), from which one cannot exit - precisely because one cannot emigrate from its obligations. The only legitimate compulsion to contribute.
+- **Support the upkeep of the common.** Contribute to the kernel layer (safety, the commons, protection of the weak), from which one cannot exit - precisely because one cannot emigrate from its obligations. The only legitimate compulsion to contribute.
 - **Service the system.** Participation as maintenance. An OS no one maintains degrades. Citizenship is both a login and a duty shift on the system: the minimal share of attention and labour without which the common rusts.
 
 # Part V · Module 1. Sybil identity: a human login without a new Big Brother
@@ -256,7 +256,7 @@ A pure plan fails on the knowledge problem (the centre does not know what a mark
 > **The kernel sets invariants, not allocations.** The kernel is not a planner but a *constraint solver*: it sets the bounds, and within them a decentralized market distributes. This preserves both the Hayekian information of prices and the protection of the common.
 
 1. **A protected floor.** A guaranteed minimum: food, energy, access to computation and information, basic health. The justification is not pity but freedom: one can bargain freely in a market only if there is somewhere to walk away to from a bad deal. The floor gives the power to stand up and leave; it makes the market above it honest.
-2. **The common is metered and paid for.** The rival commons (atmosphere, orbit, spectrum, water, attention) is neither free nor privatized - access to it is paid and dosed. The revenue from depleting the common funds the floor and the kernel. This is rent on the common (in the spirit of George), not a tax on production: you pay not for what you created but for what you took from everyone.
+2. **The common is metered and paid for.** The rival commons (atmosphere, orbit, spectrum, water, attention) is neither free nor privatized - access to it is paid for and metered. The revenue from depleting the common funds the floor and the kernel. This is rent on the common (in the spirit of George), not a tax on production: you pay not for what you created but for what you took from everyone.
 3. **A concentration ceiling is a security feature, not envy.** Extreme concentration of resource = concentration of power = a potential root, and rootlessness is among the model's axioms. Limiting accumulation is anti-capture. The justification is stronger than the moral one: not "wealth is unjust" but "super-wealth is an unauthorized seizure of administrator rights".
 
 > Separately
@@ -289,7 +289,7 @@ Whoever controls updating controls everything. A door for "improvers" who pave o
 
 - **Policy as experiment.** Staged rollout instead of "everything at once"; A/B testing on a small consenting circuit; measurement against metrics announced in advance; expansion only if it worked.
 - **A bias towards reversibility.** Preference for what can be rolled back. For the irreversible, a radically higher threshold. Sunset clauses: rules expire and must be reconfirmed. The default is repeal, not accumulation; a dead institution quietly expires instead of dragging on by inertia.
-- **The fork as a fuse.** Lose an update and you do not go to war, you separate on open rules. Pluralism applied to time.
+- **The fork as a fuse.** Lose an update and you do not go to war; you separate on open rules. Pluralism applied to time.
 - **Separating the power to change rules from the power to gain by them.** Whoever writes an amendment must not feed off it. A change is made under a partial veil of ignorance about one's own future position.
 - **Who guards the updater.** The update mechanism is itself code, and whoever changes it is the real root. The meta-rule is the hardest of all to change: only a durable supermajority sustained over time. Time-locks: a change to the kernel requires support across several periods. A majority on a Tuesday does not touch the kernel.
 
@@ -381,13 +381,13 @@ Nothing here is wholly new. Almost every element has already been tried by someo
 |---|---|---|
 | Federalism, subsidiarity | Layering and "decide at the lowest capable level" work. | The upper layer either devours the lower ones or is paralysed by a right of veto. |
 | Cooperatives, mutualism | An economy in which a person is a user and the vote is not bought. | They scale badly, struggle with capital, and degenerate into a managerial oligarchy. |
-| Commons after Ostrom | Communities can hold the common without privatization and without a state - given the conditions. | It worked at surveyable scales; the planetary one is an untested extrapolation. |
+| Commons after Ostrom | Communities can hold the common without privatization and without a state - given the conditions. | It worked at scales one can take in; the planetary one is an untested extrapolation. |
 | Georgism (rent on the common) | An exact prototype of "the common is paid for, labour is not". | It loses politically to the holders of rent; the problem is capture of the implementing mechanism. |
 | DAOs, Web3 governance | Live capability permissions, the fork as a fuse, an algorithmic treasury. | Plutocracy (the vote is bought with a token), Sybil attacks, the gap between "code is law" and living justice. |
-| Network states | An attempt to untie belonging from territory and to make exit the foundation. | They gather the similar wealthy with the similar wealthy; they are weak on care for the unprofitable. |
+| Network states | An attempt to untie belonging from territory and to make exit the foundation. | They gather the wealthy with others like them; they are weak on care for the unprofitable. |
 | Non-territorial peoples | A people without territory is not a fantasy: under declarative theory, existence is a fact of self-founding rather than a gift of recognition. | What is open is not the existence of the subject but external recognition - it accumulates separately and slowly; for groups inside states it runs through those states. |
 
-> They say it plainly: a single element is realizable but breaks at scale, on capture, or on care for the weak. The model's open question is whether the *configuration* will hold where the *parts* fell. There is no answer in advance; it is obtained only by trying.
+> They say it plainly: a single element can be built but breaks at scale, on capture, or on care for the weak. The model's open question is whether the *configuration* will hold where the *parts* fell. There is no answer in advance; it is obtained only by trying.
 
 # Part XII. The open horizon: what we are opening up for work
 
