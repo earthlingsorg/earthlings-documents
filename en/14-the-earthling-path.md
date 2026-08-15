@@ -8,11 +8,11 @@
 
 ## 1. What is needed to enter
 
-**Age** - 18 years of age or over.
+**Age** - 18 years or over.
 
 **Consent** - acceptance of the Earthlings Declaration.
 
-**Identity verification** - confirmation that you are a living human being and that you are one.
+**Identity verification** - confirmation that you are a living human being and that there is only one of you.
 
 **A one-time contribution** - the equivalent of 79 USD.
 
@@ -42,11 +42,11 @@ No other conditions exist. Nationality, race, religion, sex, social position, ci
 
 ## 3. What you receive
 
-**You cannot be expelled.** No procedure for expulsion from the Earthlings people exists under any circumstances and for any majority. Belonging ends only by your own decision.
+**You cannot be expelled.** No procedure for expulsion from the Earthlings people exists under any circumstances or for any majority. Belonging ends only by your own decision.
 
 **Your vote cannot be taken away for how you think and how you vote.** Not for your views, not for how you voted, not for disagreement with decisions, and not as a general measure of liability. The single exception is a proven attack on the voting mechanism itself; the procedure and periods are laid down by the [Charter, Article 22 bis](https://earth-lings.org/documents/en/en05-charter.html).
 
-**Your vote equals any other.** It depends neither on money, nor on reputation, nor on length of membership, nor on the number of units of account in your wallet.
+**Your vote equals any other.** It depends neither on money, nor on reputation, nor on length of participation, nor on the number of units of account in your wallet.
 
 **You can leave at any time** - by yourself, without giving reasons, and no one can prevent it, the founder included.
 
@@ -56,7 +56,7 @@ No other conditions exist. Nationality, race, religion, sex, social position, ci
 
 ## 4. What the passport does not give
 
-This matters to know before paying, not after.
+This is important to know before paying, not after.
 
 - **it gives no visa rights** and has no bearing on crossing borders;
 - **it does not replace the documents of your state** and is not an identity document;
@@ -64,7 +64,7 @@ This matters to know before paying, not after.
 - **it does not affect citizenship, taxes, or jurisdiction** - all of that stays as it was;
 - **it gives no income** and is not a financial investment.
 
-Inside the people the passport gives everything: an equal vote, participation in decisions, inalienable belonging. Beyond it, the people's legal cognizability is only accumulating - through practice, time, and numbers.
+Inside the people the passport gives everything: an equal vote, participation in decisions, inalienable belonging. Beyond it, the people's legal cognizability is only accumulating - through practice, time, and the number of participants.
 
 ---
 
@@ -75,7 +75,7 @@ Inside the people the passport gives everything: an equal vote, participation in
 - to take part in votes in good faith;
 - to be transparent in delivering projects and to account for the use of common funds.
 
-These are duties, not conditions for keeping your status: breaching them entails neither expulsion nor loss of the vote. Measures for gross breaches concern only participation in Cells - the small working groups - the right to submit proposals, and access to services ([Charter, Article 22](https://earth-lings.org/documents/en/en05-charter.html)).
+These are duties, not conditions for keeping your status: breaching them entails neither expulsion nor loss of the vote. Measures for gross breaches concern only participation in Cells (the small working groups), the right to submit proposals, and access to services ([Charter, Article 22](https://earth-lings.org/documents/en/en05-charter.html)).
 
 ---
 
@@ -85,7 +85,7 @@ These are duties, not conditions for keeping your status: breaching them entails
 
 **Suspended.** A pause **by your own decision**. The passport is retained, the right to vote is suspended by you yourself, units of account remain in your wallet, and access to information is retained. The maximum period is 12 months. Resumption is by a statement through your personal account, and repeat identity verification is not required.
 
-**Inactive.** Assigned automatically if you have taken no action for 12 months and have not replied to an enquiry. The passport is retained, **the right to vote is retained in full** and may be exercised at any time; your vote simply stops counting towards the quorum, so as not to raise the requirement for everyone else. On your first action the status is restored automatically.
+**Inactive.** Assigned automatically if you have taken no action for 12 months and have not replied to an enquiry. The passport is retained, **the right to vote is retained in full** and may be exercised at any time; your vote simply stops counting towards the quorum, so as not to raise the quorum requirement for everyone else. On your first action the status is restored automatically.
 
 **Exit.** A statement through your personal account, then a pause of 72 hours by default - protection against an impulsive decision, which you are entitled to waive. Then you burn the passport **with your own key**: the server does not store your keys and can neither prevent your exit nor carry it out for you. The exit takes effect from the moment of burning.
 
@@ -99,7 +99,7 @@ As a general rule you alone burn your passport. The Charter (Article 21) establi
 
 **1. Annulment of an invalid issuance.** It applies where it is established that more than one valid passport has been issued to one person, or that verification was passed using falsified data or another person's identity.
 
-This is not a measure of liability for conduct and not expulsion from the people: what is established is only that the issuance never lawfully took place. The procedure protects you at every step - notice, a period for objection, an opinion of the Independent Council, a secret ballot with a raised majority, a right of appeal; the periods and thresholds are laid down by the [Charter, Article 21](https://earth-lings.org/documents/en/en05-charter.html). If the obstacle to lawful issuance is removed, you are entitled to pass verification again on general terms.
+This is not a measure of liability for conduct and not expulsion from the people: what is established is only that the issuance never lawfully took place. The procedure protects you at every step - notice, a period for objection, an opinion of the Independent Council, a secret ballot with a higher majority, a right of appeal; the periods and thresholds are laid down by the [Charter, Article 21](https://earth-lings.org/documents/en/en05-charter.html). If the obstacle to lawful issuance is removed, you are entitled to undergo verification again on general terms.
 
 **2. Technical reissue.** At **your own request** on loss of access to your wallet or on migration of the contract. The passport is burned and immediately issued anew; **membership is not interrupted**, and no vote is required.
 
@@ -121,19 +121,19 @@ More on what happens to the passport and to your data: [The earthling SBT passpo
 
 There is no exemption from the contribution. There is something else: the contribution for you is made by someone else.
 
-**What this looks like for you.** At the payment step, next to the "pay" button, there is a second one - "I need the contribution". It asks neither your country, nor your income, nor your reason: nothing has to be proven and nothing has to be told about yourself. One press, and you are in the open queue.
+**What this looks like for you.** At the payment step, next to the "pay" button, there is a second one - "I need the contribution". It asks neither your country, nor your income, nor your reason: you do not have to prove anything or say anything about yourself. One press, and you are in the open queue.
 
 Only a number and a date are visible in the queue. No name, no country, no reason. The queue must not become a shop window of the needy.
 
-When the queue reaches you, the passport is issued by itself and you receive an email. And the passport is exactly like everyone else's: the registry does not record who made the contribution for it, and it is impossible to tell from it who paid for themselves and who was paid for by another person. There are no first-class and second-class passports in this people.
+When the queue reaches you, the passport is issued by itself and you receive an email. The passport is then exactly like everyone else's: the registry does not record who made the contribution for it, and it is impossible to tell from it who paid for themselves and who was paid for by another person. There are no first-class and second-class passports in this people.
 
 You will have to wait. What we promise is not instant entry but that money will not become a wall forever: it makes entry slower, not closed.
 
 **What this looks like for the person paying.** Any person - earthling or not - sees how many people are in the queue and may pay for one, for five, or for as many as they wish. Payment goes by the same method and to the same address as paying for oneself.
 
-A particular person cannot be chosen: the head of the queue is what is paid. This is deliberate. As soon as it becomes possible to choose exactly whom, a patron appears, and dependence behind them; in a people where everyone is equal there is no place for that. The payer does not know whom they paid for. The person paid for does not know who paid.
+A particular person cannot be chosen: payment is made for whoever is at the head of the queue. This is deliberate. As soon as one can choose exactly whom to pay for, a patron appears, and dependence behind them; in a people where everyone is equal there is no place for that. The payer does not know whom they paid for. The person paid for does not know who paid.
 
-How many people are in the queue and how many have already been paid for is publicly visible. The payer's name is published if they wish: anonymously is also possible.
+How many people are in the queue and how many have already been paid for is publicly visible. The payer's name is published if they wish; anonymous payment is also possible.
 
 **Why it is done this way rather than through an exemption.** An exemption requires a person to declare their poverty and requires us to verify it. There is nothing to verify it with across the whole world, and we do not want to make a person prove need in order to enter a people that speaks of dignity. Here no one declares anything about themselves: a person says not "I am poor" but "I need the contribution", and what decides next is not their words but someone else's readiness to pay.
 
