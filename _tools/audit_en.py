@@ -15,6 +15,35 @@ DIR = os.path.join(REPO, LANG)
 assert os.path.isdir(DIR), DIR
 
 
+class Tee(object):
+    """Пишет отчёт в файл UTF-8 и одновременно в консоль.
+
+    Русская консоль Windows работает в cp866: заголовки разделов в ней
+    читаются, а цитата с любым знаком вне этой кодировки роняет процесс
+    посреди отчёта. В консоль отдаём с заменой, полный текст - из файла.
+    """
+
+    def __init__(self, path, console):
+        self.f = io.open(path, 'w', encoding='utf-8', newline='\n')
+        self.c = console
+        self.enc = getattr(console, 'encoding', None) or 'ascii'
+
+    def write(self, s):
+        self.f.write(s)
+        try:
+            self.c.write(s)
+        except UnicodeEncodeError:
+            self.c.write(s.encode(self.enc, 'replace').decode(self.enc))
+
+    def flush(self):
+        self.f.flush()
+        self.c.flush()
+
+
+REPORT = os.path.join(REPO, '_tools', 'audit-report-%s.txt' % LANG)
+sys.stdout = Tee(REPORT, sys.stdout)
+
+
 def load():
     out = {}
     for f in sorted(os.listdir(DIR)):
@@ -210,15 +239,29 @@ def main():
                 print('  %-34s %-18s %d  %s' % (name, label, len(m), str(m[:3])[:60]))
 
     print('\n=== 6. ДЛИННЫЕ ПРЕДЛОЖЕНИЯ (> 60 слов) ===')
+    # Резать по всему файлу нельзя: абзац, следующий за точкой и начинающийся
+    # с врезки `>`, дефиса списка или строчной буквы, приклеивается к
+    # предыдущему, и счётчик выдаёт предложения, которых в тексте нет. Так
+    # документ 32 дважды попадал в отчёт ни за что. Сначала абзацы, потом
+    # предложения внутри абзаца.
     for name, s in sorted(texts.items()):
-        body = re.sub(r'`[^`]*`|\[[^\]]*\]\([^)]*\)|^\|.*$', ' ', s, flags=re.M)
-        for sent in re.split(r'(?<=[.!?])\s+(?=[A-Z"*])', body):
-            w = len(sent.split())
-            if w > 60:
-                print('  %-34s %3d слов  %s...' % (name, w, ' '.join(sent.split())[:90]))
+        body = re.sub(r'`[^`]*`|\[[^\]]*\]\([^)]*\)|^\|.*$|^#+ .*$', ' ',
+                      s, flags=re.M)
+        # Пункт списка - отдельная единица: без этого весь список считается
+        # одним предложением и любой перечень из десяти пунктов «длинный».
+        for para in re.split(r'\n\s*\n|\n(?=\s*(?:[-*]|\d+\.)\s)', body):
+            para = ' '.join(para.split())
+            if not para:
+                continue
+            for sent in re.split(r'(?<=[.!?])\s+(?=[A-Z"*])', para):
+                w = len(sent.split())
+                if w > 60:
+                    print('  %-34s %3d слов  %s...' % (name, w, sent[:90]))
 
     extra_checks(texts)
+    print('\nполный отчёт в UTF-8: %s' % os.path.relpath(REPORT, REPO))
 
 
 if __name__ == '__main__':
     main()
+    sys.stdout.flush()
