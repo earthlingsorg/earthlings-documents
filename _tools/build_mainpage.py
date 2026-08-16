@@ -48,9 +48,27 @@ ONWARD_HREF = doc_href(ONWARD_DOC, LANG)
 # Последняя строка Манифеста на каждом языке своя. Языка нет в таблице - сборка
 # остановится на проверке ниже, а не поставит ссылку молча мимо.
 ONWARD_TEXT_BY_LANG = {
-    'ru': 'Мы выбираем друг друга.',
-    'en': 'We choose one another.',
+    'ru': 'Мы выбираем друг друга',
+    'en': 'We choose one another',
 }
+
+# Подпись под Манифестом. Манифест подписывают его авторы, а не народ
+# (Учредительный период, раздел 02), поэтому здесь команда, а не «Earthlings».
+SIGN_BY_LANG = {
+    'ru': 'Команда Earthlings',
+    'en': 'The Earthlings team',
+}
+
+# Ссылка на PDF. Файла для языка нет - блок не выводится, битой ссылки не будет.
+PDF_BY_LANG = {
+    'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', 'Скачать манифест в PDF'),
+    'en': ('/downloads/manifesto-of-belonging-en.pdf', 'Download the manifesto as PDF'),
+}
+
+PDF_SVG = ('<svg viewBox="0 0 16 19" fill="none" stroke="currentColor" stroke-width="1.3" '
+           'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+           '<path d="M9.4 1H2.6C2 1 1.5 1.5 1.5 2.1v14.8c0 .6.5 1.1 1.1 1.1h10.8c.6 0 '
+           '1.1-.5 1.1-1.1V6.1z"/><path d="M9.4 1v5.1h5.1"/><path d="M5 13.4h6"/></svg>')
 assert LANG in ONWARD_TEXT_BY_LANG, (
     'не задана последняя строка Манифеста для языка "%s": без неё ссылка на '
     'учредительный период не встанет. Языки: %s'
@@ -62,6 +80,62 @@ STYLE = u"""<style>
    - fixed, и без него текст уходил бы под неё. Высота шапки плюс два
    сантиметра воздуха - столько же, сколько у страниц документов. */
 .statute{padding-top:calc(var(--header-height,64px) + 76px)}
+/* Подпись идёт после кнопки и закрывает текст. Стоять перед ней она не может:
+   там она работает меткой голоса, и всё, что ниже, читается речью команды -
+   «мы» манифеста сужается до неё одной. Ниже подписи остаётся только ссылка
+   на PDF: она принадлежит странице, а не документу, поэтому и стоит вне
+   подписанного текста. */
+.statute .sign{
+  margin: 2.8rem auto 0; text-align: center;
+  font-style: italic; font-size: .92rem; color: var(--ink-soft);
+}
+.statute .sign::before{
+  content: ""; display: block; width: 56px; height: 0;
+  margin: 0 auto 1.2rem; border-top: 1px solid var(--rule-soft);
+}
+/* Последняя строка манифеста - одновременно дверь в учредительный период.
+   Тонкий синий контур цветом --navy: это единственный синий в палитре
+   листа, произвольный оттенок выбивался бы из корпуса. */
+.statute .onward{ margin: 3.4rem 0 0; text-align: center; }
+.statute .onward a{
+  display: inline-block; padding: .95rem 2.4rem;
+  border: 1px solid var(--navy); color: var(--navy);
+  text-decoration: none; letter-spacing: .02em;
+  background: transparent;
+  transition: box-shadow .25s ease;
+}
+/* Цвет надписи наследуется от ссылки: иначе .statute strong перебивает его
+   своим navy и на наведении текст сливается с рамкой. */
+.statute .onward a strong{ color: inherit; }
+/* На наведении контур становится вдвое толще, а заливки нет. Толщина набрана
+   внутренней тенью, а не border-width: рамка в 2px сдвинула бы кнопку. */
+.statute .onward a:hover,
+.statute .onward a:focus-visible{
+  box-shadow: inset 0 0 0 1px var(--navy);
+}
+.statute .onward a:focus-visible{ outline: 2px solid var(--gold); outline-offset: 3px; }
+@media (max-width: 480px){
+  .statute .onward a{ padding: .85rem 1.5rem; }
+}
+/* Скачивание - действие второго плана. Красный здесь опознавательный знак
+   формата, а не сигнал тревоги: приглушённый кирпичный, без рамки и без
+   заливки в покое, мельче основной кнопки. Внимание он забирает ровно
+   настолько, чтобы его заметили рядом с навигационной кнопкой. */
+.statute .get-pdf{ --pdf: #9a3324; margin: 1.6rem 0 0; text-align: center; }
+.statute .get-pdf a{
+  display: inline-flex; align-items: center; gap: .5rem;
+  padding: .45rem .8rem; border-radius: 3px;
+  font-size: .88rem; color: var(--pdf); text-decoration: none;
+  background: transparent;
+  transition: background-color .25s ease;
+}
+.statute .get-pdf a span{ border-bottom: 1px solid rgba(154,51,36,.35); padding-bottom: 1px; }
+.statute .get-pdf svg{ width: 15px; height: 18px; flex: 0 0 auto; }
+.statute .get-pdf a:hover,
+.statute .get-pdf a:focus-visible{ background: rgba(154,51,36,.07); }
+.statute .get-pdf a:hover span,
+.statute .get-pdf a:focus-visible span{ border-bottom-color: var(--pdf); }
+.statute .get-pdf a:focus-visible{ outline: 2px solid var(--pdf); outline-offset: 2px; }
 </style>"""
 
 UMAMI = ('<!--umami-start--><script defer src="https://stats.earth-lings.org/script.js" '
@@ -92,6 +166,24 @@ def link_onward(body):
     return body.replace(old, new, 1), True
 
 
+def sign_and_pdf():
+    """Подпись авторов и ссылка на PDF - они принадлежат странице, не тексту.
+
+    В мастере их нет намеренно: подпись не часть Манифеста, а указание, чей
+    это голос, и в переводе она не должна прогоняться через текст.
+    """
+    out = ['<p class="sign">%s</p>' % html.escape(SIGN_BY_LANG[LANG])]
+    href, label = PDF_BY_LANG.get(LANG, (None, None))
+    if href and os.path.isfile(os.path.join(SITE, href.lstrip('/'))):
+        out.append('<p class="get-pdf"><a href="%s" download>%s<span>%s</span></a></p>'
+                   % (href, PDF_SVG, html.escape(label)))
+    else:
+        sys.stderr.write(
+            'ВНИМАНИЕ %s: нет файла %s - блок скачивания не выводится. '
+            'Собрать PDF новой редакции и пересобрать страницу.\n' % (LANG, href))
+    return '\n'.join(out)
+
+
 def main():
     dry = '--dry' in sys.argv
     md = io.open(MASTER, encoding='utf-8').read()
@@ -104,7 +196,11 @@ def main():
             '<div class="rule-double"></div></header>' % title_html)
     body = md2doc.render_body(doc)
     body, linked = link_onward(body)
-    assert linked, 'последний абзац мастера изменился - ссылка «Вперёд.» не поставлена'
+    assert linked, (
+        'последняя строка мастера не совпадает с ONWARD_TEXT для языка "%s" '
+        '(%r) - ссылка на учредительный период не поставлена. Правьте таблицу, '
+        'а не мастер.' % (LANG, ONWARD_TEXT))
+    body += '\n' + sign_and_pdf()
 
     page = '\n'.join([
         head_html(),
