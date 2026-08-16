@@ -160,7 +160,7 @@ Procedures are provided for reviewing decisions that lead to unacceptable result
 
 **Rotation and recall of the elected.** The Core Nodes rotate every 6 months, and at each rotation at least two members of the Emergency Multisig are replaced. Both structures are recalled by a simple majority at any time - by the same threshold that elects them: removing someone from a mandate cannot be harder than appointing them.
 
-**Control of conflicts of interest.** Mandatory declaration and recusal in votes on the allocation of funds (section 08).
+**Control of conflicts of interest.** Mandatory declaration and recusal in votes on the allocation of funds (section 11).
 
 **A right of initiative for everyone.** Any earthling brings a question forward for discussion and a vote with no threshold of support and without anyone's approval.
 
