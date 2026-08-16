@@ -384,7 +384,7 @@ The personal and biometric data of participants is not public under any circumst
 
 ## Article 14. The Rights of Earthlings
 
-- Participation in votes with equal weight of vote
+- Participation in votes with equal voting weight
 - Creation of proposals and initiatives
 - Participation in community projects
 - Delegation of a vote by field
@@ -498,7 +498,7 @@ If more than one valid passport has been issued to one person, the issuance of a
 - Vote: **sanction majority of 75% at a quorum of 25%, secret, without delegation**
 - Appeal within 30 days; a simple majority (51%, quorum 20%) is enough to overturn the decision
 
-Annulment is not expulsion from the people and is not applied as a measure of liability for conduct. It establishes only that the issuance did not lawfully take place. A person whose passport has been annulled has the right to pass verification again on the general basis, once the impediment to lawful issuance has been removed.
+Annulment is not expulsion from the people and is not applied as a measure of liability for conduct. It establishes only that the issuance did not lawfully take place. A person whose passport has been annulled has the right to undergo verification again on general terms, once the impediment to lawful issuance has been removed.
 
 ### 2. Technical Reissue
 

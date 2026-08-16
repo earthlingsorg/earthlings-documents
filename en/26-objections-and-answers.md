@@ -82,7 +82,7 @@ Hence the general diagnosis: **a DAO is technique without philosophy.** A mechan
 
 Now as to what is built differently - and we speak of the design, not of intentions.
 
-**The vote is tied to a confirmed human being, not to a balance.** The unit of account gives no votes at any volume; economic weight and the right to decide are separated architecturally.
+**The vote is tied to a confirmed human being, not to a balance.** The unit of account gives no votes whatever the amount held; economic weight and the right to decide are separated architecturally.
 
 **It is confirmed that a participant is a living human being and that they are one.** Multiple registration is technically excluded, and this is a condition of entry, not a wish.
 
