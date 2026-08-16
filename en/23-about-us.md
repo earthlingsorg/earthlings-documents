@@ -1,6 +1,6 @@
 # About Us
 
-**Governance, funding, and public verification**
+**Authorship, governance, funding, and public verification**
 
 ## Overview
 
@@ -32,6 +32,12 @@ The quantity of EC a person holds is, as a matter of principle, not convertible 
 EC is not a security and not an investment instrument. It is not legal tender and is not electronic money; within the ecosystem it serves as a unit of account for services and contribution.
 
 Earthlings offers not a manifesto with technology attached but a functioning institution that can be examined, verified, and joined.
+
+## Authorship of the corpus
+
+The founding corpus was written by Artur Arakelian. It is a draft put forward for discussion, not a finished body of rules that only remains to be adopted.
+
+Anyone may propose an amendment to any document, and the texts acquire force not from authorship but from the vote: this people will be founded not by whoever drew up the documents, but by those who vote for them. The procedure is set out in [The Founding Period](/documents/en/en20-the-founding-period.html).
 
 ## Governance architecture
 
@@ -128,7 +134,7 @@ The key principle in forming the Council is that its members should be people wh
 
 ## Funding and transparency
 
-Up to now the project has been funded entirely from the founder's personal funds.
+The project was initiated by Artur Arakelian; up to now it has been funded entirely from his personal funds.
 
 No external funding has been raised to date.
 
