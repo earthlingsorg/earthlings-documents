@@ -1,6 +1,6 @@
 # About Us
 
-**Founder, governance, funding, and public verification**
+**Governance, funding, and public verification**
 
 ## Overview
 
@@ -10,7 +10,12 @@ The project's founding documents describe this model as the architecture of a so
 
 The architecture of Earthlings is designed as a single institutional system rather than assembled from off-the-shelf components. For engagement with the existing legal system the people, through authorized representatives, uses registered legal structures and other legal instruments - replaceable external interfaces for engagement. The people itself is governed through its own DAO infrastructure.
 
-Twenty-five founding documents in nine languages, four production sites covering the full operational cycle, and an on-chain identity together with a publicly verifiable treasury make up Earthlings in its current institutional state.
+Twenty-five founding documents in nine languages, an on-chain identity, and a publicly verifiable treasury make up Earthlings in its current institutional state. The full operational cycle is covered by four production sites, deployed from April 2025 onward:
+
+- the founding documents;
+- biometric identification and the issuance of SBT passports;
+- the ecosystem platform;
+- a philosophical companion site.
 
 The infrastructure of self-government - the registry, identity verification, voting, Cells, the internal economy, and the treasury - is built, deployed, and tested in a working environment. The people is in its founding phase: entry is opening, and from the first day the whole practice of self-government - votes, decisions, movements of funds - is recorded in a public chronicle. The body that by its nature requires an established membership - the Independent Council - is formed once that membership is in place; until then it is provided for by the founding documents.
 
@@ -27,19 +32,6 @@ The quantity of EC a person holds is, as a matter of principle, not convertible 
 EC is not a security and not an investment instrument. It is not legal tender and is not electronic money; within the ecosystem it serves as a unit of account for services and contribution.
 
 Earthlings offers not a manifesto with technology attached but a functioning institution that can be examined, verified, and joined.
-
-## The founder and the background
-
-The founding corpus of Earthlings was created by Artur Arakelian. Authorship and the provenance of the corpus are cryptographically verifiable (see [cryptographic verification](/verification/)).
-
-The project's technological infrastructure - four production sites forming a full operational cycle, including:
-
-- the founding documents;
-- biometric identification and the issuance of SBT passports;
-- the ecosystem platform;
-- a philosophical companion site,
-
-was designed, developed, and deployed by the founder from April 2025 onward.
 
 ## Governance architecture
 
