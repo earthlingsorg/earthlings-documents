@@ -44,8 +44,18 @@ ONWARD_DOC = '20'
 # Адрес берём из той же таблицы, что и сборщик корпуса: держать его здесь
 # отдельной строкой значит забыть про него на следующем переименовании.
 from build_site_docs import doc_href  # noqa: E402
-ONWARD_HREF = doc_href(ONWARD_DOC)
-ONWARD_TEXT = 'Мы выбираем друг друга.'
+ONWARD_HREF = doc_href(ONWARD_DOC, LANG)
+# Последняя строка Манифеста на каждом языке своя. Языка нет в таблице - сборка
+# остановится на проверке ниже, а не поставит ссылку молча мимо.
+ONWARD_TEXT_BY_LANG = {
+    'ru': 'Мы выбираем друг друга.',
+    'en': 'We choose one another.',
+}
+assert LANG in ONWARD_TEXT_BY_LANG, (
+    'не задана последняя строка Манифеста для языка "%s": без неё ссылка на '
+    'учредительный период не встанет. Языки: %s'
+    % (LANG, ', '.join(sorted(ONWARD_TEXT_BY_LANG))))
+ONWARD_TEXT = ONWARD_TEXT_BY_LANG[LANG]
 
 STYLE = u"""<style>
 /* Оформление приезжает из docs-statute.css. Здесь только отступ: шапка сайта

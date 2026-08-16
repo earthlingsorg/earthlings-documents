@@ -45,6 +45,18 @@ assert os.path.isdir(DOCS), (
     'Ожидается earth-lings-site рядом с этим репозиторием. Если он лежит в '
     'другом месте - EARTHLINGS_SITE=/путь/к/earth-lings-site' % DOCS)
 
+
+# Язык - параметр сборки, а не константа. Мастера лежат в <repo>/<lang>/,
+# готовые страницы - в <site>/documents/<lang>/. Русский остаётся значением по
+# умолчанию у каждой функции: так добавление языка не может изменить того, что
+# собиралось раньше.
+def md_dir(lang='ru'):
+    return os.path.join(REPO, lang)
+
+
+def docs_dir(lang='ru'):
+    return os.path.join(SITE, 'documents', lang)
+
 # Номер документа -> имя мастера. Отдельный список имён не нужен: имя
 # выводится из пары «номер - слаг», заданной ниже в SLUGS, и она же служит
 # адресом страницы. Одна таблица вместо двух - расходиться нечему.
@@ -87,6 +99,36 @@ SLUGS = {
         '30': 'subekt-prava',
         '31': 'rabochaya-povestka',
         '32': 'gde-my-sejchas',
+    },
+    # Английский. Слаги выведены из имён мастеров в en/ и сверены с
+    # перелинковкой внутри самих документов: 107 внутренних ссылок, расхождений
+    # нет. Придумывать здесь ничего нельзя - ссылки в текстах уже написаны.
+    'en': {
+        '01': 'declaration',
+        '03': 'ethics',
+        '04': 'legal-basis',
+        '05': 'charter',
+        '07': 'dao',
+        '08': 'cells',
+        '09': 'treasury',
+        '10': 'earthlings-coin',
+        '11': 'independent-council',
+        '12': 'digital-platform',
+        '14': 'the-earthling-path',
+        '15': 'sbt-passport',
+        '16': 'biometric-verification',
+        '17': 'what-may-happen-next',
+        '19': 'roadmap',
+        '20': 'the-founding-period',
+        '22': 'legal-information',
+        '23': 'about-us',
+        '26': 'objections-and-answers',
+        '27': 'frequently-asked-questions',
+        '28': 'privacy-policy',
+        '29': 'terms-of-use',
+        '30': 'how-a-subject-of-law-arises',
+        '31': 'working-agenda',
+        '32': 'where-we-are-now',
     },
 }
 
@@ -169,6 +211,95 @@ OVERRIDES = {
     },
 }
 
+# Английская обвязка. Заголовки здесь не заданы намеренно: они выводятся из H1
+# документа и потому разойтись с ним не могут. Описания - зеркало русских: где
+# по-русски стоит содержательное описание, оно переведено; где шаблон - шаблон.
+# Сочинять по-английски то, чего нет по-русски, значит завести вторую редакцию
+# позиционирования, которую никто не сверял.
+_OFFICIAL = '%s - an official document of the Earthlings people.'
+OVERRIDES_EN = {
+    '01': {'description': _OFFICIAL % 'The Earthlings Declaration of Self-Determination'},
+    '03': {'description': _OFFICIAL % 'Earthlings Ethics'},
+    '04': {'description':
+           'The legal basis of the Earthlings people: freedom of association, the right of '
+           'self-determination, the features of a people and the open questions of '
+           'international law - with sources, and with a direct statement of what the law '
+           'has not yet decided.',
+           'og_description':
+           'Freedom of association, self-determination, the features of a people, and what '
+           'international law has not yet decided.'},
+    '05': {'description': _OFFICIAL % 'Earthlings Charter'},
+    '07': {'description': _OFFICIAL % 'The Earthlings DAO: principles, architecture and governance'},
+    '08': {'description': _OFFICIAL % 'Earthlings Cells - the system of projects and cooperation'},
+    '09': {'description': _OFFICIAL % 'The Earthlings Treasury'},
+    '10': {'description': _OFFICIAL % 'Earthlings Coin: the full documentation'},
+    '11': {'description': _OFFICIAL % 'The Earthlings Independent Council'},
+    '12': {'description': _OFFICIAL % 'The Earthlings Digital Platform'},
+    '14': {'description': _OFFICIAL % 'The Earthling Path'},
+    '15': {'description': _OFFICIAL % 'The earthling SBT passport'},
+    '16': {'description': _OFFICIAL % 'The Earthlings Biometric Verification Policy'},
+    '17': {'description':
+           'The possibilities open to the Earthlings people today and those that may open '
+           'with growth: each with its condition and its mechanism named, and beside them '
+           'what may go wrong.',
+           'og_description':
+           'Possibilities, conditions, and what may go wrong. Not a forecast and not a '
+           'promise - a list of what exists.'},
+    '19': {'description': _OFFICIAL % 'Roadmap of the Transitional Period'},
+    '20': {'description':
+           'The Earthlings founding period: proposals are accepted on the whole corpus of '
+           'twenty-five documents - the Declaration, the Charter and the rest - from '
+           '7 September to 6 December 2026, the record on 20 December, the vote on the '
+           'Declaration on 3 January 2027. What is open to discussion, what is not up for '
+           'discussion, and how to take part.'},
+    '22': {'description': _OFFICIAL % 'Legal Information'},
+    '23': {'description': _OFFICIAL % 'About Us'},
+    '26': {'description':
+           'Objections to the construction of the Earthlings people - on separatism, '
+           'sovereignty, plutocracy in the DAO, the contribution, the unamendable core and '
+           'the right to speak on anyone\'s behalf - with answers, and with a list of what '
+           'we do not regard as refuted.',
+           'og_description':
+           'Objections to the construction of the Earthlings people and the answers to '
+           'them, including those we do not regard as refuted.'},
+    '27': {'description':
+           'The Earthlings people answers frequent questions about governance, the economy, '
+           'identity and ethics - how it works, who controls it, how data are protected.',
+           'og_description':
+           'The Earthlings people answers frequent questions about governance, the economy, '
+           'identity and ethics.'},
+    '28': {'description': _OFFICIAL % 'Privacy Policy of the Earthlings People'},
+    '29': {'description': _OFFICIAL % 'Terms of Use of the Earthlings People'},
+    '30': {'description':
+           'Theses of the Earthlings people: why international law developed doctrines on '
+           'the existence of collective subjects but scarcely worked out their voluntary '
+           'constitution - and why that gap does not make the emergence of a people '
+           'unlawful.'},
+    '31': {'description':
+           'The working agenda of the Earthlings people: a specialist examination of one '
+           'possible model of a future world order through the metaphor of an operating '
+           'system. A complement to states, not a replacement.'},
+    '32': {'description':
+           'Where we are now: what code and what data Earthlings publishes, what is closed, '
+           'for what reason, and what anyone can check for themselves.',
+           'og_description':
+           'What code and what data Earthlings publishes, what is closed and for what '
+           'reason.'},
+}
+
+# Обвязка своя у каждого языка: описание страницы - это текст, а не настройка.
+OVERRIDES_BY_LANG = {'ru': OVERRIDES, 'en': OVERRIDES_EN}
+
+# Можно ли переносить обвязку с уже лежащей на сайте страницы. Можно, только
+# если она - прежняя сборка того же текста. Английские страницы остались от
+# вытесненного перевода, поэтому для них - нет.
+WRAPPER_FROM_PAGE = {'ru': True, 'en': False}
+
+
+def overrides(lang='ru'):
+    return OVERRIDES_BY_LANG.get(lang, {})
+
+
 # Документы, которым нужен свой лист стилей сверх общего.
 EXTRA_CSS_BY_DOC = {'31': ['docs-agenda.css']}
 
@@ -177,12 +308,12 @@ EXTRA_CSS_BY_DOC = {'31': ['docs-agenda.css']}
 FRAG_DIR = os.path.join(HERE, 'fragments')
 
 
-def load_fragments(num):
+def load_fragments(num, lang='ru'):
     if not os.path.isdir(FRAG_DIR):
         return {}
     out = {}
     for f in sorted(os.listdir(FRAG_DIR)):
-        m = re.match(r'ru%s-(.+)\.html$' % num, f)
+        m = re.match(r'%s%s-(.+)\.html$' % (lang, num), f)
         if m:
             out['[[BLOCK-%s]]' % m.group(1)] = io.open(
                 os.path.join(FRAG_DIR, f), encoding='utf-8').read().strip()
@@ -191,7 +322,35 @@ def load_fragments(num):
 
 # языки, на которых документ существует (для hreflang)
 ALL_LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
-LANGS_BY_DOC = {'17': ['ru'], '20': ['ru'], '32': ['en', 'ru']}
+# 17 и 20 были только по-русски; английские мастера появились 2026-08-15.
+LANGS_BY_DOC = {'17': ['en', 'ru'], '20': ['en', 'ru'], '32': ['en', 'ru']}
+
+# Строки интерфейса страницы. Их немного, и держать их здесь честнее, чем
+# городить локализацию: язык, которого тут нет, соберётся с русскими словами
+# в оглавлении и навигации, и это будет видно сразу.
+UI = {
+    'ru': {
+        'toc': 'Содержание',
+        'prev': '← Назад',
+        'next': 'Далее →',
+        'nav_aria': 'Навигация по документам',
+        'all_docs': 'Все документы',
+    },
+    'en': {
+        'toc': 'Contents',
+        'prev': '← Back',
+        'next': 'Next →',
+        'nav_aria': 'Document navigation',
+        'all_docs': 'All documents',
+    },
+}
+
+
+def ui(lang, key):
+    assert lang in UI, (
+        'нет строк интерфейса для языка %r: добавьте его в UI, иначе страница '
+        'соберётся с русскими словами в оглавлении и навигации' % lang)
+    return UI[lang][key]
 
 # ---------------------------------------------------------------- CSS
 
@@ -307,13 +466,20 @@ def build_css():
 
 # ---------------------------------------------------------------- обвязка
 
-def read_wrapper(num):
+def read_wrapper(num, lang='ru'):
     """Достать из живого документа то, что нельзя потерять при пересборке."""
+    # Но только там, где прежняя страница - предыдущая сборка ТОГО ЖЕ текста.
+    # Английские страницы на сайте остались от прежнего, вытесненного перевода:
+    # у них другие заголовки («Legal Justification» вместо «Legal Basis») и
+    # описания прежней редакции. Переносить такую обвязку - значит опубликовать
+    # новый текст под старым именем. Берём её из OVERRIDES, а заголовок - из H1.
+    if not WRAPPER_FROM_PAGE.get(lang, True):
+        return dict(overrides(lang).get(num, {})) or None
     # На переезде со числовых адресов на смысловые нового файла ещё нет,
     # а обвязку терять нельзя - читаем прежний.
-    p = os.path.join(DOCS, doc_file(num))
+    p = os.path.join(docs_dir(lang), doc_file(num, lang))
     if not os.path.isfile(p):
-        p = os.path.join(DOCS, doc_file_old(num))
+        p = os.path.join(docs_dir(lang), doc_file_old(num, lang))
     w = {}
     if os.path.isfile(p):
         s = io.open(p, encoding='utf-8').read()
@@ -328,23 +494,23 @@ def read_wrapper(num):
             'og_description': meta(r'<meta property="og:description" content="([^"]*)"'),
             'og_title': meta(r'<meta property="og:title" content="([^"]*)"'),
         }
-    w.update(OVERRIDES.get(num, {}))
+    w.update(overrides(lang).get(num, {}))
     return w or None
 
 
-def head_html(num, doc_title, w):
+def head_html(num, doc_title, w, lang='ru'):
     """Шапка страницы: заголовки, описания, канонический адрес, JSON-LD, hreflang."""
-    url = ORIGIN + doc_href(num)
+    url = ORIGIN + doc_href(num, lang)
     title = w['title'] if w and w.get('title') else '%s | Earthlings' % doc_title
     # Обвязка переносится с прежней сборки, поэтому переименование документа в
     # неё молча не попадает: так ru26 полгода отдавал в <title> старое имя, а
     # ru04 - название редакции, которой давно нет. Ругаемся вслух; лечится
     # записью в OVERRIDES.
-    if num not in OVERRIDES and not title.startswith(doc_title):
+    if num not in overrides(lang) and not title.startswith(doc_title):
         sys.stderr.write(
-            'ВНИМАНИЕ ru%s: <title> "%s" не совпадает с заголовком документа "%s". '
+            'ВНИМАНИЕ %s%s: <title> "%s" не совпадает с заголовком документа "%s". '
             'Обвязка осталась от прежней редакции - добавить запись в OVERRIDES.\n'
-            % (num, title, doc_title))
+            % (lang, num, title, doc_title))
     desc = (w or {}).get('description') or ''
     og_desc = (w or {}).get('og_description') or desc
     og_title = (w or {}).get('og_title') or title
@@ -369,7 +535,7 @@ def head_html(num, doc_title, w):
              % (ORIGIN, doc_href(num, xdef)))
 
     parts = [
-        '<!DOCTYPE html>', '<html lang="ru">', '<head>',
+        '<!DOCTYPE html>', '<html lang="%s">' % lang, '<head>',
         '<meta charset="UTF-8">',
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
         '<title>%s</title>' % esc(title),
@@ -469,7 +635,7 @@ HOME_SVG = ('<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" view
             'aria-hidden="true"><path d="M3 11.5L12 3l9 8.5"/><path d="M5 10v10h5v-6h4v6h5V10"/></svg>')
 
 
-def prev_next_html(num, titles):
+def prev_next_html(num, titles, lang='ru'):
     """Ссылки на соседние документы корпуса в порядке чтения."""
     if num not in CHAIN:
         return ''
@@ -477,21 +643,22 @@ def prev_next_html(num, titles):
     prev = CHAIN[i - 1] if i > 0 else None
     nxt = CHAIN[i + 1] if i < len(CHAIN) - 1 else None
     out = ['<!--seo-prev-next-start-->',
-           '<nav class="seo-prev-next" aria-label="Навигация по документам">']
+           '<nav class="seo-prev-next" aria-label="%s">' % ui(lang, 'nav_aria')]
     if prev:
         out.append('<a class="pn-side" href="%s" rel="prev">'
-                   '<span class="pn-label">← Назад</span>'
+                   '<span class="pn-label">%s</span>'
                    '<span class="pn-name">%s</span></a>'
-                   % (doc_href(prev), html.escape(titles[prev])))
+                   % (doc_href(prev, lang), ui(lang, 'prev'), html.escape(titles[prev])))
     else:
         out.append('<span class="pn-side"></span>')
-    out.append('<a href="/documents/ru/index.html" rel="up" aria-label="Все документы" '
-               'title="Все документы">%s</a>' % HOME_SVG)
+    out.append('<a href="/documents/%s/index.html" rel="up" aria-label="%s" '
+               'title="%s">%s</a>'
+               % (lang, ui(lang, 'all_docs'), ui(lang, 'all_docs'), HOME_SVG))
     if nxt:
         out.append('<a class="pn-side pn-next" href="%s" rel="next">'
-                   '<span class="pn-label">Далее →</span>'
+                   '<span class="pn-label">%s</span>'
                    '<span class="pn-name">%s</span></a>'
-                   % (doc_href(nxt), html.escape(titles[nxt])))
+                   % (doc_href(nxt, lang), ui(lang, 'next'), html.escape(titles[nxt])))
     else:
         out.append('<span class="pn-side"></span>')
     out.append('</nav>')
@@ -523,7 +690,7 @@ def pop_subtitle(doc):
     return md2doc.inline(m.group(1))
 
 
-def build_doc(num, md_path, titles, fragments=None):
+def build_doc(num, md_path, titles, fragments=None, lang='ru'):
     md = io.open(md_path, encoding='utf-8').read()
     assert md.strip(), 'пустой исходник: %s' % md_path
     doc = md2doc.parse(md)
@@ -538,12 +705,13 @@ def build_doc(num, md_path, titles, fragments=None):
 
     n_head = (sum(len(p['articles']) for p in doc['parts'])
               + len([p for p in doc['parts'] if p['label'] or p['title']]))
-    toc = ('<nav class="toc col" aria-label="Содержание">'
-           '<h2 class="toc-title">Содержание</h2>%s</nav>' % md2doc.render_toc(doc)
+    toc = ('<nav class="toc col" aria-label="%s">'
+           '<h2 class="toc-title">%s</h2>%s'
+           '</nav>' % (ui(lang, 'toc'), ui(lang, 'toc'), md2doc.render_toc(doc))
            ) if n_head >= 5 else ''
 
     body = md2doc.render_body(doc)
-    fragments = fragments or load_fragments(num)
+    fragments = fragments or load_fragments(num, lang)
     if fragments:
         for marker, frag in fragments.items():
             assert marker in body, 'маркер %s не найден в теле %s' % (marker, num)
@@ -555,14 +723,14 @@ def build_doc(num, md_path, titles, fragments=None):
     # data-langs перечисляет языки, на которых документ существует: по нему
     # переключатель языка решает, вести на тот же документ или в библиотеку.
     page = '\n'.join([
-        head_html(num, doc['title'], read_wrapper(num)),
+        head_html(num, doc['title'], read_wrapper(num, lang), lang),
         '<body data-langs="%s">' % ','.join(LANGS_BY_DOC.get(num, ALL_LANGS)),
         SHELL_TAGS,
         '<div class="%s">' % ROOT,
         '<div class="sheet">',
         head, toc, body,
         '</div>',
-        prev_next_html(num, titles),
+        prev_next_html(num, titles, lang),
         '</div>',
         '<earth-footer id="main-footer"></earth-footer>',
         LANG_SWITCH % json.dumps(
@@ -583,13 +751,13 @@ def md_title(path):
     raise AssertionError('нет H1: %s' % path)
 
 
-def sync_library(titles, dry=False):
+def sync_library(titles, dry=False, lang='ru'):
     """Названия в библиотеке берутся из самих документов.
 
     Держать их отдельным списком - значит рано или поздно разойтись: так уже
     случилось с семью записями. Правится один раз при каждой сборке.
     """
-    path = os.path.join(DOCS, 'index.html')
+    path = os.path.join(docs_dir(lang), 'index.html')
     assert os.path.isfile(path), path
     s = io.open(path, encoding='utf-8').read()
     changed = []
@@ -597,7 +765,7 @@ def sync_library(titles, dry=False):
     def fix(m):
         href, num, old = m.group(1), m.group(2), m.group(3)
         new = html.escape(titles.get(num, ''), quote=False) or old
-        want = doc_href(num)
+        want = doc_href(num, lang)
         if new == old and href == want:
             return m.group(0)
         if new != old:
@@ -605,8 +773,9 @@ def sync_library(titles, dry=False):
         return ('<a href="%s"><span class="n">%s</span><span class="t">%s</span></a>'
                 % (want, num, new))
 
-    out = re.sub(r'<a href="(/documents/ru/ru\d\d(?:-[a-z0-9-]+)?\.html)">'
-                 r'<span class="n">(\d\d)</span><span class="t">([^<]*)</span></a>', fix, s)
+    out = re.sub(r'<a href="(/documents/%s/%s\d\d(?:-[a-z0-9-]+)?\.html)">'
+                 r'<span class="n">(\d\d)</span><span class="t">([^<]*)</span></a>'
+                 % (lang, lang), fix, s)
     assert out.count('<span class="t">') >= 20, 'библиотека разобрана неверно'
     # Пишем по факту различия, а не по списку changed: в нём только смены
     # названий, а адреса меняются молча, и при переезде на слаги файл остался
@@ -666,7 +835,16 @@ def main():
     ap.add_argument('docs', nargs='*', help='номера документов или all')
     ap.add_argument('--css', action='store_true', help='пересобрать только CSS')
     ap.add_argument('--dry', action='store_true', help='не писать файлы')
+    ap.add_argument('--lang', default='ru', help='язык сборки (по умолчанию ru)')
     a = ap.parse_args()
+    lang = a.lang
+    md, docs = md_dir(lang), docs_dir(lang)
+    assert os.path.isdir(md), 'нет мастеров языка %r: %s' % (lang, md)
+    assert os.path.isdir(docs), 'нет каталога страниц языка %r: %s' % (lang, docs)
+    assert lang in SLUGS, (
+        'для языка %r не заданы слаги в SLUGS. Без них страницы лягут по '
+        'числовым адресам, а перелинковка внутри документов ведёт на '
+        'смысловые - получатся битые ссылки.' % lang)
 
     n = build_css()
     print('CSS  css/docs-statute.css  %d байт' % n)
@@ -674,38 +852,38 @@ def main():
         return
 
     targets = CHAIN if (not a.docs or a.docs == ['all']) else a.docs
-    missing = [d for d in targets if not os.path.isfile(os.path.join(MD_DIR, corpus_file(d)))]
+    missing = [d for d in targets if not os.path.isfile(os.path.join(md, corpus_file(d, lang)))]
     if missing:
         print('нет .md-мастера: %s - пропускаю' % ', '.join(missing))
         targets = [d for d in targets if d not in missing]
 
-    titles = {d: md_title(os.path.join(MD_DIR, corpus_file(d)))
-              for d in CHAIN if os.path.isfile(os.path.join(MD_DIR, corpus_file(d)))}
+    titles = {d: md_title(os.path.join(md, corpus_file(d, lang)))
+              for d in CHAIN if os.path.isfile(os.path.join(md, corpus_file(d, lang)))}
     # Если мастеров вдруг не видно - неверный путь, переименование, не та
     # ветка, - заглушки «Документ NN» уходят в библиотеку и затирают живые
     # названия. Так и случилось при переезде корпуса в отдельный репозиторий.
     # Лучше остановиться, чем испортить страницу.
     assert len(titles) >= 20, (
         'найдено мастеров: %d из %d. Ожидается почти весь корпус - проверьте '
-        'MD_DIR (%s). Сборка остановлена, чтобы не записать в библиотеку '
-        'заглушки вместо названий.' % (len(titles), len(CHAIN), MD_DIR))
+        'каталог мастеров (%s). Сборка остановлена, чтобы не записать в '
+        'библиотеку заглушки вместо названий.' % (len(titles), len(CHAIN), md))
     for d in CHAIN:
         titles.setdefault(d, 'Документ %s' % d)
 
     for num in targets:
-        src = os.path.join(MD_DIR, corpus_file(num))
-        doc, page = build_doc(num, src, titles)
-        dst = os.path.join(DOCS, doc_file(num))
+        src = os.path.join(md, corpus_file(num, lang))
+        doc, page = build_doc(num, src, titles, lang=lang)
+        dst = os.path.join(docs, doc_file(num, lang))
         if not a.dry:
             io.open(dst, 'w', encoding='utf-8', newline='\n').write(page)
         arts = sum(len(p['articles']) for p in doc['parts'])
-        print('OK   ru%s  %-42s частей: %2d, разделов: %3d, %3d КБ'
-              % (num, os.path.basename(src)[:42],
+        print('OK   %s%s  %-42s частей: %2d, разделов: %3d, %3d КБ'
+              % (lang, num, os.path.basename(src)[:42],
                  len([p for p in doc['parts'] if p['label'] or p['title']]),
                  arts, len(page.encode('utf-8')) // 1024))
 
-    for num, old, new in sync_library(titles, a.dry):
-        print('библиотека ru%s: %s  ->  %s' % (num, old, new))
+    for num, old, new in sync_library(titles, a.dry, lang):
+        print('библиотека %s%s: %s  ->  %s' % (lang, num, old, new))
 
     if not a.dry:
         n = write_redirect_map()
