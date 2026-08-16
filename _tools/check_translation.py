@@ -26,6 +26,16 @@ FORBIDDEN = {
     0x200B: 'zwsp', 0x200C: 'zwnj', 0x2060: 'word-joiner', 0xFEFF: 'bom',
 }
 
+# Родная пунктуация языка - не признак машинного текста, и запрещать её нельзя.
+# Немецкая пара кавычек - низкая открывающая (U+201E) и верхняя закрывающая
+# (U+201C) - законная норма немецкого языка, ровно как русские ёлочки. Общий
+# словарь выше писался под русский и английский, где обе запрещены; для
+# немецкого он снимает то, чем немецкий текст обязан быть набран.
+# Английская закрывающая (U+201D) остаётся запрещённой и для немецкого: она
+# попадает в текст из исходника и выдаёт его. Проверку баланса открывающих и
+# закрывающих делает audit_de.py.
+ALLOWED_BY_LANG = {'de': (0x201E, 0x201C)}
+
 
 def kind(b):
     if b.startswith('# '):
@@ -94,10 +104,11 @@ def check(num, lang):
         ok = False
         print('%s  ЖИРНЫЕ: ru %d  %s %d' % (head, rs.count('**'), lang, ts.count('**')))
 
+    allowed = ALLOWED_BY_LANG.get(lang, ())
     hits = {}
     for ch in ts:
         o = ord(ch)
-        if o in FORBIDDEN:
+        if o in FORBIDDEN and o not in allowed:
             hits[FORBIDDEN[o]] = hits.get(FORBIDDEN[o], 0) + 1
     if hits:
         ok = False

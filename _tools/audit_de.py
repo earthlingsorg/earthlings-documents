@@ -138,6 +138,42 @@ CALQUES = [
 # включая метаданные. Это правило из инструкции, не предпочтение.
 FORBIDDEN_WORDS = ['Erdling', 'Erdlinge', 'Erdbewohner', 'Erdenbürger']
 
+# Замки раздела 7 в de/_СЛОВАРЬ_РЕШЕНИЙ.md, которых не ловил ни один другой
+# раздел аудита. Разделены по тому, бывает ли законное вхождение.
+#
+# HARD - законного вхождения не бывает: любое найденное есть дефект.
+HARD_LOCKS = [
+    (r'\bGemeinwille\w{0,3}\b',
+     'руссоистская volonte generale со всем шлейфом; берём gemeinsamer Wille'),
+    (r'(?<![\w-])Rechtssubjektivität\w{0,6}(?![\w-])',
+     'калька континентальной доктрины; берём Rechtspersönlichkeit'),
+    (r'\bvölkisch\w{0,3}\b',
+     'прямая отсылка к этнонационализму'),
+    (r'\bVolkstum\w{0,3}\b|\bVolksgruppe\w{0,2}\b|\bVolkszugehörigkeit\w{0,3}\b',
+     'этническое чтение слова Volk, от которого корпус защищается'),
+    (r'\bim Namen der Menschheit\b',
+     'от имени человечества не говорим; только im Namen derjenigen, die beigetreten sind'),
+    (r'\bstaats(ähnlich|gleich)\w{0,3}\b',
+     'наши институты не государствоподобны'),
+    (r'\bWir sind kein\w{0,2}\b',
+     'защитный зачин; переписывается утвердительно'),
+    (r'\bReisepass\w{0,3}\b|\bAusweisdokument\w{0,3}\b',
+     'паспорт earthling никогда не подаётся как проездной документ'),
+]
+
+# SOFT - вхождение законно ровно тогда, когда речь о государстве, а не о нас.
+# Печатается списком на ручной разбор, а не как дефект.
+SOFT_LOCKS = [
+    (r'\bStaatsbürgerschaft\w{0,3}\b',
+     'для гражданства берём Staatsangehörigkeit (GG Art. 16)'),
+    (r'\bRegierung\w{0,3}\b',
+     'законно о государстве; наши институты - никогда'),
+    (r'\bBehörde\w{0,2}\b|\bAmtsträger\w{0,2}\b|\bHoheitsgewalt\b',
+     'законно о государстве; наши институты - никогда'),
+    (r'\bEthereum\b',
+     'сеть в корпусе - Polygon'),
+]
+
 # Типографика. Немецкая пара кавычек законна, английская закрывающая - нет.
 DE_OPEN, DE_CLOSE = chr(0x201E), chr(0x201C)
 BAD_CHARS = {
@@ -285,7 +321,33 @@ def main():
     if not long_found:
         print('  чисто')
 
-    print('\n=== 10. ЦИТАТЫ, КОТОРЫЕ НАДО СВЕРЯТЬ С ПОДЛИННИКОМ ===')
+    print('\n=== 10. ЗАМКИ ===')
+    # Раздел 7 файла de/_СЛОВАРЬ_РЕШЕНИЙ.md. Делится надвое, и смешивать
+    # половины нельзя: у одной любое вхождение - дефект, у другой вхождение
+    # законно ровно тогда, когда речь о государстве, а не о нас.
+    hard = 0
+    for pat, why in HARD_LOCKS:
+        for name, s in sorted(texts.items()):
+            for m in re.finditer(pat, s):
+                hard += 1
+                ctx = ' '.join(s[max(0, m.start() - 45):m.end() + 45].split())
+                print('  ДЕФЕКТ %-22s %-24s %s' % (m.group(0)[:22], name[:24], ctx[:80]))
+                print('         %s' % why)
+    if not hard:
+        print('  жёсткие замки: чисто')
+    soft = collections.Counter()
+    for pat, why in SOFT_LOCKS:
+        for name, s in sorted(texts.items()):
+            for m in re.finditer(pat, s):
+                soft[(m.group(0), name, why)] += 1
+    if soft:
+        print('  на ручной разбор (законно только о государстве, не о нас):')
+        for (w, name, why), n in sorted(soft.items()):
+            print('    %-18s %-24s %2d  %s' % (w[:18], name[:24], n, why))
+    else:
+        print('  мягкие замки: чисто')
+
+    print('\n=== 11. ЦИТАТЫ, КОТОРЫЕ НАДО СВЕРЯТЬ С ПОДЛИННИКОМ ===')
     # У Устава ООН и Пактов есть официальные немецкие тексты. Обратный перевод
     # с русского недопустим - печатаем список для ручной сверки.
     q = 0
