@@ -30,7 +30,7 @@ Earthlings offers not a manifesto with technology attached but a functioning ins
 
 ## The founder and the background
 
-The founding corpus of Earthlings was created by Artur Arakelyan. Authorship and the provenance of the corpus are cryptographically verifiable (see [cryptographic verification](/verification/)).
+The founding corpus of Earthlings was created by Artur Arakelian. Authorship and the provenance of the corpus are cryptographically verifiable (see [cryptographic verification](/verification/)).
 
 The project's technological infrastructure - four production sites forming a full operational cycle, including:
 
