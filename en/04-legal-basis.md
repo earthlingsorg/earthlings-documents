@@ -233,7 +233,7 @@ We make the qualification to the last line ourselves: the legal grounds for burn
 
 The precise statement runs as follows: documents of belonging to a people exist, but all of them certify a belonging derived from descent and recognized by a state. For the first time, belonging is certified by a document issued by the people itself, tied neither to territory nor to descent, arising by the decision of the person themselves, and verifiable by anyone.
 
-The assertion "issued by the people" does not rest on words alone: Article 9 of the Declaration establishes that the registry of participants, the confirmation of their identity and the data connected with it "are not the property of a legal entity, cannot be transferred, sold, pledged or otherwise disposed of, and under no circumstances follow a legal entity", and that legal entities "are not bearers of the people". Without that norm, the assertion would come down to a document issued by a commercial company.
+The assertion "issued by the people" does not rest on words alone: Article 9 of the Declaration establishes that the registry of participants, the confirmation of their identity and the data connected with it "are not the property of a legal entity, cannot be transferred, sold, pledged or otherwise disposed of, and under no circumstances follow a legal entity", and that legal entities "are not the bearers of the people". Without that norm, the assertion would come down to a document issued by a commercial company.
 
 The earthling passport does not replace state documents, and gives no citizenship, visas, right of entry, or consular protection. It certifies belonging to a people - which state documents do not certify at all.
 

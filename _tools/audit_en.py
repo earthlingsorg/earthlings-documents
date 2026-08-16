@@ -86,6 +86,11 @@ GLOSSARY = {
     'взнос': ['contribution', 'fee', 'dues'],
     'сота': ['Cell', 'cell', 'hive'],
     'расчётная единица': ['unit of account', 'settlement unit', 'accounting unit'],
+    # Ложные срабатывания, проверенные 2026-08-16 и подтверждённые: все 16
+    # commission - имена собственные (Африканская комиссия, Избирательная
+    # комиссия, Комиссия юристов, Комиссия международного права), а
+    # единственный assignment значит «задание», а не поручение в смысле
+    # мандата. Термин корпуса - mandate, расползания нет.
     'поручение': ['mandate', 'commission', 'assignment', 'instruction'],
     'ограничение полномочий': ['restriction of powers', 'limitation of powers'],
     'гашение': ['burning', 'redemption', 'cancellation of the passport'],
@@ -208,8 +213,17 @@ def main():
 
     print('\n=== 3. РАСПОЛЗАНИЕ ТЕРМИНОВ ===')
     for ru, variants in sorted(GLOSSARY.items()):
+        # Варианты, различающиеся только регистром, схлопываем. Счёт идёт с
+        # re.I, поэтому такая пара всегда давала бы «расползание» с двумя
+        # одинаковыми числами: Cell=95 | cell=95 - это одно множество,
+        # посчитанное дважды. Регистр проверяется отдельно, не здесь.
+        seen, uniq = set(), []
+        for v in variants:
+            if v.lower() not in seen:
+                seen.add(v.lower())
+                uniq.append(v)
         counts = [(v, len(re.findall(r'(?<![\w-])' + re.escape(v) + r'(?![\w-])',
-                                     allw, re.I))) for v in variants]
+                                     allw, re.I))) for v in uniq]
         used = [(v, c) for v, c in counts if c]
         if len(used) > 1:
             print('  %-24s %s' % (ru, '  |  '.join('%s=%d' % (v, c) for v, c in used)))

@@ -159,7 +159,7 @@ We answer everything and publish everything, including what does not favour us. 
 
 # Part 2. Rules of the founding period
 
-This section establishes the procedure referred to by the section "Status of this edition" of the Declaration.
+This section establishes the procedure referred to by the section "Status of This Edition" of the Declaration.
 
 ## 1. Receipt of proposals
 
