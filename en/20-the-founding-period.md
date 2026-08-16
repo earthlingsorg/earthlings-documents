@@ -247,4 +247,4 @@ The other requirements are not lowered under any circumstances.
 
 These rules apply from the day proposals open and cease to have effect from the moment the text is adopted.
 
-On the day of adoption, Article 14 of the Declaration is filled in with the actual data of the vote and remains in the text forever. The section "Status of this edition" is not reproduced in the adopted edition.
+On the day of adoption, Article 14 of the Declaration is filled in with the actual data of the vote and remains in the text forever. The section "Status of This Edition" is not reproduced in the adopted edition.
