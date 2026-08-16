@@ -34,9 +34,15 @@ Belonging works differently. I say "I am with you" - and it means nothing until 
 
 Everything else follows from this. Such belonging is not received at birth - it is chosen. It cannot be imposed, because recognition is not issued by order. It cannot be held, because recognition does not hold by force. And it has no price - another person's recognition cannot be bought.
 
+Reciprocity works both ways in another sense too. If I belong to you, I recognize your belonging to me - and I take responsibility for what happens to us. I am ready to help you not out of compulsion, but because our "we" matters to me.
+
 To recognize one another - that was the one thing missing.
 
-And it was missing for a reason that has now gone. As long as people could not reliably confirm one another at a distance, no one could know who was on the other side: one person or a hundred of their masks, a living voice or a bought one. Now a person can be confirmed without revealing who they are. One person, one vote. It cannot be bought, accumulated, or handed over for good.
+And to come together not around a common cause. People have always come together around a task, a profession, a resource, an interest - and that works for as long as the task is alive. We propose something else: to come together with one another. Common causes, knowledge, and institutions will appear, but as a result and not as the reason.
+
+Our project is to be together.
+
+And mutual recognition was missing for a reason that has now gone. As long as people could not reliably confirm one another at a distance, no one could know who was on the other side: one person or a hundred of their masks, a living voice or a bought one. Now a person can be confirmed without revealing who they are. One person, one vote. It cannot be bought, accumulated, or handed over for good.
 
 For the first time in history people can gather into a people without asking anyone's permission.
 
@@ -50,7 +56,7 @@ All we have is a voice. And we intend to make it one that has to be heard.
 
 We do not expect the doors to open at once, or a place at the table to be given for the asking. We will knock, propose, and prove - for as long as it takes.
 
-This people is for those who already see all of this. Who are tired of explaining the obvious. Who understand that the trouble lies not with one government or the next election, but with a construction that has long stopped coping.
+This people is for those who already see all of this. Who understand that the trouble lies not with one government or the next election, but with a construction that has long stopped coping.
 
 Keep everything of your own: nationality, language, faith, city, citizenship. We replace nothing and ask you to give up nothing. We add to the world something it did not have: a voice that crosses borders without abolishing any of them.
 
@@ -68,4 +74,4 @@ Only five provisions are not up for discussion - the ones that protect the perso
 
 Then there will be a vote. We do not promise that it will succeed. But this people will be founded not by whoever drew up these documents, but by whoever votes for it.
 
-**We choose one another**
+**We choose one another.**
