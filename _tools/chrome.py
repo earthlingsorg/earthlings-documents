@@ -119,6 +119,12 @@ EXTRA = {
              'fr': u'Aller au contenu', 'zh': u'跳到主要内容',
              'ar': u'تخطي إلى المحتوى', 'hi': u'मुख्य सामग्री पर जाएँ',
              'ka': u'გადასვლა შიგთავსზე'},
+    # Ссылка с полосы главной на полный текст.
+    'read_more': {'ru': u'Читать целиком', 'en': u'Read in full',
+                  'es': u'Leer completo', 'de': u'Vollständig lesen',
+                  'fr': u'Lire en entier', 'zh': u'阅读全文',
+                  'ar': u'قراءة النص كاملا', 'hi': u'पूरा पढ़ें',
+                  'ka': u'სრულად წაკითხვა'},
 }
 
 CTA_URL = 'https://id.earth-lings.org/verification?lang=%s'
