@@ -28,6 +28,18 @@ import md2doc
 HERE = os.path.dirname(os.path.abspath(__file__))
 # Мастера лежат в этом же репозитории, по языкам: ru/NN-slug.md.
 REPO = os.path.abspath(os.path.join(HERE, '..'))
+
+# Консоль Windows отдаёт cp866 или cp1251, и в них нет ни умлаутов, ни ß, ни
+# грузинских букв. Печать имени немецкого файла роняла сборку на предпоследнем
+# шаге - страницы уже записаны, а карта редиректов и doc-slugs.js уже нет.
+# Меняем не кодировку, а поведение при непечатаемом символе: кириллица в
+# русской консоли остаётся читаемой, чужая буква превращается в '?'.
+try:
+    sys.stdout.reconfigure(errors='replace')
+    sys.stderr.reconfigure(errors='replace')
+except (AttributeError, ValueError):  # не консоль либо старый Python
+    pass
+
 MD_DIR = os.path.join(REPO, 'ru')
 # Репозиторий сайта. По умолчанию - соседняя папка рядом с этой: клонировали
 # оба репозитория рядом, и всё работает. Переопределяется переменной окружения,
@@ -129,6 +141,37 @@ SLUGS = {
         '30': 'how-a-subject-of-law-arises',
         '31': 'working-agenda',
         '32': 'where-we-are-now',
+    },
+    # Немецкий. Слаги выведены из имён мастеров в de/ и совпадают с внутренней
+    # перелинковкой немецких документов. Умляуты и ß в слагах не ставим:
+    # транслитерируем по немецкой почтовой норме (ä→ae, ö→oe, ü→ue, ß→ss),
+    # иначе ссылка ломается в почте, в мессенджерах и в старых обозревателях.
+    'de': {
+        '01': 'erklaerung',
+        '03': 'ethik',
+        '04': 'rechtsgrundlage',
+        '05': 'charta',
+        '07': 'dao',
+        '08': 'zellen',
+        '09': 'schatzkammer',
+        '10': 'earthlings-coin',
+        '11': 'unabhaengiger-rat',
+        '12': 'digitale-plattform',
+        '14': 'weg-des-earthling',
+        '15': 'sbt-pass',
+        '16': 'biometrische-pruefung',
+        '17': 'was-kommt-als-naechstes',
+        '19': 'fahrplan',
+        '20': 'gruendungsphase',
+        '22': 'rechtliche-hinweise',
+        '23': 'ueber-uns',
+        '26': 'einwaende-und-antworten',
+        '27': 'haeufige-fragen',
+        '28': 'datenschutzerklaerung',
+        '29': 'nutzungsbedingungen',
+        '30': 'entstehung-des-rechtssubjekts',
+        '31': 'arbeitsagenda',
+        '32': 'wo-wir-jetzt-stehen',
     },
 }
 
@@ -287,13 +330,92 @@ OVERRIDES_EN = {
            'reason.'},
 }
 
+# Немецкий. `amtlich` не берём: оно означает исходящий от органа власти, а у
+# народа органов власти нет. `offiziell` говорит ровно то, что нужно, - документ
+# принят народом и говорит от его имени.
+_OFFICIAL_DE = '%s - ein offizielles Dokument des Volkes der Earthlings.'
+
+OVERRIDES_DE = {
+    '01': {'description': _OFFICIAL_DE % 'Die Erklärung der Selbstbestimmung der Earthlings'},
+    '03': {'description': _OFFICIAL_DE % 'Die Ethik der Earthlings'},
+    '04': {'description':
+           'Die Rechtsgrundlage des Volkes der Earthlings: die Vereinigungsfreiheit, das '
+           'Selbstbestimmungsrecht, die Merkmale eines Volkes und die offenen Fragen des '
+           'Völkerrechts - mit Quellen und mit der unmittelbaren Angabe dessen, was das '
+           'Recht noch nicht entschieden hat.',
+           'og_description':
+           'Vereinigungsfreiheit, Selbstbestimmung, die Merkmale eines Volkes und das, was '
+           'das Völkerrecht noch nicht entschieden hat.'},
+    '05': {'description': _OFFICIAL_DE % 'Die Charta der Earthlings'},
+    '07': {'description': _OFFICIAL_DE % 'Die DAO der Earthlings: Grundsätze, Architektur und Verwaltung'},
+    '08': {'description': _OFFICIAL_DE % 'Die Zellen der Earthlings - das System der Projekte und der Zusammenarbeit'},
+    '09': {'description': _OFFICIAL_DE % 'Die Schatzkammer der Earthlings'},
+    '10': {'description': _OFFICIAL_DE % 'Earthlings Coin: die vollständige Dokumentation'},
+    '11': {'description': _OFFICIAL_DE % 'Der Unabhängige Rat der Earthlings'},
+    '12': {'description': _OFFICIAL_DE % 'Die digitale Plattform der Earthlings'},
+    '14': {'description': _OFFICIAL_DE % 'Der Weg des Earthling'},
+    '15': {'description': _OFFICIAL_DE % 'Der SBT-Pass des Earthling'},
+    '16': {'description': _OFFICIAL_DE % 'Die Richtlinie der biometrischen Prüfung der Earthlings'},
+    '17': {'description':
+           'Die Möglichkeiten, die dem Volk der Earthlings heute offenstehen, und die, die '
+           'sich mit dem Wachstum öffnen können: jede mit ihrer Bedingung und ihrem '
+           'Mechanismus, und daneben das, was schiefgehen kann.',
+           'og_description':
+           'Möglichkeiten, Bedingungen und was schiefgehen kann. Keine Vorhersage und kein '
+           'Versprechen - eine Liste dessen, was es gibt.'},
+    '19': {'description': _OFFICIAL_DE % 'Der Fahrplan der Übergangszeit'},
+    '20': {'description':
+           'Die Gründungsphase der Earthlings: Vorschläge werden zum gesamten Bestand von '
+           'fünfundzwanzig Dokumenten angenommen - zur Erklärung, zur Charta und zu den '
+           'übrigen - vom 7. September bis zum 6. Dezember 2026, die Niederschrift am '
+           '20. Dezember, die Abstimmung über die Erklärung am 3. Januar 2027. Was zur '
+           'Erörterung steht, was nicht zur Erörterung steht und wie man teilnimmt.'},
+    '22': {'description': _OFFICIAL_DE % 'Rechtliche Hinweise'},
+    '23': {'description': _OFFICIAL_DE % 'Über uns'},
+    '26': {'description':
+           'Einwände gegen den Bau des Volkes der Earthlings - zu Separatismus, Souveränität, '
+           'Plutokratie in der DAO, zum Beitrag, zum unabänderlichen Kern und zum Recht, in '
+           'irgendjemandes Namen zu sprechen - mit Antworten und mit einer Liste dessen, was '
+           'wir nicht für widerlegt halten.',
+           'og_description':
+           'Einwände gegen den Bau des Volkes der Earthlings und die Antworten darauf, '
+           'einschließlich derer, die wir nicht für widerlegt halten.'},
+    '27': {'description':
+           'Das Volk der Earthlings beantwortet häufige Fragen zu Verwaltung, Wirtschaft, '
+           'Identität und Ethik - wie es arbeitet, wer es kontrolliert, wie die Daten '
+           'geschützt sind.',
+           'og_description':
+           'Das Volk der Earthlings beantwortet häufige Fragen zu Verwaltung, Wirtschaft, '
+           'Identität und Ethik.'},
+    '28': {'description': _OFFICIAL_DE % 'Die Datenschutzerklärung des Volkes der Earthlings'},
+    '29': {'description': _OFFICIAL_DE % 'Die Nutzungsbedingungen des Volkes der Earthlings'},
+    '30': {'description':
+           'Thesen des Volkes der Earthlings: warum das Völkerrecht Lehren über das Bestehen '
+           'kollektiver Träger entwickelt, ihre freiwillige Konstituierung aber kaum '
+           'ausgearbeitet hat - und warum diese Lücke die Entstehung eines Volkes nicht '
+           'rechtswidrig macht.'},
+    '31': {'description':
+           'Die Arbeitsagenda des Volkes der Earthlings: eine fachliche Zerlegung eines '
+           'möglichen Modells künftiger Weltordnung durch die Metapher eines '
+           'Betriebssystems. Eine Ergänzung der Staaten und kein Ersatz.'},
+    '32': {'description':
+           'Wo wir jetzt stehen: welchen Code und welche Daten Earthlings veröffentlicht, was '
+           'geschlossen ist, aus welchem Grund, und was sich jeder selbst überprüfen kann.',
+           'og_description':
+           'Welchen Code und welche Daten Earthlings veröffentlicht, was geschlossen ist und '
+           'aus welchem Grund.'},
+}
+
 # Обвязка своя у каждого языка: описание страницы - это текст, а не настройка.
-OVERRIDES_BY_LANG = {'ru': OVERRIDES, 'en': OVERRIDES_EN}
+OVERRIDES_BY_LANG = {'ru': OVERRIDES, 'en': OVERRIDES_EN, 'de': OVERRIDES_DE}
 
 # Можно ли переносить обвязку с уже лежащей на сайте страницы. Можно, только
 # если она - прежняя сборка того же текста. Английские страницы остались от
 # вытесненного перевода, поэтому для них - нет.
-WRAPPER_FROM_PAGE = {'ru': True, 'en': False}
+# Немецкие страницы на сайте остались от перевода 27 июля, вытесненного этими
+# мастерами, - обвязку с них брать нельзя ровно по той же причине, что и с
+# английских.
+WRAPPER_FROM_PAGE = {'ru': True, 'en': False, 'de': False}
 
 
 def overrides(lang='ru'):
@@ -323,7 +445,8 @@ def load_fragments(num, lang='ru'):
 # языки, на которых документ существует (для hreflang)
 ALL_LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 # 17 и 20 были только по-русски; английские мастера появились 2026-08-15.
-LANGS_BY_DOC = {'17': ['en', 'ru'], '20': ['en', 'ru'], '32': ['en', 'ru']}
+LANGS_BY_DOC = {'17': ['de', 'en', 'ru'], '20': ['de', 'en', 'ru'],
+                '32': ['de', 'en', 'ru']}
 
 # Строки интерфейса страницы. Их немного, и держать их здесь честнее, чем
 # городить локализацию: язык, которого тут нет, соберётся с русскими словами
@@ -342,6 +465,13 @@ UI = {
         'next': 'Next →',
         'nav_aria': 'Document navigation',
         'all_docs': 'All documents',
+    },
+    'de': {
+        'toc': 'Inhalt',
+        'prev': '← Zurück',
+        'next': 'Weiter →',
+        'nav_aria': 'Navigation durch die Dokumente',
+        'all_docs': 'Alle Dokumente',
     },
 }
 
