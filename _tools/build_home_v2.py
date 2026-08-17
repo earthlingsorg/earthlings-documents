@@ -60,7 +60,21 @@ BANDS = [
     ('white', 'doc:01',   [1, 4],    u'Настоящая редакция является'),
     ('mist',  'legal',    [4, 6],    u'Международное право умеет'),
     ('navy',  'doc:14',   [12],      u'Внутри народа паспорт'),
+    # Две полосы под содержимое, которое Артур опишет позже. Пока это
+    # размеченное место, а не пустота: видно, что оно занято и ждёт.
+    ('white', 'reserved', [],        u''),
+    ('mist',  'reserved', [],        u''),
+    # Последняя полоса зарезервирована под Awakened Code живьём в рамке
+    # монитора. Тёмно-синяя ей и нужна: терминал на тёмном - его собственное
+    # оформление. Здесь её пока нет, чтобы не выкатывать наполовину.
 ]
+
+# Сколько первых фраз Манифеста идут в плакат. Ровно три: в русском,
+# английском и немецком мастере это «Международные организации. Посмотрите на
+# это слово внимательно. Между народами - так оно читается» - три коротких
+# фразы, третья из которых и есть удар. Четвёртая уже длинная и в плакат не
+# лезет ни на одном языке.
+POSTER_SENTENCES = 3
 
 # Что перечислено в правовой полосе. Порядок - от общего к частному.
 LEGAL_DOCS = ['30', '04', '05', '26']
@@ -336,12 +350,42 @@ def ladder(lang):
     return u'\n'.join(o)
 
 
-def band(theme, first, title, lead, more=None, items=None, cta=None,
+def poster(theme, kicker, line, body, more):
+    u"""Первая полоса: Манифест плакатом.
+
+    Крупная строка - первые фразы Манифеста слово в слово, дальше продолжение
+    того же абзаца мелким в две колонки. Картинок у сайта нет ни одной, и это
+    не беда: у Манифеста есть голос, и набранный крупно он работает лучше
+    любой фотографии.
+    """
+    return u'\n'.join([
+        u'<section class="band band--%s band--poster">' % theme,
+        u'<div class="band-in">',
+        u'<p class="band-kicker">%s</p>' % C.esc(kicker),
+        u'<h1 class="poster-line">%s</h1>' % md_inline(line),
+        u'<div class="poster-body">%s</div>'
+        % u''.join(u'<p>%s</p>' % md_inline(p) for p in body),
+        u'<a class="band-more" href="%s">%s</a>' % (C.esc(more[1]), C.esc(more[0])),
+        u'</div></section>',
+    ])
+
+
+def reserved(theme, n):
+    u"""Полоса под содержимое, которого ещё нет.
+
+    Ни одного слова: место обозначено рамкой и номером, а номер не требует
+    перевода. Написать сюда «скоро» на девяти языках значило бы завести девять
+    строк, которые потом придётся вычищать.
+    """
+    return (u'<section class="band band--%s band--reserved">'
+            u'<div class="band-in"><div class="reserved-slot">%d</div></div>'
+            u'</section>' % (theme, n))
+
+
+def band(theme, title, lead, more=None, items=None, cta=None,
          slider=None, extra=None):
-    o = ['<section class="band band--%s%s"><div class="band-in">'
-         % (theme, ' band--first' if first else '')]
-    tag = 'h1' if first else 'h2'
-    o.append('<%s class="band-title">%s</%s>' % (tag, C.esc(title), tag))
+    o = ['<section class="band band--%s"><div class="band-in">' % theme]
+    o.append('<h2 class="band-title">%s</h2>' % C.esc(title))
     o.append('<div class="band-lead">%s</div>'
              % ''.join('<p>%s</p>' % md_inline(p) for p in lead))
     if extra:
@@ -372,17 +416,25 @@ def build_index(lang):
     bands = []
 
     for i, (theme, what, nums, anchor) in enumerate(BANDS):
-        first = (i == 0)
-        if what == 'manifest':
-            bands.append(band(theme, first, title_of(manifest),
-                              lead(manifest, nums, anchor, lang, u'Манифест'),
-                              more=(more, '/%s/manifest.html' % lang)))
+        if what == 'reserved':
+            bands.append(reserved(theme, i + 1))
+        elif what == 'manifest':
+            ps = lead(manifest, nums, anchor, lang, u'Манифест')
+            sents = re.split(r'(?<=[.!?])\s+', ps[0])
+            assert len(sents) > POSTER_SENTENCES, (
+                u'первый абзац Манифеста (%s) короче %d фраз - плакат собрать '
+                u'не из чего' % (lang, POSTER_SENTENCES + 1))
+            bands.append(poster(
+                theme, title_of(manifest),
+                u' '.join(sents[:POSTER_SENTENCES]),
+                [u' '.join(sents[POSTER_SENTENCES:])] + ps[1:],
+                (more, '/%s/manifest.html' % lang)))
         elif what == 'legal':
             md = doc_master(LEGAL_LEAD_DOC, lang)
             items = [(title_of(doc_master(d, lang)), doc_href(d, lang))
                      for d in LEGAL_DOCS if has_doc(d, lang)]
             assert items, u'ни один правовой документ не доступен на %s' % lang
-            bands.append(band(theme, first, C.t(lang, 'nav.legal_base'),
+            bands.append(band(theme, C.t(lang, 'nav.legal_base'),
                               lead(md, nums, anchor, lang, LEGAL_LEAD_DOC),
                               items=items, extra=ladder(lang)))
         else:
@@ -391,7 +443,7 @@ def build_index(lang):
             md = doc_master(num, lang)
             cta = ((C.t(lang, 'nav.become_earthling'), C.CTA_URL % lang)
                    if num == '14' else None)
-            bands.append(band(theme, first, title_of(md),
+            bands.append(band(theme, title_of(md),
                               lead(md, nums, anchor, lang, num),
                               more=(more, doc_href(num, lang)), cta=cta,
                               slider=langslider(lang) if num == '01' else None,
