@@ -217,7 +217,39 @@ def wrap(lang, inner, url, title, desc, path, extra_css=()):
 
 # ------------------------------------------------------------------ полосы
 
-def band(theme, first, title, lead, more=None, items=None, cta=None):
+def decl_title(lang):
+    u"""Название Декларации на языке lang - из собранной страницы, а не из
+    мастера: мастера есть только у трёх языков, а слайдер показывает девять."""
+    import glob
+    f = glob.glob(os.path.join(SITE, 'documents', lang, '%s01*.html' % lang))
+    assert f, u'нет собранной страницы %s01 - слайдеру нечего показать' % lang
+    s = io.open(f[0], encoding='utf-8').read()
+    m = re.search(r'<h1[^>]*>(.*?)</h1>', s, re.S)
+    assert m, u'в %s нет заголовка h1' % f[0]
+    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', m.group(1))).strip()
+
+
+def langslider(lang):
+    u"""Девять слайдов: название Декларации на каждом из девяти языков.
+
+    Единственный по-настоящему свой визуальный актив сайта - корпус на девяти
+    письменностях. Слайдер этим и занят: показывает их рядом и служит входом.
+    Скошенные бока делает CSS, скрипта здесь нет ни строки.
+    """
+    o = [u'<ul class="langslider" aria-label="%s">' % C.esc(C.x(lang, 'lang_switcher'))]
+    for code in C.ALL_LANGS:
+        rtl = u' dir="rtl"' if code in C.RTL else u''
+        o.append(u'<li class="langslide"><a href="%s" lang="%s"%s>'
+                 u'<span class="langslide-lang">%s</span>'
+                 u'<span class="langslide-title">%s</span></a></li>'
+                 % (C.esc(doc_href('01', code)), code, rtl,
+                    C.esc(C.LANG_LABEL[code]), C.esc(decl_title(code))))
+    o.append(u'</ul>')
+    return u'\n'.join(o)
+
+
+def band(theme, first, title, lead, more=None, items=None, cta=None,
+         slider=None):
     o = ['<section class="band band--%s%s"><div class="band-in">'
          % (theme, ' band--first' if first else '')]
     tag = 'h1' if first else 'h2'
@@ -228,6 +260,12 @@ def band(theme, first, title, lead, more=None, items=None, cta=None):
         o.append('<ul class="band-list">%s</ul>'
                  % ''.join('<li><a href="%s">%s</a></li>' % (C.esc(h), C.esc(t))
                            for t, h in items))
+    if slider:
+        # Слайдер выходит из контейнера во всю ширину: скошенные слайды должны
+        # уезжать за оба края, иначе не видно, что их больше, чем помещается.
+        o.append('</div>')
+        o.append(slider)
+        o.append('<div class="band-in">')
     if more:
         o.append('<a class="band-more" href="%s">%s</a>' % (C.esc(more[1]),
                                                             C.esc(more[0])))
@@ -265,7 +303,8 @@ def build_index(lang):
                    if num == '14' else None)
             bands.append(band(theme, first, title_of(md),
                               lead(md, nums, anchor, lang, num),
-                              more=(more, doc_href(num, lang)), cta=cta))
+                              more=(more, doc_href(num, lang)), cta=cta,
+                              slider=langslider(lang) if num == '01' else None))
 
     title = C.t(lang, 'page.title')
     desc = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '',
