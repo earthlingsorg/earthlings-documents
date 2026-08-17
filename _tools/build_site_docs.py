@@ -24,6 +24,7 @@ import io, os, re, sys, html, json, argparse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import md2doc
+import chrome
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 # Мастера лежат в этом же репозитории, по языкам: ru/NN-slug.md.
@@ -66,7 +67,17 @@ def md_dir(lang='ru'):
     return os.path.join(REPO, lang)
 
 
+# Тема сборки. 'legacy' - боевой сайт, каким он есть; 'v2' - новый, под дизайн
+# epic.org. Разница только в оформлении и обвязке: текст, адреса, hreflang,
+# JSON-LD и порядок чтения общие, потому что источник один - те же мастера.
+# Адреса страниц в обеих темах совпадают знак в знак: подмена сайта должна быть
+# сменой корня в nginx, а не переписыванием ссылок.
+THEME = 'legacy'
+
+
 def docs_dir(lang='ru'):
+    if THEME == 'v2':
+        return os.path.join(SITE, '_v2', 'documents', lang)
     return os.path.join(SITE, 'documents', lang)
 
 # Номер документа -> имя мастера. Отдельный список имён не нужен: имя
@@ -664,23 +675,48 @@ def head_html(num, doc_title, w, lang='ru'):
     alts += ('<link rel="alternate" hreflang="x-default" href="%s%s">\n'
              % (ORIGIN, doc_href(num, xdef)))
 
+    if THEME == 'v2':
+        # Три листа и один скрипт на 950 байт - всё оформление страницы.
+        # Встроенного <style> нет: шапка не fixed, отступ сверху не нужен.
+        assets = [
+            '<link rel="stylesheet" href="/css/tokens.css">',
+            '<link rel="stylesheet" href="/css/chrome.css">',
+            '<link rel="stylesheet" href="/css/doc.css">',
+            '<script defer src="/js/chrome.js"></script>',
+        ]
+        for css in EXTRA_CSS_BY_DOC.get(num, []):
+            # Особые стили пока есть только у документа 31 (схемы «Рабочей
+            # повестки»), и они написаны на токенах прежней темы. Молча
+            # выбрасывать их нельзя: страница соберётся, а схемы поедут.
+            if os.path.isfile(os.path.join(SITE, '_v2', 'css', css)):
+                assets.append('<link rel="stylesheet" href="/css/%s">' % css)
+            else:
+                sys.stderr.write(
+                    'ВНИМАНИЕ %s%s: нет _v2/css/%s - схемы документа останутся '
+                    'без оформления. Лист написан на токенах прежней темы и '
+                    'ждёт переноса.\n' % (lang, num, css))
+    else:
+        assets = [
+            '<link rel="stylesheet" href="/css/docs-statute.css?v=1">',
+            # Шапка сайта - fixed, поэтому текст ушёл бы под неё: отступ сверху
+            # равен её высоте плюс два сантиметра воздуха. overflow-x гасит
+            # горизонтальную полосу: подвал растянут приёмом margin:0 -50vw, а
+            # 100vw шире содержимого на ширину вертикального скроллбара.
+            "<style>body{margin:0;background:#ece5d6;overflow-x:clip}"
+            ".statute{padding-top:calc(var(--header-height,64px) + 76px)}</style>",
+            SHELL_ASSETS,
+        ] + ['<link rel="stylesheet" href="/css/%s?v=1">' % css
+             for css in EXTRA_CSS_BY_DOC.get(num, [])]
+
     parts = [
-        '<!DOCTYPE html>', '<html lang="%s">' % lang, '<head>',
+        '<!DOCTYPE html>',
+        '<html lang="%s"%s>' % (lang, ' dir="rtl"' if lang in chrome.RTL else ''),
+        '<head>',
         '<meta charset="UTF-8">',
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
         '<title>%s</title>' % esc(title),
         '<meta name="description" content="%s">' % esc(desc),
-        '<link rel="stylesheet" href="/css/docs-statute.css?v=1">',
-        # Шапка сайта - fixed, поэтому текст ушёл бы под неё: отступ сверху
-        # равен её высоте плюс два сантиметра воздуха. overflow-x гасит
-        # горизонтальную полосу: подвал растянут приёмом margin:0 -50vw, а
-        # 100vw шире содержимого на ширину вертикального скроллбара.
-        "<style>body{margin:0;background:#ece5d6;overflow-x:clip}"
-        ".statute{padding-top:calc(var(--header-height,64px) + 76px)}</style>",
-        SHELL_ASSETS,
-    ] + [
-        '<link rel="stylesheet" href="/css/%s?v=1">' % css for css in EXTRA_CSS_BY_DOC.get(num, [])
-    ] + [
+    ] + assets + [
         '<meta name="robots" content="index, follow">',
         '<meta property="og:type" content="article">',
         '<meta property="og:url" content="%s">' % url,
@@ -820,6 +856,53 @@ def pop_subtitle(doc):
     return md2doc.inline(m.group(1))
 
 
+def has_doc(num, lang):
+    """Есть ли документ на этом языке - по таблице сборщика, единственной.
+
+    Меню порождается отсюда же. На боевом сайте список языков документа лежал
+    ещё и в constants.js, и 17 августа 2026 они разошлись: немецкий читатель не
+    мог дойти по меню до документов 17, 20 и 32, хотя все три страницы отдавали
+    200. Второго источника здесь нет по построению.
+    """
+    return lang in LANGS_BY_DOC.get(num, ALL_LANGS)
+
+
+def build_doc_v2(num, doc, head, toc, body, titles, lang):
+    """Страница в новом оформлении: статическая обвязка вместо веб-компонентов.
+
+    Скрипта, который рисует меню, здесь нет: шапка и подвал приезжают готовым
+    HTML из chrome.py. Переключатель языка - настоящие ссылки, поэтому и
+    LANG_SWITCH не нужен: переключать нечего, ссылка ведёт куда надо сама.
+    """
+    href = lambda n: doc_href(n, lang)                     # noqa: E731
+    have = lambda n: has_doc(n, lang)                      # noqa: E731
+
+    def lang_url(code):
+        # Языка, на котором документа нет, в переключателе не прячем: читатель
+        # ищет свой язык, а не этот документ. Ведём в библиотеку его языка.
+        if has_doc(num, code):
+            return doc_href(num, code)
+        return '/documents/%s/index.html' % code
+
+    return '\n'.join([
+        head_html(num, doc['title'], read_wrapper(num, lang), lang),
+        '<body>',
+        chrome.header_html(lang, doc_href=href, lang_url=lang_url,
+                           home_url='/%s/' % lang, has_doc=have, active_doc=num),
+        '<main class="%s" id="main">' % ROOT,
+        '<div class="sheet">',
+        head, toc, body,
+        '</div>',
+        prev_next_html(num, titles, lang),
+        '</main>',
+        chrome.footer_html(lang, doc_href=href, has_doc=have),
+        UMAMI,
+        '</body>',
+        '</html>',
+        '',
+    ])
+
+
 def build_doc(num, md_path, titles, fragments=None, lang='ru'):
     md = io.open(md_path, encoding='utf-8').read()
     assert md.strip(), 'пустой исходник: %s' % md_path
@@ -846,6 +929,9 @@ def build_doc(num, md_path, titles, fragments=None, lang='ru'):
         for marker, frag in fragments.items():
             assert marker in body, 'маркер %s не найден в теле %s' % (marker, num)
             body = body.replace('<p>%s</p>' % marker, frag).replace(marker, frag)
+
+    if THEME == 'v2':
+        return doc, build_doc_v2(num, doc, head, toc, body, titles, lang)
 
     # Внешняя обёртка нужна и отдельной странице, и встроенному просмотрщику:
     # он вставляет в общую страницу только содержимое body, поэтому класс с
@@ -960,24 +1046,123 @@ def write_slug_module():
     io.open(path, 'w', encoding='utf-8', newline='\n').write(body)
 
 
+HREF_RE = re.compile(
+    r'<link rel="alternate" hreflang="([a-z]{2})" href="([^"]+)">')
+
+
+def check_hreflang(quiet=False):
+    """Не устарели ли hreflang на уже собранных страницах других языков.
+
+    Ловушка, на которую мы уже наступили. Когда немецкий получил смысловые
+    слаги, пересобрали только немецкие страницы - а hreflang перечисляет все
+    девять языков, и он живёт в КАЖДОЙ странице каждого языка. В итоге 49
+    русских и английских страниц полгода указывали на немецкие адреса вида
+    de05.html, которые отдают 301 на de05-charta.html. Поисковик такие
+    аннотации может просто не засчитать.
+
+    Отсюда правило: слаги нового языка - это пересборка ВСЕХ языков, а не
+    одного. Проверка нужна потому, что забыть это правило легче, чем помнить.
+    """
+    bad = []
+    for lang in ALL_LANGS:
+        d = os.path.join(SITE, 'documents', lang)
+        if not os.path.isdir(d):
+            continue
+        for name in sorted(os.listdir(d)):
+            if not name.endswith('.html') or name == 'index.html':
+                continue
+            path = os.path.join(d, name)
+            s = io.open(path, encoding='utf-8').read()
+            m = re.match(r'^[a-z]{2}(\d\d)', name)
+            if not m:
+                continue
+            num = m.group(1)
+            for alt, href in HREF_RE.findall(s):
+                want = ORIGIN + doc_href(num, alt)
+                if alt in SLUGS and href != want:
+                    bad.append((lang, name, alt, href, want))
+    if bad and not quiet:
+        sys.stderr.write(
+            'ВНИМАНИЕ: устаревших hreflang: %d. Слаги языка меняют ссылки во '
+            'ВСЕХ языках - пересоберите остальные (--lang <язык> all) или, если '
+            'мастеров у языка ещё нет, почините точечно: --fix-hreflang\n'
+            % len(bad))
+        for row in bad[:5]:
+            sys.stderr.write('  %s/%s: hreflang=%s -> %s, ожидается %s\n' % row)
+        if len(bad) > 5:
+            sys.stderr.write('  ... и ещё %d\n' % (len(bad) - 5))
+    return bad
+
+
+def fix_hreflang(dry=False):
+    """Починить устаревшие hreflang там, где пересобрать страницу нечем.
+
+    У шести языков (es, fr, zh, ar, hi, ka) мастеров .md нет - их страницы
+    достались от прежнего конвейера и переедут вместе с переводом корпуса. До
+    тех пор пересборка им недоступна, а неверный hreflang живёт уже сейчас.
+    Правка узкая: меняется только адрес внутри самой аннотации, к тексту
+    страницы не притрагиваемся.
+    """
+    bad = check_hreflang(quiet=True)
+    by_file = {}
+    for lang, name, alt, href, want in bad:
+        by_file.setdefault((lang, name), []).append((alt, href, want))
+    n = 0
+    for (lang, name), fixes in sorted(by_file.items()):
+        path = os.path.join(SITE, 'documents', lang, name)
+        s = io.open(path, encoding='utf-8').read()
+        before = s
+        for alt, href, want in fixes:
+            old = '<link rel="alternate" hreflang="%s" href="%s">' % (alt, href)
+            new = '<link rel="alternate" hreflang="%s" href="%s">' % (alt, want)
+            assert old in s, 'не нашёл аннотацию в %s: %s' % (path, old)
+            s = s.replace(old, new)
+        if s != before:
+            if not dry:
+                io.open(path, 'w', encoding='utf-8', newline='\n').write(s)
+            n += 1
+    return n, len(bad)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('docs', nargs='*', help='номера документов или all')
     ap.add_argument('--css', action='store_true', help='пересобрать только CSS')
     ap.add_argument('--dry', action='store_true', help='не писать файлы')
     ap.add_argument('--lang', default='ru', help='язык сборки (по умолчанию ru)')
+    ap.add_argument('--theme', default='legacy', choices=('legacy', 'v2'),
+                    help='оформление: legacy - боевой сайт, v2 - новый '
+                         '(пишет в _v2/documents/<lang>/)')
+    ap.add_argument('--fix-hreflang', action='store_true',
+                    help='починить устаревшие hreflang в страницах языков, '
+                         'у которых нет мастеров, и выйти')
     a = ap.parse_args()
+    if a.fix_hreflang:
+        n, total = fix_hreflang(a.dry)
+        print('hreflang   починено страниц: %d, аннотаций: %d' % (n, total))
+        return
+    global THEME
+    THEME = a.theme
     lang = a.lang
     md, docs = md_dir(lang), docs_dir(lang)
     assert os.path.isdir(md), 'нет мастеров языка %r: %s' % (lang, md)
-    assert os.path.isdir(docs), 'нет каталога страниц языка %r: %s' % (lang, docs)
     assert lang in SLUGS, (
         'для языка %r не заданы слаги в SLUGS. Без них страницы лягут по '
         'числовым адресам, а перелинковка внутри документов ведёт на '
         'смысловые - получатся битые ссылки.' % lang)
 
-    n = build_css()
-    print('CSS  css/docs-statute.css  %d байт' % n)
+    if THEME == 'v2':
+        # Каталог создаём сами: в отличие от боевого дерева, его ещё нет.
+        if not os.path.isdir(docs) and not a.dry:
+            os.makedirs(docs)
+        assert os.path.isdir(os.path.join(SITE, '_v2', 'css')), (
+            'нет _v2/css - собирать страницы новой темы не с чем')
+    else:
+        assert os.path.isdir(docs), 'нет каталога страниц языка %r: %s' % (lang, docs)
+        n = build_css()
+        print('CSS  css/docs-statute.css  %d байт' % n)
+        if a.css:
+            return
     if a.css:
         return
 
@@ -1012,6 +1197,13 @@ def main():
                  len([p for p in doc['parts'] if p['label'] or p['title']]),
                  arts, len(page.encode('utf-8')) // 1024))
 
+    if THEME == 'v2':
+        # Библиотека, карта редиректов и doc-slugs.js - файлы боевого дерева.
+        # Новая тема их не трогает: пока сайты живут рядом, правка общих файлов
+        # из черновиковой сборки означала бы, что черновик меняет боевой сайт.
+        print('тема v2: библиотека, карта редиректов и doc-slugs.js не трогались')
+        return
+
     for num, old, new in sync_library(titles, a.dry, lang):
         print('библиотека %s%s: %s  ->  %s' % (lang, num, old, new))
 
@@ -1020,6 +1212,9 @@ def main():
         print('редиректы  nginx/redirects-docs.map  строк: %d' % n)
         write_slug_module()
         print('слаги      js/modern/shared/doc-slugs.js')
+
+    bad = check_hreflang()
+    print('hreflang   проверено дерево documents/, устаревших: %d' % len(bad))
 
 
 if __name__ == '__main__':
