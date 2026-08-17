@@ -64,10 +64,16 @@ BANDS = [
     # размеченное место, а не пустота: видно, что оно занято и ждёт.
     ('white', 'reserved', [],        u''),
     ('mist',  'reserved', [],        u''),
-    # Последняя полоса зарезервирована под Awakened Code живьём в рамке
-    # монитора. Тёмно-синяя ей и нужна: терминал на тёмном - его собственное
-    # оформление. Здесь её пока нет, чтобы не выкатывать наполовину.
+    # Awakened Code живьём в рамке монитора. Тёмно-синяя полоса ему и нужна:
+    # терминал на чёрном - его собственное оформление, и на светлой полосе
+    # экран выглядел бы дырой.
+    ('navy',  'awakened', [],        u''),
 ]
+
+# Сколько эссе показать рядом с монитором - по стольку из левой и правой
+# ленты. Названия берутся из data/sliders.json самого Awakened Code, где они
+# уже лежат на девяти языках: сочинять для этой полосы нечего.
+AWAKENED_ITEMS = 3
 
 # Сколько первых фраз Манифеста идут в плакат. Ровно три: в русском,
 # английском и немецком мастере это «Международные организации. Посмотрите на
@@ -370,6 +376,60 @@ def poster(theme, kicker, line, body, more):
     ])
 
 
+def awakened(theme, lang):
+    u"""Полоса Awakened Code: он сам, живьём, в рамке монитора.
+
+    Не снимок экрана и не пересказ, а настоящая страница в iframe. Три довода:
+    Awakened Code переносится на новый сайт КАК ЕСТЬ (решение Артура), значит
+    копии быть не должно; дублирования нет - расходиться нечему; и он правда
+    живой, со своей бегущей строкой и пульсацией.
+
+    Грузится лениво: страница остаётся лёгкой, а 130 КБ его скриптов приезжают
+    только когда до полосы доскроллили. Текст полосы лежит в HTML отдельно от
+    рамки, поэтому правило «страница читается без JS» держится: монитор - это
+    декорация, а не содержание.
+
+    Названия эссе берутся из его же data/sliders.json, где они уже лежат на
+    девяти языках.
+    """
+    path = os.path.join(SITE, 'awakened_code', 'data', 'sliders.json')
+    assert os.path.isfile(path), u'нет %s - полосе нечего показать' % path
+    data = json.load(io.open(path, encoding='utf-8'))
+    assert lang in data, (
+        u'в sliders.json нет языка %r: %s' % (lang, u', '.join(sorted(data))))
+    items = (data[lang].get('left', [])[:AWAKENED_ITEMS]
+             + data[lang].get('right', [])[:AWAKENED_ITEMS])
+    assert items, u'в sliders.json (%s) нет ни одного эссе' % lang
+
+    li = u''.join(
+        u'<li><span class="code-item-title">%s</span>'
+        u'<span class="code-item-key">%s</span></li>'
+        % (C.esc(x.get('title', '')), C.esc(x.get('keyPhrase', '')))
+        for x in items)
+
+    return u'\n'.join([
+        u'<section class="band band--%s band--code">' % theme,
+        u'<div class="band-in code-row">',
+        u'<div class="code-text">',
+        u'<h2 class="band-title">%s</h2>' % C.esc(C.t(lang, 'nav.awakened_code')),
+        u'<ul class="code-list">%s</ul>' % li,
+        u'<a class="band-more" href="/awakened_code/">%s</a>'
+        % C.esc(C.x(lang, 'read_more')),
+        u'</div>',
+        u'<div class="monitor">',
+        u'<div class="monitor-screen">',
+        # embed=1 просит Awakened Code убрать свой переключатель языка и
+        # кнопку «К Earthlings»: язык уже выбран страницей, а возвращаться
+        # некуда - мы и так на ней.
+        u'<iframe src="/awakened_code/?embed=1" loading="lazy" '
+        u'title="%s"></iframe>' % C.esc(C.t(lang, 'nav.awakened_code')),
+        u'</div>',
+        u'<div class="monitor-neck"></div><div class="monitor-foot"></div>',
+        u'</div>',
+        u'</div></section>',
+    ])
+
+
 def reserved(theme, n):
     u"""Полоса под содержимое, которого ещё нет.
 
@@ -418,6 +478,8 @@ def build_index(lang):
     for i, (theme, what, nums, anchor) in enumerate(BANDS):
         if what == 'reserved':
             bands.append(reserved(theme, i + 1))
+        elif what == 'awakened':
+            bands.append(awakened(theme, lang))
         elif what == 'manifest':
             ps = lead(manifest, nums, anchor, lang, u'Манифест')
             sents = re.split(r'(?<=[.!?])\s+', ps[0])
