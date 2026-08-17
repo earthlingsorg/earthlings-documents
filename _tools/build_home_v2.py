@@ -41,29 +41,41 @@ from build_site_docs import (SITE, REPO, ORIGIN, ROOT, doc_href, has_doc,
 MANIFEST_DIR = os.path.join(REPO, '_manifest')
 OUT = os.path.join(SITE, '_v2')
 
-# Полосы: (класс темы, что показываем, номера абзацев лида, якорь).
+# Полосы: (класс темы, что показываем, номера БЛОКОВ лида, якорь).
 #
 # Номера, а не «первые N абзацев». Корпусные документы открываются процедурно -
 # «Настоящий текст представляет...», «Возраст - 18 лет», - и механический выбор
 # первого абзаца ставил на главную служебные оговорки. Абзацы выбраны глазами.
 #
-# Номер работает на всех языках, потому что переводы зеркалят структуру мастера
-# блок в блок - это правило корпуса, а не удача. Но если мастер поправят,
-# нумерация поедет молча, поэтому рядом стоит ЯКОРЬ: начало русского абзаца.
-# Не совпал - сборка падает и говорит, какой документ разошёлся.
+# Считаются ВСЕ блоки мастера подряд, включая заголовки, списки и врезки. Это
+# не мелочь, а условие правильности. Раньше считались только абзацы прозы, а
+# проза отбиралась в том числе по длине - короче 90 знаков не абзац. Длина
+# зависит от языка: русский абзац в 77 знаков выпадал, его немецкий перевод в
+# 96 оставался, и один и тот же номер означал в двух языках разные абзацы.
+# Английская и немецкая правовая полоса из-за этого открывались служебной
+# оговоркой вместо тезиса. Якорь этого не ловил: он сверялся только с русским.
+#
+# Число блоков от языка не зависит: переводы зеркалят мастер блок в блок - это
+# правило корпуса. Поэтому lead() требует, чтобы число блоков совпало, и падает,
+# если мастера разошлись. ЯКОРЬ - начало русского блока - остаётся второй
+# проверкой: он ловит правку внутри мастера, не меняющую числа блоков.
 #
 # Документы названы номерами: переименование документа сюда не заглядывает,
 # заголовок полосы берётся из его H1.
 BANDS = [
-    ('white', 'manifest', [1, 2, 4], u'Международные организации'),
-    ('navy',  'doc:20',   [1, 4],    u'Сегодня Декларация существует'),
-    ('white', 'doc:01',   [1, 4],    u'Настоящая редакция является'),
-    ('mist',  'legal',    [4, 6],    u'Международное право умеет'),
-    ('navy',  'doc:14',   [12],      u'Внутри народа паспорт'),
-    # Две полосы под содержимое, которое Артур опишет позже. Пока это
-    # размеченное место, а не пустота: видно, что оно занято и ждёт.
-    ('white', 'reserved', [],        u''),
-    ('mist',  'reserved', [],        u''),
+    ('white', 'manifest', [2, 3, 5],  u'Международные организации'),
+    ('navy',  'doc:20',   [6, 9],     u'Сегодня Декларация существует'),
+    ('white', 'doc:01',   [3, 6],     u'Настоящая редакция является'),
+    ('mist',  'legal',    [15, 22],   u'Международное право умеет'),
+    ('navy',  'doc:14',   [32],       u'Внутри народа паспорт'),
+    # Полоса платформы: слева текст из документа 12, справа туры платформы
+    # карточками. Карточки прямые намеренно - скошенные бока уже заняты
+    # языковым слайдером тремя полосами выше, и повторять приём значило бы
+    # сделать две разные вещи похожими.
+    ('white', 'platform', [8, 9],     u'Платформа не является социальной'),
+    # Полоса под содержимое, которое Артур опишет позже. Пока это размеченное
+    # место, а не пустота: видно, что оно занято и ждёт.
+    ('mist',  'reserved', [],         u''),
     # Awakened Code живьём в рамке монитора. Тёмно-синяя полоса ему и нужна:
     # терминал на чёрном - его собственное оформление, и на светлой полосе
     # экран выглядел бы дырой.
@@ -137,21 +149,61 @@ def prose(md):
     return out
 
 
-def lead(md, nums, anchor, lang, where):
-    u"""Абзацы лида по номерам. Якорь проверяется только на русском: он и есть
-    мастер, остальные языки зеркалят его структуру."""
-    ps = prose(md)
+def blocks(md):
+    u"""Все непустые блоки мастера по порядку, без единого фильтра.
+
+    Именно отсутствие фильтров и делает нумерацию годной для всех языков:
+    любой отбор «что считать абзацем» опирается на свойства текста, а они у
+    перевода другие. Число блоков же задано структурой, а структуру перевод
+    повторяет блок в блок.
+    """
+    bs = [re.sub(r'\s+', ' ', b.strip())
+          for b in re.split(r'\n\s*\n', md) if b.strip()]
+    assert bs, u'в мастере нет ни одного блока'
+    return bs
+
+
+def is_prose(b):
+    u"""Блок - обычный абзац, а не заголовок, список, врезка или разделитель.
+
+    Проверка нужна не для отбора, а как страховка: если номер в BANDS
+    промахнулся, на главную попал бы заголовок раздела или строка таблицы, и
+    заметить это можно было бы только глазами на девяти языках.
+    """
+    if b.startswith('---') or re.match(r'^\*\*[^*]+\*\*$', b):
+        return False
+    return b[0] not in '#>|' and not b.startswith('- ') and not b.startswith('* ')
+
+
+def lead(load, what, nums, anchor, lang):
+    u"""Блоки лида по номерам, с двумя проверками.
+
+    Первая: число блоков в мастере языка обязано совпасть с русским. Не
+    совпало - переводы разошлись с мастером по структуре, и любой номер
+    означает в них уже не то; сборка падает и называет документ.
+
+    Вторая: русский блок начинается с якоря. Она ловит правку ВНУТРИ мастера,
+    от которой число блоков не меняется.
+    """
+    ru = blocks(load(what, 'ru'))
+    bs = blocks(load(what, lang)) if lang != 'ru' else ru
+    assert len(bs) == len(ru), (
+        u'мастер %s (%s) состоит из %d блоков, а русский - из %d. Переводы '
+        u'корпуса зеркалят мастер блок в блок; раз число разошлось, номера в '
+        u'BANDS указывают в этих языках на другие абзацы. Сверьте мастера.'
+        % (what, lang, len(bs), len(ru)))
     for n in nums:
-        assert n <= len(ps), (
-            u'в мастере %s (%s) всего %d абзацев прозы, а лид просит №%d'
-            % (where, lang, len(ps), n))
-    if lang == 'ru':
-        got = ps[nums[0] - 1]
-        assert got.startswith(anchor), (
-            u'лид главной разошёлся с мастером %s: абзац №%d начинается на '
-            u'%r, а ожидалось %r. Мастер правили - проверьте номера абзацев в '
-            u'BANDS и выберите заново.' % (where, nums[0], got[:40], anchor))
-    return [ps[n - 1] for n in nums]
+        assert 1 <= n <= len(bs), (
+            u'в мастере %s всего %d блоков, а лид просит №%d' % (what, len(bs), n))
+        assert is_prose(bs[n - 1]), (
+            u'блок №%d мастера %s (%s) - не абзац, а %r. На главную попал бы '
+            u'заголовок или список.' % (n, what, lang, bs[n - 1][:60]))
+    got = ru[nums[0] - 1]
+    assert got.startswith(anchor), (
+        u'лид главной разошёлся с мастером %s: блок №%d начинается на %r, а '
+        u'ожидалось %r. Мастер правили - проверьте номера в BANDS и выберите '
+        u'заново.' % (what, nums[0], got[:40], anchor))
+    return [bs[n - 1] for n in nums]
 
 
 def md_inline(s):
@@ -168,6 +220,15 @@ def md_inline(s):
 
 def doc_master(num, lang):
     return read_master(os.path.join(md_dir(lang), corpus_file(num, lang)))
+
+
+def load(what, lang):
+    u"""Мастер по имени полосы: 'manifest' или номер документа. Один вход на
+    оба случая нужен затем, чтобы lead() могла сама поднять русский мастер и
+    сверить с ним структуру, не зная, какая полоса её вызвала."""
+    if what == 'manifest':
+        return read_master(os.path.join(MANIFEST_DIR, '%s-manifest.md' % lang))
+    return doc_master(what, lang)
 
 
 # ------------------------------------------------------------------ страница
@@ -322,17 +383,21 @@ def ladder(lang):
     Тире везде ASCII с пробелами - это правило типографики корпуса, а не
     удача. Число форм обязано совпасть на всех языках, иначе сборка падает.
     """
-    # Номер абзаца ищем в русском мастере всегда, а не только когда собираем
+    # Номер блока ищем в русском мастере всегда, а не только когда собираем
     # русскую страницу: иначе сборка одного немецкого языка зависела бы от
     # того, собирали ли перед этим русский.
-    ru = prose(doc_master('04', 'ru'))
-    idx = [i for i, p in enumerate(ru) if p.startswith(FORMS_ANCHOR)]
+    #
+    # Блоки, а не абзацы прозы: отбор прозы отбрасывает короткие строки, а
+    # короткие они по-разному в разных языках, и номер уезжал бы на перевод.
+    ru = blocks(doc_master('04', 'ru'))
+    idx = [i for i, b in enumerate(ru) if b.startswith(FORMS_ANCHOR)]
     assert idx, (u'в мастере 04 не нашёлся абзац, начинающийся на %r - '
                  u'лестницу строить не из чего' % FORMS_ANCHOR)
-    ps = prose(doc_master('04', lang))
-    assert idx[0] < len(ps), (
-        u'в мастере 04 (%s) абзацев меньше, чем в русском - структура '
-        u'разошлась' % lang)
+    ps = blocks(doc_master('04', lang))
+    assert len(ps) == len(ru), (
+        u'мастер 04 (%s) состоит из %d блоков, а русский - из %d: структура '
+        u'разошлась, лестница собралась бы из чужого абзаца'
+        % (lang, len(ps), len(ru)))
     p = ps[idx[0]]
     head, sep, rest = p.partition(':')
     assert sep, u'в абзаце форм (%s) нет двоеточия' % lang
@@ -430,6 +495,110 @@ def awakened(theme, lang):
     ])
 
 
+# Платформа лежит соседним репозиторием: сайт и платформа - разные проекты, и
+# сводить их в один репозиторий незачем. Путь переопределяется переменной
+# окружения, как и путь к сайту в build_site_docs.
+PLATFORM = os.environ.get('EARTHLINGS_PLATFORM') or os.path.join(
+    os.path.dirname(SITE), 'earthlings-platform')
+PLATFORM_APP = os.path.join(PLATFORM, 'app-starter')
+# Адрес тура на живой платформе. Файлы названы по образцу `cells_ru.html`.
+TOUR_URL = 'https://app.earth-lings.org/assets/tours/%s/%s_%s.html'
+
+
+def _plat(lang):
+    u"""Раздел `tours` из словаря платформы. Именно из её словаря, а не из
+    словарей сайта: эти строки принадлежат платформе, и вторая их копия на
+    стороне сайта разошлась бы с первой."""
+    p = os.path.join(PLATFORM_APP, 'assets', 'js', 'i18n', '%s.json' % lang)
+    assert os.path.isfile(p), (
+        u'нет словаря платформы %s. Полоса платформы собирается из живых '
+        u'словарей соседнего репозитория; если он лежит в другом месте, '
+        u'укажите его переменной EARTHLINGS_PLATFORM.' % p)
+    d = json.load(io.open(p, encoding='utf-8')).get('tours')
+    assert d, u'в словаре платформы %s нет раздела tours' % lang
+    return d
+
+
+def tour_label(lang):
+    u"""Подпись над лентой - «Интерактивный тур» платформы на девяти языках."""
+    v = _plat(lang).get('buttonText')
+    assert v, u'в словаре платформы %s нет tours.buttonText' % lang
+    return v
+
+
+def tours(lang):
+    u"""Названия туров платформы на языке lang.
+
+    Берутся ЖИВЫМИ из словарей самой платформы, а не переписываются сюда.
+    Названия разделов - вещь платформы, и вторая копия разошлась бы с первой
+    ровно так же, как разошлись когда-то меню сайта и его переводы.
+
+    Порядок задаёт русский словарь: он и есть мастер. Каждый язык обязан иметь
+    все тринадцать названий и все тринадцать файлов туров, иначе на главной
+    появилась бы карточка, ведущая в никуда.
+
+    Берётся `tours.sections`, а не `tours.<id>.title` из разметки платформы:
+    ключей `tours.<id>.title` в словарях нет ни одного, поэтому карточки на
+    самой платформе стоят русскими на всех языках. Это её отдельный дефект,
+    и чинить его надо там; здесь достаточно не повторить его.
+    """
+    ru = _plat(u'ru').get('sections')
+    mine = _plat(lang).get('sections')
+    assert ru and mine, u'в словаре платформы (%s) нет tours.sections' % lang
+    out = []
+    for tid in ru:
+        name = mine.get(tid)
+        assert name, (
+            u'в словаре платформы %s нет названия тура %r - карточка встала бы '
+            u'на чужом языке' % (lang, tid))
+        f = os.path.join(PLATFORM_APP, 'assets', 'tours', lang,
+                         '%s_%s.html' % (tid, lang))
+        assert os.path.isfile(f), (
+            u'нет файла тура %s - карточка вела бы в никуда' % f)
+        out.append((tid, name))
+    assert out, u'у платформы не нашлось ни одного тура'
+    return out
+
+
+def platform(theme, lang, title, lead_ps):
+    u"""Полоса платформы: слева текст, справа туры карточками.
+
+    Карточки прямые. Языковой слайдер тремя полосами выше скошен, и повторять
+    скос значило бы сделать две разные вещи на одно лицо: там девять
+    письменностей одного текста, здесь тринадцать разделов работающего
+    приложения. Разное содержание - разная форма.
+
+    Лента прокручивается вбок и держится на scroll-snap, без единой строки
+    скрипта. Клавиатурой она проходится сама: фокус идёт по ссылкам, а браузер
+    подтягивает к нему прокрутку.
+    """
+    cards = u''.join(
+        u'<li class="tourcard"><a href="%s"><span class="tourcard-n">%02d</span>'
+        u'<span class="tourcard-title">%s</span></a></li>'
+        % (C.esc(TOUR_URL % (lang, tid, lang)), i, C.esc(name))
+        for i, (tid, name) in enumerate(tours(lang), 1))
+
+    label = C.esc(tour_label(lang))
+    return u'\n'.join([
+        u'<section class="band band--%s band--platform">' % theme,
+        u'<div class="band-in platform-row">',
+        u'<div class="platform-text">',
+        u'<h2 class="band-title">%s</h2>' % C.esc(title),
+        u'<div class="band-lead">%s</div>'
+        % u''.join(u'<p>%s</p>' % md_inline(p) for p in lead_ps),
+        u'<a class="band-more" href="%s">%s</a>'
+        % (C.esc(doc_href('12', lang)), C.esc(C.x(lang, 'read_more'))),
+        u'<a class="band-cta" href="%s">%s</a>'
+        % (C.esc(C.APP_URL % lang), C.esc(C.t(lang, 'nav.platform_btn'))),
+        u'</div>',
+        u'<div class="platform-tours">',
+        u'<p class="platform-tours-label">%s</p>' % label,
+        u'<ul class="tourslider" aria-label="%s">%s</ul>' % (label, cards),
+        u'</div>',
+        u'</div></section>',
+    ])
+
+
 def reserved(theme, n):
     u"""Полоса под содержимое, которого ещё нет.
 
@@ -480,8 +649,12 @@ def build_index(lang):
             bands.append(reserved(theme, i + 1))
         elif what == 'awakened':
             bands.append(awakened(theme, lang))
+        elif what == 'platform':
+            assert has_doc('12', lang), u'документа 12 нет на языке %s' % lang
+            bands.append(platform(theme, lang, title_of(doc_master('12', lang)),
+                                  lead(load, '12', nums, anchor, lang)))
         elif what == 'manifest':
-            ps = lead(manifest, nums, anchor, lang, u'Манифест')
+            ps = lead(load, 'manifest', nums, anchor, lang)
             sents = re.split(r'(?<=[.!?])\s+', ps[0])
             assert len(sents) > POSTER_SENTENCES, (
                 u'первый абзац Манифеста (%s) короче %d фраз - плакат собрать '
@@ -492,12 +665,11 @@ def build_index(lang):
                 [u' '.join(sents[POSTER_SENTENCES:])] + ps[1:],
                 (more, '/%s/manifest.html' % lang)))
         elif what == 'legal':
-            md = doc_master(LEGAL_LEAD_DOC, lang)
             items = [(title_of(doc_master(d, lang)), doc_href(d, lang))
                      for d in LEGAL_DOCS if has_doc(d, lang)]
             assert items, u'ни один правовой документ не доступен на %s' % lang
             bands.append(band(theme, C.t(lang, 'nav.legal_base'),
-                              lead(md, nums, anchor, lang, LEGAL_LEAD_DOC),
+                              lead(load, LEGAL_LEAD_DOC, nums, anchor, lang),
                               items=items, extra=ladder(lang)))
         else:
             num = what.split(':')[1]
@@ -506,7 +678,7 @@ def build_index(lang):
             cta = ((C.t(lang, 'nav.become_earthling'), C.CTA_URL % lang)
                    if num == '14' else None)
             bands.append(band(theme, title_of(md),
-                              lead(md, nums, anchor, lang, num),
+                              lead(load, num, nums, anchor, lang),
                               more=(more, doc_href(num, lang)), cta=cta,
                               slider=langslider(lang) if num == '01' else None,
                               extra=timeline(lang) if num == '20' else None))
