@@ -248,14 +248,104 @@ def langslider(lang):
     return u'\n'.join(o)
 
 
+# Даты вех учредительного периода в машинном виде. В тексте мастеров они
+# написаны словами и на девяти языках по-своему, разбирать их разбором строки
+# значило бы гадать. Здесь они один раз и для всех языков; число обязано
+# совпасть с числом пунктов в мастере, иначе сборка падает.
+PERIOD_DATES = ['2026-09-07', '2026-12-06', '2026-12-20', '2027-01-03']
+
+# Абзац документа 04 с перечнем правовых форм. Якорь - начало русского абзаца.
+FORMS_ANCHOR = u'Право предоставляет форму'
+
+
+def timeline(lang):
+    u"""Шкала учредительного периода: четыре вехи из раздела «Сроки».
+
+    Пункты берутся из мастера как есть - `- **дата** - что происходит`. Такой
+    же список лежит в английском и немецком мастере: корпус переводится блок в
+    блок, поэтому разбор один на все языки.
+
+    Какая веха текущая, страница не знает и знать не может: она статическая, а
+    собирается раз в несколько недель. Проставить «сейчас здесь» при сборке
+    значило бы соврать через месяц. Поэтому у каждой вехи стоит дата в
+    машинном виде, а подсветку ставит крошечный скрипт при показе. Без него
+    шкала читается полностью, просто без подсветки.
+    """
+    md = doc_master('20', lang)
+    items = re.findall(r'^-\s+\*\*(.+?)\*\*\s+-\s+(.+)$', md, re.M)
+    assert len(items) == len(PERIOD_DATES), (
+        u'в мастере 20 (%s) вех %d, а дат в PERIOD_DATES %d - раздел «Сроки» '
+        u'правили, шкала разошлась с текстом'
+        % (lang, len(items), len(PERIOD_DATES)))
+    o = [u'<ol class="timeline">']
+    for (date_text, what), iso in zip(items, PERIOD_DATES):
+        # у третьей вехи после первой фразы идут подробности - на шкале лишние
+        first_sentence = re.split(r'(?<=[.!?])\s', what.strip())[0]
+        o.append(u'<li class="tl-step" data-date="%s">'
+                 u'<span class="tl-date">%s</span>'
+                 u'<span class="tl-text">%s</span></li>'
+                 % (iso, C.esc(date_text.strip()), md_inline(first_sentence)))
+    o.append(u'</ol>')
+    return u'\n'.join(o)
+
+
+def ladder(lang):
+    u"""Лестница правовых форм из документа 04.
+
+    Документ перечисляет формы, которые право даёт объединениям людей - от
+    брака до международной организации, - и заканчивает: на уровне
+    человечества формы нет. Это и есть недостающая ступень, ради которой
+    существует проект, и рисовать её выдуманной схемой было бы нечестно:
+    здесь ровно слова мастера.
+
+    Разбор один на все языки: двоеточие, перечисление через запятую, тире.
+    Тире везде ASCII с пробелами - это правило типографики корпуса, а не
+    удача. Число форм обязано совпасть на всех языках, иначе сборка падает.
+    """
+    # Номер абзаца ищем в русском мастере всегда, а не только когда собираем
+    # русскую страницу: иначе сборка одного немецкого языка зависела бы от
+    # того, собирали ли перед этим русский.
+    ru = prose(doc_master('04', 'ru'))
+    idx = [i for i, p in enumerate(ru) if p.startswith(FORMS_ANCHOR)]
+    assert idx, (u'в мастере 04 не нашёлся абзац, начинающийся на %r - '
+                 u'лестницу строить не из чего' % FORMS_ANCHOR)
+    ps = prose(doc_master('04', lang))
+    assert idx[0] < len(ps), (
+        u'в мастере 04 (%s) абзацев меньше, чем в русском - структура '
+        u'разошлась' % lang)
+    p = ps[idx[0]]
+    head, sep, rest = p.partition(':')
+    assert sep, u'в абзаце форм (%s) нет двоеточия' % lang
+    enum, sep2, tail = rest.partition(' - ')
+    assert sep2, u'в абзаце форм (%s) нет тире после перечисления' % lang
+    forms = [x.strip() for x in enum.split(',') if x.strip()]
+    assert len(forms) == 8, (
+        u'в мастере 04 (%s) форм %d, а не 8: %r. Абзац правили - проверьте '
+        u'разбор.' % (lang, len(forms), forms))
+    # последняя фраза абзаца и есть недостающая ступень
+    gap = re.split(r'(?<=[.!?])\s', tail.strip())[-1].strip()
+    assert gap, u'в абзаце форм (%s) не нашлась заключительная фраза' % lang
+
+    o = [u'<ol class="ladder">']
+    for i, f in enumerate(forms):
+        o.append(u'<li class="ladder-step" style="--i:%d">%s</li>'
+                 % (i, C.esc(f)))
+    o.append(u'<li class="ladder-step ladder-gap" style="--i:8">%s</li>'
+             % C.esc(gap))
+    o.append(u'</ol>')
+    return u'\n'.join(o)
+
+
 def band(theme, first, title, lead, more=None, items=None, cta=None,
-         slider=None):
+         slider=None, extra=None):
     o = ['<section class="band band--%s%s"><div class="band-in">'
          % (theme, ' band--first' if first else '')]
     tag = 'h1' if first else 'h2'
     o.append('<%s class="band-title">%s</%s>' % (tag, C.esc(title), tag))
     o.append('<div class="band-lead">%s</div>'
              % ''.join('<p>%s</p>' % md_inline(p) for p in lead))
+    if extra:
+        o.append(extra)
     if items:
         o.append('<ul class="band-list">%s</ul>'
                  % ''.join('<li><a href="%s">%s</a></li>' % (C.esc(h), C.esc(t))
@@ -294,7 +384,7 @@ def build_index(lang):
             assert items, u'ни один правовой документ не доступен на %s' % lang
             bands.append(band(theme, first, C.t(lang, 'nav.legal_base'),
                               lead(md, nums, anchor, lang, LEGAL_LEAD_DOC),
-                              items=items))
+                              items=items, extra=ladder(lang)))
         else:
             num = what.split(':')[1]
             assert has_doc(num, lang), u'документа %s нет на языке %s' % (num, lang)
@@ -304,7 +394,8 @@ def build_index(lang):
             bands.append(band(theme, first, title_of(md),
                               lead(md, nums, anchor, lang, num),
                               more=(more, doc_href(num, lang)), cta=cta,
-                              slider=langslider(lang) if num == '01' else None))
+                              slider=langslider(lang) if num == '01' else None,
+                              extra=timeline(lang) if num == '20' else None))
 
     title = C.t(lang, 'page.title')
     desc = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '',
@@ -312,7 +403,10 @@ def build_index(lang):
     inner = '<main id="main">%s</main>' % '\n'.join(bands)
     return wrap(lang, inner, '%s/%s/' % (ORIGIN, lang), title, desc,
                 lambda c: '/%s/' % c,
-                ['<link rel="stylesheet" href="/css/home.css">'])
+                ['<link rel="stylesheet" href="/css/home.css">',
+                 # Единственная его работа - подсветить текущую веху шкалы.
+                 # Без него шкала читается целиком, просто без подсветки.
+                 '<script defer src="/js/home.js"></script>'])
 
 
 def build_manifest(lang):
