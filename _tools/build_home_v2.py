@@ -526,6 +526,14 @@ def tour_label(lang):
     return v
 
 
+def tour_newtab(lang):
+    u"""«Открыть в новой вкладке» - подпись ссылки в адресной строке рамки.
+    Лежит у платформы готовой на девяти языках, сочинять её незачем."""
+    v = _plat(lang).get('openInNewTab')
+    assert v, u'в словаре платформы %s нет tours.openInNewTab' % lang
+    return v
+
+
 def tours(lang):
     u"""Названия туров платформы на языке lang.
 
@@ -561,27 +569,44 @@ def tours(lang):
 
 
 def platform(theme, lang, title, lead_ps):
-    u"""Полоса платформы: слева текст, справа туры карточками.
+    u"""Полоса платформы: слева текст, справа живой тур, под ними карточки.
+
+    В рамке идёт НАСТОЯЩАЯ страница тура с платформы, а не снимок, и туры
+    сменяют друг друга по кругу. Карточки под экраном - и оглавление, и
+    переключатель: нажатие меняет то, что идёт на экране, а не уводит со
+    страницы.
 
     Карточки прямые. Языковой слайдер тремя полосами выше скошен, и повторять
     скос значило бы сделать две разные вещи на одно лицо: там девять
     письменностей одного текста, здесь тринадцать разделов работающего
     приложения. Разное содержание - разная форма.
 
-    Лента прокручивается вбок и держится на scroll-snap, без единой строки
-    скрипта. Клавиатурой она проходится сама: фокус идёт по ссылкам, а браузер
-    подтягивает к нему прокрутку.
+    ЧТО ПРОИСХОДИТ БЕЗ СКРИПТА. Рамка помечена hidden и не показывается вовсе:
+    пустой экран с кнопкой, которая ничего не делает, хуже, чем его отсутствие.
+    Остаётся текст и тринадцать карточек обычными ссылками на туры - полоса
+    читается и работает целиком. Скрипт только поднимает рамку и перехватывает
+    нажатия. Правило «страница не зависит от JS» этим не нарушено: экран -
+    декорация, содержание лежит в разметке.
+
+    Кнопка остановки не украшение: показ, который сам меняется дольше пяти
+    секунд, обязан иметь способ остановки (WCAG 2.2.2). Наведение и фокус
+    останавливают его тоже, но одного наведения мало - с клавиатуры и с
+    сенсорного экрана его нет.
     """
+    items = tours(lang)
     cards = u''.join(
-        u'<li class="tourcard"><a href="%s"><span class="tourcard-n">%02d</span>'
+        u'<li class="tourcard"><a href="%s" data-tour="%s">'
+        u'<span class="tourcard-n">%02d</span>'
         u'<span class="tourcard-title">%s</span></a></li>'
-        % (C.esc(TOUR_URL % (lang, tid, lang)), i, C.esc(name))
-        for i, (tid, name) in enumerate(tours(lang), 1))
+        % (C.esc(TOUR_URL % (lang, tid, lang)), C.esc(tid), i, C.esc(name))
+        for i, (tid, name) in enumerate(items, 1))
 
     label = C.esc(tour_label(lang))
+    first = TOUR_URL % (lang, items[0][0], lang)
     return u'\n'.join([
         u'<section class="band band--%s band--platform">' % theme,
-        u'<div class="band-in platform-row">',
+        u'<div class="band-in">',
+        u'<div class="platform-row">',
         u'<div class="platform-text">',
         u'<h2 class="band-title">%s</h2>' % C.esc(title),
         u'<div class="band-lead">%s</div>'
@@ -591,10 +616,31 @@ def platform(theme, lang, title, lead_ps):
         u'<a class="band-cta" href="%s">%s</a>'
         % (C.esc(C.APP_URL % lang), C.esc(C.t(lang, 'nav.platform_btn'))),
         u'</div>',
-        u'<div class="platform-tours">',
+        # hidden снимает скрипт. Атрибут, а не класс: без скрипта рамку прячет
+        # сам браузер, и ни одного правила CSS для этого не нужно.
+        u'<div class="platform-screen" data-tours hidden>',
+        # Рамка браузера, а не монитора: у Awakened Code двумя полосами ниже
+        # монитор на подставке, и второй такой же читался бы как повтор. Здесь
+        # это и честнее - в рамке действительно веб-страница, и в адресной
+        # строке видно какая.
+        u'<div class="browser">',
+        u'<div class="browser-bar">',
+        u'<span class="browser-dots" aria-hidden="true"></span>',
+        u'<span class="browser-url" data-url>%s</span>'
+        % C.esc(re.sub(r'^https?://', '', first)),
+        u'<a class="browser-open" data-open href="%s" target="_blank" '
+        u'rel="noopener">%s</a>' % (C.esc(first), C.esc(tour_newtab(lang))),
+        u'</div>',
+        u'<div class="browser-screen" data-screen></div>',
+        u'</div>',
+        u'<button type="button" class="tour-toggle" data-toggle '
+        u'aria-pressed="false" data-pause="%s" data-resume="%s">%s</button>'
+        % (C.esc(C.x(lang, 'pause')), C.esc(C.x(lang, 'resume')),
+           C.esc(C.x(lang, 'pause'))),
+        u'</div>',
+        u'</div>',
         u'<p class="platform-tours-label">%s</p>' % label,
         u'<ul class="tourslider" aria-label="%s">%s</ul>' % (label, cards),
-        u'</div>',
         u'</div></section>',
     ])
 

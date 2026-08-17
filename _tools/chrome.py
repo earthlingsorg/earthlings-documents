@@ -125,6 +125,20 @@ EXTRA = {
                   'fr': u'Lire en entier', 'zh': u'阅读全文',
                   'ar': u'قراءة النص كاملا', 'hi': u'पूरा पढ़ें',
                   'ka': u'სრულად წაკითხვა'},
+    # Кнопка на полосе платформы: экран сам перелистывает туры по кругу, и
+    # смену надо уметь остановить. Это не украшение, а требование: содержимое,
+    # которое обновляется само дольше пяти секунд, обязано иметь способ
+    # остановки (WCAG 2.2.2). Подпись меняется на 'resume', когда остановлено.
+    'pause': {'ru': u'Остановить показ', 'en': u'Pause the slideshow',
+              'es': u'Pausar la presentación', 'de': u'Vorführung anhalten',
+              'fr': u'Mettre en pause', 'zh': u'暂停播放',
+              'ar': u'إيقاف العرض مؤقتا', 'hi': u'प्रदर्शन रोकें',
+              'ka': u'ჩვენების შეჩერება'},
+    'resume': {'ru': u'Продолжить показ', 'en': u'Resume the slideshow',
+               'es': u'Reanudar la presentación', 'de': u'Vorführung fortsetzen',
+               'fr': u'Reprendre la lecture', 'zh': u'继续播放',
+               'ar': u'متابعة العرض', 'hi': u'प्रदर्शन जारी रखें',
+               'ka': u'ჩვენების გაგრძელება'},
 }
 
 CTA_URL = 'https://id.earth-lings.org/verification?lang=%s'
