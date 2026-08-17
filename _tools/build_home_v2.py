@@ -73,9 +73,11 @@ BANDS = [
     # языковым слайдером тремя полосами выше, и повторять приём значило бы
     # сделать две разные вещи похожими.
     ('white', 'platform', [8, 9],     u'Платформа не является социальной'),
-    # Полоса под содержимое, которое Артур опишет позже. Пока это размеченное
-    # место, а не пустота: видно, что оно занято и ждёт.
-    ('mist',  'reserved', [],         u''),
+    # Как вступить: шесть шагов из документа 14, раздел 2. Полоса отвечает на
+    # вопрос, который на главной больше нигде не отвечен целиком - что именно
+    # происходит между «хочу» и «паспорт у меня»: анкета, проверка личности,
+    # взнос, кошелёк, выпуск паспорта.
+    ('mist',  'steps',    [10],       u'Иных условий не существует'),
     # Awakened Code живьём в рамке монитора. Тёмно-синяя полоса ему и нужна:
     # терминал на чёрном - его собственное оформление, и на светлой полосе
     # экран выглядел бы дырой.
@@ -645,6 +647,94 @@ def platform(theme, lang, title, lead_ps):
     ])
 
 
+# Раздел «Шесть шагов» документа 14 в номерах блоков. Номера, а не поиск по
+# тексту: искать «## 2.» значило бы завязаться на нумерацию разделов, а её
+# правят чаще, чем состав документа. Каждый номер проверяется разбором: не
+# разобралось - сборка падает.
+STEPS_HEAD = 13                  # «## 2. Шесть шагов»
+STEPS_FIRST, STEPS_LAST = 14, 19  # сами шаги
+STEPS_NOTE = 20                  # врезка о том, что биометрия не сохраняется
+REQS_FIRST, REQS_LAST = 6, 9     # четыре условия вступления, включая взнос
+
+_STEP_RE = re.compile(r'^\*\*(\d+)\.\s*(.+?)\*\*\s*(.+)$')
+_REQ_RE = re.compile(r'^\*\*(.+?)\*\*\s*-\s*(.+)$')
+
+
+def steps(theme, lang, lead_ps):
+    u"""Полоса «как вступить»: четыре условия, шесть шагов, слово о биометрии.
+
+    Всё - текст мастера 14, раздел 2, слово в слово. Пересказывать процедуру
+    своими словами на главной нельзя: это единственное место, где человек
+    решает, отдавать ли свои документы на проверку, и расхождение между
+    обещанием на главной и текстом документа здесь дороже всего.
+
+    Живой системы регистрации в полосе НЕТ и быть не должно, хотя рамка для
+    неё уже написана двумя полосами выше. Первый экран регистрации - форма с
+    почтой, именем и страной, а следом камера. Форму, собирающую личные
+    данные, показывают со своего адреса и ниоткуда больше: чужая страница в
+    рамке - ровно то, от чего защищаются запретом на обрамление, и заводить
+    у людей привычку вводить такое в рамке на другом сайте нельзя. Полоса
+    ведёт на id.earth-lings.org кнопкой.
+    """
+    bs = blocks(doc_master('14', lang))
+    ru = blocks(doc_master('14', 'ru'))
+    assert len(bs) == len(ru), (
+        u'мастер 14 (%s) состоит из %d блоков, а русский - из %d: раздел с '
+        u'шагами собрался бы из чужих абзацев' % (lang, len(bs), len(ru)))
+
+    head = re.sub(r'^#+\s*\d*\.?\s*', '', bs[STEPS_HEAD - 1]).strip()
+    assert head and not head.startswith('#'), (
+        u'блок %d мастера 14 (%s) - не заголовок раздела, а %r'
+        % (STEPS_HEAD, lang, bs[STEPS_HEAD - 1][:60]))
+
+    items = []
+    for n in range(STEPS_FIRST, STEPS_LAST + 1):
+        m = _STEP_RE.match(bs[n - 1])
+        assert m, (
+            u'блок %d мастера 14 (%s) не разобрался как шаг: %r. Раздел '
+            u'«Шесть шагов» правили - проверьте номера в build_home_v2.'
+            % (n, lang, bs[n - 1][:80]))
+        items.append((m.group(1), m.group(2).strip().rstrip('.'), m.group(3)))
+    assert len(items) == 6, u'шагов должно быть шесть, а разобралось %d' % len(items)
+
+    reqs = []
+    for n in range(REQS_FIRST, REQS_LAST + 1):
+        m = _REQ_RE.match(bs[n - 1])
+        assert m, (
+            u'блок %d мастера 14 (%s) не разобрался как условие вступления: %r'
+            % (n, lang, bs[n - 1][:80]))
+        reqs.append((m.group(1), m.group(2).rstrip('.')))
+
+    note = re.sub(r'^>\s*', '', bs[STEPS_NOTE - 1])
+    assert note != bs[STEPS_NOTE - 1], (
+        u'блок %d мастера 14 (%s) - не врезка: %r'
+        % (STEPS_NOTE, lang, bs[STEPS_NOTE - 1][:80]))
+
+    return u'\n'.join([
+        u'<section class="band band--%s band--steps">' % theme,
+        u'<div class="band-in">',
+        u'<h2 class="band-title">%s</h2>' % C.esc(head),
+        u'<div class="band-lead">%s</div>'
+        % u''.join(u'<p>%s</p>' % md_inline(p) for p in lead_ps),
+        u'<ul class="reqs">%s</ul>'
+        % u''.join(u'<li><span class="req-name">%s</span>'
+                   u'<span class="req-text">%s</span></li>'
+                   % (C.esc(name), md_inline(text)) for name, text in reqs),
+        u'<ol class="steps">%s</ol>'
+        % u''.join(u'<li class="step"><span class="step-n">%s</span>'
+                   u'<span class="step-name">%s</span>'
+                   u'<span class="step-text">%s</span></li>'
+                   % (C.esc(num), C.esc(name), md_inline(text))
+                   for num, name, text in items),
+        u'<p class="steps-note">%s</p>' % md_inline(note),
+        u'<a class="band-more" href="%s">%s</a>'
+        % (C.esc(doc_href('14', lang)), C.esc(C.x(lang, 'read_more'))),
+        u'<a class="band-cta" href="%s">%s</a>'
+        % (C.esc(C.CTA_URL % lang), C.esc(C.t(lang, 'nav.become_earthling'))),
+        u'</div></section>',
+    ])
+
+
 def reserved(theme, n):
     u"""Полоса под содержимое, которого ещё нет.
 
@@ -695,6 +785,10 @@ def build_index(lang):
             bands.append(reserved(theme, i + 1))
         elif what == 'awakened':
             bands.append(awakened(theme, lang))
+        elif what == 'steps':
+            assert has_doc('14', lang), u'документа 14 нет на языке %s' % lang
+            bands.append(steps(theme, lang,
+                               lead(load, '14', nums, anchor, lang)))
         elif what == 'platform':
             assert has_doc('12', lang), u'документа 12 нет на языке %s' % lang
             bands.append(platform(theme, lang, title_of(doc_master('12', lang)),
