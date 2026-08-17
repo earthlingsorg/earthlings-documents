@@ -16,7 +16,9 @@ PDF пересылают, и открыт он будет вне сайта.
 Запуск:  python _tools/build_manifesto_pdf.py [ru|en|de]
 Выход:   <репозиторий сайта>/downloads/<имя из BY_LANG>
 
-Нужен reportlab (`pip install reportlab`) и шрифт Georgia - см. find_font_dir.
+Из внешнего нужен только reportlab (`pip install reportlab`). Шрифт лежит в
+_tools/fonts/ и версионируется вместе со скриптом, поэтому сборка одинакова на
+Windows, macOS и Linux и ничего ставить в систему не требуется.
 """
 
 import html
@@ -113,54 +115,37 @@ ALLOWED_BY_LANG = {"de": (0x201E, 0x201C)}
 ALLOWED = ALLOWED_BY_LANG.get(LANG, ())
 
 
-FACES = (("Georgia", "georgia.ttf"), ("Georgia-Bold", "georgiab.ttf"),
-         ("Georgia-Italic", "georgiai.ttf"), ("Georgia-BoldItalic", "georgiaz.ttf"))
-
-
-def find_font_dir():
-    """Каталог с четырьмя начертаниями Georgia.
-
-    Georgia проприетарная, положить её в репозиторий нельзя, поэтому ищем по
-    известным местам вместо жёсткого C:\\Windows\\Fonts - иначе скрипт работает
-    только на Windows и только у одного человека.
-
-    Подменять Georgia свободным шрифтом нельзя молча: три PDF уже опубликованы
-    и разосланы, а другой шрифт переверстает их и сменит число страниц.
-    """
-    cands = []
-    if os.environ.get("MANIFEST_FONT_DIR"):
-        cands.append(Path(os.environ["MANIFEST_FONT_DIR"]))
-    cands += [
-        Path(__file__).resolve().parent / "fonts",              # рядом со скриптом
-        Path(os.environ.get("WINDIR", r"C:\Windows")) / "Fonts",  # Windows
-        Path("/Library/Fonts"), Path.home() / "Library/Fonts",  # macOS
-        Path("/usr/share/fonts/truetype/msttcorefonts"),        # Debian/Ubuntu
-        Path("/usr/share/fonts/truetype"), Path("/usr/share/fonts"),
-        Path.home() / ".local/share/fonts", Path.home() / ".fonts",
-    ]
-    for d in cands:
-        try:
-            if all((d / f).is_file() for _, f in FACES):
-                return d
-        except OSError:
-            continue
-    raise SystemExit(
-        "не найден шрифт Georgia (нужны все четыре начертания: %s).\n"
-        "Искал в:\n  %s\n\n"
-        "Georgia проприетарная и в репозиторий не кладётся. Варианты:\n"
-        "  - Windows: шрифт стоит в системе, ничего делать не нужно;\n"
-        "  - macOS и Linux: поставить msttcorefonts либо скопировать четыре\n"
-        "    .ttf в _tools/fonts/ (каталог в .gitignore);\n"
-        "  - либо указать каталог: MANIFEST_FONT_DIR=/путь/к/шрифтам.\n"
-        % (", ".join(f for _, f in FACES), "\n  ".join(str(d) for d in cands)))
+# Шрифт лежит в репозитории, а не берётся из системы. Так сборка не зависит
+# ни от операционной системы, ни от того, что у кого установлено: результат
+# одинаков везде, включая машину, где Манифест собирают впервые.
+#
+# Почему PT Serif, а не Gelasio - метрический клон Georgia, который напрашивался
+# первым: в Gelasio НЕТ кириллицы вовсе (проверено по cmap: ни одного знака из
+# диапазона 0x410-0x44F). Русский Манифест на нём стал бы страницами пустых
+# квадратов. PT Serif - тоже OFL, покрывает латиницу и кириллицу целиком, и
+# сделан ParaType именно под русский текст.
+#
+# Прежде здесь была Georgia из C:\Windows\Fonts. Она проприетарная, в
+# репозиторий её не положить, и вне Windows сборка падала.
+FONT_DIR = Path(__file__).resolve().parent / "fonts"
+FAMILY = "Manifest"
+FACES = ((FAMILY, "PT_Serif-Web-Regular.ttf"),
+         (FAMILY + "-Bold", "PT_Serif-Web-Bold.ttf"),
+         (FAMILY + "-Italic", "PT_Serif-Web-Italic.ttf"),
+         (FAMILY + "-BoldItalic", "PT_Serif-Web-BoldItalic.ttf"))
 
 
 def register_fonts():
-    fdir = find_font_dir()
+    missing = [f for _, f in FACES if not (FONT_DIR / f).is_file()]
+    assert not missing, (
+        "нет начертаний шрифта в %s: %s\n"
+        "Шрифт версионируется вместе со скриптом; если файлов нет, репозиторий "
+        "склонирован не полностью." % (FONT_DIR, ", ".join(missing)))
     for name, file in FACES:
-        pdfmetrics.registerFont(TTFont(name, str(fdir / file)))
-    pdfmetrics.registerFontFamily("Georgia", normal="Georgia", bold="Georgia-Bold",
-                                  italic="Georgia-Italic", boldItalic="Georgia-BoldItalic")
+        pdfmetrics.registerFont(TTFont(name, str(FONT_DIR / file)))
+    pdfmetrics.registerFontFamily(FAMILY, normal=FAMILY, bold=FAMILY + "-Bold",
+                                  italic=FAMILY + "-Italic",
+                                  boldItalic=FAMILY + "-BoldItalic")
 
 
 def parse_source():
@@ -222,7 +207,7 @@ def check_typography(chunks):
 class LinkButton(Flowable):
     """Кнопка с рамкой; кликабельна вся площадь, не только надпись."""
 
-    def __init__(self, text, url, font="Georgia-Bold", size=13, pad_x=26, pad_y=13):
+    def __init__(self, text, url, font="Manifest-Bold", size=13, pad_x=26, pad_y=13):
         super().__init__()
         self.text, self.url, self.font, self.size = text, url, font, size
         self.pad_x, self.pad_y = pad_x, pad_y
@@ -293,12 +278,12 @@ def build():
     bad = check_typography([title, sign, cta] + body)
     assert not bad, f"запрещённая типографика в исходнике: {bad}"
 
-    st_body = ParagraphStyle("body", fontName="Georgia", fontSize=11, leading=17.5,
+    st_body = ParagraphStyle("body", fontName="Manifest", fontSize=11, leading=17.5,
                              alignment=TA_JUSTIFY, spaceAfter=10, textColor=INK,
                              firstLineIndent=0)
-    st_title = ParagraphStyle("title", fontName="Georgia-Bold", fontSize=23, leading=29,
+    st_title = ParagraphStyle("title", fontName="Manifest-Bold", fontSize=23, leading=29,
                               alignment=TA_CENTER, textColor=NAVY, spaceAfter=0)
-    st_sign = ParagraphStyle("sign", fontName="Georgia-Italic", fontSize=10.5, leading=15,
+    st_sign = ParagraphStyle("sign", fontName="Manifest-Italic", fontSize=10.5, leading=15,
                              alignment=TA_CENTER, textColor=INK_SOFT)
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
@@ -314,7 +299,7 @@ def build():
         canvas.saveState()
         canvas.setFillColor(PAGE_BG)
         canvas.rect(0, 0, A4[0], A4[1], stroke=0, fill=1)
-        canvas.setFont("Georgia", 8.5)
+        canvas.setFont(FAMILY, 8.5)
         canvas.setFillColor(INK_SOFT)
         canvas.drawCentredString(A4[0] / 2, 1.15 * cm, f"earth-lings.org    {docobj.page}")
         canvas.linkURL(SITE, (A4[0] / 2 - 60, 1.05 * cm, A4[0] / 2 + 60, 1.05 * cm + 11),
