@@ -78,6 +78,11 @@ BY_LANG = {
     "fr": ("manifeste-d-appartenance-fr.pdf",
            "/documents/fr/fr20-periode-constituante.html",
            "Le manifeste du peuple des Earthlings"),
+    # Диакритика в имя файла не идёт по той же причине: ó ломает адрес
+    # при пересылке почтой и в мессенджерах.
+    "es": ("manifiesto-de-la-pertenencia-es.pdf",
+           "/documents/es/es20-periodo-constituyente.html",
+           "El manifiesto del pueblo Earthlings"),
 }
 assert LANG in BY_LANG, (
     'нет настроек для языка "%s": задайте имя файла, адрес кнопки и subject '

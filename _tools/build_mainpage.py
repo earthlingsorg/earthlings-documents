@@ -52,6 +52,7 @@ ONWARD_TEXT_BY_LANG = {
     'en': 'We choose one another.',
     'de': 'Wir wählen einander.',
     'fr': 'Nous nous choisissons les uns les autres.',
+    'es': 'Nos elegimos unos a otros.',
 }
 
 # Подпись под Манифестом. Манифест подписывают его авторы, а не народ
@@ -61,6 +62,7 @@ SIGN_BY_LANG = {
     'en': 'The Earthlings team',
     'de': 'Das Team der Earthlings',
     'fr': "L'équipe Earthlings",
+    'es': 'El equipo Earthlings',
 }
 
 # Ссылка на PDF. Файла для языка нет - блок не выводится, битой ссылки не будет.
@@ -69,6 +71,7 @@ PDF_BY_LANG = {
     'en': ('/downloads/manifesto-of-belonging-en.pdf', 'Download the manifesto as PDF'),
     'de': ('/downloads/manifest-der-zugehoerigkeit-de.pdf', 'Manifest als PDF herunterladen'),
     'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', 'Télécharger le Manifeste en PDF'),
+    'es': ('/downloads/manifiesto-de-la-pertenencia-es.pdf', 'Descargar el Manifiesto en PDF'),
 }
 
 PDF_SVG = ('<svg viewBox="0 0 16 19" fill="none" stroke="currentColor" stroke-width="1.3" '
