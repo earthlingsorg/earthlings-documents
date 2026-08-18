@@ -105,12 +105,13 @@ LEGAL_LEAD_DOC = '30'
 # Подпись под Манифестом. Подписывают его авторы, а не народ (Учредительный
 # период, раздел 02), поэтому здесь команда, а не «Earthlings».
 SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
-        'de': u'Das Earthlings-Team'}
+        'de': u'Das Earthlings-Team', 'fr': u"L'équipe Earthlings"}
 
 PDF = {
     'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', u'Скачать Манифест в PDF'),
     'en': ('/downloads/manifesto-of-belonging-en.pdf', u'Download the Manifesto as PDF'),
     'de': ('/downloads/manifest-der-zugehoerigkeit-de.pdf', u'Manifest als PDF herunterladen'),
+    'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', u'Télécharger le Manifeste en PDF'),
 }
 
 

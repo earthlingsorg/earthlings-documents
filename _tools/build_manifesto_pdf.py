@@ -73,6 +73,11 @@ BY_LANG = {
     "de": ("manifest-der-zugehoerigkeit-de.pdf",
            "/documents/de/de20-gruendungsphase.html",
            "Das Manifest des Volkes der Earthlings"),
+    # Диакритику в имя файла не ставим по той же причине, что и умляуты:
+    # ссылку пересылают почтой и в мессенджерах, где é ломает адрес.
+    "fr": ("manifeste-d-appartenance-fr.pdf",
+           "/documents/fr/fr20-periode-constituante.html",
+           "Le manifeste du peuple des Earthlings"),
 }
 assert LANG in BY_LANG, (
     'нет настроек для языка "%s": задайте имя файла, адрес кнопки и subject '

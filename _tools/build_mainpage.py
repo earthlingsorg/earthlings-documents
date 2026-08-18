@@ -50,6 +50,8 @@ ONWARD_HREF = doc_href(ONWARD_DOC, LANG)
 ONWARD_TEXT_BY_LANG = {
     'ru': 'Мы выбираем друг друга.',
     'en': 'We choose one another.',
+    'de': 'Wir wählen einander.',
+    'fr': 'Nous nous choisissons les uns les autres.',
 }
 
 # Подпись под Манифестом. Манифест подписывают его авторы, а не народ
@@ -57,12 +59,16 @@ ONWARD_TEXT_BY_LANG = {
 SIGN_BY_LANG = {
     'ru': 'Команда Earthlings',
     'en': 'The Earthlings team',
+    'de': 'Das Team der Earthlings',
+    'fr': "L'équipe Earthlings",
 }
 
 # Ссылка на PDF. Файла для языка нет - блок не выводится, битой ссылки не будет.
 PDF_BY_LANG = {
     'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', 'Скачать манифест в PDF'),
     'en': ('/downloads/manifesto-of-belonging-en.pdf', 'Download the manifesto as PDF'),
+    'de': ('/downloads/manifest-der-zugehoerigkeit-de.pdf', 'Manifest als PDF herunterladen'),
+    'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', 'Télécharger le Manifeste en PDF'),
 }
 
 PDF_SVG = ('<svg viewBox="0 0 16 19" fill="none" stroke="currentColor" stroke-width="1.3" '

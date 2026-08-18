@@ -184,6 +184,36 @@ SLUGS = {
         '31': 'arbeitsagenda',
         '32': 'wo-wir-jetzt-stehen',
     },
+    # Французский. Слаги выведены из имён мастеров в fr/. Диакритика в адрес
+    # не идёт: é/è/ê -> e, à -> a, ç -> c. Причина та же, что у умляутов в
+    # немецком: адрес с диакритикой ломается в почте и мессенджерах.
+    'fr': {
+        '01': 'declaration',
+        '03': 'ethique',
+        '04': 'base-juridique',
+        '05': 'charte',
+        '07': 'dao',
+        '08': 'cellules',
+        '09': 'tresorerie',
+        '10': 'earthlings-coin',
+        '11': 'conseil-independant',
+        '12': 'plateforme-numerique',
+        '14': 'chemin-de-l-earthling',
+        '15': 'passeport-sbt',
+        '16': 'verification-biometrique',
+        '17': 'ce-qui-peut-suivre',
+        '19': 'feuille-de-route',
+        '20': 'periode-constituante',
+        '22': 'mentions-legales',
+        '23': 'qui-sommes-nous',
+        '26': 'objections-et-reponses',
+        '27': 'questions-frequentes',
+        '28': 'politique-de-confidentialite',
+        '29': 'conditions-d-utilisation',
+        '30': 'naissance-du-sujet-de-droit',
+        '31': 'agenda-de-travail',
+        '32': 'ou-nous-en-sommes',
+    },
 }
 
 
@@ -417,8 +447,82 @@ OVERRIDES_DE = {
            'aus welchem Grund.'},
 }
 
+_OFFICIAL_FR = '%s - un document officiel du peuple des Earthlings.'
+
+OVERRIDES_FR = {
+    '01': {'description': _OFFICIAL_FR % "La Déclaration des Earthlings sur l'autodétermination"},
+    '03': {'description': _OFFICIAL_FR % "L'éthique des Earthlings"},
+    '04': {'description':
+           'La base juridique du peuple des Earthlings: la liberté d\'association, le droit '
+           'à l\'autodétermination, les caractères d\'un peuple et les questions ouvertes du '
+           'droit international - avec les sources, et en disant directement ce que le droit '
+           'n\'a pas encore tranché.',
+           'og_description':
+           "Liberté d'association, autodétermination, caractères d'un peuple et ce que le "
+           "droit international n'a pas encore tranché."},
+    '05': {'description': _OFFICIAL_FR % 'La Charte des Earthlings'},
+    '07': {'description': _OFFICIAL_FR % 'La DAO des Earthlings: principes, architecture et gouvernance'},
+    '08': {'description': _OFFICIAL_FR % 'Les cellules des Earthlings - le système des projets et de la coopération'},
+    '09': {'description': _OFFICIAL_FR % 'La Trésorerie des Earthlings'},
+    '10': {'description': _OFFICIAL_FR % 'Earthlings Coin: la documentation complète'},
+    '11': {'description': _OFFICIAL_FR % 'Le Conseil indépendant des Earthlings'},
+    '12': {'description': _OFFICIAL_FR % 'La plateforme numérique des Earthlings'},
+    '14': {'description': _OFFICIAL_FR % "Le chemin de l'earthling"},
+    '15': {'description': _OFFICIAL_FR % "Le passeport SBT de l'earthling"},
+    '16': {'description': _OFFICIAL_FR % 'La politique de vérification biométrique des Earthlings'},
+    '17': {'description':
+           'Les possibilités qui sont ouvertes aujourd\'hui au peuple des Earthlings et '
+           'celles qui peuvent s\'ouvrir avec la croissance: chacune avec sa condition et '
+           'son mécanisme, et à côté ce qui peut mal tourner.',
+           'og_description':
+           'Possibilités, conditions et ce qui peut mal tourner. Ni prévision ni promesse: '
+           'la liste de ce qui existe.'},
+    '19': {'description': _OFFICIAL_FR % 'La feuille de route de la période de transition'},
+    '20': {'description':
+           'La période constituante des Earthlings: les propositions sont reçues sur '
+           'l\'ensemble des vingt-cinq documents - la Déclaration, la Charte et les autres - '
+           'du 7 septembre au 6 décembre 2026, le relevé le 20 décembre, le vote sur la '
+           'Déclaration le 3 janvier 2027. Ce qui est en discussion, ce qui ne l\'est pas et '
+           'comment participer.'},
+    '22': {'description': _OFFICIAL_FR % 'Mentions légales'},
+    '23': {'description': _OFFICIAL_FR % 'Qui sommes-nous'},
+    '26': {'description':
+           'Les objections à la construction du peuple des Earthlings - sur le séparatisme, '
+           'la souveraineté, la ploutocratie dans la DAO, la cotisation, le noyau intangible '
+           'et le droit de parler au nom de qui que ce soit - avec les réponses et avec la '
+           'liste de ce que nous ne tenons pas pour réfuté.',
+           'og_description':
+           'Les objections à la construction du peuple des Earthlings et les réponses, y '
+           'compris celles que nous ne tenons pas pour réfutées.'},
+    '27': {'description':
+           'Le peuple des Earthlings répond aux questions fréquentes sur la gouvernance, '
+           'l\'économie, l\'identité et l\'éthique: comment il fonctionne, qui le contrôle, '
+           'comment les données sont protégées.',
+           'og_description':
+           'Le peuple des Earthlings répond aux questions fréquentes sur la gouvernance, '
+           "l'économie, l'identité et l'éthique."},
+    '28': {'description': _OFFICIAL_FR % 'La politique de confidentialité du peuple des Earthlings'},
+    '29': {'description': _OFFICIAL_FR % "Les conditions d'utilisation du peuple des Earthlings"},
+    '30': {'description':
+           'Thèses du peuple des Earthlings: pourquoi le droit international a développé des '
+           'doctrines sur l\'existence des sujets collectifs mais n\'a presque pas élaboré '
+           'leur constitution volontaire - et pourquoi cette lacune ne rend pas illicite la '
+           'naissance d\'un peuple.'},
+    '31': {'description':
+           'L\'agenda de travail du peuple des Earthlings: une analyse spécialisée d\'un '
+           'modèle possible de l\'ordre mondial à venir, par la métaphore d\'un système '
+           'd\'exploitation. Un complément aux États et non leur remplacement.'},
+    '32': {'description':
+           'Où nous en sommes: quel code et quelles données les Earthlings publient, ce qui '
+           'est fermé, pour quelle raison, et ce que chacun peut vérifier lui-même.',
+           'og_description':
+           'Quel code et quelles données les Earthlings publient, ce qui est fermé et pour '
+           'quelle raison.'},
+}
+
 # Обвязка своя у каждого языка: описание страницы - это текст, а не настройка.
-OVERRIDES_BY_LANG = {'ru': OVERRIDES, 'en': OVERRIDES_EN, 'de': OVERRIDES_DE}
+OVERRIDES_BY_LANG = {'ru': OVERRIDES, 'en': OVERRIDES_EN, 'de': OVERRIDES_DE,
+                     'fr': OVERRIDES_FR}
 
 # Можно ли переносить обвязку с уже лежащей на сайте страницы. Можно, только
 # если она - прежняя сборка того же текста. Английские страницы остались от
@@ -426,7 +530,10 @@ OVERRIDES_BY_LANG = {'ru': OVERRIDES, 'en': OVERRIDES_EN, 'de': OVERRIDES_DE}
 # Немецкие страницы на сайте остались от перевода 27 июля, вытесненного этими
 # мастерами, - обвязку с них брать нельзя ровно по той же причине, что и с
 # английских.
-WRAPPER_FROM_PAGE = {'ru': True, 'en': False, 'de': False}
+# Французские страницы на сайте остались от прежнего круга перевода,
+# вытесненного этими мастерами, - обвязку с них брать нельзя по той же
+# причине, что и с английских и немецких.
+WRAPPER_FROM_PAGE = {'ru': True, 'en': False, 'de': False, 'fr': False}
 
 
 def overrides(lang='ru'):
@@ -456,8 +563,8 @@ def load_fragments(num, lang='ru'):
 # языки, на которых документ существует (для hreflang)
 ALL_LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 # 17 и 20 были только по-русски; английские мастера появились 2026-08-15.
-LANGS_BY_DOC = {'17': ['de', 'en', 'ru'], '20': ['de', 'en', 'ru'],
-                '32': ['de', 'en', 'ru']}
+LANGS_BY_DOC = {'17': ['de', 'en', 'fr', 'ru'], '20': ['de', 'en', 'fr', 'ru'],
+                '32': ['de', 'en', 'fr', 'ru']}
 
 # Строки интерфейса страницы. Их немного, и держать их здесь честнее, чем
 # городить локализацию: язык, которого тут нет, соберётся с русскими словами
@@ -483,6 +590,13 @@ UI = {
         'next': 'Weiter →',
         'nav_aria': 'Navigation durch die Dokumente',
         'all_docs': 'Alle Dokumente',
+    },
+    'fr': {
+        'toc': 'Sommaire',
+        'prev': '← Retour',
+        'next': 'Suivant →',
+        'nav_aria': 'Navigation dans les documents',
+        'all_docs': 'Tous les documents',
     },
 }
 
