@@ -103,7 +103,7 @@ Ce n'est ni une sanction d'un comportement ni une exclusion du peuple: il est se
 
 **2. La réémission technique.** Sur **votre propre demande**, en cas de perte d'accès au portefeuille ou de migration du contrat. Le passeport est détruit et immédiatement réémis; **l'appartenance n'est pas interrompue**, aucun vote n'est nécessaire.
 
-Il n'existe pas d'autres motifs. Le décès du titulaire n'en fait pas partie: l'appartenance prend fin d'elle-même, sans décision de quiconque, et le passeport demeure au registre. Le peuple n'a pas accès aux registres de décès du monde entier, et un tel motif reposerait sur des renseignements que rien ne permet de vérifier.
+Il n'existe pas d'autres motifs. Le décès du titulaire n'en fait pas partie: l'appartenance prend fin d'elle-même, sans décision de quiconque, et le passeport demeure au registre. Le peuple n'a pas accès aux registres de décès du monde entier, et un tel motif reposerait sur des informations que rien ne permet de vérifier.
 
 ---
 

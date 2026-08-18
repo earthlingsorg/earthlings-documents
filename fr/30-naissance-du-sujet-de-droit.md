@@ -56,11 +56,11 @@ L'absence de théorie élaborée n'a jamais signifié l'illicéité: sinon, le p
 
 ---
 
-## Thèse 1. Le caractère et l'essence ne sont pas la même chose
+## Thèse 1. Le critère et l'essence ne sont pas la même chose
 
-Toute théorie scientifique traverse un moment où il est difficile de distinguer l'essence d'un phénomène de la forme historique sous laquelle il se manifestait. Le support matériel a paru pendant des siècles être l'essence de la monnaie - pièces, billets, métal - jusqu'à ce que la banque et les règlements numériques montrent qu'il n'en était qu'une forme historique commode. Les premières automobiles s'appelaient des « voitures sans chevaux », les premiers sites reproduisaient la page imprimée. Le nouveau commence presque toujours par reproduire la forme ancienne, et l'on ne voit que plus tard quels caractères étaient nécessaires et lesquels résultaient des contraintes d'avant.
+Toute théorie scientifique traverse un moment où il est difficile de distinguer l'essence d'un phénomène de la forme historique sous laquelle il se manifestait. Le support matériel a paru pendant des siècles être l'essence de la monnaie - pièces, billets, métal - jusqu'à ce que la banque et les règlements numériques montrent qu'il n'en était qu'une forme historique commode. Les premières automobiles s'appelaient des « voitures sans chevaux », les premiers sites reproduisaient la page imprimée. Le nouveau commence presque toujours par reproduire la forme ancienne, et l'on ne voit que plus tard quels critères étaient nécessaires et lesquels résultaient des contraintes d'avant.
 
-La même situation est possible avec la notion de peuple. Pendant presque toute l'histoire, les communautés durables ont eu un territoire, une langue, une origine, une vie économique communs. Mais une question reste rarement posée de front: ces caractères étaient-ils l'essence d'un peuple, ou la conséquence du seul moyen alors disponible de réunir de grands collectifs humains?
+La même situation est possible avec la notion de peuple. Pendant presque toute l'histoire, les communautés durables ont eu un territoire, une langue, une origine, une vie économique communs. Mais une question reste rarement posée de front: ces critères étaient-ils l'essence d'un peuple, ou la conséquence du seul moyen alors disponible de réunir de grands collectifs humains?
 
 La différence est décisive. Si le territoire est l'essence d'un peuple, son absence exclut la possibilité même d'une autre forme d'être un peuple. Si le territoire n'a été qu'une condition historique, l'apparition de nouveaux moyens de coordination humaine n'appelle pas l'abrogation d'un droit, mais la révision de la manière de poser la question.
 
@@ -106,7 +106,7 @@ La doctrine répondait donc à une question: comment un peuple déjà existant e
 
 La conclusion à en tirer n'est pas que « la théorie est incomplète », mais, plus exactement, qu'elle est spécialisée. Toute théorie développée a un domaine d'application; l'objet de la théorie de l'autodétermination se situait historiquement sur un autre plan.
 
-La spécialisation se voit non seulement au ton de la doctrine, mais dans les textes. La résolution 1541 (XV) de l'Assemblée générale, du 15 décembre 1960, qualifie un territoire de non autonome d'après sa séparation géographique et sa différence ethnique ou culturelle par rapport à la Puissance administrante: le caractère qualifiant est le territoire, non le groupe. La résolution 2625 (XXV) de 1970, dans sa clause de sauvegarde, parle d'un gouvernement représentant « l'ensemble du peuple **appartenant au territoire** ». Le rattachement du peuple au territoire est ici inscrit dans les mots mêmes.
+La spécialisation se voit non seulement au ton de la doctrine, mais dans les textes. La résolution 1541 (XV) de l'Assemblée générale, du 15 décembre 1960, qualifie un territoire de non autonome d'après sa séparation géographique et sa différence ethnique ou culturelle par rapport à la Puissance administrante: le critère qualifiant est le territoire, non le groupe. La résolution 2625 (XXV) de 1970, dans sa clause de sauvegarde, parle d'un gouvernement représentant « l'ensemble du peuple **appartenant au territoire** ». Le rattachement du peuple au territoire est ici inscrit dans les mots mêmes.
 
 Cela précise sensiblement la thèse. Dans la doctrine de l'autodétermination, la territorialité n'est pas une conséquence accessoire de l'époque que l'on pourrait mettre au compte du ton: elle est inscrite dans les textes. Mais elle y est inscrite là où se réglait la question de la délimitation entre États et territoires coloniaux, et aucun de ces textes ne contient de définition du peuple comme tel. Ils décrivent à quelles conditions l'intégrité territoriale est protégée, et non ce qu'est un peuple.
 
@@ -176,7 +176,7 @@ Ces thèses ne sont pas un exercice académique. Derrière elles se tient une qu
 
 **Seconde question: la communauté née est-elle un peuple au sens juridique?**
 
-À cette question il n'existe pas de réponse toute faite, et la Base juridique n'en donne pas. La liberté d'association protège l'acte constitutif, mais n'attribue pas de statut au résultat. La question se tranche par celui qui applique le droit, d'après des caractères et d'après la pratique, lorsque naît une revendication concrète, et c'est précisément une théorie générale de ce règlement qui manque au droit international.
+À cette question il n'existe pas de réponse toute faite, et la Base juridique n'en donne pas. La liberté d'association protège l'acte constitutif, mais n'attribue pas de statut au résultat. La question se tranche par celui qui applique le droit, d'après des critères et d'après la pratique, lorsque naît une revendication concrète, et c'est précisément une théorie générale de ce règlement qui manque au droit international.
 
 Le présent document ajoute une seconde couche: il montre que, derrière un cas concret, se tient une lacune générale de la doctrine, et que cette lacune n'est pas la faiblesse de la position de quiconque, mais la conséquence naturelle de l'histoire du droit lui-même.
 

@@ -30,7 +30,7 @@ Demeure intangible sa seule base constitutive: les conditions fondamentales de l
 
 C'est ainsi que nous voulons que les Earthlings soient créés non pas pour les gens, mais **par les gens eux-mêmes**.
 
-**État actuel.** L'infrastructure du peuple des Earthlings est bâtie et fonctionne: vérification d'identité, passeport, registre, vote, trésor public. Ce qui n'est pas adopté, c'est le texte constitutif.
+**État actuel.** L'infrastructure du peuple des Earthlings est bâtie et fonctionne: vérification d'identité, passeport, registre, vote, trésorerie ouverte. Ce qui n'est pas adopté, c'est le texte constitutif.
 
 Du 7 septembre au 6 décembre 2026, tout le corpus est ouvert aux propositions: la Déclaration, la Charte et les vingt-trois autres documents. Toute personne peut en faire. Le 3 janvier 2027, le texte est approuvé par le vote de ceux qui ont fait vérifier leur identité. À compter de ce jour, les cinq principes du noyau intangible ne sont plus jamais abrogés, et le reste du texte n'est modifié que par le peuple lui-même et seulement dans le sens d'une protection accrue de la personne.
 

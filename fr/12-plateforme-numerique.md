@@ -87,7 +87,7 @@ La Charte (article 21) établit deux exceptions et deux seulement, que la platef
 1. **l'annulation d'une délivrance non valide** - s'il est établi que le passeport a été délivré en méconnaissance des conditions de délivrance; uniquement par une décision de l'Assemblée à la majorité de sanction, par vote secret, avec droit de recours;
 2. **la réémission technique** - à la demande du titulaire lui-même, en cas de perte d'accès au portefeuille ou de migration du contrat; l'appartenance n'est pas interrompue.
 
-Aucun autre motif de destruction contre la volonté du titulaire n'est mis en œuvre dans la plateforme. Le décès du titulaire n'en fait pas partie: la plateforme ne dispose pas et ne peut pas disposer de renseignements sur les décès, et la cessation de la participation est prise en compte par le mécanisme d'inactivité (Charte, article 20).
+Aucun autre motif de destruction contre la volonté du titulaire n'est mis en œuvre dans la plateforme. Le décès du titulaire n'en fait pas partie: la plateforme ne dispose pas et ne peut pas disposer d'informations sur les décès, et la cessation de la participation est prise en compte par le mécanisme d'inactivité (Charte, article 20).
 
 ---
 

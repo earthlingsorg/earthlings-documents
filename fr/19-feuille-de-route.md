@@ -197,13 +197,13 @@ Cela fait passer la transparence d'une demande de confiance à un levier: un ret
 
 ## Ce qui rend une continuation légitime
 
-Le droit de continuer le peuple sur une base non accaparée ne signifie pas que quiconque a bâti la même plateforme devient les Earthlings. La copie d'un outil ne transfère ni les gens, ni leur choix, ni la légitimité accumulée: elle ne transfère que l'outil. Une continuation légitime ne se reconnaît pas à la possession de l'infrastructure, mais à des caractères vérifiables:
+Le droit de continuer le peuple sur une base non accaparée ne signifie pas que quiconque a bâti la même plateforme devient les Earthlings. La copie d'un outil ne transfère ni les gens, ni leur choix, ni la légitimité accumulée: elle ne transfère que l'outil. Une continuation légitime ne se reconnaît pas à la possession de l'infrastructure, mais à des critères vérifiables:
 
 - **le noyau conservé** - la continuation laisse intacts les fondements intangibles de la Déclaration; qui modifie le noyau crée par définition autre chose, il ne continue pas les Earthlings;
 - **la volonté de personnes vérifiées** - le peuple va là où passe librement la majorité des participants vérifiés, une personne - une voix; la légitimité est portée par les gens, non par les serveurs ni par un dépôt de code;
 - **la continuité des valeurs et de la procédure** - le passage est ouvert, vérifiable et sujet à reddition de comptes selon les mêmes règles que celles qui valaient avant lui.
 
-Ainsi, ni une prise de contrôle ne peut se faire passer pour le peuple, ni une scission pour la scission ne peut s'approprier son nom: une continuation légitime a des caractères que l'on ne peut falsifier ni en copiant du code ni en rebâtissant une plateforme. Le droit de partir protège le peuple des deux côtés à la fois: de celui qui s'emparerait du centre et de celui qui voudrait appeler sienne une copie que les gens n'ont pas suivie.
+Ainsi, ni une prise de contrôle ne peut se faire passer pour le peuple, ni une scission pour la scission ne peut s'approprier son nom: une continuation légitime a des critères que l'on ne peut falsifier ni en copiant du code ni en rebâtissant une plateforme. Le droit de partir protège le peuple des deux côtés à la fois: de celui qui s'emparerait du centre et de celui qui voudrait appeler sienne une copie que les gens n'ont pas suivie.
 
 ---
 

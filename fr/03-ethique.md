@@ -1,18 +1,18 @@
 # Éthique des Earthlings
 
-**Comment le peuple règle ses désaccords et quelle manière de se parler il tient**
+**Comment le peuple règle ses désaccords et comment on s'y parle**
 
 > Le présent document est dérivé. En cas de divergence avec la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html), la Charte s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration.
 >
-> **Le présent document n'établit aucun motif de mesure quelconque.** La liste fermée de ces motifs figure aux articles 22 et 22 bis de la Charte et n'est pas susceptible d'élargissement, ni par le présent document, ni par une décision, ni par une pratique établie.
+> **Le présent document n'établit le motif d'aucune mesure.** La liste fermée de ces motifs figure aux articles 22 et 22 bis de la Charte et ne peut être étendue, ni par le présent document, ni par une décision, ni par une pratique établie.
 
-Ce qui est exposé ci-dessous se divise en deux parties, et la différence entre elles est importante. Les règles de règlement des différends décrivent une procédure que le peuple suit. Tout le reste est ce vers quoi le peuple tend et ce qu'il aide à apprendre; ne pas s'y conformer n'entraîne jamais aucune conséquence.
+Ce qui est exposé ci-dessous se divise en deux parties, et la différence entre elles est importante. Les règles applicables aux différends décrivent une procédure que le peuple suit. Tout le reste est ce vers quoi le peuple tend et ce qu'il aide chacun à apprendre; ne pas s'y conformer n'entraîne jamais aucune conséquence.
 
 ---
 
 # SECTION 01. Le règlement des désaccords
 
-Les désaccords entre les gens sont inévitables et naissent de la différence des expériences, des valeurs et des intérêts. Le conflit lui-même n'est pas un problème: ce qui le devient, c'est de ne pas savoir le régler.
+Les désaccords entre les gens sont inévitables et naissent de ce que les expériences, les valeurs et les intérêts diffèrent. Le conflit lui-même n'est pas un problème: ce qui le devient, c'est de ne pas savoir le régler.
 
 Le peuple des Earthlings choisit une approche réparatrice plutôt que punitive: le but de l'examen est de rétablir la relation et de corriger les conséquences, non de punir.
 
@@ -20,15 +20,15 @@ Le peuple des Earthlings choisit une approche réparatrice plutôt que punitive:
 
 Le premier pas est une conversation directe entre les parties. La plupart des désaccords se règlent ici.
 
-Ce qui aide: écouter l'autre sans l'interrompre; exposer sa position par des faits et par ce que l'on ressent soi-même, et non par des accusations; chercher l'intérêt commun derrière des positions opposées; proposer des solutions qui tiennent compte des deux parties.
+Ce qui aide: écouter l'autre sans l'interrompre; exposer sa position en s'appuyant sur des faits et sur ce que l'on ressent, non sur des accusations; chercher l'intérêt commun derrière des positions opposées; proposer des solutions qui tiennent compte des deux parties.
 
 ## Étape 2. La médiation
 
 Si le dialogue direct n'a pas abouti, les parties ont le droit de recourir à la médiation.
 
-La médiation est un processus volontaire dans lequel un intermédiaire neutre aide les parties à trouver une solution mutuellement acceptable. **Le médiateur ne rend pas de décision et n'établit pas qui a raison.** Sa tâche est de créer les conditions de la conversation.
+La médiation est un processus volontaire dans lequel un tiers neutre aide les parties à trouver une solution mutuellement acceptable. **Le médiateur ne rend pas de décision et n'établit pas qui a raison.** Son rôle est de créer les conditions du dialogue.
 
-**Qui peut être médiateur.** Tout earthling en qui les deux parties ont confiance et qui n'a pas d'intérêt à l'issue du différend. Le peuple tient un registre de ceux qui ont suivi une formation à la médiation; le choix dans ce registre n'est pas obligatoire, et les parties ont le droit de convenir de toute autre personne.
+**Qui peut être médiateur.** Tout earthling en qui les deux parties ont confiance et qui n'a aucun intérêt personnel dans l'issue du différend. Le peuple tient un registre de ceux qui ont suivi une formation à la médiation; le choix dans ce registre n'est pas obligatoire, et les parties ont le droit de désigner d'un commun accord tout autre participant.
 
 **Déroulement:**
 
@@ -38,29 +38,29 @@ La médiation est un processus volontaire dans lequel un intermédiaire neutre a
 4. le médiateur organise la rencontre et conduit le processus;
 5. l'accord obtenu est consigné par écrit.
 
-L'accord a une force morale: les parties prennent l'engagement volontaire de l'exécuter. Le peuple ne dispose d'aucune exécution forcée et n'en prévoit aucune.
+L'accord a une portée morale: les parties prennent l'engagement volontaire de l'exécuter. Le peuple ne dispose d'aucun moyen d'exécution forcée et n'en prévoit aucun.
 
 **Confidentialité.** Le contenu de la médiation n'est divulgué ni par le médiateur ni par les parties. Seuls sont publiés le fait qu'elle a eu lieu et son résultat: accord obtenu ou non.
 
 **Délai.** Trente jours à compter de l'accord de la seconde partie; d'un commun accord, le délai peut être prolongé.
 
-**Le refus de la médiation n'entraîne rien.** Ne pas vouloir y participer n'est pas un manquement, n'est pas apprécié et n'est pris en compte dans aucun examen ultérieur.
+**Le refus de la médiation n'entraîne rien.** Ne pas vouloir y participer n'est pas un manquement, ne fait l'objet d'aucune appréciation et n'est pris en compte dans aucun examen ultérieur.
 
 ## Étape 3. Le renvoi à l'Assemblée DAO
 
 Si la médiation n'a pas abouti et que le différend touche les intérêts de la communauté ou exige une décision de principe, chacune des parties a le droit de porter la question devant l'Assemblée.
 
-C'est une mesure de dernier recours. Elle convient lorsque le conflit porte sur l'interprétation des règles du peuple, lorsqu'une décision faisant modèle pour les cas futurs est nécessaire, ou lorsque l'une des parties agit systématiquement à l'encontre des principes adoptés dans le peuple.
+C'est une mesure de dernier recours. Elle convient lorsque le conflit porte sur l'interprétation des règles du peuple, lorsqu'une décision destinée à servir de modèle pour les cas futurs est nécessaire, ou lorsque l'une des parties agit systématiquement à l'encontre des principes adoptés par le peuple.
 
-L'examen se fait selon les procédures de la Charte. **L'Assemblée ne peut exclure une personne du peuple en aucune circonstance** (Déclaration, article 10); les mesures applicables et les modalités de leur application sont établies par l'article 22 de la Charte.
+L'examen se fait selon les procédures de la Charte. **L'Assemblée ne peut en aucune circonstance exclure une personne du peuple** (Déclaration, article 10); les mesures applicables et les modalités de leur application sont établies par l'article 22 de la Charte.
 
 ## Ce qui ne relève pas de la médiation
 
 La médiation ne s'applique pas:
 
-- en cas de menaces directes contre la vie et la sécurité;
+- en cas de menaces directes pour la vie et la sécurité;
 - en cas de violations manifestes de la Déclaration;
-- en cas de faits constitutifs d'une infraction pénale: ces cas relèvent des organes de l'ordre juridique concerné, et le peuple ne s'y substitue pas.
+- en cas de faits constitutifs d'une infraction pénale: ces cas relèvent des autorités compétentes de l'ordre juridique concerné, et le peuple ne s'y substitue pas.
 
 ---
 
@@ -70,17 +70,17 @@ Ce qui est exposé dans la présente section est ce vers quoi le peuple tend. Ce
 
 ## Le fondement
 
-**Le respect de la personne.** Chacun a droit à sa propre opinion, à sa foi, à son choix et à son mode de vie. La discrimination, l'humiliation et le harcèlement sont inadmissibles dans le peuple des Earthlings.
+**Le respect de la personne.** Chacun a droit à sa propre opinion, à sa foi, à son choix et à son mode de vie. La discrimination, l'humiliation et le harcèlement sont inadmissibles au sein du peuple des Earthlings.
 
-**La critique des idées est séparée du rapport à la personne.** La discussion sur le fond ne devient pas personnelle.
+**La critique des idées est distincte du jugement porté sur la personne.** La discussion sur le fond ne devient pas personnelle.
 
-**L'honnêteté.** Chacun a le droit de poser des questions et de recevoir des réponses claires. Utiliser le peuple à des fins de manipulation ou d'avantage personnel au détriment du commun est inadmissible.
+**L'honnêteté.** Chacun a le droit de poser des questions et de recevoir des réponses claires. Il est inadmissible de se servir du peuple pour manipuler autrui ou pour en tirer un avantage personnel au détriment de l'intérêt commun.
 
 **La mesure de la participation appartient à chacun.** Il n'existe pas d'activité obligatoire, et son absence ne signifie rien.
 
 ## Les pratiques qui aident
 
-L'écoute active: entendre non seulement les mots, mais ce qu'il y a derrière. Parler à la première personne plutôt qu'accuser. Reconnaître qu'on a eu tort sans que cela nuise à sa situation. Remercier pour un retour. La précision: une remarque sur un acte est plus utile qu'un jugement sur une personne.
+L'écoute active: entendre non seulement les mots, mais ce qu'il y a derrière. Parler à la première personne plutôt que d'accuser. Reconnaître qu'on a eu tort sans que cela nuise à sa situation. Remercier celui qui fait un retour. La précision: une remarque sur un acte est plus utile qu'un jugement sur une personne.
 
 Renoncer au sarcasme et aux piques dans l'espace commun rend la conversation plus productive.
 
@@ -94,9 +94,9 @@ Les menaces, la diffamation et la contrainte sont incompatibles avec l'appartena
 
 # SECTION 03. La confiance
 
-La confiance, dans le peuple des Earthlings, ne repose pas sur un appel, mais sur la vérifiabilité: ouverture des procédures, impossibilité d'accumuler du pouvoir en secret, visibilité de tout écart.
+La confiance, au sein du peuple des Earthlings, ne repose pas sur un appel, mais sur la vérifiabilité: ouverture des procédures, impossibilité d'accumuler du pouvoir en secret, visibilité de tout écart.
 
-Une telle confiance abaisse le coût du contrôle et accélère les décisions. Elle tient à trois choses: la personne comprend comment le système fonctionne; les actes et les décisions sont prévisibles; les erreurs sont reconnues.
+Une telle confiance abaisse le coût du contrôle et accélère les décisions. Elle tient à trois conditions: que chacun comprenne comment le système fonctionne, que les actes et les décisions soient prévisibles, que les erreurs soient reconnues.
 
 Une erreur ne détruit pas la confiance si elle est suivie d'une reconnaissance et d'une correction.
 
@@ -104,21 +104,21 @@ Une erreur ne détruit pas la confiance si elle est suivie d'une reconnaissance 
 
 # SECTION 04. Le travail dans les cellules
 
-À l'intérieur d'une cellule règnent l'égalité, la confiance et l'apport commun au résultat.
+Dans une cellule, on travaille d'égal à égal et en confiance, et chacun contribue au résultat.
 
 Les décisions sont prises ensemble, en tenant compte de l'avis de tous les participants. Les formes de participation sont diverses, de la conception à l'exécution, et toutes ont de la valeur.
 
 Chacun a le droit de modifier la forme de sa participation ou de quitter la cellule sans avoir à s'expliquer et sans être jugé. Les engagements pris antérieurement demeurent affaire de parole, mais ne sont pas une condition de la sortie.
 
-L'appréciation de l'apport se fait selon des critères ouverts et connus à l'avance. Le résultat commun compte plus que l'excellence individuelle.
+L'appréciation de la contribution se fait selon des critères ouverts et connus à l'avance. Le résultat commun compte plus que l'excellence individuelle.
 
 ---
 
 # SECTION 05. La sécurité psychologique
 
-Chacun a droit à un espace où l'on ne le dévalorise pas et où l'on ne l'attaque pas pour une pensée exprimée.
+Chacun a droit à un espace où l'on ne le dévalorise pas et où l'on ne l'attaque pas pour avoir exprimé une pensée.
 
-Le peuple des Earthlings tend vers un milieu où l'on n'a pas peur de proposer une idée, de se tromper et de changer d'avis. Les renseignements sur la situation personnelle d'une personne ne sont pas divulgués. Des cellules de soutien mutuel sont prévues par l'organisation de la communauté.
+Le peuple des Earthlings tend vers un milieu où l'on n'a pas peur de proposer une idée, de se tromper et de changer d'avis. Les informations sur la situation personnelle d'une personne ne sont pas divulguées. L'organisation de la communauté prévoit des cellules d'entraide.
 
 ---
 
@@ -126,9 +126,9 @@ Le peuple des Earthlings tend vers un milieu où l'on n'a pas peur de proposer u
 
 Un earthling qui s'exprime publiquement parle en son propre nom, sauf si l'Assemblée lui a confié une autre mission.
 
-Le peuple ne participe pas à la propagande, à la diffusion de renseignements sciemment faux et à l'incitation à la haine.
+Le peuple ne se livre pas à la propagande, à la diffusion d'informations sciemment fausses ni à l'incitation à la haine.
 
-Lorsque le peuple grandit dans de nouvelles régions, le respect du contexte et des traditions du lieu est obligatoire. L'adhésion est toujours volontaire; les différences culturelles sont considérées comme un enrichissement et non comme un obstacle.
+Lorsque le peuple s'étend à de nouvelles régions, il est impératif d'y respecter le contexte et les traditions locales. L'adhésion est toujours volontaire; les différences culturelles sont considérées comme un enrichissement et non comme un obstacle.
 
 Le souci de l'humanité et de la planète, la prise en compte des intérêts des générations futures et le renoncement à la violence sont des fondements exposés dans la Déclaration; le présent document ne les complète pas.
 
@@ -144,9 +144,9 @@ La répartition des fonds communs se fait selon les règles établies par le doc
 
 # SECTION 08. L'apprentissage
 
-Le peuple des Earthlings offre la possibilité d'apprendre ce qui rend le travail commun plus facile: la communication non violente, la conduite des discussions, la pensée critique, la reconnaissance de ses propres états et de ceux des autres.
+Le peuple des Earthlings offre la possibilité d'apprendre ce qui rend le travail commun plus facile: la communication non violente, la conduite des discussions, la pensée critique, la reconnaissance de ses propres émotions et de celles des autres.
 
-**Le peuple n'exige pas ces compétences, ne vérifie pas qu'on les possède et n'y attache les droits de personne.** Aucune aptitude n'est une condition d'appartenance, de participation ou de vote (Déclaration, article 8).
+**Le peuple n'exige pas ces compétences, ne vérifie pas qu'on les possède et n'y subordonne les droits de personne.** Aucune aptitude n'est une condition d'appartenance, de participation ou de vote (Déclaration, article 8).
 
 Les erreurs sont considérées comme une part de l'apprentissage, non comme une occasion de sanction.
 
@@ -164,8 +164,8 @@ Sa composition, les modalités de sa constitution, les motifs de révocation et 
 
 # SECTION 10. La modification du présent document
 
-Ce qui est exposé ici n'est pas un dogme. Tout earthling a le droit de proposer des modifications, et elles sont apportées par un débat ouvert, dans les conditions établies par la Charte.
+Ce qui est exposé ici n'est pas un dogme. Tout earthling a le droit de proposer des modifications, et elles sont adoptées à l'issue d'un débat ouvert, dans les conditions établies par la Charte.
 
 Les limites sont intangibles: rien dans le présent document ne peut contredire la Déclaration, restreindre les garanties qu'elle donne ou créer des motifs de mesures qu'elle ne prévoit pas.
 
-En cas d'obscurité d'une disposition du présent document, elle s'interprète en faveur de la personne.
+Toute disposition obscure du présent document s'interprète en faveur de la personne.

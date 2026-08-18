@@ -96,7 +96,7 @@ Les paramètres de l'unité ne sont modifiés que par des décisions de l'Assemb
 - les signataires exécutent les décisions de l'Assemblée et n'ont pas de pouvoirs propres; les seuils de signature et les modalités de révocation sont établis par les articles 2 et 3 de la Charte;
 - une suspension temporaire est prévue pour protéger le système, avec un rapport public obligatoire dans les 48 heures et une confirmation par l'Assemblée.
 
-Les exigences de divulgation de renseignements sur les signataires sont déterminées par l'Assemblée lors de leur élection. Sont publiées en tout état de cause les adresses des portefeuilles et les déclarations de conflit d'intérêts.
+Les exigences de divulgation d'informations sur les signataires sont déterminées par l'Assemblée lors de leur élection. Sont publiées en tout état de cause les adresses des portefeuilles et les déclarations de conflit d'intérêts.
 
 ---
 

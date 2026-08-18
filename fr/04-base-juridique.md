@@ -99,7 +99,7 @@ Jusqu'au jour de l'adoption, la personne qui a fait vérifier son identité est 
 
 **Deux conséquences pour le présent document.**
 
-La première, défavorable: partout où sont décrits ci-dessous des caractères qui dépendent du nombre, de la composition et de la pratique accumulée, il s'agit de la construction et de sa capacité de projet, non d'un état atteint. Il n'y a pas de participants, il n'y a pas de pratique, l'acte constitutif n'est pas adopté.
+La première, défavorable: partout où sont décrits ci-dessous des critères qui dépendent du nombre, de la composition et de la pratique accumulée, il s'agit de la construction et de sa capacité de projet, non d'un état atteint. Il n'y a pas de participants, il n'y a pas de pratique, l'acte constitutif n'est pas adopté.
 
 La seconde, importante pour l'appréciation juridique. D'ordinaire, le texte constitutif d'une communauté est écrit avant qu'elle n'apparaisse, et l'adhésion se réduit à un accord donné à un document tout fait. Ici l'ordre est inverse: le texte est soumis au vote de gens dont chacun est vérifié comme une seule personne vivante, les propositions sont reçues de quiconque et publiées avec les réponses. **La volonté collective n'est ainsi ni présumée ni reconstituée: elle est produite par une procédure et demeure dans une inscription vérifiable.**
 
@@ -167,17 +167,17 @@ Les normes écrites en vigueur connaissent des cas où l'auto-identification est
 
 ## Comment la qualité de peuple s'établit en pratique
 
-La question de savoir si un groupe donné est un peuple n'est pas une abstraction que nul ne pourrait trancher. Elle est tranchée par les organes qui appliquent le droit, lorsque le groupe apporte une prétention concrète, et elle est tranchée d'après des caractères.
+La question de savoir si un groupe donné est un peuple n'est pas une abstraction que nul ne pourrait trancher. Elle est tranchée par les organes qui appliquent le droit, lorsque le groupe apporte une prétention concrète, et elle est tranchée d'après des critères.
 
 **La Commission africaine des droits de l'homme et des peuples**, dans l'affaire de la communauté endorois (communication 276/2003, décision de 2010): « La Commission africaine est convaincue que les Endorois sont un "peuple", statut qui leur donne le droit de bénéficier des dispositions de la Charte africaine protégeant les droits collectifs » (paragraphe 162). Les caractères appliqués (paragraphe 150): l'occupation et l'usage d'un territoire déterminé; le maintien volontaire d'une spécificité culturelle; l'auto-identification comme communauté distincte et la reconnaissance par d'autres groupes; l'expérience de la sujétion, de la marginalisation, de l'exclusion ou de la discrimination.
 
 **La Cour africaine des droits de l'homme et des peuples**, dans l'affaire du peuple ogiek (requête 006/2012, arrêt du 26 mai 2017), a procédé autrement, et la différence doit être nommée exactement: la Cour a reconnu les Ogiek comme **population autochtone** (paragraphe 112), au lieu de les déclarer peuple sous la même forme déclarative, et n'a appliqué qu'ensuite les articles 21 et 22 de la Charte, en indiquant que les droits des peuples peuvent être reconnus « précisément aux groupes ethniques et communautés qui composent la population d'un État » (paragraphe 199).
 
-> **La portée exacte de cette pratique.** Les deux communautés sont territoriales et autochtones, et le territoire figure en premier dans la liste des caractères; la catégorie « peuples » y relève d'un traité régional, et la formule de la Cour suppose expressément que l'on se trouve à l'intérieur d'un État. Le précédent ne prouve pas l'issue de notre cause, mais l'existence de la pratique elle-même: **la qualité de peuple est établie par celui qui applique le droit, lorsque naît une question concrète, d'après des caractères, et il n'existe pour personne d'enregistrement préalable des peuples.**
+> **La portée exacte de cette pratique.** Les deux communautés sont territoriales et autochtones, et le territoire figure en premier dans la liste des critères; la catégorie « peuples » y relève d'un traité régional, et la formule de la Cour suppose expressément que l'on se trouve à l'intérieur d'un État. Le précédent ne prouve pas l'issue de notre cause, mais l'existence de la pratique elle-même: **la qualité de peuple est établie par celui qui applique le droit, lorsque naît une question concrète, d'après des critères, et il n'existe pour personne d'enregistrement préalable des peuples.**
 
 ## Conclusion intermédiaire
 
-Le droit des peuples à disposer d'eux-mêmes est obligatoire et reconnu erga omnes. Le titulaire de ce droit n'est pas défini, et l'absence de définition est officiellement constatée. Les normes obligatoires ne contiennent pas d'exigence de territoire; là où le territoire apparaît dans les textes, il règle une autre question. Le droit connaît l'auto-identification comme fondement d'appartenance, mais dans des limites étroites. La qualité de peuple s'établit d'après des caractères, lorsque naît une prétention concrète.
+Le droit des peuples à disposer d'eux-mêmes est obligatoire et reconnu erga omnes. Le titulaire de ce droit n'est pas défini, et l'absence de définition est officiellement constatée. Les normes obligatoires ne contiennent pas d'exigence de territoire; là où le territoire apparaît dans les textes, il règle une autre question. Le droit connaît l'auto-identification comme fondement d'appartenance, mais dans des limites étroites. La qualité de peuple s'établit d'après des critères, lorsque naît une prétention concrète.
 
 Aucun de ces éléments ne prouve que les Earthlings soient un peuple. Ensemble, ils établissent autre chose: **la question est ouverte, et elle l'est non parce que nous le pensons, mais parce que le droit ne l'a pas close.**
 
@@ -261,11 +261,11 @@ La capacité d'être une personne a été retirée, et retirée par le droit: l'
 
 D'où une conclusion valable pour le peuple comme pour la personne: **l'existence juridique s'est trouvée dériver d'une inscription tenue par quelqu'un d'autre.** Chez la personne, cela se voit à la situation des apatrides; chez le peuple, à la substitution de la nationalité à la composition.
 
-L'infrastructure du peuple des Earthlings est bâtie de manière que l'inscription ne puisse exister sans la personne, et que la personne ne puisse être écartée de l'inscription par la décision d'un tiers: l'unicité d'une personne vivante est vérifiée, l'appartenance ne prend fin que par sa propre décision, et le registre ne conserve aucun renseignement sur les opinions ni sur les votes.
+L'infrastructure du peuple des Earthlings est bâtie de manière que l'inscription ne puisse exister sans la personne, et que la personne ne puisse être écartée de l'inscription par la décision d'un tiers: l'unicité d'une personne vivante est vérifiée, l'appartenance ne prend fin que par sa propre décision, et le registre ne conserve aucune information sur les opinions ni sur les votes.
 
 ## Des niveaux, non des degrés de juridiction
 
-L'article 7 de la Déclaration définit l'objet de l'activité du peuple par deux caractères: aucun État ne règle la question à lui seul, et les conséquences retombent sur ceux qui n'ont pas eu de voix. C'est le principe des personnes concernées, exprimé par des caractères et non par une liste de thèmes.
+L'article 7 de la Déclaration définit l'objet de l'activité du peuple par deux critères: aucun État ne règle la question à lui seul, et les conséquences retombent sur ceux qui n'ont pas eu de voix. C'est le principe des personnes concernées, exprimé par des critères et non par une liste de thèmes.
 
 Ces niveaux ne forment pas une hiérarchie: le peuple des Earthlings ne réexamine pas les décisions des États et ne peut pas les annuler. Ce sont des niveaux différents par le cercle des questions, non des degrés par la force.
 
@@ -295,11 +295,11 @@ Les normes internationales entendent l'association largement, comme toute commun
 
 ## Première objection: une association ne devient pas un peuple
 
-**Thèse.** La liberté d'association protège l'acte et son résultat contre les ingérences, mais elle n'attribue pas de statut au résultat: la nature juridique de l'entité née est déterminée par des règles distinctes, comme le statut d'une société est déterminé par le droit des sociétés et non par le droit des associations. Quels que soient les caractères qu'une association accumule, elle demeure une association.
+**Thèse.** La liberté d'association protège l'acte et son résultat contre les ingérences, mais elle n'attribue pas de statut au résultat: la nature juridique de l'entité née est déterminée par des règles distinctes, comme le statut d'une société est déterminé par le droit des sociétés et non par le droit des associations. Quels que soient les critères qu'une association accumule, elle demeure une association.
 
 **Réponse: l'objection est exacte, et nous n'affirmons pas le contraire.** Le passage de l'association au peuple n'est pas assuré par la liberté d'association: elle répond à la deuxième des trois questions de la section 02 et ne répond pas à la troisième.
 
-Notre position est autre: le droit ne constitue pas les peuples et n'en tient pas de registre, de sorte que la question est tranchée par celui qui applique le droit, d'après des caractères et d'après la pratique, lorsque naît une prétention concrète. Nous produisons les caractères et la pratique et proposons de les apprécier au fond. Cette affirmation est plus faible que celle que nous aimerions faire, et plus forte que celle qu'on pourrait réfuter.
+Notre position est autre: le droit ne constitue pas les peuples et n'en tient pas de registre, de sorte que la question est tranchée par celui qui applique le droit, d'après des critères et d'après la pratique, lorsque naît une prétention concrète. Nous produisons les critères et la pratique et proposons de les apprécier au fond. Cette affirmation est plus faible que celle que nous aimerions faire, et plus forte que celle qu'on pourrait réfuter.
 
 ## Deuxième objection: un peuple doit être lié à un territoire
 
@@ -597,7 +597,7 @@ Ce qui est établi par des normes et des décisions, et non par des jugements de
 
 **La voie « initiative privée - pratique - consécration par les États » a été parcourue et documentée**; la voie « prétention unilatérale - pratique - norme » a été constatée par la Cour internationale de Justice.
 
-**La qualité de peuple s'établit d'après des caractères, lorsque naît une question concrète**, et il n'existe pour personne d'enregistrement préalable des peuples.
+**La qualité de peuple s'établit d'après des critères, lorsque naît une question concrète**, et il n'existe pour personne d'enregistrement préalable des peuples.
 
 **Le territoire a cessé d'être ce qui maintient un statut en existence**: cela est consacré par un traité, par des déclarations de groupements régionaux et par le rapport final de la Commission du droit international.
 
@@ -613,7 +613,7 @@ Ce qui demeure non réfuté contre nous:
 
 **Le mécanisme de conversion de la pratique en reconnaissance est absent.** Il naît lorsqu'une communauté résout un problème qui se pose aux États; un peuple non territorial ne résout pas aujourd'hui un tel problème.
 
-**Le texte constitutif n'est pas adopté et il n'y a pas de participants.** Ni l'effectif, ni la pratique accumulée, ni la solidité du lien ne sont à ce jour des caractères réalisés.
+**Le texte constitutif n'est pas adopté et il n'y a pas de participants.** Ni l'effectif, ni la pratique accumulée, ni la solidité du lien ne sont à ce jour des critères réalisés.
 
 Aucune de ces objections, nous ne la tenons pour levée. Sous la pression des arguments, elles n'ont pas changé de force, mais d'aspect: d'« impossible » elles sont devenues « prématuré », « non démontré », « peu probable ». La différence entre ces mots est tout ce que le présent document affirme.
 

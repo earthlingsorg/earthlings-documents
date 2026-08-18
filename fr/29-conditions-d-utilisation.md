@@ -110,7 +110,7 @@ Vous répondez de la conservation de votre mot de passe et de vos clés cryptogr
 
 - la discrimination pour quelque motif que ce soit;
 - les menaces, le harcèlement, l'acharnement, y compris dissimulé;
-- la diffusion intentionnelle de renseignements faux;
+- la diffusion intentionnelle d'informations fausses;
 - le spam, la publicité insistante, les montages frauduleux;
 - les tentatives de manipuler des votes;
 - les actes contraires aux valeurs de la Déclaration.

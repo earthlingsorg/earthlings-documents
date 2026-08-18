@@ -54,7 +54,7 @@ La cotisation d'entrée se distingue des apports volontaires et des dons.
 
 La cotisation d'une personne peut être versée non par elle-même, mais par une autre personne ou par la Trésorerie. Il n'existe pas d'exonération de cotisation: elle est toujours versée intégralement, et seul change celui qui paie.
 
-**La file d'attente ouverte.** Celui qui ne peut pas verser lui-même la cotisation entre en un seul geste dans une file d'attente ouverte. Aucune demande, aucune preuve et aucune explication ne lui sont exigées, et il ne peut lui en être exigé. Dans la file ne sont publiés que le numéro d'ordre et la date d'entrée; aucun renseignement sur la personne n'y est publié.
+**La file d'attente ouverte.** Celui qui ne peut pas verser lui-même la cotisation entre en un seul geste dans une file d'attente ouverte. Aucune demande, aucune preuve et aucune explication ne lui sont exigées, et il ne peut lui en être exigé. Dans la file ne sont publiés que le numéro d'ordre et la date d'entrée; aucune information sur la personne n'y est publiée.
 
 **Modalités de paiement.** C'est la tête de file qui est payée. On ne peut pas choisir une personne déterminée: la possibilité de choisir crée des rapports de protection, incompatibles avec l'égalité des participants. Le payeur n'apprend pas pour qui il a payé; celui pour qui la cotisation a été versée n'apprend pas qui l'a versée.
 
@@ -64,7 +64,7 @@ La cotisation d'une personne peut être versée non par elle-même, mais par une
 
 **La Trésorerie comme payeur.** L'Assemblée a le droit de fixer la part des cotisations reçues qui est affectée au paiement de la file. Cette part est publiée, s'applique automatiquement et est modifiée par une décision de l'Assemblée. Tant que la part n'est pas fixée, la file n'est payée que par des personnes.
 
-**Reddition de comptes.** Sont publiés la longueur de la file, le nombre de cotisations payées sur une période et la somme que la Trésorerie y a consacrée. Les renseignements permettant d'identifier ceux qui se trouvent dans la file ne sont jamais publiés.
+**Reddition de comptes.** Sont publiés la longueur de la file, le nombre de cotisations payées sur une période et la somme que la Trésorerie y a consacrée. Les informations permettant d'identifier ceux qui se trouvent dans la file ne sont jamais publiés.
 
 ## Article 4. Les apports volontaires
 

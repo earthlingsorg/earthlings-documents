@@ -137,7 +137,7 @@ Le passeport atteste ce qu'il atteste, et ce n'est pas peu: une personne déterm
 
 La Charte (article 21) établit **deux exceptions et deux seulement**, et cette liste ne peut pas être élargie.
 
-> **Sur le décès du titulaire.** L'appartenance prend fin par l'effet du décès de la personne, mais le passeport n'est pas détruit pour autant. Le peuple n'a pas accès aux registres de décès du monde entier; un tel motif reposerait donc sur des renseignements invérifiables et deviendrait le moyen le moins coûteux d'écarter un participant. Le passeport demeure au registre; la participation qui n'existe plus est prise en compte par le mécanisme d'inactivité (Charte, article 20). Le passeport ne se transmet pas par succession et ne se transmet en aucune circonstance.
+> **Sur le décès du titulaire.** L'appartenance prend fin par l'effet du décès de la personne, mais le passeport n'est pas détruit pour autant. Le peuple n'a pas accès aux registres de décès du monde entier; un tel motif reposerait donc sur des informations invérifiables et deviendrait le moyen le moins coûteux d'écarter un participant. Le passeport demeure au registre; la participation qui n'existe plus est prise en compte par le mécanisme d'inactivité (Charte, article 20). Le passeport ne se transmet pas par succession et ne se transmet en aucune circonstance.
 
 ### 1. L'annulation d'une délivrance non valide
 

@@ -362,7 +362,7 @@ Il n'existe pas d'exonération de cotisation. La cotisation est toujours versée
 
 **La file d'attente ouverte.** Celui qui ne peut pas verser lui-même la cotisation entre en un seul geste dans une file d'attente ouverte. Aucune demande, aucune preuve et aucune explication ne sont exigées, et il ne peut en être exigé. Il ne peut être refusé d'entrer dans la file.
 
-**Ce qui est publié.** Dans la file sont publiés le numéro d'ordre et la date d'entrée. Le nom, le pays, le motif et tout autre renseignement sur la personne ne sont pas publiés.
+**Ce qui est publié.** Dans la file sont publiés le numéro d'ordre et la date d'entrée. Le nom, le pays, le motif et toute autre information sur la personne ne sont pas publiés.
 
 **Modalités de paiement.** C'est la tête de file qui est payée. Le choix d'une personne déterminée n'est pas admis. Le payeur n'apprend pas pour qui il a payé; celui pour qui la cotisation a été versée n'apprend pas qui l'a versée.
 
@@ -483,7 +483,7 @@ Le mécanisme d'inactivité protège le système contre une élévation artifici
 
 En règle générale, le passeport SBT n'est détruit que par son titulaire lui-même (article 18). Le présent article établit **deux exceptions et deux seulement** à cette règle.
 
-> **Pourquoi le décès ne figure pas dans cette liste.** L'appartenance prend fin par l'effet du décès de la personne: cela est établi à l'article 8 de la Déclaration et se produit de soi-même, sans décision de quiconque. La destruction du passeport pour ce motif n'a pas lieu, et voici pourquoi. Le peuple n'a pas et ne peut pas avoir accès aux registres de décès du monde entier: un tel motif reposerait sur des renseignements dont rien ne permet de vérifier l'exactitude et deviendrait le moyen le moins coûteux d'écarter un participant, sans notification, sans délai d'objection et sans recours, puisque tous supposent la présence de la personne. Et la destruction ne protège pas pour autant contre un vote émis avec la clé d'autrui: elle ne peut pas devancer la connaissance du décès. L'aspect pratique est réglé par l'article 20: celui qui ne participe pas est réputé inactif, sa voix n'est pas prise en compte dans le calcul du quorum, et son passeport est conservé. Le système n'a pas besoin de savoir pourquoi une personne a cessé de participer.
+> **Pourquoi le décès ne figure pas dans cette liste.** L'appartenance prend fin par l'effet du décès de la personne: cela est établi à l'article 8 de la Déclaration et se produit de soi-même, sans décision de quiconque. La destruction du passeport pour ce motif n'a pas lieu, et voici pourquoi. Le peuple n'a pas et ne peut pas avoir accès aux registres de décès du monde entier: un tel motif reposerait sur des informations dont rien ne permet de vérifier l'exactitude et deviendrait le moyen le moins coûteux d'écarter un participant, sans notification, sans délai d'objection et sans recours, puisque tous supposent la présence de la personne. Et la destruction ne protège pas pour autant contre un vote émis avec la clé d'autrui: elle ne peut pas devancer la connaissance du décès. L'aspect pratique est réglé par l'article 20: celui qui ne participe pas est réputé inactif, sa voix n'est pas prise en compte dans le calcul du quorum, et son passeport est conservé. Le système n'a pas besoin de savoir pourquoi une personne a cessé de participer.
 
 ### 1. L'annulation d'une délivrance non valide
 
