@@ -106,7 +106,7 @@ LEGAL_LEAD_DOC = '30'
 # период, раздел 02), поэтому здесь команда, а не «Earthlings».
 SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
         'de': u'Das Earthlings-Team', 'fr': u"L'équipe Earthlings",
-        'es': u'El equipo Earthlings'}
+        'es': u'El equipo Earthlings', 'ka': u'Earthlings-ის გუნდი'}
 
 PDF = {
     'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', u'Скачать Манифест в PDF'),
@@ -114,6 +114,7 @@ PDF = {
     'de': ('/downloads/manifest-der-zugehoerigkeit-de.pdf', u'Manifest als PDF herunterladen'),
     'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', u'Télécharger le Manifeste en PDF'),
     'es': ('/downloads/manifiesto-de-la-pertenencia-es.pdf', u'Descargar el Manifiesto en PDF'),
+    'ka': ('/downloads/manifesto-of-belonging-ka.pdf', u'ჩამოტვირთეთ მანიფესტი PDF-ად'),
 }
 
 

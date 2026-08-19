@@ -83,6 +83,13 @@ BY_LANG = {
     "es": ("manifiesto-de-la-pertenencia-es.pdf",
            "/documents/es/es20-periodo-constituyente.html",
            "El manifiesto del pueblo Earthlings"),
+    # Мхедрули в имени файла не ставим по той же причине, что умляуты и
+    # диакритику: адрес пересылают почтой и в мессенджерах, а грузинская буква
+    # превращается там в %E1%83%A5 и ссылка перестаёт читаться. Имя файла -
+    # английское, как и слаг документа.
+    "ka": ("manifesto-of-belonging-ka.pdf",
+           "/documents/ka/ka20-the-founding-period.html",
+           "Earthlings-ის ხალხის მანიფესტი"),
 }
 assert LANG in BY_LANG, (
     'нет настроек для языка "%s": задайте имя файла, адрес кнопки и subject '
@@ -137,12 +144,42 @@ ALLOWED = ALLOWED_BY_LANG.get(LANG, ())
 #
 # Прежде здесь была Georgia из C:\Windows\Fonts. Она проприетарная, в
 # репозиторий её не положить, и вне Windows сборка падала.
+#
+# Шрифт зависит от ПИСЬМЕННОСТИ, а не от языка вообще, и таблица ниже - первая
+# правка этого скрипта, которая касается не данных, а выбора. Причина в том,
+# что PT Serif покрывает только латиницу и кириллицу: мхедрули в нём ноль
+# знаков (проверено по cmap), и грузинский Манифест на нём стал бы страницей
+# пустых квадратов.
+#
+# Имя семейства при этом остаётся одним и тем же - "Manifest". Меняются только
+# файлы начертаний. Так сделано намеренно: имена стилей ("Manifest-Bold",
+# "Manifest-Italic") встречаются в разметке документа десяток раз, и заводить
+# ещё и FAMILY_BY_LANG значило бы искать их все и не найти одно.
+#
+# Грузинский: Noto Serif Georgian, сборка Google Fonts, выпечена в статические
+# начертания из переменного шрифта (reportlab переменные не понимает и берёт из
+# них одно начертание, отчего жирный стал бы неотличим от обычного).
+# Готовые статические файлы с notofonts.github.io взять было нельзя: в них НЕТ
+# латиницы вовсе - 2 знака ASCII из 95, - и слово Earthlings, ёлочки и адрес
+# earth-lings.org превратились бы в пустые квадраты. В сборке Google Fonts
+# латиница есть: 58 букв и вся нужная пунктуация.
+#
+# Курсива у Noto Serif Georgian нет, и это не пробел сборки: наклонного
+# начертания у мхедрули нет как явления, курсив здесь - привычка чужого письма.
+# Курсивные лица отображены на прямые, и подпись под Манифестом по-грузински
+# встанет прямой.
 FONT_DIR = Path(__file__).resolve().parent / "fonts"
 FAMILY = "Manifest"
-FACES = ((FAMILY, "PT_Serif-Web-Regular.ttf"),
-         (FAMILY + "-Bold", "PT_Serif-Web-Bold.ttf"),
-         (FAMILY + "-Italic", "PT_Serif-Web-Italic.ttf"),
-         (FAMILY + "-BoldItalic", "PT_Serif-Web-BoldItalic.ttf"))
+_PT_SERIF = ((FAMILY, "PT_Serif-Web-Regular.ttf"),
+             (FAMILY + "-Bold", "PT_Serif-Web-Bold.ttf"),
+             (FAMILY + "-Italic", "PT_Serif-Web-Italic.ttf"),
+             (FAMILY + "-BoldItalic", "PT_Serif-Web-BoldItalic.ttf"))
+_NOTO_GEORGIAN = ((FAMILY, "NotoSerifGeorgian-Regular.ttf"),
+                  (FAMILY + "-Bold", "NotoSerifGeorgian-Bold.ttf"),
+                  (FAMILY + "-Italic", "NotoSerifGeorgian-Regular.ttf"),
+                  (FAMILY + "-BoldItalic", "NotoSerifGeorgian-Bold.ttf"))
+FACES_BY_LANG = {"ka": _NOTO_GEORGIAN}
+FACES = FACES_BY_LANG.get(LANG, _PT_SERIF)
 
 
 def register_fonts():
