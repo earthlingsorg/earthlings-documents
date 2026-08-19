@@ -382,7 +382,7 @@ Una persona deja de ser earthling solo por uno de dos motivos, y la lista es cer
 
 La expulsión del pueblo no existe. La lista de motivos de cese de la pertenencia es exhaustiva. No cabe ampliarla, completarla por analogía ni interpretarla de manera extensiva, ni por la Carta, ni por decisión, ni por práctica asentada.
 
-### El caso en que la pertenencia no llegó a nacer
+### La anulación de la emisión del pasaporte
 
 La emisión del pasaporte se anula en tres casos, y la lista es cerrada:
 
@@ -390,11 +390,11 @@ La emisión del pasaporte se anula en tres casos, y la lista es cerrada:
 2. la verificación de la identidad se ha obtenido con datos falsos o con la identidad de otra persona;
 3. el pasaporte se ha emitido a quien no ha alcanzado la edad establecida por la Carta.
 
-La anulación no es una medida de responsabilidad ni una expulsión del pueblo. Significa únicamente que la pertenencia no llegó a nacer válidamente. Subsanado el impedimento, la persona puede someterse de nuevo a la verificación en las condiciones generales.
+La anulación no es una medida de responsabilidad ni una expulsión del pueblo. Significa únicamente que la emisión del pasaporte no llegó a producirse válidamente; en los casos señalados en los puntos 2 y 3, con ella tampoco llegó a nacer válidamente la pertenencia. Subsanado el impedimento, la persona puede someterse de nuevo a la verificación en las condiciones generales.
 
 ### Garantías a la persona
 
-Antes de que se declare que la pertenencia no ha nacido o de que se limite la participación de una persona en la votación, se garantiza a cada una el derecho a ser notificada a tiempo, el derecho a presentar objeciones, el derecho a que examine el asunto quien no lo haya planteado y el derecho a recurrir.
+Antes de que se anule la emisión de un pasaporte o de que se limite la participación de una persona en la votación, se garantiza a cada una el derecho a ser notificada a tiempo, el derecho a presentar objeciones, el derecho a que examine el asunto quien no lo haya planteado y el derecho a recurrir.
 
 El procedimiento para hacer efectivas estas garantías lo establece la Carta.
 

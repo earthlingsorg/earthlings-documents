@@ -382,7 +382,7 @@ Une personne cesse d'être earthling par l'un de deux motifs seulement, et leur 
 
 L'exclusion du peuple n'existe pas. La liste des motifs de fin de l'appartenance est exhaustive. Elle ne peut être élargie, complétée par analogie ou interprétée extensivement, ni par la Charte, ni par une décision, ni par une pratique établie.
 
-### Le cas où l'appartenance n'est pas née
+### L'annulation de la délivrance du passeport
 
 La délivrance du passeport est annulée dans trois cas, et leur liste est fermée:
 
@@ -390,11 +390,11 @@ La délivrance du passeport est annulée dans trois cas, et leur liste est ferm�
 2. la vérification de l'identité a été obtenue au moyen d'informations falsifiées ou de l'identité d'autrui;
 3. le passeport a été délivré à une personne n'ayant pas atteint l'âge établi par la Charte.
 
-L'annulation n'est ni une mesure de responsabilité ni une exclusion du peuple. Elle signifie seulement que l'appartenance n'est pas régulièrement née. L'obstacle levé, la personne a le droit de faire vérifier son identité à nouveau dans les conditions de droit commun.
+L'annulation n'est ni une mesure de responsabilité ni une exclusion du peuple. Elle signifie seulement que la délivrance du passeport n'est pas régulièrement intervenue; dans les cas visés aux points 2 et 3, l'appartenance n'est pas non plus régulièrement née avec elle. L'obstacle levé, la personne a le droit de faire vérifier son identité à nouveau dans les conditions de droit commun.
 
 ### Les garanties données à la personne
 
-Avant que l'appartenance ne soit déclarée non acquise ou que la participation de la personne au vote ne soit restreinte, il est garanti à chacun le droit d'être averti en temps utile, le droit de présenter ses objections, le droit à un examen par ceux qui n'ont pas soulevé la question et le droit de recours.
+Avant que la délivrance d'un passeport ne soit annulée ou que la participation de la personne au vote ne soit restreinte, il est garanti à chacun le droit d'être averti en temps utile, le droit de présenter ses objections, le droit à un examen par ceux qui n'ont pas soulevé la question et le droit de recours.
 
 Les modalités d'exercice de ces garanties sont établies par la Charte.
 

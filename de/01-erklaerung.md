@@ -382,7 +382,7 @@ Ein Mensch hört nur aus einem von zwei Gründen auf, ein Earthling zu sein, und
 
 Einen Ausschluss aus dem Volk gibt es nicht. Das Verzeichnis der Gründe, aus denen die Zugehörigkeit endet, ist erschöpfend. Es darf weder durch die Charta der Earthlings noch durch einen Beschluss noch durch eine gefestigte Praxis erweitert, im Wege der Analogie ergänzt oder ausdehnend ausgelegt werden.
 
-### Der Fall, in dem die Zugehörigkeit nicht entstanden ist
+### Die Aufhebung der Ausgabe des Earthling-Passes
 
 Die Ausgabe des Earthling-Passes wird in drei Fällen aufgehoben, und deren Verzeichnis ist abschließend:
 
@@ -390,11 +390,11 @@ Die Ausgabe des Earthling-Passes wird in drei Fällen aufgehoben, und deren Verz
 2. die Identitätsprüfung ist unter Verwendung falscher Angaben oder der Identität eines anderen erlangt worden;
 3. der Earthling-Pass ist einer Person ausgegeben worden, die das von der Charta der Earthlings festgelegte Alter nicht erreicht hat.
 
-Die Aufhebung ist weder eine Maßnahme der Haftung noch ein Ausschluss aus dem Volk. Sie bedeutet nur, dass die Zugehörigkeit rechtmäßig nicht entstanden ist. Ist das Hindernis beseitigt, so darf der Mensch die Prüfung unter den allgemeinen Voraussetzungen erneut durchlaufen.
+Die Aufhebung ist weder eine Maßnahme der Haftung noch ein Ausschluss aus dem Volk. Sie bedeutet nur, dass die Ausgabe des Passes rechtmäßig nicht zustande gekommen ist; in den unter den Nummern 2 und 3 genannten Fällen ist mit ihr auch die Zugehörigkeit rechtmäßig nicht entstanden. Ist das Hindernis beseitigt, so darf der Mensch die Prüfung unter den allgemeinen Voraussetzungen erneut durchlaufen.
 
 ### Gewährleistungen für den Menschen
 
-Bevor festgestellt wird, dass eine Zugehörigkeit nicht entstanden ist, oder die Teilnahme eines Menschen an Abstimmungen eingeschränkt wird, ist jedem das Recht gewährleistet, rechtzeitig benachrichtigt zu werden, Einwendungen vorzubringen, die Sache von denjenigen behandeln zu lassen, die sie nicht aufgeworfen haben, und Beschwerde einzulegen.
+Bevor die Ausgabe eines Earthling-Passes aufgehoben oder die Teilnahme eines Menschen an Abstimmungen eingeschränkt wird, ist jedem das Recht gewährleistet, rechtzeitig benachrichtigt zu werden, Einwendungen vorzubringen, die Sache von denjenigen behandeln zu lassen, die sie nicht aufgeworfen haben, und Beschwerde einzulegen.
 
 Das Verfahren zur Verwirklichung dieser Gewährleistungen legt die Charta der Earthlings fest.
 

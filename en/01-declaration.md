@@ -382,7 +382,7 @@ A person ceases to be an earthling on one of two grounds only, and the list of t
 
 There is no expulsion from the people. The list of grounds on which belonging ends is exhaustive. It cannot be extended, supplemented by analogy or construed broadly, whether by the Earthlings Charter, by a decision, or by established practice.
 
-### Where Belonging Did Not Arise
+### Annulment of Passport Issuance
 
 The issuance of a passport is annulled in three cases, and the list of them is closed:
 
@@ -390,11 +390,11 @@ The issuance of a passport is annulled in three cases, and the list of them is c
 2. identity verification was obtained using false information or another person's identity;
 3. the passport was issued to a person below the age established by the Earthlings Charter.
 
-Annulment is neither a measure of liability nor expulsion from the people. It means only that belonging did not lawfully arise. If the impediment has been removed, the person may undergo confirmation again on general terms.
+Annulment is neither a measure of liability nor expulsion from the people. It means only that the issuance of the passport did not lawfully take place; in the cases named in items 2 and 3, belonging did not lawfully arise along with it. If the impediment has been removed, the person may undergo confirmation again on general terms.
 
 ### Guarantees to the Person
 
-Before belonging is found not to have arisen, or a person's participation in voting is restricted, everyone is guaranteed the right to be notified in good time, the right to submit objections, the right to have the matter considered by those who did not raise it, and the right of appeal.
+Before the issuance of a passport is annulled, or a person's participation in voting is restricted, everyone is guaranteed the right to be notified in good time, the right to submit objections, the right to have the matter considered by those who did not raise it, and the right of appeal.
 
 The procedure for giving effect to these guarantees is established by the Earthlings Charter.
 
