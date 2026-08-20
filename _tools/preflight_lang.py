@@ -27,6 +27,13 @@ notofonts.github.io содержит 2 ASCII-символа из 95, и PDF Ма
 """
 import os, sys, io
 
+# Консоль Windows живёт в однобайтовой кодировке, и печать арабской буквы или
+# иероглифа роняет скрипт трассировкой. Здесь это особенно обидно: предполёт
+# ровно тем и занят, что показывает недостающие знаки чужого письма, - то есть
+# падает на своей главной строке. Печатаем с заменой непередаваемого.
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(errors='replace')
+
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(REPO, '_tools', 'fonts')
 OUT = os.path.join(REPO, '_tools', 'preflight')
