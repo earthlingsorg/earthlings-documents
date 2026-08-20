@@ -106,7 +106,8 @@ LEGAL_LEAD_DOC = '30'
 # период, раздел 02), поэтому здесь команда, а не «Earthlings».
 SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
         'de': u'Das Earthlings-Team', 'fr': u"L'équipe Earthlings",
-        'es': u'El equipo Earthlings', 'ka': u'Earthlings-ის გუნდი'}
+        'es': u'El equipo Earthlings', 'ka': u'Earthlings-ის გუნდი',
+        'zh': u'Earthlings 团队'}
 
 PDF = {
     'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', u'Скачать Манифест в PDF'),
@@ -367,7 +368,7 @@ def timeline(lang):
     o = [u'<ol class="timeline">']
     for (date_text, what), iso in zip(items, PERIOD_DATES):
         # у третьей вехи после первой фразы идут подробности - на шкале лишние
-        first_sentence = re.split(r'(?<=[.!?])\s', what.strip())[0]
+        first_sentence = re.split(r'(?<=[.!?。！？])\s*(?=\S)', what.strip())[0]
         o.append(u'<li class="tl-step" data-date="%s">'
                  u'<span class="tl-date">%s</span>'
                  u'<span class="tl-text">%s</span></li>'
@@ -414,7 +415,7 @@ def ladder(lang):
         u'в мастере 04 (%s) форм %d, а не 8: %r. Абзац правили - проверьте '
         u'разбор.' % (lang, len(forms), forms))
     # последняя фраза абзаца и есть недостающая ступень
-    gap = re.split(r'(?<=[.!?])\s', tail.strip())[-1].strip()
+    gap = re.split(r'(?<=[.!?。！？])\s*(?=\S)', tail.strip())[-1].strip()
     assert gap, u'в абзаце форм (%s) не нашлась заключительная фраза' % lang
 
     o = [u'<ol class="ladder">']
@@ -799,7 +800,7 @@ def build_index(lang):
                                   lead(load, '12', nums, anchor, lang)))
         elif what == 'manifest':
             ps = lead(load, 'manifest', nums, anchor, lang)
-            sents = re.split(r'(?<=[.!?])\s+', ps[0])
+            sents = re.split(r'(?<=[.!?。！？])\s*(?=\S)', ps[0])
             assert len(sents) > POSTER_SENTENCES, (
                 u'первый абзац Манифеста (%s) короче %d фраз - плакат собрать '
                 u'не из чего' % (lang, POSTER_SENTENCES + 1))

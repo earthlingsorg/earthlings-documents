@@ -278,6 +278,37 @@ SLUGS = {
         '31': 'working-agenda',
         '32': 'where-we-are-now',
     },
+    # Китайский. Слаг латинский и совпадает с английским: иероглиф в адресе
+    # превращается в %E4%B8%AD и ссылка перестаёт читаться в письме. Пиньинь
+    # не берём - тональной омонимии много, разбивка на слоги спорна, а выигрыша
+    # в понятности нет. Правило раздела 14 инструкции для zh, ar, hi и ka.
+    'zh': {
+        '01': 'declaration',
+        '03': 'ethics',
+        '04': 'legal-basis',
+        '05': 'charter',
+        '07': 'dao',
+        '08': 'cells',
+        '09': 'treasury',
+        '10': 'earthlings-coin',
+        '11': 'independent-council',
+        '12': 'digital-platform',
+        '14': 'the-earthling-path',
+        '15': 'sbt-passport',
+        '16': 'biometric-verification',
+        '17': 'what-may-happen-next',
+        '19': 'roadmap',
+        '20': 'the-founding-period',
+        '22': 'legal-information',
+        '23': 'about-us',
+        '26': 'objections-and-answers',
+        '27': 'frequently-asked-questions',
+        '28': 'privacy-policy',
+        '29': 'terms-of-use',
+        '30': 'how-a-subject-of-law-arises',
+        '31': 'working-agenda',
+        '32': 'where-we-are-now',
+    },
 }
 
 
@@ -731,8 +762,61 @@ OVERRIDES_KA = {
 }
 
 # Обвязка своя у каждого языка: описание страницы - это текст, а не настройка.
+_OFFICIAL_ZH = '%s——Earthlings 人民的官方文件。'
+
+# Китайский. Описания - текст, а не настройка: переведены, а не скопированы.
+# Типографика китайская: полноширинные знаки, тире 破折号 двумя U+2014.
+OVERRIDES_ZH = {
+    '01': {'description': _OFFICIAL_ZH % 'Earthlings 自决宣言'},
+    '03': {'description': _OFFICIAL_ZH % 'Earthlings 伦理准则'},
+    '04': {'description':
+           'Earthlings 人民的法律依据：结社自由、自决权、人民的特征，以及国际法上'
+           '尚未解决的问题——附出处，并直接说明法律尚未决定的是什么。',
+           'og_description':
+           '结社自由、自决、人民的特征，以及国际法尚未决定的东西。'},
+    '05': {'description': _OFFICIAL_ZH % 'Earthlings 宪章'},
+    '07': {'description': _OFFICIAL_ZH % 'Earthlings DAO'},
+    '08': {'description': _OFFICIAL_ZH % 'Earthlings 蜂巢单元'},
+    '09': {'description': _OFFICIAL_ZH % 'Earthlings 司库'},
+    '10': {'description': _OFFICIAL_ZH % 'Earthlings Coin'},
+    '11': {'description': _OFFICIAL_ZH % 'Earthlings 独立理事会'},
+    '12': {'description': _OFFICIAL_ZH % 'Earthlings 数字平台'},
+    '14': {'description': _OFFICIAL_ZH % 'earthling 之路'},
+    '15': {'description': _OFFICIAL_ZH % 'earthling SBT 护照'},
+    '16': {'description': _OFFICIAL_ZH % '生物特征验证政策'},
+    '17': {'description':
+           '如果人民被创立起来，接下来可能发生什么：可能的路径、它们的界限，'
+           '以及我们不作出的承诺。',
+           'og_description': '可能的路径、它们的界限，以及我们不作出的承诺。'},
+    '19': {'description': _OFFICIAL_ZH % 'Earthlings 路线图'},
+    '20': {'description':
+           '创立期：文本如何开放接受建议，什么不予讨论，期限如何安排，'
+           '以及《宣言》如何付诸表决。',
+           'og_description': '建议、期限，以及《宣言》如何付诸表决。'},
+    '22': {'description': _OFFICIAL_ZH % '法律信息'},
+    '23': {'description':
+           '关于我们：著作、治理、资金与公开验证——附可核实的链上地址。',
+           'og_description': '著作、治理、资金与公开验证。'},
+    '26': {'description':
+           '针对 Earthlings 人民的法律异议与逐条答复——包括我们无话可答的那些。',
+           'og_description': '法律异议与逐条答复，包括我们无话可答的那些。'},
+    '27': {'description': _OFFICIAL_ZH % '常见问题'},
+    '28': {'description': _OFFICIAL_ZH % '隐私政策'},
+    '29': {'description': _OFFICIAL_ZH % '使用条款'},
+    '30': {'description':
+           '法律主体如何产生：从实践到规范的路径，以及为什么人类这一层级'
+           '至今没有形式。',
+           'og_description': '法律主体如何产生，以及人类这一层级为什么没有形式。'},
+    '31': {'description': _OFFICIAL_ZH % 'Earthlings 工作议程'},
+    '32': {'description':
+           '我们现在在哪里：已经做成的、尚未做成的，以及现在还只能靠我们的话'
+           '而不是靠技术的东西。',
+           'og_description': '已经做成的、尚未做成的，以及还只能靠我们的话的东西。'},
+}
+
 OVERRIDES_BY_LANG = {'ru': OVERRIDES, 'en': OVERRIDES_EN, 'de': OVERRIDES_DE,
-                     'fr': OVERRIDES_FR, 'es': OVERRIDES_ES, 'ka': OVERRIDES_KA}
+                     'fr': OVERRIDES_FR, 'es': OVERRIDES_ES, 'ka': OVERRIDES_KA,
+                     'zh': OVERRIDES_ZH}
 
 # Можно ли переносить обвязку с уже лежащей на сайте страницы. Можно, только
 # если она - прежняя сборка того же текста. Английские страницы остались от
@@ -749,7 +833,7 @@ OVERRIDES_BY_LANG = {'ru': OVERRIDES, 'en': OVERRIDES_EN, 'de': OVERRIDES_DE,
 # качестве того текста, а не о его соответствии нынешнему русскому, и обвязку
 # с этих страниц брать нельзя ровно по той же причине, что и с остальных.
 WRAPPER_FROM_PAGE = {'ru': True, 'en': False, 'de': False, 'fr': False,
-                    'es': False, 'ka': False}
+                    'es': False, 'ka': False, 'zh': False}
 
 
 def overrides(lang='ru'):
@@ -779,9 +863,9 @@ def load_fragments(num, lang='ru'):
 # языки, на которых документ существует (для hreflang)
 ALL_LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 # 17 и 20 были только по-русски; английские мастера появились 2026-08-15.
-LANGS_BY_DOC = {'17': ['de', 'en', 'es', 'fr', 'ka', 'ru'],
-                '20': ['de', 'en', 'es', 'fr', 'ka', 'ru'],
-                '32': ['de', 'en', 'es', 'fr', 'ka', 'ru']}
+LANGS_BY_DOC = {'17': ['de', 'en', 'es', 'fr', 'ka', 'ru', 'zh'],
+                '20': ['de', 'en', 'es', 'fr', 'ka', 'ru', 'zh'],
+                '32': ['de', 'en', 'es', 'fr', 'ka', 'ru', 'zh']}
 
 # Строки интерфейса страницы. Их немного, и держать их здесь честнее, чем
 # городить локализацию: язык, которого тут нет, соберётся с русскими словами
@@ -831,6 +915,13 @@ UI = {
         'next': 'შემდეგი →',
         'nav_aria': 'დოკუმენტებში ნავიგაცია',
         'all_docs': 'ყველა დოკუმენტი',
+    },
+    'zh': {
+        'toc': '目录',
+        'prev': '← 上一篇',
+        'next': '下一篇 →',
+        'nav_aria': '文件导航',
+        'all_docs': '全部文件',
     },
 }
 
