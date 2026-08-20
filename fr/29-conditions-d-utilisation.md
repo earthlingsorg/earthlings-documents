@@ -273,7 +273,7 @@ Le respect de la législation de votre pays; la sécurité de vos propres clés 
 
 ## La nature de la cotisation
 
-La cotisation est versée une fois et couvre le prix de revient de la procédure: vérification d'identité et délivrance du passeport. Elle **n'achète pas l'appartenance** - celle-ci naît de la signature de la Déclaration - et ne donne ni voix ni unités de compte.
+La cotisation est versée une fois, couvre le prix de revient de la procédure - vérification d'identité et délivrance du passeport - et soutient l'infrastructure du peuple. Elle **n'achète pas l'appartenance** - celle-ci naît de la signature de la Déclaration - et ne donne ni voix ni unités de compte.
 
 ## Le droit de renoncer et ses limites
 

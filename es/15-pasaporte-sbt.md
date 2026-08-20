@@ -59,7 +59,7 @@ El historial de participación y de aportación se hace constar públicamente: v
 
 **2. Verificación de identidad.** Comprobación de que usted es una persona viva y de que es una sola. Asegura el principio «una persona, un voto». Las imágenes originales y los escaneos de los documentos no se conservan.
 
-**3. Abono de la cuota.** El equivalente a 79 USD, en criptomoneda (ETH, USDT, USDC). Cubre el coste de la verificación de identidad y de la emisión del pasaporte, ingresa en la caja común y se distribuye conforme a las partes publicadas.
+**3. Abono de la cuota.** El equivalente a 79 USD, en criptomoneda (ETH, USDT, USDC). Cubre el coste de la verificación de identidad y de la emisión del pasaporte y sostiene la infraestructura del pueblo, ingresa en la caja común y se distribuye conforme a las partes publicadas.
 
 > Quien no puede abonar la cuota por sí mismo entra en una cola abierta, y su cuota la abona otra persona o la Tesorería. El pasaporte no se diferencia en nada de los demás: en el registro no consta quién abonó la cuota. La cuota no compra la pertenencia: esta nace al firmar la Declaración.
 

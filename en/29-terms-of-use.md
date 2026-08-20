@@ -273,7 +273,7 @@ Compliance with the legislation of your country; the security of your own keys a
 
 ## The nature of the contribution
 
-The contribution is made once and covers the cost of the procedure: identity verification and passport issuance. It **does not buy belonging** - belonging arises by signing the Declaration - and gives neither a vote nor units of account.
+The contribution is made once, covers the cost of the procedure - identity verification and passport issuance - and sustains the people's infrastructure. It **does not buy belonging** - belonging arises by signing the Declaration - and gives neither a vote nor units of account.
 
 ## The right to withdraw and its limits
 

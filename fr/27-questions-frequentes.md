@@ -12,7 +12,7 @@
 
 ### À quoi servent les 79 dollars et où vont-ils?
 
-La cotisation couvre le prix de revient de la vérification d'identité et de la délivrance du passeport. Elle entre au trésor commun et est répartie selon les parts publiées: plateforme 25 pour cent, croissance et communication 30, projets de la communauté 20, éducation 15, réserve 10.
+La cotisation couvre le prix de revient de la vérification d'identité et de la délivrance du passeport, et soutient l'infrastructure du peuple. Elle entre au trésor commun et est répartie selon les parts publiées: plateforme 25 pour cent, croissance et communication 30, projets de la communauté 20, éducation 15, réserve 10.
 
 La cotisation n'achète pas l'appartenance: celle-ci naît de la signature de la Déclaration.
 

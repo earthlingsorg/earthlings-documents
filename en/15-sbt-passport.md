@@ -59,7 +59,7 @@ The history of participation and contribution is recorded publicly: votes, compl
 
 **2. Identity verification.** Confirmation that you are a living human being and that there is only one of you. It secures the principle of "one person, one vote". Original images and scans of documents are not retained.
 
-**3. Making the contribution.** The equivalent of 79 USD, in cryptocurrency (ETH, USDT, USDC). It covers the cost of identity verification and passport issuance, goes into the common treasury, and is allocated in published shares.
+**3. Making the contribution.** The equivalent of 79 USD, in cryptocurrency (ETH, USDT, USDC). It covers the cost of identity verification and passport issuance, sustains the people's infrastructure, goes into the common treasury, and is allocated in published shares.
 
 > A person who cannot make the contribution themselves joins an open queue, and the contribution for them is made by another person or by the Treasury. The passport is in no way different from any other: the registry does not record by whom the contribution was made. The contribution does not buy belonging: belonging arises by signing the Declaration.
 

@@ -46,7 +46,7 @@ La Tesorería de los Earthlings es el mecanismo financiero del pueblo, gestionad
 
 # SECCIÓN 02. Fuentes de fondos
 
-La fuente principal de formación es una cuota única de entrada equivalente a 79 USD, que se abona al adherirse. Es un pago único: tras obtener el pasaporte no hay pagos anuales ni mensuales. La cuota cubre el coste de la verificación de identidad y de la emisión del pasaporte, ingresa en la Tesorería y se gasta conforme a las reglas del artículo 9.
+La fuente principal de formación es una cuota única de entrada equivalente a 79 USD, que se abona al adherirse. Es un pago único: tras obtener el pasaporte no hay pagos anuales ni mensuales. La cuota cubre el coste de la verificación de identidad y de la emisión del pasaporte y sostiene la infraestructura del pueblo, ingresa en la Tesorería y se gasta conforme a las reglas del artículo 9.
 
 La cuota de entrada debe distinguirse de las aportaciones voluntarias y de las donaciones.
 

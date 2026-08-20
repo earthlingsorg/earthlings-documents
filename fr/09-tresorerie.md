@@ -46,7 +46,7 @@ La Trésorerie des Earthlings est le mécanisme financier du peuple, géré par 
 
 # SECTION 02. Les sources de fonds
 
-La source principale est une cotisation unique d'entrée, d'un équivalent de 79 USD, versée à l'adhésion. C'est un paiement unique: après réception du passeport, il n'y a ni paiement annuel ni paiement mensuel. La cotisation couvre le prix de revient de la vérification d'identité et de la délivrance du passeport, entre à la Trésorerie et est dépensée selon les règles de l'article 9.
+La source principale est une cotisation unique d'entrée, d'un équivalent de 79 USD, versée à l'adhésion. C'est un paiement unique: après réception du passeport, il n'y a ni paiement annuel ni paiement mensuel. La cotisation couvre le prix de revient de la vérification d'identité et de la délivrance du passeport, soutient l'infrastructure du peuple, entre à la Trésorerie et est dépensée selon les règles de l'article 9.
 
 La cotisation d'entrée se distingue des apports volontaires et des dons.
 

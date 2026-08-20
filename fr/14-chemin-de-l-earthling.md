@@ -18,7 +18,7 @@
 
 Il n'existe pas d'autres conditions. L'appartenance nationale, la race, la religion, le sexe, la condition sociale, la nationalité et le lieu de résidence n'ont aucun effet sur la possibilité d'adhérer.
 
-> **Si vous ne pouvez pas verser la cotisation**, une autre personne la verse pour vous. La section 9 y est consacrée. Vous n'aurez ni à prouver ni à expliquer quoi que ce soit. La cotisation n'achète pas l'appartenance au peuple: celle-ci naît de la signature de la Déclaration, et la cotisation couvre le prix de revient de la vérification et de la délivrance du passeport.
+> **Si vous ne pouvez pas verser la cotisation**, une autre personne la verse pour vous. La section 9 y est consacrée. Vous n'aurez ni à prouver ni à expliquer quoi que ce soit. La cotisation n'achète pas l'appartenance au peuple: celle-ci naît de la signature de la Déclaration, et la cotisation couvre le prix de revient de la vérification et de la délivrance du passeport, et soutient l'infrastructure du peuple.
 
 ---
 
@@ -89,7 +89,7 @@ Ce sont des obligations, non des conditions de conservation du statut: leur manq
 
 **Sortie.** Déclaration depuis l'espace personnel, puis un délai de 72 heures par défaut - une protection contre une décision impulsive, à laquelle vous avez le droit de renoncer. Vous détruisez ensuite le passeport **avec votre propre clé**: le serveur ne conserve pas vos clés et ne peut ni empêcher la sortie ni l'accomplir à votre place. La sortie prend effet dès la destruction.
 
-**Retour.** Vous pouvez revenir à tout moment, en suivant à nouveau la procédure ordinaire: vérification d'identité et cotisation couvrant son prix de revient. Le passeport antérieur détruit ne fait pas obstacle au retour.
+**Retour.** Vous pouvez revenir à tout moment, en suivant à nouveau la procédure ordinaire: vérification d'identité et cotisation couvrant son prix de revient et soutenant l'infrastructure du peuple. Le passeport antérieur détruit ne fait pas obstacle au retour.
 
 ---
 

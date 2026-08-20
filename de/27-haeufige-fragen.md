@@ -12,7 +12,7 @@
 
 ### Wofür 79 Dollar, und wohin gehen sie?
 
-Der Beitrag deckt die Selbstkosten der Identitätsprüfung und der Ausgabe des Passes. Er fließt in die gemeinsame Kasse und wird nach veröffentlichten Anteilen verteilt: Plattform 25 Prozent, Wachstum und Kommunikation 30, Projekte der Gemeinschaft 20, Bildung 15, Rücklage 10.
+Der Beitrag deckt die Selbstkosten der Identitätsprüfung und der Ausgabe des Passes und trägt die Infrastruktur des Volkes. Er fließt in die gemeinsame Kasse und wird nach veröffentlichten Anteilen verteilt: Plattform 25 Prozent, Wachstum und Kommunikation 30, Projekte der Gemeinschaft 20, Bildung 15, Rücklage 10.
 
 Die Zugehörigkeit kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung.
 

@@ -46,7 +46,7 @@ The Earthlings Treasury is the people's financial mechanism, governed through vo
 
 # SECTION 02. Sources of funds
 
-The principal source is the one-time contribution on entry, equivalent to 79 USD. This is a single payment: after the passport is received there are no annual or monthly payments. The contribution covers the cost of identity verification and passport issuance, goes to the Treasury, and is spent under the rules of Article 9.
+The principal source is the one-time contribution on entry, equivalent to 79 USD. This is a single payment: after the passport is received there are no annual or monthly payments. The contribution covers the cost of identity verification and passport issuance, sustains the people's infrastructure, goes to the Treasury, and is spent under the rules of Article 9.
 
 The contribution on entry should be distinguished from voluntary contributions and donations.
 

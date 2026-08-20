@@ -12,7 +12,7 @@
 
 ### ¿Por qué 79 dólares y adónde van?
 
-La cuota cubre el coste de la verificación de identidad y de la emisión del pasaporte. Ingresa en la caja común y se distribuye conforme a las partes publicadas: plataforma el 25 por ciento, crecimiento y comunicación el 30, proyectos de la comunidad el 20, educación el 15, reserva el 10.
+La cuota cubre el coste de la verificación de identidad y de la emisión del pasaporte y sostiene la infraestructura del pueblo. Ingresa en la caja común y se distribuye conforme a las partes publicadas: plataforma el 25 por ciento, crecimiento y comunicación el 30, proyectos de la comunidad el 20, educación el 15, reserva el 10.
 
 La cuota no compra la pertenencia: esta nace al firmar la Declaración.
 

@@ -356,7 +356,7 @@ No existen otras condiciones. La adscripción étnica, la raza, la religión, el
 
 ## Artículo 12 bis. Cuota de entrada y pago por otra persona
 
-La verificación de identidad y la emisión del pasaporte se cubren con una cuota única de entrada. La cuota cubre el coste, no compra la pertenencia y no crea ventaja alguna (Declaración, artículo 8). La cuantía de la cuota la establece la Asamblea; solo por decisión suya puede aumentarse.
+La verificación de identidad y la emisión del pasaporte se cubren con una cuota única de entrada. La cuota cubre el coste y sostiene la infraestructura del pueblo, no compra la pertenencia y no crea ventaja alguna (Declaración, artículo 8). La cuantía de la cuota la establece la Asamblea; solo por decisión suya puede aumentarse.
 
 No existe exención de la cuota. La cuota se abona siempre íntegra; solo cambia quién la abona.
 
@@ -442,7 +442,7 @@ Todo earthling puede poner fin voluntariamente a su participación en el pueblo 
 
 **Los Earthlings Coin al salir.** Los tokens que se encuentran en el monedero del earthling saliente siguen siendo de su propiedad: no se confiscan ni se anulan. Tras perder la condición de earthling, su titular pierde el derecho de voto en la DAO y el acceso a los servicios internos; el uso posterior de los tokens depende de su accesibilidad técnica y de la legislación aplicable de la jurisdicción correspondiente.
 
-**Nueva adhesión.** Quien haya salido voluntariamente del pueblo Earthlings puede adherirse de nuevo en cualquier momento pasando el procedimiento estándar - la verificación y la cuota única de entrada que cubre su coste (la cuota puede abonarse también en la forma del artículo 12 bis) - y obteniendo un nuevo pasaporte SBT. El pasaporte anterior destruido no impide el regreso: los datos de verificación se conservan solo para que una misma persona no pueda tener dos pasaportes en vigor a la vez.
+**Nueva adhesión.** Quien haya salido voluntariamente del pueblo Earthlings puede adherirse de nuevo en cualquier momento pasando el procedimiento estándar - la verificación y la cuota única de entrada que cubre su coste y sostiene la infraestructura del pueblo (la cuota puede abonarse también en la forma del artículo 12 bis) - y obteniendo un nuevo pasaporte SBT. El pasaporte anterior destruido no impide el regreso: los datos de verificación se conservan solo para que una misma persona no pueda tener dos pasaportes en vigor a la vez.
 
 ## Artículo 19. Suspensión de la condición
 

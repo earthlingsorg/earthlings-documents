@@ -46,7 +46,7 @@ Die Schatzkammer der Earthlings ist der Finanzmechanismus des Volkes, der über 
 
 # ABSCHNITT 02. Die Quellen der Mittel
 
-Die wichtigste Quelle der Bildung ist ein einmaliger Beitrag beim Beitritt im Gegenwert von 79 USD, der beim Beitritt entrichtet wird. Das ist eine einmalige Zahlung: Nach dem Erhalt des Passes gibt es keine jährlichen und keine monatlichen Zahlungen. Der Beitrag deckt die Selbstkosten der Identitätsprüfung und der Ausgabe des Passes, fließt in die Schatzkammer und wird nach den Regeln des Artikels 9 verwendet.
+Die wichtigste Quelle der Bildung ist ein einmaliger Beitrag beim Beitritt im Gegenwert von 79 USD, der beim Beitritt entrichtet wird. Das ist eine einmalige Zahlung: Nach dem Erhalt des Passes gibt es keine jährlichen und keine monatlichen Zahlungen. Der Beitrag deckt die Selbstkosten der Identitätsprüfung und der Ausgabe des Passes und trägt die Infrastruktur des Volkes, fließt in die Schatzkammer und wird nach den Regeln des Artikels 9 verwendet.
 
 Der Beitrag beim Beitritt ist von freiwilligen Beiträgen und Spenden zu unterscheiden.
 

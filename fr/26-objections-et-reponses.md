@@ -100,7 +100,7 @@ La seconde: notre construction n'a pas été éprouvée à l'échelle. Nous n'af
 
 ### Une cotisation à l'entrée et une sortie en un seul geste: c'est un abonnement à un service, pas l'appartenance à un peuple.
 
-L'appartenance est constituée par un acte gratuit: la signature de la Déclaration. La cotisation couvre le prix de revient de la procédure: la vérification de l'unicité de la personne et la délivrance du passeport. Précisons à part que la vérification d'identité **est gratuite pendant la période constituante**: avant l'adoption du texte, personne ne paie rien.
+L'appartenance est constituée par un acte gratuit: la signature de la Déclaration. La cotisation couvre le prix de revient de la procédure - la vérification de l'unicité de la personne et la délivrance du passeport - et soutient l'infrastructure du peuple. Précisons à part que la vérification d'identité **est gratuite pendant la période constituante**: avant l'adoption du texte, personne ne paie rien.
 
 C'est exactement ainsi qu'est agencée l'entrée dans tout peuple par acte: la naturalisation est partout soumise à une taxe d'État de quelques centaines de dollars ou l'équivalent, et le passeport est payant pour les nationaux de naissance dans tous les pays du monde. La taxe paie la procédure, elle n'achète pas l'appartenance.
 

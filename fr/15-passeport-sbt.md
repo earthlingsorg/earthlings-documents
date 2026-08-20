@@ -59,7 +59,7 @@ L'historique de la participation et de l'apport est consigné publiquement: vote
 
 **2. Vérification de l'identité.** Vérification que vous êtes une personne vivante et que vous êtes unique. Elle assure le principe « une personne - une voix ». Les images d'origine et les scans de documents ne sont pas conservés.
 
-**3. Versement de la cotisation.** L'équivalent de 79 USD, en cryptomonnaie (ETH, USDT, USDC). Elle couvre le prix de revient de la vérification d'identité et de la délivrance du passeport, entre au trésor commun et est répartie selon les parts publiées.
+**3. Versement de la cotisation.** L'équivalent de 79 USD, en cryptomonnaie (ETH, USDT, USDC). Elle couvre le prix de revient de la vérification d'identité et de la délivrance du passeport, soutient l'infrastructure du peuple, entre au trésor commun et est répartie selon les parts publiées.
 
 > Celui qui ne peut pas verser lui-même la cotisation entre dans une file d'attente ouverte, et la cotisation est versée pour lui par une autre personne ou par la Trésorerie. Le passeport ne se distingue alors en rien des autres: le registre n'inscrit pas qui a versé la cotisation. La cotisation n'achète pas l'appartenance: celle-ci naît de la signature de la Déclaration.
 

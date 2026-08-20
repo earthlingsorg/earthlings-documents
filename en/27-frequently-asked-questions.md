@@ -12,7 +12,7 @@
 
 ### What is the 79 dollars for and where does it go?
 
-The contribution covers the cost of identity verification and passport issuance. It goes into the common treasury and is allocated in published shares: platform 25 per cent, growth and communications 30, community projects 20, education 15, reserve 10.
+The contribution covers the cost of identity verification and passport issuance and sustains the people's infrastructure. It goes into the common treasury and is allocated in published shares: platform 25 per cent, growth and communications 30, community projects 20, education 15, reserve 10.
 
 The contribution does not buy belonging: belonging arises by signing the Declaration.
 
