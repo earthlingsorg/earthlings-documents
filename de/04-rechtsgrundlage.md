@@ -72,7 +72,7 @@ Streitig ist die dritte, und in ihr fällt unsere Position mit der klassischen z
 
 ## Ergänzung, nicht Ersetzung
 
-Das Volk der Earthlings hebt den Staat nicht auf, verdoppelt die Aufgaben der öffentlichen Gewalt nicht und verlangt keinen Verzicht auf die Staatsangehörigkeit. Es beansprucht kein Gebiet, keine Besteuerung der Bevölkerung, keine Strafgerichtsbarkeit und kein Gewaltmonopol. Die Mitgliedschaft berührt Staatsangehörigkeit, Steuerpflichten und Gerichtsstand nicht, und bei einer Kollision des anwendbaren Rechts haben die zwingenden Normen der jeweiligen nationalen Rechtsordnung Vorrang.
+Das Volk der Earthlings hebt den Staat nicht auf, verdoppelt die Aufgaben der öffentlichen Gewalt nicht und verlangt keinen Verzicht auf die Staatsangehörigkeit. Es beansprucht kein Gebiet, keine Besteuerung der Bevölkerung, keine Strafgerichtsbarkeit und kein Gewaltmonopol. Die Zugehörigkeit berührt Staatsangehörigkeit, Steuerpflichten und Gerichtsstand nicht, und bei einer Kollision des anwendbaren Rechts haben die zwingenden Normen der jeweiligen nationalen Rechtsordnung Vorrang.
 
 Diese Bestimmung gilt durchgehend für das ganze Dokument.
 
@@ -243,7 +243,7 @@ Keine Vereinigung kommt ohne eine Entscheidung über die Aufnahme aus: Staaten n
 
 Im Volk der Earthlings gibt es eine Entscheidung über die Aufnahme als Gattung nicht. Es gibt vier Voraussetzungen, und sie vollziehen sich selbst: Sie prüft ein Verfahren nach Tatsachen und kein Organ nach Ermessen. Zusammen mit dem Verbot des Ausschlusses ergibt das eine Lage, die es sonst nirgends gibt: **Das Volk hat über die Zugehörigkeit weder beim Eintritt noch beim Austritt Macht; über sie verfügt allein der Mensch selbst.**
 
-Der Einwand liegt hier auf der Hand: Die anerkannte Formel besagt, dass ein Volk seine Mitgliedschaft selbst bestimmt, hier aber bestimmt sie jeder Willige einseitig. Die Antwort: Das Volk hat seine Mitgliedschaft ein für alle Mal bestimmt, indem es die Regel aufgestellt hat - es gehört jeder dazu, der vier Voraussetzungen erfüllt und dazugehören will. Die kollektive Selbstbestimmung ist auf der Ebene der Regel verwirklicht und nicht in Einzelfällen; jeden Fall nach Ermessen zu behandeln ist weder die einzige noch die geschütztere Weise, denn wo Ermessen ist, ist auch Willkür.
+Der Einwand liegt hier auf der Hand: Die anerkannte Formel besagt, dass ein Volk seine Mitgliedschaft selbst bestimmt, hier aber bestimmt sie jeder Willige einseitig. Die Antwort: Das Volk hat diese Frage ein für alle Mal entschieden, indem es die Regel aufgestellt hat - es gehört jeder dazu, der vier Voraussetzungen erfüllt und dazugehören will. Die kollektive Selbstbestimmung ist auf der Ebene der Regel verwirklicht und nicht in Einzelfällen; jeden Fall nach Ermessen zu behandeln ist weder die einzige noch die geschütztere Weise, denn wo Ermessen ist, ist auch Willkür.
 
 Drei Vorbehalte benennen wir selbst. Die Aufhebung einer unrechtmäßig erlangten Ausgabe beendet die Zugehörigkeit gegen den Willen des Menschen - das ist keine Sanktion, sondern die Feststellung, dass die Zugehörigkeit rechtmäßig nicht entstanden ist. Die Identitätsprüfung kann scheitern; eine Ablehnung ist nicht endgültig, die Zahl der Anträge ist nicht begrenzt. Und die Prüfung stützt sich auf ein Ausweispapier: **Wer staatenlos und ohne Papiere ist, kann heute nicht eintreten** - diese Beschränkung widerspricht der Logik der übrigen Konstruktion und gehört zu den offenen Fragen.
 
@@ -251,7 +251,7 @@ Die Freiheit des Austritts unterscheidet sich hier scharf von der Staatsangehör
 
 Die Beschränkung entstand als Schutz - die Erfahrung der dreißiger Jahre zeigte, dass ein Mensch ohne Staatsangehörigkeit die Menschenrechte förmlich behält und niemanden hat, der zu ihrer Gewährleistung verpflichtet wäre; daher das Übereinkommen über die Rechtsstellung der Staatenlosen von 1954, das einen Staatenlosen als eine Person bestimmte, „die kein Staat auf Grund seines Rechtes als Staatsangehörigen ansieht“ (Artikel 1 Absatz 1). Der Preis des Schutzes besteht darin, dass ein erwachsener Mensch über die eigene Zugehörigkeit nicht verfügen kann.
 
-Im Volk der Earthlings ist der Austritt frei, einseitig und bedarf niemandes Zustimmung. Der Vorbehalt, den wir selbst machen: Der Austritt kostet heute genau deshalb nichts, weil die Mitgliedschaft wenig gibt. Je mehr das Volk geben wird, desto teurer wird der Austritt, und dann wird diese Gewährleistung wirklich geprüft.
+Im Volk der Earthlings ist der Austritt frei, einseitig und bedarf niemandes Zustimmung. Der Vorbehalt, den wir selbst machen: Der Austritt kostet heute genau deshalb nichts, weil die Zugehörigkeit wenig gibt. Je mehr das Volk geben wird, desto teurer wird der Austritt, und dann wird diese Gewährleistung wirklich geprüft.
 
 ## Das rechtliche Bestehen ist von einer Aufzeichnung abgeleitet
 
@@ -375,7 +375,7 @@ Hier ist Genauigkeit in beide Richtungen nötig. Eine förmliche Ablehnung gab e
 
 Was sich behaupten lässt, ohne die Grenzen der Tatsache zu verlassen. **Ein rechtliches Hindernis liegt vor und ist auf uns in vollem Umfang anwendbar:** Der Begriff des Volkes ist in den verbindlichen Normen nicht bestimmt, und die gefestigte Praxis bindet ihn entweder an die Bevölkerung eines Staates oder an eine territoriale Gemeinschaft. Umstände, die daran etwas geändert hätten, sind seit 2000 nicht entstanden.
 
-**Neben dem rechtlichen Hindernis gab es ein Beweishindernis, und das ist bereits unsere eigene Beobachtung.** Wer im Namen der Gemeinschaft spricht, wer zu ihr gehört, ob sich das feststellen und nicht nur behaupten lässt - auf diese Fragen konnte der Anspruch von 2000 nicht antworten: Die Vertretung war bestritten, und die Mitgliedschaft in einer verstreuten Bevölkerung von Millionen Menschen ließ sich grundsätzlich nicht feststellen, und das nicht durch ein Verschulden der Antragsteller - die Mittel dafür gab es nicht. Eine geprüfte individuelle Mitgliedschaft, ein dauerhaftes Register und eine unabänderliche Aufzeichnung der Beschlüsse waren im Jahr 2000 nicht verfügbar.
+**Neben dem rechtlichen Hindernis gab es ein Beweishindernis, und das ist bereits unsere eigene Beobachtung.** Wer im Namen der Gemeinschaft spricht, wer zu ihr gehört, ob sich das feststellen und nicht nur behaupten lässt - auf diese Fragen konnte der Anspruch von 2000 nicht antworten: Die Vertretung war bestritten, und die Mitgliedschaft in einer verstreuten Bevölkerung von Millionen Menschen ließ sich grundsätzlich nicht feststellen, und das nicht durch ein Verschulden der Antragsteller - die Mittel dafür gab es nicht. Eine geprüfte individuelle Zugehörigkeit, ein dauerhaftes Register und eine unabänderliche Aufzeichnung der Beschlüsse waren im Jahr 2000 nicht verfügbar.
 
 Wägen wir redlich ab: Wir können nicht sagen, „einer der Gründe ist entfallen“, da niemand Gründe formuliert hat. Es folgt nur, dass eine der Schwierigkeiten von 2000 bei unserer Konstruktion beseitigt ist und dass das rechtliche Hindernis geblieben ist.
 
@@ -533,7 +533,7 @@ Die Erreichbarkeit des Endpunkts ist in starker Form bestätigt: Die Pflicht der
 
 ## Öffentliche Chronik und Voraussetzungen der Legitimierung
 
-Vom Bau her ist vorgesehen, dass die gesamte Praxis der Selbstverwaltung - Abstimmungen mit Angabe von Datum, Frage, Beteiligung, Ergebnis und Ausführung, Bewegungen der Mittel der Schatzkammer, Aufnahmen von Mitgliedern, die Arbeit der Zellen - in einer öffentlichen Chronik festgehalten wird, die sich nachträglich nicht ändern lässt. Die Chronik beginnt früher, als sich das Volk bildet: Ihre erste Eintragung werden die Vorschläge zum konstituierenden Text, die Antworten darauf und das Ergebnis der Abstimmung über seine Annahme sein. Kein Volk der Geschichte verfügt über eine aufgezeichnete Wiedergabe seines Lebens vom ersten Tag an, da es nichts gab, womit man sie hätte führen können.
+Vom Bau her ist vorgesehen, dass die gesamte Praxis der Selbstverwaltung - Abstimmungen mit Angabe von Datum, Frage, Beteiligung, Ergebnis und Ausführung, Bewegungen der Mittel der Schatzkammer, Beitritte in das Volk, die Arbeit der Zellen - in einer öffentlichen Chronik festgehalten wird, die sich nachträglich nicht ändern lässt. Die Chronik beginnt früher, als sich das Volk bildet: Ihre erste Eintragung werden die Vorschläge zum konstituierenden Text, die Antworten darauf und das Ergebnis der Abstimmung über seine Annahme sein. Kein Volk der Geschichte verfügt über eine aufgezeichnete Wiedergabe seines Lebens vom ersten Tag an, da es nichts gab, womit man sie hätte führen können.
 
 Die Voraussetzungen der Legitimierung sind dabei unmittelbar benannt: Zahl und geografische Verteilung über einen örtlichen Kreis hinaus; wirkliche Teilnahme und nicht nur Unterschriften; die Güte der Verfahren - eine ehrliche Identitätsprüfung, eine durchsichtige Abstimmung, ein Schutz vor der Übernahme der Verwaltung; öffentliche Rechenschaft über Regeln, Finanzen, Bestand und Verwaltungspraxis.
 
@@ -556,7 +556,7 @@ Gebiet und Bevölkerung sind Maßstäbe des **Staates** (Übereinkommen über di
 
 Die Vertretung des Volkes der Earthlings ist **freiwillig** - ohne selbsttätige Einbeziehung irgendjemandes; **ergänzend** - ohne Aufhebung der nationalen Staatsangehörigkeit und anderer Zugehörigkeiten; **begrenzt** - ohne Anspruch auf einen allgemeinen Auftrag.
 
-Die Legitimierung ist auf drei Ebenen eingerichtet: die erste - Unterzeichnung der Erklärung und Identitätsprüfung, die den anfänglichen Auftrag bilden; die laufende - regelmäßige Teilnahme an Abstimmungen, die die Mitgliedschaft in eine wirkliche und nicht bloß dem Namen nach bestehende Legitimität verwandelt; die äußere - die Anerkennung der Redlichkeit der Verfahren durch äußere Subjekte, die die Grundlage für begrenzte Formen der Teilnahme gibt.
+Die Legitimierung ist auf drei Ebenen eingerichtet: die erste - Unterzeichnung der Erklärung und Identitätsprüfung, die den anfänglichen Auftrag bilden; die laufende - regelmäßige Teilnahme an Abstimmungen, die die Zugehörigkeit in eine wirkliche und nicht bloß dem Namen nach bestehende Legitimität verwandelt; die äußere - die Anerkennung der Redlichkeit der Verfahren durch äußere Subjekte, die die Grundlage für begrenzte Formen der Teilnahme gibt.
 
 Die von den Earthlings genutzten Rechtsstrukturen üben keine Handelstätigkeit, keine Finanzvermittlung, keine Zahlungsdienste, keine Bank- und Anlagetätigkeit, keine Verwahrung fremder Mittel, keinen Handel mit Kryptowährungen und keine Ausgabe von Zahlungsmitteln oder Wertpapieren aus. Die Beschränkungen betreffen die Strukturen des äußeren Verkehrs und nicht die Binnenwirtschaft des Volkes; die vollständige Fassung steht im Dokument „Rechtliche Hinweise“.
 

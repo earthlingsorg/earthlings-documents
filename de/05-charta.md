@@ -299,7 +299,7 @@ Ein Earthling kann seine Stimme in einem einzelnen Sachgebiet einem anderen Eart
 Die Schatzkammer der Earthlings wird über Smart Contracts verwaltet. Alle Vorgänge sind durchsichtig und on-chain aufgezeichnet. Die Verteilung der Mittel wird durch Abstimmung der DAO gebilligt.
 
 **Quellen der Mittel:**
-- Mitgliedsbeiträge (Verfahren und Zweck - im Dokument [Die Schatzkammer der Earthlings](https://earth-lings.org/documents/de/de09-schatzkammer.html))
+- Beiträge beim Beitritt (Verfahren und Zweck - im Dokument [Die Schatzkammer der Earthlings](https://earth-lings.org/documents/de/de09-schatzkammer.html))
 - Freiwillige Beiträge der Earthlings
 - Zuwendungen und Spenden
 - Ausgabe des Earthlings Coin (nach festgelegten Regeln)
@@ -346,7 +346,7 @@ Die Einzelheiten der Organisation der Projektarbeit sind im Dokument [Die Zellen
 
 ---
 
-# ABSCHNITT 04. Mitgliedschaft und Prüfung
+# ABSCHNITT 04. Zugehörigkeit und Prüfung
 
 ## Artikel 12. Die Grundsätze der Teilnahme
 
@@ -376,7 +376,7 @@ Eine Befreiung vom Beitrag gibt es nicht. Der Beitrag wird stets vollständig en
 
 **Der Schutz des Grundsatzes „1 Mensch = 1 Stimme“:**
 - **Biometrische Prüfung:** Nachweis der Einmaligkeit einer Person
-- **Soulbound Token (SBT):** ein unübertragbares Token der Mitgliedschaft
+- **Soulbound Token (SBT):** ein unübertragbares Token der Zugehörigkeit
 - **Datensparsamkeit:** verarbeitet wird nur, was für den Nachweis der Einmaligkeit erforderlich ist; Lichtbilder und Scans werden nicht gespeichert
 - **Anti-Sybil-Schutz:** Verhinderung der Anlage mehrerer Konten
 
@@ -421,7 +421,7 @@ Das vorsätzliche Verschweigen eines Interessenkonflikts wird als Verletzung der
 
 ## Artikel 17. Der grundlegende Grundsatz
 
-Die Mitgliedschaft im Volk der Earthlings ist unveräußerlich. Niemand kann unter irgendwelchen Umständen aus dem Volk der Earthlings ausgeschlossen werden. Ist ein Mensch einmal Earthling geworden, bleibt er es, bis er selbst den Entschluss zum Austritt fasst.
+Die Zugehörigkeit zum Volk der Earthlings ist unveräußerlich. Niemand kann unter irgendwelchen Umständen aus dem Volk der Earthlings ausgeschlossen werden. Ist ein Mensch einmal Earthling geworden, bleibt er es, bis er selbst den Entschluss zum Austritt fasst.
 
 **Das Stimmrecht darf nicht wegen der Ansichten eines Menschen, wegen des Inhalts seiner Stimmabgabe, wegen der Ablehnung gefasster Beschlüsse oder als allgemeine Sanktion für eine Regelverletzung entzogen oder ausgesetzt werden.** Die Stimme ist der Inhalt der Zugehörigkeit: sie aus solchen Gründen zu entziehen hieße, den Menschen aus dem Volk auszuschließen und ihm den Namen zu belassen. Die in Artikel 22 vorgesehenen beschränkenden Maßnahmen berühren das Stimmrecht nicht.
 
@@ -502,7 +502,7 @@ Die Aufhebung ist kein Ausschluss aus dem Volk und wird nicht als Sanktion für 
 
 ### 2. Die technische Neuausgabe
 
-Ein Pass kann auf Antrag des Inhabers selbst entwertet und sogleich an dieselbe Adresse oder an eine neue Adresse des Inhabers neu ausgegeben werden - bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags. Die Neuausgabe unterbricht die Mitgliedschaft nicht und verlangt keine Abstimmung.
+Ein Pass kann auf Antrag des Inhabers selbst entwertet und sogleich an dieselbe Adresse oder an eine neue Adresse des Inhabers neu ausgegeben werden - bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags. Die Neuausgabe unterbricht die Zugehörigkeit nicht und verlangt keine Abstimmung.
 
 **Andere Gründe für die Entwertung eines Passes gegen den Willen des Inhabers gibt es nicht.**
 

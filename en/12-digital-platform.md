@@ -85,7 +85,7 @@ As a general rule a passport is burned only by the holder themselves, with their
 The Charter (Article 21) establishes two and only two exceptions, which the platform is obliged to support and is not entitled to extend:
 
 1. **annulment of an invalid issuance** - where it is established that the passport was issued in breach of the conditions of issuance; only by decision of the Assembly with a sanction majority, by secret ballot, with a right of appeal;
-2. **technical reissue** - at the holder's own request on loss of access to a wallet or on migration of the contract; membership is not interrupted.
+2. **technical reissue** - at the holder's own request on loss of access to a wallet or on migration of the contract; belonging is not interrupted.
 
 No other grounds for burning against the holder's will are implemented in the platform. The death of the holder is not among them: the platform does not and cannot hold information about deaths, and the ending of participation is handled by the inactivity mechanism (Charter, Article 20).
 
@@ -232,7 +232,7 @@ Honesty is needed here, not a promise that cannot be kept.
 
 Data held in the platform's databases are corrected and deleted at a participant's request. Entries in a distributed ledger are by their nature not deletable - and that is precisely why there are no personal data in it: they hold pseudonymous addresses and marks of actions, not a name, not a document, and not biometrics.
 
-On exit the passport is burned, and a pseudonymous mark remains in the ledger recording that membership existed during a particular period. This is a fact of the past, not a continuing membership. This model matches the practice settled in European disputes over church registers: the entry is preserved; the status is marked.
+On exit the passport is burned, and a pseudonymous mark remains in the ledger recording that belonging existed during a particular period. This is a fact of the past, not a continuing belonging. This model matches the practice settled in European disputes over church registers: the entry is preserved; the status is marked.
 
 Freedom of association does not require the erasure of history: renouncing citizenship does not destroy state archives.
 

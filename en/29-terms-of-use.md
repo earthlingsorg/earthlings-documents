@@ -53,7 +53,7 @@ These values are embodied in the architecture, not merely declared.
 
 ---
 
-# SECTION 03. Membership and registration
+# SECTION 03. Belonging and registration
 
 ## Conditions
 
@@ -184,7 +184,7 @@ Earthlings Coin is a utility unit of the internal economy. It is not a share, no
 
 ## What matters to understand
 
-**Today** the unit circulates only within the ecosystem and is traded nowhere. Membership is confirmed by the passport, not by the unit; the unit gives no votes whatever the amount held.
+**Today** the unit circulates only within the ecosystem and is traded nowhere. Belonging is confirmed by the passport, not by the unit; the unit gives no votes whatever the amount held.
 
 **In the future** exchange availability is possible, but it is not promised and is not an aim. It does not turn the unit into an investment instrument and does not mean a promise of growth in value - no one gives such a promise under any course of events.
 

@@ -53,7 +53,7 @@ Diese Werte sind in der Architektur verkörpert und nicht nur erklärt.
 
 ---
 
-# ABSCHNITT 03. Mitgliedschaft und Anmeldung
+# ABSCHNITT 03. Zugehörigkeit und Anmeldung
 
 ## Die Voraussetzungen
 
@@ -184,7 +184,7 @@ Earthlings Coin ist eine Nutzungseinheit der inneren Wirtschaft. Das ist keine A
 
 ## Was wichtig zu verstehen ist
 
-**Heute** läuft die Einheit nur innerhalb des Ökosystems um und wird nirgends gehandelt. Die Mitgliedschaft weist der Pass nach und nicht die Einheit; Stimmen gibt sie bei keinem Umfang.
+**Heute** läuft die Einheit nur innerhalb des Ökosystems um und wird nirgends gehandelt. Die Zugehörigkeit weist der Pass nach und nicht die Einheit; Stimmen gibt sie bei keinem Umfang.
 
 **Künftig** ist eine Verfügbarkeit an einer Börse möglich, doch sie ist weder versprochen noch ein Ziel. Sie verwandelt die Einheit nicht in ein Anlagewerkzeug und bedeutet kein Versprechen eines Wertzuwachses - ein solches gibt niemand, gleich wie sich die Dinge entwickeln.
 

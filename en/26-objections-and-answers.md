@@ -62,7 +62,7 @@ But the same test also reduces recognized peoples to nothing: what operational c
 
 The first real consequence of the category is already operating now: it determines what the practice matures into. In international law the significance of acts depends on the capacity in which they are performed: in the doctrine of historic title only acts à titre de souverain - "in the capacity of a sovereign" - are counted; private acts create nothing. Ten years of self-government in the capacity of an association mature into a well-established association; the same years lived openly and on the record in the capacity of a people mature into evidence of peoplehood.
 
-The second consequence is the source of existence: an association is a creature of a legal order and ends by an act of that order (winding up, prohibition); a people is a fact, derived from no national legal act and therefore not terminable by one. For a community whose members live in dozens of jurisdictions this is an architecture of survival, and the model of replaceable bearer legal entities follows from it directly.
+The second consequence is the source of existence: an association is a creature of a legal order and ends by an act of that order (winding up, prohibition); a people is a fact, derived from no national legal act and therefore not terminable by one. For a community whose participants live in dozens of jurisdictions this is an architecture of survival, and the model of replaceable bearer legal entities follows from it directly.
 
 Meanwhile Earthlings uses the instruments of an NGO without any contradiction: the people is the bearer of the mandate, legal entities are procedural bearers. This is how peoples take part in international life everywhere: the Saami Council holds status with ECOSOC as a non-governmental organization, and no one considers the Sami people a non-governmental organization. Using a door does not redefine who walks through it.
 
@@ -88,7 +88,7 @@ Now as to what is built differently - and we speak of the design, not of intenti
 
 **The foundation is placed outside voting.** Belonging, equality of the vote, the right to leave, and the values with their guarantees are not put to a vote at all - these are not questions with a raised threshold but questions that are not on the ballot (Declaration, Articles 8, 9, and 10).
 
-**Organizations do not take part.** Only living human beings are members of the people; a legal entity can neither enter, nor receive a vote, nor accumulate influence.
+**Organizations do not take part.** Only living human beings belong to the people; a legal entity can neither enter, nor receive a vote, nor accumulate influence.
 
 **No mandate creates an office.** Any authority is revoked by the same threshold that granted it, and no lower; delegation creates no permanent advantage.
 
@@ -110,13 +110,13 @@ Anyone may pay for the queue, but no one may choose whom to pay for: payment alw
 
 What we do not promise: instant entry. A person in the queue waits until a payer is found. Money makes entry slower, but does not close it for good - and in this we see an honest boundary of the possible, not a solution to poverty.
 
-Free exit does not weaken the durability of the community - it is the only thing that makes the proof of that durability clean. In a people by birth, staying proves nothing: exit is unavailable or ruinous. Here every day of continued membership is a renewed choice at zero cost of leaving. No traditional people can present such a measure of durability.
+Free exit does not weaken the durability of the community - it is the only thing that makes the proof of that durability clean. In a people by birth, staying proves nothing: exit is unavailable or ruinous. Here every day of continued belonging is a renewed choice at zero cost of leaving. No traditional people can present such a measure of durability.
 
 ### An eternal record in a blockchain makes your "free exit" a fiction.
 
-Freedom of association requires that membership genuinely end - and here it ends more fully than the law requires: an earthling burns their own passport, from their own wallet, cryptographically; the server holds no keys and can neither prevent exit nor require permission for it.
+Freedom of association requires that belonging genuinely end - and here it ends more fully than the law requires: an earthling burns their own passport, from their own wallet, cryptographically; the server holds no keys and can neither prevent exit nor require permission for it.
 
-On burning, only a pseudonymous mark remains in the chain - there are no real personal data in the blockchain. Freedom of association does not require the erasure of history: renouncing citizenship does not burn state archives, and European practice on church registers has settled on a model of annotation - the entry remains, the status is marked. "This person was a member from date X to date Y" is a fact of the past, not a continuing membership.
+On burning, only a pseudonymous mark remains in the chain - there are no real personal data in the blockchain. Freedom of association does not require the erasure of history: renouncing citizenship does not burn state archives, and European practice on church registers has settled on a model of annotation - the entry remains, the status is marked. "This person was a member from date X to date Y" is a fact of the past, not a continuing belonging.
 
 **The other side of the same coin: if only the person themselves can leave, then no one can expel them.** No procedure for expulsion from the Earthlings people exists, and the right to vote cannot be taken away for a person's views, for how they voted, for disagreement with decisions, or as a general measure of liability: the vote is the substance of belonging, and to take it away on such grounds would be to expel the person while leaving them the name. The single exception is proven undermining of the integrity of the voting itself, for up to six months and by a procedure with a right of defence and appeal.
 
@@ -156,7 +156,7 @@ Effectiveness, moreover, is measured in proportion to the claim, and the law rea
 
 The question "what happens when decisions are not carried out" is asked from within the state model, where a decision is separate from its execution and requires coercion. Here a substantial proportion of decisions are self-executing: the outcome of a vote is put into effect by code, and the funds of the treasury are distributed automatically. And where decisions are coordinative, the absence of coercion is not a failure but the design: coercion is prohibited by the people's own core.
 
-The differences from a "user base" are observable and verifiable, without a single self-description. A user accepts a service agreement - a member signs a declaration of belonging to a people, which they moreover had the opportunity to amend and which they voted on. Users hold no rights of governance over the operator - here everyone has an equal, unbuyable vote, detached from payment and from capital. A service extracts profit from its users - here there is a common fund and a non-commercial circuit. A service expels at its discretion - here belonging is inalienable.
+The differences from a "user base" are observable and verifiable, without a single self-description. A user accepts a service agreement - an earthling signs a declaration of belonging to a people, which they moreover had the opportunity to amend and which they voted on. Users hold no rights of governance over the operator - here everyone has an equal, unbuyable vote, detached from payment and from capital. A service extracts profit from its users - here there is a common fund and a non-commercial circuit. A service expels at its discretion - here belonging is inalienable.
 
 And the decisive point: a user base cannot take the platform and leave - a people can. The registry of passports lives in the chain, not on the operator's servers, and re-founding is recognized as a legitimate continuation; the community owns the ability to exist without the operator.
 
@@ -172,7 +172,7 @@ Choosing a form for its legal consequences is legitimate throughout the law: eve
 
 Instrumentality is not a vice of self-determination movements at all, it is their definition: the law is precisely their aim. The United States Declaration of Independence is an openly instrumental status document, expressly listing the legal consequences for the sake of which the status is claimed: "to levy War, contract Alliances, establish Commerce". By the logic of the objection, 1776 is a fiction.
 
-And the main point: the subjective criterion is the self-awareness of the group, and a group is not a founder's strategy but people, each of whom has performed a personal act. An ordinary member has nothing to simulate: the vote is unbuyable, the fund is non-commercial - a channel for private extraction does not exist architecturally. What would be simulation is an absent will: signatures without people, a dead registry. A will with a purpose cannot fail the test of will.
+And the main point: the subjective criterion is the self-awareness of the group, and a group is not a founder's strategy but people, each of whom has performed a personal act. An ordinary participant has nothing to simulate: the vote is unbuyable, the fund is non-commercial - a channel for private extraction does not exist architecturally. What would be simulation is an absent will: signatures without people, a dead registry. A will with a purpose cannot fail the test of will.
 
 ---
 

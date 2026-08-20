@@ -101,7 +101,7 @@ As a general rule you alone burn your passport. The Charter (Article 21) establi
 
 This is not a measure of liability for conduct and not expulsion from the people: what is established is only that the issuance never lawfully took place. The procedure protects you at every step - notice, a period for objection, an opinion of the Independent Council, a secret ballot with a higher majority, a right of appeal; the periods and thresholds are laid down by the [Charter, Article 21](https://earth-lings.org/documents/en/en05-charter.html). If the obstacle to lawful issuance is removed, you are entitled to undergo verification again on general terms.
 
-**2. Technical reissue.** At **your own request** on loss of access to your wallet or on migration of the contract. The passport is burned and immediately issued anew; **membership is not interrupted**, and no vote is required.
+**2. Technical reissue.** At **your own request** on loss of access to your wallet or on migration of the contract. The passport is burned and immediately issued anew; **belonging is not interrupted**, and no vote is required.
 
 No other grounds exist. The death of the holder is not among them: belonging ends of itself, without anyone's decision, and the passport remains in the registry. The people has no access to death records worldwide, and such a ground would rest on information there is no way to verify.
 

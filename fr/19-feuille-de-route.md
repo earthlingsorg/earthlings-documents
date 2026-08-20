@@ -113,7 +113,7 @@ Ces pouvoirs sont temporaires et fonctionnels. La Charte (article 39) établit e
 ## Les sources
 
 - **les fonds personnels du fondateur** - source actuelle de l'étape de mise en place des structures; aucun fonds extérieur n'a été recherché;
-- **les cotisations de membre** - cotisation unique versée à l'adhésion;
+- **la cotisation d'entrée** - un versement unique;
 - **les dons volontaires et les subventions** - aux conditions établies par la Trésorerie: publication de la source, absence de conditions contraires aux principes du peuple, absence de toute influence sur les décisions;
 - **les partenariats** - coopération avec des projets qui partagent les valeurs du peuple.
 

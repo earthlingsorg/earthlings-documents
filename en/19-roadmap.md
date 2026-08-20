@@ -113,7 +113,7 @@ These powers are temporary and functional. The Charter (Article 39) expressly pr
 ## Sources
 
 - **the founder's personal funds** - the current source at the structure-formation stage; no external funds have been raised;
-- **membership contributions** - the one-time contribution on entry;
+- **the contribution on entry** - one-time;
 - **voluntary donations and grants** - on the conditions laid down by the Treasury: publication of the source, the absence of conditions contrary to the people's principles, and the absence of any influence over decisions;
 - **partnerships** - cooperation with projects sharing the people's values.
 

@@ -113,7 +113,7 @@ Estas facultades son temporales y funcionales. La Carta (artículo 39) establece
 ## Fuentes
 
 - **fondos personales del fundador**: fuente actual de la etapa de formación de las estructuras; no se han captado fondos externos;
-- **cuotas de pertenencia**: cuota única al adherirse;
+- **cuota de entrada**: pago único;
 - **donaciones voluntarias y subvenciones**: en las condiciones establecidas por la Tesorería: publicación de la fuente, ausencia de condiciones contrarias a los principios del pueblo, ausencia de influencia alguna sobre las decisiones;
 - **colaboraciones**: cooperación con proyectos que comparten los valores del pueblo.
 

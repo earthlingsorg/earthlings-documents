@@ -72,7 +72,7 @@ The third is the contested one, and on it our position coincides with the classi
 
 ## Complementary, not a substitute
 
-The Earthlings people does not abolish the state, does not duplicate the functions of public authority, and does not require anyone to renounce their citizenship. It claims no territory, no taxation of populations, no criminal jurisdiction, and no monopoly on force. Membership does not affect citizenship, tax obligations, or jurisdiction, and where applicable laws conflict, the mandatory norms of the relevant national jurisdiction prevail.
+The Earthlings people does not abolish the state, does not duplicate the functions of public authority, and does not require anyone to renounce their citizenship. It claims no territory, no taxation of populations, no criminal jurisdiction, and no monopoly on force. Belonging does not affect citizenship, tax obligations, or jurisdiction, and where applicable laws conflict, the mandatory norms of the relevant national jurisdiction prevail.
 
 This provision runs through the whole document.
 
@@ -243,7 +243,7 @@ No association manages without a decision on admission: states grant citizenship
 
 In the Earthlings people, there is no such thing as a decision on admission. There are four conditions, and they are self-executing: they are checked by a procedure against facts, not by a body at its discretion. Together with the prohibition of expulsion this yields a position found nowhere else: **the people has no power over belonging either at entry or at exit; only the person themselves disposes of it.**
 
-The objection here is obvious: the recognized formula holds that a people determines its own membership, whereas here it is determined unilaterally by anyone who wishes. The answer: the people determined its membership once and for all by establishing a rule - belonging attaches to everyone who meets the four conditions and has decided to belong. Collective self-determination is exercised at the level of the rule rather than of individual cases; deciding each case at discretion is neither the only way nor the safer one, since where there is discretion there is also arbitrariness.
+The objection here is obvious: the recognized formula holds that a people determines its own membership, whereas here it is determined unilaterally by anyone who wishes. The answer: the people settled this question once and for all by establishing a rule - belonging attaches to everyone who meets the four conditions and has decided to belong. Collective self-determination is exercised at the level of the rule rather than of individual cases; deciding each case at discretion is neither the only way nor the safer one, since where there is discretion there is also arbitrariness.
 
 We name three qualifications ourselves. The annulment of an issuance obtained unlawfully ends belonging against the person's will - this is not a measure of liability but a finding that belonging never lawfully arose. Identity verification may fail; a refusal is not final, and the number of attempts is not limited. And verification rests on an identity document: **a person without citizenship and without documents cannot enter today** - this restriction contradicts the logic of the rest of the construction and is among the open questions.
 
@@ -251,7 +251,7 @@ Freedom of exit here differs sharply from citizenship. The right to change one's
 
 The restriction arose as a protection - the experience of the 1930s showed that a person deprived of nationality retains human rights formally and has no one obliged to secure them; hence the 1954 Convention relating to the Status of Stateless Persons, which defined a stateless person as one "who is not considered as a national by any State under the operation of its law" (Article 1(1)). The price of that protection is that an adult cannot dispose of their own belonging.
 
-In the Earthlings people, exit is free, unilateral, and requires no one's consent. The qualification we make ourselves: exit costs nothing today precisely because membership gives little. The more the people gives, the dearer exit will become, and only then will this guarantee be truly tested.
+In the Earthlings people, exit is free, unilateral, and requires no one's consent. The qualification we make ourselves: exit costs nothing today precisely because belonging gives little. The more the people gives, the dearer exit will become, and only then will this guarantee be truly tested.
 
 ## Legal existence turned out to be derived from a record
 
@@ -375,7 +375,7 @@ Precision is needed here in both directions. There was no formal refusal: no bod
 
 What can be asserted while remaining within the facts. **A legal obstacle is present and applies to us in full measure:** the concept of a people is not defined in binding norms, and settled practice ties it either to the population of a state or to a territorial community. No circumstance that would change this has arisen since 2000.
 
-**Besides the legal obstacle there was an evidentiary one, and this is our own observation.** Who speaks for the community, who belongs to it, whether that can be established rather than asserted - the claim of 2000 could not answer these questions: representation was contested, and membership in a dispersed population of millions could not be established in principle - and not through any fault of those making the claim - the means for it did not exist. Confirmed individual membership, a permanent registry, and an unalterable record of decisions were not available in 2000.
+**Besides the legal obstacle there was an evidentiary one, and this is our own observation.** Who speaks for the community, who belongs to it, whether that can be established rather than asserted - the claim of 2000 could not answer these questions: representation was contested, and membership in a dispersed population of millions could not be established in principle - and not through any fault of those making the claim - the means for it did not exist. Confirmed individual belonging, a permanent registry, and an unalterable record of decisions were not available in 2000.
 
 Let us weigh this honestly: we cannot say that "one of the reasons has fallen away", since no one formulated any reasons. It follows only that one of the difficulties of 2000 is removed in our construction, and that the legal obstacle remains.
 
@@ -533,7 +533,7 @@ That the end point is attainable is confirmed in strong form: the duty of states
 
 ## The public chronicle and the conditions of legitimation
 
-The design provides that the whole practice of self-government - votes with the date, question, turnout, result, and execution recorded, movements of treasury funds, admissions to membership, the work of Cells - is entered in a public chronicle that cannot be altered after the fact. The chronicle begins before the people takes shape: its first entry is the proposals to the founding text, the replies to them, and the result of the vote on its adoption. No people in history holds a documented record of its life from the first day, because there was nothing to keep one with.
+The design provides that the whole practice of self-government - votes with the date, question, turnout, result, and execution recorded, movements of treasury funds, entries into the people, the work of Cells - is entered in a public chronicle that cannot be altered after the fact. The chronicle begins before the people takes shape: its first entry is the proposals to the founding text, the replies to them, and the result of the vote on its adoption. No people in history holds a documented record of its life from the first day, because there was nothing to keep one with.
 
 The conditions of legitimation are stated directly: numbers and geographical spread beyond a local circle; real participation, not signatures alone; the quality of procedures - honest identity verification, transparent voting, protection against capture of governance; public accountability for rules, finances, composition, and the practice of governance.
 

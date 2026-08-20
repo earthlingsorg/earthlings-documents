@@ -299,7 +299,7 @@ Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La 
 La Tesorería de los Earthlings se gestiona mediante contratos inteligentes. Todas las operaciones son transparentes y quedan registradas on-chain. La distribución de los fondos se aprueba por votación de la DAO.
 
 **Fuentes de fondos:**
-- Cuotas de pertenencia (el procedimiento y su destino están en el documento [Tesorería de los Earthlings](https://earth-lings.org/documents/es/es09-tesoreria.html))
+- Cuotas de entrada (el procedimiento y su destino están en el documento [Tesorería de los Earthlings](https://earth-lings.org/documents/es/es09-tesoreria.html))
 - Aportaciones voluntarias de los Earthlings
 - Subvenciones y donaciones
 - Emisión de Earthlings Coin (conforme a las reglas establecidas)

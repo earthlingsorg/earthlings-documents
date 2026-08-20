@@ -85,7 +85,7 @@ In der Regel entwertet einen Pass nur der Inhaber selbst, mit dem eigenen Schlü
 Die Charta (Artikel 21) legt zwei und nur zwei Ausnahmen fest, die die Plattform unterstützen muss und nicht erweitern darf:
 
 1. **die Aufhebung einer unwirksamen Ausgabe** - wenn festgestellt ist, dass ein Pass unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde; nur durch Beschluss der Vollversammlung mit Sanktionsmehrheit, in geheimer Abstimmung, mit Beschwerderecht;
-2. **die technische Neuausgabe** - auf Antrag des Inhabers selbst bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags; die Mitgliedschaft wird nicht unterbrochen.
+2. **die technische Neuausgabe** - auf Antrag des Inhabers selbst bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags; die Zugehörigkeit wird nicht unterbrochen.
 
 Andere Gründe für eine Entwertung gegen den Willen des Inhabers werden in der Plattform nicht umgesetzt. Der Tod des Inhabers steht nicht unter ihnen: Die Plattform verfügt über keine Angaben über einen Tod und kann nicht über sie verfügen, und das Ende der Teilnahme erfasst der Mechanismus der Inaktivität (Charta, Artikel 20).
 
@@ -232,7 +232,7 @@ Hier ist Ehrlichkeit nötig und kein Versprechen, das sich nicht halten lässt.
 
 Daten in den Speichern der Plattform werden auf Verlangen eines Teilnehmers berichtigt und gelöscht. Einträge in einem verteilten Register lassen sich ihrer Natur nach nicht löschen - und eben deshalb stehen keine personenbezogenen Daten in ihm: Dort stehen pseudonyme Adressen und Vermerke über Handlungen, aber kein Name, kein Papier und keine biometrischen Daten.
 
-Beim Austritt wird der Pass entwertet, und im Register bleibt ein pseudonymer Vermerk darüber, dass eine Mitgliedschaft in einem bestimmten Zeitraum bestand. Das ist eine Tatsache der Vergangenheit und keine fortdauernde Mitgliedschaft. Dieses Modell entspricht der Praxis, die sich in den europäischen Streitigkeiten über die Kirchenbücher herausgebildet hat: Der Eintrag bleibt, der Status wird vermerkt.
+Beim Austritt wird der Pass entwertet, und im Register bleibt ein pseudonymer Vermerk darüber, dass eine Zugehörigkeit in einem bestimmten Zeitraum bestand. Das ist eine Tatsache der Vergangenheit und keine fortdauernde Zugehörigkeit. Dieses Modell entspricht der Praxis, die sich in den europäischen Streitigkeiten über die Kirchenbücher herausgebildet hat: Der Eintrag bleibt, der Status wird vermerkt.
 
 Die Tilgung der Geschichte verlangt die Vereinigungsfreiheit nicht: Der Verzicht auf eine Staatsangehörigkeit vernichtet keine staatlichen Archive.
 

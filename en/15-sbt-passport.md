@@ -16,7 +16,7 @@ Unlike state passports, which are tied to a territory and confirm citizenship, t
 
 **Cryptographic protection.** The record is held on a distributed network and cannot be forged or altered unnoticed.
 
-**Equality.** Everyone receives the same passport with the same rights. There are no privileged classes and no tiers of membership. One person, one passport, one vote.
+**Equality.** Everyone receives the same passport with the same rights. There are no privileged classes and no tiers of belonging. One person, one passport, one vote.
 
 ---
 
@@ -157,7 +157,7 @@ The operator's technical powers are limited to executing a decision already take
 
 ### 2. Technical reissue
 
-At **the holder's own request** on loss of access to a wallet or on migration of the contract. The passport is burned and immediately issued anew to the same or a new address. **Membership is not interrupted**, and no vote is required.
+At **the holder's own request** on loss of access to a wallet or on migration of the contract. The passport is burned and immediately issued anew to the same or a new address. **Belonging is not interrupted**, and no vote is required.
 
 ### The principle of inalienability
 
@@ -169,7 +169,7 @@ Where restrictive measures are applied for gross breaches of common rules, the p
 
 - burning is performed by the `burn` function of the smart contract;
 - the passport data are deleted from the contract's active registry;
-- a pseudonymous mark remains in the unalterable history that the passport existed and was burned: this is a fact of the past, not a continuing membership;
+- a pseudonymous mark remains in the unalterable history that the passport existed and was burned: this is a fact of the past, not a continuing belonging;
 - there are no real personal data in the ledger;
 - to re-enter, the full procedure is gone through and a new passport is issued.
 

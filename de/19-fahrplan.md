@@ -113,7 +113,7 @@ Diese Befugnisse sind vorläufig und aufgabenbezogen. Die Charta (Artikel 39) le
 ## Quellen
 
 - **die persönlichen Mittel des Gründers** - die gegenwärtige Quelle der Phase des Strukturaufbaus; äußere Mittel sind nicht eingeworben worden;
-- **Mitgliedsbeiträge** - ein einmaliger Beitrag beim Beitritt;
+- **der Beitrag beim Beitritt** - einmalig;
 - **freiwillige Spenden und Zuwendungen** - unter den von der Schatzkammer festgelegten Voraussetzungen: Veröffentlichung der Quelle, keine Bedingungen gegen die Grundsätze des Volkes, keinerlei Einfluss auf Beschlüsse;
 - **Partnerschaften** - Zusammenarbeit mit Vorhaben, die die Werte des Volkes teilen.
 

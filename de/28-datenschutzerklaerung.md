@@ -168,7 +168,7 @@ Die Infrastruktur ist so gebaut, dass es keinen einzelnen Punkt gibt, dessen Kom
 
 **Berichtigung.** Unrichtige oder unvollständige Daten zu berichtigen.
 
-**Löschung.** Daten außerhalb des verteilten Registers zu löschen. Einträge im Register lassen sich der Natur der Technik nach nicht löschen; beim Austritt wird der Pass entwertet, und im Register bleibt ein pseudonymer Vermerk darüber, dass eine Mitgliedschaft in einem bestimmten Zeitraum bestand. Das ist eine Tatsache der Vergangenheit und keine fortdauernde Mitgliedschaft.
+**Löschung.** Daten außerhalb des verteilten Registers zu löschen. Einträge im Register lassen sich der Natur der Technik nach nicht löschen; beim Austritt wird der Pass entwertet, und im Register bleibt ein pseudonymer Vermerk darüber, dass eine Zugehörigkeit in einem bestimmten Zeitraum bestand. Das ist eine Tatsache der Vergangenheit und keine fortdauernde Zugehörigkeit.
 
 **Einschränkung der Verarbeitung** (Art. 18 DSGVO). Zu verlangen, die Verarbeitung auszusetzen, solange die Richtigkeit der Daten oder die Begründetheit eines Widerspruchs geprüft wird.
 

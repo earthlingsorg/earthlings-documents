@@ -299,7 +299,7 @@ Un earthling peut déléguer sa voix, sur un domaine déterminé, à un autre ea
 La Trésorerie des Earthlings est gérée par contrats intelligents. Toutes les opérations sont transparentes et inscrites on-chain. La répartition des fonds est approuvée par un vote de la DAO.
 
 **Sources de fonds:**
-- Cotisations des membres (procédure et affectation - dans le document [Trésorerie des Earthlings](https://earth-lings.org/documents/fr/fr09-tresorerie.html))
+- Cotisations d'entrée (procédure et affectation - dans le document [Trésorerie des Earthlings](https://earth-lings.org/documents/fr/fr09-tresorerie.html))
 - Apports volontaires des Earthlings
 - Subventions et dons
 - Émission de l'Earthlings Coin (selon les règles établies)

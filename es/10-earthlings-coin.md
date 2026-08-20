@@ -40,7 +40,7 @@ Es la sección más importante del documento.
 
 **No es un producto de inversión.** No se da ni puede darse promesa alguna de valor futuro, de dividendos, de participación en ingresos o de liquidez garantizada.
 
-**No se asigna por adherirse.** Ni la adhesión al pueblo, ni la cuota de pertenencia, ni pasar la verificación de identidad crean o asignan EC por sí mismos.
+**No se asigna por adherirse.** Ni la adhesión al pueblo, ni la cuota, ni pasar la verificación de identidad crean o asignan EC por sí mismos.
 
 **No es un salario.** El pueblo Earthlings no actúa como empleador, y la asignación de EC no constituye una relación laboral. Si un acuerdo concreto se reconoce como relación laboral lo determina la legislación del país del participante, y no el presente documento.
 

@@ -62,7 +62,7 @@ Mais le même test ramène à zéro les peuples reconnus: quelle conséquence op
 
 La première conséquence réelle de la catégorie joue dès maintenant: elle détermine ce en quoi la pratique mûrit. En droit international, la portée des actes dépend de la qualité en laquelle ils sont accomplis: dans la doctrine du titre historique, seuls comptent les actes à titre de souverain; les actes privés ne créent rien. Dix ans d'autogouvernement en qualité d'association mûrissent en une association accomplie; les mêmes années, vécues ouvertement et de façon documentée en qualité de peuple, mûrissent en preuves de la qualité de peuple.
 
-La seconde conséquence tient à la source de l'existence: une association est une création de l'ordre juridique et prend fin par un acte de celui-ci (dissolution, interdiction); un peuple est un fait, qui ne dérive d'aucun acte juridique national et que, dès lors, aucun ne peut faire cesser. Pour une communauté dont les membres vivent dans des dizaines d'ordres juridiques, c'est une architecture de survie, et le modèle des personnes morales-supports interchangeables en est la conséquence directe.
+La seconde conséquence tient à la source de l'existence: une association est une création de l'ordre juridique et prend fin par un acte de celui-ci (dissolution, interdiction); un peuple est un fait, qui ne dérive d'aucun acte juridique national et que, dès lors, aucun ne peut faire cesser. Pour une communauté dont les participants vivent dans des dizaines d'ordres juridiques, c'est une architecture de survie, et le modèle des personnes morales-supports interchangeables en est la conséquence directe.
 
 Les Earthlings usent d'ailleurs des outils des ONG sans la moindre contradiction: le peuple est le titulaire de la mission, les personnes morales en sont les supports procéduraux. C'est ainsi que se fait partout la participation des peuples à la vie internationale: le Conseil saami détient un statut consultatif auprès de l'ECOSOC en tant qu'organisation non gouvernementale, et personne ne tient le peuple saami pour une organisation non gouvernementale. Emprunter une porte ne redéfinit pas celui qui entre.
 
@@ -88,7 +88,7 @@ Voici maintenant ce qui est agencé autrement, et nous parlons d'agencement, non
 
 **Le fondement est placé hors du vote.** L'appartenance, l'égalité de la voix, le droit de partir et les valeurs avec leurs garanties ne sont pas mis aux voix du tout: ce ne sont pas des questions à seuil renforcé, ce sont des questions qui ne figurent pas sur le bulletin (Déclaration, articles 8, 9 et 10).
 
-**Les organisations ne participent pas.** Seules des personnes vivantes sont membres du peuple; une personne morale ne peut ni adhérer, ni obtenir de voix, ni accumuler d'influence.
+**Les organisations ne participent pas.** Seules des personnes vivantes appartiennent au peuple; une personne morale ne peut ni adhérer, ni obtenir de voix, ni accumuler d'influence.
 
 **Aucune mission ne crée de fonction.** Tout pouvoir est révoqué au même seuil que celui auquel il a été confié, et pas à un seuil inférieur; la délégation ne crée aucun avantage permanent.
 
@@ -156,7 +156,7 @@ L'efficacité, du reste, se mesure à la hauteur de la prétention, et le droit 
 
 La question « que se passe-t-il si les décisions ne sont pas exécutées » est posée depuis le modèle étatique, où la décision est séparée de l'exécution et exige la contrainte. Ici, une part importante des décisions s'exécute d'elle-même: le résultat d'un vote est mis en œuvre par le code, les fonds sont répartis automatiquement. Et là où les décisions sont de coordination, l'absence de contrainte n'est pas une défaillance, c'est la construction: contraindre est interdit par notre propre noyau.
 
-Les différences avec une « base d'utilisateurs » sont observables et vérifiables, sans une seule auto-description. Un utilisateur accepte des conditions de service; un membre signe une déclaration d'appartenance à un peuple, qu'il a de surcroît pu amender et pour laquelle il a voté. Les utilisateurs n'ont aucun droit de gouvernance sur l'exploitant; ici, chacun a une voix égale et non achetable, détachée du paiement et du capital. Un service tire un profit de ses utilisateurs; ici, il y a un fonds commun et un circuit sans but lucratif. Un service exclut à son gré; ici, l'appartenance est inaliénable.
+Les différences avec une « base d'utilisateurs » sont observables et vérifiables, sans une seule auto-description. Un utilisateur accepte des conditions de service; un earthling signe une déclaration d'appartenance à un peuple, qu'il a de surcroît pu amender et pour laquelle il a voté. Les utilisateurs n'ont aucun droit de gouvernance sur l'exploitant; ici, chacun a une voix égale et non achetable, détachée du paiement et du capital. Un service tire un profit de ses utilisateurs; ici, il y a un fonds commun et un circuit sans but lucratif. Un service exclut à son gré; ici, l'appartenance est inaliénable.
 
 Et le point décisif: une base d'utilisateurs ne peut pas emporter la plateforme et partir; un peuple le peut. Le registre des passeports vit dans la chaîne et non sur les serveurs de l'exploitant, et la reconstitution est reconnue comme une continuation légitime; la communauté détient la possibilité d'exister sans exploitant.
 
@@ -172,7 +172,7 @@ Choisir une forme pour ses conséquences juridiques est légitime dans tout le d
 
 L'instrumentalité n'est d'ailleurs pas un vice des mouvements d'autodétermination, elle est leur définition: le droit est précisément leur but. La Déclaration d'indépendance des États-Unis est un document de statut ouvertement instrumental, qui énumère expressément les conséquences juridiques en vue desquelles le statut est proclamé: « faire la guerre, conclure des alliances, établir des relations commerciales ». À suivre la logique de l'objection, 1776 est une fiction.
 
-Et surtout: le critère subjectif est la conscience de soi d'un groupe, et un groupe n'est pas la stratégie d'un fondateur, ce sont des gens dont chacun a accompli un acte personnel. Le membre ordinaire n'a rien à simuler: la voix n'est pas achetable, le fonds est sans but lucratif - il n'existe architecturalement aucun canal d'enrichissement privé. Ce qui serait une simulation, c'est une volonté absente: des signatures sans personnes, un registre mort. Le caractère résolu d'une volonté ne peut pas faire échouer le critère de la volonté.
+Et surtout: le critère subjectif est la conscience de soi d'un groupe, et un groupe n'est pas la stratégie d'un fondateur, ce sont des gens dont chacun a accompli un acte personnel. Le participant ordinaire n'a rien à simuler: la voix n'est pas achetable, le fonds est sans but lucratif - il n'existe architecturalement aucun canal d'enrichissement privé. Ce qui serait une simulation, c'est une volonté absente: des signatures sans personnes, un registre mort. Le caractère résolu d'une volonté ne peut pas faire échouer le critère de la volonté.
 
 ---
 

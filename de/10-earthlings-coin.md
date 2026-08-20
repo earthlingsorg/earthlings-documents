@@ -40,7 +40,7 @@ Das ist der wichtigste Abschnitt des Dokuments.
 
 **Er ist kein Anlageprodukt.** Versprechen über künftigen Wert, Ausschüttungen, einen Anteil an Erträgen oder eine gewährleistete Handelbarkeit werden nicht gegeben und können nicht gegeben werden.
 
-**Er wird nicht für den Beitritt gutgeschrieben.** Weder der Beitritt in das Volk noch der Mitgliedsbeitrag noch das Durchlaufen der Identitätsprüfung erzeugen oder schreiben für sich genommen EC gut.
+**Er wird nicht für den Beitritt gutgeschrieben.** Weder der Beitritt in das Volk noch der Beitrag noch das Durchlaufen der Identitätsprüfung erzeugen oder schreiben für sich genommen EC gut.
 
 **Er ist kein Arbeitsentgelt.** Das Volk der Earthlings tritt nicht als Arbeitgeber auf, und eine Gutschrift von EC begründet kein Arbeitsverhältnis. Ob eine bestimmte Absprache als Arbeitsverhältnis anerkannt wird, bestimmt das Recht des Landes des Teilnehmers und nicht dieses Dokument.
 

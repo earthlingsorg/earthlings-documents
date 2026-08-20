@@ -299,7 +299,7 @@ An earthling may delegate their vote on a particular field to another earthling.
 The Earthlings Treasury is managed through smart contracts. All operations are transparent and recorded on-chain. The allocation of funds is approved by a vote of the DAO.
 
 **Sources of funds:**
-- Membership contributions (the procedure and purpose are set out in the document [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html))
+- Contributions on joining (the procedure and purpose are set out in the document [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html))
 - Voluntary contributions from Earthlings
 - Grants and donations
 - Issuance of Earthlings Coin (under the established rules)
@@ -346,7 +346,7 @@ The details of how project work is organized are described in the document [Eart
 
 ---
 
-# SECTION 04. Membership and Verification
+# SECTION 04. Belonging and Verification
 
 ## Article 12. Principles of Participation
 
@@ -376,7 +376,7 @@ There is no exemption from the contribution. The contribution is always paid in 
 
 **Protection of the principle "1 person = 1 vote":**
 - **Biometric verification:** confirmation of the uniqueness of a person
-- **Soulbound Token (SBT):** a non-transferable token of membership
+- **Soulbound Token (SBT):** a non-transferable token of belonging
 - **Data minimization:** only what is necessary to confirm uniqueness is processed; photographs and scans are not retained
 - **Anti-Sybil protection:** prevention of the creation of multiple accounts
 
@@ -421,7 +421,7 @@ Deliberate concealment of a conflict of interest is treated as a breach of ethic
 
 ## Article 17. Fundamental Principle
 
-Membership in the Earthlings people is inalienable. No one can be expelled from the Earthlings people under any circumstances. Having become an earthling, a person remains one until they themselves decide to leave.
+Belonging to the Earthlings people is inalienable. No one can be expelled from the Earthlings people under any circumstances. Having become an earthling, a person remains one until they themselves decide to leave.
 
 **The right to vote cannot be taken away or suspended for a person's views, for the content of their vote, for disagreement with decisions taken, or as a general measure of liability for breaking rules.** The vote is the substance of belonging: to take it away on such grounds would be to expel a person from the people while leaving them the name. The restrictive measures provided for by Article 22 do not affect the right to vote.
 
@@ -502,7 +502,7 @@ Annulment is not expulsion from the people and is not applied as a measure of li
 
 ### 2. Technical Reissue
 
-A passport may be burned and immediately reissued to the same address or to a new address of the holder, at the holder's own request - on loss of access to the wallet or on migration of the contract. Reissue does not interrupt membership and requires no vote.
+A passport may be burned and immediately reissued to the same address or to a new address of the holder, at the holder's own request - on loss of access to the wallet or on migration of the contract. Reissue does not interrupt belonging and requires no vote.
 
 **No other grounds for burning a passport against the holder's will exist.**
 

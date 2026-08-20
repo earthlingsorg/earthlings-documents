@@ -168,7 +168,7 @@ The infrastructure is built so that no single point exists whose compromise woul
 
 **Rectification.** To correct inaccurate or incomplete data.
 
-**Erasure.** To delete data outside the distributed ledger. Entries in the ledger are by the nature of the technology not deletable; on exit the passport is burned, and a pseudonymous mark remains in the ledger recording that membership existed during a particular period. This is a fact of the past, not a continuing membership.
+**Erasure.** To delete data outside the distributed ledger. Entries in the ledger are by the nature of the technology not deletable; on exit the passport is burned, and a pseudonymous mark remains in the ledger recording that belonging existed during a particular period. This is a fact of the past, not a continuing belonging.
 
 **Restriction of processing** (Art. 18 GDPR). To require processing to be suspended while the accuracy of data or the merits of an objection are checked.
 

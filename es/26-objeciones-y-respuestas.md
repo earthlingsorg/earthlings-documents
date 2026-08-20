@@ -62,7 +62,7 @@ Pero ese mismo test deja en nada también a los pueblos reconocidos: ¿qué cons
 
 La primera consecuencia real de la categoría actúa ya ahora: determina en qué madura la práctica. En derecho internacional el valor de los actos depende de la calidad en la que se realizan: en la doctrina del título histórico solo cuentan los actos à titre de souverain, «a título de soberano»; los actos privados no crean nada. Diez años de autogobierno en calidad de asociación maduran en una asociación madura; esos mismos años, vividos abierta y documentadamente en calidad de pueblo, maduran en pruebas de la condición de pueblo.
 
-La segunda consecuencia es la fuente de la existencia: una asociación es creación del ordenamiento jurídico y se extingue por un acto suyo (disolución, prohibición); un pueblo es un hecho, no derivado de ningún acto jurídico nacional y por ello no extinguible por él. Para una comunidad cuyos miembros viven en decenas de jurisdicciones, esto es arquitectura de supervivencia, y el modelo de personas jurídicas intercambiables como soportes es su consecuencia directa.
+La segunda consecuencia es la fuente de la existencia: una asociación es creación del ordenamiento jurídico y se extingue por un acto suyo (disolución, prohibición); un pueblo es un hecho, no derivado de ningún acto jurídico nacional y por ello no extinguible por él. Para una comunidad cuyos participantes viven en decenas de jurisdicciones, esto es arquitectura de supervivencia, y el modelo de personas jurídicas intercambiables como soportes es su consecuencia directa.
 
 Con todo, los Earthlings emplean los instrumentos de una ONG sin contradicción alguna: el pueblo es el titular del mandato; las personas jurídicas, titulares procedimentales. Así está organizada la participación de los pueblos en la vida internacional por todas partes: el Consejo Saami mantiene su estatuto ante el ECOSOC como organización no gubernamental, y nadie considera que el pueblo saami sea una organización no gubernamental. Usar una puerta no redefine a quien entra.
 
@@ -88,7 +88,7 @@ Ahora, en qué está organizado de otro modo; y hablamos de la organización, no
 
 **El fundamento está sacado fuera de la votación.** La pertenencia, la igualdad del voto, el derecho a salir y los valores con sus garantías no se someten a votación en absoluto: no son cuestiones de umbral reforzado, sino cuestiones que no figuran en la papeleta (Declaración, artículos 8, 9 y 10).
 
-**Las organizaciones no participan.** Son miembros del pueblo únicamente personas vivas; una persona jurídica no puede adherirse, ni obtener voto, ni acumular influencia.
+**Las organizaciones no participan.** Al pueblo pertenecen únicamente personas vivas; una persona jurídica no puede adherirse, ni obtener voto, ni acumular influencia.
 
 **Ningún encargo constituye un cargo.** Toda facultad se revoca con el mismo umbral con el que se otorgó, y no inferior; la delegación no crea ventaja permanente.
 
@@ -156,7 +156,7 @@ La eficacia se mide, además, en proporción a la pretensión, y el derecho reco
 
 La pregunta «qué ocurre si las decisiones no se cumplen» está formulada desde el modelo estatal, donde la decisión está separada de la ejecución y exige coacción. Aquí una parte considerable de las decisiones se autoejecuta: el resultado de la votación se pone en obra por el código, los fondos se distribuyen automáticamente. Y allí donde las decisiones son de coordinación, la ausencia de coacción no es un fallo, sino la arquitectura: coaccionar está prohibido por el núcleo propio.
 
-Las diferencias con una «base de usuarios» son observables y verificables, sin una sola autodescripción. Un usuario acepta un contrato de servicio; un miembro firma una declaración de pertenencia a un pueblo que además tuvo ocasión de enmendar y que votó. Los usuarios no tienen derechos de gobierno sobre el operador; aquí cada cual tiene un voto igual e incomprable, desligado del pago y del capital. Un servicio extrae beneficio de los usuarios; aquí hay un fondo común y un circuito sin ánimo de lucro. Un servicio expulsa a su discreción; aquí la pertenencia es inalienable.
+Las diferencias con una «base de usuarios» son observables y verificables, sin una sola autodescripción. Un usuario acepta un contrato de servicio; un earthling firma una declaración de pertenencia a un pueblo que además tuvo ocasión de enmendar y que votó. Los usuarios no tienen derechos de gobierno sobre el operador; aquí cada cual tiene un voto igual e incomprable, desligado del pago y del capital. Un servicio extrae beneficio de los usuarios; aquí hay un fondo común y un circuito sin ánimo de lucro. Un servicio expulsa a su discreción; aquí la pertenencia es inalienable.
 
 Y lo decisivo: una base de usuarios no puede llevarse la plataforma y marcharse; un pueblo sí. El registro de pasaportes vive en la cadena y no en los servidores del operador, y la reconstitución está reconocida como continuación legítima; la comunidad posee la posibilidad de existir sin el operador.
 
@@ -172,7 +172,7 @@ Elegir una forma por sus consecuencias jurídicas es legítimo en todo el derech
 
 La instrumentalidad no es, en general, un vicio de los movimientos de libre determinación, sino su definición: el derecho es precisamente su fin. La Declaración de Independencia de los Estados Unidos es un documento de estatus abiertamente instrumental, que enumera de manera expresa las consecuencias jurídicas por las que se declara ese estatus: «declarar la guerra, concertar alianzas, comerciar». Según la lógica de la objeción, 1776 fue una ficción.
 
-Y lo principal: el criterio subjetivo es la conciencia de sí del grupo, y un grupo no es la estrategia del fundador, sino unas personas cada una de las cuales ha realizado un acto personal. Un miembro corriente no tiene nada que simular: el voto es incomprable, el fondo no tiene ánimo de lucro; un canal de extracción privada no existe por arquitectura. Simulación sería una voluntad ausente: firmas sin personas, un registro muerto. La determinación de la voluntad no puede suspender el criterio de la voluntad.
+Y lo principal: el criterio subjetivo es la conciencia de sí del grupo, y un grupo no es la estrategia del fundador, sino unas personas cada una de las cuales ha realizado un acto personal. Un participante corriente no tiene nada que simular: el voto es incomprable, el fondo no tiene ánimo de lucro; un canal de extracción privada no existe por arquitectura. Simulación sería una voluntad ausente: firmas sin personas, un registro muerto. La determinación de la voluntad no puede suspender el criterio de la voluntad.
 
 ---
 

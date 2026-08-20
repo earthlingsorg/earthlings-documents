@@ -40,7 +40,7 @@ This is the most important section of the document.
 
 **It is not an investment product.** No promises of future value, dividends, a share of income, or guaranteed liquidity are given, and none can be.
 
-**It is not credited for entry.** Neither entering the people, nor the membership contribution, nor undergoing identity verification creates or credits EC by itself.
+**It is not credited for entry.** Neither entering the people, nor the contribution on entry, nor undergoing identity verification creates or credits EC by itself.
 
 **It is not wages.** The Earthlings people is not an employer, and crediting EC creates no employment relationship. Whether a particular arrangement is recognized as an employment relationship is determined by the legislation of the participant's country, not by this document.
 

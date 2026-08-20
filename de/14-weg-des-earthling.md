@@ -101,7 +101,7 @@ In der Regel entwerten nur Sie selbst den Pass. Die Charta (Artikel 21) legt **z
 
 Das ist keine Sanktion für ein Verhalten und kein Ausschluss aus dem Volk: Festgestellt wird nur, dass die Ausgabe von Anfang an nicht rechtmäßig zustande gekommen ist. Das Verfahren schützt Sie bei jedem Schritt - Benachrichtigung, Frist für Einwendungen, Stellungnahme des Unabhängigen Rates, geheime Abstimmung mit erhöhter Mehrheit, Beschwerderecht; Fristen und Schwellen sind in der [Charta, Artikel 21](https://earth-lings.org/documents/de/de05-charta.html) festgelegt. Ist das Hindernis für eine rechtmäßige Ausgabe beseitigt, so sind Sie befugt, die Prüfung unter den allgemeinen Voraussetzungen erneut zu durchlaufen.
 
-**2. Die technische Neuausgabe.** Auf **Ihren eigenen Antrag** bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags. Der Pass wird entwertet und sogleich neu ausgegeben; **die Mitgliedschaft wird nicht unterbrochen**, eine Abstimmung ist nicht erforderlich.
+**2. Die technische Neuausgabe.** Auf **Ihren eigenen Antrag** bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags. Der Pass wird entwertet und sogleich neu ausgegeben; **die Zugehörigkeit wird nicht unterbrochen**, eine Abstimmung ist nicht erforderlich.
 
 Andere Gründe gibt es nicht. Der Tod des Inhabers steht nicht unter ihnen: Die Zugehörigkeit endet von selbst, ohne jemandes Entscheidung, und der Pass bleibt im Register. Das Volk hat keinen Zugang zu den Sterberegistern der ganzen Welt, und ein solcher Grund stützte sich auf Angaben, die sich mit nichts überprüfen lassen.
 

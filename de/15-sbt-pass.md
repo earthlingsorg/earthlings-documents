@@ -16,7 +16,7 @@ Anders als staatliche Pässe, die an ein Gebiet gebunden sind und eine Staatsang
 
 **Der kryptografische Schutz.** Der Eintrag wird in einem verteilten Netz aufbewahrt und kann weder gefälscht noch unbemerkt geändert werden.
 
-**Die Gleichheit.** Alle erhalten denselben Pass mit denselben Rechten. Bevorrechtigte Klassen und Stufen der Mitgliedschaft gibt es nicht. Ein Mensch - ein Pass - eine Stimme.
+**Die Gleichheit.** Alle erhalten denselben Pass mit denselben Rechten. Bevorrechtigte Klassen und Stufen der Zugehörigkeit gibt es nicht. Ein Mensch - ein Pass - eine Stimme.
 
 ---
 
@@ -157,7 +157,7 @@ Die technischen Befugnisse des Betreibers sind auf die Ausführung eines bereits
 
 ### 2. Die technische Neuausgabe
 
-Auf **Antrag des Inhabers selbst** bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags. Der Pass wird entwertet und sogleich an dieselbe oder an eine neue Adresse neu ausgegeben. **Die Mitgliedschaft wird nicht unterbrochen**, eine Abstimmung ist nicht erforderlich.
+Auf **Antrag des Inhabers selbst** bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags. Der Pass wird entwertet und sogleich an dieselbe oder an eine neue Adresse neu ausgegeben. **Die Zugehörigkeit wird nicht unterbrochen**, eine Abstimmung ist nicht erforderlich.
 
 ### Der Grundsatz der Unveräußerlichkeit
 
@@ -169,7 +169,7 @@ Werden für grobe Verletzungen der allgemeinen Regeln beschränkende Maßnahmen 
 
 - die Entwertung wird durch die Funktion `burn` des Smart Contracts ausgeführt;
 - die Daten des Passes werden aus dem geltenden Register des Vertrags gelöscht;
-- in der unabänderlichen Geschichte bleibt ein pseudonymer Vermerk darüber, dass der Pass bestand und entwertet wurde: Das ist eine Tatsache der Vergangenheit und keine fortdauernde Mitgliedschaft;
+- in der unabänderlichen Geschichte bleibt ein pseudonymer Vermerk darüber, dass der Pass bestand und entwertet wurde: Das ist eine Tatsache der Vergangenheit und keine fortdauernde Zugehörigkeit;
 - wirkliche personenbezogene Daten stehen im Register nicht;
 - für einen erneuten Beitritt wird das vollständige Verfahren durchlaufen und ein neuer Pass ausgegeben.
 

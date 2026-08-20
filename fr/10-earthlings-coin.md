@@ -40,7 +40,7 @@ C'est la section la plus importante du document.
 
 **Il n'est pas un produit d'investissement.** Aucune promesse de valeur future, de dividende, de part des revenus ou de liquidité garantie n'est faite ni ne peut l'être.
 
-**Il n'est pas attribué pour l'adhésion.** Ni l'adhésion au peuple, ni la cotisation de membre, ni le passage de la vérification d'identité ne créent ni n'attribuent d'EC par eux-mêmes.
+**Il n'est pas attribué pour l'adhésion.** Ni l'adhésion au peuple, ni la cotisation d'entrée, ni le passage de la vérification d'identité ne créent ni n'attribuent d'EC par eux-mêmes.
 
 **Il n'est pas un salaire.** Le peuple des Earthlings n'agit pas comme employeur, et l'attribution d'EC ne crée pas de relation de travail. Le point de savoir si un accord déterminé est reconnu comme une relation de travail est réglé par la législation du pays du participant, non par le présent document.
 

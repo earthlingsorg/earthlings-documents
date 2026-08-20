@@ -218,7 +218,7 @@ The lawfulness of what the Earthlings people does rests on freedom of associatio
 
 ### The Characteristics of the Earthlings People
 
-This Declaration proceeds from the position that the decisive characteristic of a people is not the descent of its members but the existence of a durable community possessing a common identity, a common will and its own institutions of self-governance. This is our position, not a generally accepted legal test.
+This Declaration proceeds from the position that the decisive characteristic of a people is not the descent of individuals but the existence of a durable community possessing a common identity, a common will and its own institutions of self-governance. This is our position, not a generally accepted legal test.
 
 The Earthlings people possesses these characteristics. Its common identity is established by this Declaration. Its common will is expressed through voluntary accession and the equal participation of each. Its institutions of self-governance are constituted by this Declaration and operate in the manner it establishes.
 
