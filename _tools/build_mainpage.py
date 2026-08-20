@@ -54,6 +54,7 @@ ONWARD_TEXT_BY_LANG = {
     'fr': 'Nous nous choisissons les uns les autres.',
     'es': 'Nos elegimos unos a otros.',
     'ka': 'ჩვენ ვირჩევთ ერთმანეთს.',
+    'zh': '我们彼此选择。',
 }
 
 # Подпись под Манифестом. Манифест подписывают его авторы, а не народ
@@ -65,6 +66,7 @@ SIGN_BY_LANG = {
     'fr': "L'équipe Earthlings",
     'es': 'El equipo Earthlings',
     'ka': 'Earthlings-ის გუნდი',
+    'zh': 'Earthlings 团队',
 }
 
 # Ссылка на PDF. Файла для языка нет - блок не выводится, битой ссылки не будет.
@@ -75,6 +77,8 @@ PDF_BY_LANG = {
     'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', 'Télécharger le Manifeste en PDF'),
     'es': ('/downloads/manifiesto-de-la-pertenencia-es.pdf', 'Descargar el Manifiesto en PDF'),
     'ka': ('/downloads/manifesto-of-belonging-ka.pdf', 'ჩამოტვირთეთ მანიფესტი PDF-ად'),
+    # zh: PDF не собран - в _tools/fonts нет CJK-глифов, нужен субсет
+    # Noto Serif SC. Без записи кнопка не рисуется, и это верно.
 }
 
 PDF_SVG = ('<svg viewBox="0 0 16 19" fill="none" stroke="currentColor" stroke-width="1.3" '
