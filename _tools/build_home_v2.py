@@ -107,7 +107,7 @@ LEGAL_LEAD_DOC = '30'
 SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
         'de': u'Das Earthlings-Team', 'fr': u"L'équipe Earthlings",
         'es': u'El equipo Earthlings', 'ka': u'Earthlings-ის გუნდი',
-        'zh': u'Earthlings 团队'}
+        'zh': u'Earthlings 团队', 'ar': u'فريق Earthlings'}
 
 PDF = {
     'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', u'Скачать Манифест в PDF'),
@@ -410,7 +410,19 @@ def ladder(lang):
     assert sep, u'в абзаце форм (%s) нет двоеточия' % lang
     enum, sep2, tail = rest.partition(' - ')
     assert sep2, u'в абзаце форм (%s) нет тире после перечисления' % lang
-    forms = [x.strip() for x in enum.split(',') if x.strip()]
+    # Запятая у языков разная. Арабская ، (U+060C) и китайская 、 (U+3001) -
+    # не «красивые варианты» ASCII-запятой, а единственно правильные знаки
+    # своего набора, и разбор обязан знать все три. Китайский мастер обошёл
+    # это ASCII-запятыми в одном абзаце; повторять обход для арабского нельзя -
+    # ASCII-запятая в арабской строке читается как опечатка.
+    #
+    # И ещё одно, чего нет ни у одного прежнего языка: арабский соединяет
+    # однородные члены союзом و перед КАЖДЫМ, начиная со второго -
+    # «الزواج، والشركة، والجماعة». Союз принадлежит перечислению, а не слову,
+    # и в ступень лестницы попадать не должен: там стоит название формы.
+    forms = [x.strip() for x in re.split(u'[,،、]', enum) if x.strip()]
+    if lang == 'ar':
+        forms = [re.sub(u'^و(?=\\S)', u'', f) for f in forms]
     assert len(forms) == 8, (
         u'в мастере 04 (%s) форм %d, а не 8: %r. Абзац правили - проверьте '
         u'разбор.' % (lang, len(forms), forms))
