@@ -2,7 +2,7 @@
 
 **Institución de confianza del pueblo Earthlings**
 
-> El presente documento detalla el artículo 4 de la Carta del pueblo Earthlings, que define la condición, las facultades y el modo de formación del Consejo Independiente. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración.
+> El presente documento detalla el artículo 4 de la Carta del pueblo Earthlings, que define la condición, las facultades y el modo de formación del Consejo Independiente. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/es/es05-carta.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración.
 >
 > **Estado a día de hoy.** El Consejo está previsto en los documentos constitutivos y se forma a medida que crece el pueblo. Hasta su formación, las fases de los procedimientos que prevén su intervención se omiten, y los plazos de debate público de las cuestiones correspondientes se duplican (Carta, artículo 39). La formación del Consejo es una de las cuatro condiciones para concluir la etapa de formación de las estructuras.
 

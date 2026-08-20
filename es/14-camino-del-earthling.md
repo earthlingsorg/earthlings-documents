@@ -2,7 +2,7 @@
 
 **Guía práctica**
 
-> El presente documento describe el procedimiento de adhesión y de cambio de condición. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración.
+> El presente documento describe el procedimiento de adhesión y de cambio de condición. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/es/es05-carta.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración.
 
 ---
 
@@ -36,7 +36,7 @@ No existen otras condiciones. La adscripción étnica, la raza, la religión, el
 
 **6. Obtención del pasaporte.** Un pasaporte digital intransmisible se emite de manera automática en su dirección y acredita su condición de participante.
 
-> **Qué ocurre con su biometría.** Las imágenes originales y los escaneos de los documentos **no se conservan** tras la comprobación. Qué queda exactamente y para qué está en la [Política de verificación biométrica](https://earth-lings.org/documents/ru/ru16-biometricheskaya-verifikaciya.html).
+> **Qué ocurre con su biometría.** Las imágenes originales y los escaneos de los documentos **no se conservan** tras la comprobación. Qué queda exactamente y para qué está en la [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html).
 
 ---
 
@@ -44,7 +44,7 @@ No existen otras condiciones. La adscripción étnica, la raza, la religión, el
 
 **A usted no se le puede expulsar.** No existe procedimiento de expulsión del pueblo Earthlings en ninguna circunstancia y para ninguna mayoría. La pertenencia cesa únicamente por decisión suya.
 
-**Su voto no se le puede retirar por cómo piensa y cómo vota.** Ni por las opiniones, ni por el sentido del voto, ni por el desacuerdo con las decisiones, ni como medida general de responsabilidad. La única excepción es un ataque probado al mecanismo mismo de la votación; el procedimiento y los plazos están establecidos en la [Carta, artículo 22 bis](https://earth-lings.org/documents/ru/ru05-ustav.html).
+**Su voto no se le puede retirar por cómo piensa y cómo vota.** Ni por las opiniones, ni por el sentido del voto, ni por el desacuerdo con las decisiones, ni como medida general de responsabilidad. La única excepción es un ataque probado al mecanismo mismo de la votación; el procedimiento y los plazos están establecidos en la [Carta, artículo 22 bis](https://earth-lings.org/documents/es/es05-carta.html).
 
 **Su voto equivale a cualquier otro.** No depende ni del dinero, ni de la reputación, ni de la antigüedad, ni de la cantidad de unidades de cuenta en su saldo.
 
@@ -75,7 +75,7 @@ Dentro del pueblo el pasaporte lo da todo: voto igual, participación en las dec
 - participar de buena fe en las votaciones;
 - actuar con transparencia en la realización de los proyectos y rendir cuentas del uso de los fondos comunes.
 
-Son deberes, y no condiciones para conservar su condición de earthling: infringirlos no acarrea ni expulsión ni pérdida del voto. Las medidas por infracciones graves afectan solo a la participación en las células - grupos pequeños de trabajo -, al derecho de presentar propuestas y al acceso a los servicios ([Carta, artículo 22](https://earth-lings.org/documents/ru/ru05-ustav.html)).
+Son deberes, y no condiciones para conservar su condición de earthling: infringirlos no acarrea ni expulsión ni pérdida del voto. Las medidas por infracciones graves afectan solo a la participación en las células - grupos pequeños de trabajo -, al derecho de presentar propuestas y al acceso a los servicios ([Carta, artículo 22](https://earth-lings.org/documents/es/es05-carta.html)).
 
 ---
 
@@ -99,7 +99,7 @@ Por regla general el pasaporte solo lo destruye usted mismo. La Carta (artículo
 
 **1. Anulación de una emisión inválida.** Se aplica si se establece que a una misma persona se le ha emitido más de un pasaporte en vigor o que la comprobación se pasó con datos falsos o con la identidad de otra persona.
 
-No es una medida de responsabilidad por la conducta ni una expulsión del pueblo: solo se establece que la emisión no llegó a producirse válidamente. El procedimiento lo protege a usted en cada paso: notificación, plazo para objetar, dictamen del Consejo Independiente, votación secreta con mayoría reforzada, derecho de recurso; los plazos y los umbrales están establecidos en la [Carta, artículo 21](https://earth-lings.org/documents/ru/ru05-ustav.html). Si se ha removido el impedimento a una emisión válida, usted puede pasar la comprobación de nuevo en las condiciones generales.
+No es una medida de responsabilidad por la conducta ni una expulsión del pueblo: solo se establece que la emisión no llegó a producirse válidamente. El procedimiento lo protege a usted en cada paso: notificación, plazo para objetar, dictamen del Consejo Independiente, votación secreta con mayoría reforzada, derecho de recurso; los plazos y los umbrales están establecidos en la [Carta, artículo 21](https://earth-lings.org/documents/es/es05-carta.html). Si se ha removido el impedimento a una emisión válida, usted puede pasar la comprobación de nuevo en las condiciones generales.
 
 **2. Reemisión técnica.** A **solicitud suya** en caso de pérdida de acceso al monedero o de migración del contrato. El pasaporte se destruye y se emite de nuevo de inmediato; **la pertenencia no se interrumpe** y no hace falta votación.
 
@@ -109,11 +109,11 @@ No existen otros fundamentos. El fallecimiento del titular no figura entre ellos
 
 ## 8. Sobre la cuota
 
-Es única: tras obtener el pasaporte no hay pagos anuales ni mensuales. Ingresa en la caja común y se distribuye conforme a las partes publicadas en el documento [Tesorería](https://earth-lings.org/documents/ru/ru09-kaznachejstvo.html).
+Es única: tras obtener el pasaporte no hay pagos anuales ni mensuales. Ingresa en la caja común y se distribuye conforme a las partes publicadas en el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html).
 
 Las unidades de cuenta que usted haya recibido por su aportación siguen siendo de su propiedad y al salir no se confiscan ni se anulan.
 
-Más detalles sobre qué ocurre con el pasaporte y con los datos: [Pasaporte SBT earthling](https://earth-lings.org/documents/ru/ru15-sbt-pasport.html).
+Más detalles sobre qué ocurre con el pasaporte y con los datos: [Pasaporte SBT earthling](https://earth-lings.org/documents/es/es15-pasaporte-sbt.html).
 
 ---
 

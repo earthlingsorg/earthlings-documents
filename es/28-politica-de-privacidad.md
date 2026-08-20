@@ -2,7 +2,7 @@
 
 **En vigor desde el momento de su publicación**
 
-> En caso de discrepancia de la presente Política con la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración. El tratamiento de los datos biométricos está descrito aparte, en la [Política de verificación biométrica](https://earth-lings.org/documents/ru/ru16-biometricheskaya-verifikaciya.html), y en caso de discrepancia sobre esa materia se aplica ella.
+> En caso de discrepancia de la presente Política con la [Carta](https://earth-lings.org/documents/es/es05-carta.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. El tratamiento de los datos biométricos está descrito aparte, en la [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html), y en caso de discrepancia sobre esa materia se aplica ella.
 
 ## Nuestros principios
 
@@ -52,7 +52,7 @@ El nombre y los apellidos reales **no se conservan**.
 
 > **Con precisión, sobre la condición de los hashes.** Un hash es irreversible: de él no se puede leer el nombre ni el número del documento. Pero permite distinguir a una persona concreta entre otras; de lo contrario no cumpliría su tarea. Por eso son datos **seudonimizados y no anónimos**, y la protección de datos personales se les aplica en su totalidad.
 
-Los detalles están en la [Política de verificación biométrica](https://earth-lings.org/documents/ru/ru16-biometricheskaya-verifikaciya.html).
+Los detalles están en la [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html).
 
 ## Datos técnicos
 

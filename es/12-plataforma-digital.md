@@ -110,13 +110,13 @@ El área personal es el punto principal de contacto de la persona con el ecosist
 - participación en votaciones, en la medida establecida por las reglas de apertura y secreto (sección 06);
 - marcas de reconocimiento recibidas.
 
-> **Las marcas de reconocimiento no influyen en nada** y siguen siendo exclusivamente informativas ([Carta, artículo 8](https://earth-lings.org/documents/ru/ru05-ustav.html)). La plataforma no puede emplear indicadores de reputación como condición de acceso a ninguna función.
+> **Las marcas de reconocimiento no influyen en nada** y siguen siendo exclusivamente informativas ([Carta, artículo 8](https://earth-lings.org/documents/es/es05-carta.html)). La plataforma no puede emplear indicadores de reputación como condición de acceso a ninguna función.
 
 ### Qué no hay en el área personal
 
 Los datos del documento de identidad, la biometría y los atributos jurídicos sensibles no se muestran ni se conservan. Quedan en el sistema de verificación de identidad y no se guardan tras la comprobación. La plataforma trabaja con el seudónimo, con la marca de pasaporte y con indicadores agregados de participación.
 
-Las fotografías y los escaneos no se conservan; la biometría se trata solo en el momento de la comprobación. Qué se conserva exactamente para impedir un registro repetido está en la [Política de verificación biométrica](https://earth-lings.org/documents/ru/ru16-biometricheskaya-verifikaciya.html).
+Las fotografías y los escaneos no se conservan; la biometría se trata solo en el momento de la comprobación. Qué se conserva exactamente para impedir un registro repetido está en la [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html).
 
 ---
 
@@ -152,7 +152,7 @@ El único caso en que la plataforma ejecuta una suspensión del voto es una deci
 
 Por regla general las votaciones son abiertas: el hecho de la participación y la expresión de la voluntad están disponibles para su verificación por todos los participantes. La apertura es el modo de comprobar que el recuento es honesto.
 
-Pero la transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas. Por eso la plataforma está obligada a soportar el **voto secreto con recuento verificable**: el resultado lo verifican todos y el vínculo entre el voto y quien vota no se revela a nadie, incluidos quienes operan la plataforma. Cuándo se aplica el modo secreto: [Carta, artículo 6](https://earth-lings.org/documents/ru/ru05-ustav.html).
+Pero la transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas. Por eso la plataforma está obligada a soportar el **voto secreto con recuento verificable**: el resultado lo verifican todos y el vínculo entre el voto y quien vota no se revela a nadie, incluidos quienes operan la plataforma. Cuándo se aplica el modo secreto: [Carta, artículo 6](https://earth-lings.org/documents/es/es05-carta.html).
 
 El voto secreto se aplica:
 
@@ -289,4 +289,4 @@ La división entre lo construido y lo pendiente se expone con honestidad: la inf
 
 Para relacionarse con la infraestructura jurídica, administrativa y financiera tradicional, el pueblo Earthlings emplea instrumentos jurídicos inscritos en distintas jurisdicciones. Tales instrumentos son medios operativos sustituibles de relación externa y no definen al pueblo.
 
-Las personas que actúan a través de esos instrumentos ejecutan un encargo de la Asamblea, revocable en cualquier momento por mayoría simple, y no constituyen cargos. El modelo jurídico detallado está en el documento [Base jurídica](https://earth-lings.org/documents/ru/ru04-pravovoe-obosnovanie.html).
+Las personas que actúan a través de esos instrumentos ejecutan un encargo de la Asamblea, revocable en cualquier momento por mayoría simple, y no constituyen cargos. El modelo jurídico detallado está en el documento [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html).

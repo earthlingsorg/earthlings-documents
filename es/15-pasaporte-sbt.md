@@ -2,7 +2,7 @@
 
 **Acreditación digital de la pertenencia al pueblo Earthlings**
 
-> El presente documento describe la arquitectura y el significado jurídico del pasaporte. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración. El procedimiento de adhesión está descrito en el documento [El camino del earthling](https://earth-lings.org/documents/ru/ru14-put-earthling.html).
+> El presente documento describe la arquitectura y el significado jurídico del pasaporte. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/es/es05-carta.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. El procedimiento de adhesión está descrito en el documento [El camino del earthling](https://earth-lings.org/documents/es/es14-camino-del-earthling.html).
 
 ---
 
@@ -28,7 +28,7 @@ A diferencia de los pasaportes estatales, ligados a un territorio y acreditativo
 - presentación de propuestas e iniciativas;
 - participación en las decisiones sobre cualquier cuestión.
 
-> **El voto es inalienable** y no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad (Declaración, artículo 10; [Carta, artículos 17 y 37](https://earth-lings.org/documents/ru/ru05-ustav.html)). El voto es el contenido de la pertenencia: al retirarlo por tales fundamentos, el pueblo estaría expulsando a la persona dejándole solo el nombre.
+> **El voto es inalienable** y no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad (Declaración, artículo 10; [Carta, artículos 17 y 37](https://earth-lings.org/documents/es/es05-carta.html)). El voto es el contenido de la pertenencia: al retirarlo por tales fundamentos, el pueblo estaría expulsando a la persona dejándole solo el nombre.
 
 La única excepción son los actos probados dirigidos a socavar la integridad de la votación misma: concierto, compra o venta de un voto, coacción a otros, elusión de la regla «una persona, un pasaporte» (Carta, artículo 22 bis). Las opiniones, el sentido del voto y el desacuerdo con las decisiones no son fundamento, sea cual sea su presentación.
 
@@ -49,7 +49,7 @@ La única excepción son los actos probados dirigidos a socavar la integridad de
 
 El historial de participación y de aportación se hace constar públicamente: votaciones, proyectos concluidos, trabajo en las células.
 
-> **Esas marcas no influyen en nada** y tienen carácter exclusivamente informativo: [Carta, artículo 8](https://earth-lings.org/documents/ru/ru05-ustav.html).
+> **Esas marcas no influyen en nada** y tienen carácter exclusivamente informativo: [Carta, artículo 8](https://earth-lings.org/documents/es/es05-carta.html).
 
 ---
 
@@ -114,7 +114,7 @@ Esto importa entenderlo antes de adherirse, y no después.
 - **no exime** de cumplir las leyes del país de residencia;
 - **no crea derechos en el derecho internacional.**
 
-El pasaporte documenta lo que documenta, y no es poco: una persona concreta ha sido verificada como viva y única y ha firmado la Declaración. Dentro del pueblo de ahí se sigue todo: voto igual, participación en las decisiones, pertenencia inalienable. Qué significa ese conjunto para el derecho internacional es objeto de un examen aparte en los documentos [Base jurídica](https://earth-lings.org/documents/ru/ru04-pravovoe-obosnovanie.html) y [Objeciones jurídicas](https://earth-lings.org/documents/ru/ru26-pravovye-vozrazheniya.html), donde se recogen también los argumentos en contra.
+El pasaporte documenta lo que documenta, y no es poco: una persona concreta ha sido verificada como viva y única y ha firmado la Declaración. Dentro del pueblo de ahí se sigue todo: voto igual, participación en las decisiones, pertenencia inalienable. Qué significa ese conjunto para el derecho internacional es objeto de un examen aparte en los documentos [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html) y [Objeciones jurídicas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html), donde se recogen también los argumentos en contra.
 
 ### Protección de datos
 
@@ -179,6 +179,6 @@ Al aplicarse medidas limitativas por infracciones graves de las reglas comunes, 
 
 A día de hoy el pueblo se desarrolla con los fondos de sus participantes: no se ha captado financiación externa.
 
-La Carta y el documento [Tesorería](https://earth-lings.org/documents/ru/ru09-kaznachejstvo.html) prevén la posibilidad de aceptar subvenciones y donaciones de organizaciones externas, con publicación obligatoria de la fuente, sin condiciones contrarias a los principios del pueblo y con una prohibición expresa: el donante no obtiene ni voto ni influencia sobre las decisiones. La cuantía de una donación no da nada.
+La Carta y el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html) prevén la posibilidad de aceptar subvenciones y donaciones de organizaciones externas, con publicación obligatoria de la fuente, sin condiciones contrarias a los principios del pueblo y con una prohibición expresa: el donante no obtiene ni voto ni influencia sobre las decisiones. La cuantía de una donación no da nada.
 
 Las cuotas de los participantes cubren el coste de la verificación de identidad y de la emisión de los pasaportes, el desarrollo de la infraestructura, el acompañamiento jurídico y el funcionamiento del ecosistema. Todas las decisiones de gasto se adoptan por votación de la Asamblea DAO y se publican.

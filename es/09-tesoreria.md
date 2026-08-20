@@ -2,7 +2,7 @@
 
 **Mecanismo financiero descentralizado del pueblo Earthlings**
 
-> El presente documento detalla la sección 03 de la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html). En caso de discrepancia se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración. Los umbrales, quórums y plazos los establece la Carta; el presente documento los reproduce y no puede modificarlos.
+> El presente documento detalla la sección 03 de la [Carta](https://earth-lings.org/documents/es/es05-carta.html). En caso de discrepancia se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. Los umbrales, quórums y plazos los establece la Carta; el presente documento los reproduce y no puede modificarlos.
 
 La Tesorería de los Earthlings es el mecanismo financiero del pueblo, gestionado mediante la votación de la Asamblea DAO y procedimientos transparentes. Sirve de base para la realización de proyectos, el desarrollo de la plataforma, las iniciativas educativas y la ayuda humanitaria.
 
@@ -166,7 +166,7 @@ La Asamblea DAO es el único órgano de gobierno de la Tesorería. Todas las dec
 
 **Uso:** información de referencia al elegir delegado; lista cronológica de propuestas, en la que la reputación del autor no influye en el lugar de la propuesta y el filtrado por reputación está disponible como modo de visualización que cada cual activa para sí.
 
-> **Qué no hace la reputación:** la lista está establecida de manera exhaustiva en la [Carta, artículo 8](https://earth-lings.org/documents/ru/ru05-ustav.html). Aplicado a la financiación, eso significa que el orden lo determina el número de quienes apoyan, y no la reputación del solicitante.
+> **Qué no hace la reputación:** la lista está establecida de manera exhaustiva en la [Carta, artículo 8](https://earth-lings.org/documents/es/es05-carta.html). Aplicado a la financiación, eso significa que el orden lo determina el número de quienes apoyan, y no la reputación del solicitante.
 
 ## Artículo 14. Delegación
 
@@ -200,7 +200,7 @@ Las cantidades umbral las establece una decisión de la Asamblea DAO y se modifi
 
 ## Artículo 16. Conflicto de intereses
 
-**Abstención obligatoria.** Un earthling no participa en una votación sobre distribución de fondos si tiene interés en su resultado. La lista cerrada de fundamentos de abstención y el modo de declararla están establecidos en la [Carta, artículo 16](https://earth-lings.org/documents/ru/ru05-ustav.html).
+**Abstención obligatoria.** Un earthling no participa en una votación sobre distribución de fondos si tiene interés en su resultado. La lista cerrada de fundamentos de abstención y el modo de declararla están establecidos en la [Carta, artículo 16](https://earth-lings.org/documents/es/es05-carta.html).
 
 No existen otros fundamentos para excluir un voto: por decisión de la mayoría el voto de un earthling no se excluye del recuento.
 

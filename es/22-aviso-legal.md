@@ -6,7 +6,7 @@
 >
 > **Fase.** El pueblo se encuentra en la etapa de formación de las estructuras. La infraestructura de autogobierno está construida y desplegada, y su llenado con práctica empieza a medida que crece el número de participantes. Lo expuesto a continuación describe la construcción jurídica y sus límites, y no una escala alcanzada.
 >
-> La fundamentación desarrollada está en el documento [Base jurídica](https://earth-lings.org/documents/ru/ru04-pravovoe-obosnovanie.html), y los argumentos contra nuestra posición, en el documento [Objeciones y respuestas](https://earth-lings.org/documents/ru/ru26-pravovye-vozrazheniya.html). En caso de discrepancia se aplican la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html) y la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html).
+> La fundamentación desarrollada está en el documento [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), y los argumentos contra nuestra posición, en el documento [Objeciones y respuestas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html). En caso de discrepancia se aplican la [Carta](https://earth-lings.org/documents/es/es05-carta.html) y la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html).
 
 ---
 
@@ -27,7 +27,7 @@ El pueblo Earthlings se apoya en dos normas vigentes de derecho internacional:
 
 Ambas normas están vigentes y obligan a los Estados.
 
-> **Qué no está resuelto con ello.** La libertad de asociación protege el acto constitutivo: las personas pueden asociarse y declarar qué consideran ser. No atribuye al resultado una condición. Si una comunidad no territorial constituida voluntariamente es un pueblo en el sentido del derecho internacional es una cuestión que el derecho no ha resuelto, y no la presentamos como resuelta. Las objeciones contra nuestra posición están expuestas en nuestros propios documentos con toda su fuerza y sin suavizar: [Base jurídica](https://earth-lings.org/documents/ru/ru04-pravovoe-obosnovanie.html), [Objeciones y respuestas](https://earth-lings.org/documents/ru/ru26-pravovye-vozrazheniya.html).
+> **Qué no está resuelto con ello.** La libertad de asociación protege el acto constitutivo: las personas pueden asociarse y declarar qué consideran ser. No atribuye al resultado una condición. Si una comunidad no territorial constituida voluntariamente es un pueblo en el sentido del derecho internacional es una cuestión que el derecho no ha resuelto, y no la presentamos como resuelta. Las objeciones contra nuestra posición están expuestas en nuestros propios documentos con toda su fuerza y sin suavizar: [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), [Objeciones y respuestas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html).
 
 El pueblo Earthlings existe de hecho, y su existencia no se hace depender de un acto de reconocimiento: no existe para nadie un órgano que reconozca pueblos, no hay registro de pueblos y ningún pueblo ha pasado por tal procedimiento. El pueblo busca la **discernibilidad jurídica**: que se le trate como pueblo allí donde surgen cuestiones concretas, en los foros, en las consultas, en los procedimientos. La discernibilidad se acumula con la práctica, el tiempo, el número de participantes y el trabajo jurídico. Hoy está al comienzo del camino, y el pueblo no crea por ahora derecho alguno en el derecho internacional.
 

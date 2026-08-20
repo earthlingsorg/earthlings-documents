@@ -37,7 +37,7 @@ Earthlings no ofrece un manifiesto con tecnología adjunta, sino una institució
 
 El corpus constitutivo lo ha escrito Artur Arakelyan. Es una versión propuesta al debate, y no un texto cerrado que solo reste adoptar.
 
-Cualquiera puede proponer una enmienda a cualquier documento, y los textos adquieren fuerza no por su autoría, sino por la votación: este pueblo no lo constituirá quien redactó los documentos, sino quienes voten a favor de ellos. El procedimiento está descrito en el documento [El período constituyente](/documents/ru/ru20-uchreditelnyj-period.html).
+Cualquiera puede proponer una enmienda a cualquier documento, y los textos adquieren fuerza no por su autoría, sino por la votación: este pueblo no lo constituirá quien redactó los documentos, sino quienes voten a favor de ellos. El procedimiento está descrito en el documento [El período constituyente](/documents/es/es20-periodo-constituyente.html).
 
 ## Arquitectura de gobierno
 
@@ -60,11 +60,11 @@ Los Core Nodes aseguran la coordinación técnica y se renuevan por rotación.
 
 El Emergency Multisig asegura la protección de la infraestructura frente a exploits y amenazas críticas, también con rotación.
 
-El Consejo Independiente formula recomendaciones de expertos y dictámenes consultivos ([más detalles](https://earth-lings.org/documents/ru/ru11-nezavisimyj-sovet.html)).
+El Consejo Independiente formula recomendaciones de expertos y dictámenes consultivos ([más detalles](https://earth-lings.org/documents/es/es11-consejo-independiente.html)).
 
 Si se mira no a los papeles internos, sino a aquello con lo que Earthlings actúa hacia fuera, los elementos clave son tres: la DAO, los instrumentos jurídicos y el Consejo Independiente. Aseguran el autogobierno colectivo, la relación jurídica externa y la consulta experta.
 
-Las funciones de SERVICIO y de SEGURIDAD las realizan órganos técnicos aparte, descritos con detalle en los documentos [DAO Earthlings](/documents/ru/ru07-dao.html) y [Plataforma digital](/documents/ru/ru12-cifrovaya-platforma.html).
+Las funciones de SERVICIO y de SEGURIDAD las realizan órganos técnicos aparte, descritos con detalle en los documentos [DAO Earthlings](/documents/es/es07-dao.html) y [Plataforma digital](/documents/es/es12-plataforma-digital.html).
 
 ### La DAO
 
@@ -83,7 +83,7 @@ La DAO se apoya en tres principios fundamentales:
 - el principio «una persona, un voto»;
 - unas reglas de procedimiento transparentes, aplicables por igual a todos.
 
-La descripción detallada de la arquitectura de la DAO, de los niveles de participación, de los procedimientos de decisión y de los mecanismos de protección frente a la captura está en el documento [DAO Earthlings](/documents/ru/ru07-dao.html).
+La descripción detallada de la arquitectura de la DAO, de los niveles de participación, de los procedimientos de decisión y de los mecanismos de protección frente a la captura está en el documento [DAO Earthlings](/documents/es/es07-dao.html).
 
 ### Los instrumentos jurídicos (interfaz jurídica externa)
 
@@ -105,11 +105,11 @@ Tales estructuras sirven exclusivamente de medios operativos sustituibles de rel
 
 Los fondos benéficos y de subvención externos, cuando se reciben, pasan por un patrocinador fiscal independiente como receptor jurídico; las estructuras jurídicas de Earthlings no aceptan ni retienen tales fondos en nombre del pueblo.
 
-El modelo jurídico detallado está expuesto en el documento [Base jurídica](/documents/ru/ru04-pravovoe-obosnovanie.html).
+El modelo jurídico detallado está expuesto en el documento [Base jurídica](/documents/es/es04-base-juridica.html).
 
 ### El Consejo Independiente
 
-El Consejo Independiente, según lo descrito en la «Carta de los Earthlings» y en el documento específico [Consejo Independiente de los Earthlings](/documents/ru/ru11-nezavisimyj-sovet.html), está concebido como un órgano de siete a once earthlings expertos en los ámbitos siguientes, que no participen en la gestión operativa del pueblo:
+El Consejo Independiente, según lo descrito en la «Carta de los Earthlings» y en el documento específico [Consejo Independiente de los Earthlings](/documents/es/es11-consejo-independiente.html), está concebido como un órgano de siete a once earthlings expertos en los ámbitos siguientes, que no participen en la gestión operativa del pueblo:
 
 - el medio ambiente;
 - el derecho;
@@ -140,7 +140,7 @@ A día de hoy no se ha captado financiación externa.
 
 Las estructuras jurídicas de Earthlings no funcionan como intermediarios financieros: no prestan servicios de pago, no captan ni colocan fondos de terceros y no realizan operaciones de negociación en interés de nadie.
 
-Los detalles están expuestos en el documento [Base jurídica](/documents/ru/ru04-pravovoe-obosnovanie.html).
+Los detalles están expuestos en el documento [Base jurídica](/documents/es/es04-base-juridica.html).
 
 ## Transparencia de la caja
 

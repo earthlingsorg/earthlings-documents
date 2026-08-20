@@ -2,7 +2,7 @@
 
 **En vigor desde el momento de su publicación**
 
-> En caso de discrepancia de la presente Política con la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración. Las reglas generales de tratamiento de datos personales están en la [Política de privacidad](https://earth-lings.org/documents/ru/ru28-politika-konfidencialnosti.html).
+> En caso de discrepancia de la presente Política con la [Carta](https://earth-lings.org/documents/es/es05-carta.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. Las reglas generales de tratamiento de datos personales están en la [Política de privacidad](https://earth-lings.org/documents/es/es28-politica-de-privacidad.html).
 
 ## Lo esencial, en breve
 
@@ -85,7 +85,7 @@ La lista completa y las bases jurídicas están en la Política de privacidad. P
 - **acceso a la infraestructura**: participación en proyectos, servicios, coordinación;
 - **derecho a presentar propuestas** y a participar en las decisiones sobre cualquier cuestión.
 
-> **Qué no da esa condición.** El pasaporte no da nacionalidad ni residencia, ni derechos de visado, ni eficacia ante las instituciones estatales, y no sustituye a los documentos de su país. El pueblo Earthlings no tiene personalidad jurídica internacional y no puede representar los intereses de nadie ante los tribunales o ante los órganos del Estado. La lista completa está en los documentos [El camino del earthling](https://earth-lings.org/documents/ru/ru14-put-earthling.html) y [Pasaporte SBT](https://earth-lings.org/documents/ru/ru15-sbt-pasport.html).
+> **Qué no da esa condición.** El pasaporte no da nacionalidad ni residencia, ni derechos de visado, ni eficacia ante las instituciones estatales, y no sustituye a los documentos de su país. El pueblo Earthlings no tiene personalidad jurídica internacional y no puede representar los intereses de nadie ante los tribunales o ante los órganos del Estado. La lista completa está en los documentos [El camino del earthling](https://earth-lings.org/documents/es/es14-camino-del-earthling.html) y [Pasaporte SBT](https://earth-lings.org/documents/es/es15-pasaporte-sbt.html).
 
 ---
 
@@ -177,7 +177,7 @@ La lista es exhaustiva: no se realiza tratamiento con otros fines.
 
 El código del contrato inteligente del pasaporte es abierto bajo licencia MIT y verificable en el explorador de la red.
 
-**El código del sistema de verificación de identidad es cerrado**, precisamente porque trabaja con datos personales y su publicación facilitaría eludir la protección. Es una elección consciente y no un silencio; la lista con sus motivos está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/ru/ru32-gde-my-sejchas.html).
+**El código del sistema de verificación de identidad es cerrado**, precisamente porque trabaja con datos personales y su publicación facilitaría eludir la protección. Es una elección consciente y no un silencio; la lista con sus motivos está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html).
 
 A cambio de esa opacidad asumimos lo siguiente:
 
@@ -188,7 +188,7 @@ A cambio de esa opacidad asumimos lo siguiente:
 
 ## Supervisión independiente
 
-Las cuestiones de ética en el tratamiento de datos biométricos se someten al [Consejo Independiente](https://earth-lings.org/documents/ru/ru11-nezavisimyj-sovet.html), órgano no subordinado a quienes operan la plataforma. Hasta que el Consejo se constituya, tales cuestiones las examina la Asamblea DAO, y los plazos de debate público se duplican (Carta, artículo 39).
+Las cuestiones de ética en el tratamiento de datos biométricos se someten al [Consejo Independiente](https://earth-lings.org/documents/es/es11-consejo-independiente.html), órgano no subordinado a quienes operan la plataforma. Hasta que el Consejo se constituya, tales cuestiones las examina la Asamblea DAO, y los plazos de debate público se duplican (Carta, artículo 39).
 
 Las propuestas de modificación de la presente Política se someten a votación de la Asamblea.
 
@@ -247,7 +247,7 @@ Recibirá un aviso con los motivos. Se puede repetir el intento tras subsanarlos
 Nadie: no se conservan. El pueblo no puede técnicamente revelar datos de los que no dispone.
 
 **¿Entregan datos a los Estados?**
-Solo por una resolución judicial firme o un requerimiento legal equivalente; el procedimiento y el aviso al participante están descritos en la [Política de privacidad](https://earth-lings.org/documents/ru/ru28-politika-konfidencialnosti.html).
+Solo por una resolución judicial firme o un requerimiento legal equivalente; el procedimiento y el aviso al participante están descritos en la [Política de privacidad](https://earth-lings.org/documents/es/es28-politica-de-privacidad.html).
 
 ---
 

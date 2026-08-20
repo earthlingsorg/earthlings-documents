@@ -2,7 +2,7 @@
 
 **Earthlings-ის ხალხის მცირე გუნდებისა და საპროექტო კოოპერაციის სისტემა**
 
-> წინამდებარე დოკუმენტი დეტალურად გადმოსცემს [ქარტიის](https://earth-lings.org/documents/ru/ru05-ustav.html) 06 განყოფილებას. შეუსაბამობისას გამოიყენება ქარტია, ხოლო ქარტიის [დეკლარაციასთან](https://earth-lings.org/documents/ru/ru01-deklaraciya.html) შეუსაბამობისას - დეკლარაცია.
+> წინამდებარე დოკუმენტი დეტალურად გადმოსცემს [ქარტიის](https://earth-lings.org/documents/ka/ka05-charter.html) 06 განყოფილებას. შეუსაბამობისას გამოიყენება ქარტია, ხოლო ქარტიის [დეკლარაციასთან](https://earth-lings.org/documents/ka/ka01-declaration.html) შეუსაბამობისას - დეკლარაცია.
 
 ---
 

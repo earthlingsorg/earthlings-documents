@@ -2,7 +2,7 @@
 
 **De la fundación a la descentralización plena: principios, etapas y mecanismos de formación del pueblo Earthlings**
 
-> En caso de discrepancia del presente documento con la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración.
+> En caso de discrepancia del presente documento con la [Carta](https://earth-lings.org/documents/es/es05-carta.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración.
 
 ---
 
@@ -131,7 +131,7 @@ Se publica al menos una vez cada 90 días e incluye: el volumen total de ingreso
 
 ## Principios de desarrollo
 
-**Reproducibilidad.** El registro de pasaportes vive en una red distribuida y no en nuestros servidores: si la infraestructura se detiene o resulta capturada, la comunidad construirá una plataforma nueva contra ese mismo registro. La lista de lo abierto y lo cerrado con sus motivos está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/ru/ru32-gde-my-sejchas.html).
+**Reproducibilidad.** El registro de pasaportes vive en una red distribuida y no en nuestros servidores: si la infraestructura se detiene o resulta capturada, la comunidad construirá una plataforma nueva contra ese mismo registro. La lista de lo abierto y lo cerrado con sus motivos está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html).
 
 **Modularidad.** Los componentes se sustituyen sin rehacer todo el sistema.
 

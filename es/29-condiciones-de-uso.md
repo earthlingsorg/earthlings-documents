@@ -2,7 +2,7 @@
 
 **En vigor desde el momento de su publicación**
 
-> En caso de discrepancia de las presentes Condiciones con la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración. El tratamiento de los datos está descrito en la [Política de privacidad](https://earth-lings.org/documents/ru/ru28-politika-konfidencialnosti.html).
+> En caso de discrepancia de las presentes Condiciones con la [Carta](https://earth-lings.org/documents/es/es05-carta.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. El tratamiento de los datos está descrito en la [Política de privacidad](https://earth-lings.org/documents/es/es28-politica-de-privacidad.html).
 
 ## Lo esencial en unos pocos puntos
 
@@ -37,7 +37,7 @@ Si algo no está claro o resulta inaceptable, escríbanos. Las propuestas de mod
 
 Earthlings es un pueblo transnacional que se ha determinado a sí mismo y que existe de hecho sobre la base de la Declaración sobre la libre determinación. Nos unen valores comunes, y no un territorio o un origen.
 
-El pueblo existe y se desarrolla con su infraestructura, su gobierno y su identidad con independencia de cómo lo califique con el tiempo el derecho internacional: no existe para nadie un órgano que reconozca pueblos. La discernibilidad jurídica - que se trate al pueblo como pueblo allí donde surge una cuestión concreta - se acumula con la práctica, el tiempo y el número de participantes. Cómo funciona esto y qué se dice en contra nuestra: [Base jurídica](https://earth-lings.org/documents/ru/ru04-pravovoe-obosnovanie.html), [Objeciones jurídicas](https://earth-lings.org/documents/ru/ru26-pravovye-vozrazheniya.html).
+El pueblo existe y se desarrolla con su infraestructura, su gobierno y su identidad con independencia de cómo lo califique con el tiempo el derecho internacional: no existe para nadie un órgano que reconozca pueblos. La discernibilidad jurídica - que se trate al pueblo como pueblo allí donde surge una cuestión concreta - se acumula con la práctica, el tiempo y el número de participantes. Cómo funciona esto y qué se dice en contra nuestra: [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), [Objeciones jurídicas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html).
 
 > **La pertenencia al pueblo es adicional, no sustitutiva.** No deroga su nacionalidad y no exige renunciar a ella.
 
@@ -170,7 +170,7 @@ Un identificador digital intransmisible de la pertenencia al pueblo, que existe 
 
 Usted destruye el pasaporte con su propia clave. Nadie puede impedirlo, incluido el fundador.
 
-La Carta (artículo 21) establece dos y solo dos excepciones en las que el pasaporte se destruye contra la voluntad de su titular: la anulación de una emisión inválida por decisión de la Asamblea con derecho de defensa y recurso; y la reemisión técnica a solicitud del propio titular. El fallecimiento del titular no es fundamento de destrucción: la pertenencia cesa por sí misma y el pasaporte permanece en el registro. Los detalles están en el documento [Pasaporte SBT earthling](https://earth-lings.org/documents/ru/ru15-sbt-pasport.html).
+La Carta (artículo 21) establece dos y solo dos excepciones en las que el pasaporte se destruye contra la voluntad de su titular: la anulación de una emisión inválida por decisión de la Asamblea con derecho de defensa y recurso; y la reemisión técnica a solicitud del propio titular. El fallecimiento del titular no es fundamento de destrucción: la pertenencia cesa por sí misma y el pasaporte permanece en el registro. Los detalles están en el documento [Pasaporte SBT earthling](https://earth-lings.org/documents/es/es15-pasaporte-sbt.html).
 
 ---
 
@@ -188,7 +188,7 @@ Earthlings Coin es una unidad utilitaria de la economía interna. No es una acci
 
 **En el futuro** es posible una disponibilidad bursátil, pero no está prometida y no es un fin. No convierte la unidad en un instrumento de inversión y no significa una promesa de aumento de valor: eso no lo da nadie en ningún desarrollo de los acontecimientos.
 
-Más detalles, en el documento [Earthlings Coin](https://earth-lings.org/documents/ru/ru10-earthlings-coin.html).
+Más detalles, en el documento [Earthlings Coin](https://earth-lings.org/documents/es/es10-earthlings-coin.html).
 
 ## Su responsabilidad
 
@@ -238,7 +238,7 @@ Las células son equipos pequeños de participantes que trabajan en proyectos co
 - **la financiación** se solicita de la caja común mediante votación de la Asamblea;
 - **la aportación a lo común**: el 5 por ciento del beneficio de la célula se destina a la caja.
 
-La salida de una célula es libre siempre y no afecta ni a la pertenencia al pueblo ni al derecho de voto. Más detalles, en el documento [Células de los Earthlings](https://earth-lings.org/documents/ru/ru08-soty.html).
+La salida de una célula es libre siempre y no afecta ni a la pertenencia al pueblo ni al derecho de voto. Más detalles, en el documento [Células de los Earthlings](https://earth-lings.org/documents/es/es08-celulas.html).
 
 ---
 

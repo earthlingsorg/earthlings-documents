@@ -2,7 +2,7 @@
 
 **Cómo el pueblo resuelve sus desacuerdos y a qué trato se atiene**
 
-> El presente documento es derivado. En caso de discrepancia con la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración.
+> El presente documento es derivado. En caso de discrepancia con la [Carta](https://earth-lings.org/documents/es/es05-carta.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración.
 >
 > **El presente documento no establece fundamentos para medida alguna.** La lista cerrada de esos fundamentos está en los artículos 22 y 22 bis de la Carta y no es ampliable, ni por el presente documento, ni por decisión, ni por práctica asentada.
 
@@ -136,9 +136,9 @@ El cuidado de la humanidad y del planeta, la consideración de los intereses de 
 
 # SECCIÓN 07. Datos y recursos
 
-Los datos personales de los participantes no se emplean con fines comerciales, políticos ni manipuladores. El consentimiento para su tratamiento es informado y voluntario, y el volumen de datos es mínimo. Los detalles están en la [Política de privacidad](https://earth-lings.org/documents/ru/ru28-politika-konfidencialnosti.html).
+Los datos personales de los participantes no se emplean con fines comerciales, políticos ni manipuladores. El consentimiento para su tratamiento es informado y voluntario, y el volumen de datos es mínimo. Los detalles están en la [Política de privacidad](https://earth-lings.org/documents/es/es28-politica-de-privacidad.html).
 
-La distribución de los fondos comunes se realiza conforme a las reglas establecidas en el documento [Tesorería](https://earth-lings.org/documents/ru/ru09-kaznachejstvo.html), de manera abierta y verificable. El presente documento no establece reglas propias de distribución.
+La distribución de los fondos comunes se realiza conforme a las reglas establecidas en el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html), de manera abierta y verificable. El presente documento no establece reglas propias de distribución.
 
 ---
 
@@ -158,7 +158,7 @@ El Consejo ayuda a la comunidad en las cuestiones éticas complejas con recomend
 
 Sus dictámenes tienen carácter de recomendación y se publican íntegros. La Asamblea puede no estar de acuerdo con ellos, y de ello no se sigue consecuencia alguna. El Consejo no bloquea decisiones, no tiene derecho de veto y no participa en la gestión de los fondos.
 
-La composición, el modo de formación, los fundamentos de revocación y las condiciones de trabajo están establecidos en la [Carta, artículo 4](https://earth-lings.org/documents/ru/ru05-ustav.html) y en el documento [Consejo Independiente de los Earthlings](https://earth-lings.org/documents/ru/ru11-nezavisimyj-sovet.html).
+La composición, el modo de formación, los fundamentos de revocación y las condiciones de trabajo están establecidos en la [Carta, artículo 4](https://earth-lings.org/documents/es/es05-carta.html) y en el documento [Consejo Independiente de los Earthlings](https://earth-lings.org/documents/es/es11-consejo-independiente.html).
 
 ---
 

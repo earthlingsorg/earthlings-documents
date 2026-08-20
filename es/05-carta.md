@@ -299,13 +299,13 @@ Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La 
 La Tesorería de los Earthlings se gestiona mediante contratos inteligentes. Todas las operaciones son transparentes y quedan registradas on-chain. La distribución de los fondos se aprueba por votación de la DAO.
 
 **Fuentes de fondos:**
-- Cuotas de pertenencia (el procedimiento y su destino están en el documento [Tesorería de los Earthlings](https://earth-lings.org/documents/ru/ru09-kaznachejstvo.html))
+- Cuotas de pertenencia (el procedimiento y su destino están en el documento [Tesorería de los Earthlings](https://earth-lings.org/documents/es/es09-tesoreria.html))
 - Aportaciones voluntarias de los Earthlings
 - Subvenciones y donaciones
 - Emisión de Earthlings Coin (conforme a las reglas establecidas)
 - Otras fuentes aprobadas por la DAO
 
-El presupuesto anual del Fondo se distribuye entre las áreas principales aprobadas por la Asamblea DAO. Las proporciones actuales y la descripción de cada categoría de gasto están documentadas en [Tesorería de los Earthlings](https://earth-lings.org/documents/ru/ru09-kaznachejstvo.html). Las proporciones se modifican únicamente por mayoría cualificada (67%) de la Asamblea DAO.
+El presupuesto anual del Fondo se distribuye entre las áreas principales aprobadas por la Asamblea DAO. Las proporciones actuales y la descripción de cada categoría de gasto están documentadas en [Tesorería de los Earthlings](https://earth-lings.org/documents/es/es09-tesoreria.html). Las proporciones se modifican únicamente por mayoría cualificada (67%) de la Asamblea DAO.
 
 ## Artículo 10. Earthlings Coin (EC)
 
@@ -318,7 +318,7 @@ El presupuesto anual del Fondo se distribuye entre las áreas principales aproba
 
 **Sucesión.** Los Earthlings Coin, como criptoactivos, se transmiten por sucesión conforme a la legislación aplicable y siempre que los herederos tengan acceso al monedero. El pueblo Earthlings no asume obligaciones de transmitir activos a los herederos y no tiene posibilidad técnica de restablecer el acceso al monedero. El pasaporte no se transmite por sucesión en ninguna circunstancia: es intransmisible.
 
-Los detalles del modelo económico están descritos en el documento [Earthlings Coin](https://earth-lings.org/documents/ru/ru10-earthlings-coin.html).
+Los detalles del modelo económico están descritos en el documento [Earthlings Coin](https://earth-lings.org/documents/es/es10-earthlings-coin.html).
 
 ## Artículo 11. Financiación de proyectos
 
@@ -342,7 +342,7 @@ Cuando varios proyectos han superado el umbral de aprobación pero los fondos de
 
 > **Por qué así.** Cada earthling tiene la misma e inagotable posibilidad de apoyar cualquier número de proyectos. Aquí no hay un presupuesto de votos que pueda gastarse, concentrarse o comprarse: la prioridad se forma con el número de personas que apoyan, y no con quién ha puesto más peso en el apoyo. Todo mecanismo que permita a una persona aportar en una misma decisión más peso que a otra contradice el artículo 37 de la presente Carta y no se aplica en el pueblo Earthlings.
 
-Los detalles de la organización de la actividad de proyectos están descritos en el documento [Células de los Earthlings](https://earth-lings.org/documents/ru/ru08-soty.html).
+Los detalles de la organización de la actividad de proyectos están descritos en el documento [Células de los Earthlings](https://earth-lings.org/documents/es/es08-celulas.html).
 
 ---
 
@@ -629,7 +629,7 @@ Las decisiones sobre sanciones a una célula las adopta la DAO por mayoría cual
 
 Las células pueden recibir remuneración por su trabajo tanto en Earthlings Coin como en moneda fiduciaria. Los participantes de la célula distribuyen los ingresos por sí mismos conforme a sus acuerdos.
 
-La aportación a una célula puede ser de trabajo, de conocimiento experto o de capital. El capital se computa en pie de igualdad con las demás aportaciones y recibe un retorno final justo y limitado (capped), pero nunca da voto, control sobre la célula ni renta perpetua: el gobierno de la célula se rige siempre por el principio «una persona, un voto». La contabilidad de gobierno y la económica se llevan por separado. El modelo detallado está descrito en el documento [Células de los Earthlings](https://earth-lings.org/documents/ru/ru08-soty.html).
+La aportación a una célula puede ser de trabajo, de conocimiento experto o de capital. El capital se computa en pie de igualdad con las demás aportaciones y recibe un retorno final justo y limitado (capped), pero nunca da voto, control sobre la célula ni renta perpetua: el gobierno de la célula se rige siempre por el principio «una persona, un voto». La contabilidad de gobierno y la económica se llevan por separado. El modelo detallado está descrito en el documento [Células de los Earthlings](https://earth-lings.org/documents/es/es08-celulas.html).
 
 **Aportación obligatoria al Fondo:**
 - El 5% del beneficio de la célula se transfiere a la Tesorería de los Earthlings
@@ -640,7 +640,7 @@ La aportación a una célula puede ser de trabajo, de conocimiento experto o de 
 
 Los participantes de una célula pueden decidir crear una estructura jurídica (sociedad, cooperativa, asociación) para trabajar con clientes que pretendan pagar los servicios de la célula en moneda fiduciaria. Tales estructuras las crean los participantes en su propio nombre, y no en nombre del pueblo Earthlings.
 
-Cada participante de una célula responde por sí mismo del cumplimiento de la legislación fiscal de su país de residencia (más detalles en [Células de los Earthlings](https://earth-lings.org/documents/ru/ru08-soty.html)).
+Cada participante de una célula responde por sí mismo del cumplimiento de la legislación fiscal de su país de residencia (más detalles en [Células de los Earthlings](https://earth-lings.org/documents/es/es08-celulas.html)).
 
 El pueblo Earthlings no posee territorio y no lo pretende. Cualquier local físico, equipo u otro bien empleado por una célula o por sus participantes, incluidos un espacio de trabajo compartido o un lugar de reunión, pertenece a participantes concretos o a las estructuras jurídicas creadas por ellos y se encuentra en su propia zona local de responsabilidad jurídica y fiscal, y no en propiedad ni bajo jurisdicción del pueblo Earthlings.
 
@@ -672,7 +672,7 @@ Están previstas una auditoría independiente de los contratos inteligentes y un
 
 ## Artículo 30. Apertura del código
 
-Es abierto el código del contrato inteligente del pasaporte (licencia MIT). El código de la plataforma y del sistema de verificación de identidad es cerrado: trabajan con datos personales. La lista con sus motivos está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/ru/ru32-gde-my-sejchas.html).
+Es abierto el código del contrato inteligente del pasaporte (licencia MIT). El código de la plataforma y del sistema de verificación de identidad es cerrado: trabajan con datos personales. La lista con sus motivos está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html).
 
 ---
 
@@ -758,7 +758,7 @@ El pueblo Earthlings no se inmiscuye en los asuntos internos de los Estados y no
 
 El pueblo Earthlings busca la discernibilidad jurídica: que se le trate como pueblo allí donde surge una cuestión concreta. No existe para nadie un órgano que reconozca pueblos, de modo que la discernibilidad se acumula con la práctica, el tiempo y el número de participantes, y no se otorga por una decisión. Como señala el artículo 7 de la Declaración, el derecho no se ha planteado todavía la cuestión de la adquisición de personalidad jurídica internacional por una comunidad que nunca ha tenido territorio.
 
-Mientras la discernibilidad jurídica no esté acumulada, para la relación externa el pueblo funciona a través de estructuras jurídicamente inscritas - interfaces jurídicas sustituibles - en las jurisdicciones correspondientes. La estrategia jurídica está descrita en el documento [Base jurídica](https://earth-lings.org/documents/ru/ru04-pravovoe-obosnovanie.html).
+Mientras la discernibilidad jurídica no esté acumulada, para la relación externa el pueblo funciona a través de estructuras jurídicamente inscritas - interfaces jurídicas sustituibles - en las jurisdicciones correspondientes. La estrategia jurídica está descrita en el documento [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html).
 
 ---
 

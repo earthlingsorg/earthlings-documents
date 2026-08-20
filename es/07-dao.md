@@ -76,7 +76,7 @@ Cualquier earthling puede recibir votos delegados de otros participantes en un �
 
 > **La delegación no es representación.** Se otorga por ámbito y no por un plazo; se revoca de inmediato, sin explicar los motivos y sin el consentimiento de aquel a quien se cedió el voto; **no constituye cargo** y no confiere al delegado ningún derecho salvo el de emitir los votos que se le han cedido. Un delegado puede quedarse en cualquier momento sin un solo voto delegado, y eso es el funcionamiento normal del mecanismo.
 
-Límites establecidos en el artículo 7 de la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html) y comprobables técnicamente:
+Límites establecidos en el artículo 7 de la [Carta](https://earth-lings.org/documents/es/es05-carta.html) y comprobables técnicamente:
 
 - **solo por ámbitos**: una categoría temática o una célula concreta; no cabe delegar el voto en todas las cuestiones a la vez;
 - **prohibición de la autodelegación**: se comprueba en cada operación;
@@ -104,7 +104,7 @@ Aparte de ellos actúa el **Consejo Independiente**, órgano consultivo previsto
 
 La participación, la aportación y la competencia quedan fijadas en marcas inalienables ligadas a la identidad: participación en el desarrollo, en investigaciones y en auditorías; calidad de las propuestas anteriores; competencias profesionales acreditadas.
 
-> **Esas marcas no dan nada más que información.** La lista de lo que la reputación no hace está establecida de manera exhaustiva: [Carta, artículo 8](https://earth-lings.org/documents/ru/ru05-ustav.html). Todo mecanismo en el que la reputación abra el acceso a acumular influencia la convierte en un peso del voto encubierto y por ello queda excluido.
+> **Esas marcas no dan nada más que información.** La lista de lo que la reputación no hace está establecida de manera exhaustiva: [Carta, artículo 8](https://earth-lings.org/documents/es/es05-carta.html). Todo mecanismo en el que la reputación abra el acceso a acumular influencia la convierte en un peso del voto encubierto y por ello queda excluido.
 
 ---
 
@@ -130,7 +130,7 @@ Un dictamen público de expertos es un argumento en el debate, con el peso que l
 
 Por regla general las votaciones son abiertas: el hecho de la participación y la expresión de la voluntad están disponibles para su verificación. La apertura es el modo de comprobar que el recuento es honesto.
 
-Pero hay cuestiones en las que la apertura de la expresión de la voluntad no protege a la persona, sino que la expone a un riesgo. Para ellas se aplica el **voto secreto con recuento verificable**; la lista de tales cuestiones y el procedimiento están establecidos en la [Carta, artículo 6](https://earth-lings.org/documents/ru/ru05-ustav.html).
+Pero hay cuestiones en las que la apertura de la expresión de la voluntad no protege a la persona, sino que la expone a un riesgo. Para ellas se aplica el **voto secreto con recuento verificable**; la lista de tales cuestiones y el procedimiento están establecidos en la [Carta, artículo 6](https://earth-lings.org/documents/es/es05-carta.html).
 
 El voto secreto se aplica obligatoriamente al examinar una limitación de facultades y en la anulación de una emisión inválida de pasaporte, y por decisión de la Asamblea, para cuestiones o categorías concretas, en particular las que afectan a la posición del pueblo sobre los actos de los Estados.
 
@@ -272,7 +272,7 @@ La DAO se apoya en la minimización de los datos recabados y en la protección d
 
 **Datos en el registro distribuido.** Las votaciones, transacciones y decisiones se fijan empleando identificadores seudónimos y métodos criptográficos. No se conserva un vínculo permanente «asiento - identidad»; la verificación de identidad la realiza el sistema propio del pueblo, sin proveedores externos. En las votaciones celebradas en secreto, el vínculo entre el voto y quien vota no se revela a nadie, conservando la verificabilidad del recuento.
 
-**Datos personales.** La verificación de identidad y la comprobación del documento las realiza el sistema propio conforme al RGPD y a la demás legislación aplicable. El pueblo y la DAO no conservan fotografías, escaneos, nombres reales ni plantillas biométricas: la biometría se trata en el momento de la comprobación y no se conserva. Qué se conserva exactamente para impedir un registro repetido está en la [Política de verificación biométrica](https://earth-lings.org/documents/ru/ru16-biometricheskaya-verifikaciya.html). Los datos de la cuenta - correo electrónico, seudónimo, ajustes - se tratan en el volumen mínimo.
+**Datos personales.** La verificación de identidad y la comprobación del documento las realiza el sistema propio conforme al RGPD y a la demás legislación aplicable. El pueblo y la DAO no conservan fotografías, escaneos, nombres reales ni plantillas biométricas: la biometría se trata en el momento de la comprobación y no se conserva. Qué se conserva exactamente para impedir un registro repetido está en la [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html). Los datos de la cuenta - correo electrónico, seudónimo, ajustes - se tratan en el volumen mínimo.
 
 **Minimización.** Se recaban únicamente los datos necesarios para el funcionamiento de los procedimientos de votación, de autenticación y de la interfaz. No se emplean para elaborar perfiles de manera encubierta, para venderlos a terceros ni para monetización comercial.
 

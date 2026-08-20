@@ -2,7 +2,7 @@
 
 **Sistema de equipos pequeños y de cooperación por proyectos del pueblo Earthlings**
 
-> El presente documento detalla la sección 06 de la [Carta](https://earth-lings.org/documents/ru/ru05-ustav.html). En caso de discrepancia se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/ru/ru01-deklaraciya.html), la Declaración.
+> El presente documento detalla la sección 06 de la [Carta](https://earth-lings.org/documents/es/es05-carta.html). En caso de discrepancia se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración.
 
 ---
 

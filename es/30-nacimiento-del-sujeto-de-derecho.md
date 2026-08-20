@@ -10,7 +10,7 @@ Acompaña a la Base jurídica. Plantea la cuestión no sobre los Earthlings, sin
 
 ### Relación con la Base jurídica
 
-La [Base jurídica](https://earth-lings.org/documents/ru/ru04-pravovoe-obosnovanie.html) responde a la pregunta de si la unión del pueblo Earthlings es compatible con el derecho internacional vigente. El presente documento plantea otra pregunta, más general, dirigida no a los Earthlings, sino al propio derecho.
+La [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html) responde a la pregunta de si la unión del pueblo Earthlings es compatible con el derecho internacional vigente. El presente documento plantea otra pregunta, más general, dirigida no a los Earthlings, sino al propio derecho.
 
 **¿Por qué el derecho internacional, disponiendo de doctrinas desarrolladas sobre la existencia de sujetos colectivos, apenas ha elaborado la cuestión de su nacimiento voluntario?**
 
