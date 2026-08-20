@@ -4,7 +4,7 @@
 
 > Das ist keine Vorhersage und kein Versprechen. Das ist eine Aufzählung von Möglichkeiten, die bestehen, mit der Angabe, was hinter jeder steht und was nötig ist, um sie zu nutzen.
 >
-> Das Dokument ist nach vier Regeln geschrieben: Bei jeder Möglichkeit ist die Voraussetzung genannt; genannt ist der Mechanismus und nicht nur der Ausgang; neben den Möglichkeiten steht das, was schiefgehen kann - in demselben Umfang; und vor allem -
+> Das Dokument ist nach vier Regeln geschrieben: Bei jeder Möglichkeit ist die Voraussetzung genannt; genannt ist der Mechanismus und nicht nur der Ausgang; neben den Möglichkeiten steht das, was schiefgehen kann; und vor allem -
 >
 > **nichts von dem, was heute geschieht, hängt vom hier Geschriebenen ab.** Die Infrastruktur des Volkes ist gebaut und arbeitet: Identitätsprüfung, Register, Abstimmung, öffentliche Kasse. Die Gründungsphase läuft: Am 3. Januar 2027 wird die Erklärung zur Abstimmung gestellt. Öffnet sich keine der aufgezählten Möglichkeiten, so hebt das nichts von dem bereits Getanen auf.
 
@@ -76,7 +76,7 @@ Das ist keine Geste. Das ist genau die Praxis, aus der, wie die Geschichte der R
 
 **Die gegenseitige Anerkennung zwischen Gemeinschaften.** Eine Feststellung muss nicht von oben kommen. Sie kann unter Gleichen beginnen: mit anderen nichtterritorialen Gemeinschaften, mit Diasporas, mit Völkern ohne Staat. Jeder solche Kontakt ist ein Eintrag in der Praxis.
 
-**Anwesenheit in jedem Land ohne Vertretung in einem einzigen.** Dreißig Millionen Menschen, über alle Rechtsordnungen verteilt, sind die Möglichkeit, dort zu handeln, wo keine Organisation es kann: verteilte Prüfung von Tatsachen, verteilte Finanzierung, Hilfe, die keine Grenzen überschreitet, weil sie bereits auf beiden Seiten ist.
+**Anwesenheit in jedem Land ohne Vertretung in einem einzigen.** Wächst das Volk auf dreißig Millionen Menschen, über alle Rechtsordnungen verteilt, so entsteht die Möglichkeit, dort zu handeln, wo keine Organisation es kann: verteilte Prüfung von Tatsachen, verteilte Finanzierung, Hilfe, die keine Grenzen überschreitet, weil sie bereits auf beiden Seiten ist.
 
 ---
 

@@ -4,7 +4,7 @@
 
 > Esto no es una previsión ni una promesa. Es una lista de posibilidades que existen, con indicación de qué hay detrás de cada una y de qué hace falta para aprovecharla.
 >
-> El documento está escrito con cuatro reglas: de cada posibilidad se nombra su condición; se nombra el mecanismo y no solo el desenlace; junto a las posibilidades está lo que puede salir mal, con la misma extensión; y, sobre todo,
+> El documento está escrito con cuatro reglas: de cada posibilidad se nombra su condición; se nombra el mecanismo y no solo el desenlace; junto a las posibilidades está lo que puede salir mal; y, sobre todo,
 >
 > **nada de lo que ocurre hoy depende de lo aquí escrito.** La infraestructura del pueblo está construida y funciona: verificación de identidad, registro, votación, caja pública. Está en curso el período constituyente: el 3 de enero de 2027 la Declaración se somete a votación. Si no se abre ninguna de las posibilidades enumeradas, eso no anulará nada de lo ya hecho.
 
@@ -76,7 +76,7 @@ No es un gesto. Es exactamente la práctica de la que, como muestra la historia 
 
 **Reconocimiento mutuo entre comunidades.** La constatación no tiene por qué venir de arriba. Puede empezar entre iguales: otras comunidades no territoriales, diásporas, pueblos sin Estado. Cada contacto de ese tipo es un asiento en la práctica.
 
-**Presencia en cada país sin representación en ninguno.** Treinta millones de personas repartidas por todas las jurisdicciones son la posibilidad de actuar allí donde no puede ninguna organización: comprobación distribuida de hechos, financiación distribuida, ayuda que no cruza fronteras porque ya está a ambos lados.
+**Presencia en cada país sin representación en ninguno.** Si el pueblo crece hasta treinta millones de personas repartidas por todas las jurisdicciones, aparecerá la posibilidad de actuar allí donde no puede ninguna organización: comprobación distribuida de hechos, financiación distribuida, ayuda que no cruza fronteras porque ya está a ambos lados.
 
 ---
 

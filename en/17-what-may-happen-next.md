@@ -4,7 +4,7 @@
 
 > This is not a forecast and not a promise. It is a list of possibilities that exist, with a statement of what stands behind each and what is needed to make use of it.
 >
-> The document follows four rules: every possibility has its condition named; the mechanism is named, not only the outcome; alongside the possibilities stands what may go wrong, at the same length; and, most importantly -
+> The document follows four rules: every possibility has its condition named; the mechanism is named, not only the outcome; alongside the possibilities stands what may go wrong; and, most importantly -
 >
 > **nothing that happens today depends on what is written here.** The people's infrastructure is built and working: identity verification, the registry, voting, the public treasury. The founding period is under way: on 3 January 2027 the Declaration is put to a vote. If not one of the possibilities listed opens, that will cancel nothing of what has already been done.
 
@@ -76,7 +76,7 @@ This is not a gesture. It is exactly the practice out of which, as the history o
 
 **Mutual recognition between communities.** A finding need not come from above. It can begin among equals: other non-territorial communities, diasporas, peoples without a state. Every such contact is an entry in the practice.
 
-**Presence in every country with representation in none.** Thirty million people spread across every jurisdiction is the possibility of acting where no organization can: distributed fact-checking, distributed funding, aid that does not cross borders because it is already on both sides.
+**Presence in every country with representation in none.** If the people grows to thirty million spread across every jurisdiction, there appears the possibility of acting where no organization can: distributed fact-checking, distributed funding, aid that does not cross borders because it is already on both sides.
 
 ---
 

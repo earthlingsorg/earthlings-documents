@@ -4,7 +4,7 @@
 
 > Ce n'est ni une prévision ni une promesse. C'est la liste des possibilités qui existent, avec l'indication de ce qui se tient derrière chacune et de ce qu'il faut pour en user.
 >
-> Le document est écrit selon quatre règles: chaque possibilité est assortie d'une condition; on nomme le mécanisme, et pas seulement l'issue; à côté des possibilités figure ce qui peut mal tourner, dans la même mesure; et surtout -
+> Le document est écrit selon quatre règles: chaque possibilité est assortie d'une condition; on nomme le mécanisme, et pas seulement l'issue; à côté des possibilités figure ce qui peut mal tourner; et surtout -
 >
 > **rien de ce qui se passe aujourd'hui ne dépend de ce qui est écrit ici.** L'infrastructure du peuple est bâtie et fonctionne: vérification d'identité, registre, vote, trésorerie ouverte. La période constituante est en cours: le 3 janvier 2027, la Déclaration sera soumise au vote. Si aucune des possibilités énumérées ne s'ouvre, cela n'annulera rien de ce qui a déjà été fait.
 
@@ -76,7 +76,7 @@ Ce n'est pas un geste. C'est exactement la pratique dont naissent avec le temps 
 
 **La reconnaissance mutuelle entre communautés.** La constatation n'est pas tenue de venir d'en haut. Il peut commencer entre égaux: d'autres communautés non territoriales, des diasporas, des peuples sans État. Chacun de ces contacts s'inscrit dans la pratique.
 
-**Une présence dans chaque pays sans représentation dans aucun.** Trente millions de personnes réparties dans tous les ordres juridiques, c'est la possibilité d'agir là où aucune organisation ne le peut: vérification distribuée des faits, financement distribué, aide qui ne franchit aucune frontière parce qu'elle est déjà des deux côtés.
+**Une présence dans chaque pays sans représentation dans aucun.** Si le peuple atteint trente millions de personnes réparties dans tous les ordres juridiques, apparaîtra la possibilité d'agir là où aucune organisation ne le peut: vérification distribuée des faits, financement distribué, aide qui ne franchit aucune frontière parce qu'elle est déjà des deux côtés.
 
 ---
 
