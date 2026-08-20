@@ -861,7 +861,7 @@ Für die Annahme entfielen \_\_\_\_\_\_ von \_\_\_\_\_\_ abgegebenen Stimmen, be
 
 Von diesem Tag an ist das Volk der Earthlings konstituiert, und die Unterzeichner dieser Erklärung sind Earthlings.
 
-Die Unabänderlichkeit der in Artikel 13 genannten Grundsätze beruht auf der Entscheidung derer, die sie binden.
+Die Unabänderlichkeit der in Artikel 13 genannten Grundsätze beruht auf der Entscheidung derer, die durch sie gebunden sind.
 
 ---
 
