@@ -356,7 +356,7 @@ There are no other conditions. Nationality, race, religion, sex, social position
 
 ## Article 12 bis. The Entry Contribution and Payment for Another
 
-Identity verification and the issuance of a passport are covered by a one-time contribution on joining. The contribution covers cost price and sustains the people's infrastructure, buys no belonging, and creates no advantage of any kind (Declaration, Article 8). The amount of the contribution is set by the Assembly; it may be increased only by a decision of the Assembly.
+Identity verification and the issuance of a passport are covered by a one-time contribution on joining. The contribution covers cost price and sustains the people's infrastructure, buys no belonging, and creates no advantage of any kind (Declaration, Article 8); it goes into the common treasury and is allocated in published shares (Treasury, Article 9). The amount of the contribution is set by the Assembly; it may be increased only by a decision of the Assembly.
 
 There is no exemption from the contribution. The contribution is always paid in full; what differs is only who pays it.
 

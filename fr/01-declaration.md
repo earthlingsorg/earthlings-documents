@@ -335,7 +335,7 @@ Aucune autre condition n'est établie ni ne peut l'être. L'appartenance ne dép
 
 Il n'existe pas de décision d'admission: le peuple n'examine pas de demandes, n'évalue personne et ne refuse personne.
 
-La vérification de l'identité et la délivrance du passeport entraînent des frais, et ceux-ci sont couverts par une cotisation versée à l'entrée. La cotisation couvre le prix de revient et soutient l'infrastructure du peuple, n'achète pas l'appartenance et ne crée aucun avantage. L'impossibilité de la verser soi-même ne ferme pas l'entrée dans le peuple: la Charte établit la procédure par laquelle la cotisation est versée pour une personne par un tiers ou sur les fonds communs. Le montant de la cotisation n'est pas fixé par la présente Déclaration et ne peut être augmenté autrement que par une décision de l'Assemblée.
+La vérification de l'identité et la délivrance du passeport entraînent des frais, et ceux-ci sont couverts par une cotisation versée à l'entrée. La cotisation couvre le prix de revient et soutient l'infrastructure du peuple, n'achète pas l'appartenance et ne crée aucun avantage; elle entre au trésor commun et est répartie selon les parts publiées. L'impossibilité de la verser soi-même ne ferme pas l'entrée dans le peuple: la Charte établit la procédure par laquelle la cotisation est versée pour une personne par un tiers ou sur le trésor commun. Le montant de la cotisation n'est pas fixé par la présente Déclaration et ne peut être augmenté autrement que par une décision de l'Assemblée.
 
 ### Il n'existe pas d'exigence insurmontable
 

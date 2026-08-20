@@ -273,7 +273,7 @@ Die Beachtung des Rechts Ihres Landes; die Sicherheit der eigenen Schlüssel und
 
 ## Die Natur des Beitrags
 
-Der Beitrag wird einmal entrichtet, deckt die Selbstkosten des Verfahrens - der Identitätsprüfung und der Ausgabe des Passes - und trägt die Infrastruktur des Volkes. Er **kauft keine Zugehörigkeit** - sie entsteht durch die Unterzeichnung der Erklärung - und gibt weder eine Stimme noch Recheneinheiten.
+Der Beitrag wird einmal entrichtet, deckt die Selbstkosten des Verfahrens - der Identitätsprüfung und der Ausgabe des Passes - und trägt die Infrastruktur des Volkes; er fließt in die gemeinsame Kasse und wird nach veröffentlichten Anteilen verteilt. Er **kauft keine Zugehörigkeit** - sie entsteht durch die Unterzeichnung der Erklärung - und gibt weder eine Stimme noch Recheneinheiten.
 
 ## Das Widerrufsrecht und seine Grenzen
 

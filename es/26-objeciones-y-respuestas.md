@@ -100,7 +100,7 @@ Segundo: nuestra construcción no está comprobada a escala. No afirmamos haber 
 
 ### Una cuota de entrada y una salida en un solo acto: eso es una suscripción a un servicio, no la pertenencia a un pueblo.
 
-La pertenencia se constituye con un acto gratuito: la firma de la Declaración. La cuota cubre el coste del procedimiento - la verificación de la unicidad de la identidad y la emisión del pasaporte - y sostiene la infraestructura del pueblo. Señalemos aparte que la verificación de la identidad **durante el período constituyente se realiza de manera gratuita**: hasta la adopción del texto nadie paga nada.
+La pertenencia se constituye con un acto gratuito: la firma de la Declaración. La cuota cubre el coste del procedimiento - la verificación de la unicidad de la identidad y la emisión del pasaporte - y sostiene la infraestructura del pueblo: ingresa en la caja común y se distribuye conforme a las partes publicadas. Señalemos aparte que la verificación de la identidad **durante el período constituyente se realiza de manera gratuita**: hasta la adopción del texto nadie paga nada.
 
 Exactamente así está organizada la entrada en cualquier pueblo por acto: la naturalización está gravada en todos los países con una tasa estatal de varios cientos de dólares o su equivalente, y el pasaporte se paga en todos los países del mundo también para los ciudadanos por nacimiento. La tasa paga el procedimiento, no compra la pertenencia.
 

@@ -100,7 +100,7 @@ The second: our construction has not been tested at scale. We assert not that we
 
 ### A contribution on entry, and exit by a single action - that is a subscription to a service, not belonging to a people.
 
-Belonging is constituted by a free act - signing the Declaration. The contribution covers the cost of the procedure - confirming that the person is unique and issuing the passport - and sustains the people's infrastructure. We note separately that identity verification **is free during the founding period**: before the text is adopted, no one pays anything.
+Belonging is constituted by a free act - signing the Declaration. The contribution covers the cost of the procedure - confirming that the person is unique and issuing the passport - and sustains the people's infrastructure: it goes into the common treasury and is allocated in published shares. We note separately that identity verification **is free during the founding period**: before the text is adopted, no one pays anything.
 
 Entry into any people by legal act is arranged in exactly this way: naturalization in every country carries a state fee of several hundred dollars or the equivalent, and citizens by birth pay for their passports in every country in the world. A fee pays for the procedure; it does not buy belonging.
 

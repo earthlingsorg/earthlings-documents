@@ -356,7 +356,7 @@ Il n'existe pas d'autres conditions. L'appartenance nationale, la race, la relig
 
 ## Article 12 bis. La cotisation d'entrée et le paiement pour autrui
 
-La vérification d'identité et la délivrance du passeport sont couvertes par une cotisation unique versée à l'entrée. La cotisation couvre le prix de revient et soutient l'infrastructure du peuple, n'achète pas l'appartenance et ne crée aucun avantage (Déclaration, article 8). Le montant de la cotisation est fixé par l'Assemblée; il ne peut être augmenté que par une décision de celle-ci.
+La vérification d'identité et la délivrance du passeport sont couvertes par une cotisation unique versée à l'entrée. La cotisation couvre le prix de revient et soutient l'infrastructure du peuple, n'achète pas l'appartenance et ne crée aucun avantage (Déclaration, article 8); elle entre au trésor commun et est répartie selon les parts publiées (Trésorerie, article 9). Le montant de la cotisation est fixé par l'Assemblée; il ne peut être augmenté que par une décision de celle-ci.
 
 Il n'existe pas d'exonération de cotisation. La cotisation est toujours versée intégralement; seule diffère la personne qui la verse.
 

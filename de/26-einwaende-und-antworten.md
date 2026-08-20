@@ -100,7 +100,7 @@ Die zweite: Unsere Konstruktion ist im Maßstab nicht erprobt. Wir behaupten nic
 
 ### Ein Beitrag beim Beitritt und ein Austritt mit einer einzigen Handlung - das ist ein Abonnement für einen Dienst und keine Zugehörigkeit zu einem Volk.
 
-Die Zugehörigkeit wird durch einen kostenlosen Akt konstituiert - durch die Unterzeichnung der Erklärung. Der Beitrag deckt die Selbstkosten des Verfahrens - den Nachweis der Einmaligkeit einer Person und die Ausgabe des Passes - und trägt die Infrastruktur des Volkes. Gesondert sei angemerkt, dass die Identitätsprüfung **in der Gründungsphase kostenlos erfolgt**: Vor der Annahme des Textes zahlt niemand etwas.
+Die Zugehörigkeit wird durch einen kostenlosen Akt konstituiert - durch die Unterzeichnung der Erklärung. Der Beitrag deckt die Selbstkosten des Verfahrens - den Nachweis der Einmaligkeit einer Person und die Ausgabe des Passes - und trägt die Infrastruktur des Volkes: Er fließt in die gemeinsame Kasse und wird nach veröffentlichten Anteilen verteilt. Gesondert sei angemerkt, dass die Identitätsprüfung **in der Gründungsphase kostenlos erfolgt**: Vor der Annahme des Textes zahlt niemand etwas.
 
 Genau so ist der Eintritt in jedes Volk durch einen Akt eingerichtet: Die Einbürgerung ist in allen Ländern mit einer staatlichen Gebühr von einigen hundert Dollar oder dem Gegenwert belegt, und der Pass ist in allen Ländern der Welt auch für Bürger von Geburt an kostenpflichtig. Die Gebühr bezahlt das Verfahren und kauft nicht die Zugehörigkeit.
 

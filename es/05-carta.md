@@ -356,7 +356,7 @@ No existen otras condiciones. La adscripción étnica, la raza, la religión, el
 
 ## Artículo 12 bis. Cuota de entrada y pago por otra persona
 
-La verificación de identidad y la emisión del pasaporte se cubren con una cuota única de entrada. La cuota cubre el coste y sostiene la infraestructura del pueblo, no compra la pertenencia y no crea ventaja alguna (Declaración, artículo 8). La cuantía de la cuota la establece la Asamblea; solo por decisión suya puede aumentarse.
+La verificación de identidad y la emisión del pasaporte se cubren con una cuota única de entrada. La cuota cubre el coste y sostiene la infraestructura del pueblo, no compra la pertenencia y no crea ventaja alguna (Declaración, artículo 8); ingresa en la caja común y se distribuye conforme a las partes publicadas (Tesorería, artículo 9). La cuantía de la cuota la establece la Asamblea; solo por decisión suya puede aumentarse.
 
 No existe exención de la cuota. La cuota se abona siempre íntegra; solo cambia quién la abona.
 

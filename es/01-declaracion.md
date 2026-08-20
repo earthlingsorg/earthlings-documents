@@ -335,7 +335,7 @@ No se establecen ni pueden establecerse otras condiciones. La pertenencia no dep
 
 No existe una decisión de admisión: el pueblo no examina solicitudes, no evalúa a la persona y no rechaza a nadie.
 
-La verificación de la identidad y la emisión del pasaporte suponen gastos, y estos se cubren con la cuota de entrada. La cuota cubre el coste y sostiene la infraestructura del pueblo, no compra la pertenencia y no crea ventaja alguna. La imposibilidad de abonarla por sí mismo no cierra la entrada al pueblo: el procedimiento por el que la cuota de una persona la abona otra o se abona con cargo a la caja común lo establece la Carta. La cuantía de la cuota no la fija la presente Declaración y no puede aumentarse si no es por decisión de la Asamblea.
+La verificación de la identidad y la emisión del pasaporte suponen gastos, y estos se cubren con la cuota de entrada. La cuota cubre el coste y sostiene la infraestructura del pueblo, no compra la pertenencia y no crea ventaja alguna; ingresa en la caja común y se distribuye conforme a las partes publicadas. La imposibilidad de abonarla por sí mismo no cierra la entrada al pueblo: el procedimiento por el que la cuota de una persona la abona otra o se abona con cargo a la caja común lo establece la Carta. La cuantía de la cuota no la fija la presente Declaración y no puede aumentarse si no es por decisión de la Asamblea.
 
 ### No hay requisitos insuperables
 

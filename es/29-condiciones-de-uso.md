@@ -273,7 +273,7 @@ Del cumplimiento de la legislación de su país; de la seguridad de sus propias 
 
 ## Naturaleza de la cuota
 
-La cuota se abona una sola vez, cubre el coste del procedimiento - la verificación de identidad y la emisión del pasaporte - y sostiene la infraestructura del pueblo. **No compra la pertenencia** - esta nace al firmar la Declaración - y no da ni voto ni unidades de cuenta.
+La cuota se abona una sola vez, cubre el coste del procedimiento - la verificación de identidad y la emisión del pasaporte - y sostiene la infraestructura del pueblo; ingresa en la caja común y se distribuye conforme a las partes publicadas. **No compra la pertenencia** - esta nace al firmar la Declaración - y no da ni voto ni unidades de cuenta.
 
 ## Derecho de desistimiento y sus límites
 

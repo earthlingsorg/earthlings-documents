@@ -356,7 +356,7 @@ Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Gesc
 
 ## Artikel 12-bis. Der Beitrag beim Beitritt und die Zahlung für einen anderen
 
-Die Identitätsprüfung und die Ausgabe des Passes werden durch einen einmaligen Beitrag beim Beitritt gedeckt. Der Beitrag deckt die Selbstkosten und trägt die Infrastruktur des Volkes, kauft keine Zugehörigkeit und schafft keinerlei Vorteil (Erklärung, Artikel 8). Die Höhe des Beitrags legt die Vollversammlung fest; erhöht werden kann er nur durch ihren Beschluss.
+Die Identitätsprüfung und die Ausgabe des Passes werden durch einen einmaligen Beitrag beim Beitritt gedeckt. Der Beitrag deckt die Selbstkosten und trägt die Infrastruktur des Volkes, kauft keine Zugehörigkeit und schafft keinerlei Vorteil (Erklärung, Artikel 8); er fließt in die gemeinsame Kasse und wird nach veröffentlichten Anteilen verteilt (Schatzkammer, Artikel 9). Die Höhe des Beitrags legt die Vollversammlung fest; erhöht werden kann er nur durch ihren Beschluss.
 
 Eine Befreiung vom Beitrag gibt es nicht. Der Beitrag wird stets vollständig entrichtet; verschieden ist allein, wer ihn entrichtet.
 

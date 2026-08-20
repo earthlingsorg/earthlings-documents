@@ -335,7 +335,7 @@ No other conditions are established, and none can be. Belonging does not depend 
 
 There is no decision on admission: the people considers no applications, assesses no one, and refuses no one.
 
-Confirming identity and issuing a passport cost money, and those costs are covered by a contribution on joining. The contribution covers cost and sustains the people's infrastructure, buys no belonging, and creates no advantage of any kind. Inability to pay it oneself does not close entry into the people: the Earthlings Charter establishes the procedure under which the contribution for a person is paid by another person or out of the common treasury. The amount of the contribution is not established by this Declaration and cannot be increased otherwise than by a decision of the Assembly.
+Confirming identity and issuing a passport cost money, and those costs are covered by a contribution on joining. The contribution covers cost and sustains the people's infrastructure, buys no belonging, and creates no advantage of any kind; it goes into the common treasury and is allocated in published shares. Inability to pay it oneself does not close entry into the people: the Earthlings Charter establishes the procedure under which the contribution for a person is paid by another person or out of the common treasury. The amount of the contribution is not established by this Declaration and cannot be increased otherwise than by a decision of the Assembly.
 
 ### There Are No Insurmountable Requirements
 
