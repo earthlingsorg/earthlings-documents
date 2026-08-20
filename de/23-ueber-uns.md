@@ -47,7 +47,7 @@ Dieser Grundsatz ist grundlegend: Jeder Bestandteil löst Aufgaben, die den ande
 
 Das Ergebnis ist eine Architektur, in der Macht verteilt, widerruflich und auf ein Mindestmaß gebracht ist.
 
-Innerhalb der Gemeinschaft selbst hebt das Dokument „Die Ethik der Earthlings“ vier Aufgabenbereiche hervor:
+Innerhalb der Gemeinschaft selbst hebt die Charta vier Aufgabenbereiche hervor:
 
 - DAO-Vollversammlung - BESCHLÜSSE;
 - Core Nodes - DIENST;
@@ -62,7 +62,7 @@ Der Emergency Multisig sichert den Schutz der Infrastruktur vor Exploits und kri
 
 Der Unabhängige Rat gibt fachliche Empfehlungen und beratende Stellungnahmen ([näher](https://earth-lings.org/documents/de/de11-unabhaengiger-rat.html)).
 
-Die drei baulichen Schlüsselbestandteile der Earthlings - die DAO, die rechtlichen Werkzeuge und der Unabhängige Rat - sichern die Architektur der kollektiven Selbstverwaltung, des äußeren rechtlichen Verkehrs und der fachlichen Beratung.
+Blickt man nicht auf die inneren Aufgabenbereiche, sondern darauf, womit die Earthlings nach außen handeln, so sind es drei Schlüsselbestandteile: die DAO, die rechtlichen Werkzeuge und der Unabhängige Rat. Sie tragen die kollektive Selbstverwaltung, den äußeren rechtlichen Verkehr und die fachliche Beratung.
 
 Die Aufgaben DIENST und SICHERHEIT werden von gesonderten technischen Organen wahrgenommen, die in den Dokumenten [Die DAO der Earthlings](/documents/de/de07-dao.html) und [Die Digitale Plattform](/documents/de/de12-digitale-plattform.html) ausführlich beschrieben sind.
 

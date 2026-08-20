@@ -47,7 +47,7 @@ This principle is fundamental: each element addresses tasks structurally unavail
 
 The result is an architecture in which power is distributed, revocable, and reduced to a minimum.
 
-Within the community itself, the document "Earthlings Ethics" distinguishes four functional roles:
+Within the community itself, the Charter distinguishes four functional roles:
 
 - the DAO Assembly - DECISIONS;
 - the Core Nodes - SERVICE;
@@ -62,7 +62,7 @@ The Emergency Multisig protects the infrastructure from exploits and critical th
 
 The Independent Council gives expert recommendations and advisory opinions ([more](https://earth-lings.org/documents/en/en11-independent-council.html)).
 
-The three key structural elements of Earthlings - the DAO, the legal instruments, and the Independent Council - provide the architecture of collective self-government, of external legal engagement, and of expert advice.
+If one looks not at the internal roles but at what Earthlings acts with outwardly, there are three key elements: the DAO, the legal instruments, and the Independent Council. They provide collective self-government, external legal engagement, and expert advice.
 
 The SERVICE and SECURITY functions are performed by separate technical bodies, described in detail in the documents [The Earthlings DAO](/documents/en/en07-dao.html) and [Digital Platform](/documents/en/en12-digital-platform.html).
 

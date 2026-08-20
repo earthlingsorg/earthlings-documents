@@ -47,7 +47,7 @@ Earthlings 的制度架构由三个不同的结构要素组成，它们被设计
 
 其结果是这样一种架构：权力被分散、可撤回并被压到最小。
 
-在共同体内部，《Earthlings 伦理准则》文件区分出四种职能角色：
+在共同体内部，宪章区分出四种职能角色：
 
 - DAO 全体大会——决定；
 - Core Nodes——服务；
@@ -62,7 +62,7 @@ Emergency Multisig 保障基础设施免受漏洞利用和重大威胁——同�
 
 独立理事会给出专家建议和咨询意见（[详见](https://earth-lings.org/documents/zh/zh11-independent-council.html)）。
 
-Earthlings 的三个关键结构要素——DAO、法律工具和独立理事会——分别保障集体自治、对外法律往来和专家咨询的架构。
+如果看的不是内部角色，而是 Earthlings 对外用什么行事，关键要素有三个：DAO、法律工具和独立理事会。它们分别保障集体自治、对外法律往来和专家咨询。
 
 服务与安全的职能由单独的技术机关实现，详见 [Earthlings DAO](/documents/zh/zh07-dao.html) 和 [数字平台](/documents/zh/zh12-digital-platform.html) 文件。
 

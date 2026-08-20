@@ -47,7 +47,7 @@ Ce principe est fondamental: chaque élément remplit des tâches structurelleme
 
 Il en résulte une architecture où le pouvoir est réparti, révocable et réduit au minimum.
 
-Au sein de la communauté elle-même, le document « Éthique des Earthlings » distingue quatre rôles fonctionnels:
+Au sein de la communauté elle-même, la Charte distingue quatre rôles fonctionnels:
 
 - l'Assemblée DAO - LES DÉCISIONS;
 - les Core Nodes - LE SERVICE;
@@ -62,7 +62,7 @@ L'Emergency Multisig assure la protection de l'infrastructure contre les failles
 
 Le Conseil indépendant formulera des recommandations d'experts et des avis consultatifs ([en savoir plus](https://earth-lings.org/documents/fr/fr11-conseil-independant.html)).
 
-Les trois éléments structurels clés des Earthlings - la DAO, les instruments juridiques et le Conseil indépendant - portent l'architecture de trois fonctions: l'autogouvernement collectif, les relations juridiques extérieures et l'expertise.
+Si l'on regarde non pas les rôles internes, mais ce par quoi les Earthlings agissent vers l'extérieur, les éléments clés sont trois: la DAO, les instruments juridiques et le Conseil indépendant. Ils portent l'autogouvernement collectif, les relations juridiques extérieures et l'expertise.
 
 Les fonctions de SERVICE et de SÉCURITÉ sont assurées par des organes techniques distincts, décrits en détail dans les documents [DAO des Earthlings](/documents/fr/fr07-dao.html) et [Plateforme numérique](/documents/fr/fr12-plateforme-numerique.html).
 

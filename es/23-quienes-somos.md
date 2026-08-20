@@ -47,7 +47,7 @@ Ese principio es fundamental: cada elemento resuelve tareas que los demás no pu
 
 El resultado es una arquitectura en la que el poder está repartido, es revocable y está reducido al mínimo.
 
-Dentro de la propia comunidad, el documento «Ética de los Earthlings» distingue cuatro papeles funcionales:
+Dentro de la propia comunidad, la Carta distingue cuatro papeles funcionales:
 
 - la Asamblea DAO - DECISIONES;
 - los Core Nodes - SERVICIO;
@@ -62,7 +62,7 @@ El Emergency Multisig asegura la protección de la infraestructura frente a expl
 
 El Consejo Independiente formula recomendaciones de expertos y dictámenes consultivos ([más detalles](https://earth-lings.org/documents/ru/ru11-nezavisimyj-sovet.html)).
 
-Los tres elementos estructurales clave de Earthlings - la DAO, los instrumentos jurídicos y el Consejo Independiente - aseguran la arquitectura del autogobierno colectivo, de la relación jurídica externa y de la consulta experta.
+Si se mira no a los papeles internos, sino a aquello con lo que Earthlings actúa hacia fuera, los elementos clave son tres: la DAO, los instrumentos jurídicos y el Consejo Independiente. Aseguran el autogobierno colectivo, la relación jurídica externa y la consulta experta.
 
 Las funciones de SERVICIO y de SEGURIDAD las realizan órganos técnicos aparte, descritos con detalle en los documentos [DAO Earthlings](/documents/ru/ru07-dao.html) y [Plataforma digital](/documents/ru/ru12-cifrovaya-platforma.html).
 
