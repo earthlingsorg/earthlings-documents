@@ -18,7 +18,7 @@
 
 No other conditions exist. Nationality, race, religion, sex, social position, citizenship, and place of residence have no bearing on the possibility of entering.
 
-> **If you cannot make the contribution**, another person makes it for you. This is covered in section 9. Nothing has to be proven or explained. The contribution does not buy belonging to the people: belonging arises by signing the Declaration, and the contribution covers the cost of verification and of issuing the passport and sustains the people's infrastructure.
+> **If you cannot make the contribution**, another person makes it for you. This is covered in section 9. Nothing has to be proven or explained. The contribution does not buy belonging to the people: belonging arises by signing the Declaration.
 
 ---
 
@@ -89,7 +89,7 @@ These are duties, not conditions for keeping your status: breaching them entails
 
 **Exit.** A statement through your personal account, then a pause of 72 hours by default - protection against an impulsive decision, which you are entitled to waive. Then you burn the passport **with your own key**: the server does not store your keys and can neither prevent your exit nor carry it out for you. The exit takes effect from the moment of burning.
 
-**Return.** You can return at any time by going through the standard procedure again - identity verification and the contribution covering its cost and sustaining the people's infrastructure. A previously burned passport is no obstacle to returning.
+**Return.** You can return at any time by going through the standard procedure again - identity verification and the contribution covering its cost. A previously burned passport is no obstacle to returning.
 
 ---
 

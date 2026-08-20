@@ -18,7 +18,7 @@
 
 No existen otras condiciones. La adscripción étnica, la raza, la religión, el sexo, la posición social, la nacionalidad y el lugar de residencia no influyen en la posibilidad de adherirse.
 
-> **Si usted no puede abonar la cuota**, la abona por usted otra persona. De eso trata la sección 9. No hará falta demostrar ni explicar nada. La cuota no compra la pertenencia al pueblo: esta nace al firmar la Declaración, y la cuota cubre el coste de la comprobación y de la emisión del pasaporte, y sostiene la infraestructura del pueblo.
+> **Si usted no puede abonar la cuota**, la abona por usted otra persona. De eso trata la sección 9. No hará falta demostrar ni explicar nada. La cuota no compra la pertenencia al pueblo: esta nace al firmar la Declaración.
 
 ---
 
@@ -89,7 +89,7 @@ Son deberes, y no condiciones para conservar su condición de earthling: infring
 
 **Salida.** Declaración desde el área personal y después una pausa de 72 horas por defecto, protección frente a una decisión impulsiva a la que usted puede renunciar. A continuación destruye el pasaporte **con su propia clave**: el servidor no guarda sus claves y no puede ni impedir la salida ni realizarla en su lugar. La salida surte efecto desde el momento de la destrucción.
 
-**Regreso.** Se puede volver en cualquier momento pasando de nuevo el procedimiento estándar: la verificación de identidad y la cuota que cubre su coste y sostiene la infraestructura del pueblo. El pasaporte anterior destruido no impide el regreso.
+**Regreso.** Se puede volver en cualquier momento pasando de nuevo el procedimiento estándar: la verificación de identidad y la cuota que cubre su coste. El pasaporte anterior destruido no impide el regreso.
 
 ---
 

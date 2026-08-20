@@ -18,7 +18,7 @@
 
 Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Geschlecht, gesellschaftliche Stellung, Staatsangehörigkeit und Wohnort wirken sich auf die Möglichkeit des Beitritts nicht aus.
 
-> **Wenn Sie den Beitrag nicht entrichten können**, entrichtet ihn ein anderer Mensch für Sie. Dazu Abschnitt 9. Sie müssen nichts nachweisen und nichts erklären. Die Zugehörigkeit zum Volk kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung, und der Beitrag deckt die Selbstkosten der Prüfung und der Ausgabe des Passes und trägt die Infrastruktur des Volkes.
+> **Wenn Sie den Beitrag nicht entrichten können**, entrichtet ihn ein anderer Mensch für Sie. Dazu Abschnitt 9. Sie müssen nichts nachweisen und nichts erklären. Die Zugehörigkeit zum Volk kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung.
 
 ---
 
@@ -89,7 +89,7 @@ Das sind Pflichten und keine Voraussetzungen für den Erhalt des Status: Ihre Ve
 
 **Austritt.** Eine Erklärung über den persönlichen Bereich, danach als Voreinstellung eine Pause von 72 Stunden - ein Schutz vor einem übereilten Entschluss, auf den Sie verzichten dürfen. Danach entwerten Sie den Pass **mit dem eigenen Schlüssel**: Der Server bewahrt Ihre Schlüssel nicht auf und kann den Austritt weder verhindern noch für Sie vornehmen. Der Austritt wird mit der Entwertung wirksam.
 
-**Rückkehr.** Zurückkehren können Sie jederzeit, indem Sie das übliche Verfahren erneut durchlaufen - die Identitätsprüfung und den Beitrag, der ihre Selbstkosten deckt und die Infrastruktur des Volkes trägt. Der entwertete frühere Pass steht der Rückkehr nicht entgegen.
+**Rückkehr.** Zurückkehren können Sie jederzeit, indem Sie das übliche Verfahren erneut durchlaufen - die Identitätsprüfung und den Beitrag, der ihre Selbstkosten deckt. Der entwertete frühere Pass steht der Rückkehr nicht entgegen.
 
 ---
 

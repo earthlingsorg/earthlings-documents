@@ -356,7 +356,7 @@ Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Gesc
 
 ## Artikel 12-bis. Der Beitrag beim Beitritt und die Zahlung für einen anderen
 
-Die Identitätsprüfung und die Ausgabe des Passes werden durch einen einmaligen Beitrag beim Beitritt gedeckt. Der Beitrag deckt die Selbstkosten und trägt die Infrastruktur des Volkes, kauft keine Zugehörigkeit und schafft keinerlei Vorteil (Erklärung, Artikel 8); er fließt in die gemeinsame Kasse und wird nach veröffentlichten Anteilen verteilt (Schatzkammer, Artikel 9). Die Höhe des Beitrags legt die Vollversammlung fest; erhöht werden kann er nur durch ihren Beschluss.
+Die Identitätsprüfung und die Ausgabe des Passes werden durch einen einmaligen Beitrag beim Beitritt gedeckt. Der Beitrag kauft keine Zugehörigkeit und schafft keinerlei Vorteil (Erklärung, Artikel 8). Den Zweck des Beitrags und das Verfahren seiner Verwendung legt die Schatzkammer fest (Artikel 9). Die Höhe des Beitrags legt die Vollversammlung fest; erhöht werden kann er nur durch ihren Beschluss.
 
 Eine Befreiung vom Beitrag gibt es nicht. Der Beitrag wird stets vollständig entrichtet; verschieden ist allein, wer ihn entrichtet.
 
@@ -442,7 +442,7 @@ Jeder Earthling ist befugt, seine Teilnahme am Volk der Earthlings jederzeit fre
 
 **Earthlings Coin beim Austritt.** Die Token in der Geldbörse des austretenden Earthling bleiben sein Eigentum: Sie werden weder eingezogen noch aufgehoben. Nach dem Verlust des Status als Earthling verliert der Eigentümer das Stimmrecht in der DAO und den Zugang zu den inneren Diensten; die weitere Verwendung der Token hängt von ihrer technischen Zugänglichkeit und vom anwendbaren Recht der jeweiligen Rechtsordnung ab.
 
-**Der erneute Beitritt.** Ein Mensch, der freiwillig aus dem Volk der Earthlings ausgetreten ist, ist befugt, jederzeit erneut beizutreten, indem er das übliche Verfahren durchläuft - die Prüfung und den einmaligen Beitrag beim Beitritt, der ihre Selbstkosten deckt und die Infrastruktur des Volkes trägt (der Beitrag kann auch nach Artikel 12-bis entrichtet werden) - und einen neuen SBT-Pass erhält. Der entwertete frühere Pass steht der Rückkehr nicht entgegen: Die Daten der Prüfung werden nur dazu aufbewahrt, dass ein Mensch nicht zwei gültige Pässe zugleich haben kann.
+**Der erneute Beitritt.** Ein Mensch, der freiwillig aus dem Volk der Earthlings ausgetreten ist, ist befugt, jederzeit erneut beizutreten, indem er das übliche Verfahren durchläuft - die Prüfung und den einmaligen Beitrag beim Beitritt, der ihre Selbstkosten deckt (der Beitrag kann auch nach Artikel 12-bis entrichtet werden) - und einen neuen SBT-Pass erhält. Der entwertete frühere Pass steht der Rückkehr nicht entgegen: Die Daten der Prüfung werden nur dazu aufbewahrt, dass ein Mensch nicht zwei gültige Pässe zugleich haben kann.
 
 ## Artikel 19. Das Ruhen des Status
 

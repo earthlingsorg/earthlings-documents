@@ -356,7 +356,7 @@ There are no other conditions. Nationality, race, religion, sex, social position
 
 ## Article 12 bis. The Entry Contribution and Payment for Another
 
-Identity verification and the issuance of a passport are covered by a one-time contribution on joining. The contribution covers cost price and sustains the people's infrastructure, buys no belonging, and creates no advantage of any kind (Declaration, Article 8); it goes into the common treasury and is allocated in published shares (Treasury, Article 9). The amount of the contribution is set by the Assembly; it may be increased only by a decision of the Assembly.
+Identity verification and the issuance of a passport are covered by a one-time contribution on joining. The contribution buys no belonging and creates no advantage of any kind (Declaration, Article 8). The purpose of the contribution and the procedure for spending it are established by the Earthlings Treasury (Article 9). The amount of the contribution is set by the Assembly; it may be increased only by a decision of the Assembly.
 
 There is no exemption from the contribution. The contribution is always paid in full; what differs is only who pays it.
 
@@ -442,7 +442,7 @@ Every earthling has the right at any time to end their participation in the Eart
 
 **Earthlings Coin on departure.** Tokens held in the wallet of a departing earthling remain their property: they are not confiscated and not annulled. After losing the status of an earthling the holder loses the right to vote in the DAO and access to internal services; further use of the tokens depends on their technical accessibility and on the applicable law of the relevant jurisdiction.
 
-**Rejoining.** A person who has voluntarily left the Earthlings people has the right to rejoin at any time by going through the standard procedure - verification and the one-time entry contribution covering its cost price and sustaining the people's infrastructure (the contribution may also be paid under Article 12 bis) - and receiving a new SBT passport. A previously burned passport is no impediment to returning: verification data are retained only so that one person cannot hold two valid passports at once.
+**Rejoining.** A person who has voluntarily left the Earthlings people has the right to rejoin at any time by going through the standard procedure - verification and the one-time entry contribution covering its cost price (the contribution may also be paid under Article 12 bis) - and receiving a new SBT passport. A previously burned passport is no impediment to returning: verification data are retained only so that one person cannot hold two valid passports at once.
 
 ## Article 19. Suspension of Status
 

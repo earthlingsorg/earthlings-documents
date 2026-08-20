@@ -59,7 +59,7 @@ L'historique de la participation et de l'apport est consigné publiquement: vote
 
 **2. Vérification de l'identité.** Vérification que vous êtes une personne vivante et que vous êtes unique. Elle assure le principe « une personne - une voix ». Les images d'origine et les scans de documents ne sont pas conservés.
 
-**3. Versement de la cotisation.** L'équivalent de 79 USD, en cryptomonnaie (ETH, USDT, USDC). Elle couvre le prix de revient de la vérification d'identité et de la délivrance du passeport, soutient l'infrastructure du peuple, entre au trésor commun et est répartie selon les parts publiées.
+**3. Versement de la cotisation.** L'équivalent de 79 USD, en cryptomonnaie (ETH, USDT, USDC). L'affectation de la cotisation et les modalités de sa dépense figurent dans le document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).
 
 > Celui qui ne peut pas verser lui-même la cotisation entre dans une file d'attente ouverte, et la cotisation est versée pour lui par une autre personne ou par la Trésorerie. Le passeport ne se distingue alors en rien des autres: le registre n'inscrit pas qui a versé la cotisation. La cotisation n'achète pas l'appartenance: celle-ci naît de la signature de la Déclaration.
 
@@ -181,4 +181,4 @@ En cas de mesures de restriction pour manquements graves aux règles communes, l
 
 La Charte et le document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html) prévoient la possibilité de recevoir des subventions et des dons d'organisations extérieures, à condition que la source soit obligatoirement publiée, qu'il n'y ait pas de conditions contraires aux principes du peuple, et avec une interdiction expresse: le donateur n'obtient ni voix ni influence sur les décisions. Le montant d'un don ne donne rien.
 
-Les cotisations des participants couvrent le prix de revient de la vérification d'identité et de la délivrance des passeports, le développement de l'infrastructure, l'accompagnement juridique et le fonctionnement de l'écosystème. Toutes les décisions de dépense sont prises par un vote de l'Assemblée DAO et publiées.
+Toutes les décisions de dépense sont prises par un vote de l'Assemblée DAO et publiées; les postes de dépense et leurs parts sont fixés par l'article 9 du document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).

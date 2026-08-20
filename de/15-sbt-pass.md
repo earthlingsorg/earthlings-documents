@@ -59,7 +59,7 @@ Die Geschichte der Teilnahme und des Beitrags wird öffentlich festgehalten: Abs
 
 **2. Die Identitätsprüfung.** Die Prüfung, dass Sie ein lebender Mensch sind und dass Sie einer sind. Sie sichert den Grundsatz „ein Mensch - eine Stimme“. Die ursprünglichen Bilder und die Scans der Papiere werden nicht gespeichert.
 
-**3. Die Entrichtung des Beitrags.** Der Gegenwert von 79 USD, in Kryptowährung (ETH, USDT, USDC). Er deckt die Selbstkosten der Identitätsprüfung und der Ausgabe des Passes und trägt die Infrastruktur des Volkes, fließt in die gemeinsame Kasse und wird nach veröffentlichten Anteilen verteilt.
+**3. Die Entrichtung des Beitrags.** Der Gegenwert von 79 USD, in Kryptowährung (ETH, USDT, USDC). Der Zweck des Beitrags und das Verfahren seiner Verwendung - im Dokument [Die Schatzkammer](https://earth-lings.org/documents/de/de09-schatzkammer.html).
 
 > Wer den Beitrag nicht selbst entrichten kann, stellt sich in eine offene Warteschlange, und den Beitrag entrichtet für ihn ein anderer Mensch oder die Schatzkammer. Der Pass unterscheidet sich dabei in nichts von den übrigen: Im Register ist nicht vermerkt, von wem der Beitrag entrichtet wurde. Die Zugehörigkeit kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung.
 
@@ -181,4 +181,4 @@ Heute entwickelt sich das Volk mit den Mitteln der Teilnehmer: Eine äußere Fin
 
 Die Charta und das Dokument [Die Schatzkammer](https://earth-lings.org/documents/de/de09-schatzkammer.html) sehen die Möglichkeit vor, Zuwendungen und Spenden von äußeren Organisationen anzunehmen - bei zwingender Veröffentlichung der Quelle, ohne Bedingungen, die den Grundsätzen des Volkes widersprechen, und mit einem ausdrücklichen Verbot: Ein Spender erhält weder eine Stimme noch Einfluss auf Beschlüsse. Die Höhe einer Spende gibt nichts.
 
-Die Beiträge der Teilnehmer decken die Selbstkosten der Identitätsprüfung und der Ausgabe der Pässe, die Entwicklung der Infrastruktur, die rechtliche Begleitung und die Arbeit des Ökosystems. Alle Beschlüsse über Ausgaben werden durch Abstimmung der DAO-Vollversammlung gefasst und veröffentlicht.
+Alle Beschlüsse über Ausgaben werden durch Abstimmung der DAO-Vollversammlung gefasst und veröffentlicht; die Bereiche der Ausgaben und ihre Anteile sind in Artikel 9 des Dokuments [Die Schatzkammer](https://earth-lings.org/documents/de/de09-schatzkammer.html) festgelegt.

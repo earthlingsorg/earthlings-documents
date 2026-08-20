@@ -335,7 +335,7 @@ Weitere Voraussetzungen werden nicht festgelegt und können nicht festgelegt wer
 
 Eine Aufnahmeentscheidung gibt es nicht: Das Volk prüft keine Anträge, bewertet keinen Menschen und weist niemanden ab.
 
-Die Identitätsprüfung und die Ausgabe des Earthling-Passes verursachen Kosten, und diese werden durch einen Beitrag beim Beitritt gedeckt. Der Beitrag deckt die Selbstkosten und trägt die Infrastruktur des Volkes, kauft keine Zugehörigkeit und schafft keinerlei Vorteil; er fließt in die gemeinsame Kasse und wird nach veröffentlichten Anteilen verteilt. Wer ihn nicht selbst aufbringen kann, dem bleibt der Eintritt in das Volk gleichwohl offen: Das Verfahren, nach dem der Beitrag für einen Menschen von einer anderen Person oder aus der gemeinsamen Kasse entrichtet wird, legt die Charta der Earthlings fest. Die Höhe des Beitrags wird durch diese Erklärung nicht festgelegt und darf nur durch einen Beschluss der Vollversammlung erhöht werden.
+Die Identitätsprüfung und die Ausgabe des Earthling-Passes verursachen Kosten, und diese werden durch einen Beitrag beim Beitritt gedeckt. Der Beitrag kauft keine Zugehörigkeit und schafft keinerlei Vorteil. Wer ihn nicht selbst aufbringen kann, dem bleibt der Eintritt in das Volk gleichwohl offen: Das Verfahren, nach dem der Beitrag für einen Menschen von einer anderen Person oder aus der gemeinsamen Kasse entrichtet wird, legt die Charta der Earthlings fest. Die Höhe des Beitrags wird durch diese Erklärung nicht festgelegt und darf nur durch einen Beschluss der Vollversammlung erhöht werden.
 
 ### Unüberwindliche Anforderungen gibt es nicht
 

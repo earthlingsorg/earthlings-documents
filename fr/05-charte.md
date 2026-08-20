@@ -356,7 +356,7 @@ Il n'existe pas d'autres conditions. L'appartenance nationale, la race, la relig
 
 ## Article 12 bis. La cotisation d'entrée et le paiement pour autrui
 
-La vérification d'identité et la délivrance du passeport sont couvertes par une cotisation unique versée à l'entrée. La cotisation couvre le prix de revient et soutient l'infrastructure du peuple, n'achète pas l'appartenance et ne crée aucun avantage (Déclaration, article 8); elle entre au trésor commun et est répartie selon les parts publiées (Trésorerie, article 9). Le montant de la cotisation est fixé par l'Assemblée; il ne peut être augmenté que par une décision de celle-ci.
+La vérification d'identité et la délivrance du passeport sont couvertes par une cotisation unique versée à l'entrée. La cotisation n'achète pas l'appartenance et ne crée aucun avantage (Déclaration, article 8). L'affectation de la cotisation et les modalités de sa dépense sont établies par la Trésorerie (article 9). Le montant de la cotisation est fixé par l'Assemblée; il ne peut être augmenté que par une décision de celle-ci.
 
 Il n'existe pas d'exonération de cotisation. La cotisation est toujours versée intégralement; seule diffère la personne qui la verse.
 
@@ -442,7 +442,7 @@ Tout earthling a le droit de mettre fin volontairement, à tout moment, à sa pa
 
 **Les Earthlings Coin à la sortie.** Les jetons se trouvant sur le portefeuille de l'earthling qui sort demeurent sa propriété: ils ne sont ni confisqués ni annulés. Après la perte du statut d'earthling, le titulaire perd le droit de vote dans la DAO et l'accès aux services internes; l'usage ultérieur des jetons dépend de leur accessibilité technique et de la loi applicable dans l'ordre juridique concerné.
 
-**Nouvelle adhésion.** Une personne sortie volontairement du peuple des Earthlings a le droit d'adhérer de nouveau à tout moment, en suivant la procédure ordinaire - vérification et cotisation unique d'entrée couvrant le prix de revient de celle-ci et soutenant l'infrastructure du peuple (la cotisation peut également être versée dans les conditions de l'article 12 bis) - et en recevant un nouveau passeport SBT. Le passeport antérieur détruit ne fait pas obstacle au retour: les données de vérification ne sont conservées que pour qu'une même personne ne puisse pas détenir deux passeports valides en même temps.
+**Nouvelle adhésion.** Une personne sortie volontairement du peuple des Earthlings a le droit d'adhérer de nouveau à tout moment, en suivant la procédure ordinaire - vérification et cotisation unique d'entrée couvrant le prix de revient de celle-ci (la cotisation peut également être versée dans les conditions de l'article 12 bis) - et en recevant un nouveau passeport SBT. Le passeport antérieur détruit ne fait pas obstacle au retour: les données de vérification ne sont conservées que pour qu'une même personne ne puisse pas détenir deux passeports valides en même temps.
 
 ## Article 19. La suspension du statut
 

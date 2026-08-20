@@ -59,7 +59,7 @@ El historial de participación y de aportación se hace constar públicamente: v
 
 **2. Verificación de identidad.** Comprobación de que usted es una persona viva y de que es una sola. Asegura el principio «una persona, un voto». Las imágenes originales y los escaneos de los documentos no se conservan.
 
-**3. Abono de la cuota.** El equivalente a 79 USD, en criptomoneda (ETH, USDT, USDC). Cubre el coste de la verificación de identidad y de la emisión del pasaporte y sostiene la infraestructura del pueblo, ingresa en la caja común y se distribuye conforme a las partes publicadas.
+**3. Abono de la cuota.** El equivalente a 79 USD, en criptomoneda (ETH, USDT, USDC). El destino de la cuota y el procedimiento de su gasto están en el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html).
 
 > Quien no puede abonar la cuota por sí mismo entra en una cola abierta, y su cuota la abona otra persona o la Tesorería. El pasaporte no se diferencia en nada de los demás: en el registro no consta quién abonó la cuota. La cuota no compra la pertenencia: esta nace al firmar la Declaración.
 
@@ -181,4 +181,4 @@ A día de hoy el pueblo se desarrolla con los fondos de sus participantes: no se
 
 La Carta y el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html) prevén la posibilidad de aceptar subvenciones y donaciones de organizaciones externas, con publicación obligatoria de la fuente, sin condiciones contrarias a los principios del pueblo y con una prohibición expresa: el donante no obtiene ni voto ni influencia sobre las decisiones. La cuantía de una donación no da nada.
 
-Las cuotas de los participantes cubren el coste de la verificación de identidad y de la emisión de los pasaportes, el desarrollo de la infraestructura, el acompañamiento jurídico y el funcionamiento del ecosistema. Todas las decisiones de gasto se adoptan por votación de la Asamblea DAO y se publican.
+Todas las decisiones de gasto se adoptan por votación de la Asamblea DAO y se publican; las áreas de gasto y sus proporciones están establecidas en el artículo 9 del documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html).
