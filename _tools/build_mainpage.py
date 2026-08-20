@@ -77,8 +77,7 @@ PDF_BY_LANG = {
     'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', 'Télécharger le Manifeste en PDF'),
     'es': ('/downloads/manifiesto-de-la-pertenencia-es.pdf', 'Descargar el Manifiesto en PDF'),
     'ka': ('/downloads/manifesto-of-belonging-ka.pdf', 'ჩამოტვირთეთ მანიფესტი PDF-ად'),
-    # zh: PDF не собран - в _tools/fonts нет CJK-глифов, нужен субсет
-    # Noto Serif SC. Без записи кнопка не рисуется, и это верно.
+    'zh': ('/downloads/manifesto-of-belonging-zh.pdf', '下载宣言 PDF'),
 }
 
 PDF_SVG = ('<svg viewBox="0 0 16 19" fill="none" stroke="currentColor" stroke-width="1.3" '

@@ -13,7 +13,7 @@ PDF пересылают, и открыт он будет вне сайта.
 нельзя. Соседство с build_site_docs.py естественное: тот тоже лежит здесь и
 пишет в репозиторий сайта.
 
-Запуск:  python _tools/build_manifesto_pdf.py [ru|en|de]
+Запуск:  python _tools/build_manifesto_pdf.py [ru|en|de|fr|es|ka|zh]
 Выход:   <репозиторий сайта>/downloads/<имя из BY_LANG>
 
 Из внешнего нужен только reportlab (`pip install reportlab`). Шрифт лежит в
@@ -40,6 +40,13 @@ from reportlab.platypus import BaseDocTemplate, Flowable, Frame, PageTemplate, P
 # разным при одном и том же тексте. В репозитории это означало бы правку
 # бинарника на каждом прогоне, включая прогоны из pre-commit хука.
 rl_config.invariant = 1
+
+# Консоль Windows живёт в однобайтовой кодировке, и попытка напечатать в неё
+# грузинскую или китайскую строку роняет скрипт - уже ПОСЛЕ того, как файл
+# записан. Выглядит это как провал сборки, хотя PDF собран. Печатаем с
+# заменой непередаваемых знаков.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(errors="replace")
 
 # Репозиторий сайта. По умолчанию - соседняя папка рядом с этой, как у
 # build_site_docs.py; переопределяется той же переменной окружения, чтобы не
@@ -90,6 +97,12 @@ BY_LANG = {
     "ka": ("manifesto-of-belonging-ka.pdf",
            "/documents/ka/ka20-the-founding-period.html",
            "Earthlings-ის ხალხის მანიფესტი"),
+    # Иероглифы в имени файла не ставим по той же причине, что мхедрули и
+    # умляуты: адрес пересылают почтой и в мессенджерах, где каждый знак
+    # превращается в три процентных группы и ссылка перестаёт читаться.
+    "zh": ("manifesto-of-belonging-zh.pdf",
+           "/documents/zh/zh20-the-founding-period.html",
+           "Earthlings 人民的宣言"),
 }
 assert LANG in BY_LANG, (
     'нет настроек для языка "%s": задайте имя файла, адрес кнопки и subject '
@@ -184,8 +197,51 @@ _NOTO_GEORGIAN = ((FAMILY, "NotoSerifGeorgian-Regular.ttf"),
                   (FAMILY + "-Bold", "NotoSerifGeorgian-Bold.ttf"),
                   (FAMILY + "-Italic", "NotoSerifGeorgian-Regular.ttf"),
                   (FAMILY + "-BoldItalic", "NotoSerifGeorgian-Bold.ttf"))
-FACES_BY_LANG = {"ka": _NOTO_GEORGIAN}
+# Китайский: Noto Serif SC, та же лицензия OFL. Целиком шрифт в репозиторий не
+# кладётся - в нём около 65 тысяч глифов и 25 МБ в переменном начертании,
+# тогда как в Манифесте меньше пятисот уникальных иероглифов. В fonts/ лежит
+# субсет, испечённый make_cjk_subset.py; он же печёт статические Regular и
+# Bold из переменного файла, потому что переменные reportlab не понимает.
+# Курсива у иероглифов нет как явления, как и у мхедрули: курсивные лица
+# отображены на прямые.
+_NOTO_SC = ((FAMILY, "NotoSerifSC-Regular.ttf"),
+            (FAMILY + "-Bold", "NotoSerifSC-Bold.ttf"),
+            (FAMILY + "-Italic", "NotoSerifSC-Regular.ttf"),
+            (FAMILY + "-BoldItalic", "NotoSerifSC-Bold.ttf"))
+FACES_BY_LANG = {"ka": _NOTO_GEORGIAN, "zh": _NOTO_SC}
 FACES = FACES_BY_LANG.get(LANG, _PT_SERIF)
+
+# Перенос строк. Обычный режим reportlab ломает строку по пробелам, а в
+# китайском письме пробелов нет: весь абзац для него - одно слово в две тысячи
+# знаков, которое не влезает во фрейм, и абзац выпадает целиком. Режим 'CJK'
+# разрешает перенос между любыми двумя иероглифами. Шрифт без этого режима
+# не спасает: буквы будут, а текста не будет.
+WORD_WRAP = "CJK" if LANG == "zh" else None
+
+# Правило 行首禁则: строка не начинается со знака препинания. reportlab его
+# знает и умеет вешать такой знак в правое поле, но таблица у него собрана под
+# японский: в ней есть 。 и 、 и нет ни одного знака, которым набирают
+# упрощённое письмо. Из-за этого китайская запятая исправно уезжала в начало
+# строки. Дополняем таблицу библиотеки, а не обходим её в разметке: обходить
+# пришлось бы в каждом абзаце.
+#
+# Тире 破折号 (две штуки U+2014 подряд) в список намеренно НЕ входит. reportlab
+# вешает в поле ровно один знак, и пара разъехалась бы по двум строкам - это
+# хуже, чем тире в начале строки.
+if LANG == "zh":
+    from reportlab.lib import textsplit as _ts
+    _CJK_CANNOT_START = "".join(chr(c) for c in (
+        0xFF0C,  # ，полноширинная запятая
+        0xFF1A,  # ：двоеточие
+        0xFF1B,  # ；точка с запятой
+        0xFF01,  # ！восклицательный
+        0xFF1F,  # ？вопросительный
+        0x201D,  # ” закрывающая двойная
+        0x2019,  # ' закрывающая одинарная
+        0x300B,  # 》закрывающая книжная
+        0xFF09,  # ）закрывающая круглая
+    ))
+    _ts.ALL_CANNOT_START += _CJK_CANNOT_START
 
 
 def register_fonts():
@@ -199,6 +255,26 @@ def register_fonts():
     pdfmetrics.registerFontFamily(FAMILY, normal=FAMILY, bold=FAMILY + "-Bold",
                                   italic=FAMILY + "-Italic",
                                   boldItalic=FAMILY + "-BoldItalic")
+
+
+def check_coverage(chunks):
+    """Каждый знак текста должен быть в шрифте.
+
+    Субсет опасен тем, что молчит: знака нет - reportlab рисует пустой
+    прямоугольник и собирает файл без единой жалобы. Заметить это можно
+    только глазами и только открыв PDF. Поэтому сверяем заранее и падаем с
+    перечнем недостающих знаков: тихая порча превращается в громкую ошибку.
+    """
+    have = set()
+    for name, _ in FACES:
+        have |= set(pdfmetrics.getFont(name).face.charToGlyph)
+    missing = sorted({ord(c) for text in chunks for c in text
+                      if ord(c) not in have and not c.isspace()})
+    assert not missing, (
+        "в шрифте нет %d знаков текста: %s\n"
+        "Если это китайский, перепеките субсет: "
+        "python _tools/make_cjk_subset.py <NotoSerifSC[wght].ttf>"
+        % (len(missing), " ".join("%s U+%04X" % (chr(c), c) for c in missing[:30])))
 
 
 def parse_source():
@@ -330,14 +406,18 @@ def build():
 
     bad = check_typography([title, sign, cta] + body)
     assert not bad, f"запрещённая типографика в исходнике: {bad}"
+    check_coverage([title, sign, cta] + body)
 
+    # Режим переноса задаётся один раз здесь и раздаётся всем стилям: забыть
+    # его в одном из трёх - значит получить ровно один разъехавшийся блок.
+    wrap = {"wordWrap": WORD_WRAP} if WORD_WRAP else {}
     st_body = ParagraphStyle("body", fontName="Manifest", fontSize=11, leading=17.5,
                              alignment=TA_JUSTIFY, spaceAfter=10, textColor=INK,
-                             firstLineIndent=0)
+                             firstLineIndent=0, **wrap)
     st_title = ParagraphStyle("title", fontName="Manifest-Bold", fontSize=23, leading=29,
-                              alignment=TA_CENTER, textColor=NAVY, spaceAfter=0)
+                              alignment=TA_CENTER, textColor=NAVY, spaceAfter=0, **wrap)
     st_sign = ParagraphStyle("sign", fontName="Manifest-Italic", fontSize=10.5, leading=15,
-                             alignment=TA_CENTER, textColor=INK_SOFT)
+                             alignment=TA_CENTER, textColor=INK_SOFT, **wrap)
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     doc = BaseDocTemplate(
