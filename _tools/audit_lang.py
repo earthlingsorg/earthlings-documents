@@ -90,6 +90,12 @@ DEFAULTS = {
     'COUNT': 'word',
     'LETTERS': H.LATIN,         # класс букв письма, нужен при COUNT='stem'
     'STEM_EXTRA': 8,            # допуск окончания для 'stem'
+    # Приставочные частицы, пишущиеся СЛИТНО с основой. Пусто у всех языков,
+    # кроме арабского: там والشعب - это «и» плюс артикль плюс «народ», и
+    # граница слова стоит перед служебной буквой, а не перед основой. Без
+    # этого поля счёт по основе теряет больше половины вхождений и печатает
+    # «чисто» на тексте, где термин расползся. См. H.ARABIC_PROCLITIC.
+    'STEM_PREFIX': '',
     'FLEX_EXTRA': 3,            # допуск окончания для 'flex'
     # Считать термины без учёта регистра. Для романских языков - да: слово в
     # начале фразы то же самое. Для немецкого - НЕТ: заглавная буква там
@@ -267,7 +273,8 @@ def counter(conf):
             return len(re.findall(H.word(w), text))
         if conf.COUNT == 'stem':
             return len(re.findall(
-                H.stem(w, conf.LETTERS, conf.STEM_EXTRA), text))
+                H.stem(w, conf.LETTERS, conf.STEM_EXTRA, conf.STEM_PREFIX),
+                text))
         return len(re.findall(
             r'(?<![\w-])' + re.escape(w.strip()) +
             r'\w{0,%d}(?![\w-])' % conf.FLEX_EXTRA, text,
