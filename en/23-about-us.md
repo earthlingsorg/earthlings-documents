@@ -17,7 +17,7 @@ Twenty-five founding documents in nine languages, an on-chain identity, and a pu
 - the ecosystem platform;
 - a philosophical companion site.
 
-The infrastructure of self-government - the registry, identity verification, voting, Cells, the internal economy, and the treasury - is built, deployed, and tested in a working environment. The people is in its founding phase: entry is opening, and from the first day the whole practice of self-government - votes, decisions, movements of funds - is recorded in a public chronicle. The body that by its nature requires an established membership - the Independent Council - is formed once that membership is in place; until then it is provided for by the founding documents.
+The infrastructure of self-government - the registry, identity verification, voting, Cells, the internal economy, and the treasury - is built, deployed, and tested in a working environment. The people is in its founding phase: entry is opening, and from the first day the whole practice of self-government - votes, decisions, movements of funds - is recorded in a public chronicle. The body that by its nature requires an established number of earthlings - the Independent Council - is formed once that number has been reached; until then it is provided for by the founding documents.
 
 The economic level is deliberately separated from governance and from identification. Every Earthling holds three architecturally distinct attributes:
 
@@ -153,7 +153,7 @@ Every transaction is available for public audit.
 | General enquiries | [info@earth-lings.org](mailto:info@earth-lings.org) |
 |---|---|
 | Partnership, participation, and help | [team@earth-lings.org](mailto:team@earth-lings.org) |
-| Legal and formal questions | [privacy@earth-lings.org](mailto:privacy@earth-lings.org) |
+| Legal and formal questions | [info@earth-lings.org](mailto:info@earth-lings.org) |
 | Website | [https://earth-lings.org](https://earth-lings.org) |
 
 ## Public verification

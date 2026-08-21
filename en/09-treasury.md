@@ -290,7 +290,7 @@ By decision of the DAO Assembly a legal entity may be established to act as the 
 
 **Current status:** not established; it will be created as needed under this Article.
 
-Such an entity is an instrument of execution, separate from the elected technical coordinators, the Core Nodes; a coincidence of names would not endow the coordinators with corporate or financial powers.
+Such an entity is an instrument of execution and is separate from the elected technical coordinators, the Core Nodes: it gives the coordinators no corporate or financial powers.
 
 **Functions:** concluding contracts with suppliers; coordinating the work of outside specialists; securing the legal validity of contractual relations; administering payments in accordance with approved budgets; quality control of the work.
 

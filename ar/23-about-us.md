@@ -153,7 +153,7 @@ DAO (منظمة مستقلة لامركزية) تشكّل النواة المؤ�
 | المسائل العامة | [info@earth-lings.org](mailto:info@earth-lings.org) |
 |---|---|
 | الشراكة والمشاركة والمعونة | [team@earth-lings.org](mailto:team@earth-lings.org) |
-| المسائل القانونية والرسمية | [privacy@earth-lings.org](mailto:privacy@earth-lings.org) |
+| المسائل القانونية والرسمية | [info@earth-lings.org](mailto:info@earth-lings.org) |
 | الموقع | [https://earth-lings.org](https://earth-lings.org) |
 
 ## التحقق العلني

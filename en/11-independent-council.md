@@ -39,7 +39,7 @@ These are the Council's only functions built into mandatory procedures, and both
 
 **Preliminary consideration on a restriction of powers** (Charter, Article 22). Within 14 days the Council considers whether the initiative is well founded and publishes a recommendation.
 
-**An opinion on annulment of an invalid passport issuance** (Charter, Article 21). The Council publishes an opinion before the vote under the same procedure.
+**An opinion on annulment of an invalid issuance of a passport** (Charter, Article 21). The Council publishes an opinion before the vote under the same procedure.
 
 > **The Council cannot stop a procedure.** If an opinion is not prepared within the set period, the question goes to a vote without it.
 

@@ -153,7 +153,7 @@ DAO опирается на три фундаментальных принцип
 | Общие вопросы | [info@earth-lings.org](mailto:info@earth-lings.org) |
 |---|---|
 | Партнёрство, участие и помощь | [team@earth-lings.org](mailto:team@earth-lings.org) |
-| Юридические и формальные вопросы | [privacy@earth-lings.org](mailto:privacy@earth-lings.org) |
+| Юридические и формальные вопросы | [info@earth-lings.org](mailto:info@earth-lings.org) |
 | Веб-сайт | [https://earth-lings.org](https://earth-lings.org) |
 
 ## Публичная верификация

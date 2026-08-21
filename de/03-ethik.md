@@ -28,7 +28,7 @@ Hat das unmittelbare Gespräch zu keiner Beilegung geführt, so sind die Seiten 
 
 Die Mediation ist ein freiwilliger Vorgang, in dem ein neutraler Vermittler den Seiten hilft, eine für beide annehmbare Lösung zu finden. **Der Mediator trifft keine Entscheidung und stellt nicht fest, wer recht hat.** Seine Aufgabe ist es, die Bedingungen für ein Gespräch zu schaffen.
 
-**Wer Mediator sein kann.** Jeder Earthling, dem beide Seiten vertrauen und der am Ausgang des Streits nicht beteiligt ist. Das Volk führt ein Verzeichnis derer, die eine Ausbildung in Mediation durchlaufen haben; die Wahl aus dem Verzeichnis ist nicht verbindlich, die Seiten sind befugt, sich auf jeden anderen Teilnehmer zu einigen.
+**Wer Mediator sein kann.** Jeder Earthling, dem beide Seiten vertrauen und der am Ausgang des Streits nicht beteiligt ist. Das Volk führt ein Register derer, die eine Ausbildung in Mediation durchlaufen haben; die Wahl aus dem Register ist nicht verbindlich, die Seiten sind befugt, sich auf jeden anderen Teilnehmer zu einigen.
 
 **Der Ablauf:**
 

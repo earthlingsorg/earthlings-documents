@@ -277,7 +277,7 @@ El derecho ofrece una forma a cada escala de asociación: el matrimonio, la soci
 
 La humanidad está presente en el derecho exclusivamente como objeto: patrimonio común de la humanidad, crímenes de lesa humanidad, preocupación común en materia de clima, intereses de las generaciones futuras. Es aquello en favor de lo cual, aquello contra lo cual y aquello acerca de lo cual, y ni una sola vez aquello que actúa.
 
-La causa no es solo el descuido. La humanidad no puede recibir una forma jurídica voluntaria: nadie se ha adherido a ella, es involuntaria por definición, y todo aquel que se declare humanidad empezará a hablar por quienes no lo han elegido. El pueblo Earthlings no es una forma de la humanidad y no lo será con ningún número de miembros: es una forma accesible a cualquiera y obligatoria para nadie, y habla solo en nombre de quienes han entrado.
+La causa no es solo el descuido. La humanidad no puede recibir una forma jurídica voluntaria: nadie se ha adherido a ella, es involuntaria por definición, y todo aquel que se declare humanidad empezará a hablar por quienes no lo han elegido. El pueblo Earthlings no es una forma de la humanidad y no lo será cualquiera que sea el número de Earthlings: es una forma accesible a cualquiera y obligatoria para nadie, y habla solo en nombre de quienes han entrado.
 
 ---
 

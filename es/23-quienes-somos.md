@@ -153,7 +153,7 @@ Cada transacción está disponible para auditoría pública.
 | Cuestiones generales | [info@earth-lings.org](mailto:info@earth-lings.org) |
 |---|---|
 | Colaboración, participación y ayuda | [team@earth-lings.org](mailto:team@earth-lings.org) |
-| Cuestiones jurídicas y formales | [privacy@earth-lings.org](mailto:privacy@earth-lings.org) |
+| Cuestiones jurídicas y formales | [info@earth-lings.org](mailto:info@earth-lings.org) |
 | Sitio web | [https://earth-lings.org](https://earth-lings.org) |
 
 ## Verificación pública

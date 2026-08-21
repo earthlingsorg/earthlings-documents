@@ -2,7 +2,7 @@
 
 **Tritt mit der Veröffentlichung in Kraft**
 
-> Weicht diese Erklärung von der [Charta](https://earth-lings.org/documents/de/de05-charta.html) ab, so gilt die Charta, und weicht die Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) ab, so gilt die Erklärung. Die Verarbeitung biometrischer Daten ist gesondert beschrieben, in der [Politik der biometrischen Prüfung](https://earth-lings.org/documents/de/de16-biometrische-pruefung.html), und bei einer Abweichung in diesem Gegenstand gilt sie.
+> Weicht diese Datenschutzerklärung von der [Charta](https://earth-lings.org/documents/de/de05-charta.html) ab, so gilt die Charta, und weicht die Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) ab, so gilt die Erklärung. Die Verarbeitung biometrischer Daten ist gesondert beschrieben, in der [Politik der biometrischen Prüfung](https://earth-lings.org/documents/de/de16-biometrische-pruefung.html), und bei einer Abweichung in diesem Gegenstand gilt sie.
 
 ## Unsere Grundsätze
 
@@ -233,9 +233,9 @@ Bildungsanregungen für junge Menschen werden über gesonderte Programme durchge
 
 ---
 
-# ABSCHNITT 11. Änderungen dieser Erklärung
+# ABSCHNITT 11. Änderungen dieser Datenschutzerklärung
 
-Die Erklärung wird mit der Entwicklung der Technik und der Gesetzgebung aktualisiert. Änderungen werden unter Angabe des Datums des Inkrafttretens veröffentlicht.
+Die Datenschutzerklärung wird mit der Entwicklung der Technik und der Gesetzgebung aktualisiert. Änderungen werden unter Angabe des Datums des Inkrafttretens veröffentlicht.
 
 **Bei wesentlichen Änderungen:**
 
@@ -246,4 +246,4 @@ Die Erklärung wird mit der Entwicklung der Technik und der Gesetzgebung aktuali
 
 ---
 
-**Für Fragen zu dieser Erklärung:** privacy@earth-lings.org
+**Für Fragen zu dieser Datenschutzerklärung:** privacy@earth-lings.org

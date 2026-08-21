@@ -290,7 +290,7 @@ Por decisión de la Asamblea DAO puede constituirse una persona jurídica que ac
 
 **Estado actual:** no constituida; se creará cuando sea necesario conforme al presente artículo.
 
-Tal persona es un instrumento de ejecución, distinto de los coordinadores técnicos elegidos, los Core Nodes; una coincidencia de nombres no dotaría a los coordinadores de facultades societarias o financieras.
+Tal persona es un instrumento de ejecución y está separada de los coordinadores técnicos elegidos, los Core Nodes: no crea para los coordinadores facultades societarias ni financieras.
 
 **Funciones:** celebración de contratos con proveedores; coordinación del trabajo de especialistas externos; garantía de la legitimidad jurídica de las relaciones contractuales; administración de los pagos conforme a los presupuestos aprobados; control de calidad de los trabajos.
 

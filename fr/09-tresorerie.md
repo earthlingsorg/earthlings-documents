@@ -290,7 +290,7 @@ Sur décision de l'Assemblée DAO peut être instituée une personne morale agis
 
 **Statut actuel:** non instituée; elle sera créée au fur et à mesure des besoins, dans les conditions du présent article.
 
-Une telle personne est un instrument d'exécution, distinct des coordinateurs techniques élus que sont les Core Nodes; une coïncidence de dénomination n'investirait pas les coordinateurs de pouvoirs de société ou de pouvoirs financiers.
+Une telle personne est un instrument d'exécution, distinct des coordinateurs techniques élus que sont les Core Nodes: elle ne crée pour les coordinateurs aucun pouvoir de société ni pouvoir financier.
 
 **Fonctions:** conclusion de contrats avec les prestataires; coordination du travail des spécialistes extérieurs; garantie de la légitimité juridique des relations contractuelles; administration des paiements selon les budgets approuvés; contrôle de la qualité des travaux.
 

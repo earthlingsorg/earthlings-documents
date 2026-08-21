@@ -81,7 +81,7 @@ The restrictions laid down by Article 7 of the [Charter](https://earth-lings.org
 - **by area only** - a subject category or a particular Cell; a vote cannot be delegated across all questions at once;
 - **no self-delegation** - checked on every operation;
 - **no chains** - a delegated vote received cannot be passed on further;
-- **a ceiling** - 5 per cent of Earthlings, but no fewer than 10 delegators, so the 5 per cent limit begins to bind only above a membership of 200;
+- **a ceiling** - 5 per cent of Earthlings, but no fewer than 10 delegators, so the 5 per cent limit begins to bind only above 200 Earthlings;
 - **one active delegation per area** - a second is impossible without revoking the first;
 - **revocation at any time** - in one step, without reasons and without the delegate's consent;
 - **questions with no delegation** - amending the Charter and the basic treasury rules, major funding, forming the Emergency Multisig, restricting powers, suspending the right to vote, and annulling the issuance of a passport: on these, votes are cast only in person.
@@ -132,7 +132,7 @@ As a general rule votes are open: the fact of participation and the expression o
 
 But there are questions where openness of a person's expression of will does not protect them but exposes them to risk. For these, **a secret ballot with a verifiable count** applies; the list of such questions and the procedure are laid down by the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
 
-A secret ballot is mandatory when a restriction of powers is under consideration and on the annulment of an invalid passport issuance, and by decision of the Assembly for particular questions or categories, in particular those touching the people's position on the acts of states.
+A secret ballot is mandatory when a restriction of powers is under consideration and on the annulment of an invalid issuance of a passport, and by decision of the Assembly for particular questions or categories, in particular those touching the people's position on the acts of states.
 
 ## The feed of proposals
 

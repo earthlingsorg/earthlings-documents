@@ -290,13 +290,13 @@ Durch Beschluss der DAO-Vollversammlung kann eine juristische Person errichtet w
 
 **Der gegenwärtige Stand:** nicht errichtet; sie wird nach Bedarf im Verfahren dieses Artikels gebildet.
 
-Eine solche Person ist ein Werkzeug der Ausführung, gesondert von den gewählten technischen Koordinatoren Core Nodes; eine Übereinstimmung der Bezeichnungen würde den Koordinatoren keine gesellschaftsrechtlichen oder finanziellen Befugnisse geben.
+Eine solche Person ist ein Werkzeug der Ausführung und von den gewählten technischen Koordinatoren Core Nodes gesondert: gesellschaftsrechtliche oder finanzielle Befugnisse schafft sie den Koordinatoren nicht.
 
 **Aufgaben:** der Abschluss von Verträgen mit Auftragnehmern; die Abstimmung der Arbeit außenstehender Fachleute; die Sicherung der rechtlichen Wirksamkeit der Vertragsbeziehungen; die Verwaltung der Zahlungen nach den gebilligten Haushalten; die Kontrolle der Güte der Arbeiten.
 
 **Die Finanzierung** erfolgt ausschließlich aus der Gruppe „Plattform“.
 
-**Die Rechenschaft:** die Veröffentlichung aller geschlossenen Verträge; ein öffentliches Verzeichnis der Auftragnehmer und der ausgeführten Arbeiten; die Durchsichtigkeit aller Vorgänge.
+**Die Rechenschaft:** die Veröffentlichung aller geschlossenen Verträge; ein öffentliches Register der Auftragnehmer und der ausgeführten Arbeiten; die Durchsichtigkeit aller Vorgänge.
 
 Beschlüsse im Namen des Volkes fasst der Ausführende nicht; seine Aufgaben sind auf die technische Umsetzung begrenzt.
 

@@ -153,7 +153,7 @@ Jeder Vorgang steht zur öffentlichen Prüfung offen.
 | Allgemeine Fragen | [info@earth-lings.org](mailto:info@earth-lings.org) |
 |---|---|
 | Partnerschaft, Teilnahme und Hilfe | [team@earth-lings.org](mailto:team@earth-lings.org) |
-| Rechtliche und förmliche Fragen | [privacy@earth-lings.org](mailto:privacy@earth-lings.org) |
+| Rechtliche und förmliche Fragen | [info@earth-lings.org](mailto:info@earth-lings.org) |
 | Website | [https://earth-lings.org](https://earth-lings.org) |
 
 ## Öffentliche Überprüfung

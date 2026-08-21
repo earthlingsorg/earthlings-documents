@@ -153,7 +153,7 @@ Earthlings-ის იურიდიული სტრუქტურები 
 | ზოგადი საკითხები | [info@earth-lings.org](mailto:info@earth-lings.org) |
 |---|---|
 | პარტნიორობა, მონაწილეობა და დახმარება | [team@earth-lings.org](mailto:team@earth-lings.org) |
-| იურიდიული და ფორმალური საკითხები | [privacy@earth-lings.org](mailto:privacy@earth-lings.org) |
+| იურიდიული და ფორმალური საკითხები | [info@earth-lings.org](mailto:info@earth-lings.org) |
 | ვებგვერდი | [https://earth-lings.org](https://earth-lings.org) |
 
 ## საჯარო ვერიფიკაცია

@@ -586,7 +586,7 @@ Aucune mesure n'est appliquée à une personne avant qu'elle n'ait été avertie
 
 Chacun a le droit de mettre fin à tout moment à son appartenance au peuple des Earthlings.
 
-Le départ n'exige ni explication, ni autorisation, ni l'accord de quiconque. Nul n'a le droit d'y faire obstacle.
+La sortie n'exige ni explication, ni autorisation, ni l'accord de quiconque. Nul n'a le droit d'y faire obstacle.
 
 C'est la dernière garantie de toutes les autres: là d'où l'on ne peut pas partir, aucune promesse de liberté n'a de valeur.
 
@@ -718,7 +718,7 @@ Les données personnelles obtenues lors de la vérification de l'identité ne so
 
 L'infrastructure qui traite des données personnelles est fermée à la copie, mais non à la vérification: ses règles, ses seuils et ses procédures sont publiés intégralement, et elle peut être rebâtie à partir d'eux. Ce qui ne peut être ni lu, ni vérifié, ni reproduit d'après sa description n'est pas une garantie.
 
-**La clé chez la personne.** La signature de la présente Déclaration, la participation aux décisions et le départ du peuple s'accomplissent au moyen de la clé propre du participant. Ni un exploitant, ni une organisation, ni un système technique ne peut accomplir ces actes à la place de la personne ni en empêcher l'accomplissement.
+**La clé chez la personne.** La signature de la présente Déclaration, la participation aux décisions et la sortie du peuple s'accomplissent au moyen de la clé propre du participant. Ni un exploitant, ni une organisation, ni un système technique ne peut accomplir ces actes à la place de la personne ni en empêcher l'accomplissement.
 
 La signature porte sur le texte et non sur la promesse d'un texte: est signée la version dont le contenu est fixé de façon vérifiable, et qui ne peut être remplacée par la suite. La procédure de fixation et la forme de la signature sont établies par la Charte.
 
@@ -764,7 +764,7 @@ Sont intangibles les principes que ces articles établissent. La liste des princ
 1. une personne - une voix; la voix ne peut être achetée, vendue, accumulée ni transmise de façon irrévocable;
 2. le pouvoir ne s'accumule pas: les pouvoirs sont limités, révocables et vérifiables, et une mission ne devient pas une fonction;
 3. les biens sont séparés de la voix: ni les cotisations, ni l'apport, ni la fortune ne créent d'avantage dans la gouvernance;
-4. le départ est libre à tout moment et sans avoir à s'expliquer, et l'exclusion du peuple n'existe pas;
+4. la sortie est libre à tout moment et sans avoir à s'expliquer, et l'exclusion du peuple n'existe pas;
 5. le peuple parle mais ne contraint pas: la violence est exclue sans exception.
 
 Aucun de ces principes ne peut être abrogé, restreint, suspendu ni contourné, ni par une décision de la majorité, ni par la Charte, ni par une interprétation, ni par une modification de la base technique.

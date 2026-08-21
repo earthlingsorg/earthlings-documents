@@ -153,7 +153,7 @@ Earthlings 的法律结构不作为金融中介运作：它们不提供支付服
 | 一般问题 | [info@earth-lings.org](mailto:info@earth-lings.org) |
 |---|---|
 | 合作、参与和帮助 | [team@earth-lings.org](mailto:team@earth-lings.org) |
-| 法律和正式事务 | [privacy@earth-lings.org](mailto:privacy@earth-lings.org) |
+| 法律和正式事务 | [info@earth-lings.org](mailto:info@earth-lings.org) |
 | 网站 | [https://earth-lings.org](https://earth-lings.org) |
 
 ## 公开验证

@@ -158,7 +158,7 @@ A move happens when objective criteria are met, and not by a decision of the fou
 
 ## To Phase 3 (Launch of the DAO)
 
-- a visible membership spread across countries has been reached;
+- a visible number of participants, spread across countries, has been reached;
 - the governance smart contracts have passed an independent audit;
 - the voting mechanisms have been successfully tested in real practice;
 - the Core Nodes and the Emergency Multisig are elected, and the Independent Council is formed.

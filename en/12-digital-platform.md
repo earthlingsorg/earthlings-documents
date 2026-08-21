@@ -156,7 +156,7 @@ But transparency extends to the actions of institutions, not to the personal dat
 
 A secret ballot applies:
 
-- **as a requirement** - when a restriction of powers is under consideration and on annulment of an invalid passport issuance;
+- **as a requirement** - when a restriction of powers is under consideration and on annulment of an invalid issuance of a passport;
 - **by decision of the Assembly** - for particular questions or categories, in particular those touching the people's position on the acts of states and on international questions.
 
 In every case the question, the outcome, the number of those who voted, and the result of verifying the count are published.
@@ -252,7 +252,7 @@ The platform is not built as a system of total record-keeping. It aims to become
 Particular technologies - blockchains, databases, languages, frameworks - may change. What matters is the architectural logic:
 
 - **modularity** - the core, the identity subsystem, the DAO component, the economic layer, and the interfaces develop independently;
-- **scalability** - the architecture is designed for growth in membership by orders of magnitude without loss of availability or security;
+- **scalability** - the architecture is designed for growth in the number of earthlings by orders of magnitude without loss of availability or security;
 - **resilience** - fault-tolerant configurations, backup stores, independent nodes;
 - **recovery** - backup copying, a recovery plan for critical failures, protocols for action when keys are compromised;
 - **auditability** - the possibility of external technical and legal audit of key components.

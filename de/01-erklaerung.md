@@ -382,19 +382,19 @@ Ein Mensch hört nur aus einem von zwei Gründen auf, ein Earthling zu sein, und
 
 Einen Ausschluss aus dem Volk gibt es nicht. Das Verzeichnis der Gründe, aus denen die Zugehörigkeit endet, ist erschöpfend. Es darf weder durch die Charta der Earthlings noch durch einen Beschluss noch durch eine gefestigte Praxis erweitert, im Wege der Analogie ergänzt oder ausdehnend ausgelegt werden.
 
-### Die Aufhebung der Ausgabe des Earthling-Passes
+### Die Aufhebung der Ausgabe des Passes
 
-Die Ausgabe des Earthling-Passes wird in drei Fällen aufgehoben, und deren Verzeichnis ist abschließend:
+Die Ausgabe des Passes wird in drei Fällen aufgehoben, und deren Verzeichnis ist abschließend:
 
-1. einem Menschen ist mehr als ein gültiger Earthling-Pass ausgegeben worden - in diesem Fall wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben, und die Zugehörigkeit des Menschen bleibt bestehen;
+1. einem Menschen ist mehr als ein gültiger Pass ausgegeben worden - in diesem Fall wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben, und die Zugehörigkeit des Menschen bleibt bestehen;
 2. die Identitätsprüfung ist unter Verwendung falscher Angaben oder der Identität eines anderen erlangt worden;
-3. der Earthling-Pass ist einer Person ausgegeben worden, die das von der Charta der Earthlings festgelegte Alter nicht erreicht hat.
+3. der Pass ist einer Person ausgegeben worden, die das von der Charta der Earthlings festgelegte Alter nicht erreicht hat.
 
 Die Aufhebung ist weder eine Maßnahme der Haftung noch ein Ausschluss aus dem Volk. Sie bedeutet nur, dass die Ausgabe des Passes rechtmäßig nicht zustande gekommen ist; in den unter den Nummern 2 und 3 genannten Fällen ist mit ihr auch die Zugehörigkeit rechtmäßig nicht entstanden. Ist das Hindernis beseitigt, so darf der Mensch die Prüfung unter den allgemeinen Voraussetzungen erneut durchlaufen.
 
 ### Gewährleistungen für den Menschen
 
-Bevor die Ausgabe eines Earthling-Passes aufgehoben oder die Teilnahme eines Menschen an Abstimmungen eingeschränkt wird, ist jedem das Recht gewährleistet, rechtzeitig benachrichtigt zu werden, Einwendungen vorzubringen, die Sache von denjenigen behandeln zu lassen, die sie nicht aufgeworfen haben, und Beschwerde einzulegen.
+Bevor die Ausgabe eines Passes aufgehoben oder die Teilnahme eines Menschen an Abstimmungen eingeschränkt wird, ist jedem das Recht gewährleistet, rechtzeitig benachrichtigt zu werden, Einwendungen vorzubringen, die Sache von denjenigen behandeln zu lassen, die sie nicht aufgeworfen haben, und Beschwerde einzulegen.
 
 Das Verfahren zur Verwirklichung dieser Gewährleistungen legt die Charta der Earthlings fest.
 
@@ -660,7 +660,7 @@ Wer im Auftrag handelt, legt dem Volk Rechenschaft ab: was getan wurde, was nich
 
 ### Wer strittige Fragen behandelt
 
-Das Volk der Earthlings entscheidet über einen bestimmten Menschen nur in zwei Fällen: wenn die Ausgabe eines Earthling-Passes aufgehoben wird und wenn die Teilnahme an Abstimmungen vorübergehend eingeschränkt wird. Die Gründe des ersten Falles sind in Artikel 8 festgelegt, die des zweiten in Artikel 10, und in beiden Fällen ist dem Menschen das Recht gewährleistet, Einwendungen vorzubringen und in dem in Artikel 8 festgelegten Verfahren Beschwerde einzulegen.
+Das Volk der Earthlings entscheidet über einen bestimmten Menschen nur in zwei Fällen: wenn die Ausgabe eines Passes aufgehoben wird und wenn die Teilnahme an Abstimmungen vorübergehend eingeschränkt wird. Die Gründe des ersten Falles sind in Artikel 8 festgelegt, die des zweiten in Artikel 10, und in beiden Fällen ist dem Menschen das Recht gewährleistet, Einwendungen vorzubringen und in dem in Artikel 8 festgelegten Verfahren Beschwerde einzulegen.
 
 Eine solche Frage behandeln die Teilnehmer selbst - diejenigen, die sie nicht aufgeworfen haben. Wer genau und in welchem Verfahren, bestimmt die Charta der Earthlings. Gegen die Entscheidung kann bei der Vollversammlung Beschwerde eingelegt werden.
 
@@ -710,7 +710,7 @@ Wo sich eine Anforderung mit gewöhnlichen Mitteln erfüllen lässt, werden gew�
 
 Das Teilnehmerregister steht nicht unter der Kontrolle eines einzelnen Betreibers. Der Bestand des Volkes bleibt beim Wechsel von Infrastruktur, Software und Betreibern erhalten.
 
-**Die Offenheit.** Der Code, der die Zugehörigkeit zum Volk und die Unveräußerlichkeit des Earthling-Passes bestimmt, steht zur Untersuchung, zur Überprüfung und zur Nachbildung offen. Das Teilnehmerregister und die Einträge über die Pässe sind öffentlich und für jeden Menschen ohne die Erlaubnis eines anderen überprüfbar.
+**Die Offenheit.** Der Code, der die Zugehörigkeit zum Volk und die Unveräußerlichkeit des Passes bestimmt, steht zur Untersuchung, zur Überprüfung und zur Nachbildung offen. Das Teilnehmerregister und die Einträge über die Pässe sind öffentlich und für jeden Menschen ohne die Erlaubnis eines anderen überprüfbar.
 
 Öffentlich ist der Eintrag, dass ein Pass besteht und gültig ist, nicht aber eine Angabe über den Menschen. Das Register enthält weder Namen noch Bild noch Dokumente noch biometrische oder sonstige personenbezogene Daten eines Teilnehmers und lässt es nicht zu, einen Eintrag mit einer Person zu verknüpfen.
 

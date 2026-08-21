@@ -262,7 +262,7 @@ An earthling may delegate their vote on a particular field to another earthling.
 
 **Limits on delegation:**
 - **By field only.** A vote cannot be delegated across all questions at once. A field is a thematic category (ecology, technology, economics, law, education) or a particular Cell.
-- **No self-delegation.** An earthling cannot delegate a vote to themselves. The limit is implemented technically and is checked at every delegation operation.
+- **No self-delegation.** An earthling cannot delegate a vote to themselves. The prohibition is implemented technically and is checked at every delegation operation.
 - **No chains.** A delegated vote received cannot be passed on further.
 - **A ceiling on delegation.** The ceiling is 5% of Earthlings, but not fewer than 10 delegators; the 5% limit therefore begins to bind a delegate only above 200 Earthlings.
 - **One active delegation per field.** Delegating the same field again is impossible without revoking the previous one.
