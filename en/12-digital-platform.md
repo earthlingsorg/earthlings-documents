@@ -87,7 +87,7 @@ The Charter (Article 21) establishes two and only two exceptions, which the plat
 1. **annulment of an invalid issuance** - where it is established that the passport was issued in breach of the conditions of issuance; only by decision of the Assembly with a sanction majority, by secret ballot, with a right of appeal;
 2. **technical reissue** - at the holder's own request on loss of access to a wallet or on migration of the contract; belonging is not interrupted.
 
-No other grounds for burning against the holder's will are implemented in the platform. The death of the holder is not among them: the platform does not and cannot hold information about deaths, and the ending of participation is handled by the inactivity mechanism (Charter, Article 20).
+No other grounds for burning by someone other than the holder are implemented in the platform, and against the holder's will a passport is burned only upon annulment of an invalid issuance. The death of the holder is not among the grounds: the platform does not and cannot hold information about deaths, and the ending of participation is handled by the inactivity mechanism (Charter, Article 20).
 
 ---
 

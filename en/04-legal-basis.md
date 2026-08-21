@@ -229,7 +229,7 @@ The assertion "for the first time in history a document of belonging to a people
 | Who can verify | The body keeping the roll | Anyone |
 | Can it be taken away | Yes, by decision of a body | In law, no; the grounds and procedure are exhaustively limited |
 
-We make the qualification to the last line ourselves: the legal grounds for burning a passport against the holder's will are limited to two cases, with notice, a period for objection, and appeal, but in the deployed version of the contract the technical ability to burn a passport remains with the holder of the owner keys - the restriction in Article 21 of the Earthlings Charter so far operates procedurally, not technically. Separating the rights of issuance and burning has been entered in the roadmap.
+We make the qualification to the last line ourselves: the legal grounds for burning a passport against the holder's will are limited to a single case - annulment of an invalid issuance, with notice, a period for objection, and appeal - but in the deployed version of the contract the technical ability to burn a passport remains with the holder of the owner keys - the restriction in Article 21 of the Earthlings Charter so far operates procedurally, not technically. Separating the rights of issuance and burning has been entered in the roadmap.
 
 The precise statement runs as follows: documents of belonging to a people exist, but all of them certify a belonging derived from descent and recognized by a state. For the first time, belonging is certified by a document issued by the people itself, tied neither to territory nor to descent, arising by the decision of the person themselves, and verifiable by anyone.
 

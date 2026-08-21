@@ -109,14 +109,14 @@ The detailed legal model is set out in the document [Legal Basis](/documents/en/
 
 ### The Independent Council
 
-The Independent Council, as described in the "Earthlings Charter" and in the dedicated document [The Earthlings Independent Council](/documents/en/en11-independent-council.html), is conceived as a body of seven to eleven Earthlings who take no part in the operational governance of the people and who have recognized expertise in the fields of:
+The Independent Council, as described in the "Earthlings Charter" and in the dedicated document [The Earthlings Independent Council](/documents/en/en11-independent-council.html), is conceived as a body of seven to eleven experts drawn from Earthlings who take no part in the operational governance of the people. The list of areas of competence is indicative and is not a system of quotas:
 
-- ecology;
-- law;
-- philosophy;
+- ecology, climate, sustainable development;
+- economics and questions of the new economy;
+- ethics and philosophy;
 - human rights;
-- science;
-- civic activism.
+- science and education;
+- the experience of local and indigenous communities.
 
 The Council is intended to serve as the people's ethical mirror through:
 
@@ -162,4 +162,4 @@ The entire institutional infrastructure of Earthlings is available for public ve
 
 - The SBT smart contract on Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - The Safe Multisig treasury on Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- The documentary corpus: 25 institutional documents in 9 languages ([all documents](/en/)).
+- The documentary corpus: 25 institutional documents in nine languages ([all documents](/en/)).

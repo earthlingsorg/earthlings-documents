@@ -93,7 +93,7 @@ These are duties, not conditions for keeping your status: breaching them entails
 
 ---
 
-## 7. When a passport is burned against your will
+## 7. When it is not you who burns the passport
 
 As a general rule you alone burn your passport. The Charter (Article 21) establishes **two and only two** exceptions, and this list cannot be extended.
 
@@ -103,7 +103,7 @@ This is not a measure of liability for conduct and not expulsion from the people
 
 **2. Technical reissue.** At **your own request** on loss of access to your wallet or on migration of the contract. The passport is burned and immediately issued anew; **belonging is not interrupted**, and no vote is required.
 
-No other grounds exist. The death of the holder is not among them: belonging ends of itself, without anyone's decision, and the passport remains in the registry. The people has no access to death records worldwide, and such a ground would rest on information there is no way to verify.
+No other grounds exist, and against your will a passport may be burned only in the first case. The death of the holder is not among them: belonging ends of itself, without anyone's decision, and the passport remains in the registry. The people has no access to death records worldwide, and such a ground would rest on information there is no way to verify.
 
 ---
 

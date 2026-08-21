@@ -162,6 +162,8 @@ The DAO Assembly is the sole body governing the Treasury. All decisions on the a
 
 ## Article 13. Reputation
 
+Reputation is a reference note on an earthling's participation in the work of the people. It confers no rights at all: the weight of a vote does not depend on it (Article 12), it does not open access to funding and does not change the order of priority.
+
 **Factors:** regularity of participation in votes, successful delivery of funded projects, contribution to the development of the community, the quality of proposals, assessments by other participants.
 
 **Use:** reference information when choosing a delegate; a chronological feed of proposals, in which the author's reputation does not affect a proposal's place in the feed, and filtering by reputation is available as a viewing mode each person switches on for themselves.
@@ -180,7 +182,7 @@ Earthlings may voluntarily transfer their vote in a particular area to another p
 - **any earthling may be a delegate** - reputation neither opens nor closes access to this possibility;
 - all votes cast by a delegate are public.
 
-**Delegation does not apply** in votes on amending the Charter and the basic Treasury rules, on funding above 100,000 EC, on forming the Emergency Multisig, on restricting powers, on annulling a passport, and on changing the unamendable principles.
+**Delegation does not apply** in votes on amending the Charter and the basic Treasury rules, on funding above 100,000 EC, on forming the Emergency Multisig, on restricting powers, on annulling the issuance of a passport, and on changing the unamendable principles.
 
 Delegation creates no additional influence: one delegated vote equals one vote, and it creates no office.
 
@@ -441,7 +443,7 @@ The values given are benchmarks for assessment, not obligations of the people to
 
 ## Article 38. Procedure
 
-The document is amended only by a vote of the DAO Assembly: a proposal from any earthling; discussion of no fewer than 21 days; voting for 14 days by a qualified majority with a quorum of no fewer than 25 per cent; entry into force 7 days after approval.
+The document is amended only by a vote of the DAO Assembly: a proposal may be submitted by any earthling; entry into force 7 days after approval. The periods of discussion, the threshold and the quorum depend on the type of amendment and are established by Article 39.
 
 ## Article 39. Types of amendment
 

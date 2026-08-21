@@ -109,14 +109,14 @@ Das ausführliche Rechtsmodell ist im Dokument [Die Rechtsgrundlage](/documents/
 
 ### Der Unabhängige Rat
 
-Der Unabhängige Rat ist, wie in der „Charta der Earthlings“ und in dem besonderen Dokument [Der Unabhängige Rat der Earthlings](/documents/de/de11-unabhaengiger-rat.html) beschrieben, als ein Organ aus sieben bis elf Fachleuten aus dem Kreis der Earthlings gedacht, die an der betrieblichen Verwaltung des Volkes nicht mitwirken, aus den Bereichen:
+Der Unabhängige Rat ist, wie in der „Charta der Earthlings“ und in dem besonderen Dokument [Der Unabhängige Rat der Earthlings](/documents/de/de11-unabhaengiger-rat.html) beschrieben, als ein Organ aus sieben bis elf Fachleuten aus dem Kreis der Earthlings gedacht, die an der betrieblichen Verwaltung des Volkes nicht mitwirken. Die Aufzählung der Bereiche der Sachkunde ist ein Anhalt und keine Quotierung:
 
-- Ökologie;
-- Recht;
-- Philosophie;
+- Ökologie, Klima, nachhaltige Entwicklung;
+- Wirtschaft und Fragen der neuen Wirtschaft;
+- Ethik und Philosophie;
 - Menschenrechte;
-- Wissenschaft;
-- bürgerschaftliches Engagement.
+- Wissenschaft und Bildung;
+- die Erfahrung örtlicher und indigener Gemeinschaften.
 
 Der Rat soll die Aufgabe eines ethischen Spiegels des Volkes erfüllen durch:
 
@@ -162,4 +162,4 @@ Die gesamte einrichtungsmäßige Infrastruktur der Earthlings steht zur öffentl
 
 - Smart Contract des SBT im Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - Kasse Safe Multisig in Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- Der Dokumentenbestand: 25 einrichtungsmäßige Dokumente in 9 Sprachen ([alle Dokumente](/de/)).
+- Der Dokumentenbestand: 25 einrichtungsmäßige Dokumente in neun Sprachen ([alle Dokumente](/de/)).

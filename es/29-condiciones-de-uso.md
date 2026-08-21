@@ -170,7 +170,7 @@ Un identificador digital intransmisible de la pertenencia al pueblo, que existe 
 
 Usted destruye el pasaporte con su propia clave. Nadie puede impedirlo, incluido el fundador.
 
-La Carta (artículo 21) establece dos y solo dos excepciones en las que el pasaporte se destruye contra la voluntad de su titular: la anulación de una emisión inválida por decisión de la Asamblea con derecho de defensa y recurso; y la reemisión técnica a solicitud del propio titular. El fallecimiento del titular no es fundamento de destrucción: la pertenencia cesa por sí misma y el pasaporte permanece en el registro. Los detalles están en el documento [Pasaporte SBT earthling](https://earth-lings.org/documents/es/es15-pasaporte-sbt.html).
+La Carta (artículo 21) establece dos y solo dos casos en los que el pasaporte lo destruye una persona distinta de su titular: la anulación de una emisión inválida por decisión de la Asamblea con derecho de defensa y recurso; y la reemisión técnica a solicitud del propio titular. Contra la voluntad de su titular el pasaporte solo se destruye en el primer caso. El fallecimiento del titular no es fundamento de destrucción: la pertenencia cesa por sí misma y el pasaporte permanece en el registro. Los detalles están en el documento [Pasaporte SBT earthling](https://earth-lings.org/documents/es/es15-pasaporte-sbt.html).
 
 ---
 

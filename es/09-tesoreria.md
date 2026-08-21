@@ -162,6 +162,8 @@ La Asamblea DAO es el único órgano de gobierno de la Tesorería. Todas las dec
 
 ## Artículo 13. Reputación
 
+La reputación es una anotación de referencia sobre la participación del earthling en el trabajo del pueblo. No da derecho a nada: el peso del voto no depende de ella (artículo 12), no abre el acceso a la financiación y no altera el orden.
+
 **Factores:** regularidad de la participación en las votaciones, realización lograda de los proyectos financiados, aportación al desarrollo de la comunidad, calidad de las propuestas, valoraciones de otros participantes.
 
 **Uso:** información de referencia al elegir delegado; lista cronológica de propuestas, en la que la reputación del autor no influye en el lugar de la propuesta y el filtrado por reputación está disponible como modo de visualización que cada cual activa para sí.
@@ -180,7 +182,7 @@ Los Earthlings pueden ceder voluntariamente su voto en un ámbito concreto a otr
 - **delegado puede ser cualquier earthling**: la reputación no abre ni cierra el acceso a esa posibilidad;
 - todos los votos emitidos por el delegado son públicos.
 
-**La delegación no se aplica** en las votaciones sobre la modificación de la Carta y de las reglas básicas de la Tesorería, sobre financiación de más de 100 000 EC, sobre la formación del Emergency Multisig, sobre limitación de facultades, sobre anulación de un pasaporte y sobre la modificación de los principios intangibles.
+**La delegación no se aplica** en las votaciones sobre la modificación de la Carta y de las reglas básicas de la Tesorería, sobre financiación de más de 100 000 EC, sobre la formación del Emergency Multisig, sobre limitación de facultades, sobre anulación de la emisión de un pasaporte y sobre la modificación de los principios intangibles.
 
 La delegación no crea influencia adicional: un voto delegado equivale a un voto, y no constituye cargo.
 
@@ -441,7 +443,7 @@ Los valores indicados son referencias para la evaluación, y no compromisos del 
 
 ## Artículo 38. Procedimiento
 
-El documento se modifica únicamente por votación de la Asamblea DAO: propuesta de cualquier earthling; debate de no menos de 21 días; votación de 14 días por mayoría cualificada con quórum no inferior al 25 por ciento; entrada en vigor a los 7 días de la aprobación.
+El documento se modifica únicamente por votación de la Asamblea DAO: la propuesta puede presentarla cualquier earthling; la entrada en vigor se produce a los 7 días de la aprobación. Los plazos de debate, el umbral y el quórum dependen del tipo de modificación y están establecidos en el artículo 39.
 
 ## Artículo 39. Tipos de modificación
 

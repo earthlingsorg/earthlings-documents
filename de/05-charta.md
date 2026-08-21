@@ -165,7 +165,7 @@ Der Unabhängige Rat ist ein beratendes Organ. Er nimmt eine ethische Prüfung v
 - Zahl: 7 bis 11 Menschen (ungerade Zahl)
 - Wahl: Abstimmung der DAO, qualifizierte Mehrheit (67 %, Quorum 25 %)
 - Dauer: 3 Jahre
-- Anforderungen: anerkannte Sachkunde in Ethik, Recht, Ökologie, Technik; die Aufstellung steht jedem Earthling offen, auch die Selbstaufstellung
+- Anforderungen: anerkannte Sachkunde in einem der Bereiche, die zur Zuständigkeit des Rates gehören; die Aufzählung dieser Bereiche legt das Dokument „Der Unabhängige Rat der Earthlings“ fest, sie ist ein Anhalt und dient nicht der Quotierung; die Aufstellung steht jedem Earthling offen, auch die Selbstaufstellung
 
 **Der Widerruf eines Mitglieds des Rates** erfolgt durch Beschluss der Vollversammlung mit qualifizierter Mehrheit (67 %, Quorum 25 %) - mit derselben Schwelle, mit der es gewählt wurde, und mit keiner höheren.
 
@@ -479,7 +479,7 @@ Ein Earthling wird als inaktiv angesehen, wenn er:
 
 Der Mechanismus der Inaktivität schützt das System vor einer künstlichen Erhöhung der Anforderungen an das Quorum und erhält dabei jedem Earthling das Recht, jederzeit zur Teilnahme zurückzukehren.
 
-## Artikel 21. Die Entwertung eines Passes gegen den Willen des Inhabers
+## Artikel 21. Die Entwertung eines Passes nicht durch den Inhaber selbst
 
 In der Regel wird ein SBT-Pass nur vom Inhaber selbst entwertet (Artikel 18). Dieser Artikel legt **zwei und nur zwei** Ausnahmen von dieser Regel fest.
 
@@ -504,7 +504,7 @@ Die Aufhebung ist kein Ausschluss aus dem Volk und wird nicht als Sanktion für 
 
 Ein Pass kann auf Antrag des Inhabers selbst entwertet und sogleich an dieselbe Adresse oder an eine neue Adresse des Inhabers neu ausgegeben werden - bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags. Die Neuausgabe unterbricht die Zugehörigkeit nicht und verlangt keine Abstimmung.
 
-**Andere Gründe für die Entwertung eines Passes gegen den Willen des Inhabers gibt es nicht.**
+**Gegen den Willen des Inhabers kann ein Pass nur bei der Aufhebung einer unwirksamen Ausgabe entwertet werden: Die technische Neuausgabe erfolgt auf Antrag des Inhabers selbst. Andere Gründe für die Entwertung eines Passes nicht durch den Inhaber selbst gibt es nicht.**
 
 ## Artikel 22. Die Beschränkung von Befugnissen
 
@@ -846,7 +846,7 @@ Fristen: 14 Tage Beratung + 7 Tage Abstimmung.
 Fristen: 21 Tage Beratung + 14 Tage Abstimmung.
 
 **Sanktionsfragen - 75 %, Quorum 25 %**
-Beschränkung von Befugnissen der Stufen 4 und 5 (Artikel 22), Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21). Die Abstimmung ist geheim, eine Übertragung findet nicht statt.
+Beschränkung von Befugnissen der Stufen 4 und 5 (Artikel 22), Aussetzung des Stimmrechts (Artikel 22-bis), Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21). Die Abstimmung ist geheim, eine Übertragung findet nicht statt.
 Fristen: 21 Tage Beratung + 14 Tage Abstimmung.
 
 **Verteilung nach Unterstützung**

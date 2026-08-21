@@ -146,7 +146,7 @@ Se publica al menos una vez cada 90 días e incluye: el volumen total de ingreso
 | Plataforma digital | funciona |
 | Sistema de células | funciona |
 | Mecanismo de votación | desplegado; no se han celebrado votaciones de fondo |
-| Tesorería | el monedero de firma múltiple funciona; los contratos inteligentes no están desplegados |
+| Tesorería | el monedero Safe está desplegado, el umbral de firmas es de una; el paso a seis firmantes está previsto; los contratos inteligentes no están desplegados |
 | Core Nodes y Emergency Multisig | no elegidos |
 | Consejo Independiente | no constituido |
 
@@ -169,7 +169,7 @@ El tránsito se produce al cumplirse criterios objetivos, y no por decisión de 
 - se han adoptado no menos de 100 decisiones por votación;
 - no hay incidentes críticos de seguridad sin resolver;
 - la infraestructura técnica no depende de personas concretas;
-- **la posibilidad técnica de destruir pasaportes** está traspasada a la firma múltiple de las estructuras elegidas o al control de la Asamblea. Los fundamentos de la destrucción ya están limitados por el artículo 21 de la Carta a tres casos exhaustivos, y la anulación de una emisión inválida ya es una decisión de la Asamblea y no un acto administrativo; en esta etapa se traspasa la ejecución técnica;
+- **la posibilidad técnica de destruir pasaportes** está traspasada a la firma múltiple de las estructuras elegidas o al control de la Asamblea. Los fundamentos de la destrucción ya están limitados de manera exhaustiva por el artículo 21 de la Carta, y la anulación de una emisión inválida - el único de ellos que se aplica contra la voluntad del titular - ya es una decisión de la Asamblea y no un acto administrativo; en esta etapa se traspasa la ejecución técnica;
 - **las claves de la Tesorería** están traspasadas a la firma múltiple de los Core Nodes elegidos o al control de la Asamblea: nadie puede disponer de los fondos por sí solo;
 - la comunidad ha confirmado su disposición mediante votación.
 

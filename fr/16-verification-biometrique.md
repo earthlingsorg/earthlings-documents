@@ -53,11 +53,12 @@ La vérification est volontaire. Vous avez le droit de retirer votre consentemen
 
 **Ce qui se passe au retrait:**
 
-- le traitement cesse, et les empreintes conservées sont supprimées;
+- le traitement des données biométriques cesse, les résultats de la vérification et les données du compte sont supprimés;
+- **l'empreinte irréversible d'unicité est conservée, et c'est la seule limite au retrait.** Elle est calculée à partir des données du document et non de la biométrie, elle ne relève donc pas du consentement de l'article 9 du RGPD et est conservée sur un autre fondement. Sans elle, une même personne pourrait obtenir un second passeport, et nul n'a cette possibilité - pas même elle;
 - l'unicité vérifiée étant une condition du droit de vote, la participation ultérieure aux votes devient impossible;
 - **c'est vous qui détruisez le passeport**, avec votre propre clé, comme lors d'une sortie volontaire ordinaire.
 
-> **Nous ne pouvons pas détruire votre passeport à votre place.** La Charte (article 21) n'admet la destruction contre la volonté du titulaire que dans deux cas: l'annulation d'une délivrance non valide par décision de l'Assemblée et la réémission technique à votre propre demande. Le retrait du consentement n'en fait pas partie, et la plateforme ne conserve pas vos clés. Si vous retirez votre consentement sans détruire votre passeport, nous supprimerons les données de notre côté, mais l'inscription au registre demeurera tant que vous ne l'aurez pas détruite.
+> **Nous ne pouvons pas détruire votre passeport à votre place.** La Charte (article 21) n'admet la destruction du passeport par une personne autre que le titulaire que dans deux cas: l'annulation d'une délivrance non valide par décision de l'Assemblée et la réémission technique à votre propre demande; contre votre volonté, le passeport ne peut être détruit que dans le premier de ces cas. Le retrait du consentement ne figure pas parmi ces cas, et la plateforme ne conserve pas vos clés. Si vous retirez votre consentement sans détruire votre passeport, nous supprimerons les données de notre côté, mais l'inscription au registre demeurera tant que vous ne l'aurez pas détruite.
 
 ---
 
@@ -255,7 +256,7 @@ Uniquement en vertu d'une décision de justice devenue définitive ou d'une exig
 
 La Politique est mise à jour à mesure que les technologies et la législation évoluent. Les modifications sont publiées avec l'indication de la date d'entrée en vigueur.
 
-Les modalités de modification - notification au moins 30 jours à l'avance, publication de la liste des modifications et droit d'objecter - sont établies par la Politique de confidentialité.
+Les modalités de modification - notification par courriel au moins 30 jours à l'avance, notification sur la plateforme à la connexion suivante, publication de la liste des modifications et droit d'objecter - sont établies par la Politique de confidentialité.
 
 ---
 

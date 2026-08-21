@@ -93,7 +93,7 @@ Das sind Pflichten und keine Voraussetzungen für den Erhalt des Status: Ihre Ve
 
 ---
 
-## 7. Wann der Pass gegen Ihren Willen entwertet wird
+## 7. Wann nicht Sie den Pass entwerten
 
 In der Regel entwerten nur Sie selbst den Pass. Die Charta (Artikel 21) legt **zwei und nur zwei** Ausnahmen fest, und diese Aufzählung darf nicht erweitert werden.
 
@@ -103,7 +103,7 @@ Das ist keine Sanktion für ein Verhalten und kein Ausschluss aus dem Volk: Fest
 
 **2. Die technische Neuausgabe.** Auf **Ihren eigenen Antrag** bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags. Der Pass wird entwertet und sogleich neu ausgegeben; **die Zugehörigkeit wird nicht unterbrochen**, eine Abstimmung ist nicht erforderlich.
 
-Andere Gründe gibt es nicht. Der Tod des Inhabers steht nicht unter ihnen: Die Zugehörigkeit endet von selbst, ohne jemandes Entscheidung, und der Pass bleibt im Register. Das Volk hat keinen Zugang zu den Sterberegistern der ganzen Welt, und ein solcher Grund stützte sich auf Angaben, die sich mit nichts überprüfen lassen.
+Andere Gründe gibt es nicht, und gegen Ihren Willen kann der Pass nur im ersten Fall entwertet werden. Der Tod des Inhabers steht nicht unter ihnen: Die Zugehörigkeit endet von selbst, ohne jemandes Entscheidung, und der Pass bleibt im Register. Das Volk hat keinen Zugang zu den Sterberegistern der ganzen Welt, und ein solcher Grund stützte sich auf Angaben, die sich mit nichts überprüfen lassen.
 
 ---
 

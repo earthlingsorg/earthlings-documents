@@ -93,7 +93,7 @@ Son deberes, y no condiciones para conservar su condición de earthling: infring
 
 ---
 
-## 7. Cuándo se destruye el pasaporte contra su voluntad
+## 7. Cuándo no es usted quien destruye el pasaporte
 
 Por regla general el pasaporte solo lo destruye usted mismo. La Carta (artículo 21) establece **dos y solo dos** excepciones, y esa lista no puede ampliarse.
 
@@ -103,7 +103,7 @@ No es una medida de responsabilidad por la conducta ni una expulsión del pueblo
 
 **2. Reemisión técnica.** A **solicitud suya** en caso de pérdida de acceso al monedero o de migración del contrato. El pasaporte se destruye y se emite de nuevo de inmediato; **la pertenencia no se interrumpe** y no hace falta votación.
 
-No existen otros fundamentos. El fallecimiento del titular no figura entre ellos: la pertenencia cesa por sí misma, sin decisión de nadie, y el pasaporte permanece en el registro. El pueblo no tiene acceso a los registros de defunción de todo el mundo, y tal fundamento se apoyaría en datos que no hay con qué comprobar.
+No existen otros fundamentos, y contra su voluntad el pasaporte solo puede destruirse en el primer caso. El fallecimiento del titular no figura entre ellos: la pertenencia cesa por sí misma, sin decisión de nadie, y el pasaporte permanece en el registro. El pueblo no tiene acceso a los registros de defunción de todo el mundo, y tal fundamento se apoyaría en datos que no hay con qué comprobar.
 
 ---
 

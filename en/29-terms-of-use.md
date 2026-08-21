@@ -170,7 +170,7 @@ A non-transferable digital identifier of belonging to the people, existing in a 
 
 You burn the passport with your own key. No one can prevent it, the founder included.
 
-The Charter (Article 21) establishes two and only two exceptions in which a passport is burned against the holder's will: annulment of an invalid issuance by decision of the Assembly with a right of defence and appeal; technical reissue at the holder's own request. The death of the holder is not a ground for burning: belonging ends of itself, and the passport remains in the registry. The details are in the document [The earthling SBT passport](https://earth-lings.org/documents/en/en15-sbt-passport.html).
+The Charter (Article 21) establishes two and only two cases in which a passport is burned by someone other than the holder: annulment of an invalid issuance by decision of the Assembly with a right of defence and appeal; technical reissue at the holder's own request. Against the holder's will a passport is burned only in the first case. The death of the holder is not a ground for burning: belonging ends of itself, and the passport remains in the registry. The details are in the document [The earthling SBT passport](https://earth-lings.org/documents/en/en15-sbt-passport.html).
 
 ---
 

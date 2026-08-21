@@ -109,14 +109,14 @@ El modelo jurídico detallado está expuesto en el documento [Base jurídica](/d
 
 ### El Consejo Independiente
 
-El Consejo Independiente, según lo descrito en la «Carta de los Earthlings» y en el documento específico [Consejo Independiente de los Earthlings](/documents/es/es11-consejo-independiente.html), está concebido como un órgano de siete a once earthlings expertos en los ámbitos siguientes, que no participen en la gestión operativa del pueblo:
+El Consejo Independiente, según lo descrito en la «Carta de los Earthlings» y en el documento específico [Consejo Independiente de los Earthlings](/documents/es/es11-consejo-independiente.html), está concebido como un órgano de siete a once earthlings expertos que no participen en la gestión operativa del pueblo. La lista de ámbitos de competencia es orientativa y no constituye un sistema de cuotas:
 
-- el medio ambiente;
-- el derecho;
-- la filosofía;
-- los derechos humanos;
-- la ciencia;
-- el activismo cívico.
+- medio ambiente, clima, desarrollo sostenible;
+- economía y cuestiones de la nueva economía;
+- ética y filosofía;
+- derechos humanos;
+- ciencia y educación;
+- experiencia de las comunidades locales e indígenas.
 
 El Consejo está llamado a cumplir la función de espejo ético del pueblo mediante:
 
@@ -162,4 +162,4 @@ Toda la infraestructura institucional de Earthlings está disponible para su ver
 
 - Contrato inteligente SBT en Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - Caja Safe Multisig en Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- Corpus documental: 25 documentos institucionales en 9 lenguas ([todos los documentos](/ru/)).
+- Corpus documental: 25 documentos institucionales en nueve lenguas ([todos los documentos](/ru/)).

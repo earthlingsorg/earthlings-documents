@@ -146,7 +146,7 @@ Published no less than once every 90 days and including: total receipts by sourc
 | Digital platform | working |
 | System of Cells | working |
 | Voting mechanism | deployed, no substantive votes held |
-| Treasury | the multisignature wallet works; the smart contracts are not deployed |
+| Treasury | the Safe wallet is deployed, the signature threshold is one; the move to six signatories is planned; the smart contracts are not deployed |
 | Core Nodes and Emergency Multisig | not elected |
 | Independent Council | not formed |
 
@@ -169,7 +169,7 @@ A move happens when objective criteria are met, and not by a decision of the fou
 - no fewer than 100 decisions have been taken by vote;
 - there are no unresolved critical security incidents;
 - the technical infrastructure does not depend on particular people;
-- **the technical ability to burn passports** has been transferred to a multisignature of elected structures or to the control of the Assembly. The grounds for burning are already limited by Article 21 of the Charter to three exhaustive cases, and annulment of an invalid issuance is already a decision of the Assembly rather than an administrative act; what is transferred at this stage is technical execution;
+- **the technical ability to burn passports** has been transferred to a multisignature of elected structures or to the control of the Assembly. The grounds for burning are already limited exhaustively by Article 21 of the Charter, and annulment of an invalid issuance - the only one of them applied against the holder's will - is already a decision of the Assembly rather than an administrative act; what is transferred at this stage is technical execution;
 - **the Treasury keys** have been transferred to a multisignature of elected Core Nodes or to the control of the Assembly: no one can dispose of funds single-handedly;
 - the community has confirmed its readiness by a vote.
 

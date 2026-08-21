@@ -165,7 +165,7 @@ The Independent Council is an advisory organ. It carries out ethical audit of de
 - Number: 7-11 people (an odd number)
 - Election: vote of the DAO, qualified majority (67%, quorum 25%)
 - Term: 3 years
-- Requirements: recognized expertise in ethics, law, ecology or technology; nomination is open to any earthling, including self-nomination
+- Requirements: recognized expertise in one of the Council's areas of competence; the list of areas is established by the document "The Earthlings Independent Council", is indicative and does not serve as a system of quotas; nomination is open to any earthling, including self-nomination
 
 **Revocation of a member of the Council** is effected by a decision of the Assembly at a qualified majority (67%, quorum 25%) - the same threshold at which they were elected, and no higher.
 
@@ -479,7 +479,7 @@ An earthling is deemed inactive if they:
 
 The inactivity mechanism protects the system from an artificial inflation of quorum requirements, while preserving the right of every earthling to return to participation at any time.
 
-## Article 21. Burning a Passport Against the Holder's Will
+## Article 21. Burning a Passport by Someone Other Than the Holder
 
 As a general rule an SBT passport is burned only by the holder themselves (Article 18). This Article establishes **two and only two** exceptions to that rule.
 
@@ -504,7 +504,7 @@ Annulment is not expulsion from the people and is not applied as a measure of li
 
 A passport may be burned and immediately reissued to the same address or to a new address of the holder, at the holder's own request - on loss of access to the wallet or on migration of the contract. Reissue does not interrupt belonging and requires no vote.
 
-**No other grounds for burning a passport against the holder's will exist.**
+**Against the holder's will a passport may be burned only upon annulment of an invalid issuance: a technical reissue is carried out at the holder's own request. No other grounds for burning a passport by someone other than the holder exist.**
 
 ## Article 22. Restriction of Powers
 
@@ -846,7 +846,7 @@ Amendment of the Charter, strategic decisions, project funding above 100,000 EC,
 Timing: 21 days of discussion + 14 days of voting.
 
 **Sanction questions - 75%, quorum 25%**
-Restriction of powers at levels 4-5 (Article 22), annulment of an invalid issuance of a passport (Article 21). The vote is secret; delegation does not apply.
+Restriction of powers at levels 4-5 (Article 22), suspension of the right to vote (Article 22 bis), annulment of an invalid issuance of a passport (Article 21). The vote is secret; delegation does not apply.
 Timing: 21 days of discussion + 14 days of voting.
 
 **Allocation by support**

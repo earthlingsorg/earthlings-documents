@@ -162,6 +162,8 @@ Die DAO-Vollversammlung ist das einzige Organ zur Verwaltung der Schatzkammer. A
 
 ## Artikel 13. Das Ansehen
 
+Das Ansehen ist ein Vermerk zur Auskunft über die Teilnahme eines Earthling an der Arbeit des Volkes. Es begründet keinerlei Rechte: Das Gewicht der Stimme hängt nicht von ihm ab (Artikel 12), einen Zugang zur Finanzierung eröffnet es nicht, und an der Reihenfolge ändert es nichts.
+
 **Faktoren:** die Regelmäßigkeit der Teilnahme an Abstimmungen, die erfolgreiche Durchführung finanzierter Projekte, der Beitrag zur Entwicklung der Gemeinschaft, die Güte der Vorschläge, Bewertungen durch andere Teilnehmer.
 
 **Verwendung:** Auskunft bei der Wahl eines Delegierten; die zeitliche Reihenfolge der Vorschläge, in der das Ansehen des Verfassers den Platz in der Reihenfolge nicht beeinflusst und eine Filterung nach Ansehen als Ansicht zur Verfügung steht, die jeder für sich einschaltet.
@@ -180,7 +182,7 @@ Earthlings können ihre Stimme in einem einzelnen Sachgebiet freiwillig einem an
 - **Delegierter kann jeder Earthling sein** - das Ansehen öffnet und verschließt den Zugang zu dieser Möglichkeit nicht;
 - alle vom Delegierten abgegebenen Stimmen sind öffentlich.
 
-**Eine Übertragung findet nicht statt** bei Abstimmungen über die Änderung der Charta und der Grundregeln der Schatzkammer, über eine Finanzierung von mehr als 100 000 EC, über die Bildung des Emergency Multisig, über die Beschränkung von Befugnissen, über die Aufhebung eines Passes und über die Änderung der unabänderlichen Grundsätze.
+**Eine Übertragung findet nicht statt** bei Abstimmungen über die Änderung der Charta und der Grundregeln der Schatzkammer, über eine Finanzierung von mehr als 100 000 EC, über die Bildung des Emergency Multisig, über die Beschränkung von Befugnissen, über die Aufhebung der Ausgabe eines Passes und über die Änderung der unabänderlichen Grundsätze.
 
 Eine Übertragung begründet keinen zusätzlichen Einfluss: Eine übertragene Stimme ist einer Stimme gleich, und sie begründet kein Amt.
 
@@ -441,7 +443,7 @@ Die angeführten Werte sind Anhaltspunkte für die Beurteilung und keine Verpfli
 
 ## Artikel 38. Das Verfahren
 
-Das Dokument wird nur durch Abstimmung der DAO-Vollversammlung geändert: ein Vorschlag von jedem Earthling; eine Erörterung von mindestens 21 Tagen; eine Abstimmung von 14 Tagen mit qualifizierter Mehrheit bei einem Quorum von mindestens 25 Prozent; das Inkrafttreten 7 Tage nach der Billigung.
+Das Dokument wird nur durch Abstimmung der DAO-Vollversammlung geändert: Einen Vorschlag einzubringen ist jeder Earthling befugt; das Inkrafttreten erfolgt 7 Tage nach der Billigung. Die Fristen der Erörterung, die Schwelle und das Quorum hängen von der Art der Änderung ab und sind in Artikel 39 festgelegt.
 
 ## Artikel 39. Arten von Änderungen
 

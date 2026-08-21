@@ -53,11 +53,12 @@ Die Prüfung ist freiwillig. Sie sind befugt, die Einwilligung jederzeit zu wide
 
 **Was beim Widerruf geschieht:**
 
-- die Verarbeitung endet, und die gespeicherten Hashes werden gelöscht;
+- die Verarbeitung biometrischer Daten endet, die Ergebnisse der Prüfung und die Daten des Kontos werden gelöscht;
+- **der nicht umkehrbare Hash der Einmaligkeit bleibt erhalten, und das ist die einzige Beschränkung des Widerrufs.** Er ist aus den Angaben des Papiers berechnet und nicht aus der Biometrie, fällt deshalb nicht unter die Einwilligung nach Artikel 9 DSGVO und bleibt auf einer anderen Grundlage erhalten. Ohne ihn könnte ein Mensch einen zweiten Pass erhalten, und diese Möglichkeit hat niemand - auch er selbst nicht;
 - da die nachgewiesene Einmaligkeit eine Voraussetzung des Stimmrechts ist, wird eine weitere Teilnahme an Abstimmungen unmöglich;
 - **den Pass entwerten Sie selbst**, mit dem eigenen Schlüssel, wie bei einem gewöhnlichen freiwilligen Austritt.
 
-> **Wir können Ihren Pass nicht für Sie entwerten.** Die Charta (Artikel 21) lässt eine Entwertung gegen den Willen des Inhabers nur in zwei Fällen zu - die Aufhebung einer unwirksamen Ausgabe durch Beschluss der Vollversammlung und die technische Neuausgabe auf Ihren eigenen Antrag. Der Widerruf der Einwilligung steht nicht unter ihnen, und die Plattform bewahrt Ihre Schlüssel nicht auf. Widerrufen Sie die Einwilligung und entwerten den Pass nicht, so löschen wir die Daten auf unserer Seite, doch der Eintrag im Register bleibt bestehen, bis Sie ihn entwerten.
+> **Wir können Ihren Pass nicht für Sie entwerten.** Die Charta (Artikel 21) lässt eine Entwertung eines Passes nicht durch den Inhaber selbst nur in zwei Fällen zu - die Aufhebung einer unwirksamen Ausgabe durch Beschluss der Vollversammlung und die technische Neuausgabe auf Ihren eigenen Antrag; gegen Ihren Willen kann der Pass nur im ersten von ihnen entwertet werden. Der Widerruf der Einwilligung steht nicht unter diesen Fällen, und die Plattform bewahrt Ihre Schlüssel nicht auf. Widerrufen Sie die Einwilligung und entwerten den Pass nicht, so löschen wir die Daten auf unserer Seite, doch der Eintrag im Register bleibt bestehen, bis Sie ihn entwerten.
 
 ---
 
@@ -255,7 +256,7 @@ Nur auf eine rechtskräftige gerichtliche Entscheidung oder eine gleichwertige r
 
 Die Politik wird mit der Entwicklung der Technik und der Gesetzgebung aktualisiert. Änderungen werden unter Angabe des Datums des Inkrafttretens veröffentlicht.
 
-Der Ablauf der Änderung - eine Benachrichtigung mindestens 30 Tage im Voraus, die Veröffentlichung der Aufzählung der Änderungen und das Recht zu widersprechen - ist in der Datenschutzerklärung festgelegt.
+Der Ablauf der Änderung - eine Benachrichtigung per E-Mail mindestens 30 Tage im Voraus, eine Benachrichtigung auf der Plattform bei der nächsten Anmeldung, die Veröffentlichung der Aufzählung der Änderungen und das Recht zu widersprechen - ist in der Datenschutzerklärung festgelegt.
 
 ---
 

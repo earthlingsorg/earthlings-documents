@@ -87,7 +87,7 @@ La Carta (artículo 21) establece dos y solo dos excepciones, que la plataforma 
 1. **la anulación de una emisión inválida**, si se establece que el pasaporte se emitió infringiendo las condiciones de emisión; únicamente por decisión de la Asamblea con mayoría sancionadora, en votación secreta y con derecho de recurso;
 2. **la reemisión técnica**, a solicitud del propio titular en caso de pérdida de acceso al monedero o de migración del contrato; la pertenencia no se interrumpe.
 
-En la plataforma no se implementan otros fundamentos de destrucción contra la voluntad del titular. Entre ellos no está el fallecimiento del titular: la plataforma no dispone ni puede disponer de datos sobre defunciones, y el cese de la participación lo recoge el mecanismo de inactividad (Carta, artículo 20).
+En la plataforma no se implementan otros fundamentos de destrucción por persona distinta del titular, y contra la voluntad de su titular el pasaporte se destruye únicamente en caso de anulación de una emisión inválida. Entre ellos no está el fallecimiento del titular: la plataforma no dispone ni puede disponer de datos sobre defunciones, y el cese de la participación lo recoge el mecanismo de inactividad (Carta, artículo 20).
 
 ---
 

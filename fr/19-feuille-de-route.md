@@ -146,7 +146,7 @@ Elle est publiée au moins une fois tous les 90 jours et comprend: le montant to
 | Plateforme numérique | fonctionne |
 | Système des cellules | fonctionne |
 | Mécanisme de vote | déployé, aucun vote de fond n'a eu lieu |
-| Trésorerie | le portefeuille multisig fonctionne; les contrats intelligents ne sont pas déployés |
+| Trésorerie | le portefeuille Safe est déployé, le seuil de signatures est de une; le passage à six signataires est prévu; les contrats intelligents ne sont pas déployés |
 | Core Nodes et Emergency Multisig | non élus |
 | Conseil indépendant | non constitué |
 
@@ -169,7 +169,7 @@ Le passage se fait lorsque des critères objectifs sont remplis, et non par déc
 - au moins 100 décisions ont été adoptées par vote;
 - il n'existe aucun incident de sécurité critique non résolu;
 - l'infrastructure technique ne dépend d'aucune personne déterminée;
-- **la possibilité technique de détruire des passeports** est transférée à une multisig de structures élues ou sous le contrôle de l'Assemblée. Les motifs de destruction sont déjà limités par l'article 21 de la Charte à des cas exhaustifs, et l'annulation d'une délivrance non valide est déjà une décision de l'Assemblée et non un acte administratif; c'est l'exécution technique qui est transférée à cette étape;
+- **la possibilité technique de détruire des passeports** est transférée à une multisig de structures élues ou sous le contrôle de l'Assemblée. Les motifs de destruction sont déjà limités de façon exhaustive par l'article 21 de la Charte, et l'annulation d'une délivrance non valide - le seul d'entre eux qui s'applique contre la volonté du titulaire - est déjà une décision de l'Assemblée et non un acte administratif; c'est l'exécution technique qui est transférée à cette étape;
 - **les clés de la Trésorerie** sont transférées à une multisig de Core Nodes élus ou sous le contrôle de l'Assemblée: nul ne peut disposer seul des fonds;
 - la communauté a confirmé qu'elle était prête, par un vote.
 

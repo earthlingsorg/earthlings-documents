@@ -162,6 +162,8 @@ L'Assemblée DAO est le seul organe de gouvernance de la Trésorerie. Toutes les
 
 ## Article 13. La réputation
 
+La réputation est une mention de référence sur la participation de l'earthling aux travaux du peuple. Elle ne donne droit à rien: le poids de la voix n'en dépend pas (article 12), elle n'ouvre pas l'accès au financement et ne modifie pas l'ordre de passage.
+
 **Facteurs:** régularité de la participation aux votes, réalisation aboutie des projets financés, contribution au développement de la communauté, qualité des propositions, appréciations des autres participants.
 
 **Usage:** information de référence lors du choix d'un délégué; fil chronologique des propositions, où la réputation de l'auteur n'influe pas sur la place dans le fil, le filtrage par réputation étant disponible comme mode d'affichage que chacun active pour lui-même.
@@ -180,7 +182,7 @@ Les Earthlings peuvent confier volontairement leur voix, sur un domaine détermi
 - **tout earthling peut être délégué** - la réputation n'ouvre ni ne ferme l'accès à cette possibilité;
 - toutes les voix exprimées par le délégué sont publiques.
 
-**La délégation ne s'applique pas** aux votes portant sur la modification de la Charte et des règles de base de la Trésorerie, sur un financement au-delà de 100 000 EC, sur la constitution de l'Emergency Multisig, sur la restriction de pouvoirs, sur l'annulation d'un passeport et sur la modification des principes intangibles.
+**La délégation ne s'applique pas** aux votes portant sur la modification de la Charte et des règles de base de la Trésorerie, sur un financement au-delà de 100 000 EC, sur la constitution de l'Emergency Multisig, sur la restriction de pouvoirs, sur l'annulation d'une délivrance de passeport et sur la modification des principes intangibles.
 
 La délégation ne crée aucune influence supplémentaire: une voix déléguée vaut une voix, et elle ne crée pas de fonction.
 
@@ -441,7 +443,7 @@ Les valeurs indiquées sont des repères d'appréciation et non des engagements 
 
 ## Article 38. La procédure
 
-Le document n'est modifié que par un vote de l'Assemblée DAO: proposition de tout earthling; débat d'au moins 21 jours; vote de 14 jours à la majorité qualifiée avec un quorum d'au moins 25 pour cent; entrée en vigueur 7 jours après l'approbation.
+Le document n'est modifié que par un vote de l'Assemblée DAO: tout earthling a le droit de déposer une proposition; entrée en vigueur 7 jours après l'approbation. Les délais de débat, le seuil et le quorum dépendent du type de modification et sont établis par l'article 39.
 
 ## Article 39. Les types de modifications
 

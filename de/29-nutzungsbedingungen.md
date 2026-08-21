@@ -170,7 +170,7 @@ Eine unübertragbare digitale Kennung der Zugehörigkeit zum Volk, die in einem 
 
 Sie entwerten den Pass mit dem eigenen Schlüssel. Daran hindern kann niemand, auch der Gründer nicht.
 
-Die Charta (Artikel 21) legt zwei und nur zwei Ausnahmen fest, in denen ein Pass gegen den Willen des Inhabers entwertet wird: die Aufhebung einer unwirksamen Ausgabe durch Beschluss der Vollversammlung mit dem Recht auf Verteidigung und mit Beschwerde; die technische Neuausgabe auf Antrag des Inhabers selbst. Der Tod des Inhabers ist kein Grund für eine Entwertung: Die Zugehörigkeit endet von selbst, und der Pass bleibt im Register. Die Einzelheiten stehen im Dokument [Der SBT-Pass eines Earthling](https://earth-lings.org/documents/de/de15-sbt-pass.html).
+Die Charta (Artikel 21) legt zwei und nur zwei Fälle fest, in denen ein Pass nicht durch den Inhaber selbst entwertet wird: die Aufhebung einer unwirksamen Ausgabe durch Beschluss der Vollversammlung mit dem Recht auf Verteidigung und mit Beschwerde; die technische Neuausgabe auf Antrag des Inhabers selbst. Gegen den Willen des Inhabers wird ein Pass nur im ersten Fall entwertet. Der Tod des Inhabers ist kein Grund für eine Entwertung: Die Zugehörigkeit endet von selbst, und der Pass bleibt im Register. Die Einzelheiten stehen im Dokument [Der SBT-Pass eines Earthling](https://earth-lings.org/documents/de/de15-sbt-pass.html).
 
 ---
 

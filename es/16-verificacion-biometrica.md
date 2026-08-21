@@ -53,11 +53,12 @@ La comprobación es voluntaria. Usted puede revocar el consentimiento en cualqui
 
 **Qué ocurre al revocarlo:**
 
-- el tratamiento cesa y los hashes conservados se suprimen;
+- el tratamiento de los datos biométricos cesa, los resultados de la comprobación y los datos de la cuenta se suprimen;
+- **el hash irreversible de unicidad se conserva, y esa es la única limitación de la revocación.** Está calculado a partir de los datos del documento y no de la biometría, por lo que no queda comprendido en el consentimiento del artículo 9 del RGPD y se conserva por otro fundamento. Sin él, una misma persona podría obtener un segundo pasaporte, y esa posibilidad no la tiene nadie, tampoco ella misma;
 - dado que la unicidad acreditada es condición del derecho de voto, seguir participando en las votaciones se hace imposible;
 - **el pasaporte lo destruye usted mismo**, con su propia clave, como en una salida voluntaria ordinaria.
 
-> **No podemos destruir su pasaporte en su lugar.** La Carta (artículo 21) admite la destrucción contra la voluntad del titular solo en dos casos: la anulación de una emisión inválida por decisión de la Asamblea y la reemisión técnica a solicitud suya. La revocación del consentimiento no figura entre ellos, y la plataforma no guarda sus claves. Si usted revoca el consentimiento y no destruye el pasaporte, suprimiremos los datos por nuestra parte, pero el asiento del registro permanecerá hasta que usted lo destruya.
+> **No podemos destruir su pasaporte en su lugar.** La Carta (artículo 21) admite la destrucción del pasaporte por persona distinta de su titular solo en dos casos: la anulación de una emisión inválida por decisión de la Asamblea y la reemisión técnica a solicitud suya; contra su voluntad el pasaporte solo puede destruirse en el primero de ellos. La revocación del consentimiento no figura entre esos casos, y la plataforma no guarda sus claves. Si usted revoca el consentimiento y no destruye el pasaporte, suprimiremos los datos por nuestra parte, pero el asiento del registro permanecerá hasta que usted lo destruya.
 
 ---
 
@@ -255,7 +256,7 @@ Solo por una resolución judicial firme o un requerimiento legal equivalente; el
 
 La Política se actualiza a medida que avanzan las tecnologías y la legislación. Las modificaciones se publican indicando la fecha de entrada en vigor.
 
-El procedimiento de modificación - aviso con no menos de 30 días de antelación, publicación de la lista de cambios y derecho a objetar - está establecido en la Política de privacidad.
+El procedimiento de modificación - aviso por correo electrónico con no menos de 30 días de antelación, aviso en la plataforma en el siguiente acceso, publicación de la lista de cambios y derecho a objetar - está establecido en la Política de privacidad.
 
 ---
 

@@ -170,7 +170,7 @@ Un identifiant numérique intransmissible d'appartenance au peuple, existant dan
 
 Vous détruisez le passeport avec votre propre clé. Nul ne peut y faire obstacle, pas même le fondateur.
 
-La Charte (article 21) établit deux exceptions et deux seulement, dans lesquelles le passeport est détruit contre la volonté du titulaire: l'annulation d'une délivrance non valide par décision de l'Assemblée, avec droit de se défendre et recours; la réémission technique à la demande du titulaire lui-même. Le décès du titulaire n'est pas un motif de destruction: l'appartenance prend fin d'elle-même, et le passeport demeure au registre. Le détail figure dans le document [Passeport SBT de l'earthling](https://earth-lings.org/documents/fr/fr15-passeport-sbt.html).
+La Charte (article 21) établit deux cas et deux seulement dans lesquels le passeport est détruit par une personne autre que son titulaire: l'annulation d'une délivrance non valide par décision de l'Assemblée, avec droit de se défendre et recours; la réémission technique à la demande du titulaire lui-même. Contre la volonté du titulaire, le passeport n'est détruit que dans le premier cas. Le décès du titulaire n'est pas un motif de destruction: l'appartenance prend fin d'elle-même, et le passeport demeure au registre. Le détail figure dans le document [Passeport SBT de l'earthling](https://earth-lings.org/documents/fr/fr15-passeport-sbt.html).
 
 ---
 

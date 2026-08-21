@@ -87,7 +87,7 @@ Die Charta (Artikel 21) legt zwei und nur zwei Ausnahmen fest, die die Plattform
 1. **die Aufhebung einer unwirksamen Ausgabe** - wenn festgestellt ist, dass ein Pass unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde; nur durch Beschluss der Vollversammlung mit Sanktionsmehrheit, in geheimer Abstimmung, mit Beschwerderecht;
 2. **die technische Neuausgabe** - auf Antrag des Inhabers selbst bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags; die Zugehörigkeit wird nicht unterbrochen.
 
-Andere Gründe für eine Entwertung gegen den Willen des Inhabers werden in der Plattform nicht umgesetzt. Der Tod des Inhabers steht nicht unter ihnen: Die Plattform verfügt über keine Angaben über einen Tod und kann nicht über sie verfügen, und das Ende der Teilnahme erfasst der Mechanismus der Inaktivität (Charta, Artikel 20).
+Andere Gründe für eine Entwertung nicht durch den Inhaber selbst werden in der Plattform nicht umgesetzt, und gegen den Willen des Inhabers wird ein Pass nur bei der Aufhebung einer unwirksamen Ausgabe entwertet. Der Tod des Inhabers steht nicht unter diesen Gründen: Die Plattform verfügt über keine Angaben über einen Tod und kann nicht über sie verfügen, und das Ende der Teilnahme erfasst der Mechanismus der Inaktivität (Charta, Artikel 20).
 
 ---
 

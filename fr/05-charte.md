@@ -165,7 +165,7 @@ Le Conseil indépendant sera un organe consultatif. Il procédera à l'audit ét
 - Nombre: 7 à 11 personnes (nombre impair)
 - Élection: vote de la DAO, majorité qualifiée (67%, quorum 25%)
 - Durée: 3 ans
-- Conditions: expertise reconnue en éthique, en droit, en écologie, en technologies; la candidature est ouverte à tout earthling, y compris par auto-candidature
+- Conditions: expertise reconnue dans l'un des domaines de compétence du Conseil; la liste des domaines est établie par le document « Conseil indépendant des Earthlings », elle est indicative et ne sert pas de système de quotas; la candidature est ouverte à tout earthling, y compris par auto-candidature
 
 **La révocation d'un membre du Conseil** est prononcée par une décision de l'Assemblée à la majorité qualifiée (67%, quorum 25%) - le seuil même auquel il a été élu, et pas plus élevé.
 
@@ -438,7 +438,7 @@ Tout earthling a le droit de mettre fin volontairement, à tout moment, à sa pa
 1. L'earthling adresse une demande de sortie par son espace personnel sur la plateforme Earthlings
 2. Le système demande une confirmation distincte de la décision et avertit des conséquences. Par défaut, un délai de 72 heures s'écoule entre la demande et la destruction: c'est une protection contre les décisions impulsives, et l'earthling a le droit d'y renoncer. Le peuple des Earthlings ne peut ni retarder la sortie ni l'annuler: la destruction est toujours accessible à l'earthling directement depuis son propre portefeuille
 3. Après confirmation, l'earthling détruit son passeport SBT avec sa propre clé (fonction `burnByHolder`). Le peuple des Earthlings ne conserve pas les clés du participant et ne peut ni procéder à la destruction à sa place, ni y faire obstacle; l'accès aux votes et aux services internes prend fin
-4. La sortie prend effet dès l'annulation du passeport SBT
+4. La sortie prend effet dès la destruction du passeport SBT
 
 **Les Earthlings Coin à la sortie.** Les jetons se trouvant sur le portefeuille de l'earthling qui sort demeurent sa propriété: ils ne sont ni confisqués ni annulés. Après la perte du statut d'earthling, le titulaire perd le droit de vote dans la DAO et l'accès aux services internes; l'usage ultérieur des jetons dépend de leur accessibilité technique et de la loi applicable dans l'ordre juridique concerné.
 
@@ -479,7 +479,7 @@ Un earthling est réputé inactif s'il:
 
 Le mécanisme d'inactivité protège le système contre une élévation artificielle des exigences de quorum, tout en conservant à chaque earthling le droit de revenir à la participation à tout moment.
 
-## Article 21. La destruction du passeport contre la volonté du titulaire
+## Article 21. La destruction du passeport par une personne autre que son titulaire
 
 En règle générale, le passeport SBT n'est détruit que par son titulaire lui-même (article 18). Le présent article établit **deux exceptions et deux seulement** à cette règle.
 
@@ -504,7 +504,7 @@ L'annulation n'est pas une exclusion du peuple et ne s'applique pas comme sancti
 
 Un passeport peut être détruit et immédiatement réémis à la même adresse ou à une nouvelle adresse du titulaire, à la demande du titulaire lui-même, en cas de perte d'accès au portefeuille ou de migration du contrat. La réémission n'interrompt pas l'appartenance et n'exige aucun vote.
 
-**Il n'existe pas d'autres motifs de destruction du passeport contre la volonté du titulaire.**
+**Contre la volonté du titulaire, le passeport ne peut être détruit qu'en cas d'annulation d'une délivrance non valide: la réémission technique a lieu à la demande du titulaire lui-même. Il n'existe pas d'autres motifs de destruction du passeport par une personne autre que son titulaire.**
 
 ## Article 22. La restriction de pouvoirs
 
@@ -846,7 +846,7 @@ Modification de la Charte, décisions stratégiques, financement de projets au-d
 Délais: 21 jours de débat + 14 jours de vote.
 
 **Questions de sanction - 75%, quorum 25%**
-Restriction de pouvoirs des niveaux 4 et 5 (article 22), annulation d'une délivrance non valide de passeport (article 21). Le vote est secret, la délégation ne s'applique pas.
+Restriction de pouvoirs des niveaux 4 et 5 (article 22), suspension du droit de vote (article 22 bis), annulation d'une délivrance non valide de passeport (article 21). Le vote est secret, la délégation ne s'applique pas.
 Délais: 21 jours de débat + 14 jours de vote.
 
 **Répartition par soutien**

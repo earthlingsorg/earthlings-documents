@@ -53,11 +53,12 @@ Verification is voluntary. You are entitled to withdraw your consent at any time
 
 **What happens on withdrawal:**
 
-- processing ceases, and the retained hashes are deleted;
+- the processing of biometric data ceases, and the results of the check and the account data are deleted;
+- **the irreversible uniqueness hash is retained, and this is the only limit on withdrawal.** It is computed from the data of the document, not from biometrics, and therefore does not fall under consent within the meaning of Article 9 GDPR and is retained on another basis. Without it one person could obtain a second passport, and no one has that possibility - including that person themselves;
 - since confirmed uniqueness is a condition of the right to vote, further participation in votes becomes impossible;
 - **you burn the passport yourself**, with your own key, as in an ordinary voluntary exit.
 
-> **We cannot burn your passport for you.** The Charter (Article 21) permits burning against the holder's will in two cases only - annulment of an invalid issuance by decision of the Assembly, and technical reissue at your own request. Withdrawal of consent is not among them, and the platform does not store your keys. If you withdraw your consent and do not burn the passport, we will delete the data on our side, but the entry in the registry will remain until you burn it.
+> **We cannot burn your passport for you.** The Charter (Article 21) permits a passport to be burned by someone other than the holder in two cases only - annulment of an invalid issuance by decision of the Assembly, and technical reissue at your own request; against your will a passport may be burned only in the first of them. Withdrawal of consent is not among these cases, and the platform does not store your keys. If you withdraw your consent and do not burn the passport, we will delete the data on our side, but the entry in the registry will remain until you burn it.
 
 ---
 
@@ -255,7 +256,7 @@ Only under a court decision in force or an equivalent lawful requirement - the p
 
 The Policy is updated as technology and legislation develop. Amendments are published with the date of entry into force.
 
-The procedure for amendment - notice of no fewer than 30 days, publication of the list of changes, and the right to object - is laid down by the Privacy Policy.
+The procedure for amendment - notice by email no fewer than 30 days in advance, notice on the platform at the next login, publication of the list of changes, and the right to object - is laid down by the Privacy Policy.
 
 ---
 

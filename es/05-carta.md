@@ -165,7 +165,7 @@ El Consejo Independiente es un órgano consultivo. Realiza la auditoría ética 
 - Número: de 7 a 11 personas (número impar)
 - Elección: votación de la DAO, mayoría cualificada (67%, quórum 25%)
 - Duración: 3 años
-- Requisitos: competencia reconocida en ética, derecho, medio ambiente o tecnologías; la propuesta de candidaturas está abierta a cualquier earthling, incluida la autocandidatura
+- Requisitos: competencia reconocida en uno de los ámbitos de competencia del Consejo; la lista de ámbitos está establecida en el documento «Consejo Independiente de los Earthlings», es orientativa y no sirve de sistema de cuotas; la propuesta de candidaturas está abierta a cualquier earthling, incluida la autocandidatura
 
 **La revocación de un miembro del Consejo** se produce por decisión de la Asamblea con mayoría cualificada (67%, quórum 25%), el mismo umbral con el que fue elegido y no superior a él.
 
@@ -438,7 +438,7 @@ Todo earthling puede poner fin voluntariamente a su participación en el pueblo 
 1. El earthling presenta una declaración de salida desde su área personal en la plataforma Earthlings
 2. El sistema pide una confirmación aparte de la decisión y advierte de sus consecuencias. Por defecto, entre la declaración y la destrucción media una pausa de 72 horas: es una protección frente a las decisiones impulsivas, y el earthling puede renunciar a ella. El pueblo Earthlings no puede ni retrasar la salida ni anularla: la destrucción está siempre a disposición del earthling directamente desde su propio monedero
 3. Tras la confirmación, el earthling destruye el pasaporte SBT con su propia clave (función `burnByHolder`). El pueblo Earthlings no guarda las claves del participante y no puede ni ejecutar la destrucción en su lugar ni impedirla; el acceso a las votaciones y a los servicios internos cesa
-4. La salida surte efecto desde el momento de la anulación del pasaporte SBT
+4. La salida surte efecto desde el momento de la destrucción del pasaporte SBT
 
 **Los Earthlings Coin al salir.** Los tokens que se encuentran en el monedero del earthling saliente siguen siendo de su propiedad: no se confiscan ni se anulan. Tras perder la condición de earthling, su titular pierde el derecho de voto en la DAO y el acceso a los servicios internos; el uso posterior de los tokens depende de su accesibilidad técnica y de la legislación aplicable de la jurisdicción correspondiente.
 
@@ -479,7 +479,7 @@ Se considera inactivo al earthling que:
 
 El mecanismo de inactividad protege al sistema frente a una elevación artificial de las exigencias de quórum, conservando al mismo tiempo el derecho de cada earthling a volver a participar en cualquier momento.
 
-## Artículo 21. Destrucción del pasaporte contra la voluntad de su titular
+## Artículo 21. Destrucción del pasaporte por persona distinta de su titular
 
 Por regla general el pasaporte SBT solo lo destruye su propio titular (artículo 18). El presente artículo establece **dos y solo dos** excepciones a esa regla.
 
@@ -504,7 +504,7 @@ La anulación no es una expulsión del pueblo y no se aplica como medida de resp
 
 Un pasaporte puede destruirse y reemitirse de inmediato en la misma dirección o en una nueva dirección del titular, a solicitud del propio titular, en caso de pérdida de acceso al monedero o de migración del contrato. La reemisión no interrumpe la pertenencia y no requiere votación.
 
-**No existen otros fundamentos para destruir un pasaporte contra la voluntad de su titular.**
+**Contra la voluntad de su titular un pasaporte solo puede destruirse en caso de anulación de una emisión inválida: la reemisión técnica se realiza a solicitud del propio titular. No existen otros fundamentos para la destrucción del pasaporte por persona distinta de su titular.**
 
 ## Artículo 22. Limitación de facultades
 
@@ -846,7 +846,7 @@ Modificación de la Carta, decisiones estratégicas, financiación de proyectos 
 Plazos: 21 días de debate + 14 días de votación.
 
 **Cuestiones sancionadoras - 75%, quórum 25%**
-Limitación de facultades de los niveles 4 y 5 (artículo 22), anulación de una emisión inválida de pasaporte (artículo 21). La votación es secreta y no se aplica la delegación.
+Limitación de facultades de los niveles 4 y 5 (artículo 22), suspensión del derecho de voto (artículo 22 bis), anulación de una emisión inválida de pasaporte (artículo 21). La votación es secreta y no se aplica la delegación.
 Plazos: 21 días de debate + 14 días de votación.
 
 **Distribución por apoyos**
