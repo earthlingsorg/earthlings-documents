@@ -522,6 +522,30 @@ Ante la infracción de las reglas y principios del pueblo Earthlings pueden apli
 
 **Nivel 5 - Limitación combinada.** Combinación de varias limitaciones de los niveles 2 a 4. Se aplica en caso de infracciones sistemáticas o graves. Duración: de 6 a 36 meses.
 
+### Fundamentos de las limitaciones
+
+- infracción de las normas éticas del pueblo Earthlings
+- ocultación deliberada de un conflicto de intereses
+- abuso de los mecanismos de la DAO (spam de propuestas, manipulaciones)
+- actos que causan daño reputacional al pueblo Earthlings
+- vulneración de la confidencialidad de otros Earthlings
+- incumplimiento sistemático de obligaciones asumidas voluntariamente
+
+### Procedimiento de aplicación
+
+1. **Inicio.** Cualquier earthling o un grupo de Earthlings (no menos de 5 personas) puede iniciar el examen presentando una motivación
+2. **Examen previo.** El Consejo Independiente examina la fundamentación de la iniciativa en el plazo de 14 días y publica una recomendación
+3. **Derecho de defensa.** El earthling tiene derecho a recibir información completa sobre las imputaciones, a exponer su posición y a recabar el apoyo de otros Earthlings
+4. **Debate.** No menos de 14 días (niveles 1 a 3) o 21 días (niveles 4 y 5)
+5. **Votación.** Niveles 1 a 3: 67% con quórum del 20%. Niveles 4 y 5: 75% con quórum del 25%. La votación es **secreta y sin delegación** (artículos 6 y 7)
+6. **Ejecución.** Las limitaciones surten efecto 48 horas después de concluida la votación
+
+**Levantamiento anticipado.** Las limitaciones pueden levantarse anticipadamente en cualquier momento por decisión de la DAO con mayoría simple (51%, quórum 20%). Puede iniciarlo el propio earthling o cualquier otro earthling.
+
+> Los umbrales elevados protegen frente a la imposición de limitaciones, no frente a su levantamiento: levantar una limitación es siempre más fácil que imponerla.
+
+**Recurso.** Un earthling puede recurrir la decisión en el plazo de 30 días. La apelación la examina la Asamblea DAO. Para anular la decisión basta la mayoría simple (51%, quórum 20%).
+
 > Entre las medidas enumeradas no figura la suspensión del derecho de voto. Ninguno de los fundamentos del presente artículo - ni la infracción de las normas éticas, ni el spam, ni el daño reputacional - afecta al derecho de voto. El único fundamento de suspensión del voto está establecido aparte, en el artículo 22 bis, y no se refiere a la conducta del participante fuera del mecanismo de votación.
 
 ## Artículo 22 bis. Suspensión del derecho de voto
@@ -565,30 +589,6 @@ El procedimiento se corresponde con el del artículo 22, con las siguientes part
 - **levantamiento anticipado** en cualquier momento por mayoría simple.
 
 La suspensión del derecho de voto no afecta a la pertenencia al pueblo, que es inalienable, y no conlleva expulsión en ninguna circunstancia.
-
-### Fundamentos de las limitaciones
-
-- infracción de las normas éticas del pueblo Earthlings
-- ocultación deliberada de un conflicto de intereses
-- abuso de los mecanismos de la DAO (spam de propuestas, manipulaciones)
-- actos que causan daño reputacional al pueblo Earthlings
-- vulneración de la confidencialidad de otros Earthlings
-- incumplimiento sistemático de obligaciones asumidas voluntariamente
-
-### Procedimiento de aplicación
-
-1. **Inicio.** Cualquier earthling o un grupo de Earthlings (no menos de 5 personas) puede iniciar el examen presentando una motivación
-2. **Examen previo.** El Consejo Independiente examina la fundamentación de la iniciativa en el plazo de 14 días y publica una recomendación
-3. **Derecho de defensa.** El earthling tiene derecho a recibir información completa sobre las imputaciones, a exponer su posición y a recabar el apoyo de otros Earthlings
-4. **Debate.** No menos de 14 días (niveles 1 a 3) o 21 días (niveles 4 y 5)
-5. **Votación.** Niveles 1 a 3: 67% con quórum del 20%. Niveles 4 y 5: 75% con quórum del 25%. La votación es **secreta y sin delegación** (artículos 6 y 7)
-6. **Ejecución.** Las limitaciones surten efecto 48 horas después de concluida la votación
-
-**Levantamiento anticipado.** Las limitaciones pueden levantarse anticipadamente en cualquier momento por decisión de la DAO con mayoría simple (51%, quórum 20%). Puede iniciarlo el propio earthling o cualquier otro earthling.
-
-> Los umbrales elevados protegen frente a la imposición de limitaciones, no frente a su levantamiento: levantar una limitación es siempre más fácil que imponerla.
-
-**Recurso.** Un earthling puede recurrir la decisión en el plazo de 30 días. La apelación la examina la Asamblea DAO. Para anular la decisión basta la mayoría simple (51%, quórum 20%).
 
 ---
 

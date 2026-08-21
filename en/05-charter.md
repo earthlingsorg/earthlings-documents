@@ -522,6 +522,30 @@ Where the rules and principles of the Earthlings people are breached, restrictiv
 
 **Level 5 - Combined restriction.** A combination of several restrictions at levels 2-4. Applied in cases of systematic or gross breaches. Duration: from 6 to 36 months.
 
+### Grounds for Restrictions
+
+- breach of the ethical rules of the Earthlings people
+- deliberate concealment of a conflict of interest
+- abuse of DAO mechanisms (spamming proposals, manipulation)
+- acts causing reputational damage to the Earthlings people
+- breach of the confidentiality of other Earthlings
+- systematic failure to perform voluntarily assumed obligations
+
+### Procedure for Application
+
+1. **Initiation.** Any earthling or group of Earthlings (not fewer than 5 people) may initiate consideration by submitting a substantiation
+2. **Preliminary consideration.** The Independent Council considers whether the initiative is well founded within 14 days and publishes a recommendation
+3. **The right to a defence.** The earthling has the right to receive full information about the allegations, to present their position and to enlist other Earthlings in support
+4. **Discussion.** Not less than 14 days (levels 1-3) or 21 days (levels 4-5)
+5. **Vote.** Levels 1-3: 67% at a quorum of 20%. Levels 4-5: 75% at a quorum of 25%. The vote is **secret, without delegation** (Articles 6 and 7)
+6. **Execution.** Restrictions take effect 48 hours after the vote closes
+
+**Early lifting.** Restrictions may be lifted early at any time by a decision of the DAO at a simple majority (51%, quorum 20%). It may be initiated by the earthling themselves or by any other earthling.
+
+> Raised thresholds protect against imposing restrictions, not against lifting them: lifting a restriction is always easier than imposing one.
+
+**Appeal.** An earthling has the right to appeal a decision within 30 days. The appeal is considered by the DAO Assembly. A simple majority (51%, quorum 20%) is enough to overturn the decision.
+
 > Suspension of the right to vote is not among the measures listed. None of the grounds in this Article - neither a breach of ethical rules, nor spam, nor reputational damage - affects the right to vote. The sole ground for suspending a vote is established separately, by Article 22 bis, and does not concern a participant's conduct outside the voting mechanism.
 
 ## Article 22 bis. Suspension of the Right to Vote
@@ -565,30 +589,6 @@ The procedure follows Article 22, with the following particulars:
 - **early lifting** at any time by a simple majority.
 
 Suspension of the right to vote does not affect belonging to the people, which is inalienable, and does not entail expulsion under any circumstances.
-
-### Grounds for Restrictions
-
-- breach of the ethical rules of the Earthlings people
-- deliberate concealment of a conflict of interest
-- abuse of DAO mechanisms (spamming proposals, manipulation)
-- acts causing reputational damage to the Earthlings people
-- breach of the confidentiality of other Earthlings
-- systematic failure to perform voluntarily assumed obligations
-
-### Procedure for Application
-
-1. **Initiation.** Any earthling or group of Earthlings (not fewer than 5 people) may initiate consideration by submitting a substantiation
-2. **Preliminary consideration.** The Independent Council considers whether the initiative is well founded within 14 days and publishes a recommendation
-3. **The right to a defence.** The earthling has the right to receive full information about the allegations, to present their position and to enlist other Earthlings in support
-4. **Discussion.** Not less than 14 days (levels 1-3) or 21 days (levels 4-5)
-5. **Vote.** Levels 1-3: 67% at a quorum of 20%. Levels 4-5: 75% at a quorum of 25%. The vote is **secret, without delegation** (Articles 6 and 7)
-6. **Execution.** Restrictions take effect 48 hours after the vote closes
-
-**Early lifting.** Restrictions may be lifted early at any time by a decision of the DAO at a simple majority (51%, quorum 20%). It may be initiated by the earthling themselves or by any other earthling.
-
-> Raised thresholds protect against imposing restrictions, not against lifting them: lifting a restriction is always easier than imposing one.
-
-**Appeal.** An earthling has the right to appeal a decision within 30 days. The appeal is considered by the DAO Assembly. A simple majority (51%, quorum 20%) is enough to overturn the decision.
 
 ---
 

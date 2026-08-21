@@ -522,6 +522,30 @@ En cas de manquement aux règles et aux principes du peuple des Earthlings, des 
 
 **Niveau 5 - Restriction combinée.** Combinaison de plusieurs restrictions des niveaux 2 à 4. Appliquée en cas de manquements systématiques ou graves. Durée: de 6 à 36 mois.
 
+### Motifs de restriction
+
+- manquement aux normes éthiques du peuple des Earthlings
+- dissimulation intentionnelle d'un conflit d'intérêts
+- abus des mécanismes de la DAO (spam de propositions, manipulations)
+- actes portant atteinte à la réputation du peuple des Earthlings
+- atteinte à la confidentialité d'autres Earthlings
+- inexécution systématique d'engagements pris volontairement
+
+### Procédure d'application
+
+1. **Déclenchement.** Tout earthling ou groupe d'Earthlings (au moins 5 personnes) a le droit de déclencher l'examen en présentant une motivation
+2. **Examen préalable.** Le Conseil indépendant examine le bien-fondé de l'initiative dans un délai de 14 jours et publie une recommandation
+3. **Droit de se défendre.** L'earthling a le droit de recevoir une information complète sur les griefs, de présenter sa position et d'appeler d'autres Earthlings à son soutien
+4. **Débat.** Au moins 14 jours (niveaux 1 à 3) ou 21 jours (niveaux 4 et 5)
+5. **Vote.** Niveaux 1 à 3: 67% avec un quorum de 20%. Niveaux 4 et 5: 75% avec un quorum de 25%. Le vote est **secret, sans délégation** (articles 6 et 7)
+6. **Exécution.** Les restrictions prennent effet 48 heures après la clôture du vote
+
+**Levée anticipée.** Les restrictions peuvent être levées par anticipation à tout moment par une décision de la DAO à la majorité simple (51%, quorum 20%). L'earthling lui-même ou tout autre earthling peut en prendre l'initiative.
+
+> Les seuils élevés protègent contre l'imposition de restrictions, non contre leur levée: lever une restriction est toujours plus facile que l'imposer.
+
+**Recours.** Un earthling a le droit de former un recours contre la décision dans les 30 jours. L'appel est examiné par l'Assemblée DAO. La majorité simple (51%, quorum 20%) suffit pour annuler la décision.
+
 > La suspension du droit de vote ne figure pas parmi ces mesures. Aucun des motifs du présent article - ni le manquement aux normes éthiques, ni le spam, ni l'atteinte à la réputation - n'affecte le droit de vote. Le seul motif de suspension de la voix est établi à part, à l'article 22 bis, et ne concerne pas le comportement d'un participant en dehors du mécanisme de vote.
 
 ## Article 22 bis. La suspension du droit de vote
@@ -565,30 +589,6 @@ La procédure est celle de l'article 22, avec les particularités suivantes:
 - **levée anticipée** à tout moment, à la majorité simple.
 
 La suspension du droit de vote n'affecte pas l'appartenance au peuple, qui est inaliénable, et n'entraîne d'exclusion en aucune circonstance.
-
-### Motifs de restriction
-
-- manquement aux normes éthiques du peuple des Earthlings
-- dissimulation intentionnelle d'un conflit d'intérêts
-- abus des mécanismes de la DAO (spam de propositions, manipulations)
-- actes portant atteinte à la réputation du peuple des Earthlings
-- atteinte à la confidentialité d'autres Earthlings
-- inexécution systématique d'engagements pris volontairement
-
-### Procédure d'application
-
-1. **Déclenchement.** Tout earthling ou groupe d'Earthlings (au moins 5 personnes) a le droit de déclencher l'examen en présentant une motivation
-2. **Examen préalable.** Le Conseil indépendant examine le bien-fondé de l'initiative dans un délai de 14 jours et publie une recommandation
-3. **Droit de se défendre.** L'earthling a le droit de recevoir une information complète sur les griefs, de présenter sa position et d'appeler d'autres Earthlings à son soutien
-4. **Débat.** Au moins 14 jours (niveaux 1 à 3) ou 21 jours (niveaux 4 et 5)
-5. **Vote.** Niveaux 1 à 3: 67% avec un quorum de 20%. Niveaux 4 et 5: 75% avec un quorum de 25%. Le vote est **secret, sans délégation** (articles 6 et 7)
-6. **Exécution.** Les restrictions prennent effet 48 heures après la clôture du vote
-
-**Levée anticipée.** Les restrictions peuvent être levées par anticipation à tout moment par une décision de la DAO à la majorité simple (51%, quorum 20%). L'earthling lui-même ou tout autre earthling peut en prendre l'initiative.
-
-> Les seuils élevés protègent contre l'imposition de restrictions, non contre leur levée: lever une restriction est toujours plus facile que l'imposer.
-
-**Recours.** Un earthling a le droit de former un recours contre la décision dans les 30 jours. L'appel est examiné par l'Assemblée DAO. La majorité simple (51%, quorum 20%) suffit pour annuler la décision.
 
 ---
 

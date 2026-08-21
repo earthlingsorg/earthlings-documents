@@ -522,6 +522,30 @@ Bei einer Verletzung der Regeln und Grundsätze des Volkes der Earthlings könne
 
 **Stufe 5 - Zusammengesetzte Beschränkung.** Verbindung mehrerer Beschränkungen der Stufen 2 bis 4. Wird bei fortgesetzten oder groben Verletzungen angewandt. Dauer: 6 bis 36 Monate.
 
+### Gründe für Beschränkungen
+
+- Verletzung der ethischen Normen des Volkes der Earthlings
+- vorsätzliches Verschweigen eines Interessenkonflikts
+- Missbrauch der Mechanismen der DAO (Spam mit Vorschlägen, Manipulationen)
+- Handlungen, die dem Ansehen des Volkes der Earthlings schaden
+- Verletzung der Vertraulichkeit anderer Earthlings
+- fortgesetzte Nichterfüllung freiwillig übernommener Pflichten
+
+### Das Verfahren der Anwendung
+
+1. **Einleitung.** Jeder Earthling oder eine Gruppe von Earthlings (mindestens 5 Menschen) ist befugt, eine Behandlung einzuleiten und dabei eine Begründung vorzulegen
+2. **Vorprüfung.** Der Unabhängige Rat prüft binnen 14 Tagen die Begründetheit der Einleitung und veröffentlicht eine Empfehlung
+3. **Recht auf Verteidigung.** Ein Earthling hat das Recht, vollständige Auskunft über die Vorwürfe zu erhalten, die eigene Position darzulegen und andere Earthlings zur Unterstützung heranzuziehen
+4. **Beratung.** Mindestens 14 Tage (Stufen 1 bis 3) oder 21 Tage (Stufen 4 und 5)
+5. **Abstimmung.** Stufen 1 bis 3: 67 % bei einem Quorum von 20 %. Stufen 4 und 5: 75 % bei einem Quorum von 25 %. Die Abstimmung ist **geheim, ohne Übertragung** (Artikel 6 und 7)
+6. **Ausführung.** Die Beschränkungen werden 48 Stunden nach Abschluss der Abstimmung wirksam
+
+**Die vorzeitige Aufhebung.** Beschränkungen können jederzeit vorzeitig durch Beschluss der DAO mit einfacher Mehrheit (51 %, Quorum 20 %) aufgehoben werden. Einleiten kann das der Earthling selbst oder jeder andere Earthling.
+
+> Erhöhte Schwellen schützen vor der Auferlegung von Beschränkungen und nicht vor ihrer Aufhebung: Eine Beschränkung aufzuheben ist stets leichter, als sie aufzuerlegen.
+
+**Die Beschwerde.** Ein Earthling ist befugt, die Entscheidung binnen 30 Tagen anzufechten. Die Beschwerde behandelt die DAO-Vollversammlung. Zur Aufhebung der Entscheidung genügt eine einfache Mehrheit (51 %, Quorum 20 %).
+
 > Eine Aussetzung des Stimmrechts steht unter den aufgezählten Maßnahmen nicht. Keiner der Gründe dieses Artikels - weder die Verletzung ethischer Normen noch Spam noch ein Schaden für das Ansehen - berührt das Stimmrecht. Der einzige Grund für eine Aussetzung der Stimme ist gesondert festgelegt, in Artikel 22-bis, und betrifft nicht das Verhalten eines Teilnehmers außerhalb des Abstimmungsmechanismus.
 
 ## Artikel 22-bis. Die Aussetzung des Stimmrechts
@@ -565,30 +589,6 @@ Der Ablauf entspricht Artikel 22 mit den folgenden Besonderheiten:
 - **vorzeitige Aufhebung** jederzeit mit einfacher Mehrheit.
 
 Die Aussetzung des Stimmrechts berührt die Zugehörigkeit zum Volk nicht, die unveräußerlich ist, und zieht unter keinen Umständen einen Ausschluss nach sich.
-
-### Gründe für Beschränkungen
-
-- Verletzung der ethischen Normen des Volkes der Earthlings
-- vorsätzliches Verschweigen eines Interessenkonflikts
-- Missbrauch der Mechanismen der DAO (Spam mit Vorschlägen, Manipulationen)
-- Handlungen, die dem Ansehen des Volkes der Earthlings schaden
-- Verletzung der Vertraulichkeit anderer Earthlings
-- fortgesetzte Nichterfüllung freiwillig übernommener Pflichten
-
-### Das Verfahren der Anwendung
-
-1. **Einleitung.** Jeder Earthling oder eine Gruppe von Earthlings (mindestens 5 Menschen) ist befugt, eine Behandlung einzuleiten und dabei eine Begründung vorzulegen
-2. **Vorprüfung.** Der Unabhängige Rat prüft binnen 14 Tagen die Begründetheit der Einleitung und veröffentlicht eine Empfehlung
-3. **Recht auf Verteidigung.** Ein Earthling hat das Recht, vollständige Auskunft über die Vorwürfe zu erhalten, die eigene Position darzulegen und andere Earthlings zur Unterstützung heranzuziehen
-4. **Beratung.** Mindestens 14 Tage (Stufen 1 bis 3) oder 21 Tage (Stufen 4 und 5)
-5. **Abstimmung.** Stufen 1 bis 3: 67 % bei einem Quorum von 20 %. Stufen 4 und 5: 75 % bei einem Quorum von 25 %. Die Abstimmung ist **geheim, ohne Übertragung** (Artikel 6 und 7)
-6. **Ausführung.** Die Beschränkungen werden 48 Stunden nach Abschluss der Abstimmung wirksam
-
-**Die vorzeitige Aufhebung.** Beschränkungen können jederzeit vorzeitig durch Beschluss der DAO mit einfacher Mehrheit (51 %, Quorum 20 %) aufgehoben werden. Einleiten kann das der Earthling selbst oder jeder andere Earthling.
-
-> Erhöhte Schwellen schützen vor der Auferlegung von Beschränkungen und nicht vor ihrer Aufhebung: Eine Beschränkung aufzuheben ist stets leichter, als sie aufzuerlegen.
-
-**Die Beschwerde.** Ein Earthling ist befugt, die Entscheidung binnen 30 Tagen anzufechten. Die Beschwerde behandelt die DAO-Vollversammlung. Zur Aufhebung der Entscheidung genügt eine einfache Mehrheit (51 %, Quorum 20 %).
 
 ---
 
