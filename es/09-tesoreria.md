@@ -379,6 +379,18 @@ La infracción conlleva el cese inmediato de la financiación y la devolución d
 
 Las excepciones solo son posibles con la aprobación de la mayoría cualificada de la DAO en circunstancias especiales.
 
+## Artículo 31 bis. Los fondos y la medición de la voluntad común
+
+Las mediciones de la voluntad común (artículo 8 bis de la [Carta](https://earth-lings.org/documents/es/es05-carta.html)) se sostienen con la caja común del pueblo. Por participar en una medición no se cobra nunca pago alguno: la cuota de entrada cubre la verificación de identidad y la emisión del pasaporte, y no la participación en las votaciones.
+
+**No se realiza una medición pagada por un cliente** - ni para un Estado, ni para una empresa, ni para una fundación, ni para otra asociación. Quedan excluidas las preguntas por encargo, la prioridad en la cola a cambio de dinero y la formulación pagada.
+
+**No se aceptan fondos finalistas destinados a una pregunta concreta,** incluida la donación sin condiciones recibida para una pregunta concreta. Tales ingresos o bien se abonan a la caja común sin vínculo con la pregunta, o bien se devuelven.
+
+Los gastos en mediciones se publican en línea aparte en la rendición de cuentas de la caja común.
+
+**Motivación:** una evaluación pagada por aquel a quien se evalúa pierde credibilidad con independencia de la honradez de quienes la realizan; la destruye la dirección del flujo de dinero, y no una mala intención. La separación del dinero respecto de la pregunta suprime la presión externa; frente a la interna no protege, y para eso sirven las reglas de formación de la pregunta del artículo 8 bis de la Carta.
+
 ---
 
 # SECCIÓN 09. Gestión de crisis

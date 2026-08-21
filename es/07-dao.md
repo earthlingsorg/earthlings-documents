@@ -134,6 +134,10 @@ Pero hay cuestiones en las que la apertura de la expresión de la voluntad no pr
 
 El voto secreto se aplica obligatoriamente al examinar una limitación de facultades y en la anulación de una emisión inválida de pasaporte, y por decisión de la Asamblea, para cuestiones o categorías concretas, en particular las que afectan a la posición del pueblo sobre los actos de los Estados.
 
+## La medición de la voluntad común no es una decisión
+
+La presente sección describe cómo el pueblo adopta decisiones sobre su propia vida. La expresión de la posición del pueblo sobre las cuestiones que responden a los rasgos del artículo 7 de la Declaración no es una decisión: con ella el pueblo no adopta decisiones, sino que se pronuncia. El procedimiento de medición, los requisitos de formación de la pregunta, el contenido de lo que se publica y el procedimiento en caso de medición defectuosa están establecidos en la [Carta, artículo 8 bis](https://earth-lings.org/documents/es/es05-carta.html); en lo demás el procedimiento lo establece una decisión de la Asamblea.
+
 ## Lista de propuestas
 
 Las propuestas se muestran por orden cronológico de presentación. La reputación del autor no influye en su lugar en la lista. Una priorización automática formaría un orden del día sin responsabilidad formal y por ello no se aplica.

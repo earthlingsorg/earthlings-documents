@@ -379,6 +379,18 @@ Un manquement entraîne l'arrêt immédiat du financement et la restitution des 
 
 Des exceptions ne sont possibles qu'avec l'approbation de la majorité qualifiée de la DAO, dans des circonstances particulières.
 
+## Article 31 bis. Les fonds et la mesure de la volonté commune
+
+Les mesures de la volonté commune (article 8 bis de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html)) sont entretenues par la trésorerie du peuple. Aucun paiement n'est jamais perçu pour participer à une mesure: la cotisation d'entrée couvre la vérification d'identité et la délivrance du passeport, non la participation aux votes.
+
+**Une mesure n'est pas effectuée contre paiement d'un commanditaire** - ni pour un État, ni pour une entreprise, ni pour un fonds, ni pour un autre groupement. Les questions de commande, la priorité dans la file contre paiement et le libellé payé sont exclus.
+
+**Les fonds affectés à une question déterminée ne sont pas acceptés,** y compris un don sans conditions reçu pour une question déterminée. De tels versements sont soit portés à la trésorerie commune sans rattachement à la question, soit restitués.
+
+Les dépenses consacrées aux mesures sont publiées sur une ligne distincte dans la reddition de comptes de la trésorerie.
+
+**Justification:** une évaluation payée par celui qu'elle évalue perd sa crédibilité indépendamment de l'honnêteté de ceux qui l'effectuent - ce qui la détruit, c'est le sens du flux d'argent, non une intention malveillante. La séparation de l'argent et de la question écarte la pression externe; contre l'interne elle ne protège pas, et c'est à cela que servent les règles d'élaboration de la question de l'article 8 bis de la Charte.
+
 ---
 
 # SECTION 09. La gestion de crise

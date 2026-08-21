@@ -213,6 +213,8 @@ No se abona remuneración alguna por ocupar un puesto en el Consejo más allá d
 
 > **Umbrales de financiación.** Las cantidades de 10 000 EC y 100 000 EC que delimitan los tipos de votación las establece una decisión de la Asamblea DAO y se modifican sin reformar la Carta. Los valores aquí indicados rigen en el momento de la adopción de la Carta; en caso de discrepancia se aplica la decisión vigente de la Asamblea DAO.
 
+**La medición de la voluntad común no es una decisión** y no figura en la presente lista: con ella el pueblo expresa una posición, no adopta decisiones. Los requisitos de la medición están establecidos en el artículo 8 bis; el procedimiento en lo demás lo establece una decisión de la Asamblea DAO.
+
 ## Artículo 6. Procedimientos de votación
 
 **Procedimiento estándar:**
@@ -289,6 +291,20 @@ Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La 
 - No es condición para recibir votos delegados ni para presentarse a los Core Nodes, al Emergency Multisig o al Consejo Independiente
 
 **Motivación:** la priorización automática de las propuestas por reputación forma de facto un orden del día sin responsabilidad formal. El orden cronológico asegura un acceso igual a la atención de la comunidad con independencia del historial de participación. Todo mecanismo en el que la reputación abra el acceso a acumular votos la convierte en un peso del voto encubierto y por ello queda excluido.
+
+## Artículo 8 bis. Medición de la voluntad común
+
+El pueblo Earthlings expresa la voluntad común sobre las cuestiones que responden a los rasgos del artículo 7 de la Declaración. Los límites de esa expresión están establecidos en los artículos 9 y 13 de la Declaración.
+
+La formulación de la pregunta no la aprueban ni quienes llevan la gestión operativa del pueblo ni quienes realizan la medición. La pregunta se publica antes de que se abra la votación y puede ser impugnada; una vez abierta la votación, la pregunta no se edita.
+
+El resultado se publica junto con todo lo que una persona ajena necesita para rehacer el recuento por su cuenta, incluida la participación sobre quienes tenían derecho a voto, también cuando es baja. Una publicación que no permite rehacer el recuento no es una medición.
+
+El defecto de la medición no lo constata quien la realizó. La medición anulada no se suprime y se conserva con la nota de anulación; en su lugar la medición se realiza de nuevo, entera y desde el principio.
+
+La medición no se realiza pagada por un cliente; no se aceptan fondos finalistas destinados a una pregunta concreta.
+
+El procedimiento de realización de las mediciones lo establece en lo demás una decisión de la Asamblea DAO y se publica antes de la primera medición.
 
 ---
 
@@ -851,6 +867,9 @@ Plazos: 21 días de debate + 14 días de votación.
 
 **Distribución por apoyos**
 Orden de financiación de los proyectos ya aprobados cuando faltan fondos del área. Marca de apoyo sin límite en el número de marcas; financiación por orden decreciente del número de quienes apoyan.
+
+**Medición de la voluntad común (artículo 8 bis)**
+No es una decisión y no tiene umbral: con ella el pueblo expresa una posición, no adopta decisiones. Los requisitos están establecidos en el artículo 8 bis; el procedimiento en lo demás lo establece una decisión de la Asamblea DAO.
 
 ## Facultades de las estructuras de ejecución
 

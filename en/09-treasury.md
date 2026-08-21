@@ -379,6 +379,18 @@ A breach entails immediate termination of funding and return of the funds.
 
 Exceptions are possible only with the approval of a qualified majority of the DAO in special circumstances.
 
+## Article 31 bis. Funds and the measurement of the common will
+
+Measurements of the common will (Article 8 bis of the [Charter](https://earth-lings.org/documents/en/en05-charter.html)) are maintained by the treasury of the people. No charge is ever made for taking part in a measurement: the contribution on joining covers identity verification and the issuance of a passport, not participation in votes.
+
+**A measurement is not conducted for a client's fee** - not for a state, not for a company, not for a foundation, not for any other association. Commissioned questions, priority in the queue for money, and paid-for wording are excluded.
+
+**Earmarked funding for a particular question is not accepted,** including a gift without conditions received for a particular question. Such receipts are either credited to the common treasury without any tie to the question, or returned.
+
+The costs of measurements are published as a separate line in the accounts of the treasury.
+
+**Rationale:** an assessment paid for by the party being assessed loses its credibility regardless of the honesty of those who carry it out - what destroys it is the direction of the flow of money, not ill intent. Separating the money from the question removes external pressure; against internal pressure it is no protection, and for that the rules for forming a question in Article 8 bis of the Charter serve.
+
 ---
 
 # SECTION 09. Crisis management

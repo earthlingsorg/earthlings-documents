@@ -213,6 +213,8 @@ Eine Vergütung für die Einnahme eines Platzes im Rat über einen solchen Ausgl
 
 > **Die Finanzierungsschwellen.** Die Beträge von 10 000 EC und 100 000 EC, die die Arten der Abstimmung voneinander abgrenzen, werden durch Beschluss der DAO-Vollversammlung festgelegt und ohne Änderung der Charta geändert. Die hier angeführten Werte gelten zum Zeitpunkt der Annahme der Charta; bei einer Abweichung gilt der geltende Beschluss der DAO-Vollversammlung.
 
+**Die Messung des gemeinsamen Willens ist kein Beschluss** und gehört nicht in diese Aufzählung: Mit ihr bekundet das Volk eine Position und beschließt nicht. Die Anforderungen an eine Messung sind in Artikel 8-bis festgelegt; das Verfahren wird im Übrigen durch Beschluss der DAO-Vollversammlung festgelegt.
+
 ## Artikel 6. Die Abstimmungsverfahren
 
 **Regelverfahren:**
@@ -289,6 +291,20 @@ Ein Earthling kann seine Stimme in einem einzelnen Sachgebiet einem anderen Eart
 - Ist keine Voraussetzung für den Erhalt übertragener Stimmen, für die Aufstellung als Core Node, für Emergency Multisig oder für den Unabhängigen Rat
 
 **Begründung:** Eine selbsttätige Vorreihung von Vorschlägen nach Ansehen bildet faktisch eine Tagesordnung ohne förmliche Verantwortung. Die zeitliche Reihenfolge sichert den gleichen Zugang zur Aufmerksamkeit der Gemeinschaft unabhängig von der Geschichte der Teilnahme. Jeder Mechanismus, in dem das Ansehen den Zugang zur Anhäufung von Stimmen öffnet, verwandelt es in ein verstecktes Stimmgewicht und ist deshalb ausgeschlossen.
+
+## Artikel 8-bis. Die Messung des gemeinsamen Willens
+
+Das Volk der Earthlings bekundet den gemeinsamen Willen zu Fragen, die den Merkmalen des Artikels 7 der Erklärung entsprechen. Die Grenzen einer solchen Bekundung sind in den Artikeln 9 und 13 der Erklärung festgelegt.
+
+Den Wortlaut der Frage billigen weder diejenigen, die das Volk operativ führen, noch diejenigen, die die Messung durchführen. Die Frage wird vor der Eröffnung der Abstimmung veröffentlicht und kann angefochten werden; nach der Eröffnung der Abstimmung wird die Frage nicht mehr redigiert.
+
+Das Ergebnis wird zusammen mit allem veröffentlicht, was ein Außenstehender braucht, um es selbst nachzurechnen, einschließlich des Anteils der Abstimmenden an den Stimmberechtigten - auch dann, wenn er niedrig ist. Eine Veröffentlichung, die das Nachrechnen nicht erlaubt, ist keine Messung.
+
+Den Mangel einer Messung stellt nicht derjenige fest, der sie durchgeführt hat. Eine für ungültig erklärte Messung wird nicht gelöscht und bleibt mit einem Vermerk über die Ungültigerklärung erhalten; an ihrer Stelle wird die Messung neu durchgeführt, vollständig und von Anfang an.
+
+Eine Messung gegen Bezahlung eines Auftraggebers findet nicht statt; zweckgebundene Mittel für eine bestimmte Frage werden nicht angenommen.
+
+Das Verfahren der Messungen wird im Übrigen durch Beschluss der DAO-Vollversammlung festgelegt und vor der ersten Messung veröffentlicht.
 
 ---
 
@@ -851,6 +867,9 @@ Fristen: 21 Tage Beratung + 14 Tage Abstimmung.
 
 **Verteilung nach Unterstützung**
 Reihenfolge der Finanzierung bereits gebilligter Projekte bei fehlenden Mitteln des Bereichs. Kennzeichnung der Unterstützung ohne Begrenzung der Zahl der Kennzeichnungen; Finanzierung nach absteigender Zahl der Unterstützenden.
+
+**Die Messung des gemeinsamen Willens (Artikel 8-bis)**
+Sie ist kein Beschluss und hat keine Schwelle: Mit ihr bekundet das Volk eine Position und beschließt nicht. Die Anforderungen sind in Artikel 8-bis festgelegt; das Verfahren wird im Übrigen durch Beschluss der DAO-Vollversammlung festgelegt.
 
 ## Die Befugnisse der ausführenden Strukturen
 

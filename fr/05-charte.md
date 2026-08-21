@@ -213,6 +213,8 @@ Aucune rémunération pour l'occupation d'un siège au Conseil n'est versée au-
 
 > **Les seuils de financement.** Les montants de 10 000 EC et de 100 000 EC, qui délimitent les types de votes, sont fixés par une décision de l'Assemblée DAO et modifiés sans amendement à la Charte. Les valeurs indiquées ici sont celles en vigueur au moment de l'adoption de la Charte; en cas de divergence, c'est la décision en vigueur de l'Assemblée DAO qui s'applique.
 
+**La mesure de la volonté commune n'est pas une décision** et ne figure pas dans la présente liste: par elle, le peuple exprime une position, il ne statue pas. Les exigences relatives à la mesure sont établies à l'article 8 bis; les modalités sont pour le reste établies par une décision de l'Assemblée DAO.
+
 ## Article 6. Les procédures de vote
 
 **Procédure ordinaire:**
@@ -289,6 +291,20 @@ Un earthling peut déléguer sa voix, sur un domaine déterminé, à un autre ea
 - Sans être une condition pour recevoir des voix déléguées ou pour se porter candidat aux Core Nodes, à l'Emergency Multisig ou au Conseil indépendant
 
 **Justification:** une priorisation automatique des propositions selon la réputation fixe de fait l'ordre du jour sans responsabilité formelle. Le fil chronologique assure un accès égal à l'attention de la communauté, indépendamment de l'historique de participation. Tout mécanisme dans lequel la réputation ouvre l'accès à l'accumulation de voix la transforme en poids de vote dissimulé et est pour cette raison exclu.
+
+## Article 8 bis. La mesure de la volonté commune
+
+Le peuple des Earthlings exprime la volonté commune sur les questions répondant aux critères de l'article 7 de la Déclaration. Les limites de cette expression sont établies par les articles 9 et 13 de la Déclaration.
+
+Le libellé de la question n'est approuvé ni par ceux qui assurent la gestion opérationnelle du peuple, ni par ceux qui effectuent la mesure. La question est publiée avant l'ouverture du vote et peut être contestée; une fois le vote ouvert, la question n'est plus modifiée.
+
+Le résultat est publié avec tout ce qui est nécessaire à une personne extérieure pour le recompter elle-même, dont le taux de participation rapporté au nombre de personnes ayant le droit de vote - y compris lorsqu'il est faible. Une publication qui ne permet pas le recomptage n'est pas une mesure.
+
+Le défaut d'une mesure n'est pas constaté par celui qui l'a effectuée. Une mesure annulée n'est pas supprimée et demeure avec la mention de son annulation; à sa place, la mesure est refaite entièrement et depuis le début.
+
+Une mesure n'est pas effectuée contre paiement d'un commanditaire; les fonds affectés à une question déterminée ne sont pas acceptés.
+
+Les modalités de conduite des mesures sont pour le reste établies par une décision de l'Assemblée DAO et publiées avant la première mesure.
 
 ---
 
@@ -851,6 +867,9 @@ Délais: 21 jours de débat + 14 jours de vote.
 
 **Répartition par soutien**
 Ordre de financement de projets déjà approuvés lorsque les fonds du domaine sont insuffisants. Marque de soutien sans limitation du nombre de marques; financement par ordre décroissant du nombre de personnes ayant soutenu.
+
+**La mesure de la volonté commune (article 8 bis)**
+Elle n'est pas une décision et n'a pas de seuil: par elle, le peuple exprime une position, il ne statue pas. Les exigences sont établies à l'article 8 bis; les modalités sont pour le reste établies par une décision de l'Assemblée DAO.
 
 ## Pouvoirs des structures d'exécution
 

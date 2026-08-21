@@ -134,6 +134,10 @@ Mais il est des questions sur lesquelles l'ouverture ne protège pas l'expressio
 
 Le vote secret s'applique obligatoirement lors de l'examen d'une restriction de pouvoirs et lors de l'annulation d'une délivrance non valide de passeport, et, sur décision de l'Assemblée, pour des questions ou des catégories déterminées, en particulier celles qui touchent la position du peuple sur les actes des États.
 
+## La mesure de la volonté commune n'est pas une décision
+
+La présente section décrit comment le peuple prend les décisions qui concernent sa propre vie. L'expression de la position du peuple sur les questions répondant aux critères de l'article 7 de la Déclaration n'est pas une décision: par elle, le peuple ne statue pas, il s'exprime. Les modalités de la mesure, les exigences relatives à l'élaboration de la question, le contenu de ce qui est publié et les modalités applicables en cas de mesure défectueuse sont établis par la [Charte, article 8 bis](https://earth-lings.org/documents/fr/fr05-charte.html); pour le reste, les modalités sont établies par une décision de l'Assemblée.
+
 ## Le fil des propositions
 
 Les propositions apparaissent dans l'ordre chronologique de leur dépôt. La réputation de l'auteur n'influe pas sur la place dans le fil. Une priorisation automatique fixerait l'ordre du jour sans responsabilité formelle et n'est donc pas appliquée.

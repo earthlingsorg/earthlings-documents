@@ -134,6 +134,10 @@ Doch es gibt Fragen, bei denen die Offenheit der Willensbekundung einen Menschen
 
 Geheim wird zwingend abgestimmt bei der Behandlung der Frage einer Beschränkung von Befugnissen und bei der Aufhebung einer unwirksamen Ausgabe eines Passes, und durch Beschluss der Vollversammlung für einzelne Fragen oder Gruppen, insbesondere solche, die die Position des Volkes zu Handlungen von Staaten betreffen.
 
+## Die Messung des gemeinsamen Willens - kein Beschluss
+
+Dieser Abschnitt beschreibt, wie das Volk Beschlüsse über das eigene Leben fasst. Die Bekundung der Position des Volkes zu Fragen, die den Merkmalen des Artikels 7 der Erklärung entsprechen, ist kein Beschluss: Das Volk beschließt damit nichts, sondern äußert sich. Das Verfahren der Messung, die Anforderungen an die Bildung der Frage, der Umfang des Veröffentlichten und das Vorgehen bei einer mangelhaften Messung sind in der [Charta, Artikel 8-bis](https://earth-lings.org/documents/de/de05-charta.html) festgelegt; im Übrigen wird das Verfahren durch Beschluss der Vollversammlung festgelegt.
+
 ## Die Reihenfolge der Vorschläge
 
 Die Vorschläge werden in der zeitlichen Reihenfolge ihrer Einreichung angezeigt. Das Ansehen des Verfassers wirkt sich auf den Platz in der Reihenfolge nicht aus. Eine selbsttätige Vorreihung bildete eine Tagesordnung ohne förmliche Verantwortung und wird deshalb nicht angewandt.

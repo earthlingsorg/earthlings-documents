@@ -134,6 +134,10 @@ But there are questions where openness of a person's expression of will does not
 
 A secret ballot is mandatory when a restriction of powers is under consideration and on the annulment of an invalid issuance of a passport, and by decision of the Assembly for particular questions or categories, in particular those touching the people's position on the acts of states.
 
+## The measurement of the common will is not a decision
+
+The present section describes how the people takes decisions about its own life. An expression of the people's position on questions meeting the criteria of Article 7 of the Declaration is not a decision: the people does not decide by it, it speaks. The order for measurement, the requirements for forming a question, what is published and the order where a measurement is defective are established by the [Charter, Article 8 bis](https://earth-lings.org/documents/en/en05-charter.html); in all other respects the order is established by a decision of the Assembly.
+
 ## The feed of proposals
 
 Proposals are displayed in chronological order of submission. The author's reputation does not affect a proposal's place in the feed. Automatic prioritization would form the agenda without any formal responsibility for it and is therefore not applied.
