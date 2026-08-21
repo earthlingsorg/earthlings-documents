@@ -53,6 +53,10 @@ TICS = ['in the manner laid down by', 'laid down by', 'is not a ground',
 GLOSSARY = {
     'народ': ['the people', 'a people'],
     'Устав': ['the Earthlings Charter', 'the Charter'],
+    # Строка дрейфа, а не замок: она печатает соотношение вариантов. Запрет
+    # на «membership in the people» стоит ниже, в HARD_LOCKS, и держится
+    # отдельно - до 2026-08-21 неверный вариант был здесь ЗАКОННОЙ
+    # альтернативой, и его возвращение аудит бы не заметил.
     'принадлежность': ['belonging', 'affiliation', 'membership in the people'],
     'взнос': ['contribution', 'fee', 'dues'],
     'сота': ['Cell', 'cell', 'hive'],
@@ -159,6 +163,23 @@ def _ambiguous_charter(ctx):
     if not found:
         print('  чисто')
 
+
+# Замок принадлежности, поставлен 2026-08-21. Перепись 20 августа нашла
+# 28 мест, где корпус говорил «членство» о принадлежности к народу, и все
+# восемь языков их несли. Дефект нашла не вычитка, а машинная пара у
+# арабского - `الانتماء` против `العضوية`. У английского такой пары не было
+# вовсе, и он оказался языком с наибольшим числом правок вместе с немецким.
+#
+# Замок жёсткий, потому что законного вхождения у этих сочетаний нет:
+# `member of the Council`, `member States`, цитата статьи 33(1) UNDRIP и
+# племенные реестры США под шаблон не попадают - там слово стоит без
+# `of the people` и без `fee`. Проверено на всех 25 мастерах: 0 срабатываний.
+HARD_LOCKS = [
+    (r'\bmembership (?:in|of) the people\b|'
+     r'\bmembers? of the (?:Earthlings )?people\b|'
+     r'\bmembership fee\b|\bmembership dues\b',
+     'принадлежность к народу - belonging; membership о народе запрещено'),
+]
 
 EXTRA_SECTIONS = [
     ('5-бис. СОГЛАСОВАНИЕ ЧИСЛА У DATA', _data_number),

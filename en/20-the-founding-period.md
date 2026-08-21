@@ -54,7 +54,7 @@ After adoption the principles of the core are never repealed, and the other prov
 
 ### The Charter
 
-The principal organizational document: the age of participation, voting thresholds, periods, the procedure for appeal, restriction of powers, the procedure for annulling a passport.
+The principal organizational document: the age of participation, voting thresholds, periods, the procedure for appeal, restriction of powers, the procedure for annulling the issuance of a passport.
 
 The Declaration entrusts the Charter with establishing almost everything that happens in practice, so the Charter takes effect together with it: without the Charter there would not be a single operative procedure on the first day. It is not adopted by a separate vote, but proposals to it are accepted on the same footing as proposals to the Declaration and are included in the text before the day of adoption.
 

@@ -84,7 +84,7 @@ Les limites établies par l'article 7 de la [Charte](https://earth-lings.org/doc
 - **plafond** - 5 pour cent des Earthlings, mais au moins 10 délégants, de sorte que la limite de 5 pour cent ne commence à lier qu'au-delà de 200;
 - **une seule délégation active par domaine** - une nouvelle est impossible sans révocation de la précédente;
 - **révocation à tout moment** - en une seule étape, sans motif et sans l'accord du délégué;
-- **questions sans délégation** - modification de la Charte et des règles de base de la trésorerie, financements importants, constitution de l'Emergency Multisig, restriction de pouvoirs, suspension du droit de vote et annulation d'un passeport: sur ces questions, on vote uniquement en personne.
+- **questions sans délégation** - modification de la Charte et des règles de base de la trésorerie, financements importants, constitution de l'Emergency Multisig, restriction de pouvoirs, suspension du droit de vote et annulation d'une délivrance de passeport: sur ces questions, on vote uniquement en personne.
 
 **Tout earthling peut être délégué:** la seule sélection est le choix de celui qui délègue.
 

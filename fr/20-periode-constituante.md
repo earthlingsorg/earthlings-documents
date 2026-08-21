@@ -54,7 +54,7 @@ Après l'adoption, les principes du noyau ne sont jamais abrogés, et les autres
 
 ### La Charte
 
-Le document d'organisation principal: âge de participation, seuils de vote, délais, procédure de recours, restriction de pouvoirs, modalités d'annulation d'un passeport.
+Le document d'organisation principal: âge de participation, seuils de vote, délais, procédure de recours, restriction de pouvoirs, modalités d'annulation d'une délivrance de passeport.
 
 La Déclaration charge la Charte d'établir presque tout ce qui se passe en pratique, aussi la Charte entre-t-elle en vigueur avec elle: sans elle, il n'y aurait au premier jour aucune procédure en vigueur. Elle n'est pas adoptée par un vote distinct, mais les propositions qui la visent sont reçues au même titre que celles qui visent la Déclaration et sont intégrées au texte avant le jour de l'adoption.
 

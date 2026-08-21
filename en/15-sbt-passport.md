@@ -153,7 +153,7 @@ It applies where it is established that a passport was issued in breach of the c
 - a vote of the Assembly: **75 per cent with a quorum of 25, secret, without delegation**;
 - **appeal within 30 days**, and a simple majority suffices to overturn the decision.
 
-The operator's technical powers are limited to executing a decision already taken by the Assembly. The operator cannot annul a passport on its own.
+The operator's technical powers are limited to executing a decision already taken by the Assembly. The operator cannot annul the issuance of a passport on its own.
 
 ### 2. Technical reissue
 

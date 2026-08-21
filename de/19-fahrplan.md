@@ -146,7 +146,7 @@ Wird mindestens einmal in 90 Tagen veröffentlicht und enthält: den Gesamtumfan
 | Digitale Plattform | arbeitet |
 | System der Zellen | arbeitet |
 | Mechanismus der Abstimmung | ausgerollt, inhaltliche Abstimmungen haben nicht stattgefunden |
-| Schatzkammer | die Safe-Geldbörse ist ausgerollt, die Schwelle der Unterschriften beträgt eins; der Übergang zu sechs Unterzeichnern ist geplant; die Smart Contracts sind nicht ausgerollt |
+| Schatzkammer | die Safe-Geldbörse ist ausgerollt, die Schwelle der Unterschriften beträgt eine; der Übergang zu sechs Unterzeichnern ist geplant; die Smart Contracts sind nicht ausgerollt |
 | Core Nodes und Emergency Multisig | nicht gewählt |
 | Unabhängiger Rat | nicht gebildet |
 
@@ -169,7 +169,7 @@ Der Übergang geschieht bei der Erfüllung sachlicher Maßstäbe und nicht durch
 - mindestens 100 Beschlüsse sind durch Abstimmung gefasst worden;
 - es bestehen keine nicht behobenen kritischen Sicherheitsvorfälle;
 - die technische Infrastruktur hängt von keinen bestimmten Personen ab;
-- **die technische Möglichkeit, Pässe zu entwerten**, ist an die Multisig der gewählten Strukturen oder unter die Kontrolle der Vollversammlung übergeben. Die Gründe der Entwertung sind durch Artikel 21 der Charta bereits abschließend begrenzt, und die Aufhebung einer unwirksamen Ausgabe - der einzige unter ihnen, der gegen den Willen des Inhabers angewandt wird - ist bereits ein Beschluss der Vollversammlung und keine Verwaltungshandlung; auf diesem Abschnitt wird die technische Ausführung übergeben;
+- **die technische Möglichkeit, Pässe zu entwerten**, ist an die Multisig der gewählten Strukturen oder unter die Kontrolle der Vollversammlung übergeben. Die Gründe der Entwertung nicht durch den Inhaber selbst sind durch Artikel 21 der Charta bereits abschließend begrenzt, und die Aufhebung einer unwirksamen Ausgabe - der einzige unter ihnen, der gegen den Willen des Inhabers angewandt wird - ist bereits ein Beschluss der Vollversammlung und keine Verwaltungshandlung; auf diesem Abschnitt wird die technische Ausführung übergeben;
 - **die Schlüssel der Schatzkammer** sind an die Multisig der gewählten Core Nodes oder unter die Kontrolle der Vollversammlung übergeben: Über die Mittel allein verfügen kann niemand;
 - die Gemeinschaft hat ihre Bereitschaft durch Abstimmung bestätigt.
 

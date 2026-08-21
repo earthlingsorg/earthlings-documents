@@ -110,6 +110,17 @@ HARD_LOCKS = [
      'защитный зачин; переписывается утвердительно'),
     (r'\bReisepass\w{0,3}\b|\bAusweisdokument\w{0,3}\b',
      'паспорт earthling никогда не подаётся как проездной документ'),
+    # Замок принадлежности, поставлен 2026-08-21. Немецкий был языком без
+    # единого верного места: перепись 20 августа дала 29 правок из 29, потому
+    # что Mitgliedschaft - термин § 38 BGB, привязанный § 58 к уставному
+    # порядку вступления и исключения. Mitgliedsbeitrag стоял даже в
+    # Декларации, где русская не говорит «член» ни разу.
+    # Законные вхождения (Mitglieder des Rates, Mitgliedstaaten, цитаты)
+    # под шаблон не попадают: там нет ни des Volkes, ни -beitrag.
+    (r'\bMitgliedschaft (?:im|des) Volk\w*\b|'
+     r'\bMitglied\w* (?:des|im) Volk\w*\b|\bMitgliedsbeitr\w+\b',
+     'принадлежность к народу - Zugehörigkeit; Mitgliedschaft о народе '
+     'запрещена, взнос при вступлении - Beitrag beim Eintritt'),
 ]
 
 SOFT_LOCKS = [

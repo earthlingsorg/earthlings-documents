@@ -171,7 +171,7 @@ Die Plattform unterstützt die Übertragung der Stimme in einem einzelnen Sachge
 - **Obergrenze** - 5 Prozent der Teilnehmer, mindestens jedoch 10 Übertragende;
 - **eine aktive Übertragung je Sachgebiet** - eine erneute ist ohne Widerruf der vorherigen nicht möglich;
 - **Widerruf in einem Schritt** - jederzeit, ohne Angabe von Gründen und ohne Zustimmung dessen, dem die Stimme übertragen wurde;
-- **Fragen ohne Übertragung** - Änderung der Charta und der Grundregeln der Schatzkammer, Finanzierung über der festgelegten Schwelle, Bildung des Emergency Multisig, Beschränkung von Befugnissen und Aufhebung eines Passes: darüber wird nur persönlich abgestimmt.
+- **Fragen ohne Übertragung** - Änderung der Charta und der Grundregeln der Schatzkammer, Finanzierung über der festgelegten Schwelle, Bildung des Emergency Multisig, Beschränkung von Befugnissen und Aufhebung der Ausgabe eines Passes: darüber wird nur persönlich abgestimmt.
 
 Delegierter kann jeder Earthling sein: Die einzige Auswahl ist die Wahl dessen, der überträgt (Charta, Artikel 7).
 

@@ -54,7 +54,7 @@ Tras la adopción, los principios del núcleo no se derogan nunca, y las demás 
 
 ### La Carta
 
-Documento organizativo principal: edad de participación, umbrales de votación, plazos, procedimiento de recurso, limitación de facultades, procedimiento de anulación de un pasaporte.
+Documento organizativo principal: edad de participación, umbrales de votación, plazos, procedimiento de recurso, limitación de facultades, procedimiento de anulación de la emisión de un pasaporte.
 
 La Declaración encomienda a la Carta establecer casi todo lo que ocurre en la práctica, por eso la Carta entra en vigor junto con ella: sin ella no habría el primer día ni un solo procedimiento vigente. No se adopta en una votación aparte, pero las propuestas a ella se aceptan en igualdad con las propuestas a la Declaración y se incorporan al texto antes del día de la adopción.
 

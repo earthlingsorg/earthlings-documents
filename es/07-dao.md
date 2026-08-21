@@ -84,7 +84,7 @@ Límites establecidos en el artículo 7 de la [Carta](https://earth-lings.org/do
 - **techo**: el 5 por ciento de los Earthlings, y no menos de 10 delegantes, por lo que la limitación del 5 por ciento solo empieza a vincular cuando el número supera los 200;
 - **una sola delegación activa por ámbito**: no cabe repetirla sin revocar la anterior;
 - **revocación en cualquier momento**: en un solo paso, sin motivos y sin el consentimiento del delegado;
-- **cuestiones sin delegación**: la modificación de la Carta y de las reglas básicas de la tesorería, la financiación de gran cuantía, la formación del Emergency Multisig, la limitación de facultades, la suspensión del derecho de voto y la anulación de un pasaporte: en ellas se vota solo personalmente.
+- **cuestiones sin delegación**: la modificación de la Carta y de las reglas básicas de la tesorería, la financiación de gran cuantía, la formación del Emergency Multisig, la limitación de facultades, la suspensión del derecho de voto y la anulación de la emisión de un pasaporte: en ellas se vota solo personalmente.
 
 **Delegado puede ser cualquier earthling:** la única selección es la elección de quien delega.
 

@@ -153,7 +153,7 @@ Elle s'applique s'il est établi que le passeport a été délivré en méconnai
 - vote de l'Assemblée: **75 pour cent avec un quorum de 25, secret, sans délégation**;
 - **recours dans les 30 jours**, la majorité simple suffisant pour annuler la décision.
 
-Les pouvoirs techniques de l'exploitant se limitent à l'exécution d'une décision déjà prise par l'Assemblée. L'exploitant ne peut pas annuler un passeport de sa propre initiative.
+Les pouvoirs techniques de l'exploitant se limitent à l'exécution d'une décision déjà prise par l'Assemblée. L'exploitant ne peut pas annuler la délivrance d'un passeport de sa propre initiative.
 
 ### 2. La réémission technique
 

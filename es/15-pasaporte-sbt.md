@@ -153,7 +153,7 @@ Se aplica si se establece que el pasaporte se emitió infringiendo las condicion
 - votación de la Asamblea: **75 por ciento con quórum del 25, secreta y sin delegación**;
 - **recurso en el plazo de 30 días**, y para anular la decisión basta la mayoría simple.
 
-Las facultades técnicas del operador se limitan a ejecutar una decisión ya adoptada por la Asamblea. El operador no puede anular un pasaporte por sí mismo.
+Las facultades técnicas del operador se limitan a ejecutar una decisión ya adoptada por la Asamblea. El operador no puede anular por sí mismo la emisión de un pasaporte.
 
 ### 2. Reemisión técnica
 

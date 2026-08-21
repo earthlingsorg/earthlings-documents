@@ -84,7 +84,7 @@ The restrictions laid down by Article 7 of the [Charter](https://earth-lings.org
 - **a ceiling** - 5 per cent of Earthlings, but no fewer than 10 delegators, so the 5 per cent limit begins to bind only above a membership of 200;
 - **one active delegation per area** - a second is impossible without revoking the first;
 - **revocation at any time** - in one step, without reasons and without the delegate's consent;
-- **questions with no delegation** - amending the Charter and the basic treasury rules, major funding, forming the Emergency Multisig, restricting powers, suspending the right to vote, and annulling a passport: on these, votes are cast only in person.
+- **questions with no delegation** - amending the Charter and the basic treasury rules, major funding, forming the Emergency Multisig, restricting powers, suspending the right to vote, and annulling the issuance of a passport: on these, votes are cast only in person.
 
 **Any earthling may be a delegate:** the only selection is the choice made by the delegator.
 

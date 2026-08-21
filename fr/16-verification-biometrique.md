@@ -58,7 +58,7 @@ La vérification est volontaire. Vous avez le droit de retirer votre consentemen
 - l'unicité vérifiée étant une condition du droit de vote, la participation ultérieure aux votes devient impossible;
 - **c'est vous qui détruisez le passeport**, avec votre propre clé, comme lors d'une sortie volontaire ordinaire.
 
-> **Nous ne pouvons pas détruire votre passeport à votre place.** La Charte (article 21) n'admet la destruction du passeport par une personne autre que le titulaire que dans deux cas: l'annulation d'une délivrance non valide par décision de l'Assemblée et la réémission technique à votre propre demande; contre votre volonté, le passeport ne peut être détruit que dans le premier de ces cas. Le retrait du consentement ne figure pas parmi ces cas, et la plateforme ne conserve pas vos clés. Si vous retirez votre consentement sans détruire votre passeport, nous supprimerons les données de notre côté, mais l'inscription au registre demeurera tant que vous ne l'aurez pas détruite.
+> **Nous ne pouvons pas détruire votre passeport à votre place.** La Charte (article 21) n'admet la destruction du passeport par une personne autre que son titulaire que dans deux cas: l'annulation d'une délivrance non valide par décision de l'Assemblée et la réémission technique à votre propre demande; contre votre volonté, le passeport ne peut être détruit que dans le premier de ces cas. Le retrait du consentement ne figure pas parmi ces cas, et la plateforme ne conserve pas vos clés. Si vous retirez votre consentement sans détruire votre passeport, nous supprimerons les données de notre côté, mais l'inscription au registre demeurera tant que vous ne l'aurez pas détruite.
 
 ---
 

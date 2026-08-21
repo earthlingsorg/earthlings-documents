@@ -84,7 +84,7 @@ Die in Artikel 7 der [Charta](https://earth-lings.org/documents/de/de05-charta.h
 - **Obergrenze** - 5 Prozent der Earthlings, mindestens jedoch 10 Übertragende, deshalb bindet die Beschränkung von 5 Prozent erst bei einer Zahl von mehr als 200;
 - **eine aktive Übertragung je Sachgebiet** - eine erneute ist ohne Widerruf der vorherigen nicht möglich;
 - **Widerruf jederzeit** - in einem Schritt, ohne Gründe und ohne Zustimmung des Delegierten;
-- **Fragen ohne Übertragung** - Änderung der Charta und der Grundregeln der Schatzkammer, größere Finanzierungen, Bildung des Emergency Multisig, Beschränkung von Befugnissen, Aussetzung des Stimmrechts und Aufhebung eines Passes: darüber wird nur persönlich abgestimmt.
+- **Fragen ohne Übertragung** - Änderung der Charta und der Grundregeln der Schatzkammer, größere Finanzierungen, Bildung des Emergency Multisig, Beschränkung von Befugnissen, Aussetzung des Stimmrechts und Aufhebung der Ausgabe eines Passes: darüber wird nur persönlich abgestimmt.
 
 **Delegierter kann jeder Earthling sein:** Die einzige Auswahl ist die Wahl dessen, der überträgt.
 

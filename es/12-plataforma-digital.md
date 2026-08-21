@@ -171,7 +171,7 @@ La plataforma soporta la cesión del voto en un ámbito concreto a otro particip
 - **techo**: el 5 por ciento de los participantes, y no menos de 10 delegantes;
 - **una sola delegación activa por ámbito**: no cabe repetirla sin revocar la anterior;
 - **revocación en un solo paso**: en cualquier momento, sin explicar los motivos y sin el consentimiento de aquel a quien se cedió el voto;
-- **cuestiones sin delegación**: la modificación de la Carta y de las reglas básicas de la tesorería, la financiación por encima del umbral establecido, la formación del Emergency Multisig, la limitación de facultades y la anulación de un pasaporte: en ellas se vota solo personalmente.
+- **cuestiones sin delegación**: la modificación de la Carta y de las reglas básicas de la tesorería, la financiación por encima del umbral establecido, la formación del Emergency Multisig, la limitación de facultades y la anulación de la emisión de un pasaporte: en ellas se vota solo personalmente.
 
 Delegado puede ser cualquier earthling: la única selección es la elección de quien delega (Carta, artículo 7).
 

@@ -169,7 +169,7 @@ Le passage se fait lorsque des critères objectifs sont remplis, et non par déc
 - au moins 100 décisions ont été adoptées par vote;
 - il n'existe aucun incident de sécurité critique non résolu;
 - l'infrastructure technique ne dépend d'aucune personne déterminée;
-- **la possibilité technique de détruire des passeports** est transférée à une multisig de structures élues ou sous le contrôle de l'Assemblée. Les motifs de destruction sont déjà limités de façon exhaustive par l'article 21 de la Charte, et l'annulation d'une délivrance non valide - le seul d'entre eux qui s'applique contre la volonté du titulaire - est déjà une décision de l'Assemblée et non un acte administratif; c'est l'exécution technique qui est transférée à cette étape;
+- **la possibilité technique de détruire des passeports** est transférée à une multisig de structures élues ou sous le contrôle de l'Assemblée. Les motifs de destruction du passeport par une personne autre que son titulaire sont déjà limités de façon exhaustive par l'article 21 de la Charte, et l'annulation d'une délivrance non valide - le seul d'entre eux qui s'applique contre la volonté du titulaire - est déjà une décision de l'Assemblée et non un acte administratif; c'est l'exécution technique qui est transférée à cette étape;
 - **les clés de la Trésorerie** sont transférées à une multisig de Core Nodes élus ou sous le contrôle de l'Assemblée: nul ne peut disposer seul des fonds;
 - la communauté a confirmé qu'elle était prête, par un vote.
 

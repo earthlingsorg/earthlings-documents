@@ -171,7 +171,7 @@ The platform supports transferring a vote in a particular area to another partic
 - **a ceiling** - 5 per cent of participants, but no fewer than 10 delegators;
 - **one active delegation per area** - a second is impossible without revoking the first;
 - **revocation in one step** - at any time, without giving reasons and without the consent of the person the vote was given to;
-- **questions with no delegation** - amending the Charter and the basic treasury rules, funding above a set threshold, forming the Emergency Multisig, restricting powers, and annulling a passport: on these, votes are cast only in person.
+- **questions with no delegation** - amending the Charter and the basic treasury rules, funding above a set threshold, forming the Emergency Multisig, restricting powers, and annulling the issuance of a passport: on these, votes are cast only in person.
 
 Any earthling may be a delegate: the only selection is the choice made by the delegator (Charter, Article 7).
 

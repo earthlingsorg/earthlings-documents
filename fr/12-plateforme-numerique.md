@@ -87,7 +87,7 @@ La Charte (article 21) établit deux exceptions et deux seulement, que la platef
 1. **l'annulation d'une délivrance non valide** - s'il est établi que le passeport a été délivré en méconnaissance des conditions de délivrance; uniquement par une décision de l'Assemblée à la majorité de sanction, par vote secret, avec droit de recours;
 2. **la réémission technique** - à la demande du titulaire lui-même, en cas de perte d'accès au portefeuille ou de migration du contrat; l'appartenance n'est pas interrompue.
 
-Aucun autre motif de destruction par une personne autre que le titulaire n'est mis en œuvre dans la plateforme, et contre la volonté du titulaire le passeport n'est détruit qu'en cas d'annulation d'une délivrance non valide. Le décès du titulaire ne figure pas parmi les motifs: la plateforme ne dispose pas et ne peut pas disposer d'informations sur les décès, et la cessation de la participation est prise en compte par le mécanisme d'inactivité (Charte, article 20).
+Aucun autre motif de destruction du passeport par une personne autre que son titulaire n'est mis en œuvre dans la plateforme, et contre la volonté du titulaire le passeport n'est détruit qu'en cas d'annulation d'une délivrance non valide. Le décès du titulaire ne figure pas parmi les motifs: la plateforme ne dispose pas et ne peut pas disposer d'informations sur les décès, et la cessation de la participation est prise en compte par le mécanisme d'inactivité (Charte, article 20).
 
 ---
 
@@ -171,7 +171,7 @@ La plateforme prend en charge la transmission de la voix, sur un domaine déterm
 - **plafond** - 5 pour cent des participants, mais au moins 10 délégants;
 - **une seule délégation active par domaine** - une nouvelle est impossible sans révocation de la précédente;
 - **révocation en une seule étape** - à tout moment, sans avoir à s'expliquer et sans l'accord de celui à qui la voix a été confiée;
-- **questions sans délégation** - modification de la Charte et des règles de base de la trésorerie, financement au-delà du seuil fixé, constitution de l'Emergency Multisig, restriction de pouvoirs et annulation d'un passeport: sur ces questions, on vote uniquement en personne.
+- **questions sans délégation** - modification de la Charte et des règles de base de la trésorerie, financement au-delà du seuil fixé, constitution de l'Emergency Multisig, restriction de pouvoirs et annulation d'une délivrance de passeport: sur ces questions, on vote uniquement en personne.
 
 Tout earthling peut être délégué: la seule sélection est le choix de celui qui délègue (Charte, article 7).
 

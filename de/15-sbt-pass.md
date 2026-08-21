@@ -153,7 +153,7 @@ Wird angewandt, wenn festgestellt ist, dass der Pass unter Verstoß gegen die Vo
 - Abstimmung der Vollversammlung: **75 Prozent bei einem Quorum von 25, geheim, ohne Übertragung**;
 - **Beschwerde binnen 30 Tagen**, wobei zur Aufhebung der Entscheidung eine einfache Mehrheit genügt.
 
-Die technischen Befugnisse des Betreibers sind auf die Ausführung eines bereits von der Vollversammlung gefassten Beschlusses begrenzt. Selbständig einen Pass aufheben kann der Betreiber nicht.
+Die technischen Befugnisse des Betreibers sind auf die Ausführung eines bereits von der Vollversammlung gefassten Beschlusses begrenzt. Selbständig die Ausgabe eines Passes aufheben kann der Betreiber nicht.
 
 ### 2. Die technische Neuausgabe
 

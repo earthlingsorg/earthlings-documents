@@ -152,6 +152,14 @@ HARD_LOCKS = [
 ]
 
 SOFT_LOCKS = [
+    # Замок принадлежности, поставлен 2026-08-21. Мягкий, а не жёсткий, из-за
+    # одного законного вхождения: `es/04` разбирает расхождение официального
+    # русского перевода статьи 33(1) UNDRIP с аутентичным текстом, и слово
+    # «membresía» там названо КАК СЛОВО. Замена уничтожила бы смысл абзаца.
+    (r'\bmembres[ií]a\b|\bmiembros? del pueblo\b|\bcuota de (?:miembro|socio)\b',
+     'принадлежность к народу - pertenencia; membresia о народе запрещена',
+     r'traducci[oó]n|aut[eé]ntic|art[ií]culo 33|'
+     r'Declaraci[oó]n de las Naciones Unidas|ind[ií]gena'),
     (r'\ben nombre de la humanidad\b',
      'законно ТОЛЬКО в отрицании или в приводимой цитате; утверждение - дефект'),
     (r'\bciudadan[íi]a\w{0,2}\b',

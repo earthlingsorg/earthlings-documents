@@ -54,7 +54,7 @@ Nach der Annahme werden die Grundsätze des Kerns nie aufgehoben, und die übrig
 
 ### Die Charta
 
-Das wichtigste organisatorische Dokument: das Alter der Teilnahme, die Schwellen der Abstimmungen, die Fristen, der Ablauf der Beschwerde, die Beschränkung von Befugnissen, der Ablauf der Aufhebung eines Passes.
+Das wichtigste organisatorische Dokument: das Alter der Teilnahme, die Schwellen der Abstimmungen, die Fristen, der Ablauf der Beschwerde, die Beschränkung von Befugnissen, der Ablauf der Aufhebung der Ausgabe eines Passes.
 
 Die Erklärung trägt der Charta auf, fast alles festzulegen, was in der Praxis geschieht, deshalb tritt die Charta zugleich mit ihr in Kraft: Ohne sie gäbe es am ersten Tag kein einziges geltendes Verfahren. Durch eine gesonderte Abstimmung wird sie nicht angenommen, doch Vorschläge zu ihr werden gleichrangig mit Vorschlägen zur Erklärung angenommen und bis zum Tag der Annahme in den Text aufgenommen.
 
