@@ -10,7 +10,7 @@ Die Gründungsdokumente des Vorhabens beschreiben dieses Modell als die Architek
 
 Die Architektur der Earthlings ist als ein einheitliches einrichtungsmäßiges System entworfen und nicht aus fertigen Bestandteilen zusammengesetzt. Für den Verkehr mit der bestehenden Rechtsordnung nutzt das Volk über bevollmächtigte Vertreter eingetragene Rechtsstrukturen und andere rechtliche Werkzeuge - austauschbare äußere Schnittstellen des Verkehrs. Das Volk selbst verwaltet sich über die eigene DAO-Infrastruktur.
 
-25 grundlegende Dokumente in neun Sprachen, eine Identität on-chain und eine öffentlich überprüfbare Kasse bilden die Earthlings in ihrem gegenwärtigen einrichtungsmäßigen Zustand. Den vollständigen Betriebsablauf sichern vier Produktionsumgebungen, die seit April 2025 ausgerollt sind:
+26 grundlegende Dokumente in neun Sprachen, eine Identität on-chain und eine öffentlich überprüfbare Kasse bilden die Earthlings in ihrem gegenwärtigen einrichtungsmäßigen Zustand. Den vollständigen Betriebsablauf sichern vier Produktionsumgebungen, die seit April 2025 ausgerollt sind:
 
 - die Gründungsdokumente;
 - die biometrische Identifizierung und die Ausgabe der SBT-Pässe;
@@ -162,4 +162,4 @@ Die gesamte einrichtungsmäßige Infrastruktur der Earthlings steht zur öffentl
 
 - Smart Contract des SBT im Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - Kasse Safe Multisig in Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- Der Dokumentenbestand: 25 einrichtungsmäßige Dokumente in neun Sprachen ([alle Dokumente](/de/)).
+- Der Dokumentenbestand: 26 einrichtungsmäßige Dokumente in neun Sprachen ([alle Dokumente](/de/)).

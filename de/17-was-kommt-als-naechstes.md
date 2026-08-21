@@ -84,7 +84,7 @@ Das ist keine Geste. Das ist genau die Praxis, aus der, wie die Geschichte der R
 
 Es lohnt sich, unmittelbar zu sagen, wer das am nötigsten hat. Nicht ein wohlhabender Bewohner eines Landes mit arbeitenden Einrichtungen - er hat das alles bereits.
 
-In der Welt gibt es mehr als hundertzwanzig Millionen gewaltsam vertriebene Menschen und Millionen Staatenlose. Für sie ist ein nachweisbares „ich bin ein lebender Mensch, ich bin einer, und das kann jeder überprüfen“ keine Abstraktion, sondern das, was sie nicht haben und was ihre Staaten ihnen nicht geben. Ein Register, das außerhalb der Server einer einzigen Organisation geführt wird und einen Wechsel des Betreibers übersteht, bedeutet für einen Menschen ohne Papiere mehr als für alle Übrigen zusammen.
+In der Welt gibt es rund 118 Millionen gewaltsam vertriebene Menschen und rund 4,5 Millionen Staatenlose - nach Angaben des UNHCR zum Ende des Jahres 2025; die tatsächliche Zahl der Staatenlosen ist höher, weil weniger als die Hälfte der Länder Angaben meldet. Für sie ist ein nachweisbares „ich bin ein lebender Mensch, ich bin einer, und das kann jeder überprüfen“ keine Abstraktion, sondern das, was sie nicht haben und was ihre Staaten ihnen nicht geben. Ein Register, das außerhalb der Server einer einzigen Organisation geführt wird und einen Wechsel des Betreibers übersteht, bedeutet für einen Menschen ohne Papiere mehr als für alle Übrigen zusammen.
 
 Wenn sich an diesem Vorhaben eines Tages etwas als wirklich notwendig erweist, dann wird es wahrscheinlich hier sein.
 

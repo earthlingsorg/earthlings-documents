@@ -84,7 +84,7 @@ This is not a gesture. It is exactly the practice out of which, as the history o
 
 It is worth saying plainly who needs this most. Not a comfortable resident of a country with working institutions - they already have all of it.
 
-There are more than a hundred and twenty million forcibly displaced people in the world and millions of stateless persons. For them, a demonstrable "I am a living human being, there is only one of me, and anyone can verify it" is not an abstraction but the thing they do not have and that their states do not give them. A registry kept outside the servers of a single organization and surviving a change of operator means more to a person without documents than to everyone else put together.
+There are about 118 million forcibly displaced people in the world and about 4.5 million stateless persons - according to UNHCR data at the end of 2025; the actual number of stateless people is higher, because fewer than half of all countries report data. For them, a demonstrable "I am a living human being, there is only one of me, and anyone can verify it" is not an abstraction but the thing they do not have and that their states do not give them. A registry kept outside the servers of a single organization and surviving a change of operator means more to a person without documents than to everyone else put together.
 
 If anything in this project ever turns out to be genuinely needed, this is most likely where it will be.
 

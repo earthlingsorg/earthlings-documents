@@ -84,7 +84,7 @@ No es un gesto. Es exactamente la práctica de la que, como muestra la historia 
 
 Conviene decir con claridad a quién le hace más falta. No al habitante acomodado de un país con instituciones que funcionan: él ya tiene todo esto.
 
-En el mundo hay más de ciento veinte millones de personas desplazadas por la fuerza y millones de apátridas. Para ellos, poder acreditar que «soy una persona viva, soy una sola y cualquiera puede comprobarlo» no es una abstracción, sino aquello que no tienen y que sus Estados no les dan. Un registro que se lleva fuera de los servidores de una sola organización y que sobrevive al cambio de operador significa, para una persona sin documentos, más que para todos los demás juntos.
+En el mundo hay unos 118 millones de personas desplazadas por la fuerza y unos 4,5 millones de apátridas, según datos del ACNUR a finales de 2025; la cifra real de apátridas es mayor, porque aportan datos menos de la mitad de los países. Para ellos, poder acreditar que «soy una persona viva, soy una sola y cualquiera puede comprobarlo» no es una abstracción, sino aquello que no tienen y que sus Estados no les dan. Un registro que se lleva fuera de los servidores de una sola organización y que sobrevive al cambio de operador significa, para una persona sin documentos, más que para todos los demás juntos.
 
 Si algo de este proyecto llega alguna vez a ser realmente necesario, lo más probable es que sea aquí.
 

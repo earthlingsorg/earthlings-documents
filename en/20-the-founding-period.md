@@ -10,7 +10,7 @@ Earthlings therefore begins with a founding period.
 
 Today the Declaration exists as an initial edition, prepared for founding the people. It states the principles on which we propose to create it, but it is not yet the final founding act.
 
-**It is not the Declaration alone that is open.** The whole corpus is open to proposals - twenty-five documents that describe the people in full: the Charter with its procedures and thresholds, the design of the treasury and the unit of account, the procedure for identity verification, the work of Cells, the roadmap, ethics, the legal basis. The Declaration is the principal one among them, but it does not describe the people by itself: it establishes the foundations and the limits, while how all of it works from day to day is written in the rest.
+**It is not the Declaration alone that is open.** The whole corpus is open to proposals - twenty-six documents that describe the people in full: the Charter with its procedures and thresholds, the design of the treasury and the unit of account, the procedure for identity verification, the work of Cells, the roadmap, ethics, the legal basis. The Declaration is the principal one among them, but it does not describe the people by itself: it establishes the foundations and the limits, while how all of it works from day to day is written in the rest.
 
 We say this plainly, because otherwise a false impression arises that people are invited to amend one text while the rest will be brought to them finished. That is not so: any document of the corpus can be amended. What differs is not a person's right to submit a proposal but what happens to an accepted proposal next - which is what section 02 is about.
 
@@ -32,7 +32,7 @@ This is how we want Earthlings to be created: not for people, but **by people th
 
 **Current state.** The infrastructure of the Earthlings people is built and working: identity verification, the passport, the registry, voting, the public treasury. What has not been adopted is the founding text.
 
-From 7 September to 6 December 2026 the whole corpus is open to proposals - the Declaration, the Charter, and the other twenty-three documents. Any person may submit proposals. On 3 January 2027 the text is approved by a vote of those who have confirmed their identity. From that day the five principles of the unamendable core are never repealed, and the rest of the text is changed only by the people itself and only in the direction of greater protection of the person.
+From 7 September to 6 December 2026 the whole corpus is open to proposals - the Declaration, the Charter, and the other twenty-four documents. Any person may submit proposals. On 3 January 2027 the text is approved by a vote of those who have confirmed their identity. From that day the five principles of the unamendable core are never repealed, and the rest of the text is changed only by the people itself and only in the direction of greater protection of the person.
 
 ## 01. Why we do it this way
 

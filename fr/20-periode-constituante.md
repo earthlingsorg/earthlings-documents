@@ -10,7 +10,7 @@ C'est pourquoi les Earthlings commencent par une période constituante.
 
 Aujourd'hui, la Déclaration existe comme version initiale, préparée pour la constitution du peuple. Elle exprime les principes sur lesquels nous proposons de le créer, mais elle n'est pas encore l'acte constitutif définitif.
 
-**Ce n'est pas seulement la Déclaration qui est ouverte.** Tout le corpus est ouvert aux propositions - vingt-cinq documents qui décrivent le peuple en entier: la Charte avec ses procédures et ses seuils, l'agencement du trésor et de l'unité de compte, les modalités de vérification d'identité, le travail des cellules, la feuille de route, l'éthique, la base juridique. La Déclaration en est le document principal, mais à elle seule elle ne décrit pas le peuple: elle établit les fondements et les limites, et la manière dont tout cela fonctionne au jour le jour est écrite dans les autres.
+**Ce n'est pas seulement la Déclaration qui est ouverte.** Tout le corpus est ouvert aux propositions - vingt-six documents qui décrivent le peuple en entier: la Charte avec ses procédures et ses seuils, l'agencement du trésor et de l'unité de compte, les modalités de vérification d'identité, le travail des cellules, la feuille de route, l'éthique, la base juridique. La Déclaration en est le document principal, mais à elle seule elle ne décrit pas le peuple: elle établit les fondements et les limites, et la manière dont tout cela fonctionne au jour le jour est écrite dans les autres.
 
 Nous le disons franchement, car autrement naîtrait l'impression fausse qu'on vous invite à corriger un texte alors que les autres arriveraient tout faits. Non: tout document du corpus peut être corrigé. Ce qui diffère, ce n'est pas le droit de chacun de faire une proposition, mais ce qu'il advient ensuite d'une proposition retenue: la section 02 y est consacrée.
 
@@ -32,7 +32,7 @@ C'est ainsi que nous voulons que les Earthlings soient créés non pas pour les 
 
 **État actuel.** L'infrastructure du peuple des Earthlings est bâtie et fonctionne: vérification d'identité, passeport, registre, vote, trésorerie ouverte. Ce qui n'est pas adopté, c'est le texte constitutif.
 
-Du 7 septembre au 6 décembre 2026, tout le corpus est ouvert aux propositions: la Déclaration, la Charte et les vingt-trois autres documents. Toute personne peut en faire. Le 3 janvier 2027, le texte est approuvé par le vote de ceux qui ont fait vérifier leur identité. À compter de ce jour, les cinq principes du noyau intangible ne sont plus jamais abrogés, et le reste du texte n'est modifié que par le peuple lui-même et seulement dans le sens d'une protection accrue de la personne.
+Du 7 septembre au 6 décembre 2026, tout le corpus est ouvert aux propositions: la Déclaration, la Charte et les vingt-quatre autres documents. Toute personne peut en faire. Le 3 janvier 2027, le texte est approuvé par le vote de ceux qui ont fait vérifier leur identité. À compter de ce jour, les cinq principes du noyau intangible ne sont plus jamais abrogés, et le reste du texte n'est modifié que par le peuple lui-même et seulement dans le sens d'une protection accrue de la personne.
 
 ## 01. Pourquoi nous procédons ainsi
 

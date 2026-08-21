@@ -84,7 +84,7 @@ Ce n'est pas un geste. C'est exactement la pratique dont naissent avec le temps 
 
 Il faut dire franchement à qui cela est le plus nécessaire. Pas à celui qui vit à l'aise dans un pays où les institutions fonctionnent: il a déjà tout cela.
 
-Il y a dans le monde plus de cent vingt millions de personnes déplacées de force et des millions d'apatrides. Pour elles, pouvoir prouver « je suis une personne vivante, je suis unique, et n'importe qui peut le vérifier » n'est pas une abstraction: c'est précisément ce qui leur manque et que leurs États ne leur donnent pas. Un registre tenu hors des serveurs d'une seule organisation et qui survit à un changement d'exploitant signifie, pour une personne sans documents, plus que pour toutes les autres réunies.
+Il y a dans le monde environ 118 millions de personnes déplacées de force et environ 4,5 millions d'apatrides - selon les données du HCR des Nations Unies à la fin de 2025; le nombre réel d'apatrides est plus élevé, car moins de la moitié des pays communiquent des données. Pour elles, pouvoir prouver « je suis une personne vivante, je suis unique, et n'importe qui peut le vérifier » n'est pas une abstraction: c'est précisément ce qui leur manque et que leurs États ne leur donnent pas. Un registre tenu hors des serveurs d'une seule organisation et qui survit à un changement d'exploitant signifie, pour une personne sans documents, plus que pour toutes les autres réunies.
 
 Si quelque chose dans ce projet se révèle un jour vraiment nécessaire, ce sera très probablement ici.
 

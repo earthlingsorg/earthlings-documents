@@ -18,7 +18,7 @@ Der Abschnitt steht mit Absicht an erster Stelle: Er bestimmt, was dieses Dokume
 
 **Dieses Dokument legt nichts fest.** Es begründet keine Rechte und erlegt keine Pflichten auf, es verleiht keine Befugnisse und beschränkt keine, es erlaubt nichts und verbietet nichts. Aus ihm folgt nichts, was zu vollziehen wäre. Keine Bestimmung irgendeines anderen Dokuments des Korpus beruht auf ihm und kann auf ihm beruhen.
 
-**Es erklärt und vermutet.** Alle übrigen Dokumente des Korpus beschreiben, was ist, oder legen fest, was sein soll. Dieses hier ist das einzige, das auch von dem spricht, was es noch nicht gibt: von Stufen, von denen bis heute keine einzige genommen ist, und von Möglichkeiten, von denen keine einzige versprochen wird. Abschnitt 19 zählt neun Arten auf, auf die das alles scheitern kann, und Abschnitt 20 nennt, was gebaut ist und was noch nicht.
+**Es erklärt und vermutet.** Alle übrigen Dokumente des Korpus beschreiben, was ist, oder legen fest, was sein soll. Dieses hier spricht auch von dem, was es noch nicht gibt: von Stufen, von denen bis heute keine einzige genommen ist, und von Möglichkeiten, von denen keine einzige versprochen wird. Abschnitt 19 zählt neun Arten auf, auf die das alles scheitern kann, und Abschnitt 20 nennt, was gebaut ist und was noch nicht.
 
 **Verbindlich sind die Erklärung und die Charta.** Bei einer Abweichung zwischen diesem Dokument und einem von beiden gelten sie. Eine festgestellte Abweichung wird durch Änderung dieses Dokuments beseitigt und nicht durch Änderung der Erklärung oder der Charta. Die Auslegung dieses Dokuments kann weder eine Gewährleistung für den Menschen mindern noch die Befugnisse des Volkes oder einer seiner Einrichtungen erweitern.
 
@@ -74,7 +74,7 @@ Ein Gebilde mit diesen Eigenschaften, so schlagen wir vor, ist als Volk zu betra
 
 ### Wie das an Gewicht gewinnt
 
-In Stufen, und die ersten davon brauchen niemandes Erlaubnis: die erste unbestreitbare Messung, das Zitieren durch Dritte, die öffentliche Chronik der Nichtantworten. Danach kommt das, was nicht mehr von uns abhängt: die Anfrage nach einer Position statt der Einreichung von Unterlagen, der Einbau in fremde Verfahren und irgendwann die Norm.
+In Stufen, und einige davon brauchen niemandes Erlaubnis: die erste unbestreitbare Messung, dass der Gegner dasselbe Messinstrument benutzt, die öffentliche Chronik der Nichtantworten. Danach kommt das, was nicht mehr nur von uns abhängt: das Zitieren durch Dritte, die Anfrage nach einer Position statt der Einreichung von Unterlagen, der Einbau in fremde Verfahren und irgendwann die Norm.
 
 Die entscheidende Schwelle liegt nicht in der Größe. Sie tritt an dem Tag ein, an dem sich die Gegenseite auf eine Messung beruft, weil diese ihr Argument stützt: Von diesem Augenblick an hört das Messinstrument auf, unseres zu sein, und wird ein gemeinsames.
 
@@ -100,7 +100,7 @@ Abschnitt 20 sagt, was von dem Beschriebenen schon gebaut ist und was nicht. Inh
 
 ### Und wohin es weitergeht
 
-Dieses Dokument legt nichts fest. Die Rechte des Menschen, die Gewährleistungen für ihn und die Grenzen der Gewalt des Volkes selbst stehen in der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html): Sie ist der einzige Text, der verpflichtet, und der einzige, der zur Abstimmung gestellt wird. **Wenn man aus dem ganzen Korpus ein einziges Dokument liest, dann sie.**
+Dieses Dokument legt nichts fest. Die Rechte des Menschen, die Gewährleistungen für ihn und die Grenzen der Gewalt des Volkes selbst stehen in der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html): Sie ist der Text des Korpus mit dem höchsten Rang und der einzige, der zur Abstimmung gestellt wird. **Wenn man aus dem ganzen Korpus ein einziges Dokument liest, dann sie.**
 
 Weiter folgt hier dasselbe ausführlich: womit jede Behauptung belegt ist, wie jedes Verfahren aufgebaut ist und was wir nicht gewährleisten.
 
@@ -217,7 +217,7 @@ Daraus die Formel, die vielleicht als einzige aus dem ganzen Dokument wert ist, 
 
 Gehört werden kann heute jeder. Gezählt werden kann niemand.
 
-Und gleich die Einschränkung, ohne die dieses Wort gefährlich ist. **Das Messinstrument ist ein Verfahren und keine Menschen.** Gemessen wird nicht der Mensch: Der Mensch antwortet oder antwortet nicht, aus freiem Willen, und die Antwort gehört ihm. Messinstrument nennen wir den Ablauf, in dem Antworten gesammelt und geprüft werden - Frage, Frist, Register, Signatur, Veröffentlichung. Das Volk ist für niemanden ein Werkzeug, auch für sich selbst nicht: Ein Werkzeug baut es, es ist aber selbst keines. Anderes widerspräche Artikel 10 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html), wo die Würde des Menschen als unveräußerlich bezeichnet wird und der Mensch nicht als Mittel.
+Und gleich die Einschränkung, ohne die dieses Wort gefährlich ist. **Das Messinstrument ist ein Verfahren und keine Menschen.** Gemessen wird nicht der Mensch: Der Mensch antwortet oder antwortet nicht, aus freiem Willen, und die Antwort gehört ihm. Messinstrument nennen wir den Ablauf, in dem Antworten gesammelt und geprüft werden - Frage, Frist, Register, Signatur, Veröffentlichung. Das Volk ist für niemanden ein Werkzeug, auch für sich selbst nicht: Ein Werkzeug baut es, es ist aber selbst keines. Anderes widerspräche Artikel 10 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html), wo die Würde des Menschen als unantastbar bezeichnet wird und der Mensch nicht als Mittel.
 
 ## 5. Fünf Eigenschaften eines Werkzeugs, das sich nicht übergehen lässt
 
@@ -277,13 +277,13 @@ Irland hat seine Verfassung zweimal aufgrund der Arbeit von Gremien geändert, d
 
 Der Verfassungskonvent von 2012 bis 2014 empfahl, die gleichgeschlechtliche Ehe zuzulassen - im Referendum vom 22. Mai 2015 nahmen das 62 Prozent der Abstimmenden an. Die Bürgerversammlung, die das Parlament im Juli 2016 einsetzte und die ihre Arbeit im Frühjahr 2018 abschloss, empfahl die Aufhebung des achten Zusatzartikels - im Referendum vom 25. Mai 2018 sprachen sich 66,4 Prozent bei einer Beteiligung von 64,1 Prozent für die Aufhebung aus.
 
-In beiden Fällen wurde die Zusammensetzung - neunundneunzig Menschen - per Los aus der Bevölkerung ausgewählt; die Teilnehmer studierten die Frage mehrere Monate, hörten Fachleute und beide Seiten an, erörterten öffentlich und stimmten ab.
+Die Zusammensetzungen wurden auf verschiedene Weise ausgewählt, und der Unterschied ist lehrreich. Im Konvent waren von hundert Mitgliedern sechsundsechzig Bürger per Los, dreiunddreißig amtierende Politiker, und der hundertste war der ernannte Vorsitzende. Die Bürgerversammlung ging weiter: Ihre neunundneunzig Teilnehmer wurden ausnahmslos per Los ausgewählt, Politiker gehörten ihr überhaupt nicht an, der Vorsitz wurde gesondert bestellt. In beiden Fällen studierten die Teilnehmer die Frage mehrere Monate, hörten Fachleute und beide Seiten an, erörterten öffentlich und stimmten ab.
 
 **Die Lehre.** Legitimität gibt nicht die Wahl, sondern ein transparentes Auswahlverfahren und eine offene Erörterung. Zufällig ausgewählte Menschen, die sich in die Frage eingearbeitet hatten, waren für die Gesellschaft überzeugender als gewählte Politiker.
 
 ### Und das Gegenbeispiel, das man kennen muss
 
-Das Russell-Tribunal zu Vietnam von 1966 bis 1967 und das ihm nachfolgende Ständige Tribunal der Völker legten sorgfältig vorbereitete Gutachten zu schwersten Fragen vor. Ihre Zusammensetzung war selbst ernannt, ihre Repräsentativität in keiner Weise festgestellt, ihre Befugnisse nicht vorhanden. Moralisch werden sie geachtet. Politisch werden sie vollständig übergangen, und das seit sechzig Jahren.
+Das Russell-Tribunal zu Vietnam von 1966 bis 1967 und das zwölf Jahre später eingerichtete Ständige Tribunal der Völker legten sorgfältig vorbereitete Gutachten zu schwersten Fragen vor. Ihre Zusammensetzung war selbst ernannt, ihre Repräsentativität in keiner Weise festgestellt, ihre Befugnisse nicht vorhanden. Moralisch werden sie geachtet. Politisch werden sie vollständig übergangen, und das seit sechzig Jahren.
 
 **Die Lehre.** Ohne überprüfbaren Bestand bleibt jedes, auch das makelloseste Verfahren die private Meinung einer Gruppe angesehener Menschen. Genau darin unterscheiden wir uns - und genau das verlieren wir, wenn der Bestand aufhört, überprüfbar zu sein.
 
@@ -615,7 +615,7 @@ Daraus: Es wird ein Gründungstext gebraucht und keine Nutzungsbedingungen.
 
 *Ein Verein genügt bereits nicht mehr: Seine Satzung ändert seine eigene Leitung.*
 
-**Vierter Schritt.** Das Messinstrument muss seinen Eigentümer überdauern und darf nicht käuflich sein. Was sich kaufen lässt, wird früher oder später gekauft, und der Käufer erbt das Recht zu messen. Keine Einrichtung, deren Kapital das Vertrauen ist, hat einen Eigentümerwechsel überstanden und dabei dieses Vertrauen bewahrt.
+**Vierter Schritt.** Das Messinstrument muss seinen Eigentümer überdauern und darf nicht käuflich sein. Was sich kaufen lässt, wird früher oder später gekauft, und der Käufer erbt das Recht zu messen. Einrichtungen, deren Kapital das Vertrauen ist, überstehen einen Eigentümerwechsel nur selten, ohne dieses Vertrauen einzubüßen.
 
 Daraus: Das Messinstrument darf keinen Eigentümer haben. Also müssen die Teilnehmer es besitzen. Also ist es Selbstverwaltung.
 
@@ -639,18 +639,18 @@ Wir behaupten nur, was aus der Ableitung selbst sichtbar ist: **Diese fünf Eige
 
 **Das Volk ist keine Entscheidung, die vor dem Messinstrument getroffen wurde. Es ist das, worauf das Messinstrument stößt, wenn man es richtig baut.**
 
-### Und warum keine Bewegung
+### Und warum keine gesellschaftliche Bewegung
 
 Dieselbe Ableitung zeigt sich kürzer im Vergleich mit der nächstliegenden bekannten Form.
 
-| | Bewegung | Volk |
+| | Gesellschaftliche Bewegung | Volk |
 |---|---|---|
 | Bestand | behauptete Unterstützung, ihrer Natur nach nicht überprüfbar | wechselseitige Anerkennung, und die ist zweiseitig und deshalb zählbar |
 | Dauer | bis zur Lösung der eigenen Frage; mit Sieg oder Niederlage erschöpft | mit einer Frage nicht erschöpft, aussitzen lässt es sich nicht |
 | Geografie | national; international nur als Netz nationaler Teile | in allen Rechtsordnungen zugleich und in keiner einzelnen |
-| Rechtliche Eigenschaft | ist nicht Träger des Selbstbestimmungsrechts und wird es nicht | Träger, wenn die Merkmale festgestellt werden; die Frage ist offen |
+| Rechtliche Eigenschaft | ist nicht Träger des Selbstbestimmungsrechts | Träger, wenn die Merkmale festgestellt werden; die Frage ist offen |
 
-Die oberen drei Zeilen hängen nicht davon ab, wie die vierte ausgeht.
+Die Rede ist hier von einer gesellschaftlichen Bewegung. Nationale Befreiungsbewegungen sind eine andere rechtliche Kategorie: Ihre Stellung bildete sich in der Entkolonialisierung heraus, und sie wurden gerade als diejenigen anerkannt, die im Namen von Völkern auftreten, die ihre Selbstbestimmung verwirklichen. Die oberen drei Zeilen hängen nicht davon ab, wie die vierte ausgeht.
 
 ### Fünf Gründe, jeder von eigener Art
 
@@ -857,9 +857,9 @@ Wir behaupten, dass Earthlings überprüfbar ist, und diese Behauptung hat nur d
 
 Das vollständige Verzeichnis dessen, was als Grundsatz erklärt, aber noch nicht getan ist - einschließlich der nicht abgeschlossenen Verifizierung des Vertrags, der nicht aufgeteilten Rechte des Eigentümers und des Fehlens einer Multisig auf dem Wallet der Schatzkammer - steht im Dokument [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html). Wir nennen diese Stellen lieber selbst, als sie einem Prüfer als Fund zu überlassen.
 
-## 21. Kennzahlen, zu deren Veröffentlichung wir uns verpflichten
+## 21. Kennzahlen, nach denen man uns beurteilen soll
 
-Damit sich die Zusagen dieses Dokuments überprüfen und nicht bloß glauben lassen, nennen wir die Kennzahlen, nach denen man uns beurteilen soll. Keine von ihnen ist werbend, und bei mehreren von ihnen werden wir in den ersten Jahren mit Sicherheit schlecht dastehen.
+Damit sich das hier Beschriebene überprüfen und nicht bloß glauben lässt, nennen wir die Kennzahlen, nach denen man uns beurteilen soll. Die Pflicht, den Anteil der Abstimmenden an den Stimmberechtigten zu veröffentlichen, ist in Artikel 8-bis der [Charta](https://earth-lings.org/documents/de/de05-charta.html) festgelegt; die übrigen Kennzahlen legt dieses Dokument nicht fest und kann sie nicht festlegen - es schlägt sie als Maßstab vor, den es auf sich selbst anwendet. Keine von ihnen ist werbend, und bei mehreren von ihnen werden wir in den ersten Jahren mit Sicherheit schlecht dastehen.
 
 | Kennzahl | Warum gerade sie |
 |---|---|
@@ -882,7 +882,7 @@ Damit sich die Zusagen dieses Dokuments überprüfen und nicht bloß glauben las
 
 **Hier stehen keine Wahrscheinlichkeiten.** Wir wissen nicht, welche der Stufen erreicht wird und ob überhaupt eine erreicht wird.
 
-**Hier steht kein Versprechen eines Ergebnisses.** Das Volk verpflichtet sich, diese Arbeit stetig und offen zu führen und darüber vor den Teilnehmern Rechenschaft abzulegen. Es verpflichtet sich nicht, ein Ergebnis zu erreichen: Die Anerkennung steht nicht in seiner Macht, und das Bestehen des Volkes hängt von der Anerkennung nicht ab.
+**Hier steht kein Versprechen eines Ergebnisses.** Wodurch das Volk gebunden ist und wodurch nicht, ist in Artikel 7 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) festgelegt, und wir geben das hier nicht wieder, damit der Norm eine einzige Quelle bleibt. Kurz: Die Anerkennung steht nicht in seiner Macht, und das Bestehen des Volkes hängt von der Anerkennung nicht ab.
 
 **Und hier steht keine einzige Behauptung, von der heute irgendetwas abhängt.** Die Infrastruktur ist gebaut, die Gründungsphase läuft, die Erklärung wird zur Abstimmung gestellt. Wenn keine der hier beschriebenen Stufen genommen wird, hebt das nichts von dem bereits Getanen auf und macht nichts von dem sinnlos, wofür Menschen einander gewählt haben.
 
@@ -904,7 +904,7 @@ Tatsachen, die im Text angeführt sind:
 - Einstellung der Veröffentlichung des Rankings Doing Business durch die Weltbank, September 2021 - [Mitteilung](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
 - Wie die Berichte des Zwischenstaatlichen Ausschusses für Klimaänderungen erstellt und abgestimmt werden - [Verfahren des IPCC](https://www.ipcc.ch/about/procedures/)
 - Arbeitsgrundsätze der Internet Engineering Task Force, einschließlich der Formel „ungefährer Konsens und lauffähiger Code“ - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
-- Die Bürgerversammlung Irlands von 2016 bis 2018 und der Verfassungskonvent von 2012 bis 2014 - [Materialien der Versammlung](https://citizensassembly.ie/). Daten und Ergebnisse der Referenden: 22. Mai 2015 (gleichgeschlechtliche Ehe), 25. Mai 2018 (sechsunddreißigster Zusatzartikel, 66,4 Prozent bei einer Beteiligung von 64,1)
+- Die Bürgerversammlung Irlands von 2016 bis 2018 und der Verfassungskonvent von 2012 bis 2014 - [Materialien der Versammlung](https://citizensassembly.ie/). Daten und Ergebnisse der Referenden: 22. Mai 2015 (gleichgeschlechtliche Ehe), 25. Mai 2018 (sechsunddreißigster Zusatzartikel, mit dem der achte aufgehoben wurde, 66,4 Prozent bei einer Beteiligung von 64,1)
 - Angaben zu gewaltsam Vertriebenen und zu Staatenlosen zum Ende des Jahres 2025 - [Statistik des UNHCR](https://www.unhcr.org/refugee-statistics/)
 - Einstweilige Maßnahme der spanischen Datenschutzbehörde gegenüber Tools for Humanity, 6. März 2024 - [Mitteilung der AEPD](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - Beschluss der nationalen Datenschutzbehörde Brasiliens PR/ANPD Nr. 18/2025 vom 25. März 2025 über die Zurückweisung der Beschwerde und die Aufrechterhaltung des Verbots - [Website der ANPD](https://www.gov.br/anpd/)

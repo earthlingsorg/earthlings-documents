@@ -10,7 +10,7 @@ Deshalb beginnen die Earthlings mit einer Gründungsphase.
 
 Heute besteht die Erklärung als Ausgangsfassung, vorbereitet für die Konstituierung des Volkes. Sie drückt die Grundsätze aus, auf denen wir es zu schaffen vorschlagen, ist aber noch nicht der endgültige konstituierende Akt.
 
-**Offen ist nicht nur die Erklärung.** Für Vorschläge offen ist der ganze Bestand - fünfundzwanzig Dokumente, die das Volk vollständig beschreiben: die Charta mit ihren Verfahren und Schwellen, der Aufbau der Kasse und der Recheneinheit, der Ablauf der Identitätsprüfung, die Arbeit der Zellen, der Fahrplan, die Ethik, die Rechtsgrundlage. Die Erklärung ist unter ihnen die wichtigste, doch allein beschreibt sie das Volk nicht: Sie legt die Grundlagen und die Grenzen fest, und wie das alles Tag für Tag arbeitet, steht in den übrigen.
+**Offen ist nicht nur die Erklärung.** Für Vorschläge offen ist der ganze Bestand - sechsundzwanzig Dokumente, die das Volk vollständig beschreiben: die Charta mit ihren Verfahren und Schwellen, der Aufbau der Kasse und der Recheneinheit, der Ablauf der Identitätsprüfung, die Arbeit der Zellen, der Fahrplan, die Ethik, die Rechtsgrundlage. Die Erklärung ist unter ihnen die wichtigste, doch allein beschreibt sie das Volk nicht: Sie legt die Grundlagen und die Grenzen fest, und wie das alles Tag für Tag arbeitet, steht in den übrigen.
 
 Wir sagen das unmittelbar, weil sonst der falsche Eindruck entsteht, man werde eingeladen, einen Text zu bearbeiten, und die übrigen werde man fertig bringen. Nein: Bearbeiten lässt sich jedes Dokument des Bestandes. Verschieden ist nicht das Recht eines Menschen, einen Vorschlag einzubringen, sondern das, was mit einem angenommenen Vorschlag weiter geschieht - dazu Abschnitt 02.
 
@@ -32,7 +32,7 @@ So wollen wir, dass die Earthlings nicht für Menschen geschaffen werden, sonder
 
 **Der gegenwärtige Zustand.** Die Infrastruktur des Volkes der Earthlings ist gebaut und arbeitet: Identitätsprüfung, Pass, Register, Abstimmung, öffentliche Kasse. Nicht angenommen ist der konstituierende Text.
 
-Vom 7. September bis zum 6. Dezember 2026 steht der ganze Bestand für Vorschläge offen - die Erklärung, die Charta und die übrigen dreiundzwanzig Dokumente. Einbringen kann sie jeder Mensch. Am 3. Januar 2027 wird der Text durch Abstimmung derjenigen bestätigt, die ihre Identität haben prüfen lassen. Von diesem Tag an werden die fünf Grundsätze des unabänderlichen Kerns nie mehr aufgehoben, und der übrige Text wird nur vom Volk selbst geändert und nur in Richtung eines größeren Schutzes des Menschen.
+Vom 7. September bis zum 6. Dezember 2026 steht der ganze Bestand für Vorschläge offen - die Erklärung, die Charta und die übrigen vierundzwanzig Dokumente. Einbringen kann sie jeder Mensch. Am 3. Januar 2027 wird der Text durch Abstimmung derjenigen bestätigt, die ihre Identität haben prüfen lassen. Von diesem Tag an werden die fünf Grundsätze des unabänderlichen Kerns nie mehr aufgehoben, und der übrige Text wird nur vom Volk selbst geändert und nur in Richtung eines größeren Schutzes des Menschen.
 
 ## 01. Warum wir es so machen
 

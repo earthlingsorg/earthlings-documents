@@ -18,7 +18,7 @@ Cette section vient en premier à dessein: elle définit ce que ce document est 
 
 **Le présent document n'établit rien.** Il ne crée pas de droits et n'impose pas d'obligations, ne confère aucun pouvoir et n'en limite aucun, n'autorise rien et n'interdit rien. Il n'en découle rien qui soit à exécuter. Aucune disposition d'un autre document du corpus ne se fonde sur lui ni ne peut se fonder sur lui.
 
-**Il explique et il suppose.** Tous les autres documents du corpus décrivent ce qui est ou établissent ce qui doit être. Celui-ci est le seul qui parle aussi de ce qui n'existe pas encore: d'échelons dont aucun n'est franchi à ce jour, et de possibilités dont aucune n'est promise. La section 19 énumère neuf manières dont tout cela peut ne pas aboutir, et la section 20 dit ce qui est construit et ce qui manque encore.
+**Il explique et il suppose.** Tous les autres documents du corpus décrivent ce qui est ou établissent ce qui doit être. Celui-ci parle aussi de ce qui n'existe pas encore: d'échelons dont aucun n'est franchi à ce jour, et de possibilités dont aucune n'est promise. La section 19 énumère neuf manières dont tout cela peut ne pas aboutir, et la section 20 dit ce qui est construit et ce qui manque encore.
 
 **La Déclaration et la Charte ont force obligatoire.** En cas de divergence entre le présent document et l'un d'eux, ce sont eux qui s'appliquent. La divergence constatée se corrige par une modification du présent document, et non de la Déclaration ni de la Charte. L'interprétation du présent document ne peut ni abaisser une garantie de la personne, ni élargir les pouvoirs du peuple ou de l'une quelconque de ses institutions.
 
@@ -74,7 +74,7 @@ Une entité dotée de telles propriétés, nous proposons de la tenir pour un pe
 
 ### Comment cela acquiert du poids
 
-Par échelons, et les premiers ne demandent la permission de personne: une première mesure incontestable, la citation par des tiers, la chronique publique des non-réponses. Vient ensuite ce qui ne dépend plus de nous: la demande d'une position au lieu du dépôt de documents, l'insertion dans les procédures d'autrui et, un jour, la norme.
+Par échelons, et certains d'entre eux ne demandent la permission de personne: une première mesure incontestable, le fait que l'adversaire se serve du même instrument, la chronique publique des non-réponses. Vient ensuite ce qui ne dépend plus seulement de nous: la citation par des tiers, la demande d'une position au lieu du dépôt de documents, l'insertion dans les procédures d'autrui et, un jour, la norme.
 
 Le seuil décisif n'est pas affaire de taille. Il est atteint le jour où la partie adverse invoquera une mesure parce qu'elle appuie son propre argument: à partir de ce moment, l'instrument cesse d'être le nôtre et devient commun.
 
@@ -100,7 +100,7 @@ La section 20 dit ce qui, parmi ce qui est décrit, est déjà construit et ce q
 
 ### Et où aller ensuite
 
-Le présent document n'établit rien. Les droits de la personne, ses garanties et les limites du pouvoir du peuple lui-même sont inscrits dans la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html): c'est le seul texte qui oblige, et le seul qui soit soumis au vote. **Si l'on ne devait lire qu'un seul document de tout le corpus, ce serait elle.**
+Le présent document n'établit rien. Les droits de la personne, ses garanties et les limites du pouvoir du peuple lui-même sont inscrits dans la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html): c'est le texte du corpus dont la force est la plus élevée, et le seul qui soit soumis au vote. **Si l'on ne devait lire qu'un seul document de tout le corpus, ce serait elle.**
 
 La suite reprend la même chose en détail: par quoi chaque affirmation est prouvée, comment chaque procédure fonctionne et ce que nous ne garantissons pas.
 
@@ -217,7 +217,7 @@ D'où une formule qui est peut-être la seule de tout le document à mériter d'
 
 Être entendu, chacun le peut aujourd'hui. Être compté, personne.
 
-Et aussitôt la réserve sans laquelle ce mot est dangereux. **L'instrument de mesure est une procédure, non des personnes.** Ce n'est pas la personne qui est mesurée: la personne répond ou ne répond pas, de son plein gré, et la réponse lui appartient. Nous appelons instrument de mesure les modalités selon lesquelles les réponses sont recueillies et vérifiées - la question, le délai, le registre, la signature, la publication. Le peuple n'est un outil pour personne, y compris pour lui-même: l'outil, il le construit, il ne le représente pas. Toute autre lecture contredirait l'article 10 de la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), où la dignité de la personne est dite inaliénable et où la personne n'est pas un moyen.
+Et aussitôt la réserve sans laquelle ce mot est dangereux. **L'instrument de mesure est une procédure, non des personnes.** Ce n'est pas la personne qui est mesurée: la personne répond ou ne répond pas, de son plein gré, et la réponse lui appartient. Nous appelons instrument de mesure les modalités selon lesquelles les réponses sont recueillies et vérifiées - la question, le délai, le registre, la signature, la publication. Le peuple n'est un outil pour personne, y compris pour lui-même: l'outil, il le construit, il ne le représente pas. Toute autre lecture contredirait l'article 10 de la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), où la dignité de la personne est dite inviolable et où la personne n'est pas un moyen.
 
 ## 5. Les cinq propriétés d'un outil qu'on ne peut ignorer
 
@@ -277,13 +277,13 @@ L'Irlande a modifié deux fois sa constitution à la suite des travaux d'organes
 
 La Convention constitutionnelle de 2012-2014 a recommandé d'autoriser le mariage entre personnes de même sexe - au référendum du 22 mai 2015, 62 pour cent des votants l'ont adopté. L'Assemblée citoyenne, instituée par le parlement en juillet 2016 et ayant achevé ses travaux au printemps 2018, a recommandé d'abroger le huitième amendement - au référendum du 25 mai 2018, 66,4 pour cent se sont prononcés pour l'abrogation, avec un taux de participation de 64,1 pour cent.
 
-Dans les deux cas, la composition - quatre-vingt-dix-neuf personnes - était sélectionnée par tirage au sort dans la population; les participants ont étudié la question pendant plusieurs mois, écouté des spécialistes et les deux parties, débattu publiquement et voté.
+Les compositions ont été constituées différemment, et la différence est instructive. Sur les cent membres de la Convention, soixante-six étaient des citoyens tirés au sort, trente-trois des responsables politiques en exercice, et le centième était le président, désigné. L'Assemblée citoyenne est allée plus loin: ses quatre-vingt-dix-neuf participants ont été sélectionnés par tirage au sort sans exception, aucun responsable politique n'y siégeait, et la présidence a été désignée à part. Dans les deux cas, les participants ont étudié la question pendant plusieurs mois, écouté des spécialistes et les deux parties, débattu publiquement et voté.
 
 **Leçon.** Ce qui donne la légitimité, ce n'est pas l'élection, c'est une procédure de sélection transparente et un débat ouvert. Des personnes tirées au sort, une fois qu'elles avaient étudié la question, se sont révélées plus convaincantes pour la société que des responsables politiques élus.
 
 ### Et le contre-exemple qu'il faut connaître
 
-Le Tribunal Russell sur le Vietnam de 1966-1967 et le Tribunal permanent des peuples créé dans sa suite ont rendu des conclusions soigneusement préparées sur les questions les plus graves. Leur composition était auto-désignée, leur représentativité n'était établie d'aucune manière, leurs pouvoirs étaient inexistants. Moralement, on les respecte. Politiquement, on les ignore entièrement, et cela dure depuis soixante ans.
+Le Tribunal Russell sur le Vietnam de 1966-1967 et le Tribunal permanent des peuples institué douze ans plus tard ont rendu des conclusions soigneusement préparées sur les questions les plus graves. Leur composition était auto-désignée, leur représentativité n'était établie d'aucune manière, leurs pouvoirs étaient inexistants. Moralement, on les respecte. Politiquement, on les ignore entièrement, et cela dure depuis soixante ans.
 
 **Leçon.** Sans composition vérifiable, toute procédure, même irréprochable, reste l'opinion privée d'un groupe de personnes respectées. C'est exactement là que nous différons - et exactement ce que nous perdrons si la composition cesse d'être vérifiable.
 
@@ -615,7 +615,7 @@ D'où: il faut un texte constitutif, non des conditions d'utilisation.
 
 *L'association ne suffit déjà plus: ses statuts sont modifiés par sa propre direction.*
 
-**Quatrième étape.** L'instrument doit survivre à son propriétaire et ne pas être achetable. Ce qui peut s'acheter finit tôt ou tard par être acheté, et l'acheteur hérite du droit de mesurer. Aucune institution dont le capital est la confiance n'a survécu à un changement de propriétaire en conservant cette confiance.
+**Quatrième étape.** L'instrument doit survivre à son propriétaire et ne pas être achetable. Ce qui peut s'acheter finit tôt ou tard par être acheté, et l'acheteur hérite du droit de mesurer. Les institutions dont le capital est la confiance survivent rarement à un changement de propriétaire en conservant cette confiance.
 
 D'où: l'instrument ne doit pas avoir de propriétaire. Donc ce sont les participants qui doivent le détenir. Donc c'est un autogouvernement.
 
@@ -639,18 +639,18 @@ Nous affirmons seulement ce qui ressort de la déduction elle-même: **ces cinq 
 
 **Le peuple n'est pas une décision prise avant l'instrument. C'est ce sur quoi bute l'instrument si on le construit correctement.**
 
-### Et pourquoi pas un mouvement
+### Et pourquoi pas un mouvement social
 
 La même déduction se voit plus brièvement dans la comparaison avec la forme connue la plus proche.
 
-|  | Mouvement | Peuple |
+|  | Mouvement social | Peuple |
 |---|---|---|
 | Composition | un soutien déclaré, invérifiable par nature | une reconnaissance mutuelle, et elle est bilatérale, donc dénombrable |
 | Durée | jusqu'au règlement de sa question; une victoire ou une défaite l'épuise | une question ne l'épuise pas, on ne peut pas attendre qu'il passe |
 | Géographie | national; l'international se fait en réseau de mouvements nationaux | dans toutes les juridictions à la fois et dans aucune en particulier |
-| Qualité juridique | n'est pas titulaire du droit à l'autodétermination et ne le deviendra pas | titulaire, si les critères sont établis; la question est ouverte |
+| Qualité juridique | n'est pas titulaire du droit à l'autodétermination | titulaire, si les critères sont établis; la question est ouverte |
 
-Les trois lignes supérieures ne dépendent pas de l'issue de la quatrième.
+Il s'agit ici du mouvement social. Les mouvements de libération nationale relèvent d'une autre catégorie juridique: leur statut s'est constitué dans la décolonisation, et ils étaient reconnus précisément comme s'exprimant au nom de peuples exerçant leur autodétermination. Les trois lignes supérieures ne dépendent pas de l'issue de la quatrième.
 
 ### Cinq raisons, chacune d'un genre différent
 
@@ -857,9 +857,9 @@ Nous affirmons qu'Earthlings est vérifiable, et cette affirmation n'a de sens q
 
 La liste complète de ce qui est annoncé comme principe mais n'est pas encore fait - y compris la vérification inachevée du contrat, les droits du propriétaire non séparés et l'absence de multisig sur le portefeuille de la trésorerie - figure dans le document [Où nous en sommes](https://earth-lings.org/documents/fr/fr32-ou-nous-en-sommes.html). Nous préférons nommer ces endroits nous-mêmes plutôt que de les laisser comme trouvaille à qui viendra vérifier.
 
-## 21. Les indicateurs que nous nous engageons à publier
+## 21. Les indicateurs sur lesquels il faut nous juger
 
-Pour que les promesses du présent document puissent être vérifiées et non crues sur parole, nous nommons les indicateurs sur lesquels il faut nous juger. Aucun d'eux n'est publicitaire, et sur plusieurs d'entre eux nous ferons à coup sûr mauvaise figure les premières années.
+Pour que ce qui est décrit ici puisse être vérifié et non cru sur parole, nous nommons les indicateurs sur lesquels il faut nous juger. L'obligation de publier le taux de participation rapporté au nombre de personnes ayant le droit de vote est établie à l'article 8 bis de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html); les autres indicateurs, le présent document ne les établit pas et ne peut pas les établir - il les propose comme une mesure qu'il retourne contre lui-même. Aucun d'eux n'est publicitaire, et sur plusieurs d'entre eux nous ferons à coup sûr mauvaise figure les premières années.
 
 | Indicateur | Pourquoi celui-là |
 |---|---|
@@ -882,7 +882,7 @@ Pour que les promesses du présent document puissent être vérifiées et non cr
 
 **Il n'y a pas ici de probabilités.** Nous ne savons pas quel échelon sera atteint, ni si un seul le sera.
 
-**Il n'y a pas ici de promesse de résultat.** Le peuple s'engage à mener ce travail en permanence et ouvertement, en en rendant compte à ses participants. Il ne s'engage pas à obtenir un résultat: la reconnaissance n'est pas en son pouvoir, et l'existence du peuple ne dépend pas de la reconnaissance.
+**Il n'y a pas ici de promesse de résultat.** Ce à quoi le peuple est tenu et ce à quoi il ne l'est pas est établi à l'article 7 de la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), et nous ne le reproduisons pas ici, pour que la norme garde une source unique. En bref: la reconnaissance n'est pas en son pouvoir, et l'existence du peuple ne dépend pas de la reconnaissance.
 
 **Et il n'y a ici aucune affirmation dont quoi que ce soit dépende aujourd'hui.** L'infrastructure est construite, la période constituante est en cours, la Déclaration est soumise au vote. Si aucun des échelons décrits ici n'est franchi, cela n'annulera rien de ce qui est déjà fait et ne privera de sens rien de ce pour quoi les personnes se sont choisies les unes les autres.
 
@@ -904,7 +904,7 @@ Les faits cités dans le texte:
 - Arrêt de la publication du classement Doing Business par la Banque mondiale, septembre 2021 - [déclaration](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
 - Modalités de préparation et d'approbation des rapports du Groupe d'experts intergouvernemental sur l'évolution du climat - [procédures du GIEC](https://www.ipcc.ch/about/procedures/)
 - Principes de travail de l'Internet Engineering Task Force, y compris la formule « un consensus approximatif et du code qui fonctionne » - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
-- Assemblée citoyenne d'Irlande de 2016-2018 et Convention constitutionnelle de 2012-2014 - [documents de l'assemblée](https://citizensassembly.ie/). Dates et résultats des référendums: 22 mai 2015 (mariage entre personnes de même sexe), 25 mai 2018 (trente-sixième amendement, 66,4 pour cent avec un taux de participation de 64,1)
+- Assemblée citoyenne d'Irlande de 2016-2018 et Convention constitutionnelle de 2012-2014 - [documents de l'assemblée](https://citizensassembly.ie/). Dates et résultats des référendums: 22 mai 2015 (mariage entre personnes de même sexe), 25 mai 2018 (trente-sixième amendement, par lequel le huitième a été abrogé, 66,4 pour cent avec un taux de participation de 64,1)
 - Données sur les personnes déplacées de force et les apatrides à la fin de 2025 - [statistiques du HCR](https://www.unhcr.org/refugee-statistics/)
 - Mesure conservatoire de l'Agence espagnole de protection des données à l'égard de Tools for Humanity, 6 mars 2024 - [communiqué de l'AEPD](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - Décision de l'Autorité nationale de protection des données du Brésil PR/ANPD n° 18/2025 du 25 mars 2025 rejetant l'appel et maintenant l'interdiction - [site de l'ANPD](https://www.gov.br/anpd/)

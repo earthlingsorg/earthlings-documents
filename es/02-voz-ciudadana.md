@@ -18,7 +18,7 @@ La sección va primero a propósito: define qué es este documento dentro del co
 
 **El presente documento no establece nada.** No crea derechos ni impone obligaciones, no atribuye facultades ni las limita, nada permite y nada prohíbe. De él no se sigue nada que deba cumplirse. Ninguna disposición de ningún otro documento del corpus se funda en él ni puede fundarse en él.
 
-**Explica y supone.** Todos los demás documentos del corpus describen lo que hay o establecen lo que debe ser. El presente es el único que habla también de lo que todavía no existe: de unos escalones de los que hasta hoy no se ha subido ninguno y de unas posibilidades de las que ninguna se promete. La sección 19 enumera nueve maneras en que todo esto puede no llegar a ser, y la sección 20, qué está construido y qué no lo está aún.
+**Explica y supone.** Todos los demás documentos del corpus describen lo que hay o establecen lo que debe ser. El presente habla también de lo que todavía no existe: de unos escalones de los que hasta hoy no se ha subido ninguno y de unas posibilidades de las que ninguna se promete. La sección 19 enumera nueve maneras en que todo esto puede no llegar a ser, y la sección 20, qué está construido y qué no lo está aún.
 
 **Fuerza obligatoria la tienen la Declaración y la Carta.** Si el presente documento discrepa de cualquiera de ellas, se aplican ellas. La discrepancia que se advierta se corrige modificando el presente documento, y no la Declaración ni la Carta. La interpretación del presente documento no puede rebajar ninguna garantía de la persona ni ampliar las facultades del pueblo o de alguna de sus instituciones.
 
@@ -74,7 +74,7 @@ Una formación con esas propiedades proponemos considerarla un pueblo. Es nuestr
 
 ### Cómo gana peso
 
-Por escalones, y los primeros no exigen el permiso de nadie: la primera medición indiscutible, la cita por terceros, la crónica pública de las no respuestas. Después viene lo que ya no depende de nosotros: que se pida la posición en vez de presentarla, el encaje en procedimientos ajenos y algún día la norma.
+Por escalones, y una parte de ellos no exige el permiso de nadie: la primera medición indiscutible, que el oponente use el mismo instrumento, la crónica pública de las no respuestas. Después viene lo que ya no depende solo de nosotros: la cita por terceros, que se pida la posición en vez de presentarla, el encaje en procedimientos ajenos y algún día la norma.
 
 El umbral decisivo no está en el tamaño. Llega el día en que la parte contraria invoque la medición porque sostiene su propio argumento: desde ese momento el instrumento deja de ser nuestro y pasa a ser común.
 
@@ -100,7 +100,7 @@ La sección 20 dice qué de lo descrito ya está construido y qué no. Medicione
 
 ### Y adónde ir después
 
-El presente documento no establece nada. Los derechos de la persona, sus garantías y los límites del poder del propio pueblo están escritos en la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html): es el único texto que obliga y el único que se somete a votación. **Si de todo el corpus hay que leer un solo documento, hay que leerla a ella.**
+El presente documento no establece nada. Los derechos de la persona, sus garantías y los límites del poder del propio pueblo están escritos en la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html): es el texto de mayor fuerza del corpus y el único que se somete a votación. **Si de todo el corpus hay que leer un solo documento, hay que leerla a ella.**
 
 Más adelante viene aquí lo mismo en detalle: con qué está probada cada afirmación, cómo funciona cada procedimiento y qué no garantizamos.
 
@@ -217,7 +217,7 @@ De ahí una fórmula que quizá sea la única de todo el documento que merece la
 
 Ser escuchado hoy puede serlo cualquiera. Ser contado, nadie.
 
-Y enseguida la salvedad sin la cual esa palabra es peligrosa. **El instrumento es un procedimiento, no personas.** No se mide a la persona: la persona responde o no responde, por su propia voluntad, y la respuesta le pertenece. Llamamos instrumento al orden por el que las respuestas se recogen y se verifican: la pregunta, el plazo, el registro, la firma, la publicación. El pueblo no es una herramienta para nadie, ni siquiera para sí mismo: la herramienta la construye, no la encarna. Lo contrario contradiría el artículo 10 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), donde la dignidad de la persona se declara inalienable y la persona, no un medio.
+Y enseguida la salvedad sin la cual esa palabra es peligrosa. **El instrumento es un procedimiento, no personas.** No se mide a la persona: la persona responde o no responde, por su propia voluntad, y la respuesta le pertenece. Llamamos instrumento al orden por el que las respuestas se recogen y se verifican: la pregunta, el plazo, el registro, la firma, la publicación. El pueblo no es una herramienta para nadie, ni siquiera para sí mismo: la herramienta la construye, no la encarna. Lo contrario contradiría el artículo 10 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), donde la dignidad de la persona se declara inviolable y la persona, no un medio.
 
 ## 5. Cinco propiedades de una herramienta a la que no se puede ignorar
 
@@ -277,13 +277,13 @@ Irlanda modificó dos veces su constitución a resultas del trabajo de unos órg
 
 La Convención Constitucional de 2012-2014 recomendó permitir el matrimonio entre personas del mismo sexo: en el referendo del 22 de mayo de 2015 lo aprobó el 62 por ciento de quienes votaron. La Asamblea Ciudadana, constituida por el parlamento en julio de 2016 y que terminó su trabajo en la primavera de 2018, recomendó derogar la octava enmienda: en el referendo del 25 de mayo de 2018 se pronunció por la derogación el 66,4 por ciento, con una participación del 64,1 por ciento.
 
-En ambos casos la composición - noventa y nueve personas - se eligió por sorteo entre la población; los participantes estudiaron la cuestión durante varios meses, escucharon a especialistas y a las dos partes, deliberaron en público y votaron.
+Las composiciones se eligieron de modo distinto, y la diferencia es instructiva. En la Convención, de sus cien integrantes sesenta y seis eran ciudadanos designados por sorteo, treinta y tres, políticos en ejercicio, y el centésimo era el presidente nombrado. La Asamblea Ciudadana fue más lejos: sus noventa y nueve participantes se eligieron por sorteo todos sin excepción, en su composición no hubo político alguno, y la presidencia se nombró aparte. En ambos casos los participantes estudiaron la cuestión durante varios meses, escucharon a especialistas y a las dos partes, deliberaron en público y votaron.
 
 **Lección.** La legitimidad no la da el carácter electivo, sino un procedimiento de selección transparente y una deliberación abierta. Unas personas elegidas al azar que se hicieron cargo de la cuestión resultaron más convincentes para la sociedad que unos políticos elegidos.
 
 ### Y un contraejemplo que conviene conocer
 
-El Tribunal Russell sobre Vietnam de 1966-1967 y el Tribunal Permanente de los Pueblos creado a continuación dictaron dictámenes cuidadosamente preparados sobre las cuestiones más graves. Su composición era autodesignada, su representatividad no estaba acreditada de ningún modo y sus facultades no existían. Moralmente se los respeta. Políticamente se los ignora por completo, y así llevan sesenta años.
+El Tribunal Russell sobre Vietnam de 1966-1967 y el Tribunal Permanente de los Pueblos, instituido doce años más tarde, dictaron dictámenes cuidadosamente preparados sobre las cuestiones más graves. Su composición era autodesignada, su representatividad no estaba acreditada de ningún modo y sus facultades no existían. Moralmente se los respeta. Políticamente se los ignora por completo, y así llevan sesenta años.
 
 **Lección.** Sin una composición verificable, cualquier procedimiento, incluso impecable, sigue siendo la opinión particular de un grupo de personas respetables. Ese es exactamente el punto en que nos diferenciamos, y exactamente lo que perderemos si la composición deja de ser verificable.
 
@@ -615,7 +615,7 @@ De ahí: hace falta un texto constitutivo, y no unas condiciones de uso.
 
 *Una asociación ya no basta: sus estatutos los cambia su propia dirección.*
 
-**Paso cuarto.** El instrumento debe sobrevivir a su dueño y no ser comprable. Lo que se puede comprar se compra tarde o temprano, y el comprador hereda el derecho a medir. Ninguna institución cuyo capital es la confianza ha sobrevivido a un cambio de propietario conservando esa confianza.
+**Paso cuarto.** El instrumento debe sobrevivir a su dueño y no ser comprable. Lo que se puede comprar se compra tarde o temprano, y el comprador hereda el derecho a medir. Las instituciones cuyo capital es la confianza rara vez sobreviven a un cambio de propietario conservando esa confianza.
 
 De ahí: el instrumento no debe tener dueño. Es decir, deben poseerlo los participantes. Es decir, es autogobierno.
 
@@ -639,18 +639,18 @@ Afirmamos solo lo que se ve de la deducción misma: **estas cinco propiedades no
 
 **El pueblo no es una decisión tomada antes del instrumento. Es aquello con lo que topa el instrumento si se lo construye correctamente.**
 
-### Y por qué no un movimiento
+### Y por qué no un movimiento social
 
 La misma conclusión se ve más breve en la comparación con la forma conocida más cercana.
 
-|  | Movimiento | Pueblo |
+|  | Movimiento social | Pueblo |
 |---|---|---|
 | Composición | apoyo declarado, no verificable por naturaleza | reconocimiento mutuo, y es bilateral y por eso contable |
 | Duración | hasta que se resuelve su cuestión; se agota con la victoria o con la derrota | no se agota con una cuestión, no se puede esperar a que pase |
 | Geografía | nacional; lo internacional, como red de lo nacional | en todas las jurisdicciones a la vez y en ninguna por separado |
-| Cualidad jurídica | no es titular del derecho de libre determinación ni lo será | titular, si los rasgos llegan a acreditarse; la cuestión está abierta |
+| Cualidad jurídica | no es titular del derecho de libre determinación | titular, si los rasgos llegan a acreditarse; la cuestión está abierta |
 
-Las tres filas de arriba no dependen de cómo acabe la cuarta.
+Se habla aquí del movimiento social. Los movimientos de liberación nacional son otra categoría jurídica: su posición se formó en la descolonización, y se los reconocía precisamente como quienes actúan en nombre de pueblos que ejercen la libre determinación. Las tres filas de arriba no dependen de cómo acabe la cuarta.
 
 ### Cinco razones, cada una de un género distinto
 
@@ -857,9 +857,9 @@ Afirmamos que Earthlings es verificable, y esa afirmación solo tiene sentido cu
 
 La lista completa de lo que se ha declarado como principio pero todavía no está hecho - incluidas la verificación inconclusa del contrato, los derechos de propietario sin separar y la falta de multisig en el monedero de la caja común - está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html). Preferimos nombrar esos puntos nosotros mismos y no dejarlos como hallazgo para quien nos revise.
 
-## 21. Los indicadores que nos comprometemos a publicar
+## 21. Los indicadores por los que se nos debe juzgar
 
-Para que las promesas del presente documento se puedan verificar y no haya que aceptarlas por fe, nombramos los indicadores por los que se nos debe juzgar. Ninguno de ellos es publicitario, y en varios de ellos vamos a quedar mal a ciencia cierta en los primeros años.
+Para que lo aquí descrito se pueda verificar y no haya que aceptarlo por fe, nombramos los indicadores por los que se nos debe juzgar. La obligación de publicar la participación sobre quienes tenían derecho a voto está establecida en el artículo 8 bis de la [Carta](https://earth-lings.org/documents/es/es05-carta.html); los demás indicadores el presente documento no los establece ni puede establecerlos - los propone como una medida que él mismo se aplica. Ninguno de ellos es publicitario, y en varios de ellos vamos a quedar mal a ciencia cierta en los primeros años.
 
 | Indicador | Por qué este |
 |---|---|
@@ -882,7 +882,7 @@ Para que las promesas del presente documento se puedan verificar y no haya que a
 
 **Aquí no hay probabilidades.** No sabemos cuál de los escalones se alcanzará ni si se alcanzará alguno.
 
-**Aquí no hay promesa de resultado.** El pueblo se compromete a llevar este trabajo de forma constante y abierta, rindiendo cuentas de él ante los participantes. No se compromete a lograr un resultado: el reconocimiento no está en su poder, y la existencia del pueblo no depende del reconocimiento.
+**Aquí no hay promesa de resultado.** Aquello a lo que el pueblo está vinculado y aquello a lo que no lo está lo establece el artículo 7 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), y aquí no lo reproducimos, para que la norma conserve una sola fuente. En breve: el reconocimiento no está en su poder, y la existencia del pueblo no depende del reconocimiento.
 
 **Y aquí no hay ni una sola afirmación de la que dependa algo hoy.** La infraestructura está construida, el período constituyente está en marcha, la Declaración se somete a votación. Si no se sube ninguno de los escalones aquí descritos, eso no anulará nada de lo ya hecho ni dejará sin sentido nada de aquello por lo que las personas se eligieron unas a otras.
 
@@ -904,7 +904,7 @@ Los hechos citados en el texto:
 - Cese de la publicación de la clasificación Doing Business por el Banco Mundial, septiembre de 2021 - [comunicado](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
 - Procedimiento de preparación y aprobación de los informes del Grupo Intergubernamental de Expertos sobre el Cambio Climático - [procedimientos del IPCC](https://www.ipcc.ch/about/procedures/)
 - Principios de trabajo del Grupo de Trabajo de Ingeniería de Internet, incluida la fórmula «consenso aproximado y código que funciona» - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
-- La Asamblea Ciudadana de Irlanda de 2016-2018 y la Convención Constitucional de 2012-2014 - [materiales de la asamblea](https://citizensassembly.ie/). Fechas y resultados de los referendos: 22 de mayo de 2015 (matrimonio entre personas del mismo sexo), 25 de mayo de 2018 (trigésima sexta enmienda, 66,4 por ciento con una participación del 64,1)
+- La Asamblea Ciudadana de Irlanda de 2016-2018 y la Convención Constitucional de 2012-2014 - [materiales de la asamblea](https://citizensassembly.ie/). Fechas y resultados de los referendos: 22 de mayo de 2015 (matrimonio entre personas del mismo sexo), 25 de mayo de 2018 (trigésima sexta enmienda, por la que se derogó la octava, 66,4 por ciento con una participación del 64,1)
 - Datos sobre personas desplazadas por la fuerza y apátridas a finales de 2025 - [estadísticas del ACNUR](https://www.unhcr.org/refugee-statistics/)
 - Medida cautelar de la Agencia Española de Protección de Datos respecto de Tools for Humanity, 6 de marzo de 2024 - [nota de la AEPD](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - Resolución de la Autoridad Nacional de Protección de Datos de Brasil PR/ANPD núm. 18/2025, de 25 de marzo de 2025, por la que se desestima el recurso y se mantiene la prohibición - [sitio de la ANPD](https://www.gov.br/anpd/)

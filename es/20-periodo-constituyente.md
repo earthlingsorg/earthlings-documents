@@ -10,7 +10,7 @@ Por eso los Earthlings empiezan con un período constituyente.
 
 Hoy la Declaración existe como versión inicial, preparada para constituir el pueblo. Expresa los principios sobre los que proponemos crearlo, pero todavía no es el acto constitutivo definitivo.
 
-**No está abierta solo la Declaración.** Está abierto a propuestas todo el corpus: veinticinco documentos que describen al pueblo por entero: la Carta con sus procedimientos y umbrales, la arquitectura de la caja y de la unidad de cuenta, el procedimiento de verificación de identidad, el trabajo de las células, la hoja de ruta, la ética, la base jurídica. La Declaración es la principal entre ellos, pero por sí sola no describe al pueblo: establece los fundamentos y los límites, y cómo funciona todo eso día a día está escrito en los demás.
+**No está abierta solo la Declaración.** Está abierto a propuestas todo el corpus: veintiséis documentos que describen al pueblo por entero: la Carta con sus procedimientos y umbrales, la arquitectura de la caja y de la unidad de cuenta, el procedimiento de verificación de identidad, el trabajo de las células, la hoja de ruta, la ética, la base jurídica. La Declaración es la principal entre ellos, pero por sí sola no describe al pueblo: establece los fundamentos y los límites, y cómo funciona todo eso día a día está escrito en los demás.
 
 Lo decimos de manera expresa porque de otro modo se crea la falsa impresión de que se invita a enmendar un texto y los demás se traerán ya hechos. No: se puede enmendar cualquier documento del corpus. Lo que difiere no es el derecho de una persona a presentar una propuesta, sino lo que ocurre después con la propuesta aceptada; de eso trata la sección 02.
 
@@ -32,7 +32,7 @@ Queremos así que los Earthlings no se creen para las personas, sino **por las p
 
 **Estado actual.** La infraestructura del pueblo Earthlings está construida y funciona: verificación de identidad, pasaporte, registro, votación, caja pública. Lo que no está adoptado es el texto constitutivo.
 
-Del 7 de septiembre al 6 de diciembre de 2026 está abierto a propuestas todo el corpus: la Declaración, la Carta y los otros veintitrés documentos. Puede presentarlas cualquier persona. El 3 de enero de 2027 el texto se aprueba por votación de quienes hayan verificado su identidad. Desde ese día los cinco principios del núcleo intangible ya no se derogan nunca, y el resto del texto lo modifica únicamente el propio pueblo y solo en dirección a una mayor protección de la persona.
+Del 7 de septiembre al 6 de diciembre de 2026 está abierto a propuestas todo el corpus: la Declaración, la Carta y los otros veinticuatro documentos. Puede presentarlas cualquier persona. El 3 de enero de 2027 el texto se aprueba por votación de quienes hayan verificado su identidad. Desde ese día los cinco principios del núcleo intangible ya no se derogan nunca, y el resto del texto lo modifica únicamente el propio pueblo y solo en dirección a una mayor protección de la persona.
 
 ## 01. Por qué lo hacemos así
 

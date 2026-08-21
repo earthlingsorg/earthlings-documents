@@ -10,7 +10,7 @@ Los documentos constitutivos del proyecto describen ese modelo como la arquitect
 
 La arquitectura de Earthlings está diseñada como un sistema institucional unitario, y no ensamblada con componentes ya hechos. Para relacionarse con el sistema jurídico existente, el pueblo emplea, a través de representantes autorizados, estructuras jurídicas inscritas y otros instrumentos jurídicos: interfaces externas de relación sustituibles. El pueblo mismo se gobierna mediante su propia infraestructura DAO.
 
-Veinticinco documentos fundacionales en nueve lenguas, la identidad on-chain y una caja públicamente verificable constituyen el estado institucional actual de Earthlings. El ciclo operativo completo lo aseguran cuatro plataformas de producción desplegadas desde abril de 2025:
+Veintiséis documentos fundacionales en nueve lenguas, la identidad on-chain y una caja públicamente verificable constituyen el estado institucional actual de Earthlings. El ciclo operativo completo lo aseguran cuatro plataformas de producción desplegadas desde abril de 2025:
 
 - los documentos constitutivos;
 - la identificación biométrica y la emisión de pasaportes SBT;
@@ -162,4 +162,4 @@ Toda la infraestructura institucional de Earthlings está disponible para su ver
 
 - Contrato inteligente SBT en Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - Caja Safe Multisig en Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- Corpus documental: 25 documentos institucionales en nueve lenguas ([todos los documentos](/ru/)).
+- Corpus documental: 26 documentos institucionales en nueve lenguas ([todos los documentos](/ru/)).

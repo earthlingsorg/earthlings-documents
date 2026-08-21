@@ -18,7 +18,7 @@ The section stands first deliberately: it defines what this document is within t
 
 **This document establishes nothing.** It creates no rights and imposes no duties, confers no powers and limits none, permits nothing and forbids nothing. Nothing enforceable follows from it. No provision of any other document of the corpus rests on it or can rest on it.
 
-**It explains and it supposes.** All the other documents of the corpus describe what is, or establish what ought to be. This one is the only one that also speaks of what does not yet exist: of rungs, not one of which has been climbed as of today, and of possibilities, not one of which is promised. Section 19 lists nine ways in which all of this may fail to come about, and section 20 states what has been built and what does not yet exist.
+**It explains and it supposes.** All the other documents of the corpus describe what is, or establish what ought to be. This one also speaks of what does not yet exist: of rungs, not one of which has been climbed as of today, and of possibilities, not one of which is promised. Section 19 lists nine ways in which all of this may fail to come about, and section 20 states what has been built and what does not yet exist.
 
 **Binding force belongs to the Declaration and the Charter.** Where this document diverges from either of them, they apply. A divergence discovered is removed by correcting this document, not the Declaration and not the Charter. The interpretation of this document can neither lower a guarantee to the person nor extend the powers of the people or of any of its institutions.
 
@@ -74,7 +74,7 @@ A body with those properties is what we propose to regard as a people. This is o
 
 ### How it gains weight
 
-By rungs, and the first of them require no one's permission: the first incontestable measurement, citation by third parties, a public chronicle of non-answers. After that comes what no longer depends on us: a position being asked for instead of materials being submitted, embedding in other people's procedures, and one day a norm.
+By rungs, and some of them require no one's permission: the first incontestable measurement, the opponent using the same instrument, a public chronicle of non-answers. After that comes what no longer depends on us alone: citation by third parties, a position being asked for instead of materials being submitted, embedding in other people's procedures, and one day a norm.
 
 The decisive threshold is not one of size. It comes on the day when the opposing side cites a measurement because it supports their own argument: from that moment the instrument stops being ours and becomes common.
 
@@ -100,7 +100,7 @@ Section 20 states what of what is described has already been built and what has 
 
 ### And where to go next
 
-This document establishes nothing. The rights of the person, the guarantees to them and the limits of the power of the people itself are written in the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): it is the only text that binds, and the only one put to a vote. **If one document is to be read out of the whole corpus, it must be that one.**
+This document establishes nothing. The rights of the person, the guarantees to them and the limits of the power of the people itself are written in the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): it is the text of the corpus holding the highest force, and the only one put to a vote. **If one document is to be read out of the whole corpus, it must be that one.**
 
 What follows here is the same thing in detail: what proves each assertion, how each procedure works, and what we do not guarantee.
 
@@ -217,7 +217,7 @@ From this comes the formula that is perhaps the only thing in the whole document
 
 Anyone can be heard today. No one can be counted.
 
-And at once the caveat without which this word is dangerous. **The instrument is a procedure, not people.** It is not the person who is measured: the person answers or does not answer, of their own will, and the answer belongs to them. What we call the instrument is the order by which answers are collected and verified - the question, the deadline, the registry, the signature, the publication. The people is an instrument for no one, itself included: an instrument is what it builds, not what it is. Anything else would contradict Article 10 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), where the dignity of the person is called inalienable, and the person is called not a means.
+And at once the caveat without which this word is dangerous. **The instrument is a procedure, not people.** It is not the person who is measured: the person answers or does not answer, of their own will, and the answer belongs to them. What we call the instrument is the order by which answers are collected and verified - the question, the deadline, the registry, the signature, the publication. The people is an instrument for no one, itself included: an instrument is what it builds, not what it is. Anything else would contradict Article 10 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), where the dignity of the person is called inviolable, and the person is called not a means.
 
 ## 5. Five properties of a tool that cannot be ignored
 
@@ -277,13 +277,13 @@ Ireland twice changed its constitution as a result of the work of bodies that he
 
 The Constitutional Convention of 2012-2014 recommended allowing same-sex marriage - at the referendum of 22 May 2015 this was adopted by 62 per cent of those voting. The Citizens' Assembly, constituted by parliament in July 2016 and concluding its work in the spring of 2018, recommended repealing the Eighth Amendment - at the referendum of 25 May 2018, 66.4 per cent voted for repeal on a turnout of 64.1 per cent.
 
-In both cases the composition - ninety-nine people - was selected by lot from the population; the participants studied the question for several months, listened to specialists and to both sides, discussed publicly and voted.
+The compositions were selected differently, and the difference is instructive. Of the hundred members of the Convention, sixty-six were citizens chosen by lot, thirty-three were serving politicians, and the hundredth was an appointed chairman. The Citizens' Assembly went further: its ninety-nine participants were selected by lot every one of them, there were no politicians in the composition at all, and the chair was appointed separately. In both cases the participants studied the question for several months, listened to specialists and to both sides, discussed publicly and voted.
 
 **The lesson.** Legitimacy is conferred not by election but by a transparent procedure of selection and open discussion. People selected at random, having got to grips with the question, turned out to be more convincing to society than elected politicians.
 
 ### And the counter-example that has to be known
 
-The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal created in its wake delivered carefully prepared findings on the gravest questions. Their composition was self-appointed, their representativeness in no way established, their powers absent. Morally they are respected. Politically they are ignored completely, and have been for sixty years now.
+The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal established twelve years later delivered carefully prepared findings on the gravest questions. Their composition was self-appointed, their representativeness in no way established, their powers absent. Morally they are respected. Politically they are ignored completely, and have been for sixty years now.
 
 **The lesson.** Without a verifiable composition, any procedure, even a flawless one, remains the private opinion of a group of respected people. That is exactly the place where we differ - and exactly what we shall lose if the composition ceases to be verifiable.
 
@@ -615,7 +615,7 @@ Hence: a founding text is needed, not a user agreement.
 
 *An association is no longer enough: its own governing body amends its statute.*
 
-**Step four.** The instrument must outlive its owner and must not be purchasable. What can be bought is bought sooner or later, and the buyer inherits the right to measure. Not one institution whose capital is trust has survived a change of owner with that trust intact.
+**Step four.** The instrument must outlive its owner and must not be purchasable. What can be bought is bought sooner or later, and the buyer inherits the right to measure. Institutions whose capital is trust rarely survive a change of owner with that trust intact.
 
 Hence: the instrument must have no owner. Which means the participants must own it. Which means self-governance.
 
@@ -639,18 +639,18 @@ We assert only what is visible from the derivation itself: **these five properti
 
 **A people is not a decision taken before the instrument. It is what the instrument runs up against, if it is built properly.**
 
-### And why not a movement
+### And why not a social movement
 
 The same conclusion is seen more briefly in a comparison with the nearest familiar form.
 
-| | A movement | A people |
+| | A social movement | A people |
 |---|---|---|
 | Composition | declared support, unverifiable by nature | mutual recognition, which is two-sided and therefore countable |
 | Term | until its own question is resolved; exhausted by victory or defeat | not exhausted by a question, cannot be waited out |
 | Geography | national; international as a network of national ones | in all jurisdictions at once and in none of them separately |
-| Legal quality | is not and will not become a bearer of the right to self-determination | a bearer, if the features are established; the question is open |
+| Legal quality | is not a bearer of the right to self-determination | a bearer, if the features are established; the question is open |
 
-The three upper rows do not depend on how the fourth turns out.
+What is meant here is a social movement. National liberation movements are a different legal category: their position took shape in decolonization, and they were recognized precisely as speaking on behalf of peoples exercising self-determination. The three upper rows do not depend on how the fourth turns out.
 
 ### Five reasons, each of its own kind
 
@@ -857,9 +857,9 @@ We assert that Earthlings is verifiable, and that assertion has meaning only whe
 
 The full list of what is declared as a principle but not yet done - including the unfinished verification of the contract, the undivided owner rights and the absence of a multisig on the treasury wallet - is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html). We prefer to name these places ourselves rather than leave them as a find for an inspector.
 
-## 21. The indicators we undertake to publish
+## 21. The indicators by which we should be judged
 
-So that the undertakings of this document can be checked rather than taken on faith, we name the indicators by which we should be judged. Not one of them is promotional, and on several of them we shall certainly look bad in the first years.
+So that what is described here can be checked rather than taken on faith, we name the indicators by which we should be judged. The obligation to publish the share of those who voted out of those entitled to vote is established by Article 8 bis of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); the remaining indicators this document does not establish and cannot establish - it offers them as a measure that it turns upon itself. Not one of them is promotional, and on several of them we shall certainly look bad in the first years.
 
 | Indicator | Why it is there |
 |---|---|
@@ -882,7 +882,7 @@ So that the undertakings of this document can be checked rather than taken on fa
 
 **There are no probabilities here.** We do not know which of the rungs will be reached, or whether even one will be.
 
-**There is no promise of a result here.** The people undertakes to carry on this work continuously and openly, accounting for it to its participants. It does not undertake to achieve a result: recognition is not within its power, and the existence of the people does not depend on recognition.
+**There is no promise of a result here.** What the people is bound by and what it is not bound by is established by Article 7 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and we do not reproduce it here, so that the norm keeps a single source. In short: recognition is not within its power, and the existence of the people does not depend on recognition.
 
 **And there is not a single assertion here on which anything depends today.** The infrastructure is built, the founding period is under way, the Declaration is being put to a vote. If not one of the rungs described here is climbed, that will annul nothing of what has already been done and will make meaningless nothing of what people chose one another for.
 
@@ -904,7 +904,7 @@ The facts given in the text:
 - The discontinuation of the Doing Business ranking by the World Bank, September 2021 - [statement](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
 - The procedure for preparing and approving the reports of the Intergovernmental Panel on Climate Change - [IPCC procedures](https://www.ipcc.ch/about/procedures/)
 - The working principles of the Internet Engineering Task Force, including the formula "rough consensus and running code" - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
-- The Citizens' Assembly of Ireland of 2016-2018 and the Constitutional Convention of 2012-2014 - [assembly materials](https://citizensassembly.ie/). Dates and results of the referendums: 22 May 2015 (same-sex marriage), 25 May 2018 (the Thirty-sixth Amendment, 66.4 per cent on a turnout of 64.1)
+- The Citizens' Assembly of Ireland of 2016-2018 and the Constitutional Convention of 2012-2014 - [assembly materials](https://citizensassembly.ie/). Dates and results of the referendums: 22 May 2015 (same-sex marriage), 25 May 2018 (the Thirty-sixth Amendment, by which the Eighth was repealed, 66.4 per cent on a turnout of 64.1)
 - Data on the forcibly displaced and on stateless persons at the end of 2025 - [UNHCR statistics](https://www.unhcr.org/refugee-statistics/)
 - The precautionary measure of the Spanish Data Protection Agency with respect to Tools for Humanity, 6 March 2024 - [AEPD announcement](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - Decision PR/ANPD No. 18/2025 of the National Data Protection Authority of Brazil of 25 March 2025 rejecting the appeal and maintaining the prohibition - [ANPD website](https://www.gov.br/anpd/)

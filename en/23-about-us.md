@@ -10,7 +10,7 @@ The project's founding documents describe this model as the architecture of a so
 
 The architecture of Earthlings is designed as a single institutional system rather than assembled from off-the-shelf components. For engagement with the existing legal system the people, through authorized representatives, uses registered legal structures and other legal instruments - replaceable external interfaces for engagement. The people itself is governed through its own DAO infrastructure.
 
-Twenty-five founding documents in nine languages, an on-chain identity, and a publicly verifiable treasury make up Earthlings in its current institutional state. The full operational cycle is covered by four production sites, deployed from April 2025 onward:
+Twenty-six founding documents in nine languages, an on-chain identity, and a publicly verifiable treasury make up Earthlings in its current institutional state. The full operational cycle is covered by four production sites, deployed from April 2025 onward:
 
 - the founding documents;
 - biometric identification and the issuance of SBT passports;
@@ -162,4 +162,4 @@ The entire institutional infrastructure of Earthlings is available for public ve
 
 - The SBT smart contract on Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - The Safe Multisig treasury on Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- The documentary corpus: 25 institutional documents in nine languages ([all documents](/en/)).
+- The documentary corpus: 26 institutional documents in nine languages ([all documents](/en/)).
