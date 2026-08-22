@@ -83,11 +83,24 @@ BANDS = [
     # Полоса платформы: слева текст из документа 12, справа живой тур, под
     # ними тринадцать карточек. Карточки прямые намеренно.
     ('mist',  'platform', [8, 9],     u'Платформа не является социальной'),
+    # Сразу за платформой - чем она подтверждается. Человек только что видел
+    # работающее приложение; здесь сказано, что именно построено и где точная
+    # граница проверяемости. Полоса отвечает на вопрос, которого на главной
+    # не было вовсе: «а это вообще работает или это обещание?»
+    ('white', 'state',    [],        u''),
+    # Три возражения перед самым решением. Место выбрано намеренно: вопрос
+    # «это вообще законно?» возникает раньше, но отвечать на него имеет смысл
+    # тогда, когда человек уже понял, о чём речь, и стоит перед кнопкой.
+    ('mist',  'objections', [],      u''),
     # Awakened Code живьём, во всю полосу. Полоса белая (решение Артура
     # 2026-08-22). Прежде она была тёмно-синей под цвет его чёрного экрана;
-    # теперь экран стоит по центру во всю ширину окна и держит полосу сам, а
-    # тёмная подложка вокруг него только спорила бы с ним.
+    # теперь экран стоит во всю ширину полосы и держит её сам, а тёмная
+    # подложка вокруг него только спорила бы с ним.
     ('white', 'awakened', [],        u''),
+    # Последняя полоса - одно действие и ничего кроме. Дочитавший до конца
+    # человек самый готовый из всех, кто открыл страницу, и до сих пор ему
+    # нечего было нажать: «Вступить» стояло дважды, и оба раза в середине.
+    ('navy',  'join',     [],        u''),
 ]
 
 # Крупная строка плаката: документ 02 «Гражданский голос», блок 243.
@@ -106,6 +119,46 @@ BANDS = [
 POSTER_LINE_DOC = '02'
 POSTER_LINE_BLOCK = 244
 POSTER_LINE_ANCHOR = u'> Мы не обещаем, что вас услышат'
+
+# --- полоса «Возражения и ответы» -----------------------------------------
+#
+# Три возражения из мастера 26 и по два абзаца ответа на каждое. Номера
+# блоков, а не поиск по тексту: заголовки возражений правят чаще, чем состав
+# документа, и поиск по строке ломался бы на первой же правке. Ответы у
+# третьего возражения стоят далеко от вопроса - это не опечатка: в мастере
+# между ними разбор трёх причин, по которым DAO скатываются в плутократию, и
+# на главную идут признание и то, чем устроено иначе.
+#
+# Выбраны те три, которые человек задаёт себе сам, впервые открыв страницу:
+# это новое государство? вы подрываете мою страну? это очередной криптопроект?
+OBJECTIONS = [
+    (17, [18, 19], u'### Это сетевое государство'),
+    (24, [25, 26], u'### Вы подрываете суверенитет'),
+    (35, [36, 43], u'### Это очередная DAO'),
+]
+
+# --- полоса «Где мы сейчас» -----------------------------------------------
+#
+# Первый абзац из мастера 23: что построено и развёрнуто. Второй и третий из
+# мастера 32: точная граница проверяемости и то, что закрытые части не
+# определяют ни кто такой earthling, ни как считается голос.
+#
+# Два мастера, а не один, потому что утверждение и его проверка живут в
+# разных документах, и сводить их пересказом на главной нельзя. Оба номера
+# проверяются якорем и числом блоков - как все остальные.
+STATE_BUILT_DOC, STATE_BUILT = '23', [9]
+STATE_BUILT_ANCHOR = u'Инфраструктура самоуправления'
+STATE_CHECK_DOC, STATE_CHECK = '32', [4, 11]
+STATE_CHECK_ANCHOR = u'Мы утверждаем, что Earthlings проверяем'
+
+# --- финальная полоса ------------------------------------------------------
+#
+# Строка над кнопкой - блок 15 мастера 23. Это ЗАГЛУШКА до решения Артура: он
+# сказал, что подумает, как назвать кнопку и что написать под ней. Строка
+# выбрана из корпуса, а не сочинена, чтобы страница до его решения не
+# говорила ничего от себя.
+JOIN_DOC, JOIN_BLOCK = '23', [15]
+JOIN_ANCHOR = u'Earthlings предлагает не манифест'
 
 # Что перечислено в правовой полосе. Порядок - от общего к частному.
 LEGAL_DOCS = ['30', '04', '05', '26']
@@ -467,6 +520,104 @@ def ladder(lang):
     return u'\n'.join(o)
 
 
+def objections(theme, lang):
+    u"""Полоса «Возражения и ответы»: три возражения и ответы на них.
+
+    Возражения набраны вопросами, ответы - абзацами под ними. Разметка
+    <dl>/<dt>/<dd>, а не заголовки с абзацами: это в буквальном смысле список
+    определений - на каждый пункт свой ответ, - и читалка озвучивает его как
+    пары, а не как разделы документа.
+
+    Текст дословный. Пересказывать возражение своими словами здесь было бы
+    хуже всего: возражение, пересказанное тем, кто на него отвечает, всегда
+    выходит слабее исходного, и это видно.
+    """
+    bs = blocks(doc_master('26', lang))
+    ru = blocks(doc_master('26', 'ru'))
+    assert len(bs) == len(ru), (
+        u'мастер 26 (%s) состоит из %d блоков, а русский - из %d: возражения '
+        u'собрались бы из чужих абзацев' % (lang, len(bs), len(ru)))
+
+    items = []
+    for q, answers, anchor in OBJECTIONS:
+        got = ru[q - 1]
+        assert got.startswith(anchor), (
+            u'возражение №%d мастера 26 начинается на %r, а ожидалось %r. '
+            u'Мастер правили - выберите номера заново.' % (q, got[:60], anchor))
+        question = re.sub(r'^#+\s*', '', bs[q - 1]).strip()
+        assert question and not question.startswith('#'), (
+            u'блок %d мастера 26 (%s) - не заголовок возражения: %r'
+            % (q, lang, bs[q - 1][:60]))
+        ps = []
+        for a in answers:
+            assert is_prose(bs[a - 1]), (
+                u'блок %d мастера 26 (%s) - не абзац ответа, а %r'
+                % (a, lang, bs[a - 1][:60]))
+            ps.append(bs[a - 1])
+        items.append((question, ps))
+    assert len(items) == 3, u'возражений должно быть три, а вышло %d' % len(items)
+
+    li = u''.join(
+        u'<dt class="objection-q">%s</dt><dd class="objection-a">%s</dd>'
+        % (md_inline(q), u''.join(u'<p>%s</p>' % md_inline(p) for p in ps))
+        for q, ps in items)
+
+    return u'\n'.join([
+        u'<section class="band band--%s band--objections">' % theme,
+        u'<div class="band-in">',
+        u'<h2 class="band-title">%s</h2>'
+        % C.esc(title_of(doc_master('26', lang))),
+        u'<dl class="objections">%s</dl>' % li,
+        u'<a class="band-more" href="%s">%s</a>'
+        % (C.esc(doc_href('26', lang)), C.esc(C.x(lang, 'all_objections'))),
+        u'</div></section>',
+    ])
+
+
+def state(theme, lang):
+    u"""Полоса «Где мы сейчас»: что построено и что можно проверить самому.
+
+    Стоит сразу за платформой не случайно. Человек только что видел на экране
+    работающее приложение - и полоса называет работающим то, что он видел, и
+    тут же ставит границу: вот что открыто, вот что закрыто, и ни одна
+    закрытая часть не решает, кто такой earthling и как считается голос.
+
+    Ссылка ведёт в документ 32, а не в 23: проверять человек пойдёт туда, где
+    описан способ проверки, а не туда, где сказано, что всё построено.
+    """
+    assert has_doc(STATE_BUILT_DOC, lang) and has_doc(STATE_CHECK_DOC, lang), (
+        u'нет документов %s или %s на языке %s'
+        % (STATE_BUILT_DOC, STATE_CHECK_DOC, lang))
+    ps = (lead(load, STATE_BUILT_DOC, STATE_BUILT, STATE_BUILT_ANCHOR, lang)
+          + lead(load, STATE_CHECK_DOC, STATE_CHECK, STATE_CHECK_ANCHOR, lang))
+    return band(theme, title_of(doc_master(STATE_CHECK_DOC, lang)), ps,
+                more=(C.x(lang, 'verify_yourself'),
+                      doc_href(STATE_CHECK_DOC, lang)))
+
+
+def join(theme, lang):
+    u"""Последняя полоса: одна строка и одна кнопка.
+
+    Ни заголовка, ни ссылки «читать целиком» здесь нет намеренно. Всё, что
+    можно было прочитать, человек уже прошёл; на последнем экране у него
+    должно остаться одно действие, а не выбор из двух.
+
+    Строка над кнопкой - ЗАГЛУШКА (блок 15 мастера 23) до решения Артура о
+    том, как назвать кнопку и что написать под ней.
+    """
+    assert has_doc(JOIN_DOC, lang), u'нет документа %s на языке %s' % (
+        JOIN_DOC, lang)
+    line = lead(load, JOIN_DOC, JOIN_BLOCK, JOIN_ANCHOR, lang)[0]
+    return u'\n'.join([
+        u'<section class="band band--%s band--join">' % theme,
+        u'<div class="band-in">',
+        u'<p class="join-line">%s</p>' % md_inline(line),
+        u'<a class="band-cta" href="%s">%s</a>'
+        % (C.esc(C.CTA_URL % lang), C.esc(C.t(lang, 'nav.become_earthling'))),
+        u'</div></section>',
+    ])
+
+
 def poster_line(lang):
     u"""Крупная строка плаката: одна цитата из мастера документа 02.
 
@@ -686,7 +837,8 @@ def platform(theme, lang, title, lead_ps):
         u'<div class="band-lead">%s</div>'
         % u''.join(u'<p>%s</p>' % md_inline(p) for p in lead_ps),
         u'<a class="band-more" href="%s">%s</a>'
-        % (C.esc(doc_href('12', lang)), C.esc(C.x(lang, 'read_more'))),
+        % (C.esc(doc_href('12', lang)),
+           C.esc(C.x(lang, 'how_platform_works'))),
         u'<a class="band-cta" href="%s">%s</a>'
         % (C.esc(C.APP_URL % lang), C.esc(C.t(lang, 'nav.platform_btn'))),
         u'</div>',
@@ -793,7 +945,7 @@ def steps(theme, lang, lead_ps):
                    for num, name, text in items),
         u'<p class="steps-note">%s</p>' % md_inline(note),
         u'<a class="band-more" href="%s">%s</a>'
-        % (C.esc(doc_href('14', lang)), C.esc(C.x(lang, 'read_more'))),
+        % (C.esc(doc_href('14', lang)), C.esc(C.x(lang, 'about_joining'))),
         u'<a class="band-cta" href="%s">%s</a>'
         % (C.esc(C.CTA_URL % lang), C.esc(C.t(lang, 'nav.become_earthling'))),
         u'</div></section>',
@@ -833,9 +985,16 @@ def band(theme, title, lead, more=None, items=None, cta=None, extra=None):
     return '\n'.join(o)
 
 
+# Своя подпись ссылки у каждой полосы документа. Прежде все шесть говорили
+# «Читать целиком», и страница читалась оглавлением, а не путём: ссылка в
+# Декларацию, ссылка в сроки учредительного периода и ссылка в описание
+# платформы - три разных действия, и одно слово на всех стирало разницу.
+DOC_LINK = {'01': 'read_declaration', '20': 'rules_and_dates',
+            '14': 'what_passport_gives'}
+
+
 def build_index(lang):
     manifest = read_master(os.path.join(MANIFEST_DIR, '%s-manifest.md' % lang))
-    more = C.x(lang, 'read_more')
     bands = []
 
     for i, (theme, what, nums, anchor) in enumerate(BANDS):
@@ -843,6 +1002,12 @@ def build_index(lang):
             bands.append(reserved(theme, i + 1))
         elif what == 'awakened':
             bands.append(awakened(theme, lang))
+        elif what == 'objections':
+            bands.append(objections(theme, lang))
+        elif what == 'state':
+            bands.append(state(theme, lang))
+        elif what == 'join':
+            bands.append(join(theme, lang))
         elif what == 'steps':
             assert has_doc('14', lang), u'документа 14 нет на языке %s' % lang
             bands.append(steps(theme, lang,
@@ -855,7 +1020,7 @@ def build_index(lang):
             bands.append(poster(
                 theme, title_of(manifest), poster_line(lang),
                 lead(load, 'manifest', nums, anchor, lang),
-                (more, '/%s/manifest.html' % lang)))
+                (C.x(lang, 'read_manifesto'), '/%s/manifest.html' % lang)))
         elif what == 'legal':
             items = [(title_of(doc_master(d, lang)), doc_href(d, lang))
                      for d in LEGAL_DOCS if has_doc(d, lang)]
@@ -871,7 +1036,8 @@ def build_index(lang):
                    if num == '14' else None)
             bands.append(band(theme, title_of(md),
                               lead(load, num, nums, anchor, lang),
-                              more=(more, doc_href(num, lang)), cta=cta,
+                              more=(C.x(lang, DOC_LINK[num]),
+                                    doc_href(num, lang)), cta=cta,
                               extra=(langlist(lang) if num == '01' else
                                      timeline(lang) if num == '20' else None)))
 
