@@ -320,14 +320,25 @@ def wrap(lang, inner, url, title, desc, path, extra_css=()):
 
 def decl_title(lang):
     u"""Название Декларации на языке lang - из собранной страницы, а не из
-    мастера: мастера есть только у трёх языков, а слайдер показывает девять."""
+    мастера: мастера есть только у трёх языков, а слайдер показывает девять.
+
+    Мнемоники разворачиваются обратно в знаки. Источник - готовый HTML, и
+    апостроф лежит там как `&#x27;`. Без разворота его снова экранировали при
+    выводе, и по-французски на главной стояло «Declaration sur l&#x27;...» -
+    прямо так, знаками. Заметно это только на языках с апострофом в названии.
+    """
     import glob
+    import html
     f = glob.glob(os.path.join(SITE, 'documents', lang, '%s01*.html' % lang))
     assert f, u'нет собранной страницы %s01 - слайдеру нечего показать' % lang
     s = io.open(f[0], encoding='utf-8').read()
     m = re.search(r'<h1[^>]*>(.*?)</h1>', s, re.S)
     assert m, u'в %s нет заголовка h1' % f[0]
-    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', m.group(1))).strip()
+    t = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', m.group(1))).strip()
+    t = html.unescape(t)
+    assert '&' not in t or '&amp;' not in t, (
+        u'в названии Декларации (%s) осталась мнемоника: %r' % (lang, t))
+    return t
 
 
 def langslider(lang):
