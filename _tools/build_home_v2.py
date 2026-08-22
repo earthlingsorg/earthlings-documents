@@ -100,7 +100,12 @@ BANDS = [
     # Последняя полоса - одно действие и ничего кроме. Дочитавший до конца
     # человек самый готовый из всех, кто открыл страницу, и до сих пор ему
     # нечего было нажать: «Вступить» стояло дважды, и оба раза в середине.
-    ('navy',  'join',     [],        u''),
+    #
+    # Полоса голубая, а не тёмно-синяя (решение Артура 2026-08-22): подвал
+    # тёмно-синий, и на тёмном фоне полоса сливалась бы с ним в одну плиту.
+    # На голубом она остаётся отдельной, а между ней и подвалом снова стоит
+    # воздух.
+    ('mist',  'join',     [],        u''),
 ]
 
 # Крупная строка плаката: документ 02 «Гражданский голос», блок 243.
@@ -944,8 +949,7 @@ def steps(theme, lang, lead_ps):
                    % (C.esc(num), C.esc(name), md_inline(text))
                    for num, name, text in items),
         u'<p class="steps-note">%s</p>' % md_inline(note),
-        u'<a class="band-more" href="%s">%s</a>'
-        % (C.esc(doc_href('14', lang)), C.esc(C.x(lang, 'about_joining'))),
+
         u'<a class="band-cta" href="%s">%s</a>'
         % (C.esc(C.CTA_URL % lang), C.esc(C.t(lang, 'nav.become_earthling'))),
         u'</div></section>',
@@ -989,8 +993,10 @@ def band(theme, title, lead, more=None, items=None, cta=None, extra=None):
 # «Читать целиком», и страница читалась оглавлением, а не путём: ссылка в
 # Декларацию, ссылка в сроки учредительного периода и ссылка в описание
 # платформы - три разных действия, и одно слово на всех стирало разницу.
-DOC_LINK = {'01': 'read_declaration', '20': 'rules_and_dates',
-            '14': 'what_passport_gives'}
+# Документа 14 здесь нет намеренно: у его полосы ссылки не осталось вовсе,
+# только кнопка. Подписи what_passport_gives и about_joining лежат в chrome.py
+# неиспользованными - если ссылки вернут, их не придётся переводить заново.
+DOC_LINK = {'01': 'read_declaration', '20': 'rules_and_dates'}
 
 
 def build_index(lang):
@@ -1034,10 +1040,17 @@ def build_index(lang):
             md = doc_master(num, lang)
             cta = ((C.t(lang, 'nav.become_earthling'), C.CTA_URL % lang)
                    if num == '14' else None)
+            # У полосы «Путь earthling» ссылки «читать целиком» больше нет:
+            # решение Артура 2026-08-22 - вместо двух управляющих элементов,
+            # текстовой ссылки в документ и кнопки рядом, остаётся одна
+            # кнопка «Вступить». Документ 14 из тела страницы этим уходит:
+            # он остаётся в меню, но с главной на него больше ничего не
+            # ведёт - и то же самое случилось с полосой «Шесть шагов».
             bands.append(band(theme, title_of(md),
                               lead(load, num, nums, anchor, lang),
-                              more=(C.x(lang, DOC_LINK[num]),
-                                    doc_href(num, lang)), cta=cta,
+                              more=(None if num == '14' else
+                                    (C.x(lang, DOC_LINK[num]),
+                                     doc_href(num, lang))), cta=cta,
                               extra=(langlist(lang) if num == '01' else
                                      timeline(lang) if num == '20' else None)))
 
