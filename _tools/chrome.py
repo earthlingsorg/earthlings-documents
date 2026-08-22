@@ -119,6 +119,12 @@ EXTRA = {
              'fr': u'Aller au contenu', 'zh': u'跳到主要内容',
              'ar': u'تخطي إلى المحتوى', 'hi': u'मुख्य सामग्री पर जाएँ',
              'ka': u'გადასვლა შიგთავსზე'},
+    # Ссылка с полосы Awakened Code. Не «читать целиком»: там не текст, а
+    # отдельная работающая страница со своей бегущей строкой и лентами эссе,
+    # и звать её «прочитать» неточно.
+    'open_site': {'ru': u'Перейти', 'en': u'Open', 'es': u'Abrir',
+                  'de': u'Öffnen', 'fr': u'Ouvrir', 'zh': u'前往',
+                  'ar': u'انتقال', 'hi': u'खोलें', 'ka': u'გახსნა'},
     # Ссылка с полосы главной на полный текст.
     'read_more': {'ru': u'Читать целиком', 'en': u'Read in full',
                   'es': u'Leer completo', 'de': u'Vollständig lesen',
@@ -211,10 +217,13 @@ def header_html(lang, doc_href, lang_url, home_url=None, has_doc=None,
     a(u'<a class="skip" href="#main">%s</a>' % esc(x(lang, 'skip')))
     a(u'<header class="hdr">')
     a(u'<div class="hdr-in">')
+    # Слово впереди, знак за ним - решение Артура 2026-08-22. Порядок в
+    # разметке, а не через order в CSS: так его слышит и читалка, и
+    # перестановка не разъезжается с тем, что видно глазом.
     a(u'<a class="brand" href="%s">'
-      u'<img src="/images/logo-sm.webp" alt="Earthlings" width="40" height="40" '
-      u'decoding="async">'
-      u'<span class="brand-name">Earthlings</span></a>' % esc(home))
+      u'<span class="brand-name">Earthlings</span>'
+      u'<img src="/images/logo-sm.webp" alt="" width="59" height="59" '
+      u'decoding="async"></a>' % esc(home))
 
     # Бургер. На широком экране раскрыт всегда - это делает CSS, а не скрипт.
     a(u'<details class="burger">')
@@ -242,8 +251,7 @@ def header_html(lang, doc_href, lang_url, home_url=None, has_doc=None,
         # через aria-current, этого достаточно.
         here = u' nav-item--here' if active_doc in [n for _, n in live] else u''
         a(u'<li class="nav-item%s"><details class="dd">' % here)
-        a(u'<summary class="nav-link">%s<span class="caret" aria-hidden="true">'
-          u'</span></summary>' % esc(t(lang, key)))
+        a(u'<summary class="nav-link">%s</summary>' % esc(t(lang, key)))
         a(u'<ul class="dd-list">')
         for k, n in live:
             cur = u' aria-current="page"' if n == active_doc else u''
@@ -262,8 +270,7 @@ def header_html(lang, doc_href, lang_url, home_url=None, has_doc=None,
     # перезагружает страницу из JS, и связей между языковыми версиями в HTML
     # нет вообще: поисковик знает о них только из hreflang.
     a(u'<details class="dd dd--lang">')
-    a(u'<summary class="act-link" aria-label="%s">%s'
-      u'<span class="caret" aria-hidden="true"></span></summary>'
+    a(u'<summary class="act-link" aria-label="%s">%s</summary>'
       % (esc(x(lang, 'lang_switcher')), lang.upper()))
     a(u'<ul class="dd-list dd-list--lang">')
     for code in ALL_LANGS:
@@ -273,8 +280,9 @@ def header_html(lang, doc_href, lang_url, home_url=None, has_doc=None,
              u' dir="rtl"' if code in RTL else u'', cur, esc(LANG_LABEL[code])))
     a(u'</ul></details>')
 
-    a(u'<a class="cta" href="%s">%s</a>'
-      % (CTA_URL % lang, esc(t(lang, 'nav.become_earthling'))))
+    # Кнопки «Вступить» в шапке больше нет (решение Артура 2026-08-22):
+    # то же действие стоит на полосе «Путь earthling», и держать его в
+    # двух местах значит спрашивать дважды об одном.
     a(u'</div>')       # hdr-acts
     a(u'</div>')       # hdr-body
     a(u'</details>')   # burger
