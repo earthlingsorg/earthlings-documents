@@ -166,11 +166,19 @@ EXTRA = {
                            'zh': u'平台如何运作', 'ar': u'كيف تعمل المنصة',
                            'hi': u'मंच कैसे काम करता है',
                            'ka': u'როგორ მუშაობს პლატფორმა'},
-    'verify_yourself': {'ru': u'Проверить самим', 'en': u'Check it yourself',
-                        'es': u'Compruébelo usted mismo',
-                        'de': u'Selbst nachprüfen', 'fr': u'Vérifier soi-même',
-                        'zh': u'自行验证', 'ar': u'تحقق بنفسك',
-                        'hi': u'स्वयं जाँचें', 'ka': u'შეამოწმეთ თავად'},
+    # Подпись сокращена до одного слова (решение Артура 2026-08-23):
+    # «проверить самим» обещало проверку, а ведёт ссылка в документ, где
+    # написано, что и как проверяется.
+    'verify_yourself': {'ru': u'Изучить', 'en': u'Explore',
+                        'es': u'Explorar',
+                        'de': u'Ansehen', 'fr': u'Explorer',
+                        'zh': u'查看', 'ar': u'استعراض',
+                        'hi': u'देखें', 'ka': u'გაცნობა'},
+    # Заголовок колонки подвала. Прежде колонка называлась «Платформа», и
+    # первой ссылкой под ней стояла «Платформа» - слово дважды подряд.
+    'systems': {'ru': u'Системы', 'en': u'Systems', 'de': u'Systeme',
+                'es': u'Sistemas', 'fr': u'Systèmes', 'zh': u'系统',
+                'ar': u'الأنظمة', 'hi': u'प्रणालियाँ', 'ka': u'სისტემები'},
     'all_objections': {'ru': u'Все возражения и ответы',
                        'en': u'All objections and answers',
                        'es': u'Todas las objeciones y respuestas',
@@ -377,13 +385,6 @@ def footer_html(lang, doc_href, has_doc=None):
     a(u'<footer class="ftr">')
     a(u'<div class="ftr-in">')
 
-    # Слева не логотип, а строка прав (решение Артура 2026-08-23). Прежде там
-    # стояло слово «Earthlings» переливом - второй раз на странице, после
-    # шапки, и без своей работы: подвал и так подписан.
-    a(u'<div class="ftr-col ftr-col--brand"><p class="ftr-copy">%s<br>'
-      u'<a href="%s" rel="license noopener">%s</a></p></div>'
-      % (esc(COPYRIGHT), CC_DEED % lang, esc(x(lang, 'corpus_licence'))))
-
     # Колонка называется «Политики», а не «Документы»: в ней и лежат только
     # политики - конфиденциальности, пользования и биометрической проверки.
     # Ссылка «Все документы» снята: библиотека достижима из меню и из цепочки
@@ -397,7 +398,7 @@ def footer_html(lang, doc_href, has_doc=None):
     a(u'</ul></div>')
 
     a(u'<div class="ftr-col"><h2 class="ftr-h">%s</h2><ul class="ftr-list">'
-      % esc(t(lang, 'nav.platform_btn')))
+      % esc(x(lang, 'systems')))
     a(u'<li><a href="%s">%s</a></li>'
       % (APP_URL % lang, esc(t(lang, 'nav.platform_btn'))))
     a(u'<li><a href="/awakened_code/">%s</a></li>'
@@ -406,19 +407,22 @@ def footer_html(lang, doc_href, has_doc=None):
 
     a(u'<div class="ftr-col"><h2 class="ftr-h">%s</h2><ul class="ftr-list">'
       % esc(t(lang, 'footer.contact')))
-    if has_doc('23'):
-        a(u'<li><a href="%s">%s</a></li>'
-          % (esc(doc_href('23')), esc(t(lang, 'nav.about_us'))))
     a(u'<li><a href="mailto:%s">%s</a></li>' % (MAIL, MAIL))
     a(u'<li><a href="%s" rel="noopener">Telegram</a></li>' % TG)
     a(u'</ul></div>')
 
     a(u'</div>')
 
-    # Строка прав переехала наверх, в левую колонку, поэтому здесь её больше
-    # нет - остаётся только ссылка на юридическую информацию, единственный
-    # её адрес после того, как она ушла из меню.
+    # Внизу собрано всё, что относится к самому сайту, а не к его разделам:
+    # права, лицензия корпуса, «О нас» и юридическая информация (решение
+    # Артура 2026-08-23). Левой колонки у подвала больше нет.
     a(u'<div class="ftr-bottom">')
+    a(u'<span class="ftr-copy">%s<br>'
+      u'<a href="%s" rel="license noopener">%s</a></span>'
+      % (esc(COPYRIGHT), CC_DEED % lang, esc(x(lang, 'corpus_licence'))))
+    if has_doc('23'):
+        a(u'<a href="%s">%s</a>' % (esc(doc_href('23')),
+                                    esc(t(lang, 'nav.about_us'))))
     if has_doc('22'):
         a(u'<a href="%s">%s</a>' % (esc(doc_href('22')),
                                     esc(t(lang, 'nav.legal_info'))))

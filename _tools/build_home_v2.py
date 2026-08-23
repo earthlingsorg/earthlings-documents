@@ -1003,7 +1003,10 @@ def band(theme, title, lead, more=None, items=None, cta=None, extra=None):
 # Документа 14 здесь нет намеренно: у его полосы ссылки не осталось вовсе,
 # только кнопка. Подписи what_passport_gives и about_joining лежат в chrome.py
 # неиспользованными - если ссылки вернут, их не придётся переводить заново.
-DOC_LINK = {'01': 'read_declaration', '20': 'rules_and_dates'}
+# Подпись ссылки у каждой полосы своя: три разных действия одним словом
+# «читать целиком» назывались бы одинаково.
+DOC_LINK = {'01': 'read_declaration', '14': 'what_passport_gives',
+            '20': 'rules_and_dates'}
 
 
 def build_index(lang):
@@ -1045,19 +1048,15 @@ def build_index(lang):
             num = what.split(':')[1]
             assert has_doc(num, lang), u'документа %s нет на языке %s' % (num, lang)
             md = doc_master(num, lang)
-            cta = ((C.t(lang, 'nav.become_earthling'), C.CTA_URL % lang)
-                   if num == '14' else None)
-            # У полосы «Путь earthling» ссылки «читать целиком» больше нет:
-            # решение Артура 2026-08-22 - вместо двух управляющих элементов,
-            # текстовой ссылки в документ и кнопки рядом, остаётся одна
-            # кнопка «Вступить». Документ 14 из тела страницы этим уходит:
-            # он остаётся в меню, но с главной на него больше ничего не
-            # ведёт - и то же самое случилось с полосой «Шесть шагов».
+            # Кнопки «Вступить» на полосе «Путь earthling» больше нет
+            # (решение Артура 2026-08-23). Вчера ради неё сняли текстовую
+            # ссылку в документ 14, и без неё у полосы не осталось бы ни
+            # одного выхода, а документ - недостижимым из тела главной.
+            # Поэтому ссылка возвращается: у каждой полосы ровно один выход.
             bands.append(band(theme, title_of(md),
                               lead(load, num, nums, anchor, lang),
-                              more=(None if num == '14' else
-                                    (C.x(lang, DOC_LINK[num]),
-                                     doc_href(num, lang))), cta=cta,
+                              more=(C.x(lang, DOC_LINK[num]),
+                                    doc_href(num, lang)),
                               extra=(langlist(lang) if num == '01' else
                                      timeline(lang) if num == '20' else None)))
 
