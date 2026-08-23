@@ -183,7 +183,7 @@ They are not equal. Twenty companies find it easy to organize: there are few of 
 
 That is why **a concentrated interest defeats a dispersed one almost always** - regardless of who is right, regardless of the honesty of politicians, and regardless of the form of government. This is not a flaw of democracy but the arithmetic of organization, and it works the same way under any regime.
 
-From this comes an important conclusion, to which we shall return: **a dispersed majority loses not because it is few or because it is wrong, but because gathering is expensive for it.** Anything that radically cheapens gathering changes the outcome.
+From this comes an important conclusion: **a dispersed majority loses not because it is few or because it is wrong, but because gathering is expensive for it.** Anything that radically cheapens gathering changes the outcome.
 
 ## 3. It is the design, not a conspiracy
 

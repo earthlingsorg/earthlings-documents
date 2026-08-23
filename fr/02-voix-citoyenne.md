@@ -183,7 +183,7 @@ Elles ne le sont pas. Pour vingt entreprises, s'organiser est facile: elles sont
 
 C'est pourquoi **l'intérêt concentré l'emporte presque toujours sur l'intérêt dispersé** - indépendamment de qui a raison, de l'honnêteté des responsables politiques et de la forme du régime. Ce n'est pas un vice de la démocratie, c'est la mathématique de l'organisation, et elle agit de la même façon sous n'importe quel pouvoir.
 
-D'où une conclusion importante, sur laquelle nous reviendrons: **la majorité dispersée perd non parce qu'elle est peu nombreuse ou dans son tort, mais parce qu'il lui coûte cher de se rassembler.** Tout ce qui rend le rassemblement radicalement moins coûteux change l'issue.
+D'où une conclusion importante: **la majorité dispersée perd non parce qu'elle est peu nombreuse ou dans son tort, mais parce qu'il lui coûte cher de se rassembler.** Tout ce qui rend le rassemblement radicalement moins coûteux change l'issue.
 
 ## 3. C'est un agencement, non un complot
 

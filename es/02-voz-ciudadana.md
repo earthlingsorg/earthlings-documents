@@ -183,7 +183,7 @@ No lo están. A veinte empresas les resulta fácil organizarse: son pocas, cada 
 
 Por eso **el interés concentrado vence al disperso casi siempre**, con independencia de quién tenga razón, de la honradez de los políticos y de la forma de gobierno. No es un defecto de la democracia, sino la matemática de la organización, y actúa igual bajo cualquier poder.
 
-De aquí una conclusión importante, a la que volveremos: **la mayoría dispersa pierde no porque sea poca ni porque le falte razón, sino porque reunirse le sale caro.** Todo lo que abarata radicalmente esa reunión cambia el desenlace.
+De aquí una conclusión importante: **la mayoría dispersa pierde no porque sea poca ni porque le falte razón, sino porque reunirse le sale caro.** Todo lo que abarata radicalmente esa reunión cambia el desenlace.
 
 ## 3. Es estructural, no una conspiración
 

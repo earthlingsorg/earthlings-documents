@@ -183,7 +183,7 @@ Sie sind es nicht. Für zwanzig Unternehmen ist es leicht, sich zu organisieren:
 
 Deshalb **siegt das konzentrierte Interesse fast immer über das zerstreute** - unabhängig davon, wer recht hat, unabhängig von der Redlichkeit der Politiker und unabhängig von der Regierungsform. Das ist kein Mangel der Demokratie, sondern die Mathematik der Organisierung, und sie wirkt unter jeder Herrschaft gleich.
 
-Daraus folgt ein wichtiger Schluss, auf den wir zurückkommen: **Die zerstreute Mehrheit verliert nicht deshalb, weil sie klein wäre oder unrecht hätte, sondern weil es sie teuer kommt, sich zu sammeln.** Alles, was das Sammeln radikal verbilligt, ändert den Ausgang.
+Daraus folgt ein wichtiger Schluss: **Die zerstreute Mehrheit verliert nicht deshalb, weil sie klein wäre oder unrecht hätte, sondern weil es sie teuer kommt, sich zu sammeln.** Alles, was das Sammeln radikal verbilligt, ändert den Ausgang.
 
 ## 3. Das ist Bauart und keine Verschwörung
 
