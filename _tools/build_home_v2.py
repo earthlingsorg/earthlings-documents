@@ -610,15 +610,15 @@ def join(theme, lang):
     Строка над кнопкой - ЗАГЛУШКА (блок 15 мастера 23) до решения Артура о
     том, как назвать кнопку и что написать под ней.
     """
-    assert has_doc(JOIN_DOC, lang), u'нет документа %s на языке %s' % (
-        JOIN_DOC, lang)
-    line = lead(load, JOIN_DOC, JOIN_BLOCK, JOIN_ANCHOR, lang)[0]
+    # Всё предложение и есть кнопка (решение Артура 2026-08-23). Прежде под
+    # фразой стояла отдельная кнопка «Вступить», и это была не лишняя деталь,
+    # а расхождение: фраза кончалась предложением проверить, а кнопка звала
+    # вступить. Действие названо один раз, и им же фраза кончается.
     return u'\n'.join([
         u'<section class="band band--%s band--join">' % theme,
         u'<div class="band-in">',
-        u'<p class="join-line">%s</p>' % md_inline(line),
-        u'<a class="band-cta" href="%s">%s</a>'
-        % (C.esc(C.CTA_URL % lang), C.esc(C.t(lang, 'nav.become_earthling'))),
+        u'<a class="join-cta" href="%s">%s</a>'
+        % (C.esc(C.CTA_URL % lang), C.esc(C.x(lang, 'join_line'))),
         u'</div></section>',
     ])
 

@@ -198,6 +198,33 @@ EXTRA = {
                        'ar': u'نصوص المجموعة: CC BY 4.0',
                        'hi': u'संग्रह के पाठ: CC BY 4.0',
                        'ka': u'კორპუსის ტექსტები: CC BY 4.0'},
+    # Последняя полоса главной: всё предложение и есть кнопка (решение
+    # Артура 2026-08-23). Прежде под фразой стояла отдельная кнопка
+    # «Вступить», и фраза кончалась словами «открыто для проверки» -
+    # текст обещал одно действие, кнопка предлагала другое. Теперь
+    # действие названо один раз, и им же кончается фраза.
+    #
+    # Это единственная строка главной, сочинённая для неё, а не взятая
+    # из корпуса. Поэтому она и лежит здесь, среди строк интерфейса, а
+    # не собирается из мастера: выдавать её за цитату нельзя.
+    'join_line': {
+        'ru': u'Всё, что нужно народу, чтобы действовать, у Earthlings уже '
+              u'построено и открыто для вступления',
+        'en': u'Everything a people needs in order to act is already built '
+              u'at Earthlings, and open to join',
+        'de': u'Alles, was ein Volk zum Handeln braucht, ist bei Earthlings '
+              u'bereits gebaut und offen für den Beitritt',
+        'es': u'Todo lo que un pueblo necesita para actuar ya está '
+              u'construido en Earthlings y abierto para incorporarse',
+        'fr': u"Tout ce qu'un peuple doit avoir pour agir est déjà "
+              u"construit chez Earthlings et ouvert à l'adhésion",
+        'zh': u'一个人民行动所需要的一切，在 Earthlings 已经建成，并且开放加入',
+        'ar': u'كل ما يحتاجه الشعب لكي يفعل مبنيٌّ عند Earthlings بالفعل '
+              u'ومفتوح للانضمام',
+        'hi': u'किसी जन को कार्य करने के लिए जो कुछ चाहिए, वह Earthlings में '
+              u'पहले से बना है और शामिल होने के लिए खुला है',
+        'ka': u'ყველაფერი, რაც ხალხს სამოქმედოდ სჭირდება, Earthlings-ში უკვე '
+              u'აშენებულია და ღიაა შემოსაერთებლად'},
     # Ссылка с полосы главной на полный текст.
     'read_more': {'ru': u'Читать целиком', 'en': u'Read in full',
                   'es': u'Leer completo', 'de': u'Vollständig lesen',
