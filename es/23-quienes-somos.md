@@ -162,4 +162,4 @@ Toda la infraestructura institucional de Earthlings está disponible para su ver
 
 - Contrato inteligente SBT en Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - Caja Safe Multisig en Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- Corpus documental: 26 documentos institucionales en nueve lenguas ([todos los documentos](/ru/)).
+- Corpus documental: 26 documentos institucionales en nueve lenguas ([todos los documentos](/es/)).
