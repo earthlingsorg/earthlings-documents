@@ -68,7 +68,7 @@ Estos documentos no se adoptan por votación: describen mecanismos, y los mecani
 
 ### Los documentos hacia el exterior y de consulta
 
-La política de privacidad, las condiciones de uso, la política de verificación biométrica y el aviso legal, así como la base jurídica, las objeciones jurídicas y sus respuestas, «Cómo nace un sujeto de derecho», las preguntas frecuentes, «Quiénes somos», «Qué puede pasar después», la agenda de trabajo y «Dónde estamos ahora».
+La política de privacidad, las condiciones de uso, la política de verificación biométrica y el aviso legal, así como «La voz ciudadana», la base jurídica, las objeciones jurídicas y sus respuestas, «Cómo nace un sujeto de derecho», las preguntas frecuentes, «Quiénes somos», «Qué puede pasar después», la agenda de trabajo y «Dónde estamos ahora».
 
 Las propuestas a ellos se aceptan y se publican con respuesta igual que a todos los demás. Pero los cuatro primeros tienen una particularidad, y la decimos de manera expresa: no se dirigen hacia dentro del pueblo, sino a personas, leyes y autoridades de control, y parte de su contenido lo prescribe la legislación de protección de datos personales. Ese contenido no se puede cambiar por votación; se puede cambiar lo que queda a nuestro criterio.
 
@@ -76,7 +76,7 @@ Las propuestas a ellos se aceptan y se publican con respuesta igual que a todos 
 
 El Manifiesto de la pertenencia, situado en la página principal, no forma parte del corpus. No se aceptan propuestas a él y no se somete a votación.
 
-La razón no es que sea más importante o más intocable que lo demás. Al contrario: es nuestro único texto que no establece nada. No crea ni derechos ni obligaciones, de él no se sigue nada, y el pueblo no lo adopta. Es una llamada a las personas de parte de quienes empezaron todo esto, y la firman sus autores, no el pueblo. Votar sobre una llamada es tan extraño como votar sobre la carta de otro.
+La razón no es que sea más importante o más intocable que lo demás. Al contrario: no establece nada. No crea ni derechos ni obligaciones, de él no se sigue nada, y el pueblo no lo adopta. Es una llamada a las personas de parte de quienes empezaron todo esto, y la firman sus autores, no el pueblo. Votar sobre una llamada es tan extraño como votar sobre la carta de otro.
 
 Todo lo que tiene fuerza está en el corpus y está abierto a propuestas por completo.
 

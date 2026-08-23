@@ -68,7 +68,7 @@ Ces documents ne sont pas adoptés par un vote: ils décrivent des mécanismes, 
 
 ### Les documents tournés vers l'extérieur et les documents de référence
 
-La politique de confidentialité, les conditions d'utilisation, la politique de vérification biométrique, les mentions légales, ainsi que la base juridique, les objections et réponses, « Comment naît un sujet de droit », les questions fréquentes, « Qui sommes-nous », « Ce qui peut suivre », l'agenda de travail, « Où nous en sommes ».
+La politique de confidentialité, les conditions d'utilisation, la politique de vérification biométrique, les mentions légales, ainsi que « La voix citoyenne », la base juridique, les objections et réponses, « Comment naît un sujet de droit », les questions fréquentes, « Qui sommes-nous », « Ce qui peut suivre », l'agenda de travail, « Où nous en sommes ».
 
 Les propositions qui les visent sont reçues et publiées avec une réponse comme toutes les autres. Mais les quatre premiers ont une particularité, et nous la nommons franchement: ils s'adressent non pas à l'intérieur du peuple, mais à des personnes, à des lois et à des autorités de contrôle, et une partie de leur contenu est prescrite par la législation sur les données personnelles. Ce contenu-là ne peut pas être modifié par un vote; ce qui peut l'être, c'est ce qui est laissé à notre appréciation.
 
@@ -76,7 +76,7 @@ Les propositions qui les visent sont reçues et publiées avec une réponse comm
 
 Le Manifeste d'appartenance, placé en page d'accueil, ne fait pas partie du corpus. Les propositions qui le visent ne sont pas reçues, et il n'est pas soumis au vote.
 
-La raison n'est pas qu'il serait plus important ou plus intouchable que le reste. Au contraire: c'est le seul de nos textes qui n'établit rien. Il ne crée ni droits ni obligations, rien n'en découle, et ce n'est pas lui que le peuple adopte. C'est une adresse aux gens de la part de ceux qui ont commencé tout cela, et ce sont ses auteurs qui la signent, non le peuple. Voter sur une adresse serait aussi étrange que voter sur la lettre de quelqu'un d'autre.
+La raison n'est pas qu'il serait plus important ou plus intouchable que le reste. Au contraire: il n'établit rien. Il ne crée ni droits ni obligations, rien n'en découle, et ce n'est pas lui que le peuple adopte. C'est une adresse aux gens de la part de ceux qui ont commencé tout cela, et ce sont ses auteurs qui la signent, non le peuple. Voter sur une adresse serait aussi étrange que voter sur la lettre de quelqu'un d'autre.
 
 Tout ce qui a force se trouve dans le corpus et y est intégralement ouvert aux propositions.
 

@@ -68,7 +68,7 @@ These documents are not adopted by a vote: they describe mechanisms, and mechani
 
 ### Documents for the outside world and reference documents
 
-The privacy policy, the terms of use, the biometric verification policy, the legal information - and also the legal basis, the objections and answers, "How a Subject of Law Arises", the frequently asked questions, "About Us", "What May Happen Next", the working agenda, "Where We Are Now".
+The privacy policy, the terms of use, the biometric verification policy, the legal information - and also "Civic Voice", the legal basis, the objections and answers, "How a Subject of Law Arises", the frequently asked questions, "About Us", "What May Happen Next", the working agenda, "Where We Are Now".
 
 Proposals to them are accepted and published with a reply just as to all the others. But the first four have a particularity, and we name it plainly: they are addressed not inward to the people but outward, to individuals, laws, and supervisory authorities, and part of their content is prescribed by personal data legislation. Such content cannot be changed by a vote - what can be changed is what is left to our discretion.
 
@@ -76,7 +76,7 @@ Proposals to them are accepted and published with a reply just as to all the oth
 
 The Manifesto of Belonging, placed on the main page, is not part of the corpus. Proposals to it are not accepted, and it is not put to a vote.
 
-The reason is not that it is more important or more untouchable than the rest. On the contrary, it is the one text of ours that establishes nothing. It creates neither rights nor duties, nothing follows from it, and it is not what the people adopts. It is an address to people from those who started all this - and it is signed by its authors, not by the people. Voting on an address is as odd as voting on someone else's letter.
+The reason is not that it is more important or more untouchable than the rest. On the contrary, it establishes nothing. It creates neither rights nor duties, nothing follows from it, and it is not what the people adopts. It is an address to people from those who started all this - and it is signed by its authors, not by the people. Voting on an address is as odd as voting on someone else's letter.
 
 Everything that has force lies in the corpus and is open to proposals in full.
 

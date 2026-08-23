@@ -68,7 +68,7 @@ Diese Dokumente werden nicht durch Abstimmung angenommen: Sie beschreiben Mechan
 
 ### Die Dokumente für die Außenwelt und die Nachschlagedokumente
 
-Die Datenschutzerklärung, die Nutzungsbedingungen, die Politik der biometrischen Prüfung, die rechtlichen Hinweise - sowie die Rechtsgrundlage, die Einwände und Antworten, „Wie ein Rechtssubjekt entsteht“, die häufigen Fragen, „Über uns“, „Was als Nächstes geschehen kann“, die Arbeitsagenda, „Wo wir jetzt stehen“.
+Die Datenschutzerklärung, die Nutzungsbedingungen, die Politik der biometrischen Prüfung, die rechtlichen Hinweise - sowie „Die Bürgerstimme“, die Rechtsgrundlage, die Einwände und Antworten, „Wie ein Rechtssubjekt entsteht“, die häufigen Fragen, „Über uns“, „Was als Nächstes geschehen kann“, die Arbeitsagenda, „Wo wir jetzt stehen“.
 
 Vorschläge zu ihnen werden angenommen und mit einer Antwort veröffentlicht wie zu allen übrigen. Doch bei den ersten vier gibt es eine Besonderheit, und wir benennen sie unmittelbar: Sie sind nicht nach innen an das Volk gerichtet, sondern an Menschen, Gesetze und Aufsichtsstellen, und ein Teil ihres Inhalts ist vom Recht über personenbezogene Daten vorgeschrieben. Ein solcher Inhalt lässt sich durch Abstimmung nicht ändern - ändern lässt sich das, was unserem Ermessen überlassen ist.
 
@@ -76,7 +76,7 @@ Vorschläge zu ihnen werden angenommen und mit einer Antwort veröffentlicht wie
 
 Das Manifest der Zugehörigkeit, das auf der Startseite steht, gehört nicht zum Bestand. Vorschläge zu ihm werden nicht angenommen, und zur Abstimmung wird es nicht gestellt.
 
-Der Grund liegt nicht darin, dass es wichtiger oder unantastbarer wäre als das Übrige. Im Gegenteil: Es ist unser einziger Text, der nichts festlegt. Er begründet weder Rechte noch Pflichten, aus ihm folgt nichts, und das Volk nimmt nicht ihn an. Es ist eine Ansprache an die Menschen von denen, die das alles begonnen haben - und unterzeichnet wird sie von den Verfassern und nicht vom Volk. Über eine Ansprache abzustimmen ist ebenso sonderbar wie über einen fremden Brief abzustimmen.
+Der Grund liegt nicht darin, dass es wichtiger oder unantastbarer wäre als das Übrige. Im Gegenteil: Er legt nichts fest. Er begründet weder Rechte noch Pflichten, aus ihm folgt nichts, und das Volk nimmt nicht ihn an. Es ist eine Ansprache an die Menschen von denen, die das alles begonnen haben - und unterzeichnet wird sie von den Verfassern und nicht vom Volk. Über eine Ansprache abzustimmen ist ebenso sonderbar wie über einen fremden Brief abzustimmen.
 
 Alles, was Geltung hat, liegt im Bestand und steht für Vorschläge vollständig offen.
 
