@@ -1303,7 +1303,7 @@ def head_html(num, doc_title, w, lang='ru'):
     if THEME == 'v2':
         # Три листа и один скрипт на 950 байт - всё оформление страницы.
         # Встроенного <style> нет: шапка не fixed, отступ сверху не нужен.
-        assets = [
+        assets = chrome.font_preloads(lang) + [
             '<link rel="stylesheet" href="/css/tokens.css">',
             '<link rel="stylesheet" href="/css/chrome.css">',
             '<link rel="stylesheet" href="/css/doc.css">',

@@ -325,7 +325,8 @@ def head(lang, url, title, desc, path, extra_css=()):
           'name': title, 'description': desc, 'inLanguage': lang, 'url': url,
           'publisher': {'@type': 'Organization', 'name': 'Earthlings',
                         'url': ORIGIN}}
-    css = ['<link rel="stylesheet" href="/css/tokens.css">',
+    css = C.font_preloads(lang) + [
+           '<link rel="stylesheet" href="/css/tokens.css">',
            '<link rel="stylesheet" href="/css/chrome.css">',
            '<link rel="stylesheet" href="/css/doc.css">'] + list(extra_css)
     return '\n'.join([
