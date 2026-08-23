@@ -368,7 +368,7 @@ def doc_file_old(num, lang='ru'):
 
 
 # порядок чтения корпуса = порядок главного меню; на нём строится «Далее»
-CHAIN = ['01', '05', '04', '26', '30', '12', '07', '08', '09', '10', '11',
+CHAIN = ['01', '02', '05', '04', '26', '30', '12', '07', '08', '09', '10', '11',
          '14', '15', '16', '03', '27', '19', '20', '32', '17', '31', '23',
          '22', '28', '29']
 
@@ -447,6 +447,13 @@ OVERRIDES = {
 _OFFICIAL = '%s - an official document of the Earthlings people.'
 OVERRIDES_EN = {
     '01': {'description': _OFFICIAL % 'The Earthlings Declaration of Self-Determination'},
+    '02': {'description':
+           'Why a civic voice can be ignored today without being argued with on the '
+           'merits, what the Earthlings are building instead, and by what steps such '
+           'a voice gains weight.',
+           'og_description':
+           'What is broken is the count, not the channel. What that means and what '
+           'the Earthlings do about it.'},
     '03': {'description': _OFFICIAL % 'Earthlings Ethics'},
     '04': {'description':
            'The legal basis of the Earthlings people: freedom of association, the right of '
@@ -522,6 +529,13 @@ _OFFICIAL_DE = '%s - ein offizielles Dokument des Volkes der Earthlings.'
 
 OVERRIDES_DE = {
     '01': {'description': _OFFICIAL_DE % 'Die Erklärung der Selbstbestimmung der Earthlings'},
+    '02': {'description':
+           'Warum eine Bürgerstimme heute überhört werden kann, ohne ihr in der Sache '
+           'zu widersprechen, was die Earthlings stattdessen bauen und über welche '
+           'Stufen eine solche Stimme Gewicht gewinnt.',
+           'og_description':
+           'Kaputt ist die Zählung, nicht der Kanal. Was das heißt und was die '
+           'Earthlings damit tun.'},
     '03': {'description': _OFFICIAL_DE % 'Die Ethik der Earthlings'},
     '04': {'description':
            'Die Rechtsgrundlage des Volkes der Earthlings: die Vereinigungsfreiheit, das '
@@ -595,6 +609,13 @@ _OFFICIAL_FR = '%s - un document officiel du peuple des Earthlings.'
 
 OVERRIDES_FR = {
     '01': {'description': _OFFICIAL_FR % "La Déclaration des Earthlings sur l'autodétermination"},
+    '02': {'description':
+           "Pourquoi la voix citoyenne peut aujourd'hui être ignorée sans être "
+           'contestée sur le fond, ce que les Earthlings construisent à la place et '
+           'par quels degrés cette voix gagne du poids.',
+           'og_description':
+           "Ce qui est cassé, c'est le compte, pas le canal. Ce que cela veut dire "
+           'et ce que les Earthlings en font.'},
     '03': {'description': _OFFICIAL_FR % "L'éthique des Earthlings"},
     '04': {'description':
            'La base juridique du peuple des Earthlings: la liberté d\'association, le droit '
@@ -668,6 +689,13 @@ _OFFICIAL_ES = '%s - un documento oficial del pueblo Earthlings.'
 
 OVERRIDES_ES = {
     '01': {'description': _OFFICIAL_ES % 'La Declaración Earthlings sobre la libre determinación'},
+    '02': {'description':
+           'Por qué hoy se puede no escuchar la voz ciudadana sin discutirla en el '
+           'fondo, qué construyen los Earthlings a cambio y por qué escalones esa voz '
+           'gana peso.',
+           'og_description':
+           'Lo roto es el recuento, no el canal. Qué significa y qué hacen los '
+           'Earthlings al respecto.'},
     '03': {'description': _OFFICIAL_ES % 'La ética de los Earthlings'},
     '04': {'description':
            'La base jurídica del pueblo Earthlings: la libertad de asociación, el derecho '
@@ -817,6 +845,11 @@ _OFFICIAL_ZH = '%s——Earthlings 人民的官方文件。'
 # Типографика китайская: полноширинные знаки, тире 破折号 двумя U+2014.
 OVERRIDES_ZH = {
     '01': {'description': _OFFICIAL_ZH % 'Earthlings 自决宣言'},
+    '02': {'description':
+           '为什么今天可以不听公民的声音，却不必在实质上与之争辩；Earthlings 拿什么'
+           '来代替；以及这样的声音经由哪些台阶获得分量。',
+           'og_description':
+           '坏掉的是计数，不是渠道。这是什么意思，Earthlings 又做了什么。'},
     '03': {'description': _OFFICIAL_ZH % 'Earthlings 伦理准则'},
     '04': {'description':
            'Earthlings 人民的法律依据：结社自由、自决权、人民的特征，以及国际法上'
@@ -879,6 +912,11 @@ _OFFICIAL_AR = '%s - وثيقة رسمية من وثائق شعب Earthlings.'
 
 OVERRIDES_AR = {
     '01': {'description': _OFFICIAL_AR % 'إعلان Earthlings لتقرير المصير'},
+    '02': {'description':
+           'لماذا يمكن اليوم عدم سماع الصوت المدني دون منازعته في الجوهر، وما الذي '
+           'يبنيه Earthlings بدلاً من ذلك، وبأي درجات يكتسب هذا الصوت وزناً.',
+           'og_description':
+           'المكسور هو العدّ لا القناة. ما معنى ذلك وما الذي يفعله Earthlings حياله.'},
     '03': {'description': _OFFICIAL_AR % 'أخلاقيات Earthlings'},
     '04': {'description':
            'الأساس القانوني لشعب Earthlings: حرية تكوين الجمعيات، وحق تقرير المصير، '
@@ -992,7 +1030,10 @@ def load_fragments(num, lang='ru'):
 # языки, на которых документ существует (для hreflang)
 ALL_LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 # 17 и 20 были только по-русски; английские мастера появились 2026-08-15.
-LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh'],
+# Грузинский исключён из документа 02 на время заморозки: мастер
+# ka/02-civic-voice.md не закоммичен. Тем же списком фильтруется меню,
+# поэтому на грузинских страницах пункта не будет - и ссылки в никуда тоже.
+LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'ru', 'zh'],
                 '17': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh'],
                 '20': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh'],
                 '32': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh']}
@@ -1390,8 +1431,22 @@ def prev_next_html(num, titles, lang='ru'):
     if num not in CHAIN:
         return ''
     i = CHAIN.index(num)
-    prev = CHAIN[i - 1] if i > 0 else None
-    nxt = CHAIN[i + 1] if i < len(CHAIN) - 1 else None
+    # Соседа ищем не по номеру в цепочке, а по первому, который у ЭТОГО языка
+    # действительно есть. Иначе «далее» уводит на несобранную страницу: так
+    # вышло 2026-08-23, когда документ 02 встал вторым, а грузинский из него
+    # исключён заморозкой - грузинская Декларация начала предлагать переход в
+    # никуда. Цепочка одна на все языки, а состав у языков разный, и это
+    # расхождение будет всякий раз, когда язык отстаёт.
+    def near(step):
+        j = i + step
+        while 0 <= j < len(CHAIN):
+            if has_doc(CHAIN[j], lang):
+                return CHAIN[j]
+            j += step
+        return None
+
+    prev = near(-1)
+    nxt = near(1)
     out = ['<!--seo-prev-next-start-->',
            '<nav class="seo-prev-next" aria-label="%s">' % ui(lang, 'nav_aria')]
     if prev:
