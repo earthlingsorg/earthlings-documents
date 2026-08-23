@@ -1632,6 +1632,38 @@ def sync_library(titles, dry=False, lang='ru'):
                  r'<span class="n">(\d\d)</span><span class="t">([^<]*)</span></a>'
                  % (lang, lang), fix, s)
     assert out.count('<span class="t">') >= 20, 'библиотека разобрана неверно'
+    # Недостающие документы дописываются, а не только переименовываются.
+    # Раньше эта функция умела лишь править существующие строки, и всякий
+    # новый документ приходилось вносить в девять файлов руками. Так и вышло:
+    # 2026-08-23 обход показал, что «Гражданского голоса» нет ни в одной
+    # библиотеке, а семи языкам не хватает ещё трёх документов - 17, 20 и 32,
+    # которые появились у них позже, чем собиралась библиотека. Список
+    # строится из CHAIN и has_doc, то есть из тех же двух источников, что и
+    # меню: третьему списку взяться неоткуда.
+    have = set(re.findall(r'<span class="n">(\d\d)</span>', out))
+    want = [n for n in CHAIN if has_doc(n, lang) and n in titles]
+    added = [n for n in want if n not in have]
+    for num in sorted(added):
+        row = ('    <li><a href="%s"><span class="n">%s</span>'
+               '<span class="t">%s</span></a></li>\n'
+               % (doc_href(num, lang), num,
+                  html.escape(titles[num], quote=False)))
+        later = [(m.start(), m.group(1))
+                 for m in re.finditer(r'    <li><a href="[^"]*">'
+                                      r'<span class="n">(\d\d)</span>', out)
+                 if m.group(1) > num]
+        if later:
+            out = out[:later[0][0]] + row + out[later[0][0]:]
+        else:
+            k = out.rindex('</ul>')
+            out = out[:k] + row + out[k:]
+    if added:
+        changed.extend((n, '', titles[n]) for n in sorted(added))
+    n_now = len(re.findall(r'<span class="n">\d\d</span>', out))
+    assert n_now == len(want), (
+        'в библиотеке %s стало %d записей, а документов у языка %d'
+        % (lang, n_now, len(want)))
+
     # Пишем по факту различия, а не по списку changed: в нём только смены
     # названий, а адреса меняются молча, и при переезде на слаги файл остался
     # бы со старыми ссылками.
