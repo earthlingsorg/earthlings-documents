@@ -894,9 +894,9 @@ Las normas en que se apoya el documento:
 
 - Carta de las Naciones Unidas, preámbulo y artículo 1, párrafo 2 - [texto](https://www.un.org/es/about-us/un-charter/full-text)
 - Declaración Universal de Derechos Humanos, artículos 20, 21 y 28 - [texto](https://www.un.org/es/about-us/universal-declaration-of-human-rights)
-- Pacto Internacional de Derechos Civiles y Políticos, artículos 1, 22 y 25 - [texto](https://www.un.org/es/documents/decl_conv/conventions/pactpol.shtml)
+- Pacto Internacional de Derechos Civiles y Políticos, artículos 1, 22 y 25 - [texto](https://www.ohchr.org/es/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)
 - Convenio núm. 169 de la Organización Internacional del Trabajo sobre pueblos indígenas y tribales, 1989, artículo 6 - [texto](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C169)
-- Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas, 2007 - [texto](https://www.un.org/es/documents/decl_conv/declarations/indigenous_rights.shtml)
+- Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas, 2007 - [texto](https://www.ohchr.org/es/indigenous-peoples/un-declaration-rights-indigenous-peoples)
 
 Los hechos citados en el texto:
 
