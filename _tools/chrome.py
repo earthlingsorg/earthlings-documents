@@ -174,6 +174,11 @@ EXTRA = {
                         'de': u'Ansehen', 'fr': u'Explorer',
                         'zh': u'查看', 'ar': u'استعراض',
                         'hi': u'देखें', 'ka': u'გაცნობა'},
+    # Колонка эссе в подвале. Пока пуста: ссылки Артур даст позже, и до тех
+    # пор под заголовком ничего нет - см. FOOTER_ESSAYS.
+    'essays': {'ru': u'Эссе', 'en': u'Essays', 'de': u'Essays',
+               'es': u'Ensayos', 'fr': u'Essais', 'zh': u'随笔',
+               'ar': u'مقالات', 'hi': u'निबंध', 'ka': u'ესეები'},
     # Заголовок колонки подвала. Прежде колонка называлась «Платформа», и
     # первой ссылкой под ней стояла «Платформа» - слово дважды подряд.
     'systems': {'ru': u'Системы', 'en': u'Systems', 'de': u'Systeme',
@@ -430,6 +435,13 @@ def header_html(lang, doc_href, lang_url, home_url=None, has_doc=None,
 
 # ------------------------------------------------------------------- подвал
 
+# Эссе в подвале. Список пуст намеренно: место под него заведено
+# 2026-08-23 по решению Артура, ссылки он даст позже. Формат записи -
+# (адрес, подпись по языкам), например:
+#   ('https://paragraph.xyz/@earthlings/...', {'ru': u'...', 'en': u'...'})
+FOOTER_ESSAYS = []
+
+
 def footer_html(lang, doc_href, has_doc=None):
     assert lang in ALL_LANGS, u'неизвестный язык %r' % lang
     has_doc = has_doc or (lambda num: True)
@@ -458,6 +470,15 @@ def footer_html(lang, doc_href, has_doc=None):
     a(u'<li><a href="/awakened_code/">%s</a></li>'
       % esc(t(lang, 'nav.awakened_code')))
     a(u'</ul></div>')
+
+    a(u'<div class="ftr-col"><h2 class="ftr-h">%s</h2>' % esc(x(lang, 'essays')))
+    if FOOTER_ESSAYS:
+        a(u'<ul class="ftr-list">')
+        for href, label in FOOTER_ESSAYS:
+            a(u'<li><a href="%s" rel="noopener">%s</a></li>'
+              % (esc(href), esc(label.get(lang) or label['en'])))
+        a(u'</ul>')
+    a(u'</div>')
 
     a(u'<div class="ftr-col"><h2 class="ftr-h">%s</h2><ul class="ftr-list">'
       % esc(t(lang, 'footer.contact')))
