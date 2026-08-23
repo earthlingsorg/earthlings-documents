@@ -47,7 +47,6 @@ SECTIONS = [
         (u'nav.legal_basis', '04'),
         (u'nav.faq_legal', '26'),
         (u'nav.legal_gap', '30'),
-        (u'nav.legal_info', '22'),
     ]),
     (u'nav.structure', None, [
         (u'nav.platform', '12'),
@@ -57,19 +56,21 @@ SECTIONS = [
         (u'nav.earthlings_coin', '10'),
         (u'nav.council', '11'),
     ]),
+    # «Развитие» слито с «Участием» (решение Артура 2026-08-23): пять пунктов
+    # верхнего уровня перестали читаться как пять разделов, а по составу
+    # «развитие» и было участием на разных сроках - что можно предложить
+    # сейчас, что решается, что построено, куда идёт. Единственная запись,
+    # которая рассказывала про нас, а не про участие читателя, - «О нас», и
+    # она ушла в подвал. Порядок внутри - от «войти» к «куда идём».
     (u'nav.participation', None, [
         (u'nav.path', '14'),
         (u'nav.sbt_passport', '15'),
+        (u'nav.founding_period', '20'),
+        (u'nav.working_agenda', '31'),
+        (u'nav.where_we_are_doc', '32'),
+        (u'nav.roadmap', '19'),
         (u'nav.ethics', '03'),
         (u'nav.faq_general', '27'),
-    ]),
-    (u'nav.development', None, [
-        (u'nav.roadmap', '19'),
-        (u'nav.founding_period', '20'),
-        (u'nav.where_we_are_doc', '32'),
-        (u'nav.whats_next', '17'),
-        (u'nav.working_agenda', '31'),
-        (u'nav.about_us', '23'),
     ]),
 ]
 
@@ -203,6 +204,10 @@ EXTRA = {
 
 CTA_URL = 'https://id.earth-lings.org/verification?lang=%s'
 APP_URL = 'https://app.earth-lings.org?lang=%s'
+# Строка прав в подвале. Формулировка Артура 2026-08-23, одна на все
+# языки: это правовая формула, а не проза.
+COPYRIGHT = u'© Copyright 2025 - 2026 Earthlings, all rights reserved.'
+
 MAIL = 'info@earth-lings.org'          # в footer.email лежит несуществующий
 TG = 'https://t.me/earthlings_net'     # earthlings.global - не брать оттуда
 
@@ -355,13 +360,18 @@ def footer_html(lang, doc_href, has_doc=None):
     a(u'<footer class="ftr">')
     a(u'<div class="ftr-in">')
 
-    a(u'<div class="ftr-col ftr-col--brand"><span class="brand-name">Earthlings'
-      u'</span></div>')
+    # Слева не логотип, а строка прав (решение Артура 2026-08-23). Прежде там
+    # стояло слово «Earthlings» переливом - второй раз на странице, после
+    # шапки, и без своей работы: подвал и так подписан.
+    a(u'<div class="ftr-col ftr-col--brand"><p class="ftr-copy">%s</p></div>'
+      % esc(COPYRIGHT))
 
+    # Колонка называется «Политики», а не «Документы»: в ней и лежат только
+    # политики - конфиденциальности, пользования и биометрической проверки.
+    # Ссылка «Все документы» снята: библиотека достижима из меню и из цепочки
+    # чтения на каждой странице документа.
     a(u'<div class="ftr-col"><h2 class="ftr-h">%s</h2><ul class="ftr-list">'
-      % esc(t(lang, 'footer.documents')))
-    a(u'<li><a href="/documents/%s/index.html">%s</a></li>'
-      % (lang, esc(x(lang, 'all_docs'))))
+      % esc(t(lang, 'footer.policies')))
     for key, num in FOOTER_DOCS:
         if has_doc(num):
             a(u'<li><a href="%s">%s</a></li>'
@@ -374,20 +384,23 @@ def footer_html(lang, doc_href, has_doc=None):
       % (APP_URL % lang, esc(t(lang, 'nav.platform_btn'))))
     a(u'<li><a href="/awakened_code/">%s</a></li>'
       % esc(t(lang, 'nav.awakened_code')))
-    a(u'<li><a href="/verification/">%s</a></li>' % esc(x(lang, 'verify')))
     a(u'</ul></div>')
 
     a(u'<div class="ftr-col"><h2 class="ftr-h">%s</h2><ul class="ftr-list">'
       % esc(t(lang, 'footer.contact')))
+    if has_doc('23'):
+        a(u'<li><a href="%s">%s</a></li>'
+          % (esc(doc_href('23')), esc(t(lang, 'nav.about_us'))))
     a(u'<li><a href="mailto:%s">%s</a></li>' % (MAIL, MAIL))
     a(u'<li><a href="%s" rel="noopener">Telegram</a></li>' % TG)
     a(u'</ul></div>')
 
     a(u'</div>')
 
-    # «Все права защищены» из footer.copyright не берём: корпус открыт
-    # намеренно, и такая строка ему противоречит. Права - в документе 22.
-    a(u'<div class="ftr-bottom"><span>© Earthlings</span>')
+    # Строка прав переехала наверх, в левую колонку, поэтому здесь её больше
+    # нет - остаётся только ссылка на юридическую информацию, единственный
+    # её адрес после того, как она ушла из меню.
+    a(u'<div class="ftr-bottom">')
     if has_doc('22'):
         a(u'<a href="%s">%s</a>' % (esc(doc_href('22')),
                                     esc(t(lang, 'nav.legal_info'))))
