@@ -180,6 +180,16 @@ EXTRA = {
                        'ar': u'جميع الاعتراضات والردود',
                        'hi': u'सभी आपत्तियाँ और उत्तर',
                        'ka': u'ყველა შენიშვნა და პასუხი'},
+    # Подпись лицензии в подвале. Ведёт на разъяснение CC на языке страницы.
+    'corpus_licence': {'ru': u'Тексты корпуса - CC BY 4.0',
+                       'en': u'Corpus texts: CC BY 4.0',
+                       'de': u'Texte des Korpus: CC BY 4.0',
+                       'es': u'Textos del corpus: CC BY 4.0',
+                       'fr': u'Textes du corpus: CC BY 4.0',
+                       'zh': u'文集文本：CC BY 4.0',
+                       'ar': u'نصوص المجموعة: CC BY 4.0',
+                       'hi': u'संग्रह के पाठ: CC BY 4.0',
+                       'ka': u'კორპუსის ტექსტები: CC BY 4.0'},
     # Ссылка с полосы главной на полный текст.
     'read_more': {'ru': u'Читать целиком', 'en': u'Read in full',
                   'es': u'Leer completo', 'de': u'Vollständig lesen',
@@ -204,9 +214,16 @@ EXTRA = {
 
 CTA_URL = 'https://id.earth-lings.org/verification?lang=%s'
 APP_URL = 'https://app.earth-lings.org?lang=%s'
-# Строка прав в подвале. Формулировка Артура 2026-08-23, одна на все
-# языки: это правовая формула, а не проза.
-COPYRIGHT = u'© Copyright 2025 - 2026 Earthlings, all rights reserved.'
+# Строка прав в подвале. Знак копирайта уместен: авторские права на тексты
+# действительно принадлежат, и CC BY 4.0 - лицензия поверх них, а не отказ
+# от них. А вот «all rights reserved», которое стояло здесь 2026-08-23,
+# снято: LICENSE корпуса разрешает копировать, переводить, переиздавать и
+# цитировать документы, в том числе коммерчески, - и читатель подвала
+# делал бы прямо обратный вывод. Оговорка Буэнос-Айресской конвенции
+# юридически ничего не добавляет с тех пор, как все страны, которых это
+# касалось, вошли в Бернскую.
+COPYRIGHT = u'© 2025-2026 Earthlings'
+CC_DEED = 'https://creativecommons.org/licenses/by/4.0/deed.%s'
 
 MAIL = 'info@earth-lings.org'          # в footer.email лежит несуществующий
 TG = 'https://t.me/earthlings_net'     # earthlings.global - не брать оттуда
@@ -363,8 +380,9 @@ def footer_html(lang, doc_href, has_doc=None):
     # Слева не логотип, а строка прав (решение Артура 2026-08-23). Прежде там
     # стояло слово «Earthlings» переливом - второй раз на странице, после
     # шапки, и без своей работы: подвал и так подписан.
-    a(u'<div class="ftr-col ftr-col--brand"><p class="ftr-copy">%s</p></div>'
-      % esc(COPYRIGHT))
+    a(u'<div class="ftr-col ftr-col--brand"><p class="ftr-copy">%s<br>'
+      u'<a href="%s" rel="license noopener">%s</a></p></div>'
+      % (esc(COPYRIGHT), CC_DEED % lang, esc(x(lang, 'corpus_licence'))))
 
     # Колонка называется «Политики», а не «Документы»: в ней и лежат только
     # политики - конфиденциальности, пользования и биометрической проверки.
