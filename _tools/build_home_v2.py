@@ -834,10 +834,9 @@ def platform(theme, lang, title, lead_ps):
     items = tours(lang)
     cards = u''.join(
         u'<li class="tourcard"><a href="%s" data-tour="%s">'
-        u'<span class="tourcard-n">%02d</span>'
         u'<span class="tourcard-title">%s</span></a></li>'
-        % (C.esc(TOUR_URL % (lang, tid, lang)), C.esc(tid), i, C.esc(name))
-        for i, (tid, name) in enumerate(items, 1))
+        % (C.esc(TOUR_URL % (lang, tid, lang)), C.esc(tid), C.esc(name))
+        for tid, name in items)
 
     label = C.esc(tour_label(lang))
     first = TOUR_URL % (lang, items[0][0], lang)
@@ -951,11 +950,14 @@ def steps(theme, lang, lead_ps):
                    u'<span class="req-text">%s</span></li>'
                    % (C.esc(name), md_inline(text)) for name, text in reqs),
         u'<ol class="steps">%s</ol>'
-        % u''.join(u'<li class="step"><span class="step-n">%s</span>'
-                   u'<span class="step-name">%s</span>'
+        # Номера шагов сняты с показа (решение Артура 2026-08-23). Список
+        # остаётся <ol>, поэтому порядок никуда не делся: его по-прежнему
+        # объявляет разметка, и читалка называет шаги по счёту. Ушла только
+        # крупная цифра в углу карточки.
+        % u''.join(u'<li class="step"><span class="step-name">%s</span>'
                    u'<span class="step-text">%s</span></li>'
-                   % (C.esc(num), C.esc(name), md_inline(text))
-                   for num, name, text in items),
+                   % (C.esc(name), md_inline(text))
+                   for _num, name, text in items),
         u'<p class="steps-note">%s</p>' % md_inline(note),
 
         u'<a class="band-cta" href="%s">%s</a>'
