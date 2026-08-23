@@ -635,7 +635,7 @@ Now add the steps together. A body that has a verifiable voluntary composition, 
 
 This is our position, not a generally recognized legal test. International law does not establish that the combination of these features constitutes a people, and we do not pass off our own reasoning as a norm.
 
-We assert only what is visible from the derivation itself: **these five properties were obtained not from a wish to be called a people but from the requirements on the instrument.** We went from what has to work and arrived at something that has a name - not the other way round. A category is defined to fit oneself by starting from the name; here the order is the reverse, and it is visible from the steps set out above.
+We assert only what is visible from the derivation itself: **these five features were obtained not from a wish to be called a people but from the requirements on the instrument.** We went from what has to work and arrived at something that has a name - not the other way round. A category is defined to fit oneself by starting from the name; here the order is the reverse, and it is visible from the steps set out above.
 
 **A people is not a decision taken before the instrument. It is what the instrument runs up against, if it is built properly.**
 
@@ -714,7 +714,7 @@ Since we are being honest, let us name the price too. It is not small.
 
 Slower growth: joining a people is harder than registering. A proposal harder to explain. An open legal question that the opponent makes use of. The wariness of states, which a foundation would not have met. And voluntary limits - no positions on domestic politics, no compulsion - which a foundation would not have taken on.
 
-All of this is paid for the five properties above. The trade is deliberate, and it may turn out to be a bad one.
+All of this is paid for the five features above. The trade is deliberate, and it may turn out to be a bad one.
 
 ### How to check that we are wrong
 

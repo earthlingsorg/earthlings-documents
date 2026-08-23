@@ -635,7 +635,7 @@ Ahora sume los pasos. Una formación que tiene una composición voluntaria y ver
 
 Es nuestra posición, no un criterio jurídico comúnmente aceptado. El derecho internacional no establece que la combinación de esos rasgos forme un pueblo, y no hacemos pasar nuestro propio razonamiento por una norma.
 
-Afirmamos solo lo que se ve de la deducción misma: **estas cinco propiedades no salen del deseo de llamarse pueblo, sino de los requisitos del instrumento.** Fuimos desde lo que debe funcionar hasta lo que tiene nombre, y no al revés. Una categoría se define a la propia medida empezando por el nombre; aquí el orden es el inverso, y se ve en los pasos que están arriba.
+Afirmamos solo lo que se ve de la deducción misma: **estos cinco rasgos no salen del deseo de llamarse pueblo, sino de los requisitos del instrumento.** Fuimos desde lo que debe funcionar hasta lo que tiene nombre, y no al revés. Una categoría se define a la propia medida empezando por el nombre; aquí el orden es el inverso, y se ve en los pasos que están arriba.
 
 **El pueblo no es una decisión tomada antes del instrumento. Es aquello con lo que topa el instrumento si se lo construye correctamente.**
 
@@ -714,7 +714,7 @@ Ya que somos honrados, nombremos también el precio. No es pequeño.
 
 El crecimiento es más lento: adherirse a un pueblo es más difícil que registrarse. La propuesta es más difícil de explicar. Una cuestión jurídica abierta que el oponente aprovecha. El recelo de los Estados, que una fundación no tendría. Y unas limitaciones voluntarias - ninguna posición sobre política interna, ninguna coacción - que una fundación no asumiría.
 
-Todo eso se paga por las cinco propiedades de arriba. El intercambio es consciente y puede resultar desventajoso.
+Todo eso se paga por los cinco rasgos de arriba. El intercambio es consciente y puede resultar desventajoso.
 
 ### Cómo comprobar que nos equivocamos
 

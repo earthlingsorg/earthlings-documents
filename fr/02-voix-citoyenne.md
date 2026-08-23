@@ -635,7 +635,7 @@ Additionnez maintenant les étapes. Une entité qui a une composition volontaire
 
 C'est notre position, non un critère juridique généralement reconnu. Le droit international n'établit pas que la réunion de ces critères forme un peuple, et nous ne faisons pas passer notre propre raisonnement pour une norme.
 
-Nous affirmons seulement ce qui ressort de la déduction elle-même: **ces cinq propriétés viennent des exigences posées à l'instrument, et non du désir de s'appeler un peuple.** Nous sommes partis de ce qui doit fonctionner et sommes arrivés à ce qui porte un nom - et non l'inverse. On taille une catégorie à sa propre mesure en commençant par le nom; ici l'ordre est inverse, et il se voit dans les étapes qui précèdent.
+Nous affirmons seulement ce qui ressort de la déduction elle-même: **ces cinq critères viennent des exigences posées à l'instrument, et non du désir de s'appeler un peuple.** Nous sommes partis de ce qui doit fonctionner et sommes arrivés à ce qui porte un nom - et non l'inverse. On taille une catégorie à sa propre mesure en commençant par le nom; ici l'ordre est inverse, et il se voit dans les étapes qui précèdent.
 
 **Le peuple n'est pas une décision prise avant l'instrument. C'est ce sur quoi bute l'instrument si on le construit correctement.**
 
@@ -714,7 +714,7 @@ Puisque nous sommes francs, nommons aussi le prix. Il n'est pas petit.
 
 Une croissance plus lente: entrer dans un peuple est plus difficile que s'inscrire. Une proposition plus difficile à expliquer. Une question juridique ouverte dont l'adversaire se sert. La méfiance des États, qu'un fonds n'aurait pas connue. Et des limitations volontaires - aucune position de politique intérieure, aucune contrainte - qu'un fonds ne se serait pas imposées.
 
-Tout cela se paie pour les cinq propriétés énoncées plus haut. L'échange est consenti, et il peut se révéler désavantageux.
+Tout cela se paie pour les cinq critères énoncés plus haut. L'échange est consenti, et il peut se révéler désavantageux.
 
 ### Comment vérifier que nous avons tort
 

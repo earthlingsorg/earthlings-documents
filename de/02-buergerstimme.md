@@ -635,7 +635,7 @@ Legen Sie nun die Schritte zusammen. Ein Gebilde, das einen überprüfbaren frei
 
 Das ist unsere Position und kein allgemein anerkannter rechtlicher Prüfmaßstab. Das Völkerrecht legt nicht fest, dass die Verbindung dieser Merkmale ein Volk bildet, und wir geben unsere eigene Überlegung nicht als Norm aus.
 
-Wir behaupten nur, was aus der Ableitung selbst sichtbar ist: **Diese fünf Eigenschaften ergeben sich nicht aus dem Wunsch, sich Volk zu nennen, sondern aus den Anforderungen an das Messinstrument.** Wir sind von dem ausgegangen, was funktionieren muss, und bei dem angekommen, was einen Namen hat - und nicht umgekehrt. Wer mit dem Namen beginnt, biegt sich die Kategorie zurecht; hier ist die Reihenfolge umgekehrt, und sie ist aus den Schritten oben ersichtlich.
+Wir behaupten nur, was aus der Ableitung selbst sichtbar ist: **Diese fünf Merkmale ergeben sich nicht aus dem Wunsch, sich Volk zu nennen, sondern aus den Anforderungen an das Messinstrument.** Wir sind von dem ausgegangen, was funktionieren muss, und bei dem angekommen, was einen Namen hat - und nicht umgekehrt. Wer mit dem Namen beginnt, biegt sich die Kategorie zurecht; hier ist die Reihenfolge umgekehrt, und sie ist aus den Schritten oben ersichtlich.
 
 **Das Volk ist keine Entscheidung, die vor dem Messinstrument getroffen wurde. Es ist das, worauf das Messinstrument stößt, wenn man es richtig baut.**
 
@@ -714,7 +714,7 @@ Wenn schon ehrlich, nennen wir auch den Preis. Er ist nicht klein.
 
 Langsameres Wachstum: Einem Volk beizutreten ist schwerer, als sich anzumelden. Das Angebot ist schwerer zu erklären. Eine offene Rechtsfrage, die der Gegner nutzt. Die Vorsicht der Staaten, die eine Stiftung nicht auf sich zöge. Und freiwillige Beschränkungen - keine Positionen zur Innenpolitik, kein Zwang -, die eine Stiftung nicht auf sich genommen hätte.
 
-All das wird für die fünf Eigenschaften oben bezahlt. Der Tausch ist bewusst, und er kann sich als ungünstig erweisen.
+All das wird für die fünf Merkmale oben bezahlt. Der Tausch ist bewusst, und er kann sich als ungünstig erweisen.
 
 ### Wie zu prüfen ist, ob wir unrecht haben
 
