@@ -9,13 +9,25 @@
 оглавление (оно задваивает заголовки), навигация по корпусу, скрипты, стили.
 
 Использование:
-  python verify_md_html.py 05         один документ
-  python verify_md_html.py all        весь корпус
+  python verify_md_html.py 05         один документ, русский
+  python verify_md_html.py all        весь корпус, русский
+  python verify_md_html.py de 05      один документ на языке
+  python verify_md_html.py de all     весь корпус на языке
+  python verify_md_html.py all all    все документы на всех девяти языках
+
+Языки, на которых документа нет, пропускаются молча: состав по языкам знает
+сам сборщик (`has_doc`), второго списка здесь нет.
 """
 import io, os, re, sys, html, difflib, unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from build_site_docs import CORPUS, CHAIN, MD_DIR, DOCS, load_fragments
+# Мастера переехали 2026-08-14 из общей папки в `<репозиторий>/<язык>/`, и
+# страницы получили смысловые адреса вместо числовых. Прежние `CORPUS`, `MD_DIR`
+# и `DOCS` были русскими константами и исчезли вместе с переездом - проверка
+# падала на импорте, то есть молча не работала. Теперь путь считается теми же
+# функциями, которыми его считает сборщик: расходиться нечему.
+from build_site_docs import (ALL_LANGS, CHAIN, SLUGS, corpus_file, doc_file,
+                             docs_dir, has_doc, load_fragments, md_dir)
 
 WORD = re.compile(r'[0-9A-Za-zЀ-ӿ]+', re.U)
 
@@ -74,9 +86,9 @@ def html_text(path):
 
 # ---------------------------------------------------------------- отчёт
 
-def report(num, limit=12):
-    md_path = os.path.join(MD_DIR, CORPUS[num])
-    html_path = os.path.join(DOCS, 'ru%s.html' % num)
+def report(num, lang='ru', limit=12):
+    md_path = os.path.join(md_dir(lang), corpus_file(num, lang))
+    html_path = os.path.join(docs_dir(lang), doc_file(num, lang))
     if not os.path.isfile(md_path):
         return num, None, None, ['нет .md-мастера']
     if not os.path.isfile(html_path):
@@ -91,7 +103,7 @@ def report(num, limit=12):
     # схемы в .md не выражаются: проверяем, что каждый сохранённый фрагмент
     # попал на страницу дословно
     page = io.open(html_path, encoding='utf-8').read()
-    for marker, frag in load_fragments(num).items():
+    for marker, frag in load_fragments(num, lang).items():
         if frag not in page:
             problems.append('фрагмент %s не найден на странице целиком' % marker)
     for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
@@ -113,18 +125,42 @@ def report(num, limit=12):
 
 def main():
     args = sys.argv[1:] or ['all']
+    # Первый довод - язык, если он похож на язык. Без него всё как раньше:
+    # русский, чтобы прежние вызовы из памяти и заметок продолжали работать.
+    if args and (args[0] in ALL_LANGS or args[0] == 'all') and len(args) > 1:
+        langs = ALL_LANGS if args[0] == 'all' else [args[0]]
+        args = args[1:]
+    else:
+        langs = ['ru']
     targets = CHAIN if args == ['all'] else args
-    bad = 0
-    for num in targets:
-        n, na, nb, problems = report(num)
-        if problems:
-            bad += 1
-            print('РАСХОЖДЕНИЕ  ru%s   .md %s слов / .html %s слов' % (n, na, nb))
-            for p in problems:
-                print('    ', p)
-        else:
-            print('совпадает    ru%s   %d слов' % (n, na))
-    print('\nитого: %d из %d документов с расхождениями' % (bad, len(targets)))
+
+    checked = skipped = bad = 0
+    for lang in langs:
+        for num in targets:
+            # Двойное условие, и оба нужны. `has_doc` говорит, положен ли
+            # документ этому языку. Наличие слага говорит, есть ли у языка
+            # мастер: имя мастера выводится из слага, и у хинди слагов нет
+            # вовсе - страницы там остались от прежних заходов, под старыми
+            # числовыми именами, а мастеров под ними нет. Без второго условия
+            # проверка падает с KeyError, а не пропускает язык.
+            if not has_doc(num, lang) or num not in SLUGS.get(lang, {}):
+                skipped += 1
+                continue
+            checked += 1
+            n, na, nb, problems = report(num, lang)
+            if problems:
+                bad += 1
+                print('РАСХОЖДЕНИЕ  %s%s   .md %s слов / .html %s слов'
+                      % (lang, n, na, nb))
+                for p in problems:
+                    print('    ', p)
+            else:
+                print('совпадает    %s%s   %d слов' % (lang, n, na))
+
+    assert checked, ('проверять оказалось нечего - без этой проверки отчёт '
+                     '«0 расхождений» получался бы на пустом множестве')
+    print('\nитого: %d из %d проверенных с расхождениями'
+          '  (пропущено, нет на языке: %d)' % (bad, checked, skipped))
     return 1 if bad else 0
 
 

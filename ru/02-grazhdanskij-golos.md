@@ -894,9 +894,9 @@
 
 - Устав ООН, преамбула и статья 1, пункт 2 - [текст](https://www.un.org/ru/about-us/un-charter/full-text)
 - Всеобщая декларация прав человека, статьи 20, 21 и 28 - [текст](https://www.un.org/ru/about-us/universal-declaration-of-human-rights)
-- Международный пакт о гражданских и политических правах, статьи 1, 22 и 25 - [текст](https://www.un.org/ru/documents/decl_conv/conventions/pactpol.shtml)
+- Международный пакт о гражданских и политических правах, статьи 1, 22 и 25 - [текст](https://www.ohchr.org/ru/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)
 - Конвенция Международной организации труда № 169 о коренных народах, 1989, статья 6 - [текст](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C169)
-- Декларация ООН о правах коренных народов, 2007 - [текст](https://www.un.org/ru/documents/decl_conv/declarations/indigenous_rights.shtml)
+- Декларация ООН о правах коренных народов, 2007 - [текст](https://www.ohchr.org/ru/indigenous-peoples/un-declaration-rights-indigenous-peoples)
 
 Факты, приведённые в тексте:
 
