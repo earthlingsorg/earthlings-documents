@@ -90,7 +90,7 @@ Aquí la exactitud importa más que una impresión favorable.
 
 El procedimiento de constitución está establecido y publicado de antemano:
 
-- **7 de septiembre de 2026**: se abre la recepción de propuestas sobre todo el corpus - la Declaración, la Carta y los otros veinticuatro documentos, incluido el presente. Puede presentar una propuesta cualquier persona; para ello no se requieren adhesión, verificación de identidad ni conformidad con nuestras conclusiones, y las propuestas anónimas se examinan en igualdad con las demás.
+- **7 de septiembre de 2026**: se abre la recepción de propuestas sobre todo el corpus - la Declaración, la Carta y los otros veintitrés documentos, incluido el presente. Puede presentar una propuesta cualquier persona; para ello no se requieren adhesión, verificación de identidad ni conformidad con nuestras conclusiones, y las propuestas anónimas se examinan en igualdad con las demás.
 - **6 de diciembre de 2026**: se cierra la recepción.
 - **20 de diciembre de 2026**: se publica el compendio de todas las propuestas y respuestas, incluidas las rechazadas con indicación del motivo; se publican las versiones definitivas en ruso y en inglés.
 - **3 de enero de 2027**: la Declaración se adopta por votación de los participantes verificados conforme al principio «una persona, un voto»: no menos de dos tercios de los votos emitidos, con la participación de no menos de cien participantes verificados y no menos del treinta por ciento de su número total.

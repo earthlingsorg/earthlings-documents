@@ -111,7 +111,6 @@ SLUGS = {
         '14': 'put-earthling',
         '15': 'sbt-pasport',
         '16': 'biometricheskaya-verifikaciya',
-        '17': 'chto-dalshe',
         '19': 'dorozhnaya-karta',
         '20': 'uchreditelnyj-period',
         '22': 'yuridicheskaya-informaciya',
@@ -142,7 +141,6 @@ SLUGS = {
         '14': 'the-earthling-path',
         '15': 'sbt-passport',
         '16': 'biometric-verification',
-        '17': 'what-may-happen-next',
         '19': 'roadmap',
         '20': 'the-founding-period',
         '22': 'legal-information',
@@ -174,7 +172,6 @@ SLUGS = {
         '14': 'weg-des-earthling',
         '15': 'sbt-pass',
         '16': 'biometrische-pruefung',
-        '17': 'was-kommt-als-naechstes',
         '19': 'fahrplan',
         '20': 'gruendungsphase',
         '22': 'rechtliche-hinweise',
@@ -205,7 +202,6 @@ SLUGS = {
         '14': 'chemin-de-l-earthling',
         '15': 'passeport-sbt',
         '16': 'verification-biometrique',
-        '17': 'ce-qui-peut-suivre',
         '19': 'feuille-de-route',
         '20': 'periode-constituante',
         '22': 'mentions-legales',
@@ -236,7 +232,6 @@ SLUGS = {
         '14': 'camino-del-earthling',
         '15': 'pasaporte-sbt',
         '16': 'verificacion-biometrica',
-        '17': 'que-puede-pasar-despues',
         '19': 'hoja-de-ruta',
         '20': 'periodo-constituyente',
         '22': 'aviso-legal',
@@ -271,7 +266,6 @@ SLUGS = {
         '14': 'the-earthling-path',
         '15': 'sbt-passport',
         '16': 'biometric-verification',
-        '17': 'what-may-happen-next',
         '19': 'roadmap',
         '20': 'the-founding-period',
         '22': 'legal-information',
@@ -303,7 +297,6 @@ SLUGS = {
         '14': 'the-earthling-path',
         '15': 'sbt-passport',
         '16': 'biometric-verification',
-        '17': 'what-may-happen-next',
         '19': 'roadmap',
         '20': 'the-founding-period',
         '22': 'legal-information',
@@ -336,7 +329,6 @@ SLUGS = {
         '14': 'the-earthling-path',
         '15': 'sbt-passport',
         '16': 'biometric-verification',
-        '17': 'what-may-happen-next',
         '19': 'roadmap',
         '20': 'the-founding-period',
         '22': 'legal-information',
@@ -367,9 +359,31 @@ def doc_file_old(num, lang='ru'):
     return '%s%s.html' % (lang, num)
 
 
+# Документы, снятые с корпуса. Слаг снятого документа не выбрасывается: его
+# адрес обязан вести туда, куда переехало содержание, иначе ломаются уже
+# разосланные ссылки - то же правило, что и для числовых адресов, см.
+# write_redirect_map.
+#
+# 17 «Что может произойти дальше» снят 2026-08-25 (решение Артура 2026-08-23).
+# Шесть его разделов из семи были перекрыты документом 02 полнее; седьмой, о
+# тех, кто ещё не родился, перенесён в документ 02, часть VII, разделом 17.
+RETIRED = {
+    '17': {
+        'to': '02',
+        'slugs': {'ru': 'chto-dalshe',
+                  'en': 'what-may-happen-next',
+                  'de': 'was-kommt-als-naechstes',
+                  'fr': 'ce-qui-peut-suivre',
+                  'es': 'que-puede-pasar-despues',
+                  'zh': 'what-may-happen-next',
+                  'ar': 'what-may-happen-next',
+                  'ka': 'what-may-happen-next'},
+    },
+}
+
 # порядок чтения корпуса = порядок главного меню; на нём строится «Далее»
 CHAIN = ['01', '02', '05', '04', '26', '30', '12', '07', '08', '09', '10', '11',
-         '14', '15', '16', '03', '27', '19', '20', '32', '17', '31', '23',
+         '14', '15', '16', '03', '27', '19', '20', '32', '31', '23',
          '22', '28', '29']
 
 # Обвязка берётся из живой страницы, но для переименованных и новых
@@ -428,15 +442,6 @@ OVERRIDES = {
         'og_description': 'Народ Earthlings отвечает на частые вопросы об управлении, '
                           'экономике, идентичности и этике.',
     },
-    '17': {
-        'title': 'Что может произойти дальше | Earthlings',
-        'og_title': 'Что может произойти дальше | Earthlings',
-        'description': 'Возможности, которые открыты народу Earthlings сегодня и могут '
-                       'открыться при росте: у каждой названо условие и механизм, а рядом - '
-                       'то, что может пойти не так.',
-        'og_description': 'Возможности, условия и то, что может пойти не так. Не прогноз '
-                          'и не обещание - перечень того, что существует.',
-    },
 }
 
 # Английская обвязка. Заголовки здесь не заданы намеренно: они выводятся из H1
@@ -473,13 +478,6 @@ OVERRIDES_EN = {
     '14': {'description': _OFFICIAL % 'The Earthling Path'},
     '15': {'description': _OFFICIAL % 'The earthling SBT passport'},
     '16': {'description': _OFFICIAL % 'The Earthlings Biometric Verification Policy'},
-    '17': {'description':
-           'The possibilities open to the Earthlings people today and those that may open '
-           'with growth: each with its condition and its mechanism named, and beside them '
-           'what may go wrong.',
-           'og_description':
-           'Possibilities, conditions, and what may go wrong. Not a forecast and not a '
-           'promise - a list of what exists.'},
     '19': {'description': _OFFICIAL % 'Roadmap of the Transitional Period'},
     '20': {'description':
            'The Earthlings founding period: proposals are accepted on the whole corpus of '
@@ -555,13 +553,6 @@ OVERRIDES_DE = {
     '14': {'description': _OFFICIAL_DE % 'Der Weg des Earthling'},
     '15': {'description': _OFFICIAL_DE % 'Der SBT-Pass des Earthling'},
     '16': {'description': _OFFICIAL_DE % 'Die Richtlinie der biometrischen Prüfung der Earthlings'},
-    '17': {'description':
-           'Die Möglichkeiten, die dem Volk der Earthlings heute offenstehen, und die, die '
-           'sich mit dem Wachstum öffnen können: jede mit ihrer Bedingung und ihrem '
-           'Mechanismus, und daneben das, was schiefgehen kann.',
-           'og_description':
-           'Möglichkeiten, Bedingungen und was schiefgehen kann. Keine Vorhersage und kein '
-           'Versprechen - eine Liste dessen, was es gibt.'},
     '19': {'description': _OFFICIAL_DE % 'Der Fahrplan der Übergangszeit'},
     '20': {'description':
            'Die Gründungsphase der Earthlings: Vorschläge werden zum gesamten Bestand von '
@@ -635,13 +626,6 @@ OVERRIDES_FR = {
     '14': {'description': _OFFICIAL_FR % "Le chemin de l'earthling"},
     '15': {'description': _OFFICIAL_FR % "Le passeport SBT de l'earthling"},
     '16': {'description': _OFFICIAL_FR % 'La politique de vérification biométrique des Earthlings'},
-    '17': {'description':
-           'Les possibilités qui sont ouvertes aujourd\'hui au peuple des Earthlings et '
-           'celles qui peuvent s\'ouvrir avec la croissance: chacune avec sa condition et '
-           'son mécanisme, et à côté ce qui peut mal tourner.',
-           'og_description':
-           'Possibilités, conditions et ce qui peut mal tourner. Ni prévision ni promesse: '
-           'la liste de ce qui existe.'},
     '19': {'description': _OFFICIAL_FR % 'La feuille de route de la période de transition'},
     '20': {'description':
            'La période constituante des Earthlings: les propositions sont reçues sur '
@@ -715,13 +699,6 @@ OVERRIDES_ES = {
     '14': {'description': _OFFICIAL_ES % 'El camino del earthling'},
     '15': {'description': _OFFICIAL_ES % 'El pasaporte SBT del earthling'},
     '16': {'description': _OFFICIAL_ES % 'La política de verificación biométrica de los Earthlings'},
-    '17': {'description':
-           'Las posibilidades que hoy están abiertas al pueblo Earthlings y las que pueden '
-           'abrirse con el crecimiento: cada una con su condición y su mecanismo, y al lado '
-           'lo que puede salir mal.',
-           'og_description':
-           'Posibilidades, condiciones y lo que puede salir mal. Ni previsión ni promesa: '
-           'la lista de lo que existe.'},
     '19': {'description': _OFFICIAL_ES % 'La hoja de ruta del período de transición'},
     '20': {'description':
            'El período constituyente de los Earthlings: las propuestas se reciben sobre los '
@@ -788,13 +765,6 @@ OVERRIDES_KA = {
     '14': {'description': _OFFICIAL_KA % 'earthling-ის გზა'},
     '15': {'description': _OFFICIAL_KA % 'earthling-ის SBT-პასპორტი'},
     '16': {'description': _OFFICIAL_KA % 'Earthlings-ის ბიომეტრიული ვერიფიკაციის პოლიტიკა'},
-    '17': {'description':
-           'შესაძლებლობები, რომლებიც Earthlings-ის ხალხისთვის დღეს ღიაა და რომლებიც '
-           'ზრდისას შეიძლება გაიხსნას: თითოეულს დასახელებული აქვს პირობა და მექანიზმი, '
-           'გვერდით კი ის, რაც შეიძლება ცუდად წავიდეს.',
-           'og_description':
-           'შესაძლებლობები, პირობები და ის, რაც შეიძლება ცუდად წავიდეს. არც პროგნოზი '
-           'და არც დაპირება - იმის ჩამონათვალი, რაც არსებობს.'},
     '19': {'description': _OFFICIAL_KA % 'გარდამავალი პერიოდის საგზაო რუკა'},
     '20': {'description':
            'Earthlings-ის დამფუძნებელი პერიოდი: წინადადებები მიიღება ოცდახუთივე '
@@ -866,10 +836,6 @@ OVERRIDES_ZH = {
     '14': {'description': _OFFICIAL_ZH % 'earthling 之路'},
     '15': {'description': _OFFICIAL_ZH % 'earthling SBT 护照'},
     '16': {'description': _OFFICIAL_ZH % '生物特征验证政策'},
-    '17': {'description':
-           '如果人民被创立起来，接下来可能发生什么：可能的路径、它们的界限，'
-           '以及我们不作出的承诺。',
-           'og_description': '可能的路径、它们的界限，以及我们不作出的承诺。'},
     '19': {'description': _OFFICIAL_ZH % 'Earthlings 路线图'},
     '20': {'description':
            '创立期：文本如何开放接受建议，什么不予讨论，期限如何安排，'
@@ -935,12 +901,6 @@ OVERRIDES_AR = {
     '14': {'description': _OFFICIAL_AR % 'طريق earthling'},
     '15': {'description': _OFFICIAL_AR % 'جواز earthling من نوع SBT'},
     '16': {'description': _OFFICIAL_AR % 'سياسة Earthlings للتحقق البيومتري'},
-    '17': {'description':
-           'الإمكانيات المفتوحة اليوم أمام شعب Earthlings وتلك التي قد تنفتح مع النمو: '
-           'لكل واحدة منها شرطها وآليتها، وإلى جانبها ما قد يسير على غير ما يراد.',
-           'og_description':
-           'الإمكانيات وشروطها وما قد يسير على غير ما يراد. لا تنبؤ ولا وعد، بل قائمة '
-           'بما هو قائم بالفعل.'},
     '19': {'description': _OFFICIAL_AR % 'خارطة طريق الفترة الانتقالية'},
     '20': {'description':
            'الفترة التأسيسية لشعب Earthlings: باب المقترحات مفتوح على مجموعة الوثائق '
@@ -1034,7 +994,6 @@ ALL_LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 # ka/02-civic-voice.md не закоммичен. Тем же списком фильтруется меню,
 # поэтому на грузинских страницах пункта не будет - и ссылки в никуда тоже.
 LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'ru', 'zh'],
-                '17': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh'],
                 '20': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh'],
                 '32': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh']}
 
@@ -1659,6 +1618,19 @@ def sync_library(titles, dry=False, lang='ru'):
             out = out[:k] + row + out[k:]
     if added:
         changed.extend((n, '', titles[n]) for n in sorted(added))
+
+    # Снятые документы вычёркиваются. Зеркало предыдущего куска: научив
+    # библиотеку дописывать недостающее, легко забыть, что документ может и
+    # уйти. 2026-08-25 ушёл документ 17, и сборка встала на проверке ниже -
+    # проверка сработала, но чинить её было нечем. Список тот же: CHAIN и
+    # has_doc. Страница документа при этом не пропадает бесследно - её адрес
+    # ведёт в преемника, см. RETIRED и write_redirect_map.
+    gone = sorted(have - set(want))
+    for num in gone:
+        out = re.sub(r'\s*<li><a href="[^"]*"><span class="n">%s</span>'
+                     r'<span class="t">[^<]*</span></a></li>' % num, '', out)
+        changed.append((num, u'снят с корпуса', u''))
+
     n_now = len(re.findall(r'<span class="n">\d\d</span>', out))
     assert n_now == len(want), (
         'в библиотеке %s стало %d записей, а документов у языка %d'
@@ -1690,6 +1662,19 @@ def write_redirect_map():
             lines.append('/documents/%s/%s %s;' % (lang, doc_file_old(num, lang),
                                                    doc_href(num, lang)))
             n += 1
+
+    # Снятые документы: оба их адреса, числовой и смысловой, ведут на документ,
+    # куда переехало содержание. Если у языка того документа ещё нет - в
+    # библиотеку этого языка: оглавление на своём языке лучше, чем 404.
+    for num in sorted(RETIRED):
+        to = RETIRED[num]['to']
+        for lang in sorted(RETIRED[num]['slugs']):
+            target = (doc_href(to, lang) if has_doc(to, lang)
+                      else '/documents/%s/' % lang)
+            lines.append('/documents/%s/%s%s.html %s;' % (lang, lang, num, target))
+            lines.append('/documents/%s/%s%s-%s.html %s;'
+                         % (lang, lang, num, RETIRED[num]['slugs'][lang], target))
+            n += 2
     path = os.path.join(SITE, 'nginx', 'redirects-docs.map')
     d = os.path.dirname(path)
     if not os.path.isdir(d):

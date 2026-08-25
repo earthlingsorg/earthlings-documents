@@ -18,7 +18,7 @@ La sección va primero a propósito: define qué es este documento dentro del co
 
 **El presente documento no establece nada.** No crea derechos ni impone obligaciones, no atribuye facultades ni las limita, nada permite y nada prohíbe. De él no se sigue nada que deba cumplirse. Ninguna disposición de ningún otro documento del corpus se funda en él ni puede fundarse en él.
 
-**Explica y supone.** Todos los demás documentos del corpus describen lo que hay o establecen lo que debe ser. El presente habla también de lo que todavía no existe: de unos escalones de los que hasta hoy no se ha subido ninguno y de unas posibilidades de las que ninguna se promete. La sección 19 enumera nueve maneras en que todo esto puede no llegar a ser, y la sección 20, qué está construido y qué no lo está aún.
+**Explica y supone.** Todos los demás documentos del corpus describen lo que hay o establecen lo que debe ser. El presente habla también de lo que todavía no existe: de unos escalones de los que hasta hoy no se ha subido ninguno y de unas posibilidades de las que ninguna se promete. La sección 20 enumera nueve maneras en que todo esto puede no llegar a ser, y la sección 21, qué está construido y qué no lo está aún.
 
 **Fuerza obligatoria la tienen la Declaración y la Carta.** Si el presente documento discrepa de cualquiera de ellas, se aplican ellas. La discrepancia que se advierta se corrige modificando el presente documento, y no la Declaración ni la Carta. La interpretación del presente documento no puede rebajar ninguna garantía de la persona ni ampliar las facultades del pueblo o de alguna de sus instituciones.
 
@@ -328,7 +328,7 @@ Los rasgos son exhaustivos; la lista de cuestiones, no. Entran en ellos, por eje
 
 ### La pregunta está obligada a atañer a la vida de aquel a quien se pregunta
 
-Esta es la respuesta a la causa de fracaso más probable, la baja participación, de la que se habla aparte en la sección 19. No se cura con recordatorios ni con llamamientos, sino con la pregunta. **Si las preguntas no atañen a la vida real, a los intereses y a las dificultades de las personas, el sentido de la votación desaparece por entero: no hay para qué preguntar ni para qué responder.**
+Esta es la respuesta a la causa de fracaso más probable, la baja participación, de la que se habla aparte en la sección 20. No se cura con recordatorios ni con llamamientos, sino con la pregunta. **Si las preguntas no atañen a la vida real, a los intereses y a las dificultades de las personas, el sentido de la votación desaparece por entero: no hay para qué preguntar ni para qué responder.**
 
 Aquí hay una contradicción verdadera, y la nombramos en vez de rodearla. Los rasgos del artículo 7 seleccionan cuestiones planetarias, aquellas que ningún Estado resuelve por sí solo. Y lo planetario, de oído, queda lejos de la persona: entre «la concertación del tipo del impuesto sobre el beneficio transnacional» y las preocupaciones de un día concreto la distancia parece insalvable.
 
@@ -561,13 +561,25 @@ Para esas personas, un «existo, soy una sola y esto se verifica fuera del Estad
 
 Un artefacto así, que sepamos, no existe ni en los Estados, ni en las organizaciones internacionales, ni en las empresas demoscópicas. Es imposible sin la verificación de la unicidad e imposible sin número. Y es muy probable que sea él, y no un reconocimiento cualquiera, el primero que obligue a contar con el pueblo: **se empieza a contar no con quien tiene estatuto, sino con quien tiene aquello que no tiene nadie más.**
 
-## 17. Una asimetría honrada
+## 17. Qué le da esto a quienes todavía no han nacido
+
+En la parte I se dijo que la parte perjudicada - quienes todavía no votan y quienes todavía no han nacido - no tiene representación. Por lo común la conversación termina ahí: nombrar el daño es fácil, y no hay con qué repararlo.
+
+Aquí sí lo hay, y no por nuestra buena intención, sino por la construcción del texto. El artículo 9 de la Declaración dice: **«Ninguna decisión del pueblo Earthlings traslada sus consecuencias a quienes no tuvieron posibilidad de participar en su adopción, incluidas las generaciones futuras».** El artículo 9 forma parte del núcleo intangible (artículo 13), y los principios del núcleo no se someten a votación en absoluto: no son cuestiones sujetas a un umbral reforzado, son cuestiones que no se plantean. Una decisión contraria al núcleo es nula de pleno derecho desde su adopción y no la convalidan ni el tiempo ni la ejecución.
+
+De esta norma puede crecer un procedimiento permanente: la evaluación de cada decisión de peso por su efecto sobre quienes vengan después, con un dictamen publicado y el derecho de cualquier participante a exigirla. Tal procedimiento no existe hoy en ningún Estado ni en ninguna organización internacional. Tampoco lo tenemos aún nosotros: tenemos la norma de la que se sigue, y son cosas distintas (sección 21).
+
+Y hay que decir una cosa más, o el cuadro saldrá más bonito que la verdad. **Detrás de esa prohibición no hay tribunal.** El pueblo Earthlings no tiene tribunal constitucional, y no lo fingimos; no hay quien fuerce el cumplimiento. La fuerza de la norma está en otra parte: el incumplimiento es visible para todos, no lo convalidan ni el tiempo ni la ejecución, y ante cualquier duda las disposiciones del núcleo se interpretan a favor de la persona. Esa protección es más débil que la judicial en coacción y más fuerte en verificabilidad.
+
+Aun así, la posición sigue siendo singular. Si el pueblo llega a tener voz en algún foro externo, será la única parte en la mesa cuya regla constitutiva le prohíbe expresamente ganar a costa de las generaciones siguientes. No porque seamos más bondadosos que los demás, sino porque nos lo prohíbe el mismo texto que nos constituye.
+
+## 18. Una asimetría honrada
 
 Estamos obligados a decirle una cosa con claridad a quien se adhiere, porque es lo que hace honrado el cuadro.
 
 **El valor de todo lo descrito no es lineal respecto del número de participantes.** Con decenas de miles, el instrumento es un experimento curioso. Con decenas de millones, es una infraestructura por la que no se puede pasar de largo. La diferencia la crean quienes llegaron entre medias, y su aportación vale incomparablemente más que la de quienes se sumen cuando todo funcione ya.
 
-De esto se sigue también lo contrario, y también hay que decirlo: **el participante temprano asume el riesgo de que no salga.** Paga la cuota, dedica tiempo a la verificación de identidad y participa en votaciones cuyo resultado puede no interesarle a nadie. No sabemos cómo acabará, y en la sección 19 está enumerado por qué puede no salir.
+De esto se sigue también lo contrario, y también hay que decirlo: **el participante temprano asume el riesgo de que no salga.** Paga la cuota, dedica tiempo a la verificación de identidad y participa en votaciones cuyo resultado puede no interesarle a nadie. No sabemos cómo acabará, y en la sección 20 está enumerado por qué puede no salir.
 
 Lo único que podemos oponer a ese riesgo es su tamaño. La adhesión es reversible cualquier día y sin explicar los motivos. No exige renunciar a la nacionalidad, al país, a la lengua, a la fe ni a nada más. No obliga a ningún acto contrario a la ley del propio país. Si no sale, se habrá perdido poco. Si sale, el participante estará entre quienes lo hicieron.
 
@@ -575,7 +587,7 @@ Lo único que podemos oponer a ese riesgo es su tamaño. La adhesión es reversi
 
 # Parte VIII. El pueblo
 
-## 18. De dónde sale el pueblo
+## 19. De dónde sale el pueblo
 
 Hasta aquí se ha hablado del instrumento. Ahora, de dónde sale el pueblo en esta construcción y por qué en ella no es un adorno.
 
@@ -736,7 +748,7 @@ Puede parecer que sin facultades no se puede influir. Es falso, y lo desmiente l
 
 # Parte IX. Qué puede salir mal
 
-## 19. Nueve maneras de arruinar esto
+## 20. Nueve maneras de arruinar esto
 
 La sección no está para equilibrar. Cada uno de los desenlaces enumerados es posible, algunos son más probables que los buenos, y de cada uno se dice qué hacemos y qué no garantizamos.
 
@@ -836,7 +848,7 @@ Digamos también lo contrario, porque es del mismo orden: **si las preguntas dej
 
 # Parte X. La verificabilidad
 
-## 20. Qué de lo descrito ya existe y qué no
+## 21. Qué de lo descrito ya existe y qué no
 
 Afirmamos que Earthlings es verificable, y esa afirmación solo tiene sentido cuando se indica con precisión qué está ya construido y qué es todavía la descripción de un propósito.
 
@@ -857,7 +869,7 @@ Afirmamos que Earthlings es verificable, y esa afirmación solo tiene sentido cu
 
 La lista completa de lo que se ha declarado como principio pero todavía no está hecho - incluidas la verificación inconclusa del contrato, los derechos de propietario sin separar y la falta de multisig en el monedero de la caja común - está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html). Preferimos nombrar esos puntos nosotros mismos y no dejarlos como hallazgo para quien nos revise.
 
-## 21. Los indicadores por los que se nos debe juzgar
+## 22. Los indicadores por los que se nos debe juzgar
 
 Para que lo aquí descrito se pueda verificar y no haya que aceptarlo por fe, nombramos los indicadores por los que se nos debe juzgar. La obligación de publicar la participación sobre quienes tenían derecho a voto está establecida en el artículo 8 bis de la [Carta](https://earth-lings.org/documents/es/es05-carta.html); los demás indicadores el presente documento no los establece ni puede establecerlos - los propone como una medida que él mismo se aplica. Ninguno de ellos es publicitario, y en varios de ellos vamos a quedar mal a ciencia cierta en los primeros años.
 
@@ -925,7 +937,6 @@ Los documentos del corpus a los que remite el presente:
 - [Plataforma digital](https://earth-lings.org/documents/es/es12-plataforma-digital.html)
 - [Pasaporte SBT](https://earth-lings.org/documents/es/es15-pasaporte-sbt.html)
 - [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html)
-- [Qué puede pasar después](https://earth-lings.org/documents/es/es17-que-puede-pasar-despues.html)
 - [El período constituyente](https://earth-lings.org/documents/es/es20-periodo-constituyente.html)
 - [Cómo nace un sujeto de derecho](https://earth-lings.org/documents/es/es30-nacimiento-del-sujeto-de-derecho.html)
 - [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html)

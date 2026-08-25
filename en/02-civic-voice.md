@@ -18,7 +18,7 @@ The section stands first deliberately: it defines what this document is within t
 
 **This document establishes nothing.** It creates no rights and imposes no duties, confers no powers and limits none, permits nothing and forbids nothing. Nothing enforceable follows from it. No provision of any other document of the corpus rests on it or can rest on it.
 
-**It explains and it supposes.** All the other documents of the corpus describe what is, or establish what ought to be. This one also speaks of what does not yet exist: of rungs, not one of which has been climbed as of today, and of possibilities, not one of which is promised. Section 19 lists nine ways in which all of this may fail to come about, and section 20 states what has been built and what does not yet exist.
+**It explains and it supposes.** All the other documents of the corpus describe what is, or establish what ought to be. This one also speaks of what does not yet exist: of rungs, not one of which has been climbed as of today, and of possibilities, not one of which is promised. Section 20 lists nine ways in which all of this may fail to come about, and section 21 states what has been built and what does not yet exist.
 
 **Binding force belongs to the Declaration and the Charter.** Where this document diverges from either of them, they apply. A divergence discovered is removed by correcting this document, not the Declaration and not the Charter. The interpretation of this document can neither lower a guarantee to the person nor extend the powers of the people or of any of its institutions.
 
@@ -328,7 +328,7 @@ The criteria are exhaustive; the list of questions is not. Falling under them ar
 
 ### The question is bound to touch the life of the person being asked
 
-This is the answer to the most likely cause of failure - low turnout, of which section 19 speaks separately. It is cured not by reminders and not by appeals, but by the question. **If the questions do not touch the real life, interests and difficulties of people, the sense of voting disappears entirely: there is no point in asking, and no point in answering.**
+This is the answer to the most likely cause of failure - low turnout, of which section 20 speaks separately. It is cured not by reminders and not by appeals, but by the question. **If the questions do not touch the real life, interests and difficulties of people, the sense of voting disappears entirely: there is no point in asking, and no point in answering.**
 
 There is a genuine contradiction here, and we name it rather than go round it. The criteria of Article 7 select planetary questions - those that no state resolves on its own. And the planetary sounds far from the person: between "agreeing a rate of tax on transnational profit" and the cares of a particular day the distance seems unbridgeable.
 
@@ -561,13 +561,25 @@ For these people, a confirmable "I exist, I am one, and this is verified outside
 
 So far as we know, an artefact of that kind exists neither with states, nor with international organizations, nor with polling companies. It is impossible without verification of uniqueness and impossible without number. And it is quite likely that it, and not any recognition, will be the first thing to make the people something to reckon with: **people begin to reckon not with whoever has status but with whoever has what no one else has.**
 
-## 17. An honest asymmetry
+## 17. What this gives to those not yet born
+
+In Part I it was said that the injured side - those who do not yet vote and those who are not yet born - has no representation. Usually the conversation ends there: naming the harm is easy, and there is nothing to repair it with.
+
+Here there is something. It follows not from our good intention but from the construction of the text. Article 9 of the Declaration says: **"No decision of the Earthlings people shifts its consequences onto those who had no opportunity to take part in making it, including future generations."** Article 9 belongs to the unamendable core (Article 13), and the principles of the core are not put to a vote at all - this is not a question of a raised threshold, it is a question that is not asked. A decision that contradicts the core is void from the moment it is taken and is cured neither by time nor by execution.
+
+Out of this norm a standing procedure may grow: an assessment of every significant decision for its effect on those who come after - with a published opinion and the right of any participant to demand it. No such procedure exists today in any state or in any international organization. Nor do we have one yet: we have the norm from which it follows, and those are different things (section 21).
+
+And one more thing has to be said, or the picture comes out prettier than the truth. **There is no court behind this prohibition.** The Earthlings people has no constitutional court, and we do not pretend otherwise; there is no one to compel performance. The force of the norm lies elsewhere: a breach is visible to everyone, it is cured neither by time nor by execution, and in any case of doubt the provisions of the core are construed in favour of the person. Such protection is weaker than a court's in compulsion and stronger in verifiability.
+
+Even so, the position remains singular. If the people ever acquires a voice anywhere outside, it will be the only party at the table whose founding rule expressly forbids it to win at the expense of the generations that follow. Not because we are kinder than others, but because we are forbidden it by the very text by which we are constituted.
+
+## 18. An honest asymmetry
 
 We are bound to say one thing plainly to a person joining, because it makes the picture honest.
 
 **The value of everything described is non-linear in the number of participants.** At tens of thousands the instrument is a curious experiment. At tens of millions it is infrastructure that cannot be walked past. The difference is created by those who came in between, and their input is worth incomparably more than the input of those who join once everything is already working.
 
-The reverse follows from this too, and it also has to be said: **an early participant takes on the risk that it will not work out.** They pay the contribution, spend time on identity verification and take part in votes whose result may interest no one. We do not know how it will end, and section 19 lists what it may fail on.
+The reverse follows from this too, and it also has to be said: **an early participant takes on the risk that it will not work out.** They pay the contribution, spend time on identity verification and take part in votes whose result may interest no one. We do not know how it will end, and section 20 lists what it may fail on.
 
 The only thing we can set against that risk is its size. Joining is reversible on any day without giving reasons. It requires giving up neither citizenship, nor country, nor language, nor faith, nor anything else. It obliges no action against the law of one's own country. If it does not work out, little will have been lost. If it does work out, the participant will be among those who did it.
 
@@ -575,7 +587,7 @@ The only thing we can set against that risk is its size. Joining is reversible o
 
 # Part VIII. The people
 
-## 18. Where the people comes from
+## 19. Where the people comes from
 
 Up to now the subject has been the instrument. Now about where the people comes from in this design and why it is not decoration in it.
 
@@ -736,7 +748,7 @@ It may seem that without powers one cannot have influence. That is untrue, and p
 
 # Part IX. What may go wrong
 
-## 19. Nine ways to ruin this
+## 20. Nine ways to ruin this
 
 The section is not there for balance. Every one of the outcomes listed is possible, some are likelier than the good ones, and for each it is stated what we do and what we do not guarantee.
 
@@ -836,7 +848,7 @@ Let us say the reverse too, because it is of the same order: **if the questions 
 
 # Part X. Verifiability
 
-## 20. What of what is described already exists and what does not
+## 21. What of what is described already exists and what does not
 
 We assert that Earthlings is verifiable, and that assertion has meaning only when it is stated exactly what has already been built and what is so far a description of a design.
 
@@ -857,7 +869,7 @@ We assert that Earthlings is verifiable, and that assertion has meaning only whe
 
 The full list of what is declared as a principle but not yet done - including the unfinished verification of the contract, the undivided owner rights and the absence of a multisig on the treasury wallet - is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html). We prefer to name these places ourselves rather than leave them as a find for an inspector.
 
-## 21. The indicators by which we should be judged
+## 22. The indicators by which we should be judged
 
 So that what is described here can be checked rather than taken on faith, we name the indicators by which we should be judged. The obligation to publish the share of those who voted out of those entitled to vote is established by Article 8 bis of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); the remaining indicators this document does not establish and cannot establish - it offers them as a measure that it turns upon itself. Not one of them is promotional, and on several of them we shall certainly look bad in the first years.
 
@@ -925,7 +937,6 @@ Documents of the corpus to which this one refers:
 - [Digital Platform](https://earth-lings.org/documents/en/en12-digital-platform.html)
 - [SBT passport](https://earth-lings.org/documents/en/en15-sbt-passport.html)
 - [Biometric Verification](https://earth-lings.org/documents/en/en16-biometric-verification.html)
-- [What May Happen Next](https://earth-lings.org/documents/en/en17-what-may-happen-next.html)
 - [The Founding Period](https://earth-lings.org/documents/en/en20-the-founding-period.html)
 - [How a Subject of Law Arises](https://earth-lings.org/documents/en/en30-how-a-subject-of-law-arises.html)
 - [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html)

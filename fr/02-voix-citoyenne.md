@@ -18,7 +18,7 @@ Cette section vient en premier à dessein: elle définit ce que ce document est 
 
 **Le présent document n'établit rien.** Il ne crée pas de droits et n'impose pas d'obligations, ne confère aucun pouvoir et n'en limite aucun, n'autorise rien et n'interdit rien. Il n'en découle rien qui soit à exécuter. Aucune disposition d'un autre document du corpus ne se fonde sur lui ni ne peut se fonder sur lui.
 
-**Il explique et il suppose.** Tous les autres documents du corpus décrivent ce qui est ou établissent ce qui doit être. Celui-ci parle aussi de ce qui n'existe pas encore: d'échelons dont aucun n'est franchi à ce jour, et de possibilités dont aucune n'est promise. La section 19 énumère neuf manières dont tout cela peut ne pas aboutir, et la section 20 dit ce qui est construit et ce qui manque encore.
+**Il explique et il suppose.** Tous les autres documents du corpus décrivent ce qui est ou établissent ce qui doit être. Celui-ci parle aussi de ce qui n'existe pas encore: d'échelons dont aucun n'est franchi à ce jour, et de possibilités dont aucune n'est promise. La section 20 énumère neuf manières dont tout cela peut ne pas aboutir, et la section 21 dit ce qui est construit et ce qui manque encore.
 
 **La Déclaration et la Charte ont force obligatoire.** En cas de divergence entre le présent document et l'un d'eux, ce sont eux qui s'appliquent. La divergence constatée se corrige par une modification du présent document, et non de la Déclaration ni de la Charte. L'interprétation du présent document ne peut ni abaisser une garantie de la personne, ni élargir les pouvoirs du peuple ou de l'une quelconque de ses institutions.
 
@@ -328,7 +328,7 @@ Les critères sont exhaustifs, la liste des questions ne l'est pas. Y entrent pa
 
 ### La question est tenue de toucher à la vie de celui qu'on interroge
 
-C'est la réponse à la cause d'échec la plus probable: la faible participation, dont il est question séparément à la section 19. Elle ne se soigne ni par des rappels ni par des appels, mais par la question. **Si les questions ne touchent pas à la vie réelle, aux intérêts et aux difficultés des gens, le sens du vote disparaît tout entier: il n'y a plus de raison de demander, ni de raison de répondre.**
+C'est la réponse à la cause d'échec la plus probable: la faible participation, dont il est question séparément à la section 20. Elle ne se soigne ni par des rappels ni par des appels, mais par la question. **Si les questions ne touchent pas à la vie réelle, aux intérêts et aux difficultés des gens, le sens du vote disparaît tout entier: il n'y a plus de raison de demander, ni de raison de répondre.**
 
 Il y a ici une contradiction véritable, et nous la nommons au lieu de la contourner. Les critères de l'article 7 retiennent des questions planétaires - celles qu'aucun État ne règle seul. Or, à l'oreille, le planétaire est loin de la personne: entre « l'harmonisation du taux d'imposition des bénéfices transnationaux » et les soucis d'une journée précise, la distance paraît infranchissable.
 
@@ -561,13 +561,25 @@ Pour ces personnes, un « j'existe, je suis unique, et cela se vérifie en dehor
 
 Un tel artefact, à notre connaissance, n'existe ni chez les États, ni chez les organisations internationales, ni chez les instituts de sondage. Il est impossible sans la vérification de l'unicité et impossible sans le nombre. Et il est fort probable que ce soit lui, et non une reconnaissance quelconque, qui obligera le premier à compter avec le peuple: **on se met à compter non avec celui qui a un statut, mais avec celui qui a ce que personne d'autre n'a.**
 
-## 17. L'asymétrie honnête
+## 17. Ce que cela apporte à ceux qui ne sont pas encore nés
+
+Dans la partie I, il a été dit que la partie lésée - ceux qui ne votent pas encore et ceux qui ne sont pas encore nés - n'a pas de représentation. D'ordinaire la conversation s'arrête là: nommer le dommage est facile, et il n'y a rien pour le réparer.
+
+Ici il y a de quoi, et non par bonne intention de notre part, mais par construction du texte. L'article 9 de la Déclaration dit: **« Aucune décision du peuple des Earthlings ne fait peser ses conséquences sur ceux qui n'ont pas eu la possibilité de prendre part à son adoption, y compris sur les générations futures. »** L'article 9 relève du noyau intangible (article 13), et les principes du noyau ne sont pas mis aux voix du tout: ce ne sont pas des questions à seuil renforcé, ce sont des questions qui ne se posent pas. Une décision contraire au noyau est nulle dès son adoption et n'est couverte ni par le temps ni par l'exécution.
+
+De cette norme peut naître une procédure permanente: l'évaluation de chaque décision d'importance quant à son effet sur ceux qui viendront après, avec un avis publié et le droit de tout participant de l'exiger. Une telle procédure n'existe aujourd'hui dans aucun État ni dans aucune organisation internationale. Nous ne l'avons pas non plus encore: nous avons la norme dont elle découle, et ce sont deux choses différentes (section 21).
+
+Et il faut dire encore une chose, sans quoi le tableau serait plus beau que la vérité. **Derrière cette interdiction, il n'y a pas de tribunal.** Le peuple des Earthlings n'a pas de cour constitutionnelle, et nous n'en imitons pas une; personne n'est là pour contraindre à l'exécution. La force de la norme est ailleurs: le manquement est visible de tous, il n'est couvert ni par le temps ni par l'exécution, et au moindre doute les dispositions du noyau s'interprètent en faveur de la personne. Une telle protection est plus faible que la protection juridictionnelle sur le terrain de la contrainte, et plus forte sur celui de la vérifiabilité.
+
+Et même ainsi, la position reste singulière. Si le peuple obtient un jour une voix quelque part à l'extérieur, ce sera la seule partie à la table dont la règle constitutive interdit expressément de l'emporter aux dépens des générations suivantes. Non parce que nous serions meilleurs que les autres, mais parce que le texte même par lequel nous sommes constitués nous l'interdit.
+
+## 18. L'asymétrie honnête
 
 Nous devons dire franchement une chose à celui qui entre, parce qu'elle rend le tableau honnête.
 
 **La valeur de tout ce qui est décrit ici n'est pas linéaire en fonction du nombre de participants.** À des dizaines de milliers, l'instrument est une expérience curieuse. À des dizaines de millions, c'est une infrastructure devant laquelle on ne peut pas passer. La différence est faite par ceux qui sont venus entre les deux, et leur contribution vaut incomparablement plus que celle de ceux qui se joindront quand tout fonctionnera déjà.
 
-Il en découle aussi l'inverse, et il faut le dire également: **le participant précoce prend sur lui le risque de l'échec.** Il verse la cotisation, consacre du temps à la vérification d'identité et prend part à des votes dont le résultat peut n'intéresser personne. Nous ne savons pas comment cela finira, et la section 19 énumère ce qui peut faire échouer l'entreprise.
+Il en découle aussi l'inverse, et il faut le dire également: **le participant précoce prend sur lui le risque de l'échec.** Il verse la cotisation, consacre du temps à la vérification d'identité et prend part à des votes dont le résultat peut n'intéresser personne. Nous ne savons pas comment cela finira, et la section 20 énumère ce qui peut faire échouer l'entreprise.
 
 La seule chose que nous puissions opposer à ce risque, c'est sa taille. L'entrée est réversible n'importe quel jour, sans avoir à en expliquer les raisons. Elle n'exige de renoncer ni à sa nationalité, ni à son pays, ni à sa langue, ni à sa foi, ni à quoi que ce soit d'autre. Elle n'oblige à aucun acte contraire à la loi de son pays. Si cela ne réussit pas, la perte sera faible. Si cela réussit, le participant se trouvera parmi ceux qui l'auront fait.
 
@@ -575,7 +587,7 @@ La seule chose que nous puissions opposer à ce risque, c'est sa taille. L'entr�
 
 # Partie VIII. Le peuple
 
-## 18. D'où vient le peuple
+## 19. D'où vient le peuple
 
 Jusqu'ici il a été question de l'instrument. Maintenant, d'où vient le peuple dans cette construction et pourquoi il n'y est pas un ornement.
 
@@ -736,7 +748,7 @@ Il peut sembler que, sans pouvoirs, on ne puisse pas influer. C'est faux, et la 
 
 # Partie IX. Ce qui peut mal tourner
 
-## 19. Neuf manières de ruiner tout cela
+## 20. Neuf manières de ruiner tout cela
 
 Cette section n'est pas là pour faire contrepoids. Chacune des issues énumérées est possible, certaines sont plus probables que les bonnes, et pour chacune il est dit ce que nous faisons et ce que nous ne garantissons pas.
 
@@ -836,7 +848,7 @@ Disons aussi l'inverse, car il est du même ordre: **si les questions cessent de
 
 # Partie X. La vérifiabilité
 
-## 20. Ce qui, parmi ce qui est décrit, existe déjà et ce qui n'existe pas
+## 21. Ce qui, parmi ce qui est décrit, existe déjà et ce qui n'existe pas
 
 Nous affirmons qu'Earthlings est vérifiable, et cette affirmation n'a de sens que si l'on indique exactement ce qui est déjà construit et ce qui n'est encore que la description d'un dessein.
 
@@ -857,7 +869,7 @@ Nous affirmons qu'Earthlings est vérifiable, et cette affirmation n'a de sens q
 
 La liste complète de ce qui est annoncé comme principe mais n'est pas encore fait - y compris la vérification inachevée du contrat, les droits du propriétaire non séparés et l'absence de multisig sur le portefeuille de la trésorerie - figure dans le document [Où nous en sommes](https://earth-lings.org/documents/fr/fr32-ou-nous-en-sommes.html). Nous préférons nommer ces endroits nous-mêmes plutôt que de les laisser comme trouvaille à qui viendra vérifier.
 
-## 21. Les indicateurs sur lesquels il faut nous juger
+## 22. Les indicateurs sur lesquels il faut nous juger
 
 Pour que ce qui est décrit ici puisse être vérifié et non cru sur parole, nous nommons les indicateurs sur lesquels il faut nous juger. L'obligation de publier le taux de participation rapporté au nombre de personnes ayant le droit de vote est établie à l'article 8 bis de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html); les autres indicateurs, le présent document ne les établit pas et ne peut pas les établir - il les propose comme une mesure qu'il retourne contre lui-même. Aucun d'eux n'est publicitaire, et sur plusieurs d'entre eux nous ferons à coup sûr mauvaise figure les premières années.
 
@@ -925,7 +937,6 @@ Les documents du corpus auxquels le présent renvoie:
 - [Plateforme numérique](https://earth-lings.org/documents/fr/fr12-plateforme-numerique.html)
 - [Passeport SBT](https://earth-lings.org/documents/fr/fr15-passeport-sbt.html)
 - [Politique de vérification biométrique](https://earth-lings.org/documents/fr/fr16-verification-biometrique.html)
-- [Ce qui peut suivre](https://earth-lings.org/documents/fr/fr17-ce-qui-peut-suivre.html)
 - [La période constituante](https://earth-lings.org/documents/fr/fr20-periode-constituante.html)
 - [Comment naît un sujet de droit](https://earth-lings.org/documents/fr/fr30-naissance-du-sujet-de-droit.html)
 - [Où nous en sommes](https://earth-lings.org/documents/fr/fr32-ou-nous-en-sommes.html)

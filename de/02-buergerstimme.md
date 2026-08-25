@@ -18,7 +18,7 @@ Der Abschnitt steht mit Absicht an erster Stelle: Er bestimmt, was dieses Dokume
 
 **Dieses Dokument legt nichts fest.** Es begründet keine Rechte und erlegt keine Pflichten auf, es verleiht keine Befugnisse und beschränkt keine, es erlaubt nichts und verbietet nichts. Aus ihm folgt nichts, was zu vollziehen wäre. Keine Bestimmung irgendeines anderen Dokuments des Korpus beruht auf ihm und kann auf ihm beruhen.
 
-**Es erklärt und vermutet.** Alle übrigen Dokumente des Korpus beschreiben, was ist, oder legen fest, was sein soll. Dieses hier spricht auch von dem, was es noch nicht gibt: von Stufen, von denen bis heute keine einzige genommen ist, und von Möglichkeiten, von denen keine einzige versprochen wird. Abschnitt 19 zählt neun Arten auf, auf die das alles scheitern kann, und Abschnitt 20 nennt, was gebaut ist und was noch nicht.
+**Es erklärt und vermutet.** Alle übrigen Dokumente des Korpus beschreiben, was ist, oder legen fest, was sein soll. Dieses hier spricht auch von dem, was es noch nicht gibt: von Stufen, von denen bis heute keine einzige genommen ist, und von Möglichkeiten, von denen keine einzige versprochen wird. Abschnitt 20 zählt neun Arten auf, auf die das alles scheitern kann, und Abschnitt 21 nennt, was gebaut ist und was noch nicht.
 
 **Verbindlich sind die Erklärung und die Charta.** Bei einer Abweichung zwischen diesem Dokument und einem von beiden gelten sie. Eine festgestellte Abweichung wird durch Änderung dieses Dokuments beseitigt und nicht durch Änderung der Erklärung oder der Charta. Die Auslegung dieses Dokuments kann weder eine Gewährleistung für den Menschen mindern noch die Befugnisse des Volkes oder einer seiner Einrichtungen erweitern.
 
@@ -328,7 +328,7 @@ Die Merkmale sind erschöpfend, das Verzeichnis der Fragen ist es nicht. Darunte
 
 ### Die Frage muss das Leben dessen betreffen, den man fragt
 
-Das ist die Antwort auf die wahrscheinlichste Ursache des Scheiterns - die niedrige Beteiligung, von der gesondert in Abschnitt 19 die Rede ist. Geheilt wird sie nicht durch Erinnerungen und nicht durch Aufrufe, sondern durch die Frage. **Wenn die Fragen das wirkliche Leben, die Interessen und die Schwierigkeiten der Menschen nicht berühren, verschwindet der Sinn der Abstimmung vollständig: Es gibt keinen Grund zu fragen, und es gibt keinen Grund zu antworten.**
+Das ist die Antwort auf die wahrscheinlichste Ursache des Scheiterns - die niedrige Beteiligung, von der gesondert in Abschnitt 20 die Rede ist. Geheilt wird sie nicht durch Erinnerungen und nicht durch Aufrufe, sondern durch die Frage. **Wenn die Fragen das wirkliche Leben, die Interessen und die Schwierigkeiten der Menschen nicht berühren, verschwindet der Sinn der Abstimmung vollständig: Es gibt keinen Grund zu fragen, und es gibt keinen Grund zu antworten.**
 
 Hier liegt ein wirklicher Widerspruch, und wir nennen ihn, statt ihn zu umgehen. Die Merkmale des Artikels 7 wählen planetare Fragen aus - jene, die kein Staat allein löst. Das Planetare aber klingt weit weg vom Menschen: Zwischen der „Abstimmung eines Steuersatzes auf transnationale Gewinne“ und den Sorgen eines bestimmten Tages scheint der Abstand unüberwindlich.
 
@@ -561,13 +561,25 @@ Für diese Menschen ist das nachweisbare „Ich bestehe, ich bin einer, und das 
 
 Ein solches Artefakt gibt es, soweit wir wissen, weder bei Staaten noch bei internationalen Organisationen noch bei Meinungsforschungsinstituten. Es ist ohne die Prüfung der Einmaligkeit unmöglich und ohne die Zahl unmöglich. Und sehr wahrscheinlich wird gerade es und keine Anerkennung als Erstes dazu zwingen, mit dem Volk zu rechnen: **Man beginnt nicht mit dem zu rechnen, der einen Status hat, sondern mit dem, der hat, was sonst niemand hat.**
 
-## 17. Die ehrliche Asymmetrie
+## 17. Was das denen gibt, die noch nicht geboren sind
+
+In Teil I hieß es, die geschädigte Seite - diejenigen, die noch nicht wählen, und diejenigen, die noch nicht geboren sind - habe keine Repräsentation. Gewöhnlich endet das Gespräch hier: Den Schaden zu benennen ist leicht, und zu beheben ist er mit nichts.
+
+Hier ist er mit etwas zu beheben - nicht wegen unserer guten Absicht, sondern wegen des Baus des Textes. Artikel 9 der Erklärung sagt: **„Kein Beschluss des Volkes der Earthlings wälzt seine Folgen auf diejenigen ab, die keine Möglichkeit hatten, an seiner Fassung teilzunehmen, einschließlich künftiger Generationen.“** Artikel 9 gehört zum unabänderlichen Kern (Artikel 13), und die Grundsätze des Kerns werden überhaupt nicht zur Abstimmung gestellt - es ist keine Frage einer erhöhten Schwelle, es ist eine Frage, die nicht gestellt wird. Ein Beschluss, der dem Kern widerspricht, ist von Anfang an nichtig und wird weder durch Zeit noch durch Ausführung geheilt.
+
+Aus dieser Norm kann ein ständiges Verfahren erwachsen: die Beurteilung jeder erheblichen Entscheidung nach ihrer Wirkung auf die, die nach uns kommen - mit einer veröffentlichten Stellungnahme und dem Recht jedes Teilnehmers, sie zu verlangen. Ein solches Verfahren gibt es heute in keinem Staat und in keiner internationalen Organisation. Bei uns besteht es ebenfalls noch nicht: Es gibt die Norm, aus der es folgt, und das ist zweierlei (Abschnitt 21).
+
+Und eines muss noch gesagt werden, sonst gerät das Bild schöner als die Wahrheit. **Hinter diesem Verbot steht kein Gericht.** Das Volk der Earthlings hat kein Verfassungsgericht, und wir geben keines vor; es gibt niemanden, der die Erfüllung erzwingt. Die Kraft der Norm liegt anderswo: Ein Verstoß ist für alle sichtbar, er wird weder durch Zeit noch durch Ausführung geheilt, und im Zweifel werden die Bestimmungen des Kerns zugunsten des Menschen ausgelegt. Ein solcher Schutz ist schwächer als der eines Gerichts im Zwang und stärker in der Überprüfbarkeit.
+
+Und auch so bleibt die Lage besonders. Wenn das Volk irgendwo nach außen eine Stimme erhält, wird es die einzige Seite am Tisch sein, deren konstituierende Regel es ihr ausdrücklich verbietet, auf Kosten der folgenden Generationen zu gewinnen. Nicht weil wir gütiger wären als andere, sondern weil es uns eben jener Text verbietet, durch den wir konstituiert sind.
+
+## 18. Die ehrliche Asymmetrie
 
 Wir sind verpflichtet, dem Beitretenden eines geradeheraus zu sagen, weil es das Bild ehrlich macht.
 
 **Der Wert alles Beschriebenen verläuft nicht linear zur Zahl der Teilnehmer.** Bei Zehntausenden ist das Messinstrument ein interessanter Versuch. Bei Dutzenden Millionen ist es Infrastruktur, an der man nicht vorbeikommt. Den Unterschied schaffen diejenigen, die dazwischen gekommen sind, und ihr Einsatz ist unvergleichlich mehr wert als der Einsatz derer, die sich anschließen, wenn alles schon läuft.
 
-Daraus folgt auch das Gegenteil, und auch das ist zu sagen: **Der frühe Teilnehmer nimmt das Risiko auf sich, dass es misslingt.** Er zahlt den Beitrag, wendet Zeit für die Identitätsprüfung auf und nimmt an Abstimmungen teil, deren Ergebnis niemanden interessieren mag. Wir wissen nicht, wie es ausgeht, und in Abschnitt 19 ist aufgezählt, woran es misslingen kann.
+Daraus folgt auch das Gegenteil, und auch das ist zu sagen: **Der frühe Teilnehmer nimmt das Risiko auf sich, dass es misslingt.** Er zahlt den Beitrag, wendet Zeit für die Identitätsprüfung auf und nimmt an Abstimmungen teil, deren Ergebnis niemanden interessieren mag. Wir wissen nicht, wie es ausgeht, und in Abschnitt 20 ist aufgezählt, woran es misslingen kann.
 
 Das Einzige, was wir diesem Risiko entgegensetzen können, ist seine Größe. Der Beitritt ist an jedem Tag ohne Angabe von Gründen umkehrbar. Er verlangt nicht, auf die Staatsangehörigkeit, das Land, die Sprache, den Glauben oder sonst etwas zu verzichten. Er verpflichtet zu keiner einzigen Handlung gegen das Gesetz des eigenen Landes. Misslingt es, so ist wenig verloren. Gelingt es, so ist der Teilnehmer unter denen, die es getan haben.
 
@@ -575,7 +587,7 @@ Das Einzige, was wir diesem Risiko entgegensetzen können, ist seine Größe. De
 
 # Teil VIII. Das Volk
 
-## 18. Woher das Volk kommt
+## 19. Woher das Volk kommt
 
 Bisher war vom Messinstrument die Rede. Nun davon, woher in diesem Bau das Volk kommt und warum es darin kein Schmuck ist.
 
@@ -736,7 +748,7 @@ Es mag scheinen, dass man ohne Befugnisse nichts bewirken kann. Das ist falsch u
 
 # Teil IX. Was schiefgehen kann
 
-## 19. Neun Arten, das zugrunde zu richten
+## 20. Neun Arten, das zugrunde zu richten
 
 Der Abschnitt steht nicht des Gleichgewichts wegen hier. Jeder der aufgezählten Ausgänge ist möglich, einige sind wahrscheinlicher als die guten, und zu jedem ist gesagt, was wir tun und was wir nicht gewährleisten.
 
@@ -836,7 +848,7 @@ Sagen wir auch das Umgekehrte, denn es ist von derselben Ordnung: **Wenn die Fra
 
 # Teil X. Die Überprüfbarkeit
 
-## 20. Was von dem Beschriebenen schon da ist und was nicht
+## 21. Was von dem Beschriebenen schon da ist und was nicht
 
 Wir behaupten, dass Earthlings überprüfbar ist, und diese Behauptung hat nur dann einen Sinn, wenn genau angegeben ist, was schon gebaut ist und was vorerst die Beschreibung eines Entwurfs ist.
 
@@ -857,7 +869,7 @@ Wir behaupten, dass Earthlings überprüfbar ist, und diese Behauptung hat nur d
 
 Das vollständige Verzeichnis dessen, was als Grundsatz erklärt, aber noch nicht getan ist - einschließlich der nicht abgeschlossenen Verifizierung des Vertrags, der nicht aufgeteilten Rechte des Eigentümers und des Fehlens einer Multisig auf dem Wallet der Schatzkammer - steht im Dokument [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html). Wir nennen diese Stellen lieber selbst, als sie einem Prüfer als Fund zu überlassen.
 
-## 21. Kennzahlen, nach denen man uns beurteilen soll
+## 22. Kennzahlen, nach denen man uns beurteilen soll
 
 Damit sich das hier Beschriebene überprüfen und nicht bloß glauben lässt, nennen wir die Kennzahlen, nach denen man uns beurteilen soll. Die Pflicht, den Anteil der Abstimmenden an den Stimmberechtigten zu veröffentlichen, ist in Artikel 8-bis der [Charta](https://earth-lings.org/documents/de/de05-charta.html) festgelegt; die übrigen Kennzahlen legt dieses Dokument nicht fest und kann sie nicht festlegen - es schlägt sie als Maßstab vor, den es auf sich selbst anwendet. Keine von ihnen ist werbend, und bei mehreren von ihnen werden wir in den ersten Jahren mit Sicherheit schlecht dastehen.
 
@@ -925,7 +937,6 @@ Dokumente des Korpus, auf die dieses Dokument verweist:
 - [Die Digitale Plattform](https://earth-lings.org/documents/de/de12-digitale-plattform.html)
 - [Der SBT-Pass](https://earth-lings.org/documents/de/de15-sbt-pass.html)
 - [Die Politik der biometrischen Prüfung](https://earth-lings.org/documents/de/de16-biometrische-pruefung.html)
-- [Was als Nächstes geschehen kann](https://earth-lings.org/documents/de/de17-was-kommt-als-naechstes.html)
 - [Die Gründungsphase](https://earth-lings.org/documents/de/de20-gruendungsphase.html)
 - [Wie ein Rechtssubjekt entsteht](https://earth-lings.org/documents/de/de30-entstehung-des-rechtssubjekts.html)
 - [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html)
