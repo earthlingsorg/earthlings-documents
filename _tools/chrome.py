@@ -530,14 +530,18 @@ def footer_html(lang, doc_href, has_doc=None):
       % esc(t(lang, 'nav.awakened_code')))
     a(u'</ul></div>')
 
-    a(u'<div class="ftr-col"><h2 class="ftr-h">%s</h2>' % esc(x(lang, 'essays')))
+    # Колонка показывается, только когда в ней есть ссылки. Пока список пуст,
+    # заголовок без единой строки под ним читается не как «место занято», а
+    # как поломка вёрстки. Появится первая ссылка - колонка вернётся сама.
     if FOOTER_ESSAYS:
+        a(u'<div class="ftr-col"><h2 class="ftr-h">%s</h2>'
+          % esc(x(lang, 'essays')))
         a(u'<ul class="ftr-list">')
         for href, label in FOOTER_ESSAYS:
             a(u'<li><a href="%s" rel="noopener">%s</a></li>'
               % (esc(href), esc(label.get(lang) or label['en'])))
         a(u'</ul>')
-    a(u'</div>')
+        a(u'</div>')
 
     # «Частые вопросы» перенесены сюда из меню (решение Артура 2026-08-25).
     # Колонка от этого становится «куда идти с вопросом»: сначала ответ,
