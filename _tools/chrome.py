@@ -268,24 +268,28 @@ EXTRA = {
     # Это единственная строка главной, сочинённая для неё, а не взятая
     # из корпуса. Поэтому она и лежит здесь, среди строк интерфейса, а
     # не собирается из мастера: выдавать её за цитату нельзя.
+    # Фраза последней полосы. Кончается на «открыто» и ничего не
+    # предлагает сама: с 25 августа рядом стоит кнопка, и звать дважды -
+    # значит спорить с собой. Прежний хвост «...и открыто для вступления»
+    # был нужен, пока вся фраза была кнопкой.
     'join_line': {
         'ru': u'Всё, что нужно народу, чтобы действовать, у Earthlings уже '
-              u'построено и открыто для вступления',
+              u'построено и открыто',
         'en': u'Everything a people needs in order to act is already built '
-              u'at Earthlings, and open to join',
+              u'at Earthlings, and it is open',
         'de': u'Alles, was ein Volk zum Handeln braucht, ist bei Earthlings '
-              u'bereits gebaut und offen für den Beitritt',
+              u'bereits gebaut und offen',
         'es': u'Todo lo que un pueblo necesita para actuar ya está '
-              u'construido en Earthlings y abierto para incorporarse',
+              u'construido en Earthlings y está abierto',
         'fr': u"Tout ce qu'un peuple doit avoir pour agir est déjà "
-              u"construit chez Earthlings et ouvert à l'adhésion",
-        'zh': u'一个人民行动所需要的一切，在 Earthlings 已经建成，并且开放加入',
+              u"construit chez Earthlings et ouvert",
+        'zh': u'一个人民行动所需要的一切，在 Earthlings 已经建成，并且开放',
         'ar': u'كل ما يحتاجه الشعب لكي يفعل مبنيٌّ عند Earthlings بالفعل '
-              u'ومفتوح للانضمام',
+              u'ومفتوح',
         'hi': u'किसी जन को कार्य करने के लिए जो कुछ चाहिए, वह Earthlings में '
-              u'पहले से बना है और शामिल होने के लिए खुला है',
+              u'पहले से बना है और खुला है',
         'ka': u'ყველაფერი, რაც ხალხს სამოქმედოდ სჭირდება, Earthlings-ში უკვე '
-              u'აშენებულია და ღიაა შემოსაერთებლად'},
+              u'აშენებულია და ღიაა'},
     # Ссылка с полосы главной на полный текст.
     'read_more': {'ru': u'Читать целиком', 'en': u'Read in full',
                   'es': u'Leer completo', 'de': u'Vollständig lesen',
