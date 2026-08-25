@@ -26,8 +26,20 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 # и `DOCS` были русскими константами и исчезли вместе с переездом - проверка
 # падала на импорте, то есть молча не работала. Теперь путь считается теми же
 # функциями, которыми его считает сборщик: расходиться нечему.
+import build_site_docs
 from build_site_docs import (ALL_LANGS, CHAIN, SLUGS, corpus_file, doc_file,
                              docs_dir, has_doc, load_fragments, md_dir)
+
+# Сверяем с деревом НОВОГО сайта, а не боевого. Боевой заменяется и с
+# 2026-08-25 не пересобирается (решение Артура), поэтому его страницы будут
+# отставать от мастеров всё сильнее, и проверка против них показывала бы
+# расхождения, которых в работе нет. `docs_dir` смотрит на этот флаг.
+#
+# Проверить боевое дерево при нужде: python verify_md_html.py --legacy ...
+if '--legacy' in sys.argv:
+    sys.argv.remove('--legacy')
+else:
+    build_site_docs.THEME = 'v2'
 
 WORD = re.compile(r'[0-9A-Za-zЀ-ӿ]+', re.U)
 
@@ -73,6 +85,14 @@ DROP_BLOCKS = [
     r'<!--seo-prev-next-start-->.*?<!--seo-prev-next-end-->',
     r'<!--umami-start-->.*?<!--umami-end-->',
     r'<figure class="diagram".*?</figure>',   # схемы приходят не из .md, см. ниже
+    # Обвязка новой темы. Правила выше писались под боевую разметку, где меню
+    # и подвал рисует скрипт и в HTML их нет. В новой теме они статические -
+    # и без этих трёх строк проверка объявляла расхождением каждый документ,
+    # находя в странице «лишние» слова меню, названия языков и адрес почты.
+    r'<a class="skip".*?</a>',
+    r'<header class="hdr".*?</header>',
+    r'<footer class="ftr".*?</footer>',
+    r'<nav class="seo-prev-next".*?</nav>',
 ]
 
 
