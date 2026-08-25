@@ -178,6 +178,14 @@ SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
         'es': u'El equipo Earthlings', 'ka': u'Earthlings-ის გუნდი',
         'zh': u'Earthlings 团队', 'ar': u'فريق Earthlings'}
 
+# Файлы лежат в _v2/downloads/ - своей копией, а не ссылкой на боевое дерево:
+# после подмены корня боевого каталога рядом не будет, и ссылка провалилась бы
+# в 404 на всех языках разом. Перенесены 2026-08-25.
+#
+# Китайский PDF собран 20 августа и попал только в боевое дерево (коммит
+# 342ea2e): кнопку добавили на боевую главную, а в эту таблицу - нет. Здесь он
+# добавлен. Арабского PDF не существует: сборка Манифеста на арабском
+# заблокирована движком, это отдельный открытый вопрос. Хинди ждёт перевода.
 PDF = {
     'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', u'Скачать Манифест в PDF'),
     'en': ('/downloads/manifesto-of-belonging-en.pdf', u'Download the Manifesto as PDF'),
@@ -185,6 +193,7 @@ PDF = {
     'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', u'Télécharger le Manifeste en PDF'),
     'es': ('/downloads/manifiesto-de-la-pertenencia-es.pdf', u'Descargar el Manifiesto en PDF'),
     'ka': ('/downloads/manifesto-of-belonging-ka.pdf', u'ჩამოტვირთეთ მანიფესტი PDF-ად'),
+    'zh': ('/downloads/manifesto-of-belonging-zh.pdf', u'下载《宣言》PDF'),
 }
 
 

@@ -90,6 +90,33 @@ EXTRA = {
     'menu': {'ru': u'Меню', 'en': u'Menu', 'es': u'Menú', 'de': u'Menü',
              'fr': u'Menu', 'zh': u'菜单', 'ar': u'القائمة', 'hi': u'मेनू',
              'ka': u'მენიუ'},
+    # Описание страницы библиотеки. Боевые библиотеки его имеют, но у трёх
+    # языков там потеряна диакритика («vollstandige», «bibliotheque»,
+    # «biblioteca» без ударений) - собраны они были до того, как это стали
+    # проверять. Здесь строки написаны заново.
+    'library_desc': {
+        'ru': u'Полная библиотека документов народа Earthlings: Декларация, '
+              u'Устав, правовое обоснование, устройство и экономика.',
+        'en': u"The complete library of the Earthlings people's documents: "
+              u'the Declaration, the Charter, the legal basis, the structure '
+              u'and the economy.',
+        'de': u'Die vollständige Dokumentenbibliothek des Volkes der Earthlings: '
+              u'die Erklärung, die Charta, die Rechtsgrundlage, der Aufbau und '
+              u'die Wirtschaft.',
+        'es': u'La biblioteca completa de documentos del pueblo Earthlings: la '
+              u'Declaración, la Carta, la base jurídica, la estructura y la '
+              u'economía.',
+        'fr': u'La bibliothèque complète des documents du peuple des Earthlings: '
+              u'la Déclaration, la Charte, la base juridique, la structure et '
+              u"l'économie.",
+        'zh': u'Earthlings 人民文件的完整文库：《宣言》、宪章、法律依据、组织结构与经济。',
+        'ar': u'المكتبة الكاملة لوثائق شعب Earthlings: الإعلان، والميثاق، '
+              u'والأساس القانوني، والبنية والاقتصاد.',
+        'hi': u'Earthlings जनता के दस्तावेज़ों का पूर्ण संग्रह: घोषणापत्र, '
+              u'चार्टर, विधिक आधार, संरचना और अर्थव्यवस्था।',
+        'ka': u'Earthlings-ის ხალხის დოკუმენტების სრული ბიბლიოთეკა: დეკლარაცია, '
+              u'ქარტია, სამართლებრივი საფუძველი, მოწყობა და ეკონომიკა.',
+    },
     'all_docs': {'ru': u'Все документы', 'en': u'All documents',
                  'es': u'Todos los documentos', 'de': u'Alle Dokumente',
                  'fr': u'Tous les documents', 'zh': u'全部文件',

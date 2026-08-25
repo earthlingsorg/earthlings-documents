@@ -1644,6 +1644,95 @@ def sync_library(titles, dry=False, lang='ru'):
     return changed
 
 
+def write_library_v2(lang, titles, dry=False):
+    """Библиотека документов новой темы - собирается, а не правится.
+
+    Отличие от sync_library принципиальное. Та функция чинит существующий файл
+    боевого дерева: перечень там был заведён руками, и она лишь приводит
+    названия и адреса в соответствие с корпусом. Здесь страницы нет вовсе, и
+    строить её из ничего надёжнее, чем переносить боевую вместе с накопленным
+    в ней ручным следом.
+
+    Состав берётся из CHAIN и has_doc - тех же двух источников, что и меню.
+    Третьему списку взяться неоткуда.
+
+    `noindex, follow` унаследован от боевой библиотеки: страница ведёт в
+    корпус, но сама в выдаче не нужна - её содержание есть в меню. Решение
+    пересмотреть индексацию открыто и записано отдельно; менять его заодно с
+    переносом было бы подменой предмета.
+    """
+    nums = [n for n in CHAIN if has_doc(n, lang) and n in titles]
+    assert nums, u'библиотека %s: нечего перечислять' % lang
+
+    # `esc` в head_html - локальная лямбда, наружу её не видно; здесь своя.
+    esc = lambda x: html.escape(x or '', quote=True)
+
+    url = '%s/documents/%s/index.html' % (ORIGIN, lang)
+    title = '%s | Earthlings' % chrome.x(lang, 'all_docs')
+    desc = chrome.x(lang, 'library_desc')
+
+    # hreflang только на языки, у которых библиотека действительно собирается.
+    # Обещать краулеру страницу, которой нет, - тот же дефект, что мы чинили в
+    # переключателе языка: ссылка ведёт в 404 и тратит обход.
+    built = [c for c in ALL_LANGS if c in SLUGS]
+    alts = ['<link rel="alternate" hreflang="%s" href="%s/documents/%s/index.html">'
+            % (c, ORIGIN, c) for c in built]
+    alts.append('<link rel="alternate" hreflang="x-default" '
+                'href="%s/documents/en/index.html">' % ORIGIN)
+
+    def href(num, code=None):
+        return doc_href(num, code or lang)
+
+    def lang_url(code):
+        return '/documents/%s/index.html' % code
+
+    rows = ['    <li><a href="%s"><span class="n">%s</span>'
+            '<span class="t">%s</span></a></li>'
+            % (href(n), n, html.escape(titles[n], quote=False)) for n in nums]
+
+    parts = [
+        '<!DOCTYPE html>',
+        '<html lang="%s"%s>' % (lang, ' dir="rtl"' if lang in chrome.RTL else ''),
+        '<head>',
+        '<meta charset="UTF-8">',
+        '<meta name="viewport" content="width=device-width, initial-scale=1">',
+        '<title>%s</title>' % esc(title),
+        '<meta name="description" content="%s">' % esc(desc),
+    ] + chrome.font_preloads(lang) + [
+        '<link rel="stylesheet" href="/css/tokens.css">',
+        '<link rel="stylesheet" href="/css/chrome.css">',
+        '<link rel="stylesheet" href="/css/doc.css">',
+        '<script defer src="/js/chrome.js"></script>',
+        '<meta name="robots" content="noindex, follow">',
+        '<link rel="canonical" href="%s">' % url,
+    ] + alts + [
+        '</head>',
+        '<body>',
+        chrome.header_html(lang, doc_href=href, lang_url=lang_url,
+                           home_url='/%s/' % lang,
+                           has_doc=lambda n: has_doc(n, lang)),
+        '<main class="library" id="main">',
+        '<h1>%s</h1>' % esc(chrome.x(lang, 'all_docs')),
+        '<ul class="docs">',
+    ] + rows + [
+        '</ul>',
+        '</main>',
+        chrome.footer_html(lang, doc_href=href,
+                           has_doc=lambda n: has_doc(n, lang)),
+        '</body>',
+        '</html>',
+        '',
+    ]
+
+    if not dry:
+        d = docs_dir(lang)
+        if not os.path.isdir(d):
+            os.makedirs(d)
+        io.open(os.path.join(d, 'index.html'), 'w',
+                encoding='utf-8', newline='\n').write('\n'.join(parts))
+    return len(nums)
+
+
 def write_redirect_map():
     """Карта 301 со старых числовых адресов на смысловые.
 
@@ -1798,6 +1887,24 @@ def main():
         print('hreflang   починено страниц: %d, аннотаций: %d' % (n, total))
         return
     global THEME
+    # Второй слой того же замка, что стоит пред-коммитным хуком в репозитории
+    # сайта. Хук ловит результат, этот отказ - причину: боевая тема просто не
+    # запускается. Так дешевле: не надо разбирать, что из сотни переписанных
+    # файлов было нужно, а что нет.
+    #
+    # Решение Артура 2026-08-25: боевой сайт заменяется новым и не правится
+    # ничем, включая пересборку из мастеров. Пересборка - это тоже правка, и
+    # именно на этом различении я ошиблась трижды.
+    #
+    # День подмены - единственный законный случай:  ALLOW_LEGACY_BUILD=1
+    if a.theme == 'legacy' and os.environ.get('ALLOW_LEGACY_BUILD') != '1':
+        sys.stderr.write(
+            u'ОТКАЗ: сборка боевой темы запрещена.\n\n'
+            u'  Боевой сайт заменяется новым и больше не правится - ни руками,\n'
+            u'  ни пересборкой. Собирайте --theme v2.\n\n'
+            u'  Если это день подмены: ALLOW_LEGACY_BUILD=1 python '
+            u'build_site_docs.py ...\n')
+        return 2
     THEME = a.theme
     lang = a.lang
     md, docs = md_dir(lang), docs_dir(lang)
@@ -1854,10 +1961,20 @@ def main():
                  arts, len(page.encode('utf-8')) // 1024))
 
     if THEME == 'v2':
-        # Библиотека, карта редиректов и doc-slugs.js - файлы боевого дерева.
-        # Новая тема их не трогает: пока сайты живут рядом, правка общих файлов
-        # из черновиковой сборки означала бы, что черновик меняет боевой сайт.
-        print('тема v2: библиотека, карта редиректов и doc-slugs.js не трогались')
+        # Карта редиректов и doc-slugs.js остаются файлами боевого дерева:
+        # правка общих файлов из черновиковой сборки означала бы, что черновик
+        # меняет боевой сайт.
+        #
+        # А вот библиотеку новая тема теперь собирает свою, и это не удобство.
+        # До 2026-08-25 её в `_v2` не было вовсе: тема не трогала боевую и не
+        # делала своей. После подмены корня «Все документы» исчезли бы вместе с
+        # единственным входом в корпус - в меню ссылки на них нет с 12 августа,
+        # а из подвала её сняли 23-го. Обнаружилось это при разборе того, что
+        # боевой сайт умеет, а новый нет.
+        n = write_library_v2(lang, titles, dry=a.dry)
+        print('библиотека %s: записей %d -> %s'
+              % (lang, n, os.path.join('_v2', 'documents', lang, 'index.html')))
+        print('тема v2: карта редиректов и doc-slugs.js не трогались')
         return
 
     for num, old, new in sync_library(titles, a.dry, lang):
@@ -1874,4 +1991,6 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    # Код возврата пробрасывается наружу: без этого отказ собирать боевую тему
+    # выглядел бы для любой обёртки успехом, и замок ловил бы только глаз.
+    sys.exit(main() or 0)
