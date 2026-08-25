@@ -638,12 +638,26 @@ def join(theme, lang):
     #
     # Кнопка - та же band-cta, что во всех прочих полосах. Второго синего не
     # заводится: у сайта один цвет действия.
+    parts = C.x(lang, 'join_line')
+    assert isinstance(parts, list) and len(parts) == 2, (
+        u'строка последней полосы (%s) хранится не двумя частями. Перенос в '
+        u'ней задан Артуром и ставится разметкой, а не переносом по ширине: '
+        u'по ширине он попал бы в разное место на разных экранах.' % lang)
+
     return u'\n'.join([
         u'<section class="band band--%s band--join">' % theme,
         u'<div class="band-in">',
-        u'<p class="join-line">%s</p>' % C.esc(C.x(lang, 'join_line')),
+        # Карточка: фраза и кнопка вместе. Приём тот же, что у девяти языковых
+        # версий Декларации и у шести шагов, - светлая заливка и линейка
+        # сверху. Кнопка стоит ПОД фразой, а не рядом: две центрованные строки
+        # и действие под ними читаются закрывающим утверждением, а текст с
+        # кнопкой сбоку - объявлением.
+        u'<div class="join-card">',
+        u'<p class="join-line">%s<br>%s</p>'
+        % (C.esc(parts[0]), C.esc(parts[1])),
         u'<a class="band-cta" href="%s">%s</a>'
         % (C.esc(C.CTA_URL % lang), C.esc(C.t(lang, 'nav.become_earthling'))),
+        u'</div>',
         u'</div></section>',
     ])
 

@@ -272,24 +272,35 @@ EXTRA = {
     # предлагает сама: с 25 августа рядом стоит кнопка, и звать дважды -
     # значит спорить с собой. Прежний хвост «...и открыто для вступления»
     # был нужен, пока вся фраза была кнопкой.
+    # Хранится ДВУМЯ ЧАСТЯМИ, и это не прихоть вёрстки. Артур задал перенос
+    # для русского: «Всё, что нужно народу, чтобы действовать,» / «у
+    # Earthlings уже построено и открыто». Разрыв стоит на границе между тем,
+    # ЧТО нужно, и тем, ГДЕ это есть, - и такая граница есть во всех девяти
+    # языках: устройство фразы всюду одно. Поэтому правило общее - разрыв
+    # перед сказуемым, - а не русское исключение.
+    #
+    # Части, а не строка с <br> внутри: разметка в словаре означала бы, что
+    # строку нельзя показать нигде, кроме этого места, - ни в письме, ни в
+    # заголовке страницы, ни голосом. Собирает её тот, кто показывает.
     'join_line': {
-        'ru': u'Всё, что нужно народу, чтобы действовать, у Earthlings уже '
-              u'построено и открыто',
-        'en': u'Everything a people needs in order to act is already built '
-              u'at Earthlings, and it is open',
-        'de': u'Alles, was ein Volk zum Handeln braucht, ist bei Earthlings '
-              u'bereits gebaut und offen',
-        'es': u'Todo lo que un pueblo necesita para actuar ya está '
-              u'construido en Earthlings y está abierto',
-        'fr': u"Tout ce qu'un peuple doit avoir pour agir est déjà "
-              u"construit chez Earthlings et ouvert",
-        'zh': u'一个人民行动所需要的一切，在 Earthlings 已经建成，并且开放',
-        'ar': u'كل ما يحتاجه الشعب لكي يفعل مبنيٌّ عند Earthlings بالفعل '
-              u'ومفتوح',
-        'hi': u'किसी जन को कार्य करने के लिए जो कुछ चाहिए, वह Earthlings में '
-              u'पहले से बना है और खुला है',
-        'ka': u'ყველაფერი, რაც ხალხს სამოქმედოდ სჭირდება, Earthlings-ში უკვე '
-              u'აშენებულია და ღიაა'},
+        'ru': [u'Всё, что нужно народу, чтобы действовать,',
+               u'у Earthlings уже построено и открыто'],
+        'en': [u'Everything a people needs in order to act',
+               u'is already built at Earthlings, and it is open'],
+        'de': [u'Alles, was ein Volk zum Handeln braucht,',
+               u'ist bei Earthlings bereits gebaut und offen'],
+        'es': [u'Todo lo que un pueblo necesita para actuar',
+               u'ya está construido en Earthlings y está abierto'],
+        'fr': [u"Tout ce qu'un peuple doit avoir pour agir",
+               u"est déjà construit chez Earthlings et ouvert"],
+        'zh': [u'一个人民行动所需要的一切，',
+               u'在 Earthlings 已经建成，并且开放'],
+        'ar': [u'كل ما يحتاجه الشعب لكي يفعل',
+               u'مبنيٌّ عند Earthlings بالفعل ومفتوح'],
+        'hi': [u'किसी जन को कार्य करने के लिए जो कुछ चाहिए,',
+               u'वह Earthlings में पहले से बना है और खुला है'],
+        'ka': [u'ყველაფერი, რაც ხალხს სამოქმედოდ სჭირდება,',
+               u'Earthlings-ში უკვე აშენებულია და ღიაა']},
     # Ссылка с полосы главной на полный текст.
     'read_more': {'ru': u'Читать целиком', 'en': u'Read in full',
                   'es': u'Leer completo', 'de': u'Vollständig lesen',
