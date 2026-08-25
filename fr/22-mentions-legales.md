@@ -88,6 +88,14 @@ Le peuple ne parle qu'au nom de ceux qui y ont volontairement adhéré et ne pr�
 
 La gouvernance est exercée directement par les participants au moyen de mécanismes d'autogouvernement collectif: l'Assemblée DAO est le seul organe qui prenne des décisions obligatoires. Les structures techniques et de protection agissent sur mission immédiatement révocable et ne prennent pas de décisions au nom du peuple.
 
+## Droits sur les textes
+
+Les textes du corpus sont publiés sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0): ils peuvent être copiés, diffusés, traduits et adaptés, y compris à des fins commerciales, à condition d'en créditer l'auteur et de renvoyer à la licence. Le code informatique est publié à part, sous licence MIT.
+
+Ce n'est pas un geste d'ouverture, mais une conséquence de la construction. Un peuple dont les textes fondateurs ne peuvent être reproduits ne peut être ni vérifié ni rétabli si l'infrastructure existante est captée ou cesse de fonctionner. Le droit de reproduire fait partie de la protection contre la captation; il ne s'y ajoute pas.
+
+Le texte intégral de la licence: [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)
+
 ---
 
 **Pour les demandes émanant d'organes de l'État, d'organisations internationales, d'établissements financiers et de juristes:** info@earth-lings.org

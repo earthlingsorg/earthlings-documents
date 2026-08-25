@@ -88,6 +88,14 @@ The people speaks only on behalf of those who voluntarily entered it and claims 
 
 Governance is exercised directly by the participants through mechanisms of collective self-government: the DAO Assembly is the sole body that takes binding decisions. Technical and protective structures act under an immediately revocable mandate and take no decisions on behalf of the people.
 
+## Rights in the texts
+
+The texts of the corpus are published under the Creative Commons Attribution 4.0 International licence (CC BY 4.0): they may be copied, distributed, translated and adapted, including for commercial purposes, provided the author is credited and the licence is linked. The software is published separately, under the MIT licence.
+
+This is not a gesture of openness but a consequence of design. A people whose founding texts cannot be reproduced can neither be verified nor restored if the existing infrastructure is captured or ceases to work. The right to reproduce is part of the protection against capture, not an addition to it.
+
+The full text of the licence: [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+
 ---
 
 **For enquiries from state authorities, international organizations, financial institutions, and lawyers:** info@earth-lings.org

@@ -88,6 +88,14 @@ Das Volk spricht nur im Namen derjenigen, die ihm freiwillig beigetreten sind, u
 
 Die Verwaltung wird unmittelbar von den Teilnehmern über die Mechanismen der kollektiven Selbstverwaltung wahrgenommen: Die DAO-Vollversammlung ist das einzige Organ, das bindende Beschlüsse fasst. Technische und schützende Strukturen handeln unter einem sofort widerruflichen Auftrag und fassen keine Beschlüsse im Namen des Volkes.
 
+## Rechte an den Texten
+
+Die Texte des Korpus stehen unter der Lizenz Creative Commons Attribution 4.0 International (CC BY 4.0): Sie dürfen kopiert, verbreitet, übersetzt und bearbeitet werden, auch zu kommerziellen Zwecken, sofern die Urheberschaft genannt und auf die Lizenz verwiesen wird. Der Programmcode ist gesondert veröffentlicht, unter der MIT-Lizenz.
+
+Das ist keine Geste der Offenheit, sondern eine Folge des Baus. Ein Volk, dessen Gründungstexte sich nicht vervielfältigen lassen, lässt sich weder überprüfen noch wiederherstellen, wenn die bestehende Infrastruktur vereinnahmt wird oder ausfällt. Das Recht zu vervielfältigen gehört zum Schutz vor Vereinnahmung, es kommt nicht zu ihm hinzu.
+
+Der volle Text der Lizenz: [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+
 ---
 
 **Für Anfragen von staatlichen Stellen, internationalen Organisationen, Finanzinstituten und Juristen:** info@earth-lings.org

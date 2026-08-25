@@ -88,6 +88,14 @@ El pueblo habla únicamente en nombre de quienes se han adherido voluntariamente
 
 El gobierno lo ejercen directamente los participantes mediante mecanismos de autogobierno colectivo: la Asamblea DAO es el único órgano que adopta decisiones vinculantes. Las estructuras técnicas y de protección actúan bajo un encargo revocable de inmediato y no adoptan decisiones en nombre del pueblo.
 
+## Derechos sobre los textos
+
+Los textos del corpus se publican bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0): pueden copiarse, distribuirse, traducirse y adaptarse, incluso con fines comerciales, siempre que se reconozca la autoría y se enlace la licencia. El código informático se publica aparte, bajo la licencia MIT.
+
+No es un gesto de apertura, sino una consecuencia de la construcción. Un pueblo cuyos textos fundacionales no pueden reproducirse no puede ni comprobarse ni restablecerse si la infraestructura existente es capturada o deja de funcionar. El derecho a reproducir forma parte de la protección frente a la captura; no es un añadido a ella.
+
+El texto completo de la licencia: [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
+
 ---
 
 **Para consultas de órganos del Estado, organizaciones internacionales, entidades financieras y juristas:** info@earth-lings.org
