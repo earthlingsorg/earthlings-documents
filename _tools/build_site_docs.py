@@ -153,6 +153,38 @@ SLUGS = {
         '31': 'working-agenda',
         '32': 'where-we-are-now',
     },
+    # Хинди. Слаг совпадает с английским знак в знак - как у
+    # арабского, китайского и грузинского. Деванагари в адресе
+    # превращается в %E0%A4%A6 и ссылка перестаёт читаться, а
+    # внутри самих документов ссылки уже написаны английскими
+    # слагами и переписывать их задним числом нельзя.
+    'hi': {
+        '01': 'declaration',
+        '02': 'civic-voice',
+        '03': 'ethics',
+        '04': 'legal-basis',
+        '05': 'charter',
+        '07': 'dao',
+        '08': 'cells',
+        '09': 'treasury',
+        '10': 'earthlings-coin',
+        '11': 'independent-council',
+        '12': 'digital-platform',
+        '14': 'the-earthling-path',
+        '15': 'sbt-passport',
+        '16': 'biometric-verification',
+        '19': 'roadmap',
+        '20': 'the-founding-period',
+        '22': 'legal-information',
+        '23': 'about-us',
+        '26': 'objections-and-answers',
+        '27': 'frequently-asked-questions',
+        '28': 'privacy-policy',
+        '29': 'terms-of-use',
+        '30': 'how-a-subject-of-law-arises',
+        '31': 'working-agenda',
+        '32': 'where-we-are-now',
+    },
     # Немецкий. Слаги выведены из имён мастеров в de/ и совпадают с внутренней
     # перелинковкой немецких документов. Умляуты и ß в слагах не ставим:
     # транслитерируем по немецкой почтовой норме (ä→ae, ö→oe, ü→ue, ß→ss),
@@ -1119,9 +1151,9 @@ ALL_LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 #
 # Порядок такой: сначала 25 мастеров в hi/, потом SLUGS['hi'], потом эта
 # строка - одним заходом, и сразу пересборка.
-LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh'],
-                '20': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh'],
-                '32': ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh']}
+LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
+                '20': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
+                '32': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']}
 
 # Строки интерфейса страницы. Их немного, и держать их здесь честнее, чем
 # городить локализацию: язык, которого тут нет, соберётся с русскими словами
