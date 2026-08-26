@@ -306,6 +306,20 @@ Eine Messung gegen Bezahlung eines Auftraggebers findet nicht statt; zweckgebund
 
 Das Verfahren der Messungen wird im Übrigen durch Beschluss der DAO-Vollversammlung festgelegt und vor der ersten Messung veröffentlicht.
 
+## Artikel 8-ter. Das durch Los ausgewählte Panel
+
+Der Messung des gemeinsamen Willens geht die Arbeit eines Panels voraus, das per Los aus dem Register ausgewählt wird. Das Panel fasst keine Beschlüsse und bekundet keinen gemeinsamen Willen: Es bereitet die Frage für die Messung vor.
+
+Das Panel wird per Los aus den Inhabern des earthling-Passes ausgewählt. Das Losverfahren und die Quelle des Zufalls werden vor der Auswahl veröffentlicht, die Zusammensetzung danach, so dass ein Außenstehender die Auswahl nachprüfen kann. Die Teilnahme ist freiwillig; eine Ablehnung hat keine Folgen, und wer ausscheidet, wird durch dasselbe Los ersetzt.
+
+Das Panel erhält Materialien, hört Fachleute und Vertreter entgegengesetzter Positionen an, erörtert öffentlich und formuliert Antwortmöglichkeiten samt den Gründen für und gegen jede von ihnen und benennt auch das, worin die Teilnehmer nicht übereinkamen. Die Messung führt das Panel nicht durch; die Anforderungen des Artikels 8-bis an die Bildung der Frage gelten auch für die vom Panel vorbereiteten Antwortmöglichkeiten.
+
+Die Arbeit des Panels wird zusammen mit der Frage veröffentlicht: die Zusammensetzung nach dem Auswahlverfahren, die geprüften Materialien, die angehörten Seiten, die dargelegten Gründe und die festgehaltenen Meinungsverschiedenheiten. Eine Veröffentlichung, die nicht nachvollziehen lässt, woher die Antwortmöglichkeiten stammen, ist keine Arbeit eines Panels.
+
+Ein Panel wird nicht einberufen, solange das Register keinen Querschnitt des Volkes durch Los ergibt. Bis zu diesem Tag wird die Messung ohne Panel durchgeführt, und das wird zusammen mit der Frage mitgeteilt; das Verschweigen des Fehlens eines Panels ist ein Mangel der Messung.
+
+Die Schwelle, von der an das Los einen Querschnitt ergibt, und im Übrigen das Verfahren der Arbeit des Panels werden durch Beschluss der DAO-Vollversammlung festgelegt und vor dem ersten Panel veröffentlicht.
+
 ---
 
 # ABSCHNITT 03. Das Wirtschaftssystem
@@ -870,6 +884,9 @@ Reihenfolge der Finanzierung bereits gebilligter Projekte bei fehlenden Mitteln 
 
 **Die Messung des gemeinsamen Willens (Artikel 8-bis)**
 Sie ist kein Beschluss und hat keine Schwelle: Mit ihr bekundet das Volk eine Position und beschließt nicht. Die Anforderungen sind in Artikel 8-bis festgelegt; das Verfahren wird im Übrigen durch Beschluss der DAO-Vollversammlung festgelegt.
+
+**Das durch Los ausgewählte Panel (Artikel 8-ter)**
+Es ist kein Beschluss und hat keine Schwelle: Das Panel bereitet die Frage für die Messung vor und beantwortet sie nicht. Auswahl per Los aus dem Register, freiwillige Teilnahme, die Arbeit wird zusammen mit der Frage veröffentlicht. Ein Panel wird nicht einberufen, solange das Register keinen Querschnitt des Volkes durch Los ergibt.
 
 ## Die Befugnisse der ausführenden Strukturen
 

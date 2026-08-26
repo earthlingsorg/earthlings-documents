@@ -364,7 +364,7 @@ Nous répondons ici à l'objection la plus forte contre l'entreprise entière: *
 
 L'objection est fondée. L'échelle ne donne pas par elle-même la qualité du jugement, et un grand nombre de réponses mal pesées est un grand nombre de réponses mal pesées.
 
-La réponse, c'est la construction à deux couches. Ci-dessous est décrit un dessein: il n'est établi comme règle obligatoire ni dans la Charte ni nulle part ailleurs, et il ne peut de toute façon pas être appliqué aujourd'hui - un tirage au sort dans un registre de quelques centaines de personnes ne donne pas une coupe du peuple. Le dessein est agencé ainsi:
+La réponse, c'est la construction à deux couches. Ci-dessous sont décrites les modalités établies par l'article 8 ter de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html); elles ne peuvent de toute façon pas être appliquées aujourd'hui - un tirage au sort dans un registre de quelques centaines de personnes ne donne pas une coupe du peuple, et l'article le dit expressément. Elles sont agencées ainsi:
 
 **Première couche: le panel.** Pour chaque question, un panel est tiré au sort dans le registre. Le tirage au sort n'a pas d'opinion: il donne une coupe du peuple et non sa partie active, et c'est un point de principe - la partie active est toujours biaisée. Le panel étudie la question pendant plusieurs semaines: il reçoit des documents, entend des spécialistes et les tenants de positions opposées, débat publiquement. En sortie, le panel ne décide pas - il **formule les options** et expose les arguments pour et contre chacune, avec ce sur quoi les participants ne se sont pas entendus.
 
@@ -863,7 +863,7 @@ Nous affirmons qu'Earthlings est vérifiable, et cette affirmation n'a de sens q
 
 - **aucune mesure de fond n'a été effectuée.** Le canal de vote est déployé et fonctionne techniquement, mais il n'y a pas encore eu de vote sur le fond;
 - **la procédure détaillée d'élaboration de la question n'existe pas.** Les exigences sans lesquelles la mesure n'a pas lieu sont établies à l'article 8 bis de la Charte; les modalités détaillées sont laissées à une décision de l'Assemblée et n'ont pas été adoptées;
-- **il n'existe pas de panels tirés au sort.** Le schéma à deux couches de la section 9 est un dessein, non une réalisation, et il n'est établi comme règle obligatoire nulle part;
+- **il n'existe pas de panels tirés au sort.** Le schéma à deux couches de la section 9 est établi par l'article 8 ter de la Charte, mais aucun panel n'a été réuni: le registre est encore trop petit pour un tirage, et l'article le dit expressément;
 - **la chronique des non-réponses n'existe pas.** Elle n'a pas été ouverte;
 - **aucun audit de sécurité indépendant n'a été effectué.**
 

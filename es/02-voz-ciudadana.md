@@ -364,7 +364,7 @@ Aquí respondemos a la objeción más fuerte contra todo el empeño: **preguntar
 
 La objeción es justa. La escala por sí sola no da calidad al juicio, y un gran número de respuestas mal meditadas es un gran número de respuestas mal meditadas.
 
-La respuesta a ella son las dos capas. Abajo se describe el propósito: no está establecido como regla obligatoria ni en la Carta ni en ningún otro sitio, y hoy tampoco se puede aplicar - un sorteo a partir de un registro de unos cientos de personas no da un corte transversal del pueblo. El propósito está dispuesto así:
+La respuesta a ella son las dos capas. Abajo se describe el procedimiento establecido por el artículo 8 ter de la [Carta](https://earth-lings.org/documents/es/es05-carta.html); hoy tampoco se puede aplicar - un sorteo a partir de un registro de unos cientos de personas no da un corte transversal del pueblo, y el artículo lo dice expresamente. El procedimiento está dispuesto así:
 
 **Capa primera: el panel.** Para cada pregunta se elige por sorteo del registro un panel. El sorteo no tiene opinión: da un corte transversal del pueblo y no su parte activa, y eso es de fondo, porque la parte activa siempre está sesgada. El panel estudia la cuestión durante varias semanas: recibe materiales, escucha a especialistas y a representantes de posiciones opuestas, delibera en público. A la salida el panel no decide: **formula las opciones** y expone los argumentos a favor y en contra de cada una, junto con aquello en lo que los participantes no se pusieron de acuerdo.
 
@@ -863,7 +863,7 @@ Afirmamos que Earthlings es verificable, y esa afirmación solo tiene sentido cu
 
 - **no se han realizado mediciones de fondo.** El canal de votación está desplegado y funciona técnicamente, pero votaciones de fondo todavía no ha habido en él;
 - **no existe un procedimiento detallado de formación de la pregunta.** Los requisitos sin los cuales la medición no se produce están establecidos en el artículo 8 bis de la Carta; el procedimiento en detalle queda encomendado a una decisión de la Asamblea y no está adoptado;
-- **no existen paneles por sorteo.** El esquema de dos capas de la sección 9 es un propósito, no una realización, y no está establecido como regla obligatoria en ningún sitio;
+- **no existen paneles por sorteo.** El esquema de dos capas de la sección 9 está establecido por el artículo 8 ter de la Carta, pero no se ha reunido ni un solo panel: el registro es todavía demasiado pequeño para un sorteo, y el artículo lo dice expresamente;
 - **no existe la crónica de las no respuestas.** No está abierta;
 - **no se ha realizado una auditoría de seguridad independiente.**
 

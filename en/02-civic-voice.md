@@ -364,7 +364,7 @@ Here we answer the strongest objection to the whole undertaking: **polling milli
 
 The objection is just. Scale by itself confers no quality of judgment, and a large number of ill-considered answers is a large number of ill-considered answers.
 
-The answer to it is the two layers. What is described below is a design: it is established as a binding rule neither in the Charter nor anywhere else, and it cannot be applied today in any case - drawing lots from a registry of a few hundred people yields no cross-section of the people. The design is arranged like this:
+The answer to it is the two layers. What is described below is the order established by Article 8 ter of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); it cannot be applied today in any case - drawing lots from a registry of a few hundred people yields no cross-section of the people, and the article says so expressly. The order is arranged like this:
 
 **Layer one - the panel.** For each question a panel is selected by lot from the registry. Selection by lot has no opinion: it gives a cross-section of the people, not its active part, and that is fundamental - the active part is always skewed. The panel spends several weeks getting to grips with the question: it receives materials, hears specialists and representatives of the opposing positions, and discusses publicly. At the end the panel does not decide - it **formulates the options** and sets out the arguments for and against each, together with the points on which the participants did not agree.
 
@@ -863,7 +863,7 @@ We assert that Earthlings is verifiable, and that assertion has meaning only whe
 
 - **no substantive measurements have been conducted.** The voting channel is deployed and technically works, but there have been no votes on the merits in it yet;
 - **no procedure in detail for forming a question exists.** The requirements without which a measurement does not take place are established by Article 8 bis of the Charter; the order in detail is left to a decision of the Assembly and has not been adopted;
-- **no panels selected by lot exist.** The two-layer scheme from section 9 is a design, not an implementation, and it is established as a binding rule nowhere;
+- **no panels selected by lot exist.** The two-layer scheme from section 9 is established by Article 8 ter of the Charter, but not one panel has been assembled: the registry is still too small for a draw, and the article says so expressly;
 - **no chronicle of non-answers exists.** It has not been started;
 - **no independent security audit has been conducted.**
 

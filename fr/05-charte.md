@@ -306,6 +306,20 @@ Une mesure n'est pas effectuée contre paiement d'un commanditaire; les fonds af
 
 Les modalités de conduite des mesures sont pour le reste établies par une décision de l'Assemblée DAO et publiées avant la première mesure.
 
+## Article 8 ter. Le panel tiré au sort
+
+La mesure de la volonté commune est précédée du travail d'un panel tiré au sort dans le registre. Le panel ne prend pas de décisions et n'exprime pas la volonté commune: il prépare la question à la mesure.
+
+Le panel est tiré au sort parmi les titulaires du passeport earthling. Le procédé du tirage et la source de l'aléa sont publiés avant la sélection, la composition après elle, de sorte qu'une personne extérieure puisse vérifier le tirage. La participation est volontaire; le refus n'emporte aucune conséquence, et celui qui se retire est remplacé par le même tirage.
+
+Le panel reçoit des documents, entend des spécialistes et les tenants de positions opposées, débat publiquement et formule les options de réponse avec les arguments pour et contre chacune, en nommant aussi ce sur quoi les participants ne se sont pas entendus. Le panel n'effectue pas la mesure; les exigences de l'article 8 bis relatives à la formation de la question s'appliquent aussi aux options préparées par le panel.
+
+Le travail du panel est publié avec la question: la composition selon le procédé de tirage, les documents étudiés, les parties entendues, les arguments exposés et les désaccords consignés. Une publication qui ne permet pas de retracer d'où viennent les options n'est pas un travail de panel.
+
+Le panel n'est pas convoqué tant que le registre ne permet pas d'obtenir par tirage au sort une coupe du peuple. Jusqu'à ce jour, la mesure est effectuée sans panel, et cela est indiqué avec la question; taire l'absence de panel est un défaut de la mesure.
+
+Le seuil à partir duquel le tirage donne une coupe, et pour le reste les modalités du travail du panel, sont établis par une décision de l'Assemblée DAO et publiés avant le premier panel.
+
 ---
 
 # SECTION 03. Le système économique
@@ -870,6 +884,9 @@ Ordre de financement de projets déjà approuvés lorsque les fonds du domaine s
 
 **La mesure de la volonté commune (article 8 bis)**
 Elle n'est pas une décision et n'a pas de seuil: par elle, le peuple exprime une position, il ne statue pas. Les exigences sont établies à l'article 8 bis; les modalités sont pour le reste établies par une décision de l'Assemblée DAO.
+
+**Le panel tiré au sort (article 8 ter)**
+Ce n'est pas une décision et il n'y a pas de seuil: le panel prépare la question à la mesure, il n'y répond pas. Tirage au sort dans le registre, participation volontaire, travail publié avec la question. Le panel n'est pas convoqué tant que le registre ne permet pas d'obtenir par tirage au sort une coupe du peuple.
 
 ## Pouvoirs des structures d'exécution
 

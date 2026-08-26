@@ -364,7 +364,7 @@ Hier antworten wir auf den stärksten Einwand gegen das ganze Vorhaben: **Die Be
 
 Der Einwand ist berechtigt. Der Maßstab allein gibt keine Urteilsqualität, und eine große Zahl schlecht durchdachter Antworten ist eine große Zahl schlecht durchdachter Antworten.
 
-Die Antwort darauf ist die Zweischichtigkeit. Unten ist ein Entwurf beschrieben: Als verbindliche Regel ist er weder in der Charta noch anderswo festgelegt, und anwenden lässt er sich heute ohnehin nicht - ein Los aus einem Register von einigen hundert Menschen ergibt keinen Querschnitt des Volkes. Der Entwurf ist so aufgebaut:
+Die Antwort darauf ist die Zweischichtigkeit. Unten ist das Verfahren beschrieben, das Artikel 8-ter der [Charta](https://earth-lings.org/documents/de/de05-charta.html) festlegt; anwenden lässt es sich heute ohnehin nicht - ein Los aus einem Register von einigen hundert Menschen ergibt keinen Querschnitt des Volkes, und der Artikel sagt das ausdrücklich. Das Verfahren ist so aufgebaut:
 
 **Die erste Schicht ist das Panel.** Zu jeder Frage wird per Los aus dem Register ein Panel ausgewählt. Das Los hat keine Meinung: Es gibt einen Querschnitt des Volkes und nicht seinen aktiven Teil, und darauf kommt es an - der aktive Teil ist immer verzerrt. Das Panel arbeitet sich mehrere Wochen in die Frage ein: Es erhält Materialien, hört Fachleute und Vertreter entgegengesetzter Positionen an, erörtert öffentlich. Am Ende entscheidet das Panel nicht - es **formuliert Antwortmöglichkeiten** und legt die Gründe für und gegen jede von ihnen dar, zusammen mit dem, worin die Teilnehmer nicht übereinkamen.
 
@@ -863,7 +863,7 @@ Wir behaupten, dass Earthlings überprüfbar ist, und diese Behauptung hat nur d
 
 - **inhaltliche Messungen sind nicht durchgeführt worden.** Der Abstimmungskanal ist eingerichtet und funktioniert technisch, aber Abstimmungen zur Sache hat es in ihm noch nicht gegeben;
 - **ein Verfahren der Fragebildung im Einzelnen gibt es nicht.** Die Anforderungen, ohne die eine Messung nicht zustande kommt, sind in Artikel 8-bis der Charta festgelegt; das Verfahren im Einzelnen ist dem Beschluss der Vollversammlung überlassen und nicht beschlossen worden;
-- **Panels nach Losverfahren gibt es nicht.** Das zweischichtige Schema aus Abschnitt 9 ist ein Entwurf und keine Umsetzung, und als verbindliche Regel ist es nirgends festgelegt;
+- **Panels nach Losverfahren gibt es nicht.** Das zweischichtige Schema aus Abschnitt 9 ist durch Artikel 8-ter der Charta festgelegt, aber kein einziges Panel ist gebildet worden: Das Register ist für ein Los noch zu klein, und der Artikel sagt das ausdrücklich;
 - **eine Chronik der Nichtantworten gibt es nicht.** Sie ist nicht angelegt worden;
 - **eine unabhängige Sicherheitsprüfung ist nicht durchgeführt worden.**
 

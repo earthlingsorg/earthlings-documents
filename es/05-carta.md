@@ -306,6 +306,20 @@ La medición no se realiza pagada por un cliente; no se aceptan fondos finalista
 
 El procedimiento de realización de las mediciones lo establece en lo demás una decisión de la Asamblea DAO y se publica antes de la primera medición.
 
+## Artículo 8 ter. El panel elegido por sorteo
+
+La medición de la voluntad común va precedida del trabajo de un panel elegido por sorteo del registro. El panel no adopta decisiones ni expresa la voluntad común: prepara la pregunta para la medición.
+
+El panel se elige por sorteo entre los titulares del pasaporte earthling. El procedimiento del sorteo y la fuente del azar se publican antes de la elección, y la composición después de ella, de modo que una persona ajena pueda comprobar el sorteo. La participación es voluntaria; la negativa no acarrea consecuencias, y quien se retira es sustituido por el mismo sorteo.
+
+El panel recibe materiales, escucha a especialistas y a representantes de posiciones opuestas, delibera en público y formula las opciones de respuesta con los argumentos a favor y en contra de cada una, nombrando también aquello en lo que los participantes no se pusieron de acuerdo. El panel no realiza la medición; los requisitos del artículo 8 bis relativos a la formación de la pregunta se aplican también a las opciones preparadas por el panel.
+
+El trabajo del panel se publica junto con la pregunta: la composición según el procedimiento de sorteo, los materiales estudiados, las partes escuchadas, los argumentos expuestos y los desacuerdos consignados. Una publicación que no permite rastrear de dónde salieron las opciones no es trabajo de un panel.
+
+El panel no se convoca mientras el registro no permita obtener por sorteo un corte transversal del pueblo. Hasta ese día la medición se realiza sin panel, y así se hace saber junto con la pregunta; callar la ausencia de panel es un defecto de la medición.
+
+El umbral a partir del cual el sorteo da un corte transversal, y en lo demás el procedimiento de trabajo del panel, los establece una decisión de la Asamblea DAO y se publican antes del primer panel.
+
 ---
 
 # SECCIÓN 03. Sistema económico
@@ -870,6 +884,9 @@ Orden de financiación de los proyectos ya aprobados cuando faltan fondos del á
 
 **Medición de la voluntad común (artículo 8 bis)**
 No es una decisión y no tiene umbral: con ella el pueblo expresa una posición, no adopta decisiones. Los requisitos están establecidos en el artículo 8 bis; el procedimiento en lo demás lo establece una decisión de la Asamblea DAO.
+
+**El panel elegido por sorteo (artículo 8 ter)**
+No es una decisión y no tiene umbral: el panel prepara la pregunta para la medición, no la responde. Elección por sorteo del registro, participación voluntaria, trabajo publicado junto con la pregunta. El panel no se convoca mientras el registro no permita obtener por sorteo un corte transversal del pueblo.
 
 ## Facultades de las estructuras de ejecución
 

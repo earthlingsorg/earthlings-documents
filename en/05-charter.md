@@ -306,6 +306,20 @@ A measurement is not conducted for a client's fee; earmarked funding for a parti
 
 In all other respects the order for conducting measurements is established by a decision of the DAO Assembly and is published before the first measurement.
 
+## Article 8 ter. The Panel Selected by Lot
+
+A measurement of the common will is preceded by the work of a panel selected by lot from the registry. The panel takes no decisions and expresses no common will: it prepares the question for measurement.
+
+The panel is selected by lot from among the holders of the earthling passport. The method of the draw and the source of randomness are published before the selection, and the composition after it, so that an outside person can verify the selection. Participation is voluntary; a refusal carries no consequences, and whoever withdraws is replaced by the same draw.
+
+The panel studies materials, hears specialists and representatives of the opposing positions, discusses publicly, and formulates the options for an answer with the arguments for and against each, naming also the points on which the participants did not agree. The panel does not conduct the measurement; the requirements of Article 8 bis as to the forming of the question apply also to the options prepared by the panel.
+
+The work of the panel is published together with the question: the composition by method of selection, the materials studied, the sides heard, the arguments set out, and the disagreements recorded. A publication that does not allow one to trace where the options came from is not the work of a panel.
+
+A panel is not convened while the registry does not allow a cross-section of the people to be obtained by lot. Until that day a measurement is conducted without a panel, and this is stated together with the question; silence about the absence of a panel is a defect of the measurement.
+
+The threshold at which the draw yields a cross-section, and in all other respects the order of the panel's work, are established by a decision of the DAO Assembly and published before the first panel.
+
 ---
 
 # SECTION 03. The Economic System
@@ -870,6 +884,9 @@ The order of funding among projects already approved where the funds of a field 
 
 **Measurement of the common will (Article 8 bis)**
 It is not a decision and has no threshold: by it the people expresses a position; it does not decide. The requirements are established by Article 8 bis; in all other respects the order is established by a decision of the DAO Assembly.
+
+**The panel selected by lot (Article 8 ter)**
+It is not a decision and has no threshold: the panel prepares the question for measurement, it does not answer it. Selection by lot from the registry, participation voluntary, the work published together with the question. A panel is not convened while the registry does not allow a cross-section of the people to be obtained by lot.
 
 ## Powers of the Executing Structures
 
