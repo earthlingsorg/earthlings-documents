@@ -484,7 +484,9 @@ def timeline(lang):
     o = [u'<ol class="timeline">']
     for (date_text, what), iso in zip(items, PERIOD_DATES):
         # у третьей вехи после первой фразы идут подробности - на шкале лишние
-        first_sentence = re.split(r'(?<=[.!?。！？])\s*(?=\S)', what.strip())[0]
+        # Данда U+0964 добавлена в класс 2026-08-26: это основной знак
+        # конца фразы деванагари, и без неё хинди резался не там.
+        first_sentence = re.split(r'(?<=[.!?。！？।॥])\s*(?=\S)', what.strip())[0]
         o.append(u'<li class="tl-step" data-date="%s">'
                  u'<span class="tl-date">%s</span>'
                  u'<span class="tl-text">%s</span></li>'
@@ -543,7 +545,7 @@ def ladder(lang):
         u'в мастере 04 (%s) форм %d, а не 8: %r. Абзац правили - проверьте '
         u'разбор.' % (lang, len(forms), forms))
     # последняя фраза абзаца и есть недостающая ступень
-    gap = re.split(r'(?<=[.!?。！？])\s*(?=\S)', tail.strip())[-1].strip()
+    gap = re.split(r'(?<=[.!?。！？।॥])\s*(?=\S)', tail.strip())[-1].strip()
     assert gap, u'в абзаце форм (%s) не нашлась заключительная фраза' % lang
 
     o = [u'<ol class="ladder">']
