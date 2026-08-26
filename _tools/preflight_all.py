@@ -10,7 +10,7 @@ u"""Одна команда приёмки: прогоняет все прове
 Здесь они собраны в одну таблицу «проверка - результат». Запуск:
 
     python _tools/preflight_all.py            все проверки
-    python _tools/preflight_all.py --fast     без аудита восьми языков
+    python _tools/preflight_all.py --fast     без аудита девяти языков
 
 Код возврата 0, если провалов нет. Ненулевой - число проваленных проверок.
 
@@ -29,7 +29,7 @@ REPO = os.path.dirname(TOOLS)
 SITE = os.environ.get('EARTHLINGS_SITE') or os.path.join(
     os.path.dirname(REPO), 'earth-lings-site')
 
-LANGS = ['ar', 'de', 'en', 'es', 'fr', 'ka', 'ru', 'zh']
+LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 
 
 class Row(object):
@@ -75,10 +75,10 @@ def check_nav():
 
 def check_audit(fast):
     if fast:
-        return Row(u'машинная вычитка восьми языков', True, u'пропущено по --fast')
+        return Row(u'машинная вычитка девяти языков', True, u'пропущено по --fast')
     code, out = run([os.path.join('_tools', 'audit_lang.py'), '--all'])
     if code == 99:
-        return Row(u'машинная вычитка восьми языков', False, tail(out))
+        return Row(u'машинная вычитка девяти языков', False, tail(out))
     # Отчёты пишутся в файлы; смотрим на жёсткие замки в каждом.
     hard = []
     for lang in LANGS:
@@ -90,13 +90,13 @@ def check_audit(fast):
         n = len(re.findall(r'^  ДЕФЕКТ ', s, re.M))
         if n:
             hard.append(u'%s: %d' % (lang, n))
-    return Row(u'машинная вычитка восьми языков', not hard,
+    return Row(u'машинная вычитка девяти языков', not hard,
                u'жёстких замков сработало: %s'
                % (', '.join(hard) if hard else u'ни одного'))
 
 
 def check_layout():
-    u"""Одинаковое число строк у восьми языков в каждом документе.
+    u"""Одинаковое число строк у девяти языков в каждом документе.
 
     Сверка мастер-против-страницы этого не видит: она сравнивает слова. А
     расхождение разметки означает, что где-то у одного языка появился или
@@ -108,7 +108,7 @@ def check_layout():
         ru[os.path.basename(p)[:2]] = len(
             io.open(p, encoding='utf-8').read().split('\n'))
     if not ru:
-        return Row(u'разметка совпадает у восьми языков', False,
+        return Row(u'разметка совпадает у девяти языков', False,
                    u'русских мастеров не найдено')
     bad = []
     for lang in LANGS:
@@ -121,7 +121,7 @@ def check_layout():
             n = len(io.open(p, encoding='utf-8').read().split('\n'))
             if n != ru[num]:
                 bad.append(u'%s%s %d/%d' % (lang, num, ru[num], n))
-    return Row(u'разметка совпадает у восьми языков', not bad,
+    return Row(u'разметка совпадает у девяти языков', not bad,
                u'документов у ru %d, расхождений %d%s'
                % (len(ru), len(bad),
                   (': ' + ', '.join(bad[:4])) if bad else ''))
