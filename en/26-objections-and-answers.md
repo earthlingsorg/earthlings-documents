@@ -16,7 +16,7 @@ Answers to technical, economic, and organizational questions are collected in th
 
 Where this diverges from the Declaration, the Declaration applies.
 
-**The stage at which all this is said.** A people defined by an adopted text does not yet exist. The Declaration exists as an initial edition and will be adopted by a vote on 3 January 2027; until that day entry is suspended, and those who have confirmed their identity are participants in the founding, not earthlings. The order is set out in the document "The Founding Period". Everywhere below where properties of the people are described, what is meant is the construction as built, not a state that has been reached.
+**The stage at which all this is said.** A people defined by an adopted text does not yet exist. The Declaration exists as an initial edition and will be adopted by a vote on 17 February 2027; until that day entry is suspended, and those who have confirmed their identity are participants in the founding, not earthlings. The order is set out in the document "The Founding Period". Everywhere below where properties of the people are described, what is meant is the construction as built, not a state that has been reached.
 
 **The starting position to which all the answers converge:**
 
@@ -132,7 +132,7 @@ We make one qualification ourselves. The legal grounds for burning are exhaustiv
 
 **The core has not been adopted, and until adoption it binds no one.**
 
-The text is open to proposals from 7 September to 6 December 2026 - and not the Declaration alone, but the whole corpus, including the Legal Basis and this document. Any person may submit a proposal: entering, confirming identity, and agreeing with our conclusions are not required, and anonymous proposals are considered on the same footing as the rest. Each is published together with a reply - both those accepted and those rejected, with the reason for rejection given. On 20 December 2026 the record and the final editions are published. On 3 January 2027 the text is adopted by a vote of confirmed living human beings on the principle of one person, one vote, subject to a two-thirds threshold and a quorum. The whole order, including the limits of authority for the duration of the period, is set by the document "The Founding Period".
+The text is open to proposals from 22 October 2026 to 20 January 2027 - and not the Declaration alone, but the whole corpus, including the Legal Basis and this document. Any person may submit a proposal: entering, confirming identity, and agreeing with our conclusions are not required, and anonymous proposals are considered on the same footing as the rest. Each is published together with a reply - both those accepted and those rejected, with the reason for rejection given. On 3 February 2027 the record and the final editions are published. On 17 February 2027 the text is adopted by a vote of confirmed living human beings on the principle of one person, one vote, subject to a two-thirds threshold and a quorum. The whole order, including the limits of authority for the duration of the period, is set by the document "The Founding Period".
 
 That is, the core becomes unamendable not because someone wrote it so, but because it was adopted by those whom it unites. Who held the pen before adoption has no legal significance: a text that was not adopted does not operate, and a text that was adopted operates regardless of who drafted it.
 
@@ -218,7 +218,7 @@ Good faith requires that this be brought together in one place rather than disso
 
 **Entry depends on an identity document.** A person without citizenship and without documents cannot enter today. This contradicts the logic of the rest of the construction and remains an open question.
 
-**The founding text has not been adopted.** Until 3 January 2027 there are no participants, there is no practice, and no one can represent the people.
+**The founding text has not been adopted.** Until 17 February 2027 there are no participants, there is no practice, and no one can represent the people.
 
 We regard none of these circumstances as removed.
 

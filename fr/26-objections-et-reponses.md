@@ -16,7 +16,7 @@ Les réponses aux questions techniques, économiques et organisationnelles sont 
 
 En cas de divergence avec la Déclaration, la Déclaration s'applique.
 
-**Le stade auquel tout cela est dit.** Le peuple défini par un texte adopté n'existe pas encore. La Déclaration existe comme version initiale et sera adoptée par un vote le 3 janvier 2027; jusqu'à ce jour l'adhésion est suspendue, et ceux qui ont fait vérifier leur identité sont des participants à la constitution, non des earthlings. La procédure est exposée dans le document « La période constituante ». Partout ci-dessous, là où sont décrites les propriétés du peuple, il s'agit d'une construction bâtie, non d'un état atteint.
+**Le stade auquel tout cela est dit.** Le peuple défini par un texte adopté n'existe pas encore. La Déclaration existe comme version initiale et sera adoptée par un vote le 17 février 2027; jusqu'à ce jour l'adhésion est suspendue, et ceux qui ont fait vérifier leur identité sont des participants à la constitution, non des earthlings. La procédure est exposée dans le document « La période constituante ». Partout ci-dessous, là où sont décrites les propriétés du peuple, il s'agit d'une construction bâtie, non d'un état atteint.
 
 **La position de départ, vers laquelle convergent toutes les réponses:**
 
@@ -132,7 +132,7 @@ Une réserve, que nous faisons nous-mêmes. Les motifs juridiques de destruction
 
 **Le noyau n'est pas adopté et, avant son adoption, ne s'impose à personne.**
 
-Le texte est ouvert aux propositions du 7 septembre au 6 décembre 2026, et pas seulement la Déclaration, mais tout le corpus, y compris la Base juridique et le présent document. Toute personne a le droit de faire une proposition: il n'est pas nécessaire d'adhérer, de faire vérifier son identité ni d'être d'accord avec nos conclusions, et les propositions anonymes sont examinées au même titre que les autres. Chacune est publiée avec sa réponse, qu'elle soit retenue ou rejetée, avec l'indication du motif du rejet. Le 20 décembre 2026, le relevé et les versions définitives sont publiés. Le 3 janvier 2027, le texte est adopté par le vote de personnes vivantes vérifiées, selon le principe « une personne - une voix », avec un seuil des deux tiers et un quorum. La procédure entière, y compris les limites des pouvoirs pendant la période, est établie par le document « La période constituante ».
+Le texte est ouvert aux propositions du 22 octobre 2026 au 20 janvier 2027, et pas seulement la Déclaration, mais tout le corpus, y compris la Base juridique et le présent document. Toute personne a le droit de faire une proposition: il n'est pas nécessaire d'adhérer, de faire vérifier son identité ni d'être d'accord avec nos conclusions, et les propositions anonymes sont examinées au même titre que les autres. Chacune est publiée avec sa réponse, qu'elle soit retenue ou rejetée, avec l'indication du motif du rejet. Le 3 février 2027, le relevé et les versions définitives sont publiés. Le 17 février 2027, le texte est adopté par le vote de personnes vivantes vérifiées, selon le principe « une personne - une voix », avec un seuil des deux tiers et un quorum. La procédure entière, y compris les limites des pouvoirs pendant la période, est établie par le document « La période constituante ».
 
 Autrement dit, le noyau devient intangible non pas parce que quelqu'un l'a écrit ainsi, mais parce qu'il a été adopté par ceux qu'il réunit. Qui tenait la plume avant l'adoption n'a aucune portée juridique: un texte qui n'a pas été adopté ne s'applique pas, et un texte adopté s'applique quel que soit l'auteur du brouillon.
 
@@ -218,7 +218,7 @@ La bonne foi exige de réunir cela en un seul endroit plutôt que de le diluer d
 
 **L'entrée dépend d'un document d'identité.** Un apatride sans documents ne peut pas entrer aujourd'hui. Cela contredit la logique du reste de la construction et demeure une question ouverte.
 
-**Le texte constitutif n'est pas adopté.** Avant le 3 janvier 2027, il n'y a pas de participants, il n'y a pas de pratique, et nul ne peut représenter le peuple.
+**Le texte constitutif n'est pas adopté.** Avant le 17 février 2027, il n'y a pas de participants, il n'y a pas de pratique, et nul ne peut représenter le peuple.
 
 Aucune de ces circonstances, nous ne la tenons pour levée.
 

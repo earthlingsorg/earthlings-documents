@@ -16,7 +16,7 @@ Antworten auf technische, wirtschaftliche und organisatorische Fragen sind im Do
 
 Bei einer Abweichung von der Erklärung gilt die Erklärung.
 
-**Die Stufe, auf der dies alles gesagt wird.** Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht. Die Erklärung besteht als Ausgangsfassung und wird am 3. Januar 2027 durch Abstimmung angenommen; bis zu diesem Tag ist der Beitritt ausgesetzt, und wer seine Identität hat prüfen lassen, ist Teilnehmer der Konstituierung und kein Earthling. Das Verfahren ist im Dokument „Die Gründungsphase“ dargelegt. Überall im Folgenden, wo Eigenschaften des Volkes beschrieben werden, ist von der gebauten Konstruktion die Rede und nicht von einem erreichten Zustand.
+**Die Stufe, auf der dies alles gesagt wird.** Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht. Die Erklärung besteht als Ausgangsfassung und wird am 17. Februar 2027 durch Abstimmung angenommen; bis zu diesem Tag ist der Beitritt ausgesetzt, und wer seine Identität hat prüfen lassen, ist Teilnehmer der Konstituierung und kein Earthling. Das Verfahren ist im Dokument „Die Gründungsphase“ dargelegt. Überall im Folgenden, wo Eigenschaften des Volkes beschrieben werden, ist von der gebauten Konstruktion die Rede und nicht von einem erreichten Zustand.
 
 **Die Ausgangsposition, in der alle Antworten zusammenlaufen:**
 
@@ -132,7 +132,7 @@ Eine Einschränkung machen wir selbst. Die rechtlichen Gründe der Entwertung si
 
 **Der Kern ist nicht angenommen und wirkt vor der Annahme für niemanden.**
 
-Der Text steht vom 7. September bis zum 6. Dezember 2026 für Vorschläge offen - und nicht nur die Erklärung, sondern der ganze Bestand, einschließlich der Rechtsgrundlage und dieses Dokuments. Einen Vorschlag einzubringen ist jeder Mensch befugt: beizutreten, die Identität prüfen zu lassen und unseren Schlüssen zuzustimmen ist dafür nicht nötig, anonyme Vorschläge werden gleichrangig mit den übrigen behandelt. Jeder wird zusammen mit der Antwort veröffentlicht - der angenommene wie der abgelehnte, unter Angabe des Ablehnungsgrundes. Am 20. Dezember 2026 werden die Übersicht und die endgültigen Fassungen veröffentlicht. Am 3. Januar 2027 wird der Text durch Abstimmung geprüfter lebender Menschen nach dem Grundsatz „ein Mensch - eine Stimme“ angenommen, bei einer Schwelle von zwei Dritteln und einem Quorum. Das Verfahren im Ganzen, einschließlich der Grenzen der Befugnisse für die Dauer der Phase, ist im Dokument „Die Gründungsphase“ festgelegt.
+Der Text steht vom 22. Oktober 2026 bis zum 20. Januar 2027 für Vorschläge offen - und nicht nur die Erklärung, sondern der ganze Bestand, einschließlich der Rechtsgrundlage und dieses Dokuments. Einen Vorschlag einzubringen ist jeder Mensch befugt: beizutreten, die Identität prüfen zu lassen und unseren Schlüssen zuzustimmen ist dafür nicht nötig, anonyme Vorschläge werden gleichrangig mit den übrigen behandelt. Jeder wird zusammen mit der Antwort veröffentlicht - der angenommene wie der abgelehnte, unter Angabe des Ablehnungsgrundes. Am 3. Februar 2027 werden die Übersicht und die endgültigen Fassungen veröffentlicht. Am 17. Februar 2027 wird der Text durch Abstimmung geprüfter lebender Menschen nach dem Grundsatz „ein Mensch - eine Stimme“ angenommen, bei einer Schwelle von zwei Dritteln und einem Quorum. Das Verfahren im Ganzen, einschließlich der Grenzen der Befugnisse für die Dauer der Phase, ist im Dokument „Die Gründungsphase“ festgelegt.
 
 Das heißt: Unabänderlich wird der Kern nicht deshalb, weil jemand ihn so geschrieben hat, sondern weil ihn diejenigen angenommen haben, die er verbindet. Wer vor der Annahme die Feder führte, hat keine rechtliche Bedeutung: Ein Text, den man nicht angenommen hat, wirkt nicht, und ein Text, den man angenommen hat, wirkt unabhängig von der Urheberschaft des Entwurfs.
 
@@ -218,7 +218,7 @@ Die Redlichkeit verlangt, dies an einer Stelle zusammenzuführen und nicht in de
 
 **Der Eintritt hängt von einem Ausweispapier ab.** Wer staatenlos und ohne Papiere ist, kann heute nicht eintreten. Das widerspricht der Logik der übrigen Konstruktion und bleibt eine offene Frage.
 
-**Der konstituierende Text ist nicht angenommen.** Bis zum 3. Januar 2027 gibt es keine Teilnehmer, keine Praxis, und niemand kann das Volk vertreten.
+**Der konstituierende Text ist nicht angenommen.** Bis zum 17. Februar 2027 gibt es keine Teilnehmer, keine Praxis, und niemand kann das Volk vertreten.
 
 Keinen dieser Umstände halten wir für ausgeräumt.
 

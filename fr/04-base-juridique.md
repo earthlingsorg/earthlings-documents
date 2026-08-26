@@ -90,10 +90,10 @@ L'exactitude importe ici davantage qu'une impression favorable.
 
 La procédure de constitution est établie et publiée à l'avance:
 
-- **7 septembre 2026** - ouverture de la réception des propositions sur tout le corpus: la Déclaration, la Charte et les vingt-trois autres documents, y compris celui-ci. Toute personne a le droit de faire une proposition; l'adhésion, la vérification d'identité et l'accord avec nos conclusions ne sont pas requis, et les propositions anonymes sont examinées au même titre que les autres.
-- **6 décembre 2026** - clôture de la réception.
-- **20 décembre 2026** - publication du relevé de toutes les propositions et réponses, y compris celles rejetées avec l'indication du motif; publication des versions définitives en russe et en anglais.
-- **3 janvier 2027** - la Déclaration est adoptée par le vote des participants vérifiés selon le principe « une personne - une voix »: les deux tiers au moins des voix exprimées, la participation d'au moins cent participants vérifiés et d'au moins trente pour cent de leur nombre total.
+- **22 octobre 2026** - ouverture de la réception des propositions sur tout le corpus: la Déclaration, la Charte et les vingt-trois autres documents, y compris celui-ci. Toute personne a le droit de faire une proposition; l'adhésion, la vérification d'identité et l'accord avec nos conclusions ne sont pas requis, et les propositions anonymes sont examinées au même titre que les autres.
+- **20 janvier 2027** - clôture de la réception.
+- **3 février 2027** - publication du relevé de toutes les propositions et réponses, y compris celles rejetées avec l'indication du motif; publication des versions définitives en russe et en anglais.
+- **17 février 2027** - la Déclaration est adoptée par le vote des participants vérifiés selon le principe « une personne - une voix »: les deux tiers au moins des voix exprimées, la participation d'au moins cent participants vérifiés et d'au moins trente pour cent de leur nombre total.
 
 Jusqu'au jour de l'adoption, la personne qui a fait vérifier son identité est **un participant à la constitution, et non un earthling**. La vérification est gratuite, ne vaut pas adhésion et confère un statut temporaire avec droit de vote le jour de l'adoption.
 

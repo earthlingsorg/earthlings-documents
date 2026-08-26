@@ -16,7 +16,7 @@ Las respuestas a las preguntas técnicas, económicas y organizativas están reu
 
 En caso de discrepancia con la Declaración se aplica la Declaración.
 
-**La fase en la que se dice todo esto.** El pueblo definido por un texto adoptado todavía no existe. La Declaración existe como versión inicial y será adoptada por votación el 3 de enero de 2027; hasta ese día la adhesión está suspendida, y quienes han verificado su identidad son participantes en la constitución y no earthlings. El procedimiento está expuesto en el documento «El período constituyente». En todo lo que sigue, allí donde se describen propiedades del pueblo, se habla de una construcción edificada y no de un estado alcanzado.
+**La fase en la que se dice todo esto.** El pueblo definido por un texto adoptado todavía no existe. La Declaración existe como versión inicial y será adoptada por votación el 17 de febrero de 2027; hasta ese día la adhesión está suspendida, y quienes han verificado su identidad son participantes en la constitución y no earthlings. El procedimiento está expuesto en el documento «El período constituyente». En todo lo que sigue, allí donde se describen propiedades del pueblo, se habla de una construcción edificada y no de un estado alcanzado.
 
 **Posición de partida a la que convergen todas las respuestas:**
 
@@ -132,7 +132,7 @@ Una salvedad la hacemos nosotros mismos. Los fundamentos jurídicos de la destru
 
 **El núcleo no está adoptado y hasta su adopción no rige para nadie.**
 
-El texto está abierto a propuestas del 7 de septiembre al 6 de diciembre de 2026, y no solo la Declaración, sino todo el corpus, incluidas la Base jurídica y el presente documento. Puede presentar una propuesta cualquier persona: para ello no hace falta adherirse, ni verificar la identidad, ni estar de acuerdo con nuestras conclusiones, y las propuestas anónimas se examinan en igualdad con las demás. Cada una se publica junto con su respuesta, tanto las aceptadas como las rechazadas, con indicación del motivo del rechazo. El 20 de diciembre de 2026 se publican el compendio y las versiones definitivas. El 3 de enero de 2027 el texto se adopta por votación de personas vivas verificadas conforme al principio «una persona, un voto», con un umbral de dos tercios y quórum. El procedimiento íntegro, incluidos los límites de las facultades durante el período, está establecido en el documento «El período constituyente».
+El texto está abierto a propuestas del 22 de octubre de 2026 al 20 de enero de 2027, y no solo la Declaración, sino todo el corpus, incluidas la Base jurídica y el presente documento. Puede presentar una propuesta cualquier persona: para ello no hace falta adherirse, ni verificar la identidad, ni estar de acuerdo con nuestras conclusiones, y las propuestas anónimas se examinan en igualdad con las demás. Cada una se publica junto con su respuesta, tanto las aceptadas como las rechazadas, con indicación del motivo del rechazo. El 3 de febrero de 2027 se publican el compendio y las versiones definitivas. El 17 de febrero de 2027 el texto se adopta por votación de personas vivas verificadas conforme al principio «una persona, un voto», con un umbral de dos tercios y quórum. El procedimiento íntegro, incluidos los límites de las facultades durante el período, está establecido en el documento «El período constituyente».
 
 Es decir, el núcleo se hace intangible no porque alguien lo escribiera así, sino porque lo adoptaron aquellos a quienes une. Quién sostuviera la pluma antes de la adopción carece de relevancia jurídica: un texto que no se adoptó no rige, y un texto que se adoptó rige con independencia de la autoría del borrador.
 
@@ -218,7 +218,7 @@ La buena fe exige reunirlo en un solo lugar y no disolverlo entre las respuestas
 
 **La entrada depende de un documento acreditativo de la identidad.** Una persona apátrida y sin documentos hoy no puede entrar. Esto contradice la lógica del resto de la construcción y sigue siendo una cuestión abierta.
 
-**El texto constitutivo no está adoptado.** Hasta el 3 de enero de 2027 no hay participantes, no hay práctica y nadie puede representar al pueblo.
+**El texto constitutivo no está adoptado.** Hasta el 17 de febrero de 2027 no hay participantes, no hay práctica y nadie puede representar al pueblo.
 
 Ninguna de estas circunstancias la damos por resuelta.
 

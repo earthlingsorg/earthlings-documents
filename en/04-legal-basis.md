@@ -90,10 +90,10 @@ Precision matters here more than a favourable impression.
 
 The order of founding is established and published in advance:
 
-- **7 September 2026** - proposals open on the whole corpus: the Declaration, the Charter, and the other twenty-three documents, including this one. Any person may submit a proposal; entry, identity verification, and agreement with our conclusions are not required for it, and anonymous proposals are considered on the same footing as the rest.
-- **6 December 2026** - submissions close.
-- **20 December 2026** - the full record of proposals and replies is published, including those rejected with the reason given; the final editions in Russian and English are published.
-- **3 January 2027** - the Declaration is adopted by a vote of confirmed participants on the principle of one person, one vote: no fewer than two thirds of the votes cast, with no fewer than one hundred confirmed participants taking part, and no fewer than thirty per cent of their total number.
+- **22 October 2026** - proposals open on the whole corpus: the Declaration, the Charter, and the other twenty-three documents, including this one. Any person may submit a proposal; entry, identity verification, and agreement with our conclusions are not required for it, and anonymous proposals are considered on the same footing as the rest.
+- **20 January 2027** - submissions close.
+- **3 February 2027** - the full record of proposals and replies is published, including those rejected with the reason given; the final editions in Russian and English are published.
+- **17 February 2027** - the Declaration is adopted by a vote of confirmed participants on the principle of one person, one vote: no fewer than two thirds of the votes cast, with no fewer than one hundred confirmed participants taking part, and no fewer than thirty per cent of their total number.
 
 Until the day of adoption, a person who has confirmed their identity is a **participant in the founding, not an earthling**. Confirmation is free, does not constitute entry, and gives a temporary status carrying the right to vote on the day of adoption.
 

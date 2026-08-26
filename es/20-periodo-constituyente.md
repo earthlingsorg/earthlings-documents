@@ -32,7 +32,7 @@ Queremos así que los Earthlings no se creen para las personas, sino **por las p
 
 **Estado actual.** La infraestructura del pueblo Earthlings está construida y funciona: verificación de identidad, pasaporte, registro, votación, caja pública. Lo que no está adoptado es el texto constitutivo.
 
-Del 7 de septiembre al 6 de diciembre de 2026 está abierto a propuestas todo el corpus: la Declaración, la Carta y los otros veintitrés documentos. Puede presentarlas cualquier persona. El 3 de enero de 2027 el texto se aprueba por votación de quienes hayan verificado su identidad. Desde ese día los cinco principios del núcleo intangible ya no se derogan nunca, y el resto del texto lo modifica únicamente el propio pueblo y solo en dirección a una mayor protección de la persona.
+Del 22 de octubre de 2026 al 20 de enero de 2027 está abierto a propuestas todo el corpus: la Declaración, la Carta y los otros veintitrés documentos. Puede presentarlas cualquier persona. El 17 de febrero de 2027 el texto se aprueba por votación de quienes hayan verificado su identidad. Desde ese día los cinco principios del núcleo intangible ya no se derogan nunca, y el resto del texto lo modifica únicamente el propio pueblo y solo en dirección a una mayor protección de la persona.
 
 ## 01. Por qué lo hacemos así
 
@@ -46,7 +46,7 @@ Está abierto todo el corpus. Se puede presentar una propuesta a cualquier docum
 
 ### La Declaración
 
-Documento constitutivo. Se adopta por votación el 3 de enero de 2027.
+Documento constitutivo. Se adopta por votación el 17 de febrero de 2027.
 
 Están abiertas sus redacciones por completo. Está abierta también la composición del núcleo intangible: las propuestas de completarlo se examinan en igualdad con las demás si superan el test de la sección 04. Solo no se examinan las propuestas de derogar o restringir los principios del núcleo; precisar sus redacciones sí se puede proponer.
 
@@ -64,7 +64,7 @@ Después, la Carta la modifica ya el propio pueblo, por decisión de la Asamblea
 
 Cómo están hechos y cómo funcionan la DAO, las células, la tesorería, la unidad de cuenta EC, el Consejo Independiente, la plataforma digital, el pasaporte SBT, el camino del earthling, la hoja de ruta y la ética.
 
-Estos documentos no se adoptan por votación: describen mecanismos, y los mecanismos deben evolucionar con el pueblo. Las propuestas aceptadas se incorporan a ellos de inmediato, sin esperar al 3 de enero. Tras la constitución, los modifica la Asamblea conforme a la Carta.
+Estos documentos no se adoptan por votación: describen mecanismos, y los mecanismos deben evolucionar con el pueblo. Las propuestas aceptadas se incorporan a ellos de inmediato, sin esperar al 17 de febrero. Tras la constitución, los modifica la Asamblea conforme a la Carta.
 
 ### Los documentos hacia el exterior y de consulta
 
@@ -82,7 +82,7 @@ Todo lo que tiene fuerza está en el corpus y está abierto a propuestas por com
 
 ### En resumen
 
-| Qué | Se adopta por votación el 3 de enero | Cuándo rige la enmienda | Quién lo cambia después |
+| Qué | Se adopta por votación el 17 de febrero | Cuándo rige la enmienda | Quién lo cambia después |
 |---|---|---|---|
 | La Declaración | sí | desde el día de la adopción | los principios del núcleo, nadie; lo demás, la Asamblea, por dos tercios |
 | La Carta | no, entra en vigor junto con la Declaración | desde el día de la adopción | la Asamblea conforme a la Carta |
@@ -142,12 +142,12 @@ Ninguna decisión adoptada antes de su acuerdo le obliga a nada.
 
 ## 07. Plazos
 
-- **7 de septiembre de 2026** - se abre la recepción de propuestas para todo el corpus.
-- **6 de diciembre de 2026** - se cierra la recepción de propuestas.
-- **20 de diciembre de 2026** - se publica el compendio: todas las propuestas recibidas y sus respuestas. Ese mismo día se publican las versiones definitivas de la Declaración y de la Carta que se someten a votación, en ruso y en inglés.
-- **3 de enero de 2027** - adopción de la Declaración por votación.
+- **22 de octubre de 2026** - se abre la recepción de propuestas para todo el corpus.
+- **20 de enero de 2027** - se cierra la recepción de propuestas.
+- **3 de febrero de 2027** - se publica el compendio: todas las propuestas recibidas y sus respuestas. Ese mismo día se publican las versiones definitivas de la Declaración y de la Carta que se someten a votación, en ruso y en inglés.
+- **17 de febrero de 2027** - adopción de la Declaración por votación.
 
-Las enmiendas a los demás documentos del corpus se incorporan a lo largo del período y no en esas fechas: no se adoptan por votación y no tienen por qué esperar al 3 de enero.
+Las enmiendas a los demás documentos del corpus se incorporan a lo largo del período y no en esas fechas: no se adoptan por votación y no tienen por qué esperar al 17 de febrero.
 
 ## 08. Adónde enviarlas
 
@@ -163,7 +163,7 @@ La presente sección establece el procedimiento al que remite la sección «Esta
 
 ## 1. Recepción de propuestas
 
-Las propuestas se aceptan desde el 7 de septiembre de 2026 hasta el 6 de diciembre de 2026 inclusive.
+Las propuestas se aceptan desde el 22 de octubre de 2026 hasta el 20 de enero de 2027 inclusive.
 
 Puede presentar una propuesta cualquier persona. Para ello no se requieren adhesión, verificación de identidad, pagos ni conformidad con las disposiciones de la Declaración.
 
@@ -185,9 +185,9 @@ Una propuesta **de traducción** señala que la traducción transmite el sentido
 
 A qué clase pertenece una propuesta se determina por su contenido, y no por cómo se la denomine. Si una propuesta de traducción revela una falta de claridad del propio texto maestro, se examina también como propuesta de fondo.
 
-**Qué texto es el objeto de la votación.** La votación del 3 de enero de 2027 se celebra sobre los textos ruso e inglés: están reconocidos como auténticos (Declaración, artículo 13). Los textos en las otras siete lenguas son traducciones oficiales. Se puede leer y votar apoyándose en cualquiera de ellos, pero en caso de discrepancia se aplica la interpretación que dé a la persona mayor protección y, si esta no resuelve la discrepancia, el sentido del texto ruso.
+**Qué texto es el objeto de la votación.** La votación del 17 de febrero de 2027 se celebra sobre los textos ruso e inglés: están reconocidos como auténticos (Declaración, artículo 13). Los textos en las otras siete lenguas son traducciones oficiales. Se puede leer y votar apoyándose en cualquiera de ellos, pero en caso de discrepancia se aplica la interpretación que dé a la persona mayor protección y, si esta no resuelve la discrepancia, el sentido del texto ruso.
 
-**Preparación de las traducciones.** El corpus en las nueve lenguas se adecua a los textos maestros rusos antes de que se abra la recepción de propuestas el 7 de septiembre de 2026. Las versiones definitivas que se someten a votación se publican en ruso y en inglés el 20 de diciembre de 2026, y las traducciones a las otras siete lenguas, en el mismo plazo. Si para ese día alguna traducción no está lista, se dirá de manera expresa, indicando la lengua y el motivo; no vamos a presentar como lista una traducción que no lo esté.
+**Preparación de las traducciones.** El corpus en las nueve lenguas se adecua a los textos maestros rusos antes de que se abra la recepción de propuestas el 22 de octubre de 2026. Las versiones definitivas que se someten a votación se publican en ruso y en inglés el 3 de febrero de 2027, y las traducciones a las otras siete lenguas, en el mismo plazo. Si para ese día alguna traducción no está lista, se dirá de manera expresa, indicando la lengua y el motivo; no vamos a presentar como lista una traducción que no lo esté.
 
 ## 2. Publicación y examen
 
@@ -199,13 +199,13 @@ La decisión de incluir una propuesta en el texto la adopta el autor de la Decla
 
 La facultad está limitada de tres maneras: cada rechazo se publica con su motivo; cada propuesta permanece en el compendio abierto y puede volver a presentarse; y el texto final de la Declaración lo adopta no el autor, sino una votación, y puede ser rechazado.
 
-Una propuesta incluida en la Declaración y en la Carta entra en la versión que se publica el 20 de diciembre de 2026. Una propuesta incluida en los demás documentos se incorpora de inmediato, y desde ese día rige el texto publicado: esos documentos no se adoptan por votación y no tiene sentido retener una enmienda hasta el 3 de enero.
+Una propuesta incluida en la Declaración y en la Carta entra en la versión que se publica el 3 de febrero de 2027. Una propuesta incluida en los demás documentos se incorpora de inmediato, y desde ese día rige el texto publicado: esos documentos no se adoptan por votación y no tiene sentido retener una enmienda hasta el 17 de febrero.
 
 La facultad del autor cesa con el período constituyente. Desde ese día, cualquier documento del corpus lo modifica únicamente la Asamblea.
 
 ## 3. El compendio
 
-El compendio de todas las propuestas recibidas y de sus respuestas se publica el 20 de diciembre de 2026 y queda abierto de manera indefinida. El compendio abarca todo el corpus: las propuestas a la Declaración, a la Carta y a cada uno de los demás documentos.
+El compendio de todas las propuestas recibidas y de sus respuestas se publica el 3 de febrero de 2027 y queda abierto de manera indefinida. El compendio abarca todo el corpus: las propuestas a la Declaración, a la Carta y a cada uno de los demás documentos.
 
 ## 4. Qué no se examina
 
@@ -223,15 +223,15 @@ La verificación de identidad se realiza de manera gratuita y continúa durante 
 
 ## 6. Adopción del texto
 
-El texto se adopta por votación el 3 de enero de 2027. Votan las personas que han verificado su identidad, conforme al principio «una persona, un voto».
+El texto se adopta por votación el 17 de febrero de 2027. Votan las personas que han verificado su identidad, conforme al principio «una persona, un voto».
 
-La votación se celebra sobre dos textos a la vez, el ruso y el inglés. Ambos se adoptan como auténticos (Declaración, artículo 13), por lo que el texto inglés debe estar listo y publicado no más tarde del día de publicación del compendio, el 20 de diciembre de 2026: solo se puede votar aquello que se puede leer de antemano.
+La votación se celebra sobre dos textos a la vez, el ruso y el inglés. Ambos se adoptan como auténticos (Declaración, artículo 13), por lo que el texto inglés debe estar listo y publicado no más tarde del día de publicación del compendio, el 3 de febrero de 2027: solo se puede votar aquello que se puede leer de antemano.
 
 El texto se considera adoptado si se cumplen a la vez tres condiciones:
 
 1. se han emitido a favor de la adopción no menos de dos tercios de los votos emitidos en la votación;
 2. han participado en la votación no menos de cien participantes verificados;
-3. han participado en la votación no menos del treinta por ciento del número total de participantes verificados a 6 de diciembre de 2026.
+3. han participado en la votación no menos del treinta por ciento del número total de participantes verificados a 20 de enero de 2027.
 
 Si no se han recibido propuestas o si ninguna de las recibidas se ha incluido en el texto, se somete a votación la presente versión sin cambios.
 
@@ -239,7 +239,7 @@ Si no se han recibido propuestas o si ninguna de las recibidas se ha incluido en
 
 El día de la adopción se aplaza tres meses. El aplazamiento se admite un máximo de dos veces.
 
-Si tras el segundo aplazamiento no se cumplen las condiciones de adopción, la exigencia de participación de no menos de cien participantes verificados deja de aplicarse. El texto se considera adoptado si se emiten a su favor no menos de dos tercios de los votos emitidos con la participación de no menos del treinta por ciento del número total de participantes verificados a 6 de diciembre de 2026.
+Si tras el segundo aplazamiento no se cumplen las condiciones de adopción, la exigencia de participación de no menos de cien participantes verificados deja de aplicarse. El texto se considera adoptado si se emiten a su favor no menos de dos tercios de los votos emitidos con la participación de no menos del treinta por ciento del número total de participantes verificados a 20 de enero de 2027.
 
 Las demás exigencias no se rebajan en ninguna circunstancia.
 
