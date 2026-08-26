@@ -122,6 +122,17 @@ DEFAULTS = {
     # ailleurs». Без этого половина вхождений теряется.
     'TICS_CI': False,
     'GLOSSARY': {},
+    # Класс знаков, соседство с которыми НЕ считается границей слова.
+    # По умолчанию «буква, цифра, дефис» - годится для латиницы, кириллицы,
+    # мхедрули, арабицы и CJK.
+    #
+    # Деванагари требует своего: матры, вирама и анусвара в Python не входят
+    # в \w (это комбинирующие знаки, isalnum() == False), поэтому после
+    # каждой матры возникает ложная «граница слова». На хинди-пилоте это
+    # дало 20 ложных вхождений слова «фонд» из 20 - все внутри слова
+    # «представитель». Проверка при этом молчала: она печатала не ошибку, а
+    # правдоподобное число.
+    'BOUNDARY': H.DEFAULT_EDGE,
     'COUNT_OVERRIDE': {},       # {вариант: функция(текст) -> число}
     'CALQUES': [],
     'SPACE_BEFORE_PUNCT': ',.',  # знаки, перед которыми пробел - дефект
@@ -270,11 +281,18 @@ def counter(conf):
         # Написанное с цифрой считаем по границе слова при любой модели:
         # у «22-бис» нет окончания, и допуск ловит 122-бис.
         if conf.COUNT == 'word' or re.search(r'[0-9]', w):
-            return len(re.findall(H.word(w), text))
+            return len(re.findall(H.word(w, conf.BOUNDARY), text))
         if conf.COUNT == 'stem':
             return len(re.findall(
                 H.stem(w, conf.LETTERS, conf.STEM_EXTRA, conf.STEM_PREFIX),
                 text))
+        # Язык со своей границей считает окончание СВОИМИ буквами, а не \w:
+        # у деванагари окончание состоит из комбинирующих знаков, которых в
+        # \w нет вовсе, и общая ветка потеряла бы все косвенные формы.
+        if conf.BOUNDARY != H.DEFAULT_EDGE:
+            return len(re.findall(
+                H.flex(w, conf.LETTERS, conf.FLEX_EXTRA, conf.BOUNDARY),
+                text, re.I if conf.COUNT_CI else 0))
         return len(re.findall(
             r'(?<![\w-])' + re.escape(w.strip()) +
             r'\w{0,%d}(?![\w-])' % conf.FLEX_EXTRA, text,
