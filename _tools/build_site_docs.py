@@ -1881,6 +1881,155 @@ def fix_hreflang(dry=False):
     return n, len(bad)
 
 
+
+def all_titles():
+    """Названия всех документов на всех языках, у которых есть мастера.
+
+    Сайтмапу нужен состав по ВСЕМ языкам сразу, а `titles` в main собран для
+    одного - того, который сейчас собирают. Считать по наличию мастера, а не
+    по наличию страницы: страница может остаться от прежнего захода.
+    """
+    seen = set()
+    for lang in ALL_LANGS:
+        if lang not in SLUGS:
+            continue
+        md = md_dir(lang)
+        if not os.path.isdir(md):
+            continue
+        for num in CHAIN:
+            if os.path.isfile(os.path.join(md, corpus_file(num, lang))):
+                seen.add(num)
+    assert seen, u'мастеров не найдено ни на одном языке'
+    return seen
+
+
+
+def _carry_over_from_legacy(kinds):
+    """Переносит из боевого sitemap.xml разделы, которых сборщик не строит.
+
+    Топики и книга - живая поисковая поверхность: 72 и 21 адрес. Сборщик о них
+    ничего не знает и никогда не узнает: они не документы корпуса. Потерять их
+    при переходе на генерацию значило бы обменять один дефект на другой,
+    поэтому они переносятся как есть, по префиксу адреса.
+
+    Боевой файл только ЧИТАЕТСЯ. Замок этапа 0 запрещает писать в боевое
+    дерево, а не смотреть в него.
+    """
+    src = os.path.join(SITE, 'sitemap.xml')
+    if not os.path.isfile(src):
+        return []
+    raw = io.open(src, encoding='utf-8').read()
+    out = []
+    for block in re.findall(r'<url>.*?</url>', raw, re.S):
+        m = re.search(r'<loc>([^<]+)</loc>', block)
+        if m and any(m.group(1).startswith(ORIGIN + k) for k in kinds):
+            out.append(block.strip())
+    return out
+
+
+def write_sitemap_v2(titles, dry=False):
+    """Собирает sitemap.xml из тех же таблиц, что и страницы.
+
+    Зачем генератор. Ручной сайтмап расходится при каждой сборке, и к
+    2026-08-25 разошёлся так: 304 адреса, из них 195 числовых вида `es01.html`,
+    которые отдают 301 на слаг. Сайтмап, наполовину состоящий из редиректов, -
+    это прямой сигнал качества поисковику, и держать его руками бессмысленно.
+
+    Источник состава - SLUGS, CHAIN и LANGS_BY_DOC, ровно те же таблицы, из
+    которых пишутся страницы, hreflang, меню и библиотека. Второму списку
+    взяться неоткуда, и разойтись нечему.
+
+    Пишем в `_v2/sitemap.xml`, а не в корень: боевое дерево заморожено, а в
+    день подмены `_v2` становится корнем и сайтмап приезжает вместе с ним.
+    """
+    built = [c for c in ALL_LANGS if c in SLUGS]
+    assert built, u'нет ни одного языка со слагами - сайтмап был бы пуст'
+
+    def alts(url_of):
+        """hreflang по языкам, у которых страница действительно есть."""
+        o = ['    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>'
+             % (c, url_of(c)) for c in built]
+        ref = 'en' if 'en' in built else built[0]
+        o.append('    <xhtml:link rel="alternate" hreflang="x-default" '
+                 'href="%s"/>' % url_of(ref))
+        return o
+
+    def url(loc, freq, prio, alt=None):
+        o = ['  <url>', '    <loc>%s</loc>' % loc,
+             '    <changefreq>%s</changefreq>' % freq,
+             '    <priority>%s</priority>' % prio]
+        o += alt or []
+        o.append('  </url>')
+        return '\n'.join(o)
+
+    body = [url(ORIGIN + '/', 'weekly', '1.0',
+                alts(lambda c: '%s/%s/' % (ORIGIN, c)))]
+
+    for c in built:
+        body.append(url('%s/%s/' % (ORIGIN, c), 'weekly', '0.9',
+                        alts(lambda x: '%s/%s/' % (ORIGIN, x))))
+
+    for c in built:
+        body.append(url('%s/%s/manifest.html' % (ORIGIN, c), 'monthly', '0.8',
+                        alts(lambda x: '%s/%s/manifest.html' % (ORIGIN, x))))
+
+    # Библиотеки. Сейчас страницы несут `noindex, follow`, и пока это так, в
+    # сайтмап они не идут: обещать краулеру то, что сами же запретили
+    # индексировать, - противоречие в двух файлах об одной странице.
+    lib_in_map = False
+    if lib_in_map:
+        for c in built:
+            body.append(url('%s/documents/%s/index.html' % (ORIGIN, c),
+                            'monthly', '0.5',
+                            alts(lambda x: '%s/documents/%s/index.html'
+                                 % (ORIGIN, x))))
+
+    docs = 0
+    for num in CHAIN:
+        langs = [c for c in built if has_doc(num, c) and num in titles]
+        if not langs:
+            continue
+        for c in langs:
+            body.append(url(ORIGIN + doc_href(num, c), 'monthly',
+                            '0.9' if num == '01' else '0.7',
+                            alts(lambda x, n=num: ORIGIN + doc_href(n, x))
+                            if len(langs) == len(built) else
+                            ['    <xhtml:link rel="alternate" hreflang="%s" '
+                             'href="%s"/>' % (y, ORIGIN + doc_href(num, y))
+                             for y in langs]))
+            docs += 1
+
+    carried = _carry_over_from_legacy(('/topics/', '/book/'))
+    body.extend(carried)
+
+    out = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
+           '        xmlns:xhtml="http://www.w3.org/1999/xhtml">',
+           '',
+           '  <!-- Собран build_site_docs.py из SLUGS, CHAIN и LANGS_BY_DOC.',
+           '       Руками не править: правка переживёт ровно до следующей сборки.',
+           '       Топики и книга перенесены из боевого сайтмапа как есть. -->',
+           '']
+    out += body
+    out.append('</urlset>')
+    text = '\n'.join(out) + '\n'
+
+    # Проверка боем, а не на глаз: числовых адресов документов быть не должно
+    # ни одного - именно они и были дефектом.
+    # Только внутри /documents/: `ch01.html` из книги под тот же шаблон
+    # попадает, но числовым адресом документа корпуса не является.
+    numeric = re.findall(r'<loc>[^<]*/documents/[a-z]{2}/[a-z]{2}[0-9]{2}\.html</loc>',
+                         text)
+    assert not numeric, (u'в сайтмапе %d числовых адресов документов: %s'
+                         % (len(numeric), numeric[:3]))
+    assert docs >= 150, u'документов в сайтмапе всего %d - похоже, сборка сломалась' % docs
+
+    dst = os.path.join(SITE, '_v2', 'sitemap.xml')
+    if not dry:
+        io.open(dst, 'w', encoding='utf-8', newline='\n').write(text)
+    return docs, len(carried), text.count('<loc>')
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('docs', nargs='*', help='номера документов или all')
@@ -1986,6 +2135,12 @@ def main():
         n = write_library_v2(lang, titles, dry=a.dry)
         print('библиотека %s: записей %d -> %s'
               % (lang, n, os.path.join('_v2', 'documents', lang, 'index.html')))
+        # Сайтмап собирается из таблиц, а не из дерева, поэтому его состав не
+        # зависит от того, какой язык сейчас собирали. Пишем при каждой сборке:
+        # так он не может отстать.
+        d, c, total = write_sitemap_v2(all_titles(), dry=a.dry)
+        print('сайтмап   _v2/sitemap.xml  адресов %d (документов %d, '
+              'перенесено топиков и книги %d)' % (total, d, c))
         print('тема v2: карта редиректов и doc-slugs.js не трогались')
         return
 
