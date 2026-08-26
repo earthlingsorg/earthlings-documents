@@ -347,7 +347,8 @@ def head(lang, url, title, desc, path, extra_css=()):
     css = C.font_preloads(lang) + [
            '<link rel="stylesheet" href="/css/tokens.css">',
            '<link rel="stylesheet" href="/css/chrome.css">',
-           '<link rel="stylesheet" href="/css/doc.css">'] + list(extra_css)
+           '<link rel="stylesheet" href="/css/doc.css">'] + list(extra_css) \
+        + C.script_css(lang)
     return '\n'.join([
         '<!DOCTYPE html>',
         '<html lang="%s"%s>' % (lang, ' dir="rtl"' if lang in C.RTL else ''),

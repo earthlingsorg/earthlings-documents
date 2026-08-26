@@ -1437,7 +1437,7 @@ def head_html(num, doc_title, w, lang='ru'):
             '<link rel="stylesheet" href="/css/chrome.css">',
             '<link rel="stylesheet" href="/css/doc.css">',
             '<script defer src="/js/chrome.js"></script>',
-        ]
+        ] + chrome.script_css(lang)
         for css in EXTRA_CSS_BY_DOC.get(num, []):
             # Особые стили пока есть только у документа 31 (схемы «Рабочей
             # повестки»), и они написаны на токенах прежней темы. Молча
@@ -1868,7 +1868,7 @@ def write_library_v2(lang, titles, dry=False):
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
         '<title>%s</title>' % esc(title),
         '<meta name="description" content="%s">' % esc(desc),
-    ] + chrome.font_preloads(lang) + [
+    ] + chrome.font_preloads(lang) + chrome.script_css(lang) + [
         '<link rel="stylesheet" href="/css/tokens.css">',
         '<link rel="stylesheet" href="/css/chrome.css">',
         '<link rel="stylesheet" href="/css/doc.css">',
@@ -2065,10 +2065,14 @@ def all_titles():
 def _carry_over_from_legacy(kinds):
     """Переносит из боевого sitemap.xml разделы, которых сборщик не строит.
 
-    Топики и книга - живая поисковая поверхность: 72 и 21 адрес. Сборщик о них
-    ничего не знает и никогда не узнает: они не документы корпуса. Потерять их
-    при переходе на генерацию значило бы обменять один дефект на другой,
-    поэтому они переносятся как есть, по префиксу адреса.
+    Топики - живая поисковая поверхность в 72 адреса. Сборщик о них ничего не
+    знает и никогда не узнает: они не документы корпуса. Потерять их при
+    переходе на генерацию значило бы обменять один дефект на другой, поэтому
+    они переносятся как есть, по префиксу адреса.
+
+    Книга (21 адрес) НЕ переносится - решение Артура 2026-08-26: книги, статей
+    и питчей на новом сайте нет. Обещать краулеру раздел, которого на сайте не
+    будет, - тот самый дефект, ради которого сайтмап и отдали генератору.
 
     Боевой файл только ЧИТАЕТСЯ. Замок этапа 0 запрещает писать в боевое
     дерево, а не смотреть в него.
@@ -2157,7 +2161,11 @@ def write_sitemap_v2(titles, dry=False):
                              for y in langs]))
             docs += 1
 
-    carried = _carry_over_from_legacy(('/topics/', '/book/'))
+    carried = _carry_over_from_legacy(('/topics/',))
+    assert carried, (
+        u'из боевого сайтмапа не перенесено ни одного топика. Либо файл не '
+        u'прочитался, либо префикс сменился - молча отдать сайтмап без 72 '
+        u'адресов хуже, чем упасть здесь.')
     body.extend(carried)
 
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
@@ -2166,7 +2174,7 @@ def write_sitemap_v2(titles, dry=False):
            '',
            '  <!-- Собран build_site_docs.py из SLUGS, CHAIN и LANGS_BY_DOC.',
            '       Руками не править: правка переживёт ровно до следующей сборки.',
-           '       Топики и книга перенесены из боевого сайтмапа как есть. -->',
+           '       Топики перенесены из боевого сайтмапа как есть; книги нет. -->',
            '']
     out += body
     out.append('</urlset>')
@@ -2298,7 +2306,7 @@ def main():
         # так он не может отстать.
         d, c, total = write_sitemap_v2(all_titles(), dry=a.dry)
         print('сайтмап   _v2/sitemap.xml  адресов %d (документов %d, '
-              'перенесено топиков и книги %d)' % (total, d, c))
+              'перенесено топиков %d)' % (total, d, c))
         print('тема v2: карта редиректов и doc-slugs.js не трогались')
         return
 
