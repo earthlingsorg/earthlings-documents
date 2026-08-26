@@ -914,7 +914,7 @@
 - 世界银行终止发布《营商环境报告》，二〇二一年九月——[声明](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
 - 政府间气候变化专门委员会报告的编制与核定程序——[IPCC 的程序](https://www.ipcc.ch/about/procedures/)
 - 互联网工程任务组的工作原则，包括“粗略的共识与可运行的代码”这一表述——[RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
-- 二〇一六至二〇一八年的爱尔兰公民大会和二〇一二至二〇一四年的宪法大会——[大会的材料](https://citizensassembly.ie/)。公民复决的日期与结果：二〇一五年五月二十二日（同性婚姻），二〇一八年五月二十五日（第三十六修正案，第八修正案由它废除，66.4%，投票率 64.1%）
+- 二〇一六至二〇一八年的爱尔兰公民大会——[大会的材料](https://citizensassembly.ie/)；二〇一二至二〇一四年的宪法大会——[大会的档案](https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/)。公民复决的日期与结果：二〇一五年五月二十二日（同性婚姻），二〇一八年五月二十五日（第三十六修正案，第八修正案由它废除，66.4%，投票率 64.1%）
 - 截至二〇二五年底被迫流离失所者和无国籍者的数据——[联合国难民署统计](https://www.unhcr.org/refugee-statistics/)
 - 西班牙数据保护局针对 Tools for Humanity 的保全措施，二〇二四年三月六日——[AEPD 通告](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - 巴西国家数据保护局二〇二五年三月二十五日第 PR/ANPD 18/2025 号决定，驳回上诉并维持禁令——[ANPD 网站](https://www.gov.br/anpd/)

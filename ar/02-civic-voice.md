@@ -914,7 +914,7 @@
 - وقف البنك الدولي نشر تصنيف Doing Business، أيلول/سبتمبر 2021 - [البيان](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
 - ترتيب إعداد تقارير الهيئة الحكومية الدولية المعنية بتغير المناخ والمصادقة عليها - [إجراءات الهيئة](https://www.ipcc.ch/about/procedures/)
 - مبادئ عمل فرقة عمل هندسة الإنترنت، ومنها صيغة «توافق تقريبي وشفرة تعمل» - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
-- جمعية المواطنين الإيرلندية 2016-2018 والمؤتمر الدستوري 2012-2014 - [مواد الجمعية](https://citizensassembly.ie/). وتواريخ الاستفتاءات ونتائجها: 22 أيار/مايو 2015 (الزواج بين شخصين من جنس واحد)، و25 أيار/مايو 2018 (التعديل السادس والثلاثون الذي أُلغي به التعديل الثامن، 66,4 بالمئة بنسبة مشاركة 64,1)
+- جمعية المواطنين الإيرلندية 2016-2018 - [مواد الجمعية](https://citizensassembly.ie/)؛ والمؤتمر الدستوري 2012-2014 - [أرشيف المؤتمر](https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/). وتواريخ الاستفتاءات ونتائجها: 22 أيار/مايو 2015 (الزواج بين شخصين من جنس واحد)، و25 أيار/مايو 2018 (التعديل السادس والثلاثون الذي أُلغي به التعديل الثامن، 66,4 بالمئة بنسبة مشاركة 64,1)
 - بيانات المهجَّرين قسراً وعديمي الجنسية في نهاية 2025 - [إحصاءات مفوضية الأمم المتحدة السامية لشؤون اللاجئين](https://www.unhcr.org/refugee-statistics/)
 - التدبير التحفظي الصادر عن الوكالة الإسبانية لحماية البيانات في شأن Tools for Humanity، 6 آذار/مارس 2024 - [بيان AEPD](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - قرار الهيئة الوطنية لحماية البيانات في البرازيل PR/ANPD رقم 18/2025 الصادر في 25 آذار/مارس 2025 برفض الطعن وإبقاء الحظر - [موقع ANPD](https://www.gov.br/anpd/)
