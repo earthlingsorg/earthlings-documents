@@ -287,11 +287,11 @@ Das Russell-Tribunal zu Vietnam von 1966 bis 1967 und das zwölf Jahre später e
 
 **Die Lehre.** Ohne überprüfbaren Bestand bleibt jedes, auch das makelloseste Verfahren die private Meinung einer Gruppe angesehener Menschen. Genau darin unterscheiden wir uns - und genau das verlieren wir, wenn der Bestand aufhört, überprüfbar zu sein.
 
-Das Messinstrument ist oben als Entwurf beschrieben. Hier steht, wie es arbeiten muss, um nicht zu einer weiteren Umfrage zu werden. Die Anforderungen, ohne die eine Messung nicht zustande kommt, sind in der [Charta](https://earth-lings.org/documents/de/de05-charta.html), Artikel 8-bis, festgelegt: wer den Wortlaut der Frage nicht billigen darf, was zusammen mit dem Ergebnis veröffentlicht wird, wer einen Mangel feststellt und auf wessen Geld eine Messung nicht stattfindet. Das Verfahren im Einzelnen hat die Charta dem Beschluss der Vollversammlung überlassen und verlangt, es vor der ersten Messung zu veröffentlichen; bis heute ist es nicht beschlossen. Unten steht dasselbe mit der Erklärung, woher jede Anforderung stammt, und der Entwurf dort, wo es noch keine Regel gibt.
-
 ---
 
 # Teil IV. Wie eine Messung aufgebaut ist
+
+Das Messinstrument ist oben als Entwurf beschrieben. Hier steht, wie es arbeiten muss, um nicht zu einer weiteren Umfrage zu werden. Die Anforderungen, ohne die eine Messung nicht zustande kommt, sind in der [Charta](https://earth-lings.org/documents/de/de05-charta.html), Artikel 8-bis, festgelegt: wer den Wortlaut der Frage nicht billigen darf, was zusammen mit dem Ergebnis veröffentlicht wird, wer einen Mangel feststellt und auf wessen Geld eine Messung nicht stattfindet. Das Verfahren im Einzelnen hat die Charta dem Beschluss der Vollversammlung überlassen und verlangt, es vor der ersten Messung zu veröffentlichen; bis heute ist es nicht beschlossen. Unten steht dasselbe mit der Erklärung, woher jede Anforderung stammt, und der Entwurf dort, wo es noch keine Regel gibt.
 
 ## 7. Wer teilnimmt
 
@@ -756,7 +756,7 @@ Der Abschnitt steht nicht des Gleichgewichts wegen hier. Jeder der aufgezählten
 
 **Was geschieht.** Das Volk - oder ein spürbarer Teil von ihm oder seine Leitung - stellt sich öffentlich auf eine der Seiten einer fremden innenpolitischen Spaltung. Von diesem Tag an ist das Messinstrument für die halbe Gesellschaft die Waffe des Gegners, und seine Anzeigen werden zusammen mit ihm zurückgewiesen.
 
-**Warum das tödlich ist.** Ein Werkzeug dieser Art lässt sich nicht wiederherstellen: Das Beispiel Doing Business zeigt, dass Vertrauen ganz und ein einziges Mal verloren geht.
+**Warum das tödlich ist.** Ein Werkzeug dieser Art lässt sich nicht wiederherstellen: Das Beispiel Doing Business aus Abschnitt 6 zeigt, dass Vertrauen ganz und ein einziges Mal verloren geht.
 
 **Was getan wird.** Das Verbot von Positionen zur Innenpolitik der Staaten steht in der Erklärung und nicht in einer Geschäftsordnung. Das Volk hat nirgends und niemals eine Meinung über Parteien, Kandidaten und Wahlen.
 
@@ -883,8 +883,6 @@ Damit sich das hier Beschriebene überprüfen und nicht bloß glauben lässt, ne
 | Die Chronik der Nichtantworten: gestellt, beantwortet, nicht beantwortet | Verwandelt das Schweigen in eine Tatsache |
 | Die Zahl der Zitierungen durch Dritte und deren Zusammensetzung | Ob die Stufe 2 eingetreten ist oder nicht |
 | Die Zahl der Fälle, in denen sich eine Seite auf eine Messung berufen hat, der diese entgegen unserer Position nützt | Die einzige Kennzahl der Stufe 3 |
-
----
 
 ---
 

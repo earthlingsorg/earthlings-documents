@@ -287,11 +287,11 @@ The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal
 
 **The lesson.** Without a verifiable composition, any procedure, even a flawless one, remains the private opinion of a group of respected people. That is exactly the place where we differ - and exactly what we shall lose if the composition ceases to be verifiable.
 
-The instrument is described above as a design. Here is how it has to work if it is not to turn into one more poll. The requirements without which a measurement does not take place are established by the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who may not approve the question, what is published together with the result, who finds a defect, and whose money a measurement is not conducted on. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today it has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
-
 ---
 
 # Part IV. How a measurement works
+
+The instrument is described above as a design. Here is how it has to work if it is not to turn into one more poll. The requirements without which a measurement does not take place are established by the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who may not approve the question, what is published together with the result, who finds a defect, and whose money a measurement is not conducted on. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today it has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
 
 ## 7. Who takes part
 
@@ -756,7 +756,7 @@ The section is not there for balance. Every one of the outcomes listed is possib
 
 **What happens.** The people - or a noticeable part of it, or its leadership - publicly takes one of the sides in someone's domestic political split. From that day the instrument is, for half of society, the enemy's weapon, and its readings are rejected along with it.
 
-**Why this is fatal.** A tool of this type cannot be restored: the example of Doing Business shows that trust is lost entirely and at one stroke.
+**Why this is fatal.** A tool of this type cannot be restored: the example of Doing Business in section 6 shows that trust is lost entirely and at one stroke.
 
 **What is being done.** The ban on positions on the domestic politics of states stands in the Declaration, not in a set of rules. The people has no opinion about parties, candidates and elections anywhere and ever.
 
@@ -883,8 +883,6 @@ So that what is described here can be checked rather than taken on faith, we nam
 | The chronicle of non-answers: asked, answered, not answered | Turns silence into a fact |
 | The number of citations by third parties and their composition | Whether rung 2 has arrived or not |
 | The number of cases where a measurement was cited by a side to whose benefit it runs contrary to our position | The only indicator of rung 3 |
-
----
 
 ---
 

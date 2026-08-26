@@ -287,11 +287,11 @@ El Tribunal Russell sobre Vietnam de 1966-1967 y el Tribunal Permanente de los P
 
 **Lección.** Sin una composición verificable, cualquier procedimiento, incluso impecable, sigue siendo la opinión particular de un grupo de personas respetables. Ese es exactamente el punto en que nos diferenciamos, y exactamente lo que perderemos si la composición deja de ser verificable.
 
-El instrumento se ha descrito arriba como propósito. Aquí, cómo debe funcionar para no convertirse en una encuesta más. Los requisitos sin los cuales la medición no se produce están establecidos en la [Carta](https://earth-lings.org/documents/es/es05-carta.html), artículo 8 bis: quién no tiene derecho a aprobar la pregunta, qué se publica junto con el resultado, quién constata el defecto y con el dinero de quién no se realiza la medición. El procedimiento en detalle la Carta lo ha encomendado a una decisión de la Asamblea y ha exigido que se publique antes de la primera medición; a día de hoy no está adoptado. Abajo, lo mismo con la explicación de dónde ha salido cada requisito, y el propósito allí donde todavía no hay regla.
-
 ---
 
 # Parte IV. Cómo está hecha la medición
+
+El instrumento se ha descrito arriba como propósito. Aquí, cómo debe funcionar para no convertirse en una encuesta más. Los requisitos sin los cuales la medición no se produce están establecidos en la [Carta](https://earth-lings.org/documents/es/es05-carta.html), artículo 8 bis: quién no tiene derecho a aprobar la pregunta, qué se publica junto con el resultado, quién constata el defecto y con el dinero de quién no se realiza la medición. El procedimiento en detalle la Carta lo ha encomendado a una decisión de la Asamblea y ha exigido que se publique antes de la primera medición; a día de hoy no está adoptado. Abajo, lo mismo con la explicación de dónde ha salido cada requisito, y el propósito allí donde todavía no hay regla.
 
 ## 7. Quién participa
 
@@ -756,7 +756,7 @@ La sección no está para equilibrar. Cada uno de los desenlaces enumerados es p
 
 **Qué ocurre.** El pueblo - o una parte notable de él, o su dirección - se pone públicamente de uno de los lados de la fractura política interna de alguien. Desde ese día el instrumento es, para media sociedad, el arma del adversario, y sus lecturas se rechazan junto con él.
 
-**Por qué es mortal.** Una herramienta de ese tipo no se puede restablecer: el ejemplo de Doing Business muestra que la confianza se pierde entera y de una sola vez.
+**Por qué es mortal.** Una herramienta de ese tipo no se puede restablecer: el ejemplo de Doing Business de la sección 6 muestra que la confianza se pierde entera y de una sola vez.
 
 **Qué se hace.** La prohibición de tomar posición sobre la política interna de los Estados está en la Declaración y no en un reglamento. El pueblo no tiene opinión sobre partidos, candidatos ni elecciones en ninguna parte y nunca.
 
@@ -883,8 +883,6 @@ Para que lo aquí descrito se pueda verificar y no haya que aceptarlo por fe, no
 | Crónica de las no respuestas: preguntado, respondido, no respondido | Convierte el silencio en un hecho |
 | Número de citas por terceros y su composición | El escalón 2 ha llegado o no ha llegado |
 | Número de casos en que invocó la medición la parte a la que le conviene en contra de nuestra posición | El único indicador del escalón 3 |
-
----
 
 ---
 

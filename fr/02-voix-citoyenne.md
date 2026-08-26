@@ -287,11 +287,11 @@ Le Tribunal Russell sur le Vietnam de 1966-1967 et le Tribunal permanent des peu
 
 **Leçon.** Sans composition vérifiable, toute procédure, même irréprochable, reste l'opinion privée d'un groupe de personnes respectées. C'est exactement là que nous différons - et exactement ce que nous perdrons si la composition cesse d'être vérifiable.
 
-L'instrument a été décrit plus haut comme un dessein. Voici comment il doit fonctionner pour ne pas devenir un sondage de plus. Les exigences sans lesquelles la mesure n'a pas lieu sont établies par la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html), article 8 bis: qui n'a pas le droit d'approuver la question, ce qui est publié avec le résultat, qui constate le défaut et sur quel argent la mesure n'est pas effectuée. La Charte a laissé les modalités détaillées à une décision de l'Assemblée et a exigé leur publication avant la première mesure; à ce jour, elles n'ont pas été adoptées. Ci-dessous, la même chose avec l'explication de l'origine de chaque exigence, et le dessein là où la règle n'existe pas encore.
-
 ---
 
 # Partie IV. Comment la mesure est faite
+
+L'instrument a été décrit plus haut comme un dessein. Voici comment il doit fonctionner pour ne pas devenir un sondage de plus. Les exigences sans lesquelles la mesure n'a pas lieu sont établies par la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html), article 8 bis: qui n'a pas le droit d'approuver la question, ce qui est publié avec le résultat, qui constate le défaut et sur quel argent la mesure n'est pas effectuée. La Charte a laissé les modalités détaillées à une décision de l'Assemblée et a exigé leur publication avant la première mesure; à ce jour, elles n'ont pas été adoptées. Ci-dessous, la même chose avec l'explication de l'origine de chaque exigence, et le dessein là où la règle n'existe pas encore.
 
 ## 7. Qui participe
 
@@ -756,7 +756,7 @@ Cette section n'est pas là pour faire contrepoids. Chacune des issues énumér�
 
 **Ce qui se passe.** Le peuple - ou une part notable de lui, ou sa direction - se range publiquement du côté de l'un des camps d'une fracture politique intérieure. À partir de ce jour, l'instrument est, pour la moitié de la société, l'arme de l'adversaire, et ses relevés sont rejetés avec lui.
 
-**Pourquoi c'est mortel.** Un outil de ce type ne se rétablit pas: l'exemple de Doing Business montre que la confiance se perd en entier et une seule fois.
+**Pourquoi c'est mortel.** Un outil de ce type ne se rétablit pas: l'exemple de Doing Business de la section 6 montre que la confiance se perd en entier et une seule fois.
 
 **Ce qui est fait.** L'interdiction de prendre position sur la politique intérieure des États figure dans la Déclaration, non dans un règlement. Le peuple n'a d'opinion sur les partis, les candidats et les élections nulle part et jamais.
 
@@ -883,8 +883,6 @@ Pour que ce qui est décrit ici puisse être vérifié et non cru sur parole, no
 | La chronique des non-réponses: questions posées, réponses reçues, réponses non reçues | Change le silence en fait |
 | Le nombre de citations par des tiers et leur composition | L'échelon 2 est atteint ou non |
 | Le nombre de cas où une mesure a été invoquée par la partie à qui elle profite en dépit de notre position | Le seul indicateur de l'échelon 3 |
-
----
 
 ---
 
