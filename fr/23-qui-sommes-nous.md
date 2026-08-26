@@ -10,7 +10,7 @@ Les documents constitutifs du projet décrivent ce modèle comme l'architecture 
 
 L'architecture des Earthlings est conçue comme un système institutionnel d'un seul tenant, et non assemblée à partir de composants tout faits. Pour ses relations avec le système juridique existant, le peuple agit par l'intermédiaire de représentants habilités et recourt à des structures enregistrées et à d'autres instruments de droit: des interfaces extérieures interchangeables. Le peuple lui-même se gouverne par sa propre infrastructure DAO.
 
-Vingt-six documents fondamentaux en neuf langues, une identité on-chain et une trésorerie publiquement vérifiable forment les Earthlings dans leur état institutionnel actuel. Le cycle opérationnel complet est assuré par quatre plateformes en exploitation, déployées à partir d'avril 2025:
+Vingt-cinq documents fondamentaux en neuf langues, une identité on-chain et une trésorerie publiquement vérifiable forment les Earthlings dans leur état institutionnel actuel. Le cycle opérationnel complet est assuré par quatre plateformes en exploitation, déployées à partir d'avril 2025:
 
 - les documents constitutifs;
 - l'identification biométrique et la délivrance des passeports SBT;
@@ -162,4 +162,4 @@ Toute l'infrastructure institutionnelle des Earthlings est ouverte à la vérifi
 
 - Contrat intelligent SBT sur Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - Trésorerie Safe Multisig sur Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- Corpus documentaire: 26 documents institutionnels en neuf langues ([tous les documents](/fr/)).
+- Corpus documentaire: 25 documents institutionnels en neuf langues ([tous les documents](/fr/)).
