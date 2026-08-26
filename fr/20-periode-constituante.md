@@ -74,7 +74,7 @@ Les propositions qui les visent sont reçues et publiées avec une réponse comm
 
 ### Ce qui n'entre pas dans le corpus
 
-Le Manifeste d'appartenance, placé en page d'accueil, ne fait pas partie du corpus. Les propositions qui le visent ne sont pas reçues, et il n'est pas soumis au vote.
+Le message à tous, placé en page d'accueil, ne fait pas partie du corpus. Les propositions qui le visent ne sont pas reçues, et il n'est pas soumis au vote.
 
 La raison n'est pas qu'il serait plus important ou plus intouchable que le reste. Au contraire: il n'établit rien. Il ne crée ni droits ni obligations, rien n'en découle, et ce n'est pas lui que le peuple adopte. C'est une adresse aux gens de la part de ceux qui ont commencé tout cela, et ce sont ses auteurs qui la signent, non le peuple. Voter sur une adresse serait aussi étrange que voter sur la lettre de quelqu'un d'autre.
 

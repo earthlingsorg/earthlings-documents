@@ -6,7 +6,7 @@
 
 Earthlings is a working operational implementation of a voluntarily self-organized non-territorial people, resting on the principle of self-determination.
 
-The project's founding documents describe this model as the architecture of a society in which power accumulates at no single point. Earthlings brings together people from different countries around the Declaration of Self-Determination - an unamendable founding core that no majority can rewrite - and around a digital infrastructure providing verified participation on the principle of "one person, one vote" at planetary scale.
+The project's founding documents describe this model as the architecture of a society in which power accumulates at no single point. Earthlings brings together people from different countries around the Earthlings Declaration - an unamendable founding core that no majority can rewrite - and around a digital infrastructure providing verified participation on the principle of "one person, one vote" at planetary scale.
 
 The architecture of Earthlings is designed as a single institutional system rather than assembled from off-the-shelf components. For engagement with the existing legal system the people, through authorized representatives, uses registered legal structures and other legal instruments - replaceable external interfaces for engagement. The people itself is governed through its own DAO infrastructure.
 

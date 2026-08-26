@@ -35,7 +35,7 @@ If something is unclear or unacceptable - write to us. Proposals to amend these 
 
 ## Who we are
 
-Earthlings is a self-determined transnational people existing as a matter of fact on the basis of the Declaration of Self-Determination. What unites us is shared values, not territory or descent.
+Earthlings is a self-determined transnational people existing as a matter of fact on the basis of the Earthlings Declaration. What unites us is shared values, not territory or descent.
 
 The people exists and develops with its own infrastructure, governance, and identity regardless of how international law comes to classify it in time: no body that recognizes peoples exists for anyone. Legal cognizability - being treated as a people where a specific question arises - accumulates through practice, time, and the number of participants. How this is arranged and what is said against us: [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
 
@@ -58,7 +58,7 @@ These values are embodied in the architecture, not merely declared.
 ## Conditions
 
 **Age** - 18 years or over.
-**Signing** the Declaration of Self-Determination.
+**Signing** the Earthlings Declaration.
 **Identity verification** through the people's own system.
 **A one-time contribution** - the equivalent of 79 USD. Whoever cannot make it themselves joins an open queue, and the contribution for them is made by another person or by the Treasury; no exemption from the contribution is provided for, and the contribution is paid in full in any event (Charter, Article 12 bis).
 
@@ -319,7 +319,7 @@ Internal disputes between participants are resolved by the procedures of the Cha
 
 # SECTION 14. Consent
 
-The principal act of consent is **signing the Declaration of Self-Determination**: it is by that act that belonging to the people is created and the conditions of these Terms are accepted.
+The principal act of consent is **signing the Earthlings Declaration**: it is by that act that belonging to the people is created and the conditions of these Terms are accepted.
 
 By signing the Declaration and receiving the passport you confirm that:
 

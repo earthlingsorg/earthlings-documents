@@ -8,7 +8,7 @@
 
 ## Sobre el presente documento
 
-El presente texto expone la base jurídica de los principios y mecanismos enunciados en la Declaración Earthlings sobre la libre determinación. La Declaración formula valores y fines; este documento examina la admisibilidad jurídica de la construcción y su posible calificación en el derecho internacional.
+El presente texto expone la base jurídica de los principios y mecanismos enunciados en la Declaración Earthlings. La Declaración formula valores y fines; este documento examina la admisibilidad jurídica de la construcción y su posible calificación en el derecho internacional.
 
 En caso de discrepancia entre el presente documento y la Declaración se aplica la Declaración.
 

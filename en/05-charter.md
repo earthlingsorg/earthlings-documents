@@ -2,7 +2,7 @@
 
 **The rules by which a decentralized people operates**
 
-The Earthlings people, proceeding from the principles and values set out in the Earthlings Declaration of Self-Determination, and seeking to build a genuinely decentralized and just community, adopts this Charter as its principal organizational document.
+The Earthlings people, proceeding from the principles and values set out in the Earthlings Declaration, and seeking to build a genuinely decentralized and just community, adopts this Charter as its principal organizational document.
 
 We reject traditional hierarchical structures and build governance without hierarchy. Binding decisions are taken only by the DAO Assembly - that is, by Earthlings themselves, each with their own vote. No organ, no structure and no group holds a vote of its own. The particular technical and protective powers provided for by this Charter are exercised under an immediately revocable mandate from the Assembly and do not substitute for decisions taken on behalf of the people.
 
@@ -816,7 +816,7 @@ This Charter enters into force upon its publication on the website of the Earthl
 
 **The hierarchy of the documents of the Earthlings people:**
 
-1. **The Earthlings Declaration of Self-Determination** - the founding document, holding the highest force. A provision of any other document that contradicts the Declaration has no force from the moment of adoption and is not to be applied
+1. **The Earthlings Declaration** - the founding document, holding the highest force. A provision of any other document that contradicts the Declaration has no force from the moment of adoption and is not to be applied
 2. **This Charter** - the principal organizational document
 3. **Derivative documents** - where the Charter and a derivative document diverge, the Charter applies
 

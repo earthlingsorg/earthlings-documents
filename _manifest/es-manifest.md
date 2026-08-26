@@ -1,4 +1,4 @@
-# Manifiesto de la pertenencia
+# Un mensaje a todos
 
 Organizaciones internacionales. Miren la segunda palabra: internacionales. Entre naciones, eso es lo que dice. Pero en la mesa donde se decide se sientan solo los Estados. A los pueblos se los admite como invitados: se los escucha, se los consulta, se les da la palabra en los comités. Se vota sin ellos.
 

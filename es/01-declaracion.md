@@ -1,4 +1,4 @@
-# Declaración Earthlings sobre la libre determinación
+# Declaración Earthlings
 
 ## Estado de la presente versión
 

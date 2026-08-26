@@ -2,7 +2,7 @@
 
 **Les règles de fonctionnement d'un peuple décentralisé**
 
-Le peuple des Earthlings, se fondant sur les principes et les valeurs énoncés dans la Déclaration des Earthlings sur l'autodétermination, et cherchant à créer une communauté véritablement décentralisée et juste, adopte la présente Charte comme document d'organisation principal.
+Le peuple des Earthlings, se fondant sur les principes et les valeurs énoncés dans la Déclaration des Earthlings, et cherchant à créer une communauté véritablement décentralisée et juste, adopte la présente Charte comme document d'organisation principal.
 
 Nous rejetons les structures hiérarchiques traditionnelles et bâtissons une gouvernance sans hiérarchie. Seule l'Assemblée DAO prend des décisions obligatoires, c'est-à-dire les Earthlings eux-mêmes, chacun par sa voix. Aucun organe, aucune structure et aucun groupe n'a de voix propre. Les pouvoirs techniques et de protection particuliers prévus par la présente Charte s'exercent sur mission immédiatement révocable de l'Assemblée et ne remplacent pas les décisions prises au nom du peuple.
 
@@ -816,7 +816,7 @@ La présente Charte entre en vigueur après sa publication sur le site du peuple
 
 **Hiérarchie des documents du peuple des Earthlings:**
 
-1. **La Déclaration des Earthlings sur l'autodétermination** - document constitutif ayant la force la plus élevée. Toute disposition d'un autre document contraire à la Déclaration est sans effet dès son adoption et n'est pas applicable
+1. **La Déclaration des Earthlings** - document constitutif ayant la force la plus élevée. Toute disposition d'un autre document contraire à la Déclaration est sans effet dès son adoption et n'est pas applicable
 2. **La présente Charte** - document d'organisation principal
 3. **Les documents dérivés** - en cas de divergence entre la Charte et un document dérivé, la Charte s'applique
 

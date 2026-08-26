@@ -1,4 +1,4 @@
-# Déclaration des Earthlings sur l'autodétermination
+# Déclaration des Earthlings
 
 ## Statut de la présente version
 

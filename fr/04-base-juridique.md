@@ -8,7 +8,7 @@
 
 ## À propos du présent document
 
-Le présent texte expose la base juridique des principes et des mécanismes énoncés dans la Déclaration des Earthlings sur l'autodétermination. La Déclaration formule des valeurs et des buts; le présent document examine la licéité de la construction et sa qualification possible en droit international.
+Le présent texte expose la base juridique des principes et des mécanismes énoncés dans la Déclaration des Earthlings. La Déclaration formule des valeurs et des buts; le présent document examine la licéité de la construction et sa qualification possible en droit international.
 
 En cas de divergence entre le présent document et la Déclaration, la Déclaration s'applique.
 

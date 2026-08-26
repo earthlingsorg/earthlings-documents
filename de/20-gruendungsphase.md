@@ -74,7 +74,7 @@ Vorschläge zu ihnen werden angenommen und mit einer Antwort veröffentlicht wie
 
 ### Was nicht zum Bestand gehört
 
-Das Manifest der Zugehörigkeit, das auf der Startseite steht, gehört nicht zum Bestand. Vorschläge zu ihm werden nicht angenommen, und zur Abstimmung wird es nicht gestellt.
+Die Ansprache an alle, die auf der Startseite steht, gehört nicht zum Bestand. Vorschläge zu ihm werden nicht angenommen, und zur Abstimmung wird es nicht gestellt.
 
 Der Grund liegt nicht darin, dass es wichtiger oder unantastbarer wäre als das Übrige. Im Gegenteil: Er legt nichts fest. Er begründet weder Rechte noch Pflichten, aus ihm folgt nichts, und das Volk nimmt nicht ihn an. Es ist eine Ansprache an die Menschen von denen, die das alles begonnen haben - und unterzeichnet wird sie von den Verfassern und nicht vom Volk. Über eine Ansprache abzustimmen ist ebenso sonderbar wie über einen fremden Brief abzustimmen.
 

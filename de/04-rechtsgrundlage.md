@@ -8,7 +8,7 @@
 
 ## Über dieses Dokument
 
-Dieser Text stellt die rechtliche Begründung der Grundsätze und Mechanismen dar, die in der Erklärung der Earthlings über die Selbstbestimmung dargelegt sind. Die Erklärung formuliert Werte und Ziele; dieses Dokument untersucht die rechtliche Zulässigkeit der Konstruktion und ihre mögliche Einordnung im Völkerrecht.
+Dieser Text stellt die rechtliche Begründung der Grundsätze und Mechanismen dar, die in der Erklärung der Earthlings dargelegt sind. Die Erklärung formuliert Werte und Ziele; dieses Dokument untersucht die rechtliche Zulässigkeit der Konstruktion und ihre mögliche Einordnung im Völkerrecht.
 
 Bei einer Abweichung zwischen diesem Dokument und der Erklärung gilt die Erklärung.
 

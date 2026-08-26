@@ -1,4 +1,4 @@
-# Manifeste d'appartenance
+# Un message à tous
 
 Organisations internationales. Regardez ce mot de près: international, inter nationes - entre les nations. C'est ce qu'il dit. Mais à la table où l'on décide ne siègent que les États. Les peuples y sont admis à titre d'invités: on les écoute, on les consulte, on leur donne la parole en commission. On vote sans eux.
 

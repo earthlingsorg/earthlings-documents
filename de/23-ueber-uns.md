@@ -6,7 +6,7 @@
 
 Die Earthlings sind eine laufende betriebliche Umsetzung eines freiwillig selbst organisierten nichtterritorialen Volkes, die sich auf den Grundsatz der Selbstbestimmung stützt.
 
-Die Gründungsdokumente des Vorhabens beschreiben dieses Modell als die Architektur einer Gesellschaft, in der Macht sich an keiner Stelle anhäuft. Die Earthlings verbinden Menschen aus verschiedenen Ländern um die Erklärung über die Selbstbestimmung - einen unabänderlichen konstituierenden Kern, den keine Mehrheit umschreiben kann - und um eine digitale Infrastruktur, die eine geprüfte Teilnahme nach dem Grundsatz „ein Mensch - eine Stimme“ im planetaren Maßstab sichert.
+Die Gründungsdokumente des Vorhabens beschreiben dieses Modell als die Architektur einer Gesellschaft, in der Macht sich an keiner Stelle anhäuft. Die Earthlings verbinden Menschen aus verschiedenen Ländern um die Erklärung der Earthlings - einen unabänderlichen konstituierenden Kern, den keine Mehrheit umschreiben kann - und um eine digitale Infrastruktur, die eine geprüfte Teilnahme nach dem Grundsatz „ein Mensch - eine Stimme“ im planetaren Maßstab sichert.
 
 Die Architektur der Earthlings ist als ein einheitliches einrichtungsmäßiges System entworfen und nicht aus fertigen Bestandteilen zusammengesetzt. Für den Verkehr mit der bestehenden Rechtsordnung nutzt das Volk über bevollmächtigte Vertreter eingetragene Rechtsstrukturen und andere rechtliche Werkzeuge - austauschbare äußere Schnittstellen des Verkehrs. Das Volk selbst verwaltet sich über die eigene DAO-Infrastruktur.
 

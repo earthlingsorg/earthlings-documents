@@ -1,4 +1,4 @@
-# Manifesto of Belonging
+# An Address to Everyone
 
 International organizations. Look closely at the first word. Between nations - that is what it says. But only states sit at the table where decisions are taken. Peoples are admitted there as guests: they are heard, they are consulted, they are given the floor in committees. The voting happens without them.
 

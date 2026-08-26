@@ -931,7 +931,7 @@ C'est une source doctrinale, non une norme. Nous la citons parce que le mécanis
 
 Les documents du corpus auxquels le présent renvoie:
 
-- [Déclaration sur l'autodétermination](https://earth-lings.org/documents/fr/fr01-declaration.html) - articles 7, 8, 9, 10, 12 et 13
+- [Déclaration des Earthlings](https://earth-lings.org/documents/fr/fr01-declaration.html) - articles 7, 8, 9, 10, 12 et 13
 - [Base juridique](https://earth-lings.org/documents/fr/fr04-base-juridique.html)
 - [DAO des Earthlings](https://earth-lings.org/documents/fr/fr07-dao.html)
 - [Plateforme numérique](https://earth-lings.org/documents/fr/fr12-plateforme-numerique.html)

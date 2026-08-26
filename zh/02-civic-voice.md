@@ -931,7 +931,7 @@
 
 本文件所指向的文集内文件：
 
-- [Earthlings 自决宣言](https://earth-lings.org/documents/zh/zh01-declaration.html)——第七、八、九、十、十二和十三条
+- [Earthlings 宣言](https://earth-lings.org/documents/zh/zh01-declaration.html)——第七、八、九、十、十二和十三条
 - [法律依据](https://earth-lings.org/documents/zh/zh04-legal-basis.html)
 - [DAO Earthlings](https://earth-lings.org/documents/zh/zh07-dao.html)
 - [数字平台](https://earth-lings.org/documents/zh/zh12-digital-platform.html)

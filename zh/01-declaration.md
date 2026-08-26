@@ -1,4 +1,4 @@
-# Earthlings 自决宣言
+# Earthlings 宣言
 
 ## 本文本的状态
 

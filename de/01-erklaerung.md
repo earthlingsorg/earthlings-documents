@@ -1,4 +1,4 @@
-# Erklärung der Earthlings über die Selbstbestimmung
+# Erklärung der Earthlings
 
 ## Status dieser Fassung
 

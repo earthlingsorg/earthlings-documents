@@ -35,7 +35,7 @@ Ist etwas unklar oder unannehmbar, so schreiben Sie. Vorschläge zur Änderung d
 
 ## Wer wir sind
 
-Die Earthlings sind ein selbstbestimmtes transnationales Volk, das tatsächlich aufgrund der Erklärung über die Selbstbestimmung besteht. Uns verbinden gemeinsame Werte und kein Gebiet und keine Abstammung.
+Die Earthlings sind ein selbstbestimmtes transnationales Volk, das tatsächlich aufgrund der Erklärung der Earthlings besteht. Uns verbinden gemeinsame Werte und kein Gebiet und keine Abstammung.
 
 Das Volk besteht und entwickelt sich mit seiner Infrastruktur, seiner Verwaltung und seiner Identität unabhängig davon, wie das Völkerrecht es mit der Zeit einordnet: Ein anerkennendes Organ für Völker gibt es für niemanden. Die rechtliche Erkennbarkeit - die Behandlung eines Volkes als Volk dort, wo eine bestimmte Frage entsteht - sammelt sich durch Praxis, Zeit und Zahl der Teilnehmer an. Wie das eingerichtet ist und was gegen uns spricht: [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html), [Einwände und Antworten](https://earth-lings.org/documents/de/de26-einwaende-und-antworten.html).
 
@@ -58,7 +58,7 @@ Diese Werte sind in der Architektur verkörpert und nicht nur erklärt.
 ## Die Voraussetzungen
 
 **Alter** - das Erreichen des Alters von 18 Jahren.
-**Die Unterzeichnung** der Erklärung über die Selbstbestimmung.
+**Die Unterzeichnung** der Erklärung der Earthlings.
 **Die Identitätsprüfung** über das eigene System des Volkes.
 **Ein einmaliger Beitrag** - der Gegenwert von 79 USD. Wer ihn nicht selbst entrichten kann, wird in eine offene Warteschlange gestellt, und den Beitrag entrichtet für ihn eine andere Person oder die Schatzkammer; eine Befreiung vom Beitrag ist nicht vorgesehen, der Beitrag wird in jedem Fall vollständig entrichtet (Charta, Artikel 12-bis).
 
@@ -319,7 +319,7 @@ Innere Streitigkeiten zwischen Teilnehmern werden nach den Verfahren der Charta 
 
 # ABSCHNITT 14. Die Zustimmung
 
-Der wesentliche Akt der Zustimmung ist die **Unterzeichnung der Erklärung über die Selbstbestimmung**: Eben durch sie wird die Zugehörigkeit zum Volk begründet und werden die Bedingungen dieser Nutzungsbedingungen angenommen.
+Der wesentliche Akt der Zustimmung ist die **Unterzeichnung der Erklärung der Earthlings**: Eben durch sie wird die Zugehörigkeit zum Volk begründet und werden die Bedingungen dieser Nutzungsbedingungen angenommen.
 
 Mit der Unterzeichnung der Erklärung und dem Erhalt des Passes bestätigen Sie, dass Sie:
 

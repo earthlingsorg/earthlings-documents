@@ -931,7 +931,7 @@
 
 وثائق المجموعة التي تحيل إليها هذه الوثيقة:
 
-- [إعلان Earthlings لتقرير المصير](https://earth-lings.org/documents/ar/ar01-declaration.html) - المواد 7 و8 و9 و10 و12 و13
+- [إعلان Earthlings](https://earth-lings.org/documents/ar/ar01-declaration.html) - المواد 7 و8 و9 و10 و12 و13
 - [الأساس القانوني](https://earth-lings.org/documents/ar/ar04-legal-basis.html)
 - [DAO Earthlings](https://earth-lings.org/documents/ar/ar07-dao.html)
 - [المنصة الرقمية](https://earth-lings.org/documents/ar/ar12-digital-platform.html)

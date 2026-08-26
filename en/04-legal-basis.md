@@ -8,7 +8,7 @@
 
 ## About this document
 
-This text sets out the legal basis for the principles and mechanisms laid down in the Earthlings Declaration of Self-Determination. The Declaration states values and aims; this document examines whether the construction is legally admissible and how it might be classified in international law.
+This text sets out the legal basis for the principles and mechanisms laid down in the Earthlings Declaration. The Declaration states values and aims; this document examines whether the construction is legally admissible and how it might be classified in international law.
 
 Where this document and the Declaration diverge, the Declaration applies.
 

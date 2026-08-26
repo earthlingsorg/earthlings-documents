@@ -1,4 +1,4 @@
-# Das Manifest der Zugehörigkeit
+# Eine Ansprache an alle
 
 Internationale Organisationen. Sehen Sie sich dieses Wort genau an. Zwischen den Nationen - so liest es sich. Doch am Tisch, an dem entschieden wird, sitzen nur Staaten. Die Völker sind dort als Gäste zugelassen: Man hört sie an, man berät sich mit ihnen, man gibt ihnen in Ausschüssen das Wort. Abgestimmt wird ohne sie.
 

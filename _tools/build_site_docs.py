@@ -407,6 +407,19 @@ OVERRIDES = {
         'og_description': 'Какой код и какие данные Earthlings публикует, что закрыто и '
                           'по какой причине.',
     },
+    # Переименована 2026-08-26 из «Декларация Earthlings о самоопределении».
+    # До этого записи не было вовсе, и на ru01 стоял пустой description - на
+    # главном документе корпуса.
+    '01': {
+        'title': 'Декларация Earthlings | Народ Earthlings',
+        'og_title': 'Декларация Earthlings | Народ Earthlings',
+        'description': 'Декларация Earthlings - учредительный документ народа: права '
+                       'человека, гарантии ему, пределы власти самого народа и пять '
+                       'принципов неизменяемого ядра, которые не отменяются никаким '
+                       'большинством.',
+        'og_description': 'Учредительный документ народа Earthlings: права человека, '
+                          'пределы власти народа и неизменяемое ядро.',
+    },
     # Переименован 2026-08-14 из «Правовые возражения и ответы».
     '26': {
         'title': 'Возражения и ответы | Earthlings',
@@ -451,7 +464,7 @@ OVERRIDES = {
 # позиционирования, которую никто не сверял.
 _OFFICIAL = '%s - an official document of the Earthlings people.'
 OVERRIDES_EN = {
-    '01': {'description': _OFFICIAL % 'The Earthlings Declaration of Self-Determination'},
+    '01': {'description': _OFFICIAL % 'The Earthlings Declaration'},
     '02': {'description':
            'Why a civic voice can be ignored today without being argued with on the '
            'merits, what the Earthlings are building instead, and by what steps such '
@@ -526,7 +539,7 @@ OVERRIDES_EN = {
 _OFFICIAL_DE = '%s - ein offizielles Dokument des Volkes der Earthlings.'
 
 OVERRIDES_DE = {
-    '01': {'description': _OFFICIAL_DE % 'Die Erklärung der Selbstbestimmung der Earthlings'},
+    '01': {'description': _OFFICIAL_DE % 'Die Erklärung der Earthlings'},
     '02': {'description':
            'Warum eine Bürgerstimme heute überhört werden kann, ohne ihr in der Sache '
            'zu widersprechen, was die Earthlings stattdessen bauen und über welche '
@@ -599,7 +612,7 @@ OVERRIDES_DE = {
 _OFFICIAL_FR = '%s - un document officiel du peuple des Earthlings.'
 
 OVERRIDES_FR = {
-    '01': {'description': _OFFICIAL_FR % "La Déclaration des Earthlings sur l'autodétermination"},
+    '01': {'description': _OFFICIAL_FR % 'La Déclaration des Earthlings'},
     '02': {'description':
            "Pourquoi la voix citoyenne peut aujourd'hui être ignorée sans être "
            'contestée sur le fond, ce que les Earthlings construisent à la place et '
@@ -672,7 +685,7 @@ OVERRIDES_FR = {
 _OFFICIAL_ES = '%s - un documento oficial del pueblo Earthlings.'
 
 OVERRIDES_ES = {
-    '01': {'description': _OFFICIAL_ES % 'La Declaración Earthlings sobre la libre determinación'},
+    '01': {'description': _OFFICIAL_ES % 'La Declaración Earthlings'},
     '02': {'description':
            'Por qué hoy se puede no escuchar la voz ciudadana sin discutirla en el '
            'fondo, qué construyen los Earthlings a cambio y por qué escalones esa voz '
@@ -745,7 +758,7 @@ OVERRIDES_ES = {
 _OFFICIAL_KA = '%s - Earthlings-ის ხალხის ოფიციალური დოკუმენტი.'
 
 OVERRIDES_KA = {
-    '01': {'description': _OFFICIAL_KA % 'Earthlings-ის დეკლარაცია თვითგამორკვევის შესახებ'},
+    '01': {'description': _OFFICIAL_KA % 'Earthlings-ის დეკლარაცია'},
     '03': {'description': _OFFICIAL_KA % 'Earthlings-ის ეთიკა'},
     '04': {'description':
            'Earthlings-ის ხალხის სამართლებრივი საფუძველი: გაერთიანების თავისუფლება, '
@@ -814,7 +827,7 @@ _OFFICIAL_ZH = '%s——Earthlings 人民的官方文件。'
 # Китайский. Описания - текст, а не настройка: переведены, а не скопированы.
 # Типографика китайская: полноширинные знаки, тире 破折号 двумя U+2014.
 OVERRIDES_ZH = {
-    '01': {'description': _OFFICIAL_ZH % 'Earthlings 自决宣言'},
+    '01': {'description': _OFFICIAL_ZH % 'Earthlings 宣言'},
     '02': {'description':
            '为什么今天可以不听公民的声音，却不必在实质上与之争辩；Earthlings 拿什么'
            '来代替；以及这样的声音经由哪些台阶获得分量。',
@@ -877,7 +890,7 @@ OVERRIDES_ZH = {
 _OFFICIAL_AR = '%s - وثيقة رسمية من وثائق شعب Earthlings.'
 
 OVERRIDES_AR = {
-    '01': {'description': _OFFICIAL_AR % 'إعلان Earthlings لتقرير المصير'},
+    '01': {'description': _OFFICIAL_AR % 'إعلان Earthlings'},
     '02': {'description':
            'لماذا يمكن اليوم عدم سماع الصوت المدني دون منازعته في الجوهر، وما الذي '
            'يبنيه Earthlings بدلاً من ذلك، وبأي درجات يكتسب هذا الصوت وزناً.',

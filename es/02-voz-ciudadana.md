@@ -931,7 +931,7 @@ Es una fuente doctrinal, no una norma. La traemos porque el mecanismo que descri
 
 Los documentos del corpus a los que remite el presente:
 
-- [Declaración sobre la libre determinación](https://earth-lings.org/documents/es/es01-declaracion.html) - artículos 7, 8, 9, 10, 12 y 13
+- [Declaración Earthlings](https://earth-lings.org/documents/es/es01-declaracion.html) - artículos 7, 8, 9, 10, 12 y 13
 - [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html)
 - [DAO Earthlings](https://earth-lings.org/documents/es/es07-dao.html)
 - [Plataforma digital](https://earth-lings.org/documents/es/es12-plataforma-digital.html)

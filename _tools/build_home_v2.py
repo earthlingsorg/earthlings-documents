@@ -188,16 +188,19 @@ SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
 #
 # Китайский PDF собран 20 августа и попал только в боевое дерево (коммит
 # 342ea2e): кнопку добавили на боевую главную, а в эту таблицу - нет. Здесь он
-# добавлен. Арабского PDF не существует: сборка Манифеста на арабском
+# добавлен. Арабского PDF не существует: сборка Обращения на арабском
 # заблокирована движком, это отдельный открытый вопрос. Хинди ждёт перевода.
+#
+# Имена файлов оставлены прежними при переименовании 2026-08-26: адрес и
+# название документа совпадать не обязаны, а разосланные ссылки ломать нельзя.
 PDF = {
-    'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', u'Скачать Манифест в PDF'),
-    'en': ('/downloads/manifesto-of-belonging-en.pdf', u'Download the Manifesto as PDF'),
-    'de': ('/downloads/manifest-der-zugehoerigkeit-de.pdf', u'Manifest als PDF herunterladen'),
-    'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', u'Télécharger le Manifeste en PDF'),
-    'es': ('/downloads/manifiesto-de-la-pertenencia-es.pdf', u'Descargar el Manifiesto en PDF'),
-    'ka': ('/downloads/manifesto-of-belonging-ka.pdf', u'ჩამოტვირთეთ მანიფესტი PDF-ად'),
-    'zh': ('/downloads/manifesto-of-belonging-zh.pdf', u'下载《宣言》PDF'),
+    'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', u'Скачать Обращение в PDF'),
+    'en': ('/downloads/manifesto-of-belonging-en.pdf', u'Download the Address as PDF'),
+    'de': ('/downloads/manifest-der-zugehoerigkeit-de.pdf', u'Ansprache als PDF herunterladen'),
+    'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', u'Télécharger le message en PDF'),
+    'es': ('/downloads/manifiesto-de-la-pertenencia-es.pdf', u'Descargar el mensaje en PDF'),
+    'ka': ('/downloads/manifesto-of-belonging-ka.pdf', u'ჩამოტვირთეთ მიმართვა PDF-ად'),
+    'zh': ('/downloads/manifesto-of-belonging-zh.pdf', u'下载《致所有人》PDF'),
 }
 
 
@@ -396,10 +399,17 @@ def decl_title(lang):
     апостроф лежит там как `&#x27;`. Без разворота его снова экранировали при
     выводе, и по-французски на главной стояло «Declaration sur l&#x27;...» -
     прямо так, знаками. Заметно это только на языках с апострофом в названии.
+
+    Сначала смотрим в `_v2`, и только потом в боевое дерево. Боевое заморожено
+    и не пересобирается, поэтому переименование Декларации 2026-08-26 до него
+    не дошло бы никогда: слайдер черновика показывал бы старые названия на всех
+    девяти языках. В боевое дерево заглядываем только ради хинди - у него
+    страницы есть, а мастеров нет.
     """
     import glob
     import html
-    f = glob.glob(os.path.join(SITE, 'documents', lang, '%s01*.html' % lang))
+    f = (glob.glob(os.path.join(SITE, '_v2', 'documents', lang, '%s01*.html' % lang))
+         or glob.glob(os.path.join(SITE, 'documents', lang, '%s01*.html' % lang)))
     assert f, u'нет собранной страницы %s01 - слайдеру нечего показать' % lang
     s = io.open(f[0], encoding='utf-8').read()
     m = re.search(r'<h1[^>]*>(.*?)</h1>', s, re.S)

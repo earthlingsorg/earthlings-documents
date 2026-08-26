@@ -931,7 +931,7 @@
 
 Документы корпуса, к которым отсылает настоящий:
 
-- [Декларация о самоопределении](https://earth-lings.org/documents/ru/ru01-deklaraciya.html) - статьи 7, 8, 9, 10, 12 и 13
+- [Декларация Earthlings](https://earth-lings.org/documents/ru/ru01-deklaraciya.html) - статьи 7, 8, 9, 10, 12 и 13
 - [Правовое обоснование](https://earth-lings.org/documents/ru/ru04-pravovoe-obosnovanie.html)
 - [DAO Earthlings](https://earth-lings.org/documents/ru/ru07-dao.html)
 - [Цифровая платформа](https://earth-lings.org/documents/ru/ru12-cifrovaya-platforma.html)

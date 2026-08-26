@@ -35,7 +35,7 @@ Si algo no está claro o resulta inaceptable, escríbanos. Las propuestas de mod
 
 ## Quiénes somos
 
-Earthlings es un pueblo transnacional que se ha determinado a sí mismo y que existe de hecho sobre la base de la Declaración sobre la libre determinación. Nos unen valores comunes, y no un territorio o un origen.
+Earthlings es un pueblo transnacional que se ha determinado a sí mismo y que existe de hecho sobre la base de la Declaración Earthlings. Nos unen valores comunes, y no un territorio o un origen.
 
 El pueblo existe y se desarrolla con su infraestructura, su gobierno y su identidad con independencia de cómo lo califique con el tiempo el derecho internacional: no existe para nadie un órgano que reconozca pueblos. La discernibilidad jurídica - que se trate al pueblo como pueblo allí donde surge una cuestión concreta - se acumula con la práctica, el tiempo y el número de participantes. Cómo funciona esto y qué se dice en contra nuestra: [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), [Objeciones jurídicas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html).
 
@@ -58,7 +58,7 @@ Estos valores están encarnados en la arquitectura, y no solo declarados.
 ## Condiciones
 
 **Edad** - haber cumplido 18 años.
-**Firma** de la Declaración sobre la libre determinación.
+**Firma** de la Declaración Earthlings.
 **Verificación de identidad** mediante el sistema propio del pueblo.
 **Cuota única** - el equivalente a 79 USD. Quien no puede abonarla por sí mismo entra en una cola abierta, y su cuota la abona otra persona o la Tesorería; no se prevé exención de la cuota, que se abona íntegra en todo caso (Carta, artículo 12 bis).
 
@@ -319,7 +319,7 @@ Las controversias internas entre participantes se resuelven con los procedimient
 
 # SECCIÓN 14. Consentimiento
 
-El acto principal de consentimiento es la **firma de la Declaración sobre la libre determinación**: es con ella con la que se crea la pertenencia al pueblo y se aceptan las condiciones de este documento.
+El acto principal de consentimiento es la **firma de la Declaración Earthlings**: es con ella con la que se crea la pertenencia al pueblo y se aceptan las condiciones de este documento.
 
 Al firmar la Declaración y obtener el pasaporte, usted confirma que:
 

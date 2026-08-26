@@ -2,7 +2,7 @@
 
 **Reglas de funcionamiento de un pueblo descentralizado**
 
-El pueblo Earthlings, basándose en los principios y valores expuestos en la Declaración Earthlings sobre la libre determinación y aspirando a crear una comunidad verdaderamente descentralizada y justa, adopta la presente Carta como documento organizativo básico.
+El pueblo Earthlings, basándose en los principios y valores expuestos en la Declaración Earthlings y aspirando a crear una comunidad verdaderamente descentralizada y justa, adopta la presente Carta como documento organizativo básico.
 
 Rechazamos las estructuras jerárquicas tradicionales y construimos una gobernanza sin jerarquía. Las decisiones vinculantes las adopta únicamente la Asamblea DAO, es decir, los propios Earthlings, cada uno con su voto. Ningún órgano, ninguna estructura y ningún grupo tiene voto propio. Las facultades técnicas y de protección concretas previstas en la presente Carta se ejercen bajo un encargo de la Asamblea revocable de inmediato y no sustituyen a las decisiones en nombre del pueblo.
 
@@ -816,7 +816,7 @@ La presente Carta entra en vigor tras su publicación en el sitio del pueblo Ear
 
 **Jerarquía de los documentos del pueblo Earthlings:**
 
-1. **Declaración Earthlings sobre la libre determinación**: documento constitutivo, con fuerza superior. Una disposición de cualquier otro documento contraria a la Declaración carece de eficacia desde su adopción y no es aplicable
+1. **Declaración Earthlings**: documento constitutivo, con fuerza superior. Una disposición de cualquier otro documento contraria a la Declaración carece de eficacia desde su adopción y no es aplicable
 2. **La presente Carta**: documento organizativo básico
 3. **Documentos derivados**: en caso de discrepancia entre la Carta y un documento derivado se aplica la Carta
 

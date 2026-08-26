@@ -2,7 +2,7 @@
 
 **Die Regeln für das Wirken eines dezentralen Volkes**
 
-Das Volk der Earthlings nimmt, gestützt auf die Grundsätze und Werte, die in der Erklärung der Earthlings über die Selbstbestimmung dargelegt sind, und in dem Streben, eine wahrhaft dezentrale und gerechte Gemeinschaft zu schaffen, diese Charta als sein organisatorisches Grunddokument an.
+Das Volk der Earthlings nimmt, gestützt auf die Grundsätze und Werte, die in der Erklärung der Earthlings dargelegt sind, und in dem Streben, eine wahrhaft dezentrale und gerechte Gemeinschaft zu schaffen, diese Charta als sein organisatorisches Grunddokument an.
 
 Wir weisen die überkommenen hierarchischen Strukturen zurück und bauen eine Verwaltung ohne Hierarchie. Bindende Beschlüsse fasst allein die DAO-Vollversammlung - das heißt die Earthlings selbst, jeder mit seiner Stimme. Kein Organ, keine Struktur und keine Gruppe hat eine eigene Stimme. Einzelne technische und schützende Befugnisse, die diese Charta vorsieht, werden unter einem sofort widerruflichen Auftrag der Vollversammlung ausgeübt und ersetzen keine Beschlüsse im Namen des Volkes.
 
@@ -816,7 +816,7 @@ Diese Charta tritt nach ihrer Veröffentlichung auf der Website des Volkes der E
 
 **Die Rangfolge der Dokumente des Volkes der Earthlings:**
 
-1. **Die Erklärung der Earthlings über die Selbstbestimmung** - das konstituierende Dokument mit dem höchsten Rang. Eine Bestimmung jedes anderen Dokuments, die der Erklärung widerspricht, hat von der Annahme an keine Wirkung und ist nicht anzuwenden
+1. **Die Erklärung der Earthlings** - das konstituierende Dokument mit dem höchsten Rang. Eine Bestimmung jedes anderen Dokuments, die der Erklärung widerspricht, hat von der Annahme an keine Wirkung und ist nicht anzuwenden
 2. **Diese Charta** - das organisatorische Grunddokument
 3. **Abgeleitete Dokumente** - bei einer Abweichung zwischen der Charta und einem abgeleiteten Dokument gilt die Charta
 

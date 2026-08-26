@@ -931,7 +931,7 @@ Das ist eine Lehrmeinung und keine Norm. Wir führen sie an, weil der in ihr bes
 
 Dokumente des Korpus, auf die dieses Dokument verweist:
 
-- [Erklärung über die Selbstbestimmung](https://earth-lings.org/documents/de/de01-erklaerung.html) - Artikel 7, 8, 9, 10, 12 und 13
+- [Erklärung der Earthlings](https://earth-lings.org/documents/de/de01-erklaerung.html) - Artikel 7, 8, 9, 10, 12 und 13
 - [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html)
 - [Die DAO der Earthlings](https://earth-lings.org/documents/de/de07-dao.html)
 - [Die Digitale Plattform](https://earth-lings.org/documents/de/de12-digitale-plattform.html)

@@ -35,7 +35,7 @@ Si quelque chose est obscur ou inacceptable, écrivez-nous. Les propositions de 
 
 ## Qui nous sommes
 
-Les Earthlings sont un peuple transnational qui s'est déterminé lui-même et qui existe en fait sur le fondement de la Déclaration sur l'autodétermination. Ce qui nous réunit, ce sont des valeurs communes, non un territoire ou une origine.
+Les Earthlings sont un peuple transnational qui s'est déterminé lui-même et qui existe en fait sur le fondement de la Déclaration des Earthlings. Ce qui nous réunit, ce sont des valeurs communes, non un territoire ou une origine.
 
 Le peuple existe et se développe avec son infrastructure, sa gouvernance et son identité, indépendamment de la manière dont le droit international le qualifiera avec le temps: il n'existe pour personne d'organe qui reconnaisse les peuples. La discernabilité juridique - le fait d'être traité comme un peuple là où naît une question concrète - s'accumule par la pratique, le temps et le nombre de participants. Comment cela est agencé et ce que l'on dit contre nous: [Base juridique](https://earth-lings.org/documents/fr/fr04-base-juridique.html), [Objections et réponses](https://earth-lings.org/documents/fr/fr26-objections-et-reponses.html).
 
@@ -58,7 +58,7 @@ Ces valeurs sont incarnées dans l'architecture, elles ne sont pas seulement én
 ## Les conditions
 
 **Âge** - avoir atteint l'âge de 18 ans.
-**Signature** de la Déclaration sur l'autodétermination.
+**Signature** de la Déclaration des Earthlings.
 **Vérification d'identité** par le système propre au peuple.
 **Cotisation unique** - l'équivalent de 79 USD. Celui qui ne peut pas la verser lui-même entre dans une file d'attente ouverte, et la cotisation est versée pour lui par une autre personne ou par la Trésorerie; aucune exonération n'est prévue, la cotisation est en tout état de cause versée intégralement (Charte, article 12 bis).
 
@@ -319,7 +319,7 @@ Les différends internes entre participants se règlent selon les procédures de
 
 # SECTION 14. Le consentement
 
-L'acte principal de consentement est la **signature de la Déclaration sur l'autodétermination**: c'est par elle que naît l'appartenance au peuple et que sont acceptées les conditions du présent document.
+L'acte principal de consentement est la **signature de la Déclaration des Earthlings**: c'est par elle que naît l'appartenance au peuple et que sont acceptées les conditions du présent document.
 
 En signant la Déclaration et en recevant le passeport, vous confirmez que:
 

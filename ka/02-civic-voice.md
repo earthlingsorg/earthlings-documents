@@ -931,7 +931,7 @@ I ნაწილიდან გამომდინარეობს მა�
 
 კორპუსის დოკუმენტები, რომლებზეც წინამდებარე მიუთითებს:
 
-- [დეკლარაცია თვითგამორკვევის შესახებ](https://earth-lings.org/documents/ka/ka01-declaration.html) - მუხლები 7, 8, 9, 10, 12 და 13
+- [Earthlings-ის დეკლარაცია](https://earth-lings.org/documents/ka/ka01-declaration.html) - მუხლები 7, 8, 9, 10, 12 და 13
 - [სამართლებრივი საფუძველი](https://earth-lings.org/documents/ka/ka04-legal-basis.html)
 - [Earthlings-ის DAO](https://earth-lings.org/documents/ka/ka07-dao.html)
 - [ციფრული პლატფორმა](https://earth-lings.org/documents/ka/ka12-digital-platform.html)

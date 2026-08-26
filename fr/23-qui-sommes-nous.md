@@ -6,7 +6,7 @@
 
 Les Earthlings sont la réalisation opérationnelle et effective d'un peuple non territorial volontairement auto-organisé, fondée sur le principe de l'autodétermination.
 
-Les documents constitutifs du projet décrivent ce modèle comme l'architecture d'une société où le pouvoir ne s'accumule en aucun point. Les Earthlings réunissent des personnes de différents pays autour de la Déclaration sur l'autodétermination - noyau constitutif intangible qu'aucune majorité ne peut récrire - et d'une infrastructure numérique assurant une participation vérifiée selon le principe « une personne - une voix » à l'échelle planétaire.
+Les documents constitutifs du projet décrivent ce modèle comme l'architecture d'une société où le pouvoir ne s'accumule en aucun point. Les Earthlings réunissent des personnes de différents pays autour de la Déclaration des Earthlings - noyau constitutif intangible qu'aucune majorité ne peut récrire - et d'une infrastructure numérique assurant une participation vérifiée selon le principe « une personne - une voix » à l'échelle planétaire.
 
 L'architecture des Earthlings est conçue comme un système institutionnel d'un seul tenant, et non assemblée à partir de composants tout faits. Pour ses relations avec le système juridique existant, le peuple agit par l'intermédiaire de représentants habilités et recourt à des structures enregistrées et à d'autres instruments de droit: des interfaces extérieures interchangeables. Le peuple lui-même se gouverne par sa propre infrastructure DAO.
 

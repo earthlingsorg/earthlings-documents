@@ -74,7 +74,7 @@ Las propuestas a ellos se aceptan y se publican con respuesta igual que a todos 
 
 ### Qué no forma parte del corpus
 
-El Manifiesto de la pertenencia, situado en la página principal, no forma parte del corpus. No se aceptan propuestas a él y no se somete a votación.
+El mensaje a todos, situado en la página principal, no forma parte del corpus. No se aceptan propuestas a él y no se somete a votación.
 
 La razón no es que sea más importante o más intocable que lo demás. Al contrario: no establece nada. No crea ni derechos ni obligaciones, de él no se sigue nada, y el pueblo no lo adopta. Es una llamada a las personas de parte de quienes empezaron todo esto, y la firman sus autores, no el pueblo. Votar sobre una llamada es tan extraño como votar sobre la carta de otro.
 

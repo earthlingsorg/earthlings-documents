@@ -1,4 +1,4 @@
-# The Earthlings Declaration of Self-Determination
+# The Earthlings Declaration
 
 ## Status of This Edition
 

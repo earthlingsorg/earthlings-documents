@@ -931,7 +931,7 @@ This is a doctrinal source, not a norm. We cite it because the mechanism describ
 
 Documents of the corpus to which this one refers:
 
-- [The Declaration of Self-Determination](https://earth-lings.org/documents/en/en01-declaration.html) - Articles 7, 8, 9, 10, 12 and 13
+- [The Earthlings Declaration](https://earth-lings.org/documents/en/en01-declaration.html) - Articles 7, 8, 9, 10, 12 and 13
 - [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html)
 - [The Earthlings DAO](https://earth-lings.org/documents/en/en07-dao.html)
 - [Digital Platform](https://earth-lings.org/documents/en/en12-digital-platform.html)
