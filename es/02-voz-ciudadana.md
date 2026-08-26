@@ -94,9 +94,9 @@ Con decenas de millones: la posición contada de las personas verificadas del pl
 
 ### Qué puede no salir
 
-Muchas cosas. La sección 19 enumera nueve maneras, y la principal de ellas es la baja participación: una medición en la que respondió el tres por ciento es **peor que la ausencia de medición**, porque socava lo ya acumulado. Por eso el principal indicador vital es la participación y no el número de participantes, y se publica siempre.
+Muchas cosas. La sección 20 enumera nueve maneras, y la principal de ellas es la baja participación: una medición en la que respondió el tres por ciento es **peor que la ausencia de medición**, porque socava lo ya acumulado. Por eso el principal indicador vital es la participación y no el número de participantes, y se publica siempre.
 
-La sección 20 dice qué de lo descrito ya está construido y qué no. Mediciones de fondo no se ha hecho todavía ninguna.
+La sección 21 dice qué de lo descrito ya está construido y qué no. Mediciones de fondo no se ha hecho todavía ninguna.
 
 ### Y adónde ir después
 
@@ -748,7 +748,7 @@ Puede parecer que sin facultades no se puede influir. Es falso, y lo desmiente l
 
 # Parte IX. Qué puede salir mal
 
-## 20. Nueve maneras de arruinar esto
+## 20. Nueve maneras en que esto no llega a ser
 
 La sección no está para equilibrar. Cada uno de los desenlaces enumerados es posible, algunos son más probables que los buenos, y de cada uno se dice qué hacemos y qué no garantizamos.
 

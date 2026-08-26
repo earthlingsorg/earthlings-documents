@@ -94,9 +94,9 @@ Bei Dutzenden von Millionen - die ausgezählte Position geprüfter Menschen des 
 
 ### Was misslingen kann
 
-Vieles. Abschnitt 19 zählt neun Arten auf, und die wichtigste davon ist eine niedrige Beteiligung: Eine Messung, bei der drei Prozent geantwortet haben, ist **schlechter als gar keine Messung**, weil sie das bereits Angesammelte untergräbt. Deshalb ist als wichtigste Lebenskennzahl der Anteil der Antwortenden genannt und nicht die Größe des Volkes, und veröffentlicht wird er immer.
+Vieles. Abschnitt 20 zählt neun Arten auf, und die wichtigste davon ist eine niedrige Beteiligung: Eine Messung, bei der drei Prozent geantwortet haben, ist **schlechter als gar keine Messung**, weil sie das bereits Angesammelte untergräbt. Deshalb ist als wichtigste Lebenskennzahl der Anteil der Antwortenden genannt und nicht die Größe des Volkes, und veröffentlicht wird er immer.
 
-Abschnitt 20 sagt, was von dem Beschriebenen schon gebaut ist und was nicht. Inhaltliche Messungen hat es bisher keine einzige gegeben.
+Abschnitt 21 sagt, was von dem Beschriebenen schon gebaut ist und was nicht. Inhaltliche Messungen hat es bisher keine einzige gegeben.
 
 ### Und wohin es weitergeht
 
@@ -748,7 +748,7 @@ Es mag scheinen, dass man ohne Befugnisse nichts bewirken kann. Das ist falsch u
 
 # Teil IX. Was schiefgehen kann
 
-## 20. Neun Arten, das zugrunde zu richten
+## 20. Neun Arten, auf die das nicht zustande kommt
 
 Der Abschnitt steht nicht des Gleichgewichts wegen hier. Jeder der aufgezählten Ausgänge ist möglich, einige sind wahrscheinlicher als die guten, und zu jedem ist gesagt, was wir tun und was wir nicht gewährleisten.
 

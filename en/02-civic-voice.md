@@ -94,9 +94,9 @@ At tens of millions - a counted position of the confirmed people of the planet o
 
 ### What may fail
 
-Much. Section 19 lists nine ways, and the chief of them is low turnout: a measurement in which three per cent answered is **worse than no measurement at all**, because it undermines what has already been accumulated. That is why the chief vital indicator is named as the share of those who answer, and not the size of the people, and it is published always.
+Much. Section 20 lists nine ways, and the chief of them is low turnout: a measurement in which three per cent answered is **worse than no measurement at all**, because it undermines what has already been accumulated. That is why the chief vital indicator is named as the share of those who answer, and not the size of the people, and it is published always.
 
-Section 20 states what of what is described has already been built and what has not. Not one substantive measurement has been conducted so far.
+Section 21 states what of what is described has already been built and what has not. Not one substantive measurement has been conducted so far.
 
 ### And where to go next
 
@@ -748,7 +748,7 @@ It may seem that without powers one cannot have influence. That is untrue, and p
 
 # Part IX. What may go wrong
 
-## 20. Nine ways to ruin this
+## 20. Nine ways in which this does not come about
 
 The section is not there for balance. Every one of the outcomes listed is possible, some are likelier than the good ones, and for each it is stated what we do and what we do not guarantee.
 

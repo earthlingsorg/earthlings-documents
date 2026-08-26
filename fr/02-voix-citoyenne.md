@@ -94,9 +94,9 @@ Aujourd'hui: un « je suis une personne vivante, je suis unique, et n'importe qu
 
 ### Ce qui peut échouer
 
-Beaucoup de choses. La section 19 en énumère neuf, et la principale est la faible participation: une mesure où trois pour cent ont répondu est **pire que l'absence de mesure**, parce qu'elle sape ce qui est déjà acquis. C'est pourquoi le principal indicateur vital retenu est le taux de participation, et non l'effectif du peuple, et il est toujours publié.
+Beaucoup de choses. La section 20 en énumère neuf, et la principale est la faible participation: une mesure où trois pour cent ont répondu est **pire que l'absence de mesure**, parce qu'elle sape ce qui est déjà acquis. C'est pourquoi le principal indicateur vital retenu est le taux de participation, et non l'effectif du peuple, et il est toujours publié.
 
-La section 20 dit ce qui, parmi ce qui est décrit, est déjà construit et ce qui ne l'est pas. Aucune mesure de fond n'a été effectuée à ce jour.
+La section 21 dit ce qui, parmi ce qui est décrit, est déjà construit et ce qui ne l'est pas. Aucune mesure de fond n'a été effectuée à ce jour.
 
 ### Et où aller ensuite
 
@@ -748,7 +748,7 @@ Il peut sembler que, sans pouvoirs, on ne puisse pas influer. C'est faux, et la 
 
 # Partie IX. Ce qui peut mal tourner
 
-## 20. Neuf manières de ruiner tout cela
+## 20. Neuf manières dont cela n'aboutit pas
 
 Cette section n'est pas là pour faire contrepoids. Chacune des issues énumérées est possible, certaines sont plus probables que les bonnes, et pour chacune il est dit ce que nous faisons et ce que nous ne garantissons pas.
 
