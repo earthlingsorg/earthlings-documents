@@ -180,7 +180,8 @@ LEGAL_LEAD_DOC = '30'
 SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
         'de': u'Das Earthlings-Team', 'fr': u"L'équipe Earthlings",
         'es': u'El equipo Earthlings', 'ka': u'Earthlings-ის გუნდი',
-        'zh': u'Earthlings 团队', 'ar': u'فريق Earthlings'}
+        'zh': u'Earthlings 团队', 'ar': u'فريق Earthlings',
+        'hi': u'Earthlings टीम'}
 
 # Файлы лежат в _v2/downloads/ - своей копией, а не ссылкой на боевое дерево:
 # после подмены корня боевого каталога рядом не будет, и ссылка провалилась бы
