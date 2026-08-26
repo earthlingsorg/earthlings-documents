@@ -1,7 +1,14 @@
-"""Собирает PDF Манифеста принадлежности из живой страницы mainpage/ru/index.html.
+"""Собирает PDF Обращения из страницы черновика _v2/<язык>/manifest.html.
 
-Источник один - тот же файл, который отдаётся на earth-lings.org/ru/. Ничего
-не дублируется вручную: правится страница, перезапускается скрипт.
+Источник один - тот же файл, который встанет на earth-lings.org/<язык>/manifest.html
+после подмены корня. Ничего не дублируется вручную: правится мастер Обращения,
+перезапускается build_home_v2.py, перезапускается этот скрипт.
+
+Раньше источником была боевая главная mainpage/<язык>/index.html, а выходом -
+боевое downloads/. Обе стороны теперь под замком: боевое дерево не правится и
+не пересобирается, а его страницы застыли на 16 августа, до переименования
+Манифеста в Обращение. Собранный оттуда PDF назывался бы Манифестом при уже
+переименованном тексте - и это не было бы видно, пока файл не откроют.
 
 Последняя строка «Мы выбираем друг друга» рисуется кнопкой с рамкой, и вся её
 площадь - кликабельная ссылка на учредительный период. Адрес абсолютный:
@@ -14,7 +21,7 @@ PDF пересылают, и открыт он будет вне сайта.
 пишет в репозиторий сайта.
 
 Запуск:  python _tools/build_manifesto_pdf.py [ru|en|de|fr|es|ka|zh]
-Выход:   <репозиторий сайта>/downloads/<имя из BY_LANG>
+Выход:   <репозиторий сайта>/_v2/downloads/<имя из BY_LANG>
 
 Из внешнего нужен только reportlab (`pip install reportlab`). Шрифт лежит в
 _tools/fonts/ и версионируется вместе со скриптом, поэтому сборка одинакова на
@@ -53,64 +60,89 @@ if hasattr(sys.stdout, "reconfigure"):
 # заводить вторую настройку на то же самое.
 ROOT = Path(os.environ.get("EARTHLINGS_SITE")
             or Path(__file__).resolve().parent.parent.parent / "earth-lings-site")
-assert (ROOT / "mainpage").is_dir(), (
+assert (ROOT / "_v2").is_dir(), (
     f"не найден репозиторий сайта: {ROOT}\n"
     "Ожидается earth-lings-site рядом с этим репозиторием. Если он лежит в "
     "другом месте - EARTHLINGS_SITE=/путь/к/earth-lings-site")
 
 # Язык - аргумент, а не константа. Разбор страницы обобщённый: он ищет
-# class="sign" и class="onward", а не русские слова, - поэтому для нового языка
-# нужны только имя файла и адрес кнопки.
+# class="lead col" и class="sign", а не русские слова, - поэтому для нового
+# языка нужны только имя файла и адрес кнопки.
+#
+# Значение --theme из позиционных выкусывается отдельно: оно тоже без дефиса,
+# и `build_manifesto_pdf.py en --theme v2` собрал бы язык "v2" - вернее, упал
+# бы на BY_LANG, но по невнятной причине.
+_pos = sys.argv[1:]
+if "--theme" in _pos:
+    _i = _pos.index("--theme")
+    _pos = _pos[:_i] + _pos[_i + 2:]
 LANG = "ru"
-for _a in sys.argv[1:]:
+for _a in _pos:
     if not _a.startswith("-"):
         LANG = _a
 
+# Тема принимается только ради явности: сборщики страниц берут --theme, и
+# человек по привычке допишет его сюда. Значение одно. Боевую тему скрипт не
+# собирает не из осторожности, а потому, что собрать её нечем: боевые страницы
+# заморожены до переименования, и PDF вышел бы с прежним названием.
+if "--theme" in sys.argv:
+    _t = sys.argv[sys.argv.index("--theme") + 1:sys.argv.index("--theme") + 2]
+    assert _t == ["v2"], (
+        "тема только v2. Боевое дерево заморожено: править и пересобирать его "
+        "нельзя, а его главные застыли на 16 августа, до переименования "
+        "Манифеста в Обращение.")
+
 # Имя файла и адрес учредительного периода на каждом языке свои. Языка нет в
 # таблице - сборка останавливается, а не кладёт английский текст в русский файл.
+#
+# Имена сменились 2026-08-26 вслед за переименованием Манифеста принадлежности
+# в Обращение. Прежние manifest-*/manifesto-of-belonging-* никуда не рассылались,
+# поэтому ломать было нечего; на боевом дереве они остаются как были, там своя
+# копия и свой замок.
+#
+# Тема PDF (метаданные) больше не задаётся здесь: она берётся из заголовка H1
+# разобранной страницы. Семь строк на семи языках, повторяющих название
+# документа, - это семь мест, где переименование можно забыть.
 BY_LANG = {
-    "ru": ("manifest-prinadlezhnosti-ru.pdf",
-           "/documents/ru/ru20-uchreditelnyj-period.html",
-           "Манифест народа Earthlings"),
-    "en": ("manifesto-of-belonging-en.pdf",
-           "/documents/en/en20-the-founding-period.html",
-           "The manifesto of the Earthlings people"),
+    "ru": ("obrashchenie-ru.pdf",
+           "/documents/ru/ru20-uchreditelnyj-period.html"),
+    "en": ("an-address-to-everyone-en.pdf",
+           "/documents/en/en20-the-founding-period.html"),
     # Умляуты в имени файла не ставим: ссылку на PDF пересылают почтой и в
     # мессенджерах, а там имя с ö ломается. Транслитерация почтовая - oe.
-    "de": ("manifest-der-zugehoerigkeit-de.pdf",
-           "/documents/de/de20-gruendungsphase.html",
-           "Das Manifest des Volkes der Earthlings"),
+    "de": ("eine-ansprache-an-alle-de.pdf",
+           "/documents/de/de20-gruendungsphase.html"),
     # Диакритику в имя файла не ставим по той же причине, что и умляуты:
     # ссылку пересылают почтой и в мессенджерах, где é ломает адрес.
-    "fr": ("manifeste-d-appartenance-fr.pdf",
-           "/documents/fr/fr20-periode-constituante.html",
-           "Le manifeste du peuple des Earthlings"),
+    "fr": ("un-message-a-tous-fr.pdf",
+           "/documents/fr/fr20-periode-constituante.html"),
     # Диакритика в имя файла не идёт по той же причине: ó ломает адрес
     # при пересылке почтой и в мессенджерах.
-    "es": ("manifiesto-de-la-pertenencia-es.pdf",
-           "/documents/es/es20-periodo-constituyente.html",
-           "El manifiesto del pueblo Earthlings"),
+    "es": ("un-mensaje-a-todos-es.pdf",
+           "/documents/es/es20-periodo-constituyente.html"),
     # Мхедрули в имени файла не ставим по той же причине, что умляуты и
     # диакритику: адрес пересылают почтой и в мессенджерах, а грузинская буква
     # превращается там в %E1%83%A5 и ссылка перестаёт читаться. Имя файла -
     # английское, как и слаг документа.
-    "ka": ("manifesto-of-belonging-ka.pdf",
-           "/documents/ka/ka20-the-founding-period.html",
-           "Earthlings-ის ხალხის მანიფესტი"),
+    "ka": ("an-address-to-everyone-ka.pdf",
+           "/documents/ka/ka20-the-founding-period.html"),
     # Иероглифы в имени файла не ставим по той же причине, что мхедрули и
     # умляуты: адрес пересылают почтой и в мессенджерах, где каждый знак
     # превращается в три процентных группы и ссылка перестаёт читаться.
-    "zh": ("manifesto-of-belonging-zh.pdf",
-           "/documents/zh/zh20-the-founding-period.html",
-           "Earthlings 人民的宣言"),
+    "zh": ("an-address-to-everyone-zh.pdf",
+           "/documents/zh/zh20-the-founding-period.html"),
 }
 assert LANG in BY_LANG, (
-    'нет настроек для языка "%s": задайте имя файла, адрес кнопки и subject '
-    'в BY_LANG. Языки: %s' % (LANG, ", ".join(sorted(BY_LANG))))
-_name, _cta_path, SUBJECT = BY_LANG[LANG]
+    'нет настроек для языка "%s": задайте имя файла и адрес кнопки в BY_LANG. '
+    'Языки: %s' % (LANG, ", ".join(sorted(BY_LANG))))
+_name, _cta_path = BY_LANG[LANG]
 
-SRC = ROOT / "mainpage" / LANG / "index.html"
-OUT = ROOT / "downloads" / _name
+SRC = ROOT / "_v2" / LANG / "manifest.html"
+OUT = ROOT / "_v2" / "downloads" / _name
+# Пишем только внутрь _v2. Проверка стоит здесь, а не в голове: сорваться сюда
+# может только опечатка в двух строках выше, и восьмая проверка preflight_all
+# поймала бы её уже после записи в боевое дерево.
+assert (ROOT / "_v2") in OUT.parents, "выход обязан лежать внутри _v2: %s" % OUT
 
 SITE = "https://earth-lings.org"
 CTA_URL = SITE + _cta_path
@@ -289,25 +321,33 @@ def parse_source():
 
     lead = raw.split('<section class="lead col">')
     assert len(lead) == 2, "не найдена секция с текстом"
-    blocks = re.findall(r'<p([^>]*)>(.*?)</p>', lead[1], re.S)
+    # Режем по концу секции, а не читаем до конца файла. За </section> лежат
+    # подпись, ссылка на скачивание и подвал; ссылка на скачивание внутри
+    # самого PDF - бессмыслица («Скачать Обращение в PDF» на его же странице),
+    # а на боевой главной она туда и попадала, пока её не выключили по классу.
+    sec = lead[1].split("</section>")[0]
+    blocks = re.findall(r'<p([^>]*)>(.*?)</p>', sec, re.S)
     assert blocks, "не найдены абзацы"
 
-    body, sign, cta = [], None, None
-    for attrs, inner in blocks:
-        if 'class="sign"' in attrs:
-            sign = strip_tags(inner)
-        elif 'class="onward"' in attrs:
-            cta = strip_tags(inner)
-        elif 'class="get-pdf"' in attrs:
-            # Ссылка на скачивание принадлежит странице, а не тексту. Внутри
-            # самого PDF строка «Скачать манифест в PDF» - бессмыслица, а
-            # попадала она туда с тех пор, как блок появился на странице.
-            continue
-        else:
-            body.append(to_rl(inner))
-
+    # Подпись живёт вне секции - забирается отдельно, а не перебором абзацев.
+    sign = re.search(r'<p class="sign">(.*?)</p>', raw, re.S)
     assert sign, "не найдена подпись"
-    assert cta, "не найдена надпись кнопки"
+    sign = strip_tags(sign.group(1))
+
+    # Надпись кнопки - последний абзац секции, и он обязан быть целиком
+    # полужирным. На боевой главной он был размечен class="onward" и нёс
+    # ссылку; в черновике это обычный абзац мастера - **Мы выбираем друг
+    # друга.** - и отличить его можно только так. Проверка не косметическая:
+    # без неё призыв молча уехал бы в текст, а кнопка получила бы случайную
+    # фразу. Инвариант держится на всех девяти языках.
+    _cta_attrs, _cta_inner = blocks[-1]
+    _cta_inner = _cta_inner.strip()
+    assert _cta_inner.startswith("<strong>") and _cta_inner.endswith("</strong>"), (
+        "последний абзац Обращения не выделен целиком - надпись кнопки взять "
+        "неоткуда: %r" % strip_tags(_cta_inner)[:60])
+    cta = strip_tags(_cta_inner)
+
+    body = [to_rl(inner) for _attrs, inner in blocks[:-1]]
     assert len(body) > 10, f"абзацев всего {len(body)} - похоже, разбор сломался"
     return title, body, sign, cta
 
@@ -424,7 +464,7 @@ def build():
         str(OUT), pagesize=A4,
         leftMargin=2.6 * cm, rightMargin=2.6 * cm,
         topMargin=2.2 * cm, bottomMargin=2.0 * cm,
-        title=title, author=sign, subject=SUBJECT,
+        title=title, author=sign, subject="%s - Earthlings" % title,
         creator="earth-lings.org", lang=LANG,
     )
 

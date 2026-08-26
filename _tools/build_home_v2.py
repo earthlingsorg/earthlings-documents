@@ -192,16 +192,18 @@ SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
 # добавлен. Арабского PDF не существует: сборка Обращения на арабском
 # заблокирована движком, это отдельный открытый вопрос. Хинди ждёт перевода.
 #
-# Имена файлов оставлены прежними при переименовании 2026-08-26: адрес и
-# название документа совпадать не обязаны, а разосланные ссылки ломать нельзя.
+# Имена файлов сменились 2026-08-26 вслед за переименованием: прежние
+# manifest-*/manifesto-of-belonging-* никуда не рассылались, ломать было
+# нечего. Задаются они в BY_LANG сборщика PDF; здесь копия, и расхождение
+# ловится проверкой ниже - файла с таким именем просто не окажется.
 PDF = {
-    'ru': ('/downloads/manifest-prinadlezhnosti-ru.pdf', u'Скачать Обращение в PDF'),
-    'en': ('/downloads/manifesto-of-belonging-en.pdf', u'Download the Address as PDF'),
-    'de': ('/downloads/manifest-der-zugehoerigkeit-de.pdf', u'Ansprache als PDF herunterladen'),
-    'fr': ('/downloads/manifeste-d-appartenance-fr.pdf', u'Télécharger le message en PDF'),
-    'es': ('/downloads/manifiesto-de-la-pertenencia-es.pdf', u'Descargar el mensaje en PDF'),
-    'ka': ('/downloads/manifesto-of-belonging-ka.pdf', u'ჩამოტვირთეთ მიმართვა PDF-ად'),
-    'zh': ('/downloads/manifesto-of-belonging-zh.pdf', u'下载《致所有人》PDF'),
+    'ru': ('/downloads/obrashchenie-ru.pdf', u'Скачать Обращение в PDF'),
+    'en': ('/downloads/an-address-to-everyone-en.pdf', u'Download the Address as PDF'),
+    'de': ('/downloads/eine-ansprache-an-alle-de.pdf', u'Ansprache als PDF herunterladen'),
+    'fr': ('/downloads/un-message-a-tous-fr.pdf', u'Télécharger le message en PDF'),
+    'es': ('/downloads/un-mensaje-a-todos-es.pdf', u'Descargar el mensaje en PDF'),
+    'ka': ('/downloads/an-address-to-everyone-ka.pdf', u'ჩამოტვირთეთ მიმართვა PDF-ად'),
+    'zh': ('/downloads/an-address-to-everyone-zh.pdf', u'下载《致所有人》PDF'),
 }
 
 
@@ -1158,8 +1160,12 @@ def build_manifest(lang):
     o.append('<p class="sign">%s</p>' % C.esc(SIGN[lang]))
     if lang in PDF:
         href, label = PDF[lang]
-        assert os.path.isfile(os.path.join(SITE, href.lstrip('/'))), (
-            u'нет файла %s - ссылка на PDF была бы битой' % href)
+        # Проверяем в _v2, а не в боевом дереве. Раньше сверялось с боевым
+        # downloads/, и проверка проходила по чужому файлу: копии совпадали.
+        # После переименования это означало бы зелёную сборку со ссылкой на
+        # файл, которого в черновике нет, - и 404 на всех языках после подмены.
+        assert os.path.isfile(os.path.join(OUT, href.lstrip('/'))), (
+            u'нет файла _v2%s - ссылка на PDF была бы битой' % href)
         o.append('<p><a class="pdf-link" href="%s">%s</a></p>'
                  % (href, C.esc(label)))
     o.append('</div></main>')
