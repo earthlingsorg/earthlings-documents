@@ -14,9 +14,9 @@ The [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html) an
 
 **Why has international law, possessing developed doctrines on the existence of collective subjects, scarcely taken up the question of their voluntary emergence?**
 
-This is not a defence of the project. It is an attempt to name a gap precisely. The intention is easy to test: remove the word "Earthlings" from the text and not one thesis loses its force. Earthlings appears here only as an instance of a process for which no general theory yet exists.
+This is not a defence of the project. It is an attempt to name a gap precisely. The question is put as a general one, and Earthlings appears here only as an instance of a process for which no general theory yet exists.
 
-All the theses are deliberately cautious. Not one asserts that the law is out of date or was mistaken. Each asserts something more modest and more exact: the law has been faced with a question which, until now, could hardly ever be posed in a way that admits of an answer.
+Not one thesis asserts that the law is out of date or was mistaken. Each asserts something more modest and more exact: the law has been faced with a question which, until now, could hardly ever be posed in a way that admits of an answer.
 
 Where this document diverges from the Earthlings Declaration, the Declaration applies.
 
@@ -30,7 +30,7 @@ International law knows how to establish that a collective subject exists, and k
 
 **Existence is described. Becoming is not.**
 
-It is precisely this area - the voluntary constitution of collective subjecthood - that any contemporary case, once it is taken seriously, finds unoccupied. What follows are seven theses on why this area has remained empty and what filling it would mean.
+It is precisely this area - the voluntary constitution of collective subjecthood - that any contemporary case, once it is taken seriously, finds unoccupied.
 
 > **An illustration from the practice of recent years.** In November 2023 Australia and Tuvalu signed the Falepili Union Treaty, in force since August 2024: its Article 2 records the parties' recognition that the statehood and sovereignty of Tuvalu will continue notwithstanding the effects of sea-level rise. The Pacific Islands Forum and the Alliance of Small Island States adopted declarations on the continuity of statehood; in 2025 the UN International Law Commission approved the final report of the Study Group on sea-level rise, noting broad support among states for the continuity of statehood and the preservation of international legal personality, and pointing out that the Montevideo criteria do not resolve the question of continuity.
 >
@@ -40,19 +40,29 @@ It is precisely this area - the voluntary constitution of collective subjecthood
 
 ---
 
-## An important qualification: what this gap does not mean
+## The case that showed what exactly was missing
 
-### A gap is neither a prohibition nor a verdict
+**The question of the voluntary constitution of a non-territorial people has already been put to international law - and put directly.**
+
+In July 2000, at the Fifth World Romani Congress in Prague, the International Romani Union adopted a Declaration of Nation proclaiming the Roma a non-territorial nation; the document was transmitted to the UN Secretary-General. The claim concerned not statehood but representation - the possibility of having a voice of one's own in international institutions. In twenty-five years nothing has been recognized.
+
+The reasons are set out in an analytical paper by the European Roma Rights Centre - an organization that wished the claim well. Two are named: the absence of geographical contiguity and the absence of organization at the level of a state, that is, the impossibility of establishing who belongs to the community and who speaks in its name.
+
+**The second reason belongs not to law but to provability.** Membership in a dispersed population of millions could not be established in principle - not through any fault of those making the claim, but because the means for it did not exist. The claim was made, but there was nothing to produce in support of it: no confirmed membership, no recordable practice of self-government, no record that could not be rewritten.
+
+Hence the precise formulation of the question, which replaces a cruder one. What is new is **not the question but the possibility of answering it**. The question was put before; for the first time there are means by which what is claimed can be confirmed or refuted - and not merely claimed.
+
+The two cases set out above outline the unoccupied area from two sides. Tuvalu shows that the law is able to separate status from territory when the need for it arises. The Roma show that when the same question was put for an emerging subject, the matter stopped not at the norm but at the impossibility of proving anything. What follows are seven theses on why this area has remained empty and what filling it would mean.
+
+---
+
+## An important qualification: what this gap does not mean
 
 A gap in doctrine does not make the emergence of a people unlawful: the lawfulness of an act rests not on the existence of a special theory but on a norm in force - freedom of association, already binding on states today.
 
-The unoccupied area lies not where the question "are people entitled to associate" is decided - that is closed - but where the law has not yet described how a voluntary association matures into recognized collective subjecthood.
+The absence of a worked-out theory has never meant unlawfulness: otherwise the first instance of any legal form would be outside the law, and the continental shelf, claimed in 1945 despite the complete silence of the norms, would have been a wrong rather than a future norm. For private persons exercising a recognized freedom, the principle "what is not prohibited is permitted" applies.
 
-The absence of a worked-out theory has never meant unlawfulness: otherwise the first instance of any legal form would be outside the law, and the continental shelf, claimed in 1945 despite the complete silence of the norms, would have been a wrong rather than a future norm. For private persons exercising a recognized freedom, the principle "what is not prohibited is permitted" applies: the silence of the law about a form of association is permissive silence, not a void underfoot.
-
-> **And just as plainly - what the gap does not mean in the other direction.** Permissive silence concerns the **act**: people may associate and may declare what they consider themselves to be. It does not confer a status on the result. From the fact that the law does not prohibit the emergence of a people it does not follow that the collective that has emerged is already a people in the legal sense. The absence of a definition does not work in one direction only: it does not exclude automatically, but neither does it include automatically.
->
-> A gap is the law's unfinished work, not a ready answer in anyone's favour.
+> **And just as plainly - what the gap does not mean in the other direction.** Permissive silence concerns the **act**: people may associate and may declare what they consider themselves to be. It does not confer a status on the result. A gap is the law's unfinished work, not a ready answer in anyone's favour.
 
 ---
 
@@ -64,7 +74,7 @@ The same situation is possible with the concept of a people. Through almost all 
 
 The difference is fundamental. If territory is the essence of a people, its absence rules out the very possibility of another form of peoplehood. If territory was only a historical condition, then the appearance of new ways of human coordination calls not for the abolition of the law but for a revision of how the question is put.
 
-International law, tellingly, contains no exhaustive definition of a people. That leaves the question open rather than decided in favour of territory - and, it should be added, not decided against it either.
+International law, tellingly, contains no exhaustive definition of a people. That leaves the question open rather than decided in anyone's favour.
 
 It matters that the question has ceased to be speculative. The practice cited above shows that, faced with a real necessity, international law proved capable of separating status from territory. It did so in order to preserve a subject already recognized - but the very fact that the separation proved possible, and was fixed in a treaty, shows that the territorial link is not indispensable in this construction.
 
@@ -112,7 +122,7 @@ This materially qualifies the thesis. Territoriality in the doctrine of self-det
 
 The most authoritative doctrinal formulation goes further and requires a link with territory outright: the study by the UN Special Rapporteur Aureliu Cristescu (1981) defines a people as a social entity possessing a clear identity and its own characteristics, and adds that this implies a relationship with a territory **even if the people in question has been wrongfully expelled from it and artificially replaced by another population**. The formulation preserves a territorial link for a people that has lost its territory - and thereby leaves no place for a community that never had one. This is the most precise objection in existence, and it cannot be circumvented when the question is put.
 
-The absence of a worked-out answer to the question of how a people arises testifies not to the impossibility of such an answer but to the absence, until now, of any historical demand for it. But the reverse must be said as well: the absence of an answer is not an answer. From the specialization of the doctrine it does not follow that beyond its domain the answer will be affirmative.
+The absence of a worked-out answer to the question of how a people arises testifies not to the impossibility of such an answer but to the absence, until now, of any historical demand for it.
 
 ---
 
@@ -136,19 +146,7 @@ Historical peoples were studied retrospectively, by the traces left over centuri
 
 The analogy is loose, but it helps convey the scale: where before only a fossil trace was available, it becomes possible to observe a living organism develop.
 
-### Why this is not an abstraction: the case that showed what exactly was missing
-
-The claim of novelty requires a qualification without which it would be inaccurate. **The question of the voluntary constitution of a non-territorial people has already been put to international law - and put directly.**
-
-In July 2000, at the Fifth World Romani Congress in Prague, the International Romani Union adopted a Declaration of Nation proclaiming the Roma a non-territorial nation; the document was transmitted to the UN Secretary-General. The claim concerned not statehood but representation - the possibility of having a voice of one's own in international institutions. In twenty-five years nothing has been recognized.
-
-The reasons are set out in an analytical paper by the European Roma Rights Centre - an organization that wished the claim well. Two are named: the absence of geographical contiguity and the absence of organization at the level of a state, that is, the impossibility of establishing who belongs to the community and who speaks in its name.
-
-**The second reason belongs not to law but to provability.** Membership in a dispersed population of millions could not be established in principle - not through any fault of those making the claim, but because the means for it did not exist. The claim was made, but there was nothing to produce in support of it: no confirmed membership, no recordable practice of self-government, no record that could not be rewritten.
-
-Hence the precise formulation of the thesis, which replaces a cruder one. What is new is **not the question but the possibility of answering it**. The question was put before; for the first time there are means by which what is claimed can be confirmed or refuted - and not merely claimed.
-
-For the law this is a qualitatively new kind of material, and it is precisely what makes it possible to pose a question that historical material could never sustain: not "what is a people" but "what stages does its becoming pass through".
+This is exactly what was missing in the Roma case set out above: the claim was made, and material that could be produced and checked did not exist. For the law this is a qualitatively new kind of material, and it is precisely what makes it possible to pose a question that historical material could never sustain: not "what is a people" but "what stages does its becoming pass through".
 
 Let us state the limit as well. Observability is a property of the construction, not a result achieved: the evidentiary force of observation arises as time, the number of participants, and practice accumulate. The possibility of observing is a necessary condition, not a sufficient one.
 
@@ -176,7 +174,7 @@ To this question the Legal Basis answers in the affirmative, relying on freedom 
 
 **The second question: is the community that has emerged a people in the legal sense?**
 
-To this question no ready answer exists, and the Legal Basis does not give one. Freedom of association protects the founding act but does not confer a status on the result. The question is resolved by the body applying the law, by criteria and by practice, when a specific claim arises - and it is precisely a general theory of such resolution that international law lacks.
+To this question no ready answer exists, and the Legal Basis does not give one. The question is resolved by the body applying the law, by criteria and by practice, when a specific claim arises - and it is precisely a general theory of such resolution that international law lacks.
 
 This document adds a second layer: it shows that behind the particular case stands a general gap in doctrine, and that this gap is not a weakness in anyone's position but a natural consequence of the history of the law itself.
 
@@ -190,7 +188,7 @@ We put them openly, claiming no ready answer:
 - If the emergence of a collective subject is for the first time becoming observable, must the theory of a people remain exclusively retrospective?
 - Does it change anything for the legal assessment that one of the two reasons for failure in the precedent described above concerned provability rather than the content of a norm?
 
-We do not assert that the answers are obvious, or that they will necessarily favour new forms of peoplehood. We assert only that the questions are correctly put, that international law as it stands gives no ready answer to them - and that they deserve serious professional discussion rather than dismissal as utopian.
+We assert that these questions are correctly put, that international law as it stands gives no ready answer to them - and that they deserve serious professional discussion rather than dismissal as utopian.
 
 ---
 

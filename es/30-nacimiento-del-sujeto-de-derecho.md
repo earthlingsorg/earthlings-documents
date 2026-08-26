@@ -14,9 +14,9 @@ La [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html
 
 **¿Por qué el derecho internacional, disponiendo de doctrinas desarrolladas sobre la existencia de sujetos colectivos, apenas ha elaborado la cuestión de su nacimiento voluntario?**
 
-Esto no es una defensa del proyecto. Es un intento de nombrar la laguna con exactitud. La intención es fácil de comprobar: si se retira del texto la palabra «Earthlings», ninguna tesis pierde fuerza. Los Earthlings aparecen aquí solo como un caso de un proceso cuya teoría general aún no existe.
+Esto no es una defensa del proyecto. Es un intento de nombrar la laguna con exactitud. La pregunta está planteada como una pregunta general, y los Earthlings aparecen aquí solo como un caso de un proceso cuya teoría general aún no existe.
 
-Todas las tesis son deliberadamente prudentes. Ninguna afirma que el derecho haya quedado obsoleto o se haya equivocado. Cada una afirma algo más modesto y más exacto: ante el derecho se ha planteado una pregunta que antes casi nunca se pudo formular de manera que pudiera ser respondida.
+Ninguna tesis afirma que el derecho haya quedado obsoleto o se haya equivocado. Cada una afirma algo más modesto y más exacto: ante el derecho se ha planteado una pregunta que antes casi nunca se pudo formular de manera que pudiera ser respondida.
 
 En caso de discrepancia entre el presente documento y la Declaración Earthlings se aplica la Declaración.
 
@@ -30,7 +30,7 @@ El derecho internacional sabe constatar que un sujeto colectivo existe y sabe de
 
 **La existencia está descrita. El devenir, no.**
 
-Es precisamente esa zona - la constitución voluntaria de la condición de sujeto colectivo - la que cualquier caso contemporáneo planteado en serio descubre como zona vacía. A continuación siguen siete tesis sobre por qué esa zona ha permanecido vacía y qué significaría llenarla.
+Es precisamente esa zona - la constitución voluntaria de la condición de sujeto colectivo - la que cualquier caso contemporáneo planteado en serio descubre como zona vacía.
 
 > **Una ilustración de la práctica de los últimos años.** En noviembre de 2023 Australia y Tuvalu firmaron el Tratado de Unión Falepili, en vigor desde agosto de 2024: su artículo 2 recoge el reconocimiento por las partes de que la condición de Estado y la soberanía de Tuvalu se mantendrán pese a las consecuencias de la subida del nivel del mar. El Foro de las Islas del Pacífico y la Alianza de los Pequeños Estados Insulares adoptaron declaraciones sobre la continuidad de la condición de Estado; en 2025 la Comisión de Derecho Internacional de las Naciones Unidas aprobó el informe final del Grupo de Estudio sobre la elevación del nivel del mar, en el que señaló el amplio apoyo de los Estados a la continuidad de la condición de Estado y a la conservación de la personalidad jurídica internacional, e indicó que los criterios de Montevideo no resuelven la cuestión de la continuidad.
 >
@@ -40,19 +40,29 @@ Es precisamente esa zona - la constitución voluntaria de la condición de sujet
 
 ---
 
-## Precisión importante: qué no significa esa laguna
+## El caso que mostró qué era exactamente lo que faltaba
 
-### Una laguna no es una prohibición ni una condena
+**La cuestión de la constitución voluntaria de un pueblo no territorial ya se planteó ante el derecho internacional, y se planteó de manera expresa.**
+
+En julio de 2000, en el Quinto Congreso Mundial Gitano celebrado en Praga, la Unión Romaní Internacional adoptó una Declaración de la nación que proclamaba a los roma nación no territorial; el documento se transmitió al Secretario General de las Naciones Unidas. La pretensión no se refería a la condición de Estado, sino a la representación: la posibilidad de tener voz propia en las instituciones internacionales. En veinticinco años no se ha reconocido nada.
+
+Los motivos están expuestos en un material analítico del Centro Europeo de Derechos de los Roma, una organización que deseaba el éxito de esa pretensión. Se nombran dos: la falta de continuidad geográfica y la falta de organización a nivel estatal, es decir, la imposibilidad de establecer quién forma parte de la comunidad y quién habla en su nombre.
+
+**El segundo motivo no se refiere al derecho, sino a la demostrabilidad.** La pertenencia dentro de una población dispersa de millones de personas no podía establecerse en absoluto, no por culpa de quienes formulaban la pretensión, sino porque no existían medios para ello. La pretensión se formuló, pero no había nada que presentar en su apoyo: ni una composición verificada, ni una práctica de autogobierno registrable, ni un asiento que no se pudiera reescribir.
+
+De ahí la formulación exacta de la pregunta, que sustituye a otra más burda. Lo nuevo no es **la pregunta, sino la posibilidad de responderla**. La pregunta se planteó también antes; por primera vez aparecen los medios que permiten confirmar o refutar lo declarado, y no solo declararlo.
+
+Los dos casos expuestos más arriba delimitan la zona vacía por dos lados. Tuvalu muestra que el derecho es capaz de separar la condición jurídica del territorio cuando surge la necesidad. Los romaníes muestran que, planteada la misma cuestión para un sujeto naciente, el asunto se detuvo no en la norma, sino en la imposibilidad de probar nada. A continuación siguen siete tesis sobre por qué esa zona ha permanecido vacía y qué significaría llenarla.
+
+---
+
+## Precisión importante: qué no significa esa laguna
 
 Una laguna en la doctrina no hace ilícito el nacimiento de un pueblo: la licitud del acto no descansa en la existencia de una teoría especial, sino en una norma vigente, la libertad de asociación, obligatoria para los Estados ya hoy.
 
-La zona vacía no está allí donde se resuelve la pregunta «¿pueden las personas asociarse?» - esa pregunta está cerrada -, sino allí donde el derecho aún no ha descrito cómo una asociación voluntaria madura hasta convertirse en una condición de sujeto colectivo reconocida.
+La falta de una teoría elaborada nunca significó ilicitud: de otro modo, el primer caso de cualquier forma jurídica quedaría fuera de la ley, y la plataforma continental, reivindicada en 1945 pese al silencio completo de las normas, habría sido una infracción y no una norma futura. Para los particulares que ejercen una libertad reconocida rige el principio de que lo no prohibido está permitido.
 
-La falta de una teoría elaborada nunca significó ilicitud: de otro modo, el primer caso de cualquier forma jurídica quedaría fuera de la ley, y la plataforma continental, reivindicada en 1945 pese al silencio completo de las normas, habría sido una infracción y no una norma futura. Para los particulares que ejercen una libertad reconocida rige el principio de que lo no prohibido está permitido: el silencio del derecho respecto de la forma de asociación es un silencio permisivo, y no un vacío bajo los pies.
-
-> **Y con igual claridad, qué no significa la laguna en el otro sentido.** El silencio permisivo se refiere a la **acción**: las personas pueden asociarse y pueden declarar qué consideran ser. No atribuye al resultado una condición. Del hecho de que el derecho no prohíba el nacimiento de un pueblo no se sigue que el colectivo nacido sea ya un pueblo en sentido jurídico. La falta de definición no funciona en un solo sentido: no excluye automáticamente, pero tampoco incluye automáticamente.
->
-> Una laguna es un trabajo inacabado del derecho, y no una respuesta hecha a favor de nadie.
+> **Y con igual claridad, qué no significa la laguna en el otro sentido.** El silencio permisivo se refiere a la **acción**: las personas pueden asociarse y pueden declarar qué consideran ser. No atribuye al resultado una condición. Una laguna es un trabajo inacabado del derecho, y no una respuesta hecha a favor de nadie.
 
 ---
 
@@ -64,7 +74,7 @@ Con el concepto de pueblo cabe la misma situación. Durante casi toda la histori
 
 La diferencia es de principio. Si el territorio es la esencia del pueblo, su ausencia excluye la posibilidad misma de otra forma de existencia como pueblo. Si el territorio fue solo una condición histórica, la aparición de nuevos modos de coordinación humana no exige derogar el derecho, sino revisar cómo se plantea la pregunta.
 
-El derecho internacional, y esto es significativo, no contiene una definición exhaustiva de pueblo. Eso deja la cuestión abierta, y no resuelta a favor del territorio; y conviene añadir que tampoco resuelta en su contra.
+El derecho internacional, y esto es significativo, no contiene una definición exhaustiva de pueblo. Eso deja la cuestión abierta, y no resuelta a favor de nadie.
 
 Es esencial que la cuestión haya dejado de ser especulativa. La práctica citada más arriba muestra que, puesto ante una necesidad real, el derecho internacional resultó capaz de separar la condición del territorio. Lo hizo para conservar un sujeto ya reconocido, pero el hecho mismo de que la separación resultara posible y quedara recogida en un tratado atestigua que el vínculo territorial no es inextirpable en esa construcción.
 
@@ -112,7 +122,7 @@ Esto precisa la tesis de manera notable. La territorialidad en la doctrina de la
 
 La formulación doctrinal más autorizada va más lejos y exige el vínculo con el territorio de manera expresa: el estudio del relator especial de las Naciones Unidas Aureliu Cristescu (1981) define el pueblo como una entidad social con identidad manifiesta y características propias, y añade que ello presupone una relación con un territorio **aunque el pueblo de que se trate haya sido injustamente expulsado de él y reemplazado artificialmente por otra población**. La formulación conserva el vínculo territorial para un pueblo que ha perdido el territorio, y con ello no deja lugar a una comunidad que nunca lo tuvo. Es la objeción más precisa de cuantas existen, y al plantear la cuestión no se la puede rodear.
 
-La falta de una respuesta elaborada a la cuestión del nacimiento de un pueblo no atestigua la imposibilidad de tal respuesta, sino la ausencia previa de una demanda histórica de ella. Pero hay que decir también lo contrario: la falta de respuesta no es una respuesta. De la especialización de la doctrina no se sigue que fuera de su ámbito la respuesta vaya a ser afirmativa.
+La falta de una respuesta elaborada a la cuestión del nacimiento de un pueblo no atestigua la imposibilidad de tal respuesta, sino la ausencia previa de una demanda histórica de ella.
 
 ---
 
@@ -136,19 +146,7 @@ Los pueblos históricos se estudiaron de manera retrospectiva, por las huellas d
 
 La analogía es imperfecta, pero ayuda a percibir la escala: allí donde antes solo se disponía de una huella fosilizada, se hace posible observar el desarrollo de un organismo vivo.
 
-### Por qué esto no es una abstracción: el caso que mostró qué era exactamente lo que faltaba
-
-La afirmación de novedad exige una precisión sin la cual sería inexacta. **La cuestión de la constitución voluntaria de un pueblo no territorial ya se planteó ante el derecho internacional, y se planteó de manera expresa.**
-
-En julio de 2000, en el Quinto Congreso Mundial Gitano celebrado en Praga, la Unión Romaní Internacional adoptó una Declaración de la nación que proclamaba a los roma nación no territorial; el documento se transmitió al Secretario General de las Naciones Unidas. La pretensión no se refería a la condición de Estado, sino a la representación: la posibilidad de tener voz propia en las instituciones internacionales. En veinticinco años no se ha reconocido nada.
-
-Los motivos están expuestos en un material analítico del Centro Europeo de Derechos de los Roma, una organización que deseaba el éxito de esa pretensión. Se nombran dos: la falta de continuidad geográfica y la falta de organización a nivel estatal, es decir, la imposibilidad de establecer quién forma parte de la comunidad y quién habla en su nombre.
-
-**El segundo motivo no se refiere al derecho, sino a la demostrabilidad.** La pertenencia dentro de una población dispersa de millones de personas no podía establecerse en absoluto, no por culpa de quienes formulaban la pretensión, sino porque no existían medios para ello. La pretensión se formuló, pero no había nada que presentar en su apoyo: ni una composición verificada, ni una práctica de autogobierno registrable, ni un asiento que no se pudiera reescribir.
-
-De ahí la formulación exacta de la tesis, que sustituye a otra más burda. Lo nuevo no es **la pregunta, sino la posibilidad de responderla**. La pregunta se planteó también antes; por primera vez aparecen los medios que permiten confirmar o refutar lo declarado, y no solo declararlo.
-
-Para el derecho este es un tipo de material cualitativamente nuevo, y es él el que hace pensable una pregunta que con el material histórico no se podía plantear: no «qué es un pueblo», sino «qué fases atraviesa su formación».
+Eso es precisamente lo que faltó en el caso romaní expuesto más arriba: la pretensión se formuló, y no existía material que se pudiera presentar y comprobar. Para el derecho este es un tipo de material cualitativamente nuevo, y es él el que hace pensable una pregunta que con el material histórico no se podía plantear: no «qué es un pueblo», sino «qué fases atraviesa su formación».
 
 Señalemos también el límite. La observabilidad es una propiedad de la construcción, y no un resultado alcanzado: la fuerza probatoria de la observación nace a medida que se acumulan tiempo, número de participantes y práctica. La posibilidad de observar es una condición necesaria, no suficiente.
 
@@ -176,7 +174,7 @@ A esta pregunta la Base jurídica responde afirmativamente, apoyándose en la li
 
 **Segunda cuestión: ¿es la comunidad nacida un pueblo en sentido jurídico?**
 
-A esta pregunta no existe respuesta hecha, y la Base jurídica no la da. La libertad de asociación protege el acto constitutivo, pero no atribuye al resultado una condición. La cuestión la resuelve quien aplica el derecho, por los rasgos y por la práctica, cuando surge una pretensión concreta; y es precisamente la teoría general de esa resolución la que falta en el derecho internacional.
+A esta pregunta no existe respuesta hecha, y la Base jurídica no la da. La cuestión la resuelve quien aplica el derecho, por los rasgos y por la práctica, cuando surge una pretensión concreta; y es precisamente la teoría general de esa resolución la que falta en el derecho internacional.
 
 El presente documento añade un segundo estrato: muestra que detrás del caso concreto hay una laguna general de la doctrina, y que esa laguna no es la debilidad de la posición de nadie, sino la consecuencia natural de la historia del propio derecho.
 
@@ -190,7 +188,7 @@ Las sometemos abiertamente, sin pretender una respuesta hecha:
 - Si el nacimiento de un sujeto colectivo se hace observable por primera vez, ¿debe la teoría del pueblo seguir siendo exclusivamente retrospectiva?
 - ¿Cambia algo para la valoración jurídica el hecho de que uno de los dos motivos de rechazo en un precedente conocido se refiriera a la demostrabilidad y no al contenido de la norma?
 
-No afirmamos que las respuestas sean evidentes ni que vayan a ser necesariamente favorables a las nuevas formas de existencia como pueblo. Afirmamos solo que las preguntas están correctamente planteadas, que el derecho internacional vigente no da a ellas una respuesta hecha y que merecen un debate profesional serio, y no ser relegadas a la utopía.
+Afirmamos que estas preguntas están correctamente planteadas, que el derecho internacional vigente no da a ellas una respuesta hecha y que merecen un debate profesional serio, y no ser relegadas a la utopía.
 
 ---
 
