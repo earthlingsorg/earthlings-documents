@@ -425,8 +425,12 @@ def decl_title(lang):
     return t
 
 
-def langlist(lang):
+def langlist(lang, href_of=None):
     u"""Девять строк: название Декларации на каждом из девяти языков.
+
+    href_of(код) задаёт, куда ведёт строка. По умолчанию - в Декларацию на этом
+    языке; корневая страница передаёт сюда языковые главные, потому что она
+    выбор языка, а не вход в один документ.
 
     Единственный по-настоящему свой визуальный актив сайта - корпус на девяти
     письменностях. Здесь они и показаны: девять названий подряд, три в ряд, и
@@ -442,6 +446,7 @@ def langlist(lang):
     # неё были белыми же, и разделяли их волоски в 1px. Светлой стала каждая
     # карточка по отдельности, а между ними просвет, в котором виден цвет
     # полосы - так это устроено у epic.org, откуда взят весь язык формы.
+    href_of = href_of or (lambda c: doc_href('01', c))
     o = [u'<ul class="langlist" aria-label="%s">'
          % C.esc(C.x(lang, 'lang_switcher'))]
     for code in C.ALL_LANGS:
@@ -449,7 +454,7 @@ def langlist(lang):
         o.append(u'<li><a href="%s" lang="%s"%s>'
                  u'<span class="langlist-lang">%s</span>'
                  u'<span class="langlist-title">%s</span></a></li>'
-                 % (C.esc(doc_href('01', code)), code, rtl,
+                 % (C.esc(href_of(code)), code, rtl,
                     C.esc(C.LANG_LABEL[code]), C.esc(decl_title(code))))
     o.append(u'</ul>')
     return u'\n'.join(o)
@@ -1180,6 +1185,41 @@ def build_manifest(lang):
                 ['<link rel="stylesheet" href="/css/home.css">'])
 
 
+def build_root():
+    u"""Корневая страница сайта - выбор языка.
+
+    В день подмены `_v2/index.html` становится `earth-lings.org/`. До 2026-08-26
+    там лежал образец оформления от 17 августа - «Earthlings - образец нового
+    оформления», карточки палитры, ноль ссылок на языки. Он и уехал бы на
+    боевой адрес.
+
+    Почему выбор языка, а не английская главная. Боевой корень сейчас - экран
+    на JavaScript: он спрашивает у браузера язык, ходит за ним же на сторонний
+    ipapi.co и перебрасывает. Без JavaScript там 3156 знаков по-английски на
+    странице, обслуживающей девять языков. Здесь ровно наоборот: девять ссылок
+    в HTML, видны и человеку, и краулеру, никуда не перебрасывает, стороннего
+    запроса нет.
+
+    Язык оболочки - английский: он же x-default в hreflang и в сайтмапе.
+    Девять названий берутся из тех же подрезок, что и полоса на языковых
+    главных, - лишнего веса страница не добавляет.
+    """
+    lang = 'en'
+    lead = (u'Earthlings is a people you join by choice - not by birth, not by '
+            u'territory. Everything we have written is published in nine '
+            u'languages. Choose one.')
+    o = ['<main class="%s" id="main"><div class="sheet">' % ROOT,
+         '<header class="doc-head"><h1 class="doc-title">Earthlings</h1>'
+         '<div class="rule-double"></div></header>',
+         '<section class="lead col"><p>%s</p></section>' % C.esc(lead),
+         langlist(lang, href_of=lambda c: '/%s/' % c),
+         '</div></main>']
+    return wrap(lang, '\n'.join(o), ORIGIN + '/',
+                'Earthlings - a new people', lead[:300],
+                lambda c: '/%s/' % c,
+                ['<link rel="stylesheet" href="/css/home.css">'])
+
+
 def main():
     dry = '--dry' in sys.argv
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
@@ -1203,6 +1243,26 @@ def main():
                           page.split('<body', 1)[1])).strip()
             print('OK   _v2/%s/%-14s %3d КБ, текста без JS: %5d знаков'
                   % (lang, name, len(page.encode('utf-8')) // 1024, len(text)))
+
+    # Корень собирается, только когда собраны ВСЕ девять: он ведёт на девять
+    # языковых главных, и на неполном прогоне часть ссылок легла бы в 404.
+    if len(langs) == len([l for l in ALL_LANGS if os.path.isfile(
+            os.path.join(MANIFEST_DIR, '%s-manifest.md' % l))]):
+        page = build_root()
+        missing = [c for c in ALL_LANGS
+                   if not os.path.isfile(os.path.join(OUT, c, 'index.html'))]
+        assert not missing, (
+            u'нет языковых главных: %s. Корень ведёт на все девять, и эти '
+            u'ссылки отдали бы 404 на боевом адресе.' % ', '.join(missing))
+        if not dry:
+            io.open(os.path.join(OUT, 'index.html'), 'w', encoding='utf-8',
+                    newline='\n').write(page)
+        text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
+                      page.split('<body', 1)[1])).strip()
+        print('OK   _v2/index.html      %3d КБ, текста без JS: %5d знаков, '
+              'языков 9' % (len(page.encode('utf-8')) // 1024, len(text)))
+    else:
+        print('корень не собран: прогон неполный (%d языков из 9)' % len(langs))
 
 
 if __name__ == '__main__':
