@@ -162,4 +162,4 @@ Earthlings-ის მთელი ინსტიტუციური ინფ
 
 - SBT-ის სმარტ-კონტრაქტი Polygon Mainnet-ში: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
 - Safe Multisig-ხაზინა Polygon-ში: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
-- დოკუმენტური კორპუსი: 25 ინსტიტუციური დოკუმენტი ცხრა ენაზე ([ყველა დოკუმენტი](/ru/)).
+- დოკუმენტური კორპუსი: 25 ინსტიტუციური დოკუმენტი ცხრა ენაზე ([ყველა დოკუმენტი](/ka/)).
