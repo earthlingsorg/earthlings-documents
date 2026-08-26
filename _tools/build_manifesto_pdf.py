@@ -1,501 +1,274 @@
-"""Собирает PDF Обращения из страницы черновика _v2/<язык>/manifest.html.
+# -*- coding: utf-8 -*-
+u"""Собирает PDF Обращения печатью страницы черновика браузером.
 
-Источник один - тот же файл, который встанет на earth-lings.org/<язык>/manifest.html
-после подмены корня. Ничего не дублируется вручную: правится мастер Обращения,
-перезапускается build_home_v2.py, перезапускается этот скрипт.
+Источник один - `_v2/<язык>/manifest.html`, тот же файл, который встанет на
+earth-lings.org/<язык>/manifest.html после подмены корня. Ничего не
+дублируется: правится мастер Обращения, перезапускается build_home_v2.py,
+перезапускается этот скрипт.
 
-Раньше источником была боевая главная mainpage/<язык>/index.html, а выходом -
-боевое downloads/. Обе стороны теперь под замком: боевое дерево не правится и
-не пересобирается, а его страницы застыли на 16 августа, до переименования
-Манифеста в Обращение. Собранный оттуда PDF назывался бы Манифестом при уже
-переименованном тексте - и это не было бы видно, пока файл не откроют.
+**Почему движок сменился.** Прежняя сборка была на reportlab: своя вёрстка,
+свой шрифт, свои поля. Она давала красивый лист на семи языках и не могла дать
+его на двух. reportlab кладёт кодпойнты подряд, а деванагари при отрисовке
+переставляет знаки - краткое «и» пишется ПЕРЕД согласной, к которой относится, -
+и арабская вязь требует соединения букв. Вывод получался бы не некрасивым, а
+неправильным, и правдоподобно неправильным: чтобы заметить, надо знать язык.
 
-Последняя строка «Мы выбираем друг друга» рисуется кнопкой с рамкой, и вся её
-площадь - кликабельная ссылка на учредительный период. Адрес абсолютный:
-PDF пересылают, и открыт он будет вне сайта.
+Браузер это умеет: Chrome шьёт обе письменности сам. Решение Артура
+2026-08-27 - пересобрать все девять одним движком, чтобы файлы были одной
+семьёй, а не двумя.
 
-Скрипт лежит здесь, а не в репозитории сайта, потому что там всё отслеживаемое
-уезжает на боевой сервер при деплое, и `tools/` целиком в .gitignore. Из-за
-этого генератор жил на одной машине и на любой другой немецкий PDF собрать было
-нельзя. Соседство с build_site_docs.py естественное: тот тоже лежит здесь и
-пишет в репозиторий сайта.
+**Что при этом потеряно, и это честно назвать.** Прежний PDF был набран
+PT Serif на кремовом листе, вёрсткой по ширине. Повторить это на девяти языках
+нельзя: PT Serif не покрывает ни деванагари, ни арабскую вязь, ни китайский,
+ни грузинский. Одна семья возможна только на шрифтовой лесенке сайта, и теперь
+PDF выглядит так же, как страница, с которой напечатан. Ушла и рамка-кнопка
+вокруг последней строки: её рисовал прежний генератор, на странице её нет, и
+дорисовывать в PDF то, чего нет в тексте, - это выдумывать.
 
-Запуск:  python _tools/build_manifesto_pdf.py [ru|en|de|fr|es|ka|zh]
+**Что осталось от прежнего вида** - колонтитул: адрес сайта и номер страницы
+внизу листа, PT Serif 8.5 пунктов. Его ставит не браузер: Chrome не понимает
+`@bottom-center`. Ставится после печати, по странице за раз.
+
+**Печатный лист** - `_v2/css/print.css`, подключён к странице. Что видит
+человек, нажав Ctrl+P, то и лежит в файле.
+
+**Откуда берутся шрифты.** `_v2` не содержит ни шрифтов письменностей, ни
+картинок: в vhost для них стоит откат в общее дерево. Локальный сервер здесь
+повторяет этот откат. Без него браузер получает 404 на woff2 и молча
+подставляет системный шрифт - в прежнем прогоне в файл попала Nirmala UI
+вместо Noto, и на другой машине тот же PDF собрался бы иначе. Поэтому 404
+считаются и валят сборку.
+
+Запуск:  python _tools/build_manifesto_pdf.py [ru|en|de|fr|es|ka|zh|ar|hi|all]
 Выход:   <репозиторий сайта>/_v2/downloads/<имя из BY_LANG>
 
-Из внешнего нужен только reportlab (`pip install reportlab`). Шрифт лежит в
-_tools/fonts/ и версионируется вместе со скриптом, поэтому сборка одинакова на
-Windows, macOS и Linux и ничего ставить в систему не требуется.
+Из внешнего нужны браузер (Chrome или Edge) и PyMuPDF.
 """
 
-import html
+import io
 import os
 import re
+import subprocess
 import sys
-from pathlib import Path
+import tempfile
+import threading
+from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 
-from reportlab import rl_config
-from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY
-from reportlab.lib.pagesizes import A4
-from reportlab.lib.units import cm
-from reportlab.lib.styles import ParagraphStyle
-from reportlab.pdfbase import pdfmetrics
-from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.platypus import BaseDocTemplate, Flowable, Frame, PageTemplate, Paragraph, Spacer
+import fitz
 
-# Без этого reportlab штампует в файл время сборки, и PDF выходит побайтово
-# разным при одном и том же тексте. В репозитории это означало бы правку
-# бинарника на каждом прогоне, включая прогоны из pre-commit хука.
-rl_config.invariant = 1
+TOOLS = os.path.dirname(os.path.abspath(__file__))
+REPO = os.path.dirname(TOOLS)
+SITE = os.environ.get('EARTHLINGS_SITE') or os.path.join(
+    os.path.dirname(REPO), 'earth-lings-site')
+V2 = os.path.join(SITE, '_v2')
 
-# Консоль Windows живёт в однобайтовой кодировке, и попытка напечатать в неё
-# грузинскую или китайскую строку роняет скрипт - уже ПОСЛЕ того, как файл
-# записан. Выглядит это как провал сборки, хотя PDF собран. Печатаем с
-# заменой непередаваемых знаков.
-if hasattr(sys.stdout, "reconfigure"):
-    sys.stdout.reconfigure(errors="replace")
-
-# Репозиторий сайта. По умолчанию - соседняя папка рядом с этой, как у
-# build_site_docs.py; переопределяется той же переменной окружения, чтобы не
-# заводить вторую настройку на то же самое.
-ROOT = Path(os.environ.get("EARTHLINGS_SITE")
-            or Path(__file__).resolve().parent.parent.parent / "earth-lings-site")
-assert (ROOT / "_v2").is_dir(), (
-    f"не найден репозиторий сайта: {ROOT}\n"
-    "Ожидается earth-lings-site рядом с этим репозиторием. Если он лежит в "
-    "другом месте - EARTHLINGS_SITE=/путь/к/earth-lings-site")
-
-# Язык - аргумент, а не константа. Разбор страницы обобщённый: он ищет
-# class="lead col" и class="sign", а не русские слова, - поэтому для нового
-# языка нужны только имя файла и адрес кнопки.
-#
-# Значение --theme из позиционных выкусывается отдельно: оно тоже без дефиса,
-# и `build_manifesto_pdf.py en --theme v2` собрал бы язык "v2" - вернее, упал
-# бы на BY_LANG, но по невнятной причине.
-_pos = sys.argv[1:]
-if "--theme" in _pos:
-    _i = _pos.index("--theme")
-    _pos = _pos[:_i] + _pos[_i + 2:]
-LANG = "ru"
-for _a in _pos:
-    if not _a.startswith("-"):
-        LANG = _a
-
-# Тема принимается только ради явности: сборщики страниц берут --theme, и
-# человек по привычке допишет его сюда. Значение одно. Боевую тему скрипт не
-# собирает не из осторожности, а потому, что собрать её нечем: боевые страницы
-# заморожены до переименования, и PDF вышел бы с прежним названием.
-if "--theme" in sys.argv:
-    _t = sys.argv[sys.argv.index("--theme") + 1:sys.argv.index("--theme") + 2]
-    assert _t == ["v2"], (
-        "тема только v2. Боевое дерево заморожено: править и пересобирать его "
-        "нельзя, а его главные застыли на 16 августа, до переименования "
-        "Манифеста в Обращение.")
-
-# Имя файла и адрес учредительного периода на каждом языке свои. Языка нет в
-# таблице - сборка останавливается, а не кладёт английский текст в русский файл.
-#
-# Имена сменились 2026-08-26 вслед за переименованием Манифеста принадлежности
-# в Обращение. Прежние manifest-*/manifesto-of-belonging-* никуда не рассылались,
-# поэтому ломать было нечего; на боевом дереве они остаются как были, там своя
-# копия и свой замок.
-#
-# Тема PDF (метаданные) больше не задаётся здесь: она берётся из заголовка H1
-# разобранной страницы. Семь строк на семи языках, повторяющих название
-# документа, - это семь мест, где переименование можно забыть.
+# Имена файлов менять нельзя: на них ведут ссылки со страниц и из писем.
+# Языки нелатинских письменностей называются по-английски - так решено при
+# сборке китайского и грузинского, хинди и арабский идут за ними.
 BY_LANG = {
-    "ru": ("obrashchenie-ru.pdf",
-           "/documents/ru/ru20-uchreditelnyj-period.html"),
-    "en": ("an-address-to-everyone-en.pdf",
-           "/documents/en/en20-the-founding-period.html"),
-    # Умляуты в имени файла не ставим: ссылку на PDF пересылают почтой и в
-    # мессенджерах, а там имя с ö ломается. Транслитерация почтовая - oe.
-    "de": ("eine-ansprache-an-alle-de.pdf",
-           "/documents/de/de20-gruendungsphase.html"),
-    # Диакритику в имя файла не ставим по той же причине, что и умляуты:
-    # ссылку пересылают почтой и в мессенджерах, где é ломает адрес.
-    "fr": ("un-message-a-tous-fr.pdf",
-           "/documents/fr/fr20-periode-constituante.html"),
-    # Диакритика в имя файла не идёт по той же причине: ó ломает адрес
-    # при пересылке почтой и в мессенджерах.
-    "es": ("un-mensaje-a-todos-es.pdf",
-           "/documents/es/es20-periodo-constituyente.html"),
-    # Мхедрули в имени файла не ставим по той же причине, что умляуты и
-    # диакритику: адрес пересылают почтой и в мессенджерах, а грузинская буква
-    # превращается там в %E1%83%A5 и ссылка перестаёт читаться. Имя файла -
-    # английское, как и слаг документа.
-    "ka": ("an-address-to-everyone-ka.pdf",
-           "/documents/ka/ka20-the-founding-period.html"),
-    # Иероглифы в имени файла не ставим по той же причине, что мхедрули и
-    # умляуты: адрес пересылают почтой и в мессенджерах, где каждый знак
-    # превращается в три процентных группы и ссылка перестаёт читаться.
-    "zh": ("an-address-to-everyone-zh.pdf",
-           "/documents/zh/zh20-the-founding-period.html"),
-}
-assert LANG in BY_LANG, (
-    'нет настроек для языка "%s": задайте имя файла и адрес кнопки в BY_LANG. '
-    'Языки: %s' % (LANG, ", ".join(sorted(BY_LANG))))
-_name, _cta_path = BY_LANG[LANG]
-
-SRC = ROOT / "_v2" / LANG / "manifest.html"
-OUT = ROOT / "_v2" / "downloads" / _name
-# Пишем только внутрь _v2. Проверка стоит здесь, а не в голове: сорваться сюда
-# может только опечатка в двух строках выше, и восьмая проверка preflight_all
-# поймала бы её уже после записи в боевое дерево.
-assert (ROOT / "_v2") in OUT.parents, "выход обязан лежать внутри _v2: %s" % OUT
-
-SITE = "https://earth-lings.org"
-CTA_URL = SITE + _cta_path
-
-# Палитра листа - из css/docs-statute.css, чтобы PDF и страница читались одинаково.
-PAGE_BG = "#fbf9f3"
-NAVY = "#1d4163"
-GOLD = "#8a6a2f"
-INK = "#3a4046"
-INK_SOFT = "#5f6670"
-RULE = "#c9b48c"
-
-# Запрещённая типографика - по числовым кодпойнтам, а не литералам:
-# литералы молча портятся при передаче через heredoc и буфер обмена.
-FORBIDDEN = {
-    0x2014: "em-dash", 0x2013: "en-dash", 0x2212: "minus", 0x2026: "ellipsis",
-    0x201C: "ldquo", 0x201D: "rdquo", 0x201E: "bdquo", 0x201F: "quote",
-    0x2018: "lsquo", 0x2019: "rsquo", 0x201A: "squote", 0x201B: "squote",
-    0x2039: "lsaquo", 0x203A: "rsaquo",
-    0x00A0: "NBSP", 0x202F: "narrow-NBSP", 0x2009: "thin-space",
-    0x2007: "figure-space", 0x2008: "punct-space", 0x200A: "hair-space",
-    0x200B: "ZWSP", 0x200C: "ZWNJ", 0x2060: "word-joiner", 0xFEFF: "BOM",
+    'ru': 'obrashchenie-ru.pdf',
+    'en': 'an-address-to-everyone-en.pdf',
+    'de': 'eine-ansprache-an-alle-de.pdf',
+    'fr': 'un-message-a-tous-fr.pdf',
+    'es': 'un-mensaje-a-todos-es.pdf',
+    'ka': 'an-address-to-everyone-ka.pdf',
+    'zh': 'an-address-to-everyone-zh.pdf',
+    'ar': 'an-address-to-everyone-ar.pdf',
+    'hi': 'an-address-to-everyone-hi.pdf',
 }
 
-# Родная пунктуация языка - не признак машинного текста. Немецкая пара кавычек,
-# низкая открывающая (U+201E) и верхняя закрывающая (U+201C), - такая же норма
-# немецкого, как ёлочки для русского. Таблица выше писалась под русский и
-# английский, где обе запрещены. Английская закрывающая U+201D остаётся
-# запрещённой и для немецкого: в немецком тексте она означает, что кавычки
-# приехали из чужой раскладки, а не поставлены по норме.
-# Китайскому нужны три знака, и они шире немецкой пары: U+2014 - это тире
-# 破折号, набираемое двумя подряд (——), а U+201C/U+201D - двойные кавычки
-# упрощённого письма. Парность тире и баланс кавычек проверяет
-# audit_conf/zh.py, иначе разрешение стало бы дырой. Подробнее - тот же
-# комментарий в check_translation.py.
-ALLOWED_BY_LANG = {"de": (0x201E, 0x201C),
-                   "zh": (0x2014, 0x201C, 0x201D)}
-ALLOWED = ALLOWED_BY_LANG.get(LANG, ())
+FOOT_FONT = os.path.join(TOOLS, 'fonts', 'PT_Serif-Web-Regular.ttf')
+FOOT_TEXT = 'earth-lings.org'
+FOOT_SIZE = 8.5
+FOOT_COLOR = (0x5f / 255.0, 0x66 / 255.0, 0x70 / 255.0)
+FOOT_UP = 34            # пунктов от низа листа
+
+CHROMES = [
+    os.environ.get('EARTHLINGS_CHROME'),
+    r'C:\Program Files\Google\Chrome\Application\chrome.exe',
+    r'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe',
+    r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe',
+    '/usr/bin/google-chrome',
+    '/usr/bin/chromium',
+    '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+]
 
 
-# Шрифт лежит в репозитории, а не берётся из системы. Так сборка не зависит
-# ни от операционной системы, ни от того, что у кого установлено: результат
-# одинаков везде, включая машину, где Манифест собирают впервые.
-#
-# Почему PT Serif, а не Gelasio - метрический клон Georgia, который напрашивался
-# первым: в Gelasio НЕТ кириллицы вовсе (проверено по cmap: ни одного знака из
-# диапазона 0x410-0x44F). Русский Манифест на нём стал бы страницами пустых
-# квадратов. PT Serif - тоже OFL, покрывает латиницу и кириллицу целиком, и
-# сделан ParaType именно под русский текст.
-#
-# Прежде здесь была Georgia из C:\Windows\Fonts. Она проприетарная, в
-# репозиторий её не положить, и вне Windows сборка падала.
-#
-# Шрифт зависит от ПИСЬМЕННОСТИ, а не от языка вообще, и таблица ниже - первая
-# правка этого скрипта, которая касается не данных, а выбора. Причина в том,
-# что PT Serif покрывает только латиницу и кириллицу: мхедрули в нём ноль
-# знаков (проверено по cmap), и грузинский Манифест на нём стал бы страницей
-# пустых квадратов.
-#
-# Имя семейства при этом остаётся одним и тем же - "Manifest". Меняются только
-# файлы начертаний. Так сделано намеренно: имена стилей ("Manifest-Bold",
-# "Manifest-Italic") встречаются в разметке документа десяток раз, и заводить
-# ещё и FAMILY_BY_LANG значило бы искать их все и не найти одно.
-#
-# Грузинский: Noto Serif Georgian, сборка Google Fonts, выпечена в статические
-# начертания из переменного шрифта (reportlab переменные не понимает и берёт из
-# них одно начертание, отчего жирный стал бы неотличим от обычного).
-# Готовые статические файлы с notofonts.github.io взять было нельзя: в них НЕТ
-# латиницы вовсе - 2 знака ASCII из 95, - и слово Earthlings, ёлочки и адрес
-# earth-lings.org превратились бы в пустые квадраты. В сборке Google Fonts
-# латиница есть: 58 букв и вся нужная пунктуация.
-#
-# Курсива у Noto Serif Georgian нет, и это не пробел сборки: наклонного
-# начертания у мхедрули нет как явления, курсив здесь - привычка чужого письма.
-# Курсивные лица отображены на прямые, и подпись под Манифестом по-грузински
-# встанет прямой.
-FONT_DIR = Path(__file__).resolve().parent / "fonts"
-FAMILY = "Manifest"
-_PT_SERIF = ((FAMILY, "PT_Serif-Web-Regular.ttf"),
-             (FAMILY + "-Bold", "PT_Serif-Web-Bold.ttf"),
-             (FAMILY + "-Italic", "PT_Serif-Web-Italic.ttf"),
-             (FAMILY + "-BoldItalic", "PT_Serif-Web-BoldItalic.ttf"))
-_NOTO_GEORGIAN = ((FAMILY, "NotoSerifGeorgian-Regular.ttf"),
-                  (FAMILY + "-Bold", "NotoSerifGeorgian-Bold.ttf"),
-                  (FAMILY + "-Italic", "NotoSerifGeorgian-Regular.ttf"),
-                  (FAMILY + "-BoldItalic", "NotoSerifGeorgian-Bold.ttf"))
-# Китайский: Noto Serif SC, та же лицензия OFL. Целиком шрифт в репозиторий не
-# кладётся - в нём около 65 тысяч глифов и 25 МБ в переменном начертании,
-# тогда как в Манифесте меньше пятисот уникальных иероглифов. В fonts/ лежит
-# субсет, испечённый make_cjk_subset.py; он же печёт статические Regular и
-# Bold из переменного файла, потому что переменные reportlab не понимает.
-# Курсива у иероглифов нет как явления, как и у мхедрули: курсивные лица
-# отображены на прямые.
-_NOTO_SC = ((FAMILY, "NotoSerifSC-Regular.ttf"),
-            (FAMILY + "-Bold", "NotoSerifSC-Bold.ttf"),
-            (FAMILY + "-Italic", "NotoSerifSC-Regular.ttf"),
-            (FAMILY + "-BoldItalic", "NotoSerifSC-Bold.ttf"))
-FACES_BY_LANG = {"ka": _NOTO_GEORGIAN, "zh": _NOTO_SC}
-FACES = FACES_BY_LANG.get(LANG, _PT_SERIF)
-
-# Перенос строк. Обычный режим reportlab ломает строку по пробелам, а в
-# китайском письме пробелов нет: весь абзац для него - одно слово в две тысячи
-# знаков, которое не влезает во фрейм, и абзац выпадает целиком. Режим 'CJK'
-# разрешает перенос между любыми двумя иероглифами. Шрифт без этого режима
-# не спасает: буквы будут, а текста не будет.
-WORD_WRAP = "CJK" if LANG == "zh" else None
-
-# Правило 行首禁则: строка не начинается со знака препинания. reportlab его
-# знает и умеет вешать такой знак в правое поле, но таблица у него собрана под
-# японский: в ней есть 。 и 、 и нет ни одного знака, которым набирают
-# упрощённое письмо. Из-за этого китайская запятая исправно уезжала в начало
-# строки. Дополняем таблицу библиотеки, а не обходим её в разметке: обходить
-# пришлось бы в каждом абзаце.
-#
-# Тире 破折号 (две штуки U+2014 подряд) в список намеренно НЕ входит. reportlab
-# вешает в поле ровно один знак, и пара разъехалась бы по двум строкам - это
-# хуже, чем тире в начале строки.
-if LANG == "zh":
-    from reportlab.lib import textsplit as _ts
-    _CJK_CANNOT_START = "".join(chr(c) for c in (
-        0xFF0C,  # ，полноширинная запятая
-        0xFF1A,  # ：двоеточие
-        0xFF1B,  # ；точка с запятой
-        0xFF01,  # ！восклицательный
-        0xFF1F,  # ？вопросительный
-        0x201D,  # ” закрывающая двойная
-        0x2019,  # ' закрывающая одинарная
-        0x300B,  # 》закрывающая книжная
-        0xFF09,  # ）закрывающая круглая
-    ))
-    _ts.ALL_CANNOT_START += _CJK_CANNOT_START
+def chrome_path():
+    for p in CHROMES:
+        if p and os.path.isfile(p):
+            return p
+    raise SystemExit(u'не найден браузер; укажите путь в EARTHLINGS_CHROME')
 
 
-def register_fonts():
-    missing = [f for _, f in FACES if not (FONT_DIR / f).is_file()]
-    assert not missing, (
-        "нет начертаний шрифта в %s: %s\n"
-        "Шрифт версионируется вместе со скриптом; если файлов нет, репозиторий "
-        "склонирован не полностью." % (FONT_DIR, ", ".join(missing)))
-    for name, file in FACES:
-        pdfmetrics.registerFont(TTFont(name, str(FONT_DIR / file)))
-    pdfmetrics.registerFontFamily(FAMILY, normal=FAMILY, bold=FAMILY + "-Bold",
-                                  italic=FAMILY + "-Italic",
-                                  boldItalic=FAMILY + "-BoldItalic")
+# ------------------------------------------------------------------- сервер
+
+class Handler(SimpleHTTPRequestHandler):
+    u"""Отдаёт `_v2`, при промахе - боевое дерево. Тот же откат, что в vhost."""
+
+    misses = []
+
+    def translate_path(self, path):
+        rel = path.split('?', 1)[0].split('#', 1)[0].lstrip('/')
+        rel = os.path.normpath(rel.replace('/', os.sep))
+        if rel.startswith('..'):
+            return os.path.join(V2, 'нет-такого')
+        a = os.path.join(V2, rel)
+        if os.path.exists(a):
+            return a
+        b = os.path.join(SITE, rel)
+        if not os.path.exists(b):
+            Handler.misses.append(path)
+        return b
+
+    def log_message(self, *a):
+        pass
 
 
-def check_coverage(chunks):
-    """Каждый знак текста должен быть в шрифте.
+def serve():
+    srv = ThreadingHTTPServer(('127.0.0.1', 0), Handler)
+    threading.Thread(target=srv.serve_forever, daemon=True).start()
+    return srv, srv.server_address[1]
 
-    Субсет опасен тем, что молчит: знака нет - reportlab рисует пустой
-    прямоугольник и собирает файл без единой жалобы. Заметить это можно
-    только глазами и только открыв PDF. Поэтому сверяем заранее и падаем с
-    перечнем недостающих знаков: тихая порча превращается в громкую ошибку.
+
+# -------------------------------------------------------------- колонтитул
+
+def page_text(src):
+    u"""Видимый текст страницы: то, что обязано оказаться в PDF."""
+    s = io.open(src, encoding='utf-8').read()
+    i, j = s.find('<main'), s.find('</main>')
+    assert i > 0 and j > i, (src, u'в странице не найден <main>')
+    body = re.sub(r'<[^>]+>', ' ', s[i:j])
+    body = re.sub(r'&[a-z]+;|&#\d+;', ' ', body)
+    return re.sub(r'\s+', '', body)
+
+
+def stamp(path):
+    u"""Ставит колонтитул и приводит метаданные к постоянным.
+
+    Chrome штампует в файл время печати, и один и тот же текст даёт разные
+    байты при каждом прогоне. В репозитории это означало бы правку бинарника
+    на каждом запуске - в том числе из хуков.
     """
-    have = set()
-    for name, _ in FACES:
-        have |= set(pdfmetrics.getFont(name).face.charToGlyph)
-    missing = sorted({ord(c) for text in chunks for c in text
-                      if ord(c) not in have and not c.isspace()})
-    assert not missing, (
-        "в шрифте нет %d знаков текста: %s\n"
-        "Если это китайский, перепеките субсет: "
-        "python _tools/make_cjk_subset.py <NotoSerifSC[wght].ttf>"
-        % (len(missing), " ".join("%s U+%04X" % (chr(c), c) for c in missing[:30])))
+    assert os.path.isfile(FOOT_FONT), FOOT_FONT
+    doc = fitz.open(path)
+    assert doc.page_count, u'в PDF ни одной страницы'
+    font = fitz.Font(fontfile=FOOT_FONT)
+    for i, page in enumerate(doc, 1):
+        text = '%s    %d' % (FOOT_TEXT, i)
+        w = font.text_length(text, FOOT_SIZE)
+        page.insert_text(
+            fitz.Point((page.rect.width - w) / 2, page.rect.height - FOOT_UP),
+            text, fontfile=FOOT_FONT, fontname='ptserif',
+            fontsize=FOOT_SIZE, color=FOOT_COLOR)
+    doc.set_metadata({'producer': 'earth-lings.org', 'creator': '',
+                      'title': '', 'author': '', 'subject': '',
+                      'keywords': '', 'creationDate': '', 'modDate': ''})
+    doc.xref_set_key(-1, 'ID', '[<00><00>]')
+    # Полная пересборка файла поверх самого себя запрещена библиотекой, а
+    # инкрементальная оставила бы в файле обе версии - и старую, и штампованную.
+    tmp = path + '.tmp'
+    doc.save(tmp, garbage=4, deflate=True)
+    doc.close()
+    os.replace(tmp, path)
+    fixed_id(path)
 
 
-def parse_source():
-    """Достаёт из страницы заголовок, абзацы, подпись и надпись кнопки."""
-    assert SRC.is_file(), f"нет исходника {SRC}"
-    raw = SRC.read_text(encoding="utf-8")
-    assert len(raw) > 1000, "исходник подозрительно короткий"
+def fixed_id(path):
+    u"""Гасит случайный идентификатор в конце файла.
 
-    title = re.search(r'<h1[^>]*class="doc-title"[^>]*>(.*?)</h1>', raw, re.S)
-    assert title, "не найден заголовок"
-    title = strip_tags(title.group(1))
-
-    lead = raw.split('<section class="lead col">')
-    assert len(lead) == 2, "не найдена секция с текстом"
-    # Режем по концу секции, а не читаем до конца файла. За </section> лежат
-    # подпись, ссылка на скачивание и подвал; ссылка на скачивание внутри
-    # самого PDF - бессмыслица («Скачать Обращение в PDF» на его же странице),
-    # а на боевой главной она туда и попадала, пока её не выключили по классу.
-    sec = lead[1].split("</section>")[0]
-    blocks = re.findall(r'<p([^>]*)>(.*?)</p>', sec, re.S)
-    assert blocks, "не найдены абзацы"
-
-    # Подпись живёт вне секции - забирается отдельно, а не перебором абзацев.
-    sign = re.search(r'<p class="sign">(.*?)</p>', raw, re.S)
-    assert sign, "не найдена подпись"
-    sign = strip_tags(sign.group(1))
-
-    # Надпись кнопки - последний абзац секции, и он обязан быть целиком
-    # полужирным. На боевой главной он был размечен class="onward" и нёс
-    # ссылку; в черновике это обычный абзац мастера - **Мы выбираем друг
-    # друга.** - и отличить его можно только так. Проверка не косметическая:
-    # без неё призыв молча уехал бы в текст, а кнопка получила бы случайную
-    # фразу. Инвариант держится на всех девяти языках.
-    _cta_attrs, _cta_inner = blocks[-1]
-    _cta_inner = _cta_inner.strip()
-    assert _cta_inner.startswith("<strong>") and _cta_inner.endswith("</strong>"), (
-        "последний абзац Обращения не выделен целиком - надпись кнопки взять "
-        "неоткуда: %r" % strip_tags(_cta_inner)[:60])
-    cta = strip_tags(_cta_inner)
-
-    body = [to_rl(inner) for _attrs, inner in blocks[:-1]]
-    assert len(body) > 10, f"абзацев всего {len(body)} - похоже, разбор сломался"
-    return title, body, sign, cta
+    Второй элемент `/ID` библиотека пересобирает на каждом сохранении, и он
+    единственное, чем два файла с одинаковым текстом отличаются друг от друга.
+    Заменяется НА ТУ ЖЕ ДЛИНУ: в PDF после таблицы ссылок стоит смещение, и
+    сдвиг байтов сломал бы файл.
+    """
+    raw = io.open(path, 'rb').read()
+    m = re.search(br'/ID\s*\[\s*<([0-9A-Fa-f]*)>\s*<([0-9A-Fa-f]*)>', raw)
+    assert m, u'в файле нет /ID - проверьте, чем он сохранён'
+    for g in (1, 2):
+        a, b = m.span(g)
+        raw = raw[:a] + b'0' * (b - a) + raw[b:]
+    io.open(path, 'wb').write(raw)
 
 
-def strip_tags(s):
-    return html.unescape(re.sub(r"<[^>]+>", "", s)).strip()
+# ------------------------------------------------------------------ сборка
+
+def build(lang, port, browser):
+    src = os.path.join(V2, lang, 'manifest.html')
+    assert os.path.isfile(src), u'нет страницы Обращения: %s' % src
+    name = BY_LANG.get(lang)
+    assert name, u'язык %r не назван в BY_LANG' % lang
+
+    out = os.path.join(V2, 'downloads', name)
+    assert os.path.abspath(out).startswith(os.path.abspath(V2) + os.sep), (
+        u'выход обязан лежать внутри _v2: %s' % out)
+    if not os.path.isdir(os.path.dirname(out)):
+        os.makedirs(os.path.dirname(out))
+
+    Handler.misses[:] = []
+    profile = tempfile.mkdtemp(prefix='earthlings-print-')
+    subprocess.run(
+        [browser, '--headless=new', '--disable-gpu', '--no-pdf-header-footer',
+         '--user-data-dir=' + profile, '--virtual-time-budget=15000',
+         '--print-to-pdf=' + out,
+         'http://127.0.0.1:%d/%s/manifest.html' % (port, lang)],
+        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=180)
+
+    assert not Handler.misses, (
+        u'браузер не получил %d файл(ов) и подставил бы системный шрифт: %s'
+        % (len(Handler.misses), ', '.join(sorted(set(Handler.misses))[:5])))
+    assert os.path.isfile(out) and os.path.getsize(out) > 20000, (
+        u'PDF не собрался или пуст: %s' % out)
+
+    stamp(out)
+
+    doc = fitz.open(out)
+    pages = doc.page_count
+    text = ''.join(p.get_text() for p in doc)
+    doc.close()
+    assert pages >= 2, u'%s: страниц всего %d - похоже, текст не дошёл' % (lang, pages)
+    assert FOOT_TEXT in text, u'%s: колонтитул не встал' % lang
+
+    # Сколько знаков «много» - зависит от письменности: китайский говорит то же
+    # самое втрое короче русского. Поэтому сверяемся не с числом, а с самой
+    # страницей: в PDF обязано попасть почти всё, что на ней написано.
+    want = len(page_text(src))
+    got = len(text) - pages * (len(FOOT_TEXT) + 5)
+    assert want and got > want * 0.8, (
+        u'%s: на странице %d знаков, в PDF %d - текст дошёл не весь'
+        % (lang, want, got))
+    return name, pages, os.path.getsize(out) // 1024
 
 
-def to_rl(inner):
-    """HTML абзаца - в разметку reportlab: из тегов остаётся только жирный."""
-    s = re.sub(r"</?strong>", lambda m: "<b>" if m.group(0) == "<strong>" else "</b>", inner)
-    s = re.sub(r"<(?!/?b>)[^>]+>", "", s)
-    return re.sub(r"\s+", " ", s).strip()
+def main():
+    args = [a for a in sys.argv[1:] if not a.startswith('-')]
+    if '--theme' in sys.argv:
+        i = sys.argv.index('--theme')
+        if i + 1 < len(sys.argv) and sys.argv[i + 1] in args:
+            args.remove(sys.argv[i + 1])
+    langs = sorted(BY_LANG) if (not args or args == ['all']) else args
+
+    assert os.path.isdir(V2), u'нет каталога черновика: %s' % V2
+    assert os.path.isdir(os.path.join(SITE, 'fonts')), (
+        u'нет общего каталога шрифтов - откат для woff2 работать не будет')
+
+    browser = chrome_path()
+    srv, port = serve()
+    print('')
+    print(u'PDF ОБРАЩЕНИЯ: печать страниц браузером')
+    print('=' * 62)
+    try:
+        for lang in langs:
+            name, pages, kb = build(lang, port, browser)
+            print(u'  %-3s %-32s %2d стр.  %3d КБ' % (lang, name, pages, kb))
+    finally:
+        srv.shutdown()
+    print('=' * 62)
+    print(u'собрано: %d' % len(langs))
+    return 0
 
 
-def check_typography(chunks):
-    bad = {}
-    for text in chunks:
-        for ch in text:
-            if ord(ch) in FORBIDDEN and ord(ch) not in ALLOWED:
-                bad.setdefault(FORBIDDEN[ord(ch)], 0)
-                bad[FORBIDDEN[ord(ch)]] += 1
-    return bad
-
-
-class LinkButton(Flowable):
-    """Кнопка с рамкой; кликабельна вся площадь, не только надпись."""
-
-    def __init__(self, text, url, font="Manifest-Bold", size=13, pad_x=26, pad_y=13):
-        super().__init__()
-        self.text, self.url, self.font, self.size = text, url, font, size
-        self.pad_x, self.pad_y = pad_x, pad_y
-        self.box_w = pdfmetrics.stringWidth(text, font, size) + pad_x * 2
-        self.box_h = size + pad_y * 2
-
-    def wrap(self, avail_w, avail_h):
-        self.avail_w = avail_w
-        return avail_w, self.box_h
-
-    def draw(self):
-        c = self.canv
-        x = (self.avail_w - self.box_w) / 2
-        c.setStrokeColor(NAVY)
-        c.setLineWidth(0.9)
-        c.rect(x, 0, self.box_w, self.box_h, stroke=1, fill=0)
-        c.setFillColor(NAVY)
-        c.setFont(self.font, self.size)
-        c.drawCentredString(self.avail_w / 2, self.pad_y + self.size * 0.24, self.text)
-        # Хотспот чуть шире рамки: попасть в кнопку на телефоне должно быть легко.
-        c.linkURL(self.url, (x - 2, -2, x + self.box_w + 2, self.box_h + 2),
-                  relative=1, thickness=0)
-
-
-class Rule(Flowable):
-    """Двойное правило под заголовком - тот же приём, что .rule-double на сайте."""
-
-    def __init__(self, width=150, gap=4):
-        super().__init__()
-        self.w, self.gap = width, gap
-
-    def wrap(self, avail_w, avail_h):
-        self.avail_w = avail_w
-        return avail_w, self.gap + 2
-
-    def draw(self):
-        c = self.canv
-        x = (self.avail_w - self.w) / 2
-        c.setStrokeColor(GOLD)
-        c.setLineWidth(1.4)
-        c.line(x, self.gap, x + self.w, self.gap)
-        c.setStrokeColor(RULE)
-        c.setLineWidth(0.6)
-        c.line(x, 0, x + self.w, 0)
-
-
-class ShortRule(Flowable):
-    def __init__(self, width=64):
-        super().__init__()
-        self.w = width
-
-    def wrap(self, avail_w, avail_h):
-        self.avail_w = avail_w
-        return avail_w, 1
-
-    def draw(self):
-        c = self.canv
-        x = (self.avail_w - self.w) / 2
-        c.setStrokeColor(RULE)
-        c.setLineWidth(0.6)
-        c.line(x, 0, x + self.w, 0)
-
-
-def build():
-    register_fonts()
-    title, body, sign, cta = parse_source()
-
-    bad = check_typography([title, sign, cta] + body)
-    assert not bad, f"запрещённая типографика в исходнике: {bad}"
-    check_coverage([title, sign, cta] + body)
-
-    # Режим переноса задаётся один раз здесь и раздаётся всем стилям: забыть
-    # его в одном из трёх - значит получить ровно один разъехавшийся блок.
-    wrap = {"wordWrap": WORD_WRAP} if WORD_WRAP else {}
-    st_body = ParagraphStyle("body", fontName="Manifest", fontSize=11, leading=17.5,
-                             alignment=TA_JUSTIFY, spaceAfter=10, textColor=INK,
-                             firstLineIndent=0, **wrap)
-    st_title = ParagraphStyle("title", fontName="Manifest-Bold", fontSize=23, leading=29,
-                              alignment=TA_CENTER, textColor=NAVY, spaceAfter=0, **wrap)
-    st_sign = ParagraphStyle("sign", fontName="Manifest-Italic", fontSize=10.5, leading=15,
-                             alignment=TA_CENTER, textColor=INK_SOFT, **wrap)
-
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    doc = BaseDocTemplate(
-        str(OUT), pagesize=A4,
-        leftMargin=2.6 * cm, rightMargin=2.6 * cm,
-        topMargin=2.2 * cm, bottomMargin=2.0 * cm,
-        title=title, author=sign, subject="%s - Earthlings" % title,
-        creator="earth-lings.org", lang=LANG,
-    )
-
-    def decorate(canvas, docobj):
-        canvas.saveState()
-        canvas.setFillColor(PAGE_BG)
-        canvas.rect(0, 0, A4[0], A4[1], stroke=0, fill=1)
-        canvas.setFont(FAMILY, 8.5)
-        canvas.setFillColor(INK_SOFT)
-        canvas.drawCentredString(A4[0] / 2, 1.15 * cm, f"earth-lings.org    {docobj.page}")
-        canvas.linkURL(SITE, (A4[0] / 2 - 60, 1.05 * cm, A4[0] / 2 + 60, 1.05 * cm + 11),
-                       relative=0, thickness=0)
-        canvas.restoreState()
-
-    frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="main")
-    doc.addPageTemplates([PageTemplate(id="page", frames=[frame], onPage=decorate)])
-
-    flow = [Paragraph(title, st_title), Spacer(1, 20), Rule(), Spacer(1, 26)]
-    for p in body:
-        flow.append(Paragraph(p, st_body))
-    # Порядок как на странице: текст, кнопка, подпись. Подпись последней -
-    # иначе она читается меткой голоса и сужает «мы» текста до команды.
-    flow += [Spacer(1, 24), LinkButton(cta, CTA_URL),
-             Spacer(1, 24), ShortRule(), Spacer(1, 12), Paragraph(sign, st_sign)]
-
-    doc.build(flow)
-
-    assert OUT.is_file() and OUT.stat().st_size > 20000, "PDF не собрался или пуст"
-    print(f"собрано: {OUT.relative_to(ROOT)}  {OUT.stat().st_size // 1024} КБ")
-    print(f"абзацев: {len(body)}   кнопка: {cta!r} -> {CTA_URL}")
-
-
-if __name__ == "__main__":
-    sys.exit(build())
+if __name__ == '__main__':
+    if hasattr(sys.stdout, 'reconfigure'):
+        sys.stdout.reconfigure(errors='replace')
+    sys.exit(main())

@@ -189,8 +189,8 @@ SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
 #
 # Китайский PDF собран 20 августа и попал только в боевое дерево (коммит
 # 342ea2e): кнопку добавили на боевую главную, а в эту таблицу - нет. Здесь он
-# добавлен. Арабского PDF не существует: сборка Обращения на арабском
-# заблокирована движком, это отдельный открытый вопрос. Хинди ждёт перевода.
+# добавлен. Арабский и хинди появились 27 августа, когда генератор перешёл
+# на печать страницы браузером: reportlab не шьёт ни вязь, ни деванагари.
 #
 # Имена файлов сменились 2026-08-26 вслед за переименованием: прежние
 # manifest-*/manifesto-of-belonging-* никуда не рассылались, ломать было
@@ -204,6 +204,10 @@ PDF = {
     'es': ('/downloads/un-mensaje-a-todos-es.pdf', u'Descargar el mensaje en PDF'),
     'ka': ('/downloads/an-address-to-everyone-ka.pdf', u'ჩამოტვირთეთ მიმართვა PDF-ად'),
     'zh': ('/downloads/an-address-to-everyone-zh.pdf', u'下载《致所有人》PDF'),
+    'ar': ('/downloads/an-address-to-everyone-ar.pdf',
+           u'تحميل الرسالة بصيغة PDF'),
+    'hi': ('/downloads/an-address-to-everyone-hi.pdf',
+           u'संबोधन PDF में डाउनलोड करें'),
 }
 
 
@@ -348,7 +352,8 @@ def head(lang, url, title, desc, path, extra_css=()):
            '<link rel="stylesheet" href="/css/tokens.css">',
            '<link rel="stylesheet" href="/css/chrome.css">',
            '<link rel="stylesheet" href="/css/doc.css">'] + list(extra_css) \
-        + C.script_css(lang)
+        + C.script_css(lang) \
+        + ['<link rel="stylesheet" href="/css/print.css">']
     return '\n'.join([
         '<!DOCTYPE html>',
         '<html lang="%s"%s>' % (lang, ' dir="rtl"' if lang in C.RTL else ''),
