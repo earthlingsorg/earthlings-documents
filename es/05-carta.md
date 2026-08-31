@@ -22,7 +22,7 @@ Cada voto es igual, cada decisión es transparente, cada acto es verificable.
 
 **Ética = orientación.** El Consejo Independiente formula recomendaciones, pero no gobierna.
 
-**Todo encargo es revocable.** Una facultad que no pueda revocarse de inmediato y con un umbral inferior no se otorga en el pueblo Earthlings. Ningún encargo constituye un cargo ni confiere el derecho exclusivo de actuar.
+**Todo encargo es revocable.** Una facultad que no pueda revocarse de inmediato y con un umbral inferior no se otorga en el pueblo Earthlings. Ningún encargo constituye un cargo ni confiere el derecho exclusivo de actuar. La falta de rendición de cuentas es por sí sola motivo de revocación del encargo.
 
 ---
 
@@ -519,14 +519,16 @@ Por regla general el pasaporte SBT solo lo destruye su propio titular (artículo
 
 Un pasaporte puede anularse si se establece que fue emitido infringiendo las condiciones de emisión: se emitió a una misma persona más de un pasaporte en vigor, o la verificación se pasó con datos falsos o con la identidad de otra persona, o el pasaporte se emitió a quien no había alcanzado la edad establecida en la presente Carta. La lista de fundamentos es cerrada y se corresponde con el artículo 8 de la Declaración.
 
-Si a una misma persona se le ha emitido más de un pasaporte en vigor, se anula la emisión de todos salvo el primero. La pertenencia de la persona al pueblo se conserva.
+Si a una misma persona se le ha emitido más de un pasaporte en vigor, se anula la emisión de todos salvo el primero. La pertenencia de la persona al pueblo se conserva. En los otros dos casos - datos falsos o identidad ajena, y no haber alcanzado la edad establecida - junto con la emisión del pasaporte tampoco nació lícitamente la pertenencia misma.
 
 **Procedimiento:**
 - Inicio: escrito motivado con pruebas, presentado por cualquier earthling o por los Core Nodes a resultas de una comprobación técnica
 - Notificación al titular y plazo no inferior a 21 días para presentar objeciones; el titular puede recabar el apoyo de otros Earthlings
-- Dictamen del Consejo Independiente (si no existe, se duplica el plazo de debate). El dictamen es una opinión: no sustituye a la decisión de los participantes, no la prejuzga y no los vincula (Declaración, artículo 11)
+- Dictamen del Consejo Independiente (si no existe, se duplica el plazo de debate). El dictamen es una opinión: no sustituye a la decisión de los participantes, no la prejuzga y no los vincula
 - Votación: **mayoría sancionadora del 75% con quórum del 25%, secreta y sin delegación**
 - Recurso en el plazo de 30 días; para anular la decisión basta la mayoría simple (51%, quórum 20%)
+
+La cuestión la examinan los propios participantes: aquellos que no la plantearon. El recurso se dirige a la Asamblea. No se crea ningún órgano permanente que resuelva tales cuestiones en lugar de los participantes: el pueblo Earthlings no tiene tribunal.
 
 La anulación no es una expulsión del pueblo y no se aplica como medida de responsabilidad por la conducta. Solo establece que la emisión no llegó a producirse válidamente. La persona cuyo pasaporte se ha anulado puede pasar de nuevo la verificación en las condiciones generales si se ha removido el impedimento a una emisión válida.
 
@@ -703,6 +705,8 @@ Están previstas una auditoría independiente de los contratos inteligentes y un
 ## Artículo 30. Apertura del código
 
 Es abierto el código del contrato inteligente del pasaporte (licencia MIT). El código de la plataforma y del sistema de verificación de identidad es cerrado: trabajan con datos personales. La lista con sus motivos está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html).
+
+Que el código sea cerrado no significa que las reglas lo sean. La infraestructura que trabaja con datos personales está cerrada a la copia, pero no a la comprobación: sus reglas, umbrales y procedimientos se publican íntegramente, y a partir de ellos puede construirse de nuevo.
 
 ---
 

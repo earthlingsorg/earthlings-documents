@@ -22,7 +22,7 @@ Every vote is equal, every decision is transparent, every action is verifiable.
 
 **Ethics = a reference point.** The Independent Council gives recommendations but does not govern.
 
-**Every mandate is revocable.** No power is granted in the Earthlings people that cannot be revoked immediately and by no higher a threshold than the one that granted it. No mandate constitutes an office and none confers an exclusive right to act.
+**Every mandate is revocable.** No power is granted in the Earthlings people that cannot be revoked immediately and by no higher a threshold than the one that granted it. No mandate constitutes an office and none confers an exclusive right to act. Failure to render an account is in itself a ground for revoking the mandate.
 
 ---
 
@@ -519,14 +519,16 @@ As a general rule an SBT passport is burned only by the holder themselves (Artic
 
 A passport may be annulled if it is established that it was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using false data or another person's identity, or the passport was issued to a person below the age established by this Charter. The list of grounds is closed and corresponds to Article 8 of the Declaration.
 
-If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. The person's belonging to the people is preserved.
+If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. The person's belonging to the people is preserved. In the two other cases - false particulars or another person's identity, and failure to reach the established age - belonging itself likewise did not lawfully arise together with the issuance of the passport.
 
 **Procedure:**
 - Initiation: a substantiated submission with evidence, made by any earthling or by Core Nodes following a technical check
 - Notice to the holder and a period of not less than 21 days to submit objections; the holder may enlist other Earthlings in their support
-- An opinion of the Independent Council (in its absence, the discussion period is doubled). The opinion is an opinion: it does not replace the decision of the participants, does not predetermine it, and does not bind them (Declaration, Article 11)
+- An opinion of the Independent Council (in its absence, the discussion period is doubled). The opinion is an opinion: it does not replace the decision of the participants, does not predetermine it, and does not bind them
 - Vote: **sanction majority of 75% at a quorum of 25%, secret, without delegation**
 - Appeal within 30 days; a simple majority (51%, quorum 20%) is enough to overturn the decision
+
+The question is examined by the participants themselves - those who did not raise it. An appeal goes to the Assembly. No permanent body deciding such questions in place of the participants is created: the Earthlings people has no court.
 
 Annulment is not expulsion from the people and is not applied as a measure of liability for conduct. It establishes only that the issuance did not lawfully take place. A person whose passport has been annulled has the right to undergo verification again on general terms, once the impediment to lawful issuance has been removed.
 
@@ -703,6 +705,8 @@ An independent audit of the smart contracts and a vulnerability bounty program a
 ## Article 30. Openness of the Code
 
 The code of the passport smart contract is open (MIT license). The code of the platform and of the identity verification system is closed: they work with personal data. The list, with reasons, is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html).
+
+A closed code does not mean closed rules. The infrastructure that works with personal data is closed to copying but not to verification: its rules, thresholds and procedures are published in full, and it can be built anew from them.
 
 ---
 

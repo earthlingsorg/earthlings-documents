@@ -22,7 +22,7 @@ Chaque voix est égale, chaque décision est transparente, chaque acte est véri
 
 **Éthique = repère.** Le Conseil indépendant formulera des recommandations, sans gouverner.
 
-**Toute mission est révocable.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil inférieur n'est pas confié dans le peuple des Earthlings. Aucune mission ne crée de fonction ni ne donne le droit exclusif d'agir.
+**Toute mission est révocable.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil inférieur n'est pas confié dans le peuple des Earthlings. Aucune mission ne crée de fonction ni ne donne le droit exclusif d'agir. Le défaut de compte rendu est en lui-même un motif de révocation de la mission.
 
 ---
 
@@ -519,14 +519,16 @@ En règle générale, le passeport SBT n'est détruit que par son titulaire lui-
 
 Un passeport peut être annulé s'il est établi qu'il a été délivré en méconnaissance des conditions de délivrance: plus d'un passeport valide délivré à une même personne, ou vérification effectuée au moyen de données falsifiées ou de l'identité d'autrui, ou passeport délivré à une personne n'ayant pas atteint l'âge établi par la présente Charte. La liste des motifs est fermée et correspond à l'article 8 de la Déclaration.
 
-Si plus d'un passeport valide a été délivré à une même personne, la délivrance de tous est annulée sauf celle du premier délivré. L'appartenance de la personne au peuple est alors maintenue.
+Si plus d'un passeport valide a été délivré à une même personne, la délivrance de tous est annulée sauf celle du premier délivré. L'appartenance de la personne au peuple est alors maintenue. Dans les deux autres cas - données falsifiées ou identité d'autrui, et âge établi non atteint - l'appartenance elle-même n'est pas née licitement avec la délivrance du passeport.
 
 **Procédure:**
 - Déclenchement: mémoire motivé avec preuves, déposé par tout earthling ou par les Core Nodes à la suite d'une vérification technique
 - Notification du titulaire et délai d'au moins 21 jours pour présenter ses objections; le titulaire a le droit d'appeler d'autres Earthlings à son soutien
-- Avis du Conseil indépendant (à défaut, doublement du délai de débat). L'avis est une opinion: il ne remplace pas la décision des participants, ne la préjuge pas et ne les lie pas (Déclaration, article 11)
+- Avis du Conseil indépendant (à défaut, doublement du délai de débat). L'avis est une opinion: il ne remplace pas la décision des participants, ne la préjuge pas et ne les lie pas
 - Vote: **majorité de sanction de 75% avec un quorum de 25%, secret, sans délégation**
 - Recours dans les 30 jours; la majorité simple (51%, quorum 20%) suffit pour annuler la décision
+
+La question est examinée par les participants eux-mêmes - ceux qui ne l'ont pas soulevée. Le recours est porté devant l'Assemblée. Il n'est créé aucun organe permanent qui trancherait de telles questions à la place des participants: le peuple des Earthlings n'a pas de tribunal.
 
 L'annulation n'est pas une exclusion du peuple et ne s'applique pas comme sanction d'un comportement. Elle établit seulement que la délivrance n'a pas régulièrement eu lieu à l'origine. La personne dont le passeport est annulé a le droit de refaire vérifier son identité dans les conditions de droit commun, si l'obstacle à une délivrance régulière est levé.
 
@@ -703,6 +705,8 @@ Un audit indépendant des contrats intelligents et un programme de recherche de 
 ## Article 30. L'ouverture du code
 
 Le code du contrat intelligent du passeport est ouvert (licence MIT). Le code de la plateforme et du système de vérification d'identité est fermé: ils traitent des données personnelles. La liste avec les motifs figure dans le document [Où nous en sommes](https://earth-lings.org/documents/fr/fr32-ou-nous-en-sommes.html).
+
+Un code fermé ne signifie pas des règles fermées. L'infrastructure qui traite des données personnelles est fermée à la copie, mais non à la vérification: ses règles, ses seuils et ses procédures sont publiés intégralement, et elle peut être rebâtie à partir d'eux.
 
 ---
 

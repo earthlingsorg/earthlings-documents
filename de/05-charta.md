@@ -22,7 +22,7 @@ Jede Stimme ist gleich, jeder Beschluss ist durchsichtig, jede Handlung überpr�
 
 **Ethik = Richtschnur.** Der Unabhängige Rat gibt Empfehlungen, verwaltet aber nicht.
 
-**Jeder Auftrag ist widerruflich.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle widerrufen lässt, wird im Volk der Earthlings nicht erteilt. Kein Auftrag begründet ein Amt und gibt kein ausschließliches Recht zu handeln.
+**Jeder Auftrag ist widerruflich.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle widerrufen lässt, wird im Volk der Earthlings nicht erteilt. Kein Auftrag begründet ein Amt und gibt kein ausschließliches Recht zu handeln. Das Ausbleiben der Rechenschaft ist für sich genommen ein Grund, den Auftrag zu widerrufen.
 
 ---
 
@@ -519,14 +519,16 @@ In der Regel wird ein SBT-Pass nur vom Inhaber selbst entwertet (Artikel 18). Di
 
 Ein Pass kann aufgehoben werden, wenn festgestellt ist, dass er unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde: Einem Menschen ist mehr als ein gültiger Pass ausgegeben worden, oder die Prüfung wurde unter Verwendung falscher Angaben oder der Identität eines anderen durchlaufen, oder der Pass wurde einer Person ausgegeben, die das von dieser Charta festgelegte Alter nicht erreicht hat. Die Aufzählung der Gründe ist abschließend und entspricht Artikel 8 der Erklärung.
 
-Ist einem Menschen mehr als ein gültiger Pass ausgegeben worden, so wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben. Die Zugehörigkeit des Menschen zum Volk bleibt dabei bestehen.
+Ist einem Menschen mehr als ein gültiger Pass ausgegeben worden, so wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben. Die Zugehörigkeit des Menschen zum Volk bleibt dabei bestehen. In den beiden anderen Fällen - unrichtige Angaben oder die Identität eines anderen sowie das Nichterreichen des festgelegten Alters - ist mit der Ausgabe des Passes auch die Zugehörigkeit selbst nicht rechtmäßig entstanden.
 
 **Das Verfahren:**
 - Einleitung: eine begründete Darlegung mit Nachweisen, eingereicht von einem beliebigen Earthling oder von den Core Nodes aufgrund einer technischen Prüfung
 - Benachrichtigung des Inhabers und eine Frist von mindestens 21 Tagen zur Vorbringung von Einwendungen; der Inhaber ist befugt, andere Earthlings zu seiner Unterstützung heranzuziehen
-- Stellungnahme des Unabhängigen Rates (fehlt er, so verdoppelt sich die Frist der Beratung). Die Stellungnahme ist eine Meinung: Sie ersetzt die Entscheidung der Teilnehmer nicht, nimmt sie nicht vorweg und bindet sie nicht (Erklärung, Artikel 11)
+- Stellungnahme des Unabhängigen Rates (fehlt er, so verdoppelt sich die Frist der Beratung). Die Stellungnahme ist eine Meinung: Sie ersetzt die Entscheidung der Teilnehmer nicht, nimmt sie nicht vorweg und bindet sie nicht
 - Abstimmung: **Sanktionsmehrheit 75 % bei einem Quorum von 25 %, geheim, ohne Übertragung**
 - Beschwerde binnen 30 Tagen; zur Aufhebung der Entscheidung genügt eine einfache Mehrheit (51 %, Quorum 20 %)
+
+Die Frage prüfen die Teilnehmer selbst - diejenigen, die sie nicht aufgeworfen haben. Die Beschwerde geht an die Vollversammlung. Ein ständiges Organ, das solche Fragen anstelle der Teilnehmer entscheidet, wird nicht geschaffen: ein Gericht hat das Volk der Earthlings nicht.
 
 Die Aufhebung ist kein Ausschluss aus dem Volk und wird nicht als Sanktion für ein Verhalten angewandt. Sie stellt nur fest, dass die Ausgabe von Anfang an nicht rechtmäßig zustande gekommen ist. Ein Mensch, dessen Pass aufgehoben wurde, ist befugt, die Prüfung unter den allgemeinen Voraussetzungen erneut zu durchlaufen, wenn das Hindernis für eine rechtmäßige Ausgabe beseitigt ist.
 
@@ -703,6 +705,8 @@ Eine unabhängige Prüfung der Smart Contracts und ein Programm zur Suche nach S
 ## Artikel 30. Die Offenheit des Codes
 
 Offen ist der Code des Smart Contracts des Passes (Lizenz MIT). Der Code der Plattform und des Systems der Identitätsprüfung ist verschlossen: Sie arbeiten mit personenbezogenen Daten. Die Aufzählung mit den Gründen steht im Dokument [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html).
+
+Geschlossener Code bedeutet nicht geschlossene Regeln. Die Infrastruktur, die mit personenbezogenen Daten arbeitet, ist dem Kopieren verschlossen, nicht aber der Prüfung: ihre Regeln, Schwellen und Verfahren werden vollständig veröffentlicht, und nach ihnen lässt sie sich neu errichten.
 
 ---
 
