@@ -197,7 +197,15 @@ EXTRA = {
     # языках, где анонс написан: он не пересказывает текст, а называет причину,
     # и кнопка обязана обещать то же самое. Языки добавляются вместе с анонсом
     # в ANNOUNCE (build_home_v2.py) - порознь получится кнопка не про то.
-    'why_we_do_this': {'ru': u'Зачем мы это делаем'},
+    'why_we_do_this': {'ru': u'Зачем мы это делаем',
+                       'en': u'Why we are doing this',
+                       'de': u'Warum wir das tun',
+                       'fr': u'Pourquoi nous faisons cela',
+                       'es': u'Por qué hacemos esto',
+                       'ka': u'რატომ ვაკეთებთ ამას',
+                       'zh': u'我们为什么做这件事',
+                       'ar': u'لماذا نفعل هذا',
+                       'hi': u'हम यह क्यों कर रहे हैं'},
     'read_manifesto': {'ru': u'Читать Обращение', 'en': u'Read the Address',
                        'es': u'Leer el mensaje', 'de': u'Ansprache lesen',
                        'fr': u'Lire le message', 'zh': u'阅读《致所有人》',

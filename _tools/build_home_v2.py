@@ -192,6 +192,33 @@ LEGAL_LEAD_DOC = '30'
 # Поэтому таблица либо пуста, либо заполнена на девять языков. Заполняется она
 # в той же сессии, которая ставит новые мастера, - одним заходом.
 ANNOUNCE = {
+    'ru': [u'«Международные организации». Между народами - вот как это читается.',
+            u'Но народов там нет. Есть государства, которые говорят за них.',
+            u'Мы учреждаем народ, который будет говорить сам.'],
+    'en': [u'"International organizations". Between nations - that is how it reads.',
+            u'But the peoples are not there. There are states that speak for them.',
+            u'We are founding a people that will speak for itself.'],
+    'de': [u'„Internationale Organisationen“. Zwischen den Nationen - so liest es sich.',
+            u'Doch die Völker sind dort nicht. Es sind Staaten, die für sie sprechen.',
+            u'Wir gründen ein Volk, das selbst sprechen wird.'],
+    'fr': [u'« Organisations internationales ». Entre les nations - voilà ce que cela dit.',
+            u'Mais les peuples n\'y sont pas. Il y a des États qui parlent pour eux.',
+            u'Nous fondons un peuple qui parlera lui-même.'],
+    'es': [u'«Organizaciones internacionales». Entre las naciones: así se lee.',
+            u'Pero los pueblos no están allí. Están los Estados, que hablan por ellos.',
+            u'Fundamos un pueblo que hablará por sí mismo.'],
+    'ka': [u'«საერთაშორისო ორგანიზაციები». ხალხთა შორის - ასე იკითხება.',
+            u'მაგრამ ხალხები იქ არ არიან. არიან სახელმწიფოები, რომლებიც მათ ნაცვლად ლაპარაკობენ.',
+            u'ჩვენ ვაარსებთ ხალხს, რომელიც თავად ილაპარაკებს.'],
+    'zh': [u'“国际组织”。国与国之间——这个词就是这么读的。',
+            u'但那里没有人民。有的是代他们说话的国家。',
+            u'我们正在创立一个自己说话的人民。'],
+    'ar': [u'«المنظمات الدولية». بين الأمم - هكذا تُقرأ.',
+            u'لكن الشعوب ليست هناك. هناك دول تتكلم عنها.',
+            u'نحن نؤسس شعباً يتكلم بنفسه.'],
+    'hi': [u'«अंतरराष्ट्रीय संगठन»। राष्ट्रों के बीच - यह इसी तरह पढ़ा जाता है।',
+            u'पर वहाँ जन नहीं हैं। वहाँ राज्य हैं, जो उनकी ओर से बोलते हैं।',
+            u'हम ऐसा जन स्थापित कर रहे हैं, जो स्वयं बोलेगा।'],
 }
 
 SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
@@ -1262,6 +1289,17 @@ def main():
     langs = args or [l for l in ALL_LANGS if os.path.isfile(
         os.path.join(MANIFEST_DIR, '%s-manifest.md' % l))]
     assert langs, u'нет ни одного мастера Манифеста'
+
+    # Анонс заполнен - значит, главные переезжают на него. Переезд обязан
+    # случиться со всеми девятью в один прогон: собрать главную одного языка
+    # значит оставить восемь на прежнем отрывке и прежней кнопке. Проверено на
+    # себе: одиночный прогон `build_home_v2.py ru` ровно это и сделал.
+    if ANNOUNCE and not only_manifest:
+        assert len(langs) == len(ALL_LANGS), (
+            u'анонс заполнен, а прогон охватывает %d язык(ов) из %d. Главные '
+            u'переезжают на анонс все разом: соберите без имени языка либо '
+            u'добавьте --manifest, если нужны только страницы Обращения.'
+            % (len(langs), len(ALL_LANGS)))
 
     for lang in langs:
         assert lang in SLUGS, (
