@@ -8,7 +8,7 @@ u"""Языковая главная нового сайта: чередован�
 описанием на своём языке.
 
 Что на полосах. Порядок задан Артуром: белая, тёмно-синяя, белая, голубая, и на
-них Манифест, Учредительный период, Декларация, путь earthling с кнопкой
+них Обращение, Учредительный период, Декларация, путь earthling с кнопкой
 действия. Дальше платформа, шесть шагов и Awakened Code. Читается это снизу
 вверх как «кто мы - что происходит сейчас - чем это учреждается - как войти».
 
@@ -22,7 +22,7 @@ u"""Языковая главная нового сайта: чередован�
 
 Собирается два файла на язык:
   _v2/<язык>/index.html     - полосы
-  _v2/<язык>/manifest.html  - Манифест целиком, набранный как документ
+  _v2/<язык>/manifest.html  - Обращение целиком, набранный как документ
 
 Использование:
   python build_home_v2.py            все языки, для которых есть мастера
@@ -41,7 +41,7 @@ import chrome as C                                         # noqa: E402
 from build_site_docs import (SITE, REPO, ORIGIN, ROOT, doc_href, has_doc,
                              ALL_LANGS, md_dir, corpus_file, SLUGS)  # noqa: E402
 
-MANIFEST_DIR = os.path.join(REPO, '_manifest')
+ADDRESS_DIR = os.path.join(REPO, '_address')
 OUT = os.path.join(SITE, '_v2')
 
 # Полосы: (класс темы, что показываем, номера БЛОКОВ лида, якорь).
@@ -66,7 +66,7 @@ OUT = os.path.join(SITE, '_v2')
 # Документы названы номерами: переименование документа сюда не заглядывает,
 # заголовок полосы берётся из его H1.
 BANDS = [
-    ('white', 'manifest', [3, 5],     u'Устав ООН открывается'),
+    ('white', 'address', [3, 5],     u'Устав ООН открывается'),
     ('navy',  'doc:01',   [3, 6],     u'Настоящая редакция является'),
     ('white', 'doc:20',   [6, 9],     u'Сегодня Декларация существует'),
     # Правовая база снята с главной решением Артура 2026-08-22. Её сборка
@@ -114,14 +114,14 @@ BANDS = [
 
 # Крупная строка плаката: документ 02 «Гражданский голос», блок 243.
 #
-# Раньше строку собирали из первых трёх фраз Манифеста («Международные
+# Раньше строку собирали из первых трёх фраз Обращения («Международные
 # организации. Посмотрите на это слово внимательно. Между народами - так оно
 # читается»). Решением Артура 2026-08-22 её место заняла формулировка о
 # честной границе обещания. Она не сочинена для главной: это дословная цитата
 # из мастера, и во всех восьми языках она уже переведена - блок в блок, номер
 # один и тот же (нумерация блоков с единицы, как везде в BANDS).
 #
-# Вместе со строкой из лида ушёл блок 2 Манифеста. Он не выброшен по вкусу:
+# Вместе со строкой из лида ушёл блок 2 Обращения. Он не выброшен по вкусу:
 # крупная строка была его началом, а остаток блока открывается словом «Но»,
 # которое без неё повисает и указывает в пустоту. Блоки 3 и 5 самостоятельны
 # и говорят ровно о том же - Устав ООН и чего он не дал.
@@ -175,7 +175,7 @@ LEGAL_DOCS = ['30', '04', '05', '26']
 # чём всё стоит, без служебных оговорок про соотношение документов.
 LEGAL_LEAD_DOC = '30'
 
-# Подпись под Манифестом. Подписывают его авторы, а не народ (Учредительный
+# Подпись под Обращением. Подписывают его авторы, а не народ (Учредительный
 # период, раздел 02), поэтому здесь команда, а не «Earthlings».
 # Анонс Обращения на главной. Решение Артура: на главной стоит не отрывок из
 # текста, а короткий анонс с кнопкой «Зачем мы это делаем»; сам текст
@@ -366,11 +366,11 @@ def doc_master(num, lang):
 
 
 def load(what, lang):
-    u"""Мастер по имени полосы: 'manifest' или номер документа. Один вход на
+    u"""Мастер по имени полосы: 'address' или номер документа. Один вход на
     оба случая нужен затем, чтобы lead() могла сама поднять русский мастер и
     сверить с ним структуру, не зная, какая полоса её вызвала."""
-    if what == 'manifest':
-        return read_master(os.path.join(MANIFEST_DIR, '%s-manifest.md' % lang))
+    if what == 'address':
+        return read_master(os.path.join(ADDRESS_DIR, '%s-address.md' % lang))
     return doc_master(what, lang)
 
 
@@ -378,10 +378,10 @@ def load(what, lang):
 
 def head(lang, url, title, desc, path, extra_css=()):
     # path(код языка) -> адрес ЭТОЙ ЖЕ страницы на другом языке. Без него
-    # hreflang на странице Манифеста вёл бы на главные других языков, то есть
+    # hreflang на странице Обращения вёл бы на главные других языков, то есть
     # объявлял бы переводом не тот документ.
     langs = [l for l in ALL_LANGS if os.path.isfile(
-        os.path.join(MANIFEST_DIR, '%s-manifest.md' % l))]
+        os.path.join(ADDRESS_DIR, '%s-address.md' % l))]
     alts = ''.join(
         '<link rel="alternate" hreflang="%s" href="%s%s">\n' % (l, ORIGIN, path(l))
         for l in langs)
@@ -775,11 +775,11 @@ def poster_line(lang):
 
 
 def poster(theme, kicker, line, body, more):
-    u"""Первая полоса: Манифест плакатом.
+    u"""Первая полоса: Обращение плакатом.
 
-    Крупная строка - первые фразы Манифеста слово в слово, дальше продолжение
+    Крупная строка - первые фразы Обращения слово в слово, дальше продолжение
     того же абзаца мелким в две колонки. Картинок у сайта нет ни одной, и это
-    не беда: у Манифеста есть голос, и набранный крупно он работает лучше
+    не беда: у Обращения есть голос, и набранный крупно он работает лучше
     любой фотографии.
     """
     return u'\n'.join([
@@ -1139,7 +1139,7 @@ DOC_LINK = {'01': 'read_declaration', '14': 'what_passport_gives',
 
 
 def build_index(lang):
-    manifest = read_master(os.path.join(MANIFEST_DIR, '%s-manifest.md' % lang))
+    address = read_master(os.path.join(ADDRESS_DIR, '%s-address.md' % lang))
     bands = []
 
     for i, (theme, what, nums, anchor) in enumerate(BANDS):
@@ -1161,7 +1161,7 @@ def build_index(lang):
             assert has_doc('12', lang), u'документа 12 нет на языке %s' % lang
             bands.append(platform(theme, lang, title_of(doc_master('12', lang)),
                                   lead(load, '12', nums, anchor, lang)))
-        elif what == 'manifest':
+        elif what == 'address':
             # Либо все девять на анонсе, либо все девять на отрывке. Переезд
             # наполовину разводит главные девяти языков по смыслу - см.
             # комментарий к ANNOUNCE.
@@ -1170,9 +1170,9 @@ def build_index(lang):
                 u'переезжает всеми девятью разом.' % (len(ANNOUNCE), len(ALL_LANGS)))
             ann = ANNOUNCE.get(lang)
             bands.append(poster(
-                theme, title_of(manifest), poster_line(lang),
-                ann if ann else lead(load, 'manifest', nums, anchor, lang),
-                (C.x(lang, 'why_we_do_this' if ann else 'read_manifesto'),
+                theme, title_of(address), poster_line(lang),
+                ann if ann else lead(load, 'address', nums, anchor, lang),
+                (C.x(lang, 'why_we_do_this' if ann else 'read_addresso'),
                  '/%s/manifest.html' % lang)))
         elif what == 'legal':
             items = [(title_of(doc_master(d, lang)), doc_href(d, lang))
@@ -1199,7 +1199,7 @@ def build_index(lang):
 
     title = C.t(lang, 'page.title')
     desc = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '',
-                  md_inline(prose(manifest)[0])))[:300]
+                  md_inline(prose(address)[0])))[:300]
     inner = '<main id="main">%s</main>' % '\n'.join(bands)
     return wrap(lang, inner, '%s/%s/' % (ORIGIN, lang), title, desc,
                 lambda c: '/%s/' % c,
@@ -1209,17 +1209,17 @@ def build_index(lang):
                  '<script defer src="/js/home.js"></script>'])
 
 
-def build_manifest(lang):
-    md = read_master(os.path.join(MANIFEST_DIR, '%s-manifest.md' % lang))
+def build_address(lang):
+    md = read_master(os.path.join(ADDRESS_DIR, '%s-address.md' % lang))
     doc = md2doc.parse(md)
-    assert doc['title'], u'в Манифесте не найден заголовок H1'
+    assert doc['title'], u'в Обращении не найден заголовок H1'
     body = md2doc.render_body(doc)
 
     o = ['<main class="%s" id="main"><div class="sheet">' % ROOT,
          '<header class="doc-head"><h1 class="doc-title">%s</h1>'
          '<div class="rule-double"></div></header>' % C.esc(doc['title']),
          body]
-    assert lang in SIGN, u'нет подписи под Манифестом для языка %s' % lang
+    assert lang in SIGN, u'нет подписи под Обращением для языка %s' % lang
     o.append('<p class="sign">%s</p>' % C.esc(SIGN[lang]))
     if lang in PDF:
         href, label = PDF[lang]
@@ -1284,21 +1284,21 @@ def main():
     # документов и сверяет их с русским блок в блок, поэтому она не соберётся,
     # пока русская правка документа не разнесена по переводам. Страница
     # Обращения этой сверкой не пользуется и собирается всегда.
-    only_manifest = '--manifest' in sys.argv
+    only_address = '--address' in sys.argv
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
     langs = args or [l for l in ALL_LANGS if os.path.isfile(
-        os.path.join(MANIFEST_DIR, '%s-manifest.md' % l))]
-    assert langs, u'нет ни одного мастера Манифеста'
+        os.path.join(ADDRESS_DIR, '%s-address.md' % l))]
+    assert langs, u'нет ни одного мастера Обращения'
 
     # Анонс заполнен - значит, главные переезжают на него. Переезд обязан
     # случиться со всеми девятью в один прогон: собрать главную одного языка
     # значит оставить восемь на прежнем отрывке и прежней кнопке. Проверено на
     # себе: одиночный прогон `build_home_v2.py ru` ровно это и сделал.
-    if ANNOUNCE and not only_manifest:
+    if ANNOUNCE and not only_address:
         assert len(langs) == len(ALL_LANGS), (
             u'анонс заполнен, а прогон охватывает %d язык(ов) из %d. Главные '
             u'переезжают на анонс все разом: соберите без имени языка либо '
-            u'добавьте --manifest, если нужны только страницы Обращения.'
+            u'добавьте --address, если нужны только страницы Обращения.'
             % (len(langs), len(ALL_LANGS)))
 
     for lang in langs:
@@ -1308,9 +1308,9 @@ def main():
         d = os.path.join(OUT, lang)
         if not os.path.isdir(d) and not dry:
             os.makedirs(d)
-        pages = ([('manifest.html', build_manifest(lang))] if only_manifest
+        pages = ([('manifest.html', build_address(lang))] if only_address
                  else [('index.html', build_index(lang)),
-                       ('manifest.html', build_manifest(lang))])
+                       ('manifest.html', build_address(lang))])
         for name, page in pages:
             if not dry:
                 io.open(os.path.join(d, name), 'w', encoding='utf-8',
@@ -1322,8 +1322,8 @@ def main():
 
     # Корень собирается, только когда собраны ВСЕ девять: он ведёт на девять
     # языковых главных, и на неполном прогоне часть ссылок легла бы в 404.
-    if not only_manifest and len(langs) == len([l for l in ALL_LANGS if os.path.isfile(
-            os.path.join(MANIFEST_DIR, '%s-manifest.md' % l))]):
+    if not only_address and len(langs) == len([l for l in ALL_LANGS if os.path.isfile(
+            os.path.join(ADDRESS_DIR, '%s-address.md' % l))]):
         page = build_root()
         missing = [c for c in ALL_LANGS
                    if not os.path.isfile(os.path.join(OUT, c, 'index.html'))]

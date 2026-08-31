@@ -224,9 +224,9 @@ def load(lang):
     for f in sorted(os.listdir(d)):
         if f.endswith('.md') and f[0].isdigit():
             out[f] = io.open(os.path.join(d, f), encoding='utf-8').read()
-    m = os.path.join(REPO, '_manifest', '%s-manifest.md' % lang)
+    m = os.path.join(REPO, '_address', '%s-address.md' % lang)
     if os.path.isfile(m):
-        out['manifest'] = io.open(m, encoding='utf-8').read()
+        out['address'] = io.open(m, encoding='utf-8').read()
     assert out, 'нет мастеров в %s - переводить ещё нечего' % d
     assert all(t.strip() for t in out.values()), 'пустой файл на входе'
     return out

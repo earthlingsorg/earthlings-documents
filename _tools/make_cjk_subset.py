@@ -2,7 +2,7 @@
 
 Зачем субсет, а не шрифт целиком. Noto Serif SC несёт около 65 тысяч глифов и
 весит 25 МБ в переменном начертании; статические Regular и Bold дали бы
-десятки мегабайт в публичном репозитории. В китайском Манифесте при этом
+десятки мегабайт в публичном репозитории. В китайском Обращении при этом
 меньше пятисот уникальных иероглифов. Субсет из них весит примерно столько же,
 сколько PT Serif, лежащий рядом.
 
@@ -40,13 +40,13 @@ OUT_DIR = HERE / "fonts"
 WEIGHTS = {"NotoSerifSC-Regular.ttf": 400, "NotoSerifSC-Bold.ttf": 700}
 
 
-def manifesto_chars():
-    """Символы китайского Манифеста - разбором самого сборщика, не копией."""
+def address_chars():
+    """Символы китайского Обращения - разбором самого сборщика, не копией."""
     spec = importlib.util.spec_from_file_location(
-        "_mpdf", HERE / "build_manifesto_pdf.py")
+        "_mpdf", HERE / "build_address_pdf.py")
     mod = importlib.util.module_from_spec(spec)
     saved = sys.argv
-    sys.argv = ["build_manifesto_pdf.py", "zh"]
+    sys.argv = ["build_address_pdf.py", "zh"]
     try:
         spec.loader.exec_module(mod)
     finally:
@@ -58,7 +58,7 @@ def manifesto_chars():
 
 
 def wanted_codepoints():
-    cps = {ord(c) for c in manifesto_chars()}
+    cps = {ord(c) for c in address_chars()}
     # ASCII целиком: адрес earth-lings.org, номера страниц, слово Earthlings.
     cps |= set(range(0x20, 0x7F))
     # Пунктуация китайского письма целиком: CJK-знаки (U+3000-U+303F) и

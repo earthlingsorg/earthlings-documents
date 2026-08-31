@@ -20,7 +20,7 @@ preflight_all.check_layout), поштучную сверку чисел, счё�
 процесс умирает посреди отчёта.
 
 Использование: python _tools/check_hi_doc.py 05
-               python _tools/check_hi_doc.py manifest
+               python _tools/check_hi_doc.py address
 """
 import io, os, re, sys, collections, subprocess, unicodedata
 
@@ -28,8 +28,8 @@ REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 assert os.path.isdir(os.path.join(REPO, 'ru')), REPO
 
 NUM = sys.argv[1] if len(sys.argv) > 1 else None
-assert NUM and (re.match(r'^\d\d$', NUM) or NUM == 'manifest'), \
-    'укажите номер документа двумя цифрами или слово manifest'
+assert NUM and (re.match(r'^\d\d$', NUM) or NUM == 'address'), \
+    'укажите номер документа двумя цифрами или слово address'
 
 # Отчёт свой у каждого документа. Общий файл годился, пока приёмку гоняли по
 # одному, но корпус переводится широким фан-аутом, и несколько агентов
@@ -60,8 +60,8 @@ CYR = chr(0x0400) + '-' + chr(0x04FF)
 
 
 def find(lang):
-    if NUM == 'manifest':
-        p = os.path.join(REPO, '_manifest', '%s-manifest.md' % lang)
+    if NUM == 'address':
+        p = os.path.join(REPO, '_address', '%s-address.md' % lang)
         return p if os.path.isfile(p) else None
     d = os.path.join(REPO, lang)
     if not os.path.isdir(d):
@@ -96,7 +96,7 @@ def main():
 
     # 1. Структура блоков - зовём существующий скрипт, чтобы не заводить
     #    второй источник истины о том, что такое блок.
-    if NUM != 'manifest':
+    if NUM != 'address':
         r = subprocess.run([sys.executable,
                             os.path.join(REPO, '_tools', 'check_translation.py'),
                             NUM, 'hi'],

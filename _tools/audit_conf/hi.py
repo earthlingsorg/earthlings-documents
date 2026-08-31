@@ -591,7 +591,7 @@ def _register_drift(ctx):
     а не впечатлением.
     """
     assert ctx.texts, u'пустой ввод'
-    voice = ('manifest', '02', '03', '23', '31')
+    voice = ('address', '02', '03', '23', '31')
     rows = []
     for n, s in sorted(ctx.texts.items()):
         words = re.findall(r'[' + H.DEVANAGARI + r']+', s)
@@ -599,7 +599,7 @@ def _register_drift(ctx):
             continue
         longw = [w for w in words if len(w) >= 14]
         dens = 1000.0 * len(longw) / len(words)
-        kind = u'голос ' if n[:2] in voice or n.startswith('manifest') else u'право '
+        kind = u'голос ' if n[:2] in voice or n.startswith('address') else u'право '
         rows.append((dens, n, kind, len(words), len(longw)))
     for dens, n, kind, tot, lw in sorted(rows, reverse=True):
         print(u'  %s %-30s %6.1f на 1000  (%d из %d)' % (kind, n, dens, lw, tot))
