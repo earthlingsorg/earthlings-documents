@@ -177,6 +177,23 @@ LEGAL_LEAD_DOC = '30'
 
 # Подпись под Манифестом. Подписывают его авторы, а не народ (Учредительный
 # период, раздел 02), поэтому здесь команда, а не «Earthlings».
+# Анонс Обращения на главной. Решение Артура: на главной стоит не отрывок из
+# текста, а короткий анонс с кнопкой «Зачем мы это делаем»; сам текст
+# открывается по ней.
+#
+# **Переезд возможен только всеми девятью языками разом, и это не осторожность,
+# а устройство.** Отрывок на главную берётся из мастера Обращения по номерам
+# блоков (BANDS), а номера сверяются с РУССКИМ мастером блок в блок - переводы
+# зеркалят его. Пока новый русский текст не переведён, любой промежуточный шаг
+# ломается об эту сверку: подмена русского мастера в одиночку делает восемь
+# главных несобираемыми, а анонс на одном языке при старом тексте за кнопкой -
+# это кнопка не про то, что за ней.
+#
+# Поэтому таблица либо пуста, либо заполнена на девять языков. Заполняется она
+# в той же сессии, которая ставит новые мастера, - одним заходом.
+ANNOUNCE = {
+}
+
 SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
         'de': u'Das Earthlings-Team', 'fr': u"L'équipe Earthlings",
         'es': u'El equipo Earthlings', 'ka': u'Earthlings-ის გუნდი',
@@ -1118,10 +1135,18 @@ def build_index(lang):
             bands.append(platform(theme, lang, title_of(doc_master('12', lang)),
                                   lead(load, '12', nums, anchor, lang)))
         elif what == 'manifest':
+            # Либо все девять на анонсе, либо все девять на отрывке. Переезд
+            # наполовину разводит главные девяти языков по смыслу - см.
+            # комментарий к ANNOUNCE.
+            assert len(ANNOUNCE) in (0, len(ALL_LANGS)), (
+                u'анонс написан на %d языках из %d. Полоса Обращения на главной '
+                u'переезжает всеми девятью разом.' % (len(ANNOUNCE), len(ALL_LANGS)))
+            ann = ANNOUNCE.get(lang)
             bands.append(poster(
                 theme, title_of(manifest), poster_line(lang),
-                lead(load, 'manifest', nums, anchor, lang),
-                (C.x(lang, 'read_manifesto'), '/%s/manifest.html' % lang)))
+                ann if ann else lead(load, 'manifest', nums, anchor, lang),
+                (C.x(lang, 'why_we_do_this' if ann else 'read_manifesto'),
+                 '/%s/manifest.html' % lang)))
         elif what == 'legal':
             items = [(title_of(doc_master(d, lang)), doc_href(d, lang))
                      for d in LEGAL_DOCS if has_doc(d, lang)]
