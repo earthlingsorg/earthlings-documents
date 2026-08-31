@@ -1252,6 +1252,12 @@ def build_root():
 
 def main():
     dry = '--dry' in sys.argv
+    # Только страницы Обращения, без языковых главных. Нужно, когда Обращение
+    # правится отдельно от корпуса: главная берёт отрывки из мастеров
+    # документов и сверяет их с русским блок в блок, поэтому она не соберётся,
+    # пока русская правка документа не разнесена по переводам. Страница
+    # Обращения этой сверкой не пользуется и собирается всегда.
+    only_manifest = '--manifest' in sys.argv
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
     langs = args or [l for l in ALL_LANGS if os.path.isfile(
         os.path.join(MANIFEST_DIR, '%s-manifest.md' % l))]
@@ -1264,8 +1270,10 @@ def main():
         d = os.path.join(OUT, lang)
         if not os.path.isdir(d) and not dry:
             os.makedirs(d)
-        for name, page in (('index.html', build_index(lang)),
-                           ('manifest.html', build_manifest(lang))):
+        pages = ([('manifest.html', build_manifest(lang))] if only_manifest
+                 else [('index.html', build_index(lang)),
+                       ('manifest.html', build_manifest(lang))])
+        for name, page in pages:
             if not dry:
                 io.open(os.path.join(d, name), 'w', encoding='utf-8',
                         newline='\n').write(page)
@@ -1276,7 +1284,7 @@ def main():
 
     # Корень собирается, только когда собраны ВСЕ девять: он ведёт на девять
     # языковых главных, и на неполном прогоне часть ссылок легла бы в 404.
-    if len(langs) == len([l for l in ALL_LANGS if os.path.isfile(
+    if not only_manifest and len(langs) == len([l for l in ALL_LANGS if os.path.isfile(
             os.path.join(MANIFEST_DIR, '%s-manifest.md' % l))]):
         page = build_root()
         missing = [c for c in ALL_LANGS

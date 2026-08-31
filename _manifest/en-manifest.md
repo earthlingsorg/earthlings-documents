@@ -1,77 +1,79 @@
 # An Address to Everyone
 
-International organizations. Look closely at the first word. Between nations - that is what it says. But only states sit at the table where decisions are taken. Peoples are admitted there as guests: they are heard, they are consulted, they are given the floor in committees. The voting happens without them.
+*This is an address from the Earthlings team to those who choose order and harmony over chaos and violence. This project is made for those who want to reach agreement and to build, to live peacefully and to move forward. People are not each other's enemies; they can stand together.*
 
-The UN Charter opens with the words "We the peoples of the United Nations". Not "we the governments". For eighty years those words have stood on the first page, and for eighty years no word spoken by peoples has by itself decided anything. The issue is not the right to speak - that is granted. There is no procedure by which a people could determine its common will and express it in its own name so that it carried force.
+*The world that many dream of has to give people truly equal rights and an equal voice.*
 
-This is not a conspiracy. It is a design built when nothing else was possible. Millions of people could not discuss what was common to them and take decisions without intermediaries. There was no way to count votes so that everyone could verify the result. One thing remained: to choose those who would decide for us. And the whole world order was built on states speaking for peoples.
+*We believe that change can come without confrontation. Instead of fighting what is bad, we chose to further what is good, and we stopped looking for the guilty. No one in particular is to blame for what is happening. Replacing one leader with another changes nothing of substance. The lie is that we think we live badly because there are bad people. In truth a person's conduct depends on the conditions they are in. And those conditions are set by the design of a society that imposes on us its rules of conduct and its decisions.*
 
-It worked. It held a balance, it wrote down human rights, it built cooperation. One thing it did not do: it gave people no way to express a common will themselves.
+## States speak for peoples
 
-Now look at what comes of it.
+Peoples are admitted to the UN as guests: they are heard, they are consulted, but the voting happens without them.
 
-Decisions are taken in a few offices, and the consequences fall on millions of people. We pay bills that were drawn up without us.
+The UN Charter opens with the words "We the peoples of the United Nations". Yet in all the years of its existence, no word spoken by peoples has by itself decided anything. States decide, not peoples. And the interests of a state and the interests of a people diverge more often than it is customary to say out loud.
 
-And it is not that the people at the top are wicked. The problem is deeper and worse. Power separated from the direct participation of people sooner or later loses touch with reality - this happens of itself, whatever anyone intends. Election campaigns cost money. Whoever has access gets more attention than whoever is right. Formally, one person, one vote. In fact, one dollar, one vote.
+Decisions are taken in a few offices, and the consequences fall on millions of people. We pay bills that were drawn up without our consent. And states are not coping with their tasks - not because they are bad, but because this work cannot be done in full without a constructive civil society. States need a counterpart, and today none exists.
 
-States are not coping. Not because they are bad, but because this work cannot be done alone. They need an interlocutor that does not exist today.
+Every people that exists is tied to states through citizenship and through the territory where it lives. Not one people has a voice of its own.
 
-Not a crowd. Not a survey. Not a hundred thousand signatures under a petition that will be noted. A people - because it is a people that international law recognizes as the bearer of a will of its own in matters of self-determination.
+## Who checks those who decide
 
-This is not our invention. The right of peoples to self-determination is written into the UN Charter and into both Covenants of 1966. A people is entitled to determine its own development and to speak in its own name. No association, no foundation, no trade union, no international movement holds that right - and none can acquire it, however many people belong to it.
+Legal systems worked out a protection against error and abuse of power long ago - checks and balances. The task was set correctly, but the construction works badly. A check can be bought, a balance can be intimidated, and this happens not in exceptional cases but constantly. All the checks and balances sit inside the very state system they are meant to examine. That same state system creates them, appoints them and pays for them.
 
-The difference is not one of size. The difference is in what you are.
+At the international level there is not even that.
 
-So there is one question: whether a people can be formed by choice.
+The UN Charter knows no procedure for removing the Secretary-General - none exists at all. The UN's oversight services answer to the UN itself. It cannot be taken to court: only states may be parties before the International Court of Justice.
 
-A people needs neither a particular territory nor a common language in order to exist. The people of France was formed out of Bretons, Corsicans, Alsatians, and settlers from every continent. A single origin was never required. Something else is needed: that people recognize themselves as one "we" and are able to act as a "we".
+How can the world be sure that the Secretary-General has not been bought or intimidated by some state? It cannot. There is no way to check.
 
-What it means to recognize one another.
+A real check is possible only from a place that no budget, no appointment and no permit can reach. No such place exists today. We are building it.
 
-A signature under a petition is one-sided. I signed, and that is all. To those whose signatures stand beside mine, I am no one. We were counted, not joined.
+## A new people
 
-Belonging works differently. I say "I am with you" - and it means nothing until someone answers "You are with us". It arises only in both directions. And then something appears between people that no addition can give: not a sum of votes, but a "we" that is able to act.
+Our initiative is to create a non-territorial people. For everyone ready to take part in building a society of a new kind.
 
-Everything else follows from this. Such belonging is not received at birth - it is chosen. It cannot be imposed, because recognition is not issued by order. It cannot be held, because recognition does not hold by force. And it has no price - another person's recognition cannot be bought.
+This will be the first people that belongs to no state and claims no territory. A people that determines its own fate and expresses its own will. In which people share common values and acknowledge a common belonging. A people you can enter by your own considered choice. A people you can leave at any time without explaining why. In which no one can accumulate power over others, and which rests on cooperation rather than competition. All the while a person remains a citizen of their country and keeps their nationality, religion and culture, but gains what they never had - a society of a new kind.
 
-Reciprocity works both ways in another sense too. If I belong to you, I recognize your belonging to me - and I take responsibility for what happens to us. I am ready to help you not out of compulsion, but because our "we" matters to me.
+We named this people Earthlings, because all of us are bound to the planet we live on.
 
-To recognize one another - that was the one thing missing.
+A question arises: why can such a people be created at all?
 
-And to come together not around a common cause. People have always come together around a task, a profession, a resource, an interest - and that works for as long as the task is alive. We propose something else: to come together with one another. Common causes, knowledge, and institutions will appear, but as a result and not as the reason.
+Because people may gather into a people without asking anyone's permission. Into a people tied to no territory, no state, no descent, no language and no culture. For a fuller understanding of this question, read the documents "Legal Basis", "Civic Voice", "How a Subject of Law Arises" and "Objections and Answers".
 
-Our project is to be together.
+It is a people, precisely, that international law recognizes as the bearer of the right to self-determination - the right to determine its own development and to speak in its own name. Neither a nation, nor an ethnic group, nor a population is endowed with that right.
 
-And mutual recognition was missing for a reason that has now gone. As long as people could not reliably confirm one another at a distance, no one could know who was on the other side: one person or a hundred of their masks, a living voice or a bought one. Now a person can be confirmed without revealing who they are. One person, one vote. It cannot be bought, accumulated, or handed over for good.
+A people can be founded by people without state registration. For any public movement or association such registration is compulsory, and they can be shut down by a decision from outside. A people cannot be shut down; it exists as long as its people exist. Its existence requires no one's recognition beyond the recognition of the people themselves.
 
-For the first time in history people can gather into a people without asking anyone's permission.
+## Why only now
 
-Into a people tied to no territory, no state, no descent, no language, no culture. What holds it together is only the free choice of people and their recognition of one another.
+A people can be founded only when it is known who belongs to it and when votes can be honestly counted. As long as people lived far apart and could not verify one another, neither was possible. Any list of participants could be filled with invented names, and one person could enter it many times. Nor was there any way to verify the outcome of a vote.
 
-That is what we are doing.
+Today this is solved. A person confirms that they are alive and singular without revealing who they are. The vote belongs to them alone: it cannot be bought or accumulated. The course and the outcome of any vote are open - anyone can satisfy themselves of it without taking a word on trust. All the activity of the people is open to inspection as well.
 
-We declare our intention to found a people, and we call ourselves earthlings. What unites us is neither land nor descent. What unites us is choice. We claim no territory, no power, and no right to speak for humanity as a whole. We speak in our own name - in the name of those who have made this choice. We overthrow no one and seize nothing. We have no weapons and will have none.
+That is why such a people could not have arisen a hundred years ago, or twenty.
 
-All we have is a voice. And we intend to make it one that has to be heard.
+## An external check
 
-We do not expect the doors to open at once, or a place at the table to be given for the asking. We will knock, propose, and prove - for as long as it takes.
+Many watch over power: the press, human rights defenders, election observers. They do necessary work, and all of them share one vulnerability. They can be stripped of funding, have their accreditation withdrawn, be refused registration, be expelled from the country. An examiner who can be switched off is not a reliable check.
 
-This people is for those who already see all of this. Who understand that the trouble lies not with one government or the next election, but with a construction that has long stopped coping.
+The Earthlings people cannot be switched off. It is registered in no country, receives money from no budget, has no office that can be closed and no permit that can be revoked. For the first time, examination is carried out in such a way that the examined can neither influence the examiner nor control them.
 
-Keep everything of your own: nationality, language, faith, city, citizenship. We replace nothing and ask you to give up nothing. We add to the world something it did not have: a voice that crosses borders without abolishing any of them.
+We cannot and will not hold anyone to account: we have no such mandate. The strength of an external check lies in making visible what someone is trying to hide. This is how auditors work, and election observers. We can set what was said against what was done and speak of the discrepancy so that it becomes plain to everyone.
 
-You can enter only by saying so yourself. You can leave any day, without explanation. We are not building anything you cannot walk out of.
+This is not a struggle against power. An auditor does not struggle against a bank; an observer does not struggle against an electoral commission. External oversight is needed by power itself: it is the only way to prove that power is clean, when its own examiners sit on its own budget.
 
-We have no strangers. There are only those who have not yet chosen.
+## Who will check us
 
-Now about what we have not yet done.
+The question we asked about the UN we are bound to ask about ourselves.
 
-The people is not founded. There are twenty-five documents in which we have described what it could be: what it stands on, what not even a majority can do, how votes are counted, where the money comes from and where it goes. All of it was written by us. And it means nothing until you have read it.
+A voice in the Earthlings people cannot be bought, accumulated or taken away. The register of participants is not under the control of a single operator. Every decision can be verified by anyone. And the five principles that protect the person from the power of the people itself cannot be repealed by a majority, by the Earthlings Charter, or by interpretation.
 
-We are not asking you to adopt these texts. We are asking you to take them apart. The whole corpus is open, any document can be amended, and every objection is published together with a reply - including the one we have no answer to. Every argument known to us against our own construction we wrote ourselves, before asking others to do it.
+To that question we have an answer. The UN has none.
 
-Only five provisions are not up for discussion - the ones that protect the person from the power of the people itself. A people from whom they can be bargained away is no different from what already exists.
+## Where to begin
 
-Then there will be a vote. We do not promise that it will succeed. But this people will be founded not by whoever drew up these documents, but by whoever votes for it.
+Free and thinking people can together build a second civic system, one able to coexist peacefully with the one that already exists. Then every person will have a choice of which society to live in. A people that proves itself workable in practice will have every ground to become a full subject of international law.
 
-**We choose one another.**
+Published on this site are the documents on why this is needed, how it is arranged, what justifies it in law, and what it gives to every person and to those who come after us.
+
+Begin by reading the Earthlings Declaration.

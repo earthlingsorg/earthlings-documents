@@ -1,77 +1,79 @@
 # Un mensaje a todos
 
-Organizaciones internacionales. Miren la segunda palabra: internacionales. Entre naciones, eso es lo que dice. Pero en la mesa donde se decide se sientan solo los Estados. A los pueblos se los admite como invitados: se los escucha, se los consulta, se les da la palabra en los comités. Se vota sin ellos.
+*Este es un mensaje del equipo Earthlings a quienes eligen el orden y la armonía en lugar del caos y la violencia. Este proyecto está hecho para quienes quieren entenderse y construir, vivir en paz y avanzar. Las personas no son enemigas unas de otras; pueden ser solidarias.*
 
-La Carta de las Naciones Unidas se abre con las palabras «Nosotros los pueblos de las Naciones Unidas». No «nosotros los gobiernos». Ochenta años lleva esa frase en la primera página. Y ochenta años sin que una sola palabra dicha por los pueblos decida nada por sí misma. No es cuestión del derecho a hablar: ese sí lo dan. No hay procedimiento con el que un pueblo determine su voluntad común y la exprese en su propio nombre de manera que tenga fuerza.
+*El mundo con el que muchos sueñan debe dar a las personas derechos verdaderamente iguales y una voz igual.*
 
-Esto no es una conspiración. Es una arquitectura que se hizo cuando no se podía de otro modo. Millones de personas no podían debatir lo común y decidir sin intermediarios. No había manera de contar los votos de modo que cada cual pudiera comprobar el resultado. Quedaba una sola cosa: elegir a quienes decidirían por nosotros. Y todo el orden mundial se construyó sobre esto: que por los pueblos hablaran los Estados.
+*Creemos que el cambio puede llegar sin enfrentamiento. En lugar de combatir lo malo, decidimos favorecer lo bueno y dejamos de buscar culpables. De lo que ocurre no tiene la culpa nadie en particular. Cambiar a un dirigente por otro no altera nada esencial. La mentira consiste en creer que vivimos mal porque hay malas personas. En realidad la conducta de una persona depende de las condiciones en que se encuentra. Y esas condiciones las fija la disposición de una sociedad que nos impone sus reglas de conducta y sus decisiones.*
 
-Funcionó. Sostuvo el equilibrio, dejó consagrados los derechos humanos, puso en marcha la cooperación. Una cosa no hizo: no dio a las personas un modo de expresar por sí mismas una voluntad común.
+## Por los pueblos hablan los Estados
 
-Y ahora miren en qué queda todo esto.
+Los pueblos están admitidos en la ONU como invitados: se los escucha, se los consulta, pero se vota sin ellos.
 
-Las decisiones se toman en despachos aislados, y las consecuencias caen sobre millones de personas. Pagamos facturas que se emitieron sin nosotros.
+La Carta de las Naciones Unidas se abre con las palabras «Nosotros los pueblos de las Naciones Unidas». Sin embargo, en todos los años de su existencia ninguna palabra dicha por los pueblos ha decidido por sí sola nada. Deciden los Estados, no los pueblos. Y los intereses de un Estado y los de un pueblo divergen con más frecuencia de lo que se acostumbra decir en voz alta.
 
-Y no es que arriba haya gente malvada. El problema es más hondo y peor. Un poder separado de la participación directa de las personas pierde antes o después el contacto con la realidad; ocurre solo, al margen de las intenciones. Las campañas electorales cuestan dinero. Quien tiene acceso recibe más atención que quien tiene razón. Formalmente, una persona, un voto. De hecho, un dólar, un voto.
+Las decisiones se toman en unos pocos despachos, y las consecuencias recaen sobre millones de personas. Pagamos facturas emitidas sin nuestro consentimiento. Y los Estados no dan abasto con sus tareas, no porque sean malos, sino porque este trabajo no puede hacerse por entero sin una sociedad civil constructiva. Los Estados necesitan una contraparte, y hoy no existe ninguna.
 
-Los Estados no dan abasto. No porque sean malos, sino porque este trabajo no se puede hacer en solitario. Necesitan un interlocutor que hoy no existe.
+Cada pueblo existente está ligado a los Estados por la ciudadanía y por el territorio donde vive. Ni un solo pueblo tiene voz propia.
 
-No una multitud. No una encuesta. No cien mil firmas al pie de una petición que se tomará en consideración. Un pueblo, porque es al pueblo a quien el derecho internacional reconoce como portador de una voluntad propia en las cuestiones de libre determinación.
+## Quién controla a quienes deciden
 
-Esto no es invención nuestra. El derecho de libre determinación de los pueblos está escrito en la Carta de las Naciones Unidas y en ambos Pactos del sesenta y seis. Un pueblo puede determinar por sí mismo su desarrollo y hablar en su propio nombre. Ni una asociación, ni una fundación, ni un sindicato, ni un movimiento internacional tienen ese derecho, y no pueden adquirirlo por muchas personas que los integren.
+Los sistemas jurídicos idearon hace mucho una protección contra el error y el abuso del poder: los frenos y contrapesos. La tarea está bien planteada, pero la construcción funciona mal. Un freno puede comprarse, un contrapeso puede intimidarse, y esto no ocurre en casos excepcionales sino de continuo. Todos los frenos y contrapesos se encuentran dentro del mismo aparato estatal al que deben controlar. Ese mismo aparato estatal los crea, los nombra y los mantiene.
 
-La diferencia no está en el tamaño. La diferencia está en lo que uno es.
+En el plano internacional no hay ni siquiera eso.
 
-Así que la pregunta es una sola: ¿se puede llegar a ser un pueblo por elección?
+La Carta de las Naciones Unidas no conoce procedimiento alguno para destituir al Secretario General: sencillamente no existe. Los servicios de supervisión de la ONU dependen de la propia ONU. No se la puede demandar: solo los Estados pueden ser partes ante la Corte Internacional de Justicia.
 
-Para que un pueblo exista no hacen falta ni un territorio determinado ni una lengua común. El pueblo de Francia se formó con bretones, corsos, alsacianos y migrantes de todos los continentes. Un origen único no se exigió nunca. Hace falta otra cosa: que las personas se reconozcan como un mismo «nosotros» y sean capaces de actuar como «nosotros».
+¿Cómo puede el mundo estar seguro de que el Secretario General no ha sido comprado ni intimidado por algún Estado? No puede. No existe modo de comprobarlo.
 
-Qué significa reconocerse unos a otros.
+Un control verdadero solo es posible desde un lugar al que no llegan ni un presupuesto, ni un nombramiento, ni un permiso. Hoy ese lugar no existe. Nosotros lo estamos construyendo.
 
-Una firma al pie de una petición es unilateral. Yo firmé, y ya está. Para quienes firman al lado, yo no soy nadie. Nos han contado uno a uno, no nos han unido.
+## Un pueblo nuevo
 
-La pertenencia funciona de otro modo. Yo digo: «Estoy con ustedes», y eso no significa nada mientras nadie haya respondido: «Eres de los nuestros». La pertenencia solo nace si va en los dos sentidos. Y entonces aparece entre las personas algo que ninguna suma da: no un total de votos, sino un «nosotros» capaz de actuar.
+Nuestra iniciativa consiste en crear un pueblo no territorial. Para todos los que estén dispuestos a participar en la construcción de una sociedad de tipo nuevo.
 
-De ahí sale todo lo demás. Una pertenencia así no se recibe al nacer: se elige. No se puede imponer, porque el reconocimiento no se otorga por orden. No se puede retener: el reconocimiento no se sostiene por la fuerza. Y no se vende: el reconocimiento ajeno no se puede comprar.
+Será el primer pueblo que no pertenece a ningún Estado y no reclama territorio alguno. Un pueblo que determina por sí mismo su destino y expresa por sí mismo su voluntad. En el que las personas comparten valores comunes y reconocen una pertenencia común. Un pueblo en el que se entra por elección propia y meditada. Un pueblo del que se puede salir en cualquier momento sin explicar por qué. En el que nadie puede acumular poder sobre los demás, y que se apoya en la cooperación y no en la competencia. Y con todo, la persona sigue siendo ciudadana de su país, conserva su nacionalidad, su religión y su cultura, pero recibe lo que nunca tuvo: una sociedad de tipo nuevo.
 
-La reciprocidad opera en los dos sentidos también en otro aspecto. Si yo les pertenezco, reconozco que ustedes me pertenecen a mí, y asumo la responsabilidad por lo que nos pasa a nosotros. Estoy dispuesto a ayudarles no por coacción, sino porque nuestro «nosotros» significa algo para mí.
+Llamamos a este pueblo Earthlings porque todos estamos ligados al planeta en el que vivimos.
 
-Reconocerse unos a otros: eso es lo único que faltaba.
+Surge una pregunta: ¿por qué, en el fondo, puede crearse semejante pueblo?
 
-Y unirse, además, no en torno a una obra común. En torno a una tarea, una profesión, un recurso, un interés, las personas se han unido siempre; funciona mientras la tarea dura. Nosotros proponemos otra cosa: unirse unos con otros. Las obras comunes, los saberes y las instituciones aparecerán, pero como consecuencia y no como causa.
+Porque las personas pueden reunirse en pueblo sin pedir permiso a nadie. En un pueblo que no está atado ni a un territorio, ni a un Estado, ni a un origen, ni a una lengua ni a una cultura. Para comprender esta cuestión más a fondo, lean los documentos «Base jurídica», «La voz ciudadana», «Cómo nace un sujeto de derecho» y «Objeciones y respuestas».
 
-Nuestro proyecto es estar juntos.
+Es precisamente al pueblo a quien el derecho internacional reconoce como titular del derecho a la libre determinación: el derecho a determinar por sí mismo su desarrollo y a hablar en su propio nombre. Ni una nación, ni una etnia, ni una población están dotadas de ese derecho.
 
-Y el reconocimiento mutuo faltaba por una razón que ahora ha desaparecido. Mientras las personas no pudieron acreditarse unas a otras a distancia de manera fiable, nadie podía saber quién había al otro lado: una persona o cien máscaras de una sola, una voz viva o una comprada. Ahora a una persona se la puede acreditar sin revelar quién es. Una persona, un voto. Y no se puede ni comprar, ni acumular, ni ceder para siempre.
+Un pueblo puede ser fundado por personas sin registro estatal. Para cualquier movimiento social o asociación ese registro es obligatorio, y se los puede cerrar por una decisión venida de fuera. Un pueblo, en cambio, no se puede cerrar; existe mientras existan sus personas. Su existencia no requiere el reconocimiento de nadie, salvo el de las propias personas.
 
-Por primera vez en la historia las personas pueden constituirse en pueblo sin pedir permiso a nadie.
+## Por qué solo ahora
 
-En un pueblo no atado ni a un territorio, ni a un Estado, ni a un origen, ni a una lengua, ni a una cultura. Lo sostienen solo la libre elección de las personas y el reconocimiento mutuo.
+Un pueblo solo puede fundarse cuando se sabe quién forma parte de él y cuando los votos pueden contarse con honradez. Mientras las personas vivían lejos unas de otras y no podían verificarse entre sí, no se lograba ni lo uno ni lo otro. Cualquier lista de participantes podía llenarse con nombres inventados, y una misma persona podía inscribirse en ella muchas veces. Tampoco era posible verificar el resultado de una votación.
 
-Es lo que estamos haciendo.
+Hoy esto está resuelto. Una persona confirma que está viva y que es única sin revelar quién es. El voto le pertenece solo a ella: no puede comprarse ni acumularse. El curso y el resultado de cualquier votación están abiertos: cualquiera puede cerciorarse sin creer a nadie bajo palabra. Toda la actividad del pueblo está igualmente abierta a la comprobación.
 
-Anunciamos nuestra intención de constituir un pueblo y nos llamamos Earthlings. No nos une la tierra ni el origen. Nos une la elección. No pretendemos ni territorio, ni poder, ni el derecho a hablar por toda la humanidad. Hablamos en nombre propio, en nombre de quienes han hecho esa elección. No derribamos a nadie y no tomamos nada. Armas no tenemos ni tendremos.
+Por eso un pueblo así no pudo surgir ni hace cien años ni hace veinte.
 
-No tenemos más que una voz. Y vamos a hacer que haya que oírla.
+## El freno exterior
 
-No contamos con que las puertas se abran enseguida ni con que se nos asigne un sitio en la mesa por pedirlo. Llamaremos, propondremos y demostraremos, tanto como haga falta.
+Muchos vigilan al poder: la prensa, los defensores de derechos humanos, los observadores electorales. Hacen un trabajo necesario, y todos comparten una misma vulnerabilidad. Se los puede privar de financiación, retirarles la acreditación, negarles el registro, expulsarlos del país. Un controlador al que se puede apagar no es un freno fiable.
 
-Este pueblo es para quienes ya ven todo esto. Para quienes entienden que la cuestión no está en un gobierno concreto ni en las próximas elecciones, sino en una construcción que hace mucho que no da abasto.
+Al pueblo Earthlings no se lo puede apagar. No está registrado en ningún país, no recibe dinero de ningún presupuesto, no tiene oficina que pueda cerrarse ni permiso que pueda revocarse. Por primera vez el control se ejerce de tal manera que el controlado no puede ni influir en quien controla ni tenerlo en su mano.
 
-Consérvenlo todo: su adscripción étnica, su lengua, su fe, su ciudad, su nacionalidad. No sustituimos nada y no proponemos renunciar a nada. Añadimos al mundo lo que en él no había: una voz que cruza las fronteras sin suprimir ninguna.
+Exigir responsabilidades no podemos ni vamos a hacerlo: no tenemos ese mandato. La fuerza de un freno exterior está en que hace visible lo que se intenta ocultar. Así trabajan los auditores y los observadores electorales. Podemos cotejar lo dicho con lo hecho y hablar de la diferencia de modo que resulte evidente para todos.
 
-A este pueblo solo se entra diciéndolo uno mismo. Salir, cualquier día, sin explicaciones. Aquello de lo que no se puede salir no lo construimos.
+Esto no es una lucha contra el poder. Un auditor no lucha contra el banco, un observador no lucha contra la junta electoral. El control exterior lo necesita el poder mismo: es el único modo de demostrar que está limpio, cuando sus propios controladores viven de su propio presupuesto.
 
-Aquí no hay ajenos. Hay quienes todavía no han elegido.
+## Quién nos controlará a nosotros
 
-Ahora, sobre lo que aún no hemos hecho.
+La pregunta que hicimos sobre la ONU estamos obligados a hacérnosla sobre nosotros mismos.
 
-El pueblo no está constituido. Hay veinticinco documentos en los que hemos descrito cómo puede ser: sobre qué se apoya, qué no puede ni siquiera la mayoría, cómo se cuentan los votos, de dónde sale el dinero y adónde va. Todo eso lo hemos escrito nosotros. Y no significa nada mientras no lo hayan leído ustedes.
+Un voto en el pueblo Earthlings no puede comprarse, ni acumularse, ni quitarse. El registro de participantes no está bajo el control de un único operador. Cada decisión puede ser verificada por cualquiera. Y los cinco principios que protegen a la persona frente al poder del propio pueblo no pueden derogarse ni por mayoría, ni por la Carta de los Earthlings, ni por interpretación.
 
-No proponemos adoptar esos textos. Proponemos desmontarlos. Está abierto todo el corpus, se puede enmendar cualquier documento, y cada objeción se publica junto con su respuesta, incluida aquella a la que no tenemos nada que responder. Todos los argumentos que conocemos contra nuestra propia construcción los hemos escrito nosotros, antes de pedirle a nadie que lo hiciera.
+A esa pregunta nosotros respondemos. La ONU no tiene respuesta.
 
-Solo cinco disposiciones no se discuten: las que protegen a la persona frente al poder del propio pueblo. Un pueblo al que se le puedan regatear esas disposiciones no se diferencia en nada del que ya existe.
+## Por dónde empezar
 
-Después habrá una votación. No prometemos que salga adelante. Pero este pueblo no lo constituirá quien redactó estos documentos, sino quien vote por él.
+Personas libres y pensantes pueden construir juntas un segundo sistema cívico, capaz de convivir en paz con el que ya existe. Entonces cada persona tendrá la elección de en qué sociedad quiere vivir. Un pueblo que demuestre su solidez en la práctica tendrá todo fundamento para llegar a ser sujeto pleno del derecho internacional.
 
-**Nos elegimos unos a otros.**
+En este sitio están publicados los documentos sobre para qué hace falta esto, cómo está dispuesto, en qué se funda jurídicamente y qué da a cada persona y a quienes vengan después de nosotros.
+
+Empiecen por la Declaración Earthlings.

@@ -1,77 +1,79 @@
 # Un message à tous
 
-Organisations internationales. Regardez ce mot de près: international, inter nationes - entre les nations. C'est ce qu'il dit. Mais à la table où l'on décide ne siègent que les États. Les peuples y sont admis à titre d'invités: on les écoute, on les consulte, on leur donne la parole en commission. On vote sans eux.
+*Ceci est un message de l'équipe Earthlings à ceux qui choisissent l'ordre et l'harmonie plutôt que le chaos et la violence. Ce projet est fait pour ceux qui veulent s'entendre et bâtir, vivre en paix et aller de l'avant. Les gens ne sont pas ennemis les uns des autres; ils peuvent être solidaires.*
 
-La Charte des Nations Unies s'ouvre par les mots « Nous, peuples des Nations Unies ». Non pas « nous, gouvernements ». Depuis quatre-vingts ans, ces mots figurent en tête du texte, et depuis quatre-vingts ans aucune parole prononcée par les peuples ne tranche par elle-même quoi que ce soit. Le problème n'est pas le droit de s'exprimer: on le donne. Il n'existe pas de procédure par laquelle un peuple formerait sa volonté commune et l'exprimerait en son propre nom de manière qu'elle ait force.
+*Le monde dont beaucoup rêvent doit donner aux gens des droits vraiment égaux et une voix égale.*
 
-Ce n'est pas un complot. C'est un dispositif conçu à une époque où l'on ne pouvait pas faire autrement. Des millions de gens ne pouvaient pas débattre des affaires communes et décider sans intermédiaires. Il n'existait aucun moyen de compter les voix de façon que chacun puisse vérifier le résultat. Une seule solution restait: choisir ceux qui décideraient à notre place. Et tout l'ordre mondial a été construit sur un seul principe: les États parlent pour les peuples.
+*Nous croyons que le changement peut venir sans affrontement. Plutôt que de combattre ce qui est mauvais, nous avons choisi de favoriser ce qui est bon, et nous avons cessé de chercher des coupables. De ce qui arrive, personne en particulier n'est coupable. Remplacer un dirigeant par un autre ne change rien d'essentiel. Le mensonge est de croire que nous vivons mal parce qu'il existe de mauvaises gens. En réalité la conduite d'une personne dépend des conditions dans lesquelles elle se trouve. Et ces conditions sont fixées par l'agencement d'une société qui nous impose ses règles de conduite et ses décisions.*
 
-Cela a fonctionné. Cela a maintenu un équilibre, consacré les droits de l'homme, organisé la coopération. Une seule chose n'a pas été faite: donner aux gens un moyen d'exprimer par eux-mêmes une volonté commune.
+## Ce sont les États qui parlent pour les peuples
 
-Et maintenant, regardez ce que cela donne.
+Les peuples sont admis à l'ONU comme des invités: on les écoute, on les consulte, mais le vote se fait sans eux.
 
-Les décisions se prennent dans quelques bureaux, et les conséquences retombent sur des millions de gens. Nous payons des factures établies sans nous.
+La Charte des Nations Unies s'ouvre par les mots « Nous, peuples des Nations Unies ». Or, en toutes les années de son existence, aucune parole prononcée par les peuples n'a décidé quoi que ce soit par elle-même. Ce sont les États qui décident, non les peuples. Et les intérêts d'un État et ceux d'un peuple divergent plus souvent qu'il n'est d'usage de le dire à voix haute.
 
-Et le problème n'est pas qu'il y aurait des malveillants en haut lieu. Il est plus profond et plus grave. Un pouvoir séparé de la participation directe des gens finit tôt ou tard par perdre le contact avec la réalité: cela se fait de soi-même, quelles que soient les intentions. Les campagnes électorales coûtent de l'argent. Celui qui a ses entrées est mieux écouté que celui qui a raison. En droit: une personne, une voix. En fait: un dollar, une voix.
+Les décisions se prennent dans quelques bureaux, et les conséquences retombent sur des millions de gens. Nous payons des factures établies sans notre accord. Et les États n'arrivent pas à remplir leurs tâches - non parce qu'ils sont mauvais, mais parce que ce travail ne peut être mené à bien sans une société civile constructive. Les États ont besoin d'un vis-à-vis, et aujourd'hui il n'en existe aucun.
 
-Les États n'y parviennent pas. Non parce qu'ils seraient mauvais, mais parce que ce travail, on ne peut pas le faire seul. Il leur faut un interlocuteur qui, aujourd'hui, n'existe pas.
+Chaque peuple existant est lié aux États par la citoyenneté et par le territoire où il vit. Pas un seul peuple n'a de voix propre.
 
-Pas une foule. Pas un sondage. Pas cent mille signatures au bas d'une pétition dont on prendra note. Un peuple - parce que c'est le peuple que le droit international reconnaît comme porteur d'une volonté propre en matière d'autodétermination.
+## Qui contrôle ceux qui décident
 
-Ce n'est pas notre invention. Le droit des peuples à disposer d'eux-mêmes est inscrit dans la Charte des Nations Unies et dans les deux Pactes de 1966. Un peuple a le droit de déterminer librement son développement et de parler en son propre nom. Ni une association, ni une fondation, ni un syndicat, ni un mouvement international ne possèdent ce droit, et aucun ne peut l'acquérir, quel que soit le nombre de ses membres.
+Les systèmes juridiques ont depuis longtemps imaginé une protection contre l'erreur et l'abus de pouvoir: les freins et contrepoids. La tâche est bien posée, mais la construction fonctionne mal. Un frein peut être acheté, un contrepoids intimidé, et cela n'arrive pas dans des cas exceptionnels mais constamment. Tous les freins et contrepoids se trouvent à l'intérieur de l'appareil d'État même qu'ils sont censés contrôler. C'est ce même appareil d'État qui les crée, les nomme et les entretient.
 
-La différence ne tient pas à la taille. Elle tient à ce que l'on est.
+Au niveau international, cela même fait défaut.
 
-Reste donc une seule question: peut-on devenir un peuple par choix?
+La Charte des Nations Unies ne connaît aucune procédure de destitution du Secrétaire général - elle n'existe tout simplement pas. Les services de contrôle de l'ONU relèvent de l'ONU elle-même. On ne peut pas la poursuivre en justice: seuls des États peuvent être parties devant la Cour internationale de Justice.
 
-Pour qu'un peuple existe, il ne faut ni territoire déterminé ni langue commune. Le peuple français s'est formé de Bretons, de Corses, d'Alsaciens et de migrants venus de tous les continents. Une origine unique n'a jamais été nécessaire. Il faut autre chose: que des gens se reconnaissent comme un même « nous » et soient capables d'agir comme un « nous ».
+Comment le monde peut-il être sûr que le Secrétaire général n'a été ni acheté ni intimidé par un État quelconque? Il ne le peut pas. Il n'existe aucun moyen de le vérifier.
 
-Se reconnaître les uns les autres: ce que cela veut dire.
+Un contrôle véritable n'est possible que depuis un endroit où n'atteignent ni un budget, ni une nomination, ni une autorisation. Un tel endroit n'existe pas aujourd'hui. Nous le construisons.
 
-Une signature au bas d'une pétition est unilatérale. J'ai signé, et c'est tout. Pour ceux dont la signature est à côté de la mienne, je ne suis personne. On nous a comptés, on ne nous a pas reliés.
+## Un peuple nouveau
 
-L'appartenance est autre chose. Je dis: « Je suis des vôtres » - et cela ne signifie rien tant que personne n'a répondu: « Tu es des nôtres ». Elle ne naît que si cela va dans les deux sens. Alors naît entre les gens ce qu'aucune addition ne produit: non pas une somme de voix, mais un « nous » capable d'agir.
+Notre initiative consiste à créer un peuple non territorial. Pour tous ceux qui sont prêts à participer à la construction d'une société d'un type nouveau.
 
-Tout le reste en découle. Une telle appartenance ne se reçoit pas à la naissance: elle se choisit. On ne peut pas l'imposer, parce qu'une reconnaissance ne se décrète pas. On ne peut pas la garder de force: une reconnaissance ne tient pas par la contrainte. Et elle ne s'achète pas: la reconnaissance d'autrui n'est pas à vendre.
+Ce sera le premier peuple qui n'appartient à aucun État et ne revendique aucun territoire. Un peuple qui détermine lui-même son destin et exprime lui-même sa volonté. Où les gens partagent des valeurs communes et reconnaissent une appartenance commune. Un peuple dans lequel on entre par son propre choix réfléchi. Un peuple dont on peut sortir à tout moment sans avoir à s'expliquer. Où nul ne peut accumuler de pouvoir sur autrui, et qui repose sur la coopération et non sur la concurrence. Et pendant ce temps la personne reste citoyenne de son pays, garde sa nationalité, sa religion et sa culture, mais reçoit ce qu'elle n'a jamais eu: une société d'un type nouveau.
 
-La réciprocité joue dans les deux sens, et encore d'une autre manière. Si je suis des vôtres, vous êtes des miens - et j'assume la responsabilité de ce qui nous arrive. Je suis prêt à vous aider non par contrainte, mais parce que notre « nous » compte pour moi.
+Nous avons nommé ce peuple Earthlings, parce que nous sommes tous liés à la planète où nous vivons.
 
-Se reconnaître les uns les autres: voilà la seule chose qui manquait.
+Une question se pose: au fond, pourquoi un tel peuple peut-il être créé?
 
-Et s'unir, non pas autour d'une cause commune. Une tâche, un métier, une ressource, un intérêt: les gens se sont toujours unis autour de cela, et cela tient tant que la tâche tient. Nous proposons autre chose: s'unir les uns aux autres. Les causes communes, les savoirs, les institutions viendront, mais comme conséquence et non comme cause.
+Parce que des gens peuvent se rassembler en peuple sans demander la permission à personne. En un peuple qui n'est lié ni à un territoire, ni à un État, ni à une origine, ni à une langue, ni à une culture. Pour comprendre cette question plus pleinement, lisez les documents « Base juridique », « La voix citoyenne », « Comment naît un sujet de droit » et « Objections et réponses ».
 
-Notre projet, c'est d'être ensemble.
+C'est précisément le peuple que le droit international reconnaît comme titulaire du droit à l'autodétermination - le droit de déterminer lui-même son développement et de parler en son propre nom. Ni une nation, ni un groupe ethnique, ni une population ne sont dotés de ce droit.
 
-Si la reconnaissance mutuelle a manqué jusqu'ici, c'est pour une raison qui a maintenant disparu. Tant que les gens ne pouvaient pas se vérifier les uns les autres de façon fiable à distance, nul ne pouvait savoir qui se trouvait de l'autre côté: une seule personne ou cent masques d'une seule, une voix vivante ou une voix achetée. Aujourd'hui, on peut confirmer qu'il y a bien une personne, sans révéler qui elle est. Une personne, une voix. On ne peut ni l'acheter, ni l'accumuler, ni la céder de façon irrévocable.
+Un peuple peut être fondé par des gens sans enregistrement étatique. Pour tout mouvement social ou toute association, cet enregistrement est obligatoire, et on peut les fermer par une décision venue du dehors. Un peuple, lui, ne peut être fermé; il existe tant qu'existent ses gens. Son existence n'exige la reconnaissance de personne, hormis celle des gens eux-mêmes.
 
-Pour la première fois dans l'histoire, les gens peuvent se réunir en un peuple sans demander la permission à personne.
+## Pourquoi seulement maintenant
 
-Un peuple qui n'est attaché ni à un territoire, ni à un État, ni à une origine, ni à une langue, ni à une culture. Il ne tient que par le libre choix des gens et par leur reconnaissance mutuelle.
+Un peuple ne peut être fondé que lorsqu'on sait qui en fait partie et que les voix peuvent être honnêtement comptées. Tant que les gens vivaient loin les uns des autres et ne pouvaient se vérifier mutuellement, ni l'un ni l'autre n'était possible. Toute liste de participants pouvait être remplie de noms inventés, et une même personne pouvait s'y inscrire plusieurs fois. Le résultat d'un vote non plus ne pouvait être vérifié.
 
-C'est ce que nous faisons.
+Aujourd'hui, cela est résolu. Une personne confirme qu'elle est vivante et unique sans révéler qui elle est. La voix n'appartient qu'à elle: elle ne peut être ni achetée ni accumulée. Le déroulement et le résultat de tout vote sont ouverts - chacun peut s'en assurer sans croire personne sur parole. Toute l'activité du peuple est elle aussi ouverte à la vérification.
 
-Nous déclarons notre intention de constituer un peuple, et nous prenons le nom d'Earthlings. Ce n'est ni une terre ni une origine qui nous unit. C'est un choix. Nous ne revendiquons ni territoire, ni pouvoir, ni droit de parler pour l'humanité entière. Nous parlons en notre propre nom, au nom de ceux qui ont fait ce choix. Nous ne renversons personne et ne prenons rien. Nous n'avons pas d'armes et n'en aurons pas.
+C'est pourquoi un tel peuple ne pouvait naître ni il y a cent ans, ni il y a vingt.
 
-Nous n'avons qu'une voix, et rien d'autre. Nous entendons faire en sorte qu'on doive l'écouter.
+## Le frein extérieur
 
-Nous ne nous attendons pas à ce qu'on nous ouvre les portes tout de suite, ni qu'on nous fasse une place à la table sur simple demande. Nous frapperons à la porte, nous proposerons et nous démontrerons, aussi longtemps qu'il le faudra.
+Beaucoup surveillent le pouvoir: la presse, les défenseurs des droits, les observateurs électoraux. Ils font un travail nécessaire, et tous partagent une même vulnérabilité. On peut les priver de financement, leur retirer leur accréditation, leur refuser l'enregistrement, les expulser du pays. Un contrôleur qu'on peut éteindre n'est pas un frein fiable.
 
-Ce peuple est pour ceux qui voient déjà tout cela. Pour ceux qui comprennent que le problème n'est ni tel gouvernement ni telle élection, mais une construction qui, depuis longtemps, ne suffit plus.
+Le peuple des Earthlings ne peut pas être éteint. Il n'est enregistré dans aucun pays, ne reçoit d'argent d'aucun budget, n'a pas de bureau qu'on puisse fermer ni d'autorisation qu'on puisse révoquer. Pour la première fois, le contrôle s'exerce de telle manière que le contrôlé ne peut ni peser sur celui qui contrôle ni le tenir en main.
 
-Gardez tout ce qui est à vous: votre appartenance nationale, votre langue, votre foi, votre ville, votre nationalité. Nous ne remplaçons rien et ne proposons de renoncer à rien. Nous ajoutons au monde ce qui n'y était pas: une voix qui traverse les frontières sans en abolir aucune.
+Nous ne pouvons ni ne voulons demander de comptes: nous n'en avons pas le mandat. La force d'un frein extérieur tient à ce qu'il rend visible ce que l'on cherche à cacher. C'est ainsi que travaillent les auditeurs et les observateurs électoraux. Nous pouvons confronter le dit au fait et parler de l'écart de façon qu'il devienne évident pour tous.
 
-On n'y entre qu'en le disant soi-même. On en sort n'importe quel jour, sans explication. Ce qu'on ne peut pas quitter, nous ne le construisons pas.
+Ce n'est pas une lutte contre le pouvoir. Un auditeur ne lutte pas contre la banque, un observateur ne lutte pas contre la commission électorale. Le pouvoir lui-même a besoin du contrôle extérieur: c'est le seul moyen de prouver qu'il est propre, quand ses propres contrôleurs sont assis sur son propre budget.
 
-Il n'y a pas d'étrangers chez nous. Il y a ceux qui n'ont pas encore choisi.
+## Qui nous contrôlera
 
-Maintenant, ce que nous n'avons pas encore fait.
+La question que nous avons posée au sujet de l'ONU, nous sommes tenus de nous la poser à nous-mêmes.
 
-Le peuple n'est pas constitué. Il y a vingt-cinq documents dans lesquels nous avons décrit ce qu'il peut être: sur quoi il repose, ce que même une majorité ne peut pas faire, comment les voix se comptent, d'où vient l'argent et où il va. Tout cela, c'est nous qui l'avons écrit. Et cela ne signifie rien tant que vous ne l'avez pas lu.
+Une voix dans le peuple des Earthlings ne peut être ni achetée, ni accumulée, ni retirée. Le registre des participants n'est pas sous le contrôle d'un opérateur unique. Chaque décision peut être vérifiée par n'importe qui. Et les cinq principes qui protègent la personne du pouvoir du peuple lui-même ne peuvent être abolis ni par une majorité, ni par la Charte des Earthlings, ni par une interprétation.
 
-Nous ne proposons pas d'adopter ces textes. Nous proposons de les démonter. Tout le corpus est ouvert, tout document peut être corrigé, chaque objection est publiée avec la réponse qui lui est faite - y compris celle à laquelle nous n'avons rien à répondre. Tous les arguments que nous connaissons contre notre propre construction, nous les avons écrits nous-mêmes avant de demander aux autres de le faire.
+À cette question, nous répondons. L'ONU n'a pas de réponse.
 
-Cinq dispositions seulement ne se discutent pas: celles qui protègent la personne contre le pouvoir du peuple lui-même. Un peuple auquel on pourrait les marchander ne se distinguerait en rien de ce qui existe déjà.
+## Par où commencer
 
-Ensuite viendra le vote. Nous ne promettons pas que cela réussira. Mais ce peuple sera constitué non par celui qui a rédigé ces documents, mais par celui qui votera pour lui.
+Des gens libres et pensants peuvent bâtir ensemble un second système civique, capable de coexister pacifiquement avec celui qui existe déjà. Alors chacun aura le choix de la société dans laquelle il veut vivre. Un peuple qui aura fait la preuve de sa solidité dans la pratique aura tout fondement à devenir un sujet de plein droit du droit international.
 
-**Nous nous choisissons les uns les autres.**
+Sont publiés sur ce site les documents disant à quoi cela sert, comment cela est agencé, sur quoi cela se fonde en droit, et ce que cela donne à chaque personne et à ceux qui viendront après nous.
+
+Commencez par la Déclaration des Earthlings.

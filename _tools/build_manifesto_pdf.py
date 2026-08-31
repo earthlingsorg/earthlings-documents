@@ -184,7 +184,10 @@ def fixed_id(path):
     """
     raw = io.open(path, 'rb').read()
     m = re.search(br'/ID\s*\[\s*<([0-9A-Fa-f]*)>\s*<([0-9A-Fa-f]*)>', raw)
-    assert m, u'в файле нет /ID - проверьте, чем он сохранён'
+    if not m:
+        # Библиотека пишет `/ID` не всегда. Нет его - нечего и гасить: тогда
+        # случайной величины в файле не остаётся вовсе.
+        return
     for g in (1, 2):
         a, b = m.span(g)
         raw = raw[:a] + b'0' * (b - a) + raw[b:]
