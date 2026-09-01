@@ -12,6 +12,7 @@
 """
 import io, os, re, sys, html
 from html.parser import HTMLParser
+import site_guard as guard
 
 INLINE = {'a', 'strong', 'b', 'em', 'i', 'span', 'code', 'sup', 'sub', 'br', 'abbr'}
 SKIP = {'script', 'style', 'svg', 'nav', 'head'}
@@ -213,11 +214,17 @@ def main():
     src, dst = sys.argv[1], sys.argv[2]
     assert os.path.isfile(src), src
     md = convert(src)
-    io.open(dst, 'w', encoding='utf-8', newline='\n').write(md)
+    # Путь назначения приходит из командной строки, то есть может указать
+    # куда угодно, включая боевое дерево сайта. Через замок - как и все
+    # остальные записи.
+    guard.write(dst, md)
     print('OK  %s -> %s, %d строк, %d слов'
           % (os.path.basename(src), os.path.basename(dst),
              len(md.split('\n')), len(re.findall(r'[0-9A-Za-zЀ-ӿ]+', md))))
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except guard.LegacyWriteRefused as e:
+        sys.exit(guard.die(e))

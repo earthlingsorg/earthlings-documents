@@ -141,7 +141,9 @@ def check_sitemap():
 
 
 def check_site(script, name):
-    p = os.path.join(SITE, '_v2', 'tools', script)
+    # Инструменты лежат в репозитории сборки, а не в дереве сайта: после
+    # подмены _v2 становится веб-корнем, и .py в нём наружу не нужны.
+    p = os.path.join(TOOLS, 'v2', script)
     if not os.path.isfile(p):
         return Row(name, False, u'скрипта нет: %s' % p)
     code, out = run([p], cwd=SITE)

@@ -1242,6 +1242,32 @@ OVERRIDES_BY_LANG = {'ru': OVERRIDES, 'en': OVERRIDES_EN, 'de': OVERRIDES_DE,
 # перевода: Декларация и Обращение переданы одним словом, Казначейство и
 # Фонд одним словом, соты названы двумя словами на одной странице,
 # принадлежность и членство взаимозаменяемы. Обвязку с них брать нельзя.
+# Значок вкладки, установка на домашний экран и цвет строки браузера.
+#
+# Один источник на обе сборки - страницы документов и главные, - потому что
+# набор этих строк одинаков для всех 253 страниц и разойтись между двумя
+# генераторами он не должен. До 2026-09-01 их не было НИ НА ОДНОЙ странице:
+# у вкладки стоял пустой квадрат вместо знака, а установка на телефон не
+# предлагалась вовсе.
+#
+# apple-touch-icon отдельной строкой: Safari игнорирует manifest.json и
+# берёт значок только отсюда.
+HEAD_ICONS = '\n'.join([
+    '<link rel="icon" href="/favicon.ico" sizes="any">',
+    '<link rel="icon" href="/favicon.png" type="image/png" sizes="32x32">',
+    '<link rel="apple-touch-icon" href="/images/icon-192.png">',
+    '<link rel="manifest" href="/manifest.json">',
+    '<meta name="theme-color" content="#14285e">',
+])
+
+# Локаль для соцсетей. Facebook и Open Graph ждут форму language_TERRITORY;
+# голый код языка часть площадок молча игнорирует. Территория выбрана по
+# самой многочисленной аудитории языка, а не по «родине» - это подсказка
+# площадке, а не утверждение о стране.
+OG_LOCALE = {'ru': 'ru_RU', 'en': 'en_US', 'de': 'de_DE', 'fr': 'fr_FR',
+             'es': 'es_ES', 'zh': 'zh_CN', 'ar': 'ar_SA', 'hi': 'hi_IN',
+             'ka': 'ka_GE'}
+
 WRAPPER_FROM_PAGE = {'ru': True, 'en': False, 'de': False, 'fr': False,
                     'es': False, 'ka': False, 'zh': False, 'ar': False,
                     'hi': False}
@@ -1606,7 +1632,7 @@ def head_html(num, doc_title, w, lang='ru'):
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
         '<title>%s</title>' % esc(title),
         '<meta name="description" content="%s">' % esc(desc),
-    ] + assets + [
+    ] + [HEAD_ICONS] + assets + [
         '<meta name="robots" content="index, follow">',
         '<meta property="og:type" content="article">',
         '<meta property="og:url" content="%s">' % url,
@@ -1614,8 +1640,10 @@ def head_html(num, doc_title, w, lang='ru'):
         '<meta property="og:description" content="%s">' % esc(og_desc),
         '<meta property="og:image" content="%s/images/og-image.jpg">' % ORIGIN,
         '<meta property="og:site_name" content="Earthlings">',
+        '<meta property="og:locale" content="%s">' % OG_LOCALE[lang],
         '<meta name="twitter:card" content="summary_large_image">',
         '<meta name="twitter:title" content="%s">' % esc(og_title),
+        '<meta name="twitter:description" content="%s">' % esc(og_desc),
         '<meta name="twitter:image" content="%s/images/og-image.jpg">' % ORIGIN,
         '<link rel="canonical" href="%s">' % url,
         '<script type="application/ld+json">',
@@ -1681,10 +1709,22 @@ document.addEventListener('language-changed', function (e) {
 </script>
 <script type="module" src="/js/modern/main.js?v=84"></script>"""
 
+# Счётчик. Ставится в конец body на КАЖДОЙ странице - и на порождённых, и на
+# главных: до 2026-09-01 его не было на двадцати восьми, то есть на всём
+# входе на сайт (главная, девять языковых главных, девять Обращений, девять
+# библиотек). Мерить корпус, не меря посадку, значит не мерить ничего.
+#
+# Условие window.self === window.top намеренное: страница может оказаться в
+# рамке на чужом сайте, и считать это за посещение незачем.
+#
+# stats.js - собственные события поверх просмотров: глубина прокрутки, время
+# на странице, скачивания, исходящие, смена языка, намерение уйти. Грузится
+# defer и молчит, если счётчик заблокирован расширением.
 UMAMI = ('<!--umami-start--><script>if(window.self===window.top){var s=document.createElement("script");'
          's.defer=true;s.src="https://stats.earth-lings.org/script.js";'
          's.setAttribute("data-website-id","badb2091-1880-4933-bf4e-8d7be1f7ce44");'
-         'document.body.appendChild(s);}</script><!--umami-end-->')
+         'document.body.appendChild(s);}</script>'
+         '<script defer src="/js/stats.js"></script><!--umami-end-->')
 
 HOME_SVG = ('<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" '
             'stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" '
@@ -1973,7 +2013,7 @@ def write_library_v2(lang, titles, dry=False):
     # `esc` в head_html - локальная лямбда, наружу её не видно; здесь своя.
     esc = lambda x: html.escape(x or '', quote=True)
 
-    url = '%s/documents/%s/index.html' % (ORIGIN, lang)
+    url = '%s/documents/%s/' % (ORIGIN, lang)
     title = '%s | Earthlings' % chrome.x(lang, 'all_docs')
     desc = chrome.x(lang, 'library_desc')
 
@@ -1981,16 +2021,18 @@ def write_library_v2(lang, titles, dry=False):
     # Обещать краулеру страницу, которой нет, - тот же дефект, что мы чинили в
     # переключателе языка: ссылка ведёт в 404 и тратит обход.
     built = [c for c in ALL_LANGS if c in SLUGS]
-    alts = ['<link rel="alternate" hreflang="%s" href="%s/documents/%s/index.html">'
+    # Адрес каталожный, без index.html: весь остальной сайт живёт на такой
+    # форме, и две формы одной страницы - это два адреса для краулера.
+    alts = ['<link rel="alternate" hreflang="%s" href="%s/documents/%s/">'
             % (c, ORIGIN, c) for c in built]
     alts.append('<link rel="alternate" hreflang="x-default" '
-                'href="%s/documents/en/index.html">' % ORIGIN)
+                'href="%s/documents/en/">' % ORIGIN)
 
     def href(num, code=None):
         return doc_href(num, code or lang)
 
     def lang_url(code):
-        return '/documents/%s/index.html' % code
+        return '/documents/%s/' % code
 
     rows = ['    <li><a href="%s"><span class="n">%s</span>'
             '<span class="t">%s</span></a></li>'
@@ -2009,8 +2051,26 @@ def write_library_v2(lang, titles, dry=False):
         '<link rel="stylesheet" href="/css/chrome.css">',
         '<link rel="stylesheet" href="/css/doc.css">',
         '<script defer src="/js/chrome.js"></script>',
-        '<meta name="robots" content="noindex, follow">',
+        HEAD_ICONS,
+        # Библиотека индексируется. Прежде стояло noindex: страница считалась
+        # служебной. Но это единственный на языке узел, с которого видны все
+        # двадцать пять документов сразу, и для обхода он полезнее любой
+        # отдельной страницы - краулер получает весь корпус за один переход.
+        # Заодно снимается противоречие: hreflang на девять языков стоял на
+        # странице, которую краулеру велено не индексировать.
+        '<meta name="robots" content="index, follow">',
         '<link rel="canonical" href="%s">' % url,
+        '<meta property="og:type" content="website">',
+        '<meta property="og:url" content="%s">' % url,
+        '<meta property="og:title" content="%s">' % esc(title),
+        '<meta property="og:description" content="%s">' % esc(desc),
+        '<meta property="og:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<meta property="og:site_name" content="Earthlings">',
+        '<meta property="og:locale" content="%s">' % OG_LOCALE[lang],
+        '<meta name="twitter:card" content="summary_large_image">',
+        '<meta name="twitter:title" content="%s">' % esc(title),
+        '<meta name="twitter:description" content="%s">' % esc(desc),
+        '<meta name="twitter:image" content="%s/images/og-image.jpg">' % ORIGIN,
     ] + alts + [
         '</head>',
         '<body>',
@@ -2025,17 +2085,14 @@ def write_library_v2(lang, titles, dry=False):
         '</main>',
         chrome.footer_html(lang, doc_href=href,
                            has_doc=lambda n: has_doc(n, lang)),
+        UMAMI,
         '</body>',
         '</html>',
         '',
     ]
 
-    if not dry:
-        d = docs_dir(lang)
-        if not os.path.isdir(d):
-            os.makedirs(d)
-        io.open(os.path.join(d, 'index.html'), 'w',
-                encoding='utf-8', newline='\n').write('\n'.join(parts))
+    guard.write(os.path.join(docs_dir(lang), 'index.html'),
+                '\n'.join(parts), dry=dry)
     return len(nums)
 
 
@@ -2267,16 +2324,17 @@ def write_sitemap_v2(titles, dry=False):
         body.append(url('%s/%s/manifest.html' % (ORIGIN, c), 'monthly', '0.8',
                         alts(lambda x: '%s/%s/manifest.html' % (ORIGIN, x))))
 
-    # Библиотеки. Сейчас страницы несут `noindex, follow`, и пока это так, в
-    # сайтмап они не идут: обещать краулеру то, что сами же запретили
-    # индексировать, - противоречие в двух файлах об одной странице.
-    lib_in_map = False
-    if lib_in_map:
-        for c in built:
-            body.append(url('%s/documents/%s/index.html' % (ORIGIN, c),
-                            'monthly', '0.5',
-                            alts(lambda x: '%s/documents/%s/index.html'
-                                 % (ORIGIN, x))))
+    # Библиотеки. С 2026-09-01 они индексируются и потому идут в сайтмап.
+    #
+    # Прежде на них стояло `noindex, follow`, и здесь стояла заглушка с
+    # доводом: обещать краулеру то, что сами же запретили индексировать, -
+    # противоречие. Довод верный, но снято не то. Библиотека - единственный
+    # на языке узел, с которого видны все двадцать пять документов сразу;
+    # для обхода корпуса он полезнее любой отдельной страницы. Противоречие
+    # снято в другую сторону: страница индексируется, и сайтмап её обещает.
+    for c in built:
+        body.append(url('%s/documents/%s/' % (ORIGIN, c), 'monthly', '0.7',
+                        alts(lambda x: '%s/documents/%s/' % (ORIGIN, x))))
 
     docs = 0
     for num in CHAIN:

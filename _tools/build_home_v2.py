@@ -39,6 +39,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import md2doc                                              # noqa: E402
 import chrome as C                                         # noqa: E402
 from build_site_docs import (SITE, REPO, ORIGIN, ROOT, doc_href, has_doc,
+                             HEAD_ICONS, OG_LOCALE, UMAMI,
                              ALL_LANGS, md_dir, corpus_file, SLUGS)  # noqa: E402
 import site_guard as guard                                 # noqa: E402
 
@@ -386,9 +387,19 @@ def head(lang, url, title, desc, path, extra_css=()):
     alts = ''.join(
         '<link rel="alternate" hreflang="%s" href="%s%s">\n' % (l, ORIGIN, path(l))
         for l in langs)
-    xdef = 'en' if 'en' in langs else langs[0]
-    alts += ('<link rel="alternate" hreflang="x-default" href="%s%s">\n'
-             % (ORIGIN, path(xdef)))
+    # x-default ведёт на КОРЕНЬ, а не на английскую версию.
+    #
+    # Прежде он вёл на /en/, и из этого следовало два дефекта сразу. Первый:
+    # корень объявлял девять альтернатив, а обратной ссылки на него не было
+    # ни у одной - кластер получался невзаимным, и Google вправе не считать
+    # его кластером вовсе. Второй: x-default означает «страница для тех, чей
+    # язык не совпал ни с одним», и это ровно корень - выбор языка, - а не
+    # английская главная, которая такой же язык из девяти.
+    #
+    # На страницах документов x-default по-прежнему ведёт на английскую
+    # версию, и это верно: у документа нет языконезависимой формы.
+    alts += ('<link rel="alternate" hreflang="x-default" href="%s/">\n'
+             % ORIGIN)
     ld = {'@context': 'https://schema.org', '@type': 'WebPage',
           'name': title, 'description': desc, 'inLanguage': lang, 'url': url,
           'publisher': {'@type': 'Organization', 'name': 'Earthlings',
@@ -398,7 +409,7 @@ def head(lang, url, title, desc, path, extra_css=()):
            '<link rel="stylesheet" href="/css/chrome.css">',
            '<link rel="stylesheet" href="/css/doc.css">'] + list(extra_css) \
         + C.script_css(lang) \
-        + ['<link rel="stylesheet" href="/css/print.css">']
+        + ['<link rel="stylesheet" href="/css/print.css" media="print">']
     return '\n'.join([
         '<!DOCTYPE html>',
         '<html lang="%s"%s>' % (lang, ' dir="rtl"' if lang in C.RTL else ''),
@@ -407,6 +418,7 @@ def head(lang, url, title, desc, path, extra_css=()):
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
         '<title>%s</title>' % C.esc(title),
         '<meta name="description" content="%s">' % C.esc(desc),
+        HEAD_ICONS,
     ] + css + [
         '<script defer src="/js/chrome.js"></script>',
         '<meta name="robots" content="index, follow">',
@@ -416,9 +428,10 @@ def head(lang, url, title, desc, path, extra_css=()):
         '<meta property="og:description" content="%s">' % C.esc(desc),
         '<meta property="og:image" content="%s/images/og-image.jpg">' % ORIGIN,
         '<meta property="og:site_name" content="Earthlings">',
-        '<meta property="og:locale" content="%s">' % lang,
+        '<meta property="og:locale" content="%s">' % OG_LOCALE[lang],
         '<meta name="twitter:card" content="summary_large_image">',
         '<meta name="twitter:title" content="%s">' % C.esc(title),
+        '<meta name="twitter:description" content="%s">' % C.esc(desc),
         '<meta name="twitter:image" content="%s/images/og-image.jpg">' % ORIGIN,
         '<link rel="canonical" href="%s">' % url,
         '<script type="application/ld+json">',
@@ -439,6 +452,10 @@ def wrap(lang, inner, url, title, desc, path, extra_css=()):
                       home_url='/%s/' % lang, has_doc=have),
         inner,
         C.footer_html(lang, doc_href=href, has_doc=have),
+        # Счётчик. Его не было ни на одной главной, ни на одном Обращении, ни
+        # на корне - то есть на всём входе на сайт. Корпус мерился, посадка
+        # нет.
+        UMAMI,
         '</body>', '</html>', '',
     ])
 
@@ -1349,9 +1366,7 @@ def main():
         assert not missing, (
             u'нет языковых главных: %s. Корень ведёт на все девять, и эти '
             u'ссылки отдали бы 404 на боевом адресе.' % ', '.join(missing))
-        if not dry:
-            io.open(os.path.join(OUT, 'index.html'), 'w', encoding='utf-8',
-                    newline='\n').write(page)
+        guard.write(os.path.join(OUT, 'index.html'), page, dry=dry)
         text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
                       page.split('<body', 1)[1])).strip()
         print('OK   _v2/index.html      %3d КБ, текста без JS: %5d знаков, '

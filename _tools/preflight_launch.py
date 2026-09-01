@@ -37,11 +37,13 @@ u"""Готовность к подмене боевого сайта черно�
 
 Код возврата - число проваленных проверок, 0 если провалов нет.
 """
+import fnmatch
 import glob
 import gzip
 import io
 import os
 import re
+import subprocess
 import sys
 
 TOOLS = os.path.dirname(os.path.abspath(__file__))
@@ -94,8 +96,12 @@ NOT_IN_WEBROOT = ['preview', 'i18n', 'tools']
 # от них зависит снаружи: ведут ли ссылки в существующее и не попадает ли
 # адрес под серверные редиректы.
 #
-# `preview` в этот список не входит: он не переносится вовсе, а удаляется.
-CARRIED = ['awakened_code']
+# verification - архив криптографических подписей корпуса. Не страницы для
+# чтения, а доказательства: подписанные манифесты и ключи. Ссылок на них с
+# сайта нет и не должно быть, robots.txt их закрывает.
+#
+# `preview` в этот список не входит: он не переносится вовсе, а удалён.
+CARRIED = ['awakened_code', 'verification']
 
 
 class Row(object):
@@ -151,6 +157,13 @@ class Tree(object):
             carried = parts[0] in CARRIED
             for fn in filenames:
                 if not fn.endswith('.html'):
+                    continue
+                # Файл подтверждения владения доменом - не страница: это
+                # выданный поисковиком код, который отдаётся как есть.
+                # Требовать с него значок, описание и счётчик значит держать
+                # в отчёте два вечных провала, которые нечем чинить.
+                if parts == ['.'] and any(
+                        fnmatch.fnmatch(fn, pat) for pat, _ in VERIFY_PATTERNS):
                     continue
                 p = os.path.join(dirpath, fn)
                 (t.carried if carried else t.pages)[rel(p, V2)] = read(p)
@@ -232,7 +245,9 @@ def make_resolver(shared, redirects):
         if not path.startswith('/'):
             return None
         f = path + 'index.html' if path.endswith('/') else path
-        if os.path.isfile(os.path.join(V2, f.lstrip('/'))):
+        # os.path.exists, а не isfile: часть обязательного в корне - каталог
+        # (.well-known), и проверка на файл объявляла бы его отсутствующим.
+        if os.path.exists(os.path.join(V2, f.lstrip('/'))):
             return 'v2'
         top = path.strip('/').split('/')[0]
         if top in shared and os.path.exists(os.path.join(SITE, f.lstrip('/'))):
@@ -294,6 +309,12 @@ def check_internal_links(tree, resolve):
     bad = {}
     for relpath, s in tree.every().items():
         base = os.path.dirname(relpath)
+        # Тела script и style выбрасываются: внутри них встречаются строки,
+        # похожие на ссылку, но ссылками не являющиеся. В
+        # verification/documents/index.html это `/verification/documents/
+        # ${filePath}` - шаблонная подстановка JavaScript, которую проверка
+        # объявляла битой целью.
+        s = re.sub(r'(?is)<(script|style)\b[^>]*>.*?</\1>', '', s)
         for href in re.findall(r'href="([^"]+)"', s):
             if href.startswith(('http://', 'https://', 'mailto:', 'tel:',
                                 '#', 'data:', 'javascript:')):
@@ -367,9 +388,25 @@ def check_robots(tree, resolve):
 
 
 def check_webroot_clean(tree, resolve):
-    u"""Служебных каталогов в корне будущего боевого домена нет."""
+    u"""Служебных каталогов в корне будущего боевого домена нет.
+
+    Считается по ОТСЛЕЖИВАЕМЫМ файлам, а не по наличию каталога на диске.
+    Сервер получает дерево через git, и неотслеживаемое до него не доезжает
+    никогда: локальные отчёты и __pycache__ в рабочей копии остаются, но
+    наружу не отдаются. Проверка по диску объявляла бы провалом то, чего на
+    боевом домене не будет.
+    """
     name = u'служебного в корне нет'
-    present = [d for d in NOT_IN_WEBROOT if os.path.isdir(os.path.join(V2, d))]
+    try:
+        out = subprocess.run(['git', 'ls-files', '_v2'], cwd=SITE,
+                             capture_output=True, timeout=120)
+    except Exception as e:                       # noqa: BLE001
+        return fail(name, u'git не запустился: %s' % e)
+    tracked = (out.stdout or b'').decode('utf-8', 'replace').split('\n')
+    if not any(t.strip() for t in tracked):
+        return fail(name, u'git не показал ни одного файла в _v2')
+    present = sorted({d for d in NOT_IN_WEBROOT
+                      for t in tracked if t.startswith('_v2/%s/' % d)})
     return Row(name, not present,
                u'служебных каталогов в корне: %d' % len(present),
                [u'/%s/ - после подмены отдаётся наружу' % d for d in present])
