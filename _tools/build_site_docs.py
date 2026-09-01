@@ -2321,8 +2321,8 @@ def write_sitemap_v2(titles, dry=False):
                         alts(lambda x: '%s/%s/' % (ORIGIN, x))))
 
     for c in built:
-        body.append(url('%s/%s/manifest.html' % (ORIGIN, c), 'monthly', '0.8',
-                        alts(lambda x: '%s/%s/manifest.html' % (ORIGIN, x))))
+        body.append(url('%s/%s/address.html' % (ORIGIN, c), 'monthly', '0.8',
+                        alts(lambda x: '%s/%s/address.html' % (ORIGIN, x))))
 
     # Библиотеки. С 2026-09-01 они индексируются и потому идут в сайтмап.
     #

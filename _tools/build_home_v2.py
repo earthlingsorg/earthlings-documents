@@ -22,7 +22,7 @@ u"""Языковая главная нового сайта: чередован�
 
 Собирается два файла на язык:
   _v2/<язык>/index.html     - полосы
-  _v2/<язык>/manifest.html  - Обращение целиком, набранный как документ
+  _v2/<язык>/address.html  - Обращение целиком, набранный как документ
 
 Использование:
   python build_home_v2.py            все языки, для которых есть мастера
@@ -1213,7 +1213,7 @@ def build_index(lang):
                 theme, title_of(address), poster_line(lang),
                 ann if ann else lead(load, 'address', nums, anchor, lang),
                 (C.x(lang, 'why_we_do_this' if ann else 'read_addresso'),
-                 '/%s/manifest.html' % lang)))
+                 '/%s/address.html' % lang)))
         elif what == 'legal':
             items = [(title_of(doc_master(d, lang)), doc_href(d, lang))
                      for d in LEGAL_DOCS if has_doc(d, lang)]
@@ -1280,9 +1280,9 @@ def build_address(lang):
     desc = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '',
                   md_inline(prose(md)[0])))[:300]
     return wrap(lang, '\n'.join(o),
-                '%s/%s/manifest.html' % (ORIGIN, lang),
+                '%s/%s/address.html' % (ORIGIN, lang),
                 '%s | Earthlings' % doc['title'], desc,
-                lambda c: '/%s/manifest.html' % c,
+                lambda c: '/%s/address.html' % c,
                 # home.css здесь НЕ подключается. Из него странице
                 # Обращения нужны были три правила из ста восьмидесяти -
                 # три процента файла, - и они переехали: подпись и ссылка
@@ -1358,9 +1358,9 @@ def main():
         d = os.path.join(OUT, lang)
         if not os.path.isdir(d) and not dry:
             guard.makedirs(d)
-        pages = ([('manifest.html', build_address(lang))] if only_address
+        pages = ([('address.html', build_address(lang))] if only_address
                  else [('index.html', build_index(lang)),
-                       ('manifest.html', build_address(lang))])
+                       ('address.html', build_address(lang))])
         for name, page in pages:
             guard.write(os.path.join(d, name), page, dry=dry)
             text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',

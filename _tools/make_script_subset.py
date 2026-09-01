@@ -70,7 +70,7 @@ def corpus_chars(lang):
     проверка на нуле данных напечатала бы победу и испекла пустой шрифт."""
     files = sorted(glob.glob(os.path.join(V2, 'documents', lang, '*.html')))
     files += [os.path.join(V2, lang, 'index.html'),
-              os.path.join(V2, lang, 'manifest.html')]
+              os.path.join(V2, lang, 'address.html')]
     files = [f for f in files if os.path.isfile(f)]
     assert files, u'страниц языка %r не найдено' % lang
 

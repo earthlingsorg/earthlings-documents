@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 u"""Собирает PDF Обращения печатью страницы черновика браузером.
 
-Источник один - `_v2/<язык>/manifest.html`, тот же файл, который встанет на
-earth-lings.org/<язык>/manifest.html после подмены корня. Ничего не
+Источник один - `_v2/<язык>/address.html`, тот же файл, который встанет на
+earth-lings.org/<язык>/address.html после подмены корня. Ничего не
 дублируется: правится мастер Обращения, перезапускается build_home_v2.py,
 перезапускается этот скрипт.
 
@@ -202,7 +202,7 @@ def fixed_id(path):
 # ------------------------------------------------------------------ сборка
 
 def build(lang, port, browser):
-    src = os.path.join(V2, lang, 'manifest.html')
+    src = os.path.join(V2, lang, 'address.html')
     assert os.path.isfile(src), u'нет страницы Обращения: %s' % src
     name = BY_LANG.get(lang)
     assert name, u'язык %r не назван в BY_LANG' % lang
@@ -219,7 +219,7 @@ def build(lang, port, browser):
         [browser, '--headless=new', '--disable-gpu', '--no-pdf-header-footer',
          '--user-data-dir=' + profile, '--virtual-time-budget=15000',
          '--print-to-pdf=' + out,
-         'http://127.0.0.1:%d/%s/manifest.html' % (port, lang)],
+         'http://127.0.0.1:%d/%s/address.html' % (port, lang)],
         stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=180)
 
     assert not Handler.misses, (
