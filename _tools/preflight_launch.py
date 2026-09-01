@@ -497,19 +497,36 @@ def check_dead_css(tree, resolve):
     known = set(tree.classes)
     known.update(re.findall(r'classList\.(?:add|remove|toggle)\(\s*[\'"]([\w-]+)',
                             js))
+    # Правило может остаться без разметки НАМЕРЕННО: ветка генератора жива, и
+    # снятие правила означало бы, что вызов функции однажды выдаст
+    # неоформленный блок. Такие объявляются строкой
+    # `unused-ok: имя [имя...] - причина` прямо в таблице стилей - там же, где
+    # объявляются классы без правил, и по той же причине: список в проверке
+    # был бы копией решения.
+    declared = set()
+    for css in tree.css.values():
+        for m in re.finditer(r'unused-ok:\s*([A-Za-z][\w\- ]*?)\s*-\s', css):
+            declared.update(m.group(1).split())
     dead = {}
     for relpath, css in tree.css.items():
         body = strip_css_comments(css)
         for sel in re.findall(r'(?m)^([^{}@/][^{}]*?)\{', body):
             for part in sel.split(','):
                 for cls in re.findall(r'\.([A-Za-z][\w-]*)', part):
-                    if cls not in known:
+                    if cls not in known and cls not in declared:
                         dead.setdefault(cls, set()).add(relpath)
-    return Row(name, not dead,
-               u'файлов стилей %d, мёртвых классов %d'
-               % (len(tree.css), len(dead)),
+    # Объявление, под которым класс вернулся в разметку, - тоже расхождение.
+    stale = sorted(d for d in declared if d in known)
+    note = u'файлов стилей %d, мёртвых классов %d' % (len(tree.css), len(dead))
+    if declared:
+        note += u', оставлено намеренно %d' % len(declared)
+    if stale:
+        note += u', объявления устарели: %d' % len(stale)
+    return Row(name, not dead and not stale, note,
                [u'.%s (%s)' % (k, ', '.join(sorted(v)))
-                for k, v in sorted(dead.items())])
+                for k, v in sorted(dead.items())]
+               + [u'.%s - объявлен unused-ok, но класс есть в разметке' % c
+                  for c in stale])
 
 
 def check_unstyled_classes(tree, resolve):
