@@ -538,12 +538,29 @@ def check_unstyled_classes(tree, resolve):
                 used.setdefault(c, set()).add(relpath)
     if not used:
         return fail(name, u'в разметке не найдено ни одного класса')
-    orphan = sorted(c for c in used if c not in styled)
-    return Row(name, not orphan,
-               u'классов в разметке %d, без единого правила %d'
-               % (len(used), len(orphan)),
+    # Класс может не иметь правил НАМЕРЕННО: раскладку держит родитель,
+    # оформление идёт селектором по элементу, имя оставлено опорой на будущее.
+    # Такие объявляются строкой `no-style: имя [имя...] - причина` прямо в
+    # таблице стилей, и читаются отсюда живьём. Список в самой проверке был бы
+    # копией решения и разошёлся бы с ним при первой правке.
+    declared = set()
+    for css in tree.css.values():
+        for m in re.finditer(r'no-style:\s*([A-Za-z][\w\- ]*?)\s*-\s', css):
+            declared.update(m.group(1).split())
+    orphan = sorted(c for c in used if c not in styled and c not in declared)
+    # Объявление, под которым нет класса, - тоже расхождение: правило дописали,
+    # а объявление забыли снять, и проверка молчит на настоящем дефекте.
+    stale = sorted(d for d in declared if d not in used or d in styled)
+    note = u'классов в разметке %d, без единого правила %d' % (len(used), len(orphan))
+    if declared:
+        note += u', объявлено без правил %d' % len(declared)
+    if stale:
+        note += u', объявления устарели: %d' % len(stale)
+    return Row(name, not orphan and not stale, note,
                [u'.%s - %d стр., напр. %s'
-                % (c, len(used[c]), sorted(used[c])[0]) for c in orphan])
+                % (c, len(used[c]), sorted(used[c])[0]) for c in orphan]
+               + [u'.%s - объявлен no-style, но правило есть или класса нет' % c
+                  for c in stale])
 
 
 def check_budgets(tree, resolve):
