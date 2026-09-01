@@ -196,7 +196,9 @@ def main():
 
     assert faces, u'не испечено ни одного начертания'
     css = HEAD % (a.lang, len(chars), pages, a.was) + '\n' + '\n'.join(faces)
-    guard.write(os.path.join(V2, 'css', 'fonts-%s.css' % a.lang), css)
+    # Пишется ИСХОДНИК. Выдачу из него делает build_css.py - он снимает
+    # комментарии, а их здесь на две трети файла.
+    guard.write(os.path.join(HERE, 'css', 'fonts-%s.css' % a.lang), css)
     print(u'')
     print(u'css/fonts-%s.css: правил %d, шрифтов %.0f КБ на весь корпус'
           % (a.lang, len(faces), total / 1024.0))

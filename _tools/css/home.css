@@ -1,0 +1,714 @@
+/* ============================================================================
+   Языковая главная: чередование полос, как на epic.org.
+
+   У них это классы темы на полноширокой секции: .t-white (#fff на #14285e),
+   .t-lightBlue (#e6edf4) и .t-navy (#14285e, текст белый). Вертикальные поля
+   секции - 6.25rem при их корне 13px, то есть 81px, и текучие ниже 600px.
+   Здесь то же самое ролями из tokens.css.
+
+   Полоса - единственный приём, которым страница делится на части: ни рамок,
+   ни теней, ни карточек с тенью. Так же у epic.
+
+   Цветов литералами нет ни одного.
+   ========================================================================= */
+
+/* Высота полосы. Было 56-80px, стало 64-96px. Верх выбран по epic: у них
+   вертикальные поля секций идут от 4.1875rem (54px) у сетки тем до 9.875rem
+   (128px) у главной тёмной секции при корне 13px. Наши прежние 80px были
+   ниже всего их диапазона, кроме самой тесной секции. 96px - середина. */
+/* Правила, под которыми сейчас нет разметки, но которые оставлены
+   намеренно: соответствующие ветки генератора живы, и снятие правил
+   означало бы, что вызов функции однажды выдаст неоформленный блок.
+   Объявлены здесь, рядом со стилями, - приёмка читает эти строки живьём.
+
+   unused-ok: ladder ladder-step ladder-gap - лестница правовых форм.
+   Полоса снята с главной 2026-08-22, её сборка в build_home_v2.py
+   осталась: вернуть полосу значит дописать туда одну строку.
+
+   unused-ok: band--reserved reserved-slot - полоса под содержимое,
+   которого ещё нет. Функция reserved() в build_home_v2.py на месте.
+
+   unused-ok: band-list - список документов внутри полосы; выдаётся
+   функцией band(), когда ей передан items. Сейчас его не передаёт ни
+   одна полоса. */
+
+/* no-style: band--steps band--platform band--objections - имена полос.
+   Содержимое каждой оформлено своими классами (.steps, .platform-row,
+   .objections), а сама полоса берёт вид от темы (--white/--mist/--navy).
+   Имя оставлено как опора для будущей правки одной полосы: удобнее
+   дописать правило, чем вспоминать, какая по счёту полоса какая. */
+.band { padding: clamp(4rem, 8vw, 6rem) 0; }
+
+/* Две полосы одного фона подряд сливаются в одну. Такое соседство у нас уже
+   есть в конце страницы: полоса Awakened Code белая решением Артура
+   2026-08-22, последняя полоса белая решением Артура 2026-08-25 - оба
+   решения в силе, и менять фон ни одной из них нельзя. Поэтому граница
+   проводится линейкой, а не цветом. Правило написано на класс соседства, а
+   не на конкретную полосу: порядок полос ещё будет меняться, и чинить надо
+   случай, а не его сегодняшнее проявление. */
+.band--white + .band--white,
+.band--mist + .band--mist,
+.band--navy + .band--navy { border-top: 1px solid currentColor; }
+.band-in {
+  max-width: var(--container); margin: 0 auto;
+  padding: 0 clamp(1.25rem, 5vw, 2rem);
+}
+
+.band--white { background: var(--bg);        color: var(--ink); }
+.band--mist  { background: var(--bg-alt);    color: var(--ink); }
+.band--navy  { background: var(--bg-invert); color: var(--ink-on-dark); }
+
+/* --- первая полоса: Манифест плакатом --------------------------------------
+   Крупная строка - первые фразы Манифеста, дальше продолжение того же абзаца
+   мелким в две колонки. Фотографий у сайта нет ни одной, и заменять их
+   нечем - но у Манифеста есть голос, и набранный крупно он работает сам.  */
+.band--poster { padding-block: clamp(4rem, 9vw, 7rem); }
+.band-kicker {
+  margin: 0 0 var(--gap-sm);
+  font-family: var(--sans-nav); font-size: var(--fs-nav-bar); font-weight: 700;
+  letter-spacing: .12em; text-transform: uppercase; color: var(--link);
+}
+/* Кегль и мера подобраны под ДЛИНУ строки, которая на плакате стоит.
+   Прежняя («Международные организации. Посмотрите на это слово внимательно.
+   Между народами - так оно читается») была втрое короче нынешней, и при 17ch
+   и 5rem новая занимала восемь строк и уезжала за нижний край первого экрана.
+   28ch и 3.5rem дают пять строк - плакат остаётся плакатом и помещается.
+
+   Мера в ch, а не в rem, но считается она по Cormorant, а грузинский и
+   деванагари рисуются подстановкой Noto, буквы которой шире. Поэтому 28ch, а
+   не 24: на грузинском строка иначе разваливается на восемь строк и уводит
+   текст под нижний край. */
+/* Вес 500, а не 300. Замер: площадь чернил слова, делённая на площадь
+   строки, у JuniusX Light (заголовки epic.org) - 0.2210; у Cormorant 300 -
+   0.1632, то есть 74% от образца; у Cormorant 500 - 0.2169, то есть 98%.
+   Четверти штриха на странице просто не было. Кегль при этом не меняется. */
+.poster-line {
+  font-family: var(--serif); font-weight: 500;
+  font-size: clamp(1.75rem, 4.2vw, 3.5rem); line-height: 1.06;
+  letter-spacing: -.01em; margin: 0 0 var(--gap-lg); max-width: 28ch;
+}
+.poster-body { max-width: 58rem; }
+.poster-body p { margin: 0 0 1em; }
+.poster-body p:last-child { margin-bottom: 0; }
+@media (min-width: 56rem) {
+  .poster-body { columns: 2; column-gap: var(--gap-lg); }
+  .poster-body p { break-inside: avoid; }
+}
+
+/* --- полоса под содержимое, которого ещё нет -------------------------------
+   Ни одного слова: место обозначено рамкой и номером. Номер перевода не
+   требует, а «скоро» на девяти языках пришлось бы потом вычищать.        */
+.band--reserved { padding-block: clamp(2.5rem, 5vw, 4rem); }
+.reserved-slot {
+  display: flex; align-items: center; justify-content: center;
+  min-height: 9rem; border: 2px dashed var(--rule);
+  font-family: var(--serif); font-size: 2.5rem; color: var(--ink-soft);
+}
+
+/* --- заголовок и лид ------------------------------------------------------ */
+/* Вес 500, а не 300. Замер: площадь чернил слова, делённая на площадь
+   строки, у JuniusX Light (заголовки epic.org) - 0.2210; у Cormorant 300 -
+   0.1632, то есть 74% от образца; у Cormorant 500 - 0.2169, то есть 98%.
+   Четверти штриха на странице просто не было. Кегль при этом не меняется. */
+.band-title {
+  font-family: var(--serif); font-weight: 500; font-size: var(--fs-h2);
+  line-height: var(--lh-h2); margin: 0 0 var(--gap-md); max-width: 24ch;
+}
+.band--navy .band-title { color: var(--ink-invert); }
+
+.band-lead { max-width: 46rem; }
+.band-lead p { margin: 0 0 1em; }
+.band-lead p:first-child { font-size: var(--fs-lead); line-height: 1.5; }
+.band-lead p:last-child { margin-bottom: 0; }
+
+/* --- ссылка «читать целиком» ----------------------------------------------
+   Зелёная линейка снизу и зелёная стрелка - приём epic, взятый поимённо:
+   .PromoImage-link у них border-bottom 3px solid #57b748, padding-bottom
+   .9375rem, а .PromoImage-link-arrow того же зелёного. Подчёркивания на
+   наведении у них нет вовсе - работу метки видно и так, а на наведении
+   меняется цвет линейки.
+
+   Зелёный здесь не текст, а линейка и стрелка. Текст остаётся синим
+   (--link, 6.18 к одному на белом): зелёный epic на белом даёт 2.54 и
+   текстом быть не может - ровно поэтому в палитре и заведён --green-dark.  */
+.band-more {
+  display: inline-flex; align-items: baseline; gap: .5rem;
+  margin-top: var(--gap-md); padding-bottom: .55rem;
+  border-bottom: 3px solid var(--green);
+  font-family: var(--sans-nav); font-size: var(--fs-nav-bar); font-weight: 700;
+  letter-spacing: .04em; text-transform: uppercase;
+  color: var(--link); text-decoration: none;
+  transition: border-color .2s ease;
+}
+.band-more::after { content: "\2192"; color: var(--green); }
+.band-more:hover, .band-more:focus-visible { border-bottom-color: var(--link); }
+.band--navy .band-more { color: var(--link-on-dark); }
+.band--navy .band-more:hover,
+.band--navy .band-more:focus-visible { border-bottom-color: var(--ink-invert); }
+@media (prefers-reduced-motion: reduce) { .band-more { transition: none; } }
+
+/* --- список документов внутри полосы -------------------------------------- */
+.band-list {
+  list-style: none; margin: var(--gap-md) 0 0; padding: 0;
+  columns: 22ch; column-gap: var(--gap-lg);
+}
+.band-list li { break-inside: avoid; margin: 0 0 var(--gap-sm); }
+.band-list a {
+  display: block; font-family: var(--serif); font-size: var(--fs-menu);
+  font-weight: 400; line-height: 1.15; color: currentColor; text-decoration: none;
+}
+.band-list a:hover, .band-list a:focus-visible {
+  color: var(--link); text-decoration: underline;
+}
+.band--navy .band-list a:hover, .band--navy .band-list a:focus-visible {
+  color: var(--link-on-dark);
+}
+
+/* --- кнопка действия ------------------------------------------------------- */
+.band-cta {
+  display: inline-block; margin-top: var(--gap-md);
+  padding: .9rem 2rem; border-radius: var(--radius);
+  background: var(--cta-bg); color: var(--ink-invert);
+  font-family: var(--sans); font-size: var(--fs-cta); font-weight: 700;
+  text-transform: uppercase; letter-spacing: .1rem; text-decoration: none;
+}
+.band-cta:hover, .band-cta:focus-visible {
+  background: var(--cta-bg-hover); color: var(--ink-invert);
+}
+/* На тёмной полосе синяя кнопка на тёмно-синем читается плохо: 1988ff на
+   14285e даёт 4.70:1 для фона, но края кнопки теряются. Как у epic, на navy
+   кнопка становится белой с тёмной надписью. */
+.band--navy .band-cta { background: var(--ink-invert); color: var(--bg-invert); }
+.band--navy .band-cta:hover, .band--navy .band-cta:focus-visible {
+  background: var(--bg-alt); color: var(--bg-invert);
+}
+
+/* --- шкала учредительного периода ------------------------------------------
+   Четыре вехи из раздела «Сроки» документа 20, слово в слово. Это единственная
+   полоса, где есть даты, - значит и декор у неё свой, а не общий.
+
+   Какая веха ближайшая, проставляет js/home.js при показе: страница
+   статическая, и отметка «сейчас здесь», вбитая при сборке, соврала бы через
+   месяц. Без скрипта шкала читается целиком, просто без подсветки.        */
+.timeline {
+  list-style: none; margin: var(--gap-lg) 0 0; padding: 0;
+  display: grid; gap: var(--gap-md);
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+}
+.tl-step {
+  position: relative; padding-top: var(--gap-sm);
+  border-top: 2px solid currentColor;
+}
+.tl-step::before {
+  content: ""; position: absolute; top: -7px; inset-inline-start: 0;
+  width: 12px; height: 12px; background: currentColor;
+}
+.tl-date {
+  display: block; font-family: var(--sans-nav); font-weight: 700;
+  font-size: var(--fs-nav-bar); letter-spacing: .06em; text-transform: uppercase;
+}
+.tl-text { display: block; margin-top: .45rem; }
+/* Пройденная веха отмечена пустым квадратом, а не прозрачностью: прозрачность
+   на тёмной полосе увела бы текст ниже порога контраста. */
+.tl-step.is-done::before { background: none; box-shadow: inset 0 0 0 2px currentColor; }
+.tl-step.is-next { color: var(--green); }
+.tl-step.is-next .tl-text { color: var(--ink-on-dark); }
+.band--white .tl-step.is-next .tl-text, .band--mist .tl-step.is-next .tl-text {
+  color: var(--ink);
+}
+
+/* --- лестница правовых форм ------------------------------------------------
+   Документ 04 перечисляет формы, которые право даёт объединениям людей - от
+   брака до международной организации, - и заканчивает: на уровне человечества
+   формы нет. Ступени растут в ширину, последняя пунктирная и пустая: это и
+   есть недостающая ступень, ради которой существует проект.
+
+   Схема не выдумана: и формы, и заключительная фраза взяты из мастера слово
+   в слово, на каждом языке свои.
+
+   СЕЙЧАС НА ГЛАВНОЙ ЛЕСТНИЦЫ НЕТ: правовая полоса снята решением Артура
+   2026-08-22. Правила оставлены вместе с её сборкой в build_home_v2.py -
+   вернуть полосу значит дописать туда одну строку, и стили должны быть на
+   месте, когда это случится.                                              */
+.ladder { list-style: none; margin: var(--gap-lg) 0 0; padding: 0; }
+.ladder-step {
+  /* --i выставляет генератор инлайном на каждой ступени. Запасное
+     значение обязательно: без него ступень без атрибута теряет ширину
+     целиком, а не садится на минимум. */
+  width: calc(34% + var(--i, 0) * 8.25%);
+  min-width: 12rem; max-width: 100%;
+  margin-bottom: .4rem; padding: .65rem 1rem;
+  background: var(--bg); color: var(--ink);
+  font-family: var(--serif); font-size: 1.15rem; line-height: 1.2;
+}
+.ladder-gap {
+  background: none; border: 2px dashed var(--link);
+  font-family: var(--sans); font-size: var(--fs-body); font-weight: 600;
+  margin-top: var(--gap-sm);
+}
+.band--navy .ladder-step { background: var(--bg-alt); }
+.band--navy .ladder-gap { background: none; color: var(--ink-invert); border-color: var(--ink-invert); }
+
+/* --- последняя полоса -----------------------------------------------------
+   Фраза словом, кнопка отдельно (решение Артура 2026-08-25). С 23 августа всё
+   предложение само было кнопкой; теперь оно набрано тем же серифом, что и
+   заголовки полос, а действие стоит рядом обычной кнопкой действия - той же,
+   что и во всех прочих полосах. Второго синего для неё не заводится: у сайта
+   один цвет действия, и разводить их значит перестать быть узнаваемым.
+
+   Полоса белая, а не бледно-голубая: фон снят по той же просьбе. */
+.band--join .band-in { display: flex; justify-content: center; }
+
+/* Карточка последней полосы. Приём тот же, что у девяти языковых версий
+   Декларации и у шести шагов: светлая заливка, линейка сверху, поля по
+   кругу. На белой полосе заливка туманная - карточка обязана отличаться от
+   полосы, иначе её нет.
+
+   Поля щедрее, чем у прочих карточек, и это единственная карточка на сайте,
+   которая стоит одна: ей не с чем держать ряд, и тесные поля читались бы
+   здесь как обрезка.                                                      */
+.join-card {
+  display: flex; flex-direction: column; align-items: center;
+  gap: var(--gap-md);
+  /* Ширина следует из замера, а не подобрана: перенос задан руками, и если
+     карточка уже длинной половины фразы, строка сломается ещё раз - именно
+     это и вышло при 46rem. Замер по таблицам hmtx настоящих файлов шрифта,
+     Cormorant 500, кегль 36px: русская первая половина просит 626px,
+     испанская вторая - 644px. Для хинди, грузинского, арабского и китайского
+     число оценочное: там работает подстановка Noto, метрик которой замер не
+     знает, и оценка даёт около 680px. Отсюда 52rem - текстовое поле выходит
+     около 736px, то есть с запасом к самой длинной измеренной половине. */
+  max-width: 52rem;
+  padding: clamp(2.25rem, 5vw, 3.5rem) clamp(1.5rem, 4vw, 3rem);
+  background: var(--bg-alt);
+  border-top: 3px solid var(--link);
+  text-align: center;
+}
+
+/* Перенос строки внутри фразы задан РАЗМЕТКОЙ, а не шириной: по ширине он
+   попадал бы в разное место на разных экранах и на разных языках, а место
+   разрыва здесь смысловое - граница между тем, что нужно, и тем, где это
+   есть. Ограничения по ширине поэтому нет; его роль исполняет сам перенос. */
+.join-line {
+  margin: 0;
+  font-family: var(--serif); font-weight: 500;
+  font-size: var(--fs-h2); line-height: var(--lh-h2); color: var(--ink);
+  /* text-wrap: balance здесь НЕ ставится, хотя у заголовков он стоит везде.
+     Он выравнивает длины строк по своему усмотрению и авторский перенос
+     переигрывает: первая половина фразы разъезжалась на две строки, и
+     вместо двух строк выходило три. Где перенос задан руками, балансировщик
+     лишний. */
+}
+.band--join .band-cta { margin-top: 0; }
+
+/* Два выхода из полосы платформы, снизу под карточками (решение Артура
+   2026-08-25). Прежде они стояли в текстовой колонке слева - человек встречал
+   предложение уйти раньше, чем видел, куда его зовут. Выстроены в строку с
+   общим просветом; margin-top у обоих снят, отступ держит сам контейнер.
+
+   В тот же день их ненадолго вернули в колонку: рамку тура подняли, и слева
+   под текстом образовалась пустота. Рамку откатили - вернулось и это место. */
+.platform-acts {
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: var(--gap-lg); margin-top: var(--gap-lg);
+}
+.platform-acts .band-more, .platform-acts .band-cta { margin-top: 0; }
+
+@media print { .langlist a, .step { border-top-color: var(--rule); } }
+
+/* --- полоса «как вступить» -------------------------------------------------
+   Четыре условия, шесть шагов, слово о биометрии.
+
+   Форма выбрана так, чтобы не повторить два уже занятых приёма: шкала
+   учредительного периода - точки на линии с датами, лестница правосубъектности
+   - ступени растущей ширины. Здесь ни того, ни другого: простая сетка панелей
+   с крупной цифрой, как нумерованный список и есть. Стрелок и соединительных
+   линий нет намеренно - порядок задаёт цифра, а рисованная стрелка на переносе
+   строки всё равно указывает не туда.                                     */
+.reqs {
+  list-style: none; margin: var(--gap-md) 0 0; padding: 0;
+  display: grid; gap: var(--gap-sm);
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+}
+.reqs li {
+  padding-top: .7rem; border-top: 3px solid var(--ink);
+}
+.req-name {
+  display: block;
+  font-family: var(--sans-nav); font-size: var(--fs-label); font-weight: 700;
+  letter-spacing: .1em; text-transform: uppercase;
+}
+.req-text { display: block; margin-top: .2rem; color: var(--ink-soft); }
+
+.steps {
+  list-style: none; margin: var(--gap-lg) 0 0; padding: 0;
+  display: grid; gap: 1.75rem;
+  /* Три колонки, а не auto-fit. Шагов ровно шесть, и при автоподборе на
+     широком экране их вставало четыре и два: нижний ряд повисал огрызком.
+     Три и три - шесть делится на три, и оба ряда полные. Ниже 62rem две
+     колонки, на телефоне одна.                                            */
+  grid-template-columns: minmax(0, 1fr);
+  /* Просвет вместо решётки. Зазор в один пиксель на цвете линейки работал,
+     пока полоса была одноцветной; с 25 августа шаги стояли на белой плите, и
+     решётка оказалась белым на белом. Теперь просвет 28px, как между
+     карточками сетки у epic, и в нём виден цвет полосы. */
+}
+@media (min-width: 38rem) {
+  .steps { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 62rem) {
+  .steps { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+.step {
+  /* align-content: start - лишняя высота уходит вниз карточки, а не в
+     промежутки между цифрой, названием и текстом. Иначе в карточке с
+     коротким текстом название отрывается от него, а в соседней с длинным
+     стоит вплотную, и шесть шагов набраны как будто по-разному. */
+  display: grid; gap: .15rem; align-content: start;
+  padding: 1.4rem 1.5rem 1.6rem;
+  /* Цвет задан на карточке, а не унаследован от полосы. Без этого название
+     шага, у которого своего цвета нет, приезжает туманным с тёмной полосы и
+     на белой карточке пропадает. */
+  background: var(--bg); color: var(--ink);
+  border-top: 3px solid var(--link);
+}
+/* Тот же подбор тона, что у языковых карточек: на тёмной полосе линейка
+   светлеет, иначе она сливается с фоном вокруг карточки. */
+.band--navy .step { border-top-color: var(--blue); }
+/* Крупная цифра вернулась на карточку (решение Артура 2026-08-25). Снята она
+   была 23 августа, когда шаги стояли решёткой в две колонки и цифра занимала
+   собственную колонку, оставляя слева пустое место. Карточек с просветами это
+   больше не касается: цифра стоит над названием, своей колонки не просит.
+
+   Цифра приходит из мастера как есть. Сейчас все восемь мастеров нумеруют
+   шаги латинскими цифрами, поэтому цифра одна и та же на всех языках; если
+   мастер когда-нибудь пронумеруют иначе, сюда приедет то, что в нём есть.
+
+   Приём epic: .FeaturedPost-date-day - число серифом в 2.25rem над мелкой
+   подписью. Цвет синий, как у метки карточки, чтобы цифра и метка читались
+   одним слоем.                                                            */
+.step-num {
+  font-family: var(--serif); font-weight: 500;
+  font-size: 2.25rem; line-height: 1; color: var(--link);
+  margin-bottom: .35rem;
+}
+.step-name {
+  font-family: var(--sans-nav); font-size: var(--fs-label); font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase;
+}
+.step-text { color: var(--ink-soft); }
+/* Карточка обязана отличаться от полосы, иначе её нет: на белой полосе она
+   туманная, на всех прочих белая. Правило то же, что у языковых карточек. */
+.band--white .step { background: var(--bg-alt); }
+
+/* Полоса «Шесть шагов» переехала на тёмно-синий (решение Артура 2026-08-23), и
+   вместе с фоном пришлось перекрыть всё, что на белом было тёмным. Линейки
+   требований рисовались основным тоном - на тёмном они исчезли бы совсем.
+   Пояснения под требованиями были приглушённым синим: на белом это 5.39 к
+   одному, на тёмном - меньше двух. Ссылка в прозе была синей epic: на тёмном
+   2.4 к одному, читать нельзя. На тёмном ссылку отличает подчёркивание, а не
+   оттенок - то же правило, что в подвале.                                  */
+.band--navy .reqs li { border-top-color: var(--ink-on-dark); }
+.band--navy .req-text { color: var(--ink-on-dark); }
+.band--navy .steps-note { border-inline-start-color: var(--link-on-dark); }
+.band--navy .band-lead a, .band--navy .steps-note a, .band--navy .req-text a {
+  color: var(--link-on-dark); text-decoration: underline;
+}
+
+/* Слово о биометрии. Не мелкий шрифт внизу: это ровно то, из-за чего человек
+   колеблется перед проверкой личности, и прятать его было бы нечестно. */
+.steps-note {
+  /* Свойства логические, а не физические: на арабской главной полоска
+     обязана стоять справа. Парного правила [dir="rtl"] здесь не было, и
+     она стояла слева - единственное такое место в home.css. */
+  margin: var(--gap-md) 0 0; padding-inline-start: var(--gap-sm);
+  border-inline-start: 3px solid var(--link);
+  max-width: 46rem;
+}
+
+/* --- полоса платформы ------------------------------------------------------
+   Слева текст из документа 12, справа туры платформы карточками.
+
+   Карточки ПРЯМЫЕ, и это решение, а не упущение. Скошенные бока заняты
+   языковым слайдером тремя полосами выше; повторить приём значило бы сделать
+   две разные вещи на одно лицо. Там девять письменностей одного текста -
+   витрина; здесь тринадцать разделов работающего приложения - оглавление.
+   Разное содержание, разная форма.
+
+   Лента прокручивается вбок и держится на scroll-snap. Скрипта нет: клавиатура
+   проходит её сама, фокус идёт по ссылкам, прокрутку подтягивает браузер.
+   В отличие от языкового слайдера лента НЕ выходит во всю ширину - она живёт в
+   правой колонке, и её край обрезается колонкой, а не окном.               */
+.platform-row { display: grid; gap: var(--gap-lg); }
+@media (min-width: 62rem) {
+  .platform-row {
+    grid-template-columns: minmax(0, 22rem) minmax(0, 1fr);
+    gap: var(--gap-xl);
+    align-items: start;
+  }
+  /* Лид в узкой колонке крупным кеглем не читается - там же и так мало места. */
+  .platform-text .band-lead p:first-child { font-size: 1rem; line-height: 1.6; }
+}
+.platform-text .band-lead { max-width: none; }
+
+/* Рамка браузера. У Awakened Code двумя полосами ниже монитор на подставке;
+   вторая такая же рамка читалась бы как повтор приёма. И здесь это честнее: в
+   ней действительно веб-страница, и в адресной строке видно какая.
+
+   Рамка залита тем же цветом, каким тур ОТКРЫВАЕТСЯ, - бирюзой акцентного
+   слайда. Первый слайд у каждого тура акцентный по правилу чередования,
+   значит цвет известен заранее.
+
+   Это не украшение, а лечение мигания. До 25 августа тур внутри был тёмным,
+   и рамку залили navy - тогда это совпадало. Когда слайды стали светлыми,
+   заливка осталась прежней, и при каждой загрузке страницы в рамке на
+   мгновение стоял navy, а потом появлялась бирюза. Заметно это ещё и
+   потому, что рамку наполняет скрипт: до его работы в ней нет ничего,
+   кроме заливки.                                                          */
+.browser {
+  border: 1px solid var(--rule);
+  background: var(--bg-accent);
+  /* Ячейка сетки по умолчанию не уже своего минимального содержимого.
+     Обнуляется и здесь, и на ячейке: достаточно одного звена, чтобы минимум
+     пролез наружу и увёл страницу вбок. */
+  min-width: 0;
+}
+/* Экран растягивается на высоту соседней текстовой колонки (решение Артура
+   2026-08-23). Прежде он держал пропорцию 16:10 и кончался выше текста -
+   между ним и лентой туров зиял провал, а сам тур прокручивался внутри
+   рамки. Пропорция оставлена запасной для узкого экрана, где колонки
+   встают друг под друга и тянуться не за чем.                            */
+.platform-screen { min-width: 0; display: flex; }
+.platform-screen .browser { flex: 1 1 auto; display: flex; flex-direction: column; }
+.platform-screen .browser-screen { flex: 1 1 auto; }
+@media (min-width: 60rem) {
+  .platform-row { align-items: stretch; }
+  /* Пол высоты рамки: 32rem, то есть 512px.
+
+     ПОДНИМАЛИ 2026-08-25 и откатили в тот же день. Довод был такой: из 107
+     слайдов всех тринадцати туров в рамку 512px помещается 19, у остальных
+     внутри рамки своя полоса прокрутки, а медиана высоты слайда 715px.
+     Рамку сделали min(72vh, 48rem).
+
+     Не помогло, и это следовало из того же замера: чтобы поместился КАЖДЫЙ
+     слайд, рамке нужно 1346px - столько просит самый плотный слайд тура
+     «Голосования», - а такой рост не влезает ни в один экран. Высокая рамка
+     убирала прокрутку примерно у половины слайдов и взамен оставляла слева
+     под текстом пустоту в треть полосы.
+
+     Не пробовать снова. Оставшаяся прокрутка - это длина самих слайдов, и
+     лечится она сокращением слайдов, а не вёрсткой рамки.               */
+  .platform-screen .browser-screen { aspect-ratio: auto; min-height: 32rem; }
+}
+/* Полосы браузера сверху больше нет (решение Артура 2026-08-22): в рамке
+   показывается чистый тур. Кружки, адрес и ссылка «открыть в новой вкладке»
+   ушли вместе с ней - тур внутри интерактивен, а карточки под экраном ведут
+   в него же обычными ссылками. */
+.browser-screen {
+  aspect-ratio: 16 / 10; background: var(--bg-accent);
+}
+.browser-screen iframe { display: block; width: 100%; height: 100%; border: 0; }
+
+/* Кнопка остановки - текстом, не значком: значок «пауза» без подписи придётся
+   объяснять, а места под подпись здесь достаточно. */
+.tour-toggle {
+  margin-top: .8rem; padding: 0; border: 0; background: none;
+  font-family: var(--sans-nav); font-size: var(--fs-label); font-weight: 700;
+  text-transform: uppercase; letter-spacing: .04em;
+  color: var(--link); cursor: pointer;
+}
+.tour-toggle:hover { text-decoration: underline; }
+.tour-toggle:focus-visible {
+  outline: 2px solid var(--focus); outline-offset: 2px;
+}
+
+.platform-tours-label {
+  margin: var(--gap-md) 0 0;
+  font-family: var(--sans-nav); font-size: var(--fs-label); font-weight: 700;
+  letter-spacing: .12em; text-transform: uppercase; color: var(--ink);
+}
+.tourslider {
+  /* Полоса прокрутки ленты - тёмно-синяя, в тон линейкам (решение Артура
+     2026-08-23). Системная серая на голубой полосе выглядела чужой.
+     scrollbar-color понимают Firefox и новые Chromium; ::-webkit-scrollbar
+     ниже накрывает остальные.                                            */
+  /* Коридор прокрутки белый, а не в цвет полосы: на голубом фоне дорожка
+     цвета этой же полосы была невидима, и человек не понимал, за что тянуть.
+     Ползунок тёмно-синий и толще прежнего.                                */
+  scrollbar-color: var(--navy) var(--bg); scrollbar-width: auto;
+  list-style: none; margin: var(--gap-sm) 0 0; padding: 0 0 1rem;
+  display: flex; gap: .75rem;
+  overflow-x: auto; overscroll-behavior-x: contain;
+  scroll-snap-type: x proximity;
+}
+.tourcard { flex: 0 0 12.5rem; scroll-snap-align: start; }
+.tourcard a {
+  display: flex; flex-direction: column; gap: .55rem;
+  height: 100%; padding: 1rem 1.1rem 1.2rem;
+  background: var(--bg-alt); color: var(--ink); text-decoration: none;
+  /* Полоска сверху прозрачная, а не отсутствующая: появись она при наведении
+     из ничего, карточка подпрыгнула бы на три пикселя. */
+  border-top: 3px solid transparent;
+  transition: background-color .2s ease, border-color .2s ease;
+}
+.tourcard a:hover, .tourcard a:focus-visible {
+  border-top-color: var(--link); background: var(--bg);
+}
+.tourcard-title {
+  font-family: var(--serif); font-weight: 400;
+  font-size: clamp(1.1rem, 1.6vw, 1.3rem); line-height: 1.2;
+}
+.tourcard a:hover .tourcard-title, .tourcard a:focus-visible .tourcard-title {
+  color: var(--link);
+}
+
+/* На белой полосе карточка на тумане, при наведении белеет; на туманной -
+   наоборот, иначе она сливалась бы с полосой. */
+.band--mist .tourcard a { background: var(--bg); }
+.band--mist .tourcard a:hover, .band--mist .tourcard a:focus-visible {
+  background: var(--bg-alt);
+}
+.band--navy .tourcard a { background: var(--bg); }
+.band--navy .platform-tours-label { color: var(--ink-on-dark); }
+
+/* Тур, который идёт на экране сейчас. Отмечен и цветом полоски, и заливкой:
+   одного цвета мало - при мониторе рядом надо видеть соответствие сразу.
+
+   Заливка не navy: тёмно-синяя плитка в ряду светлых читалась как
+   «выключено», а не как «идёт». Роль --bg-accent, не литерал.
+
+   БЛОК СТОИТ ПОСЛЕ правил полос, и это не вкус. У `.band--mist .tourcard a` и
+   у `.tourcard.is-on a` одинаковый вес, поэтому решает порядок в файле. Когда
+   этот блок стоял выше, полоса платформы переехала на туманный фон - и
+   заливка идущей карточки пропала, а белые буквы на ней остались: карточка
+   стала пустым белым прямоугольником. */
+.tourcard.is-on a,
+.band--mist .tourcard.is-on a,
+.band--navy .tourcard.is-on a {
+  border-top-color: var(--link);
+  background: var(--bg-accent); color: var(--ink-on-accent);
+}
+.band--mist .tourcard.is-on a:hover,
+.band--mist .tourcard.is-on a:focus-visible { background: var(--bg-accent); }
+.tourcard.is-on a:hover .tourcard-title,
+.tourcard.is-on a:focus-visible .tourcard-title { color: var(--ink-on-accent); }
+
+@media (prefers-reduced-motion: reduce) { .tourcard a { transition: none; } }
+/* На печати лента бесполезна: видно было бы две карточки из тринадцати. */
+@media print { .platform-tours { display: none; } }
+
+/* --- полоса «Возражения и ответы» ------------------------------------------
+   Три возражения из мастера 26 и по два абзаца ответа. Разметка <dl>: это в
+   буквальном смысле список определений - на каждый пункт свой ответ, - и
+   читалка озвучивает его парами, а не разделами документа.
+
+   На широком экране вопрос слева, ответ справа. Линейка идёт поверх обоих
+   столбцов, а не под ответом: она отделяет пару от пары, а не вопрос от его
+   собственного ответа.                                                    */
+.objections { margin: var(--gap-lg) 0 0; display: grid; row-gap: var(--gap-md); }
+@media (min-width: 62rem) {
+  .objections {
+    grid-template-columns: minmax(0, 22rem) minmax(0, 1fr);
+    column-gap: var(--gap-lg);
+  }
+}
+.objection-q, .objection-a {
+  padding-top: var(--gap-sm); border-top: 1px solid var(--rule); margin: 0;
+}
+.objection-q {
+  font-family: var(--serif); font-weight: 400;
+  font-size: clamp(1.2rem, 1.9vw, 1.5rem); line-height: 1.2;
+}
+.objection-a { max-width: 46rem; color: var(--ink-soft); }
+.objection-a p { margin: 0 0 .8em; }
+.objection-a p:last-child { margin-bottom: 0; }
+.band--navy .objection-a { color: var(--ink-on-dark); }
+
+/* --- последняя полоса: одно действие ---------------------------------------
+   Ни заголовка, ни ссылки «читать целиком». Всё, что можно было прочитать,
+   человек уже прошёл; на последнем экране у него остаётся одно действие, а не
+   выбор из двух. Поэтому и по центру: выбирать не из чего.               */
+
+/* Отступ до подвала здесь ОБЯЗАТЕЛЕН, и правило, которое его снимало, снято
+   вместе с тёмной заливкой полосы. Полоса голубая, подвал тёмно-синий, и без
+   воздуха между ними последнее действие страницы упиралось бы в список
+   ссылок вплотную. */
+
+/* --- Awakened Code во всю ширину -------------------------------------------
+   Внутри настоящая страница в iframe, а не снимок: Awakened Code переносится
+   на новый сайт как есть, значит копии быть не должно. Грузится лениво - его
+   130 КБ скриптов приезжают только когда до полосы доскроллили.
+
+   Полоса устроена в одну колонку: заголовок по центру, под ним экран во всю
+   ширину окна, под экраном ссылка. Ни рамки монитора, ни списка эссе сбоку
+   (решение Артура 2026-08-22), и это не только вкус. У Awakened Code по краям
+   две ленты по шесть эссе, и они показываются только когда его собственная
+   ширина больше 768px - ниже он сам уходит в мобильную раскладку и прячет
+   ленты под кнопку. В половине полосы за вычетом рамки экран получал 600px на
+   ноутбуке, то есть лент не было видно вовсе.
+
+   Полоса белая. Прежде она была тёмно-синей под цвет его чёрного экрана; но
+   экран теперь во всю ширину и держит полосу сам, а тёмная подложка вокруг
+   него только спорила бы с ним.
+
+   Заголовок и ссылка лежат в HTML отдельно от экрана: экран - декорация, и
+   правило «страница читается без JS» на нём не держится и не должно.      */
+.band--code { overflow: hidden; }
+.band--code .band-in { text-align: center; }
+/* У заголовков полос ширина ограничена 24ch, чтобы строка не растягивалась
+   через весь экран. Здесь заголовок один и стоит по центру, и обрезок в 24ch
+   отъезжал бы влево от середины. */
+.band--code .band-title { max-width: none; margin-bottom: var(--gap-md); }
+.code-row { display: block; }
+
+/* Ширина - ровно контейнер полосы, то есть та же, что у шести шагов
+   (решение Артура 2026-08-22). Во всю ширину ОКНА экран растягивал ленты и
+   центральную колонку, и строки внутри становились слишком длинными; в
+   контейнере лента получает около 310px, центральная колонка около 630px, и
+   обе ширины ещё выше порога 768px, ниже которого Awakened Code сам уходит в
+   мобильную раскладку и прячет ленты.
+
+   Высота от высоты окна, а не пропорцией. Пропорция привязала бы её к ширине,
+   и на широком экране экран вышел бы за 800px и не поместился бы ни на одном
+   ноутбуке. Нижняя граница нужна лентам: шесть эссе делят её поровну, и
+   меньше 26rem они становятся нечитаемыми.                                */
+.code-screen {
+  position: relative;
+  background: var(--bg-invert);
+  height: min(78vh, 860px);
+  min-height: 26rem;
+}
+.code-screen iframe {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  border: 0; display: block;
+}
+
+
+@media print {
+  .code-screen { display: none; }
+}
+
+/* --- Манифест целиком ------------------------------------------------------
+   Отдельная страница, набранная как документ. Здесь только подпись под ним и
+   ссылка на PDF: они принадлежат странице, а не подписанному тексту.      */
+
+@media print {
+  .band { padding: 1.5rem 0; }
+  .band--navy, .band--mist { background: var(--white); color: var(--ink); }
+  .band--navy .band-title { color: var(--ink); }
+  .band-more, .band-cta { display: none; }
+}
+
+/* Полоса прокрутки ленты туров в браузерах на WebKit. Отдельным блоком, а не
+   рядом со scrollbar-color: там свойства стандартные, здесь - вендорные, и
+   смешивать их в одном правиле значит уронить всё правило в браузере,
+   который не знает вендорных.                                            */
+.tourslider::-webkit-scrollbar { height: 14px; }
+.tourslider::-webkit-scrollbar-track {
+  background: var(--bg); border: 1px solid var(--rule);
+}
+.tourslider::-webkit-scrollbar-thumb {
+  background: var(--navy); border: 3px solid var(--bg); border-radius: 0;
+}
+.tourslider::-webkit-scrollbar-thumb:hover { border-width: 2px; }
+

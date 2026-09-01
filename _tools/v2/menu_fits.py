@@ -29,7 +29,9 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 SITE = os.path.dirname(os.path.dirname(HERE))
 V2 = os.path.join(SITE, '_v2')
-TOKENS = os.path.join(V2, 'css', 'tokens.css')
+# Величины берутся из ИСХОДНИКА стилей, а не из выдачи: выдача
+# порождается снятием комментариев, и мерить надо то, что написано.
+TOKENS = os.path.join(os.path.dirname(HERE), 'css', 'tokens.css')
 FONTS = os.path.join(V2, 'fonts')
 TOOLS = os.path.join(os.path.dirname(SITE), 'earthlings-documents', '_tools')
 assert os.path.isdir(TOOLS), u'нет каталога %s' % TOOLS

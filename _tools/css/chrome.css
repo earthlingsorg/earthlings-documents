@@ -1,0 +1,400 @@
+/* ============================================================================
+   Обвязка: шапка с меню и переключателем языка, подвал.
+
+   Меню повторяет epic.org по их живому main.css, а не по впечатлению. Что
+   именно оттуда взято и как пересчитано - подписано у каждого блока. Их корень
+   13px (`html{font-size:81.25%}`), наш 16px, поэтому все rem пересчитаны, и
+   рядом оставлено исходное значение, чтобы пересчёт можно было проверить.
+
+   Раскрывающиеся списки построены на <details>. Это не экономия, а следствие
+   правила: обвязка обязана работать без скрипта. Разметка <details>/<summary>
+   раскрывается сама, ходится с клавиатуры и озвучивается экранными читалками
+   без единой строки JavaScript и без единого атрибута aria-expanded, который
+   пришлось бы кому-то обновлять. Скрипт обвязки занимается ровно двумя вещами
+   (закрыть по клику вне и по Escape) и не нужен для того, чтобы меню открылось.
+
+   Цветов литералами нет ни одного, только роли из tokens.css.
+   ========================================================================= */
+
+/* Классы, которые сборщик ставит, а правил у них нет намеренно. Объявлены
+   здесь, рядом со стилями, а не списком в приёмке: список в приёмке - копия
+   решения, и она разойдётся при первой правке. Приёмка читает эти строки
+   живьём и отличает «ещё не оформлено» от «оформлять нечего».
+
+   no-style: ftr-col - колонка подвала; раскладку держит сетка .ftr-in,
+   собственных свойств у колонки нет.
+
+   no-style: burger-btn - значок меню; оформлен селектором .burger > summary,
+   потому что правило должно действовать только на ПРЯМОЙ summary бургера,
+   а не на любой элемент с этим классом. */
+
+/* --- шапка ---------------------------------------------------------------
+   Полосы под шапкой нет: на epic.org её тоже нет, шапку отделяет воздух.
+   Липкой шапка не сделана намеренно - липкая без разделительной линии
+   наезжает на текст, а рисовать линию по прокрутке значит завести в обвязке
+   обработчик скролла ради одной черты.                                    */
+.hdr { position: relative; z-index: 700; background: var(--bg); }
+.hdr-in {
+  max-width: var(--container); margin: 0 auto;
+  padding: var(--gap-sm) clamp(1.25rem, 5vw, 2rem);
+  display: flex; align-items: center; gap: var(--gap-group);
+}
+
+/* Бренд - первый в строке: он слева от меню, и меню начинается сразу за ним.
+   Ужиматься ему нечем (flex 0 0 auto), поэтому строку в случае тесноты
+   подбирает кегль пунктов, а не логотип.
+
+   Порядок внутри - слово, потом знак (решение Артура 2026-08-22). Он задан
+   разметкой, а не свойством order: order переставляет только картинку, а
+   читалка и клавиатура идут по разметке и остались бы при старом порядке.
+
+   Alt у картинки пуст намеренно: слово «Earthlings» стоит рядом текстом, и
+   озвучивать его дважды незачем.                                         */
+.brand {
+  display: inline-flex; align-items: center; gap: .6rem;
+  flex: 0 0 auto; text-decoration: none; color: var(--ink);
+  white-space: nowrap;
+}
+
+/* Знак показывается как нарисован, в своём цвете, и прежнего размера
+   (решения Артура 2026-08-22: перекраску в цвет слова отменили, увеличение
+   тоже). Размер - в токенах, потому что из него считается ширина шапки. */
+.brand img { display: block; width: var(--logo-size); height: var(--logo-size); }
+
+/* Фирменное написание: то же, что в письмах о паспорте и на лендинге
+   платформы - Montserrat 800 с отрицательной разрядкой и фирменным
+   переливом. Разрядка задана в em, а не в px, потому что кегль здесь
+   текучий, и -0.5px, взятые из письма, означали бы разную плотность на
+   разной ширине окна.
+
+   Сплошной цвет объявлен ПЕРВЫМ и остаётся запасным: перелив рисуется
+   заливкой, обрезанной по буквам, и там, где обрезка не поддерживается,
+   слово просто останется синим, а не пропадёт.                          */
+.brand-name {
+  font-family: var(--sans); font-size: var(--fs-brand); font-weight: 800;
+  line-height: 1; letter-spacing: -.016em; color: var(--brand-ink);
+  /* Поля сверху и снизу остались от перелива и сохранены намеренно. Пока
+     заливка обрезалась по буквам, без них у «g» пропадал хвост: коробка при
+     line-height: 1 ровно в кегль высотой, а метрики Montserrat 800 шире -
+     подъём 0.968em, спуск 0.251em. Перелива больше нет и обрезать нечего, но
+     поля держат высоту шапки прежней. Убрать их можно; тогда шапка станет
+     ниже на четыре пиксела, и это надо будет увидеть, а не узнать потом. */
+  padding: .1em 0;
+}
+/* В режиме высокой контрастности перелив надо снимать руками. Там система
+   сама назначает цвета текста и фона, а прозрачная заливка букв ей не
+   подчиняется: слово исчезло бы совсем, и в шапке остался бы один значок.
+   Возврат text-fill-color к currentColor отдаёт слово системной палитре. */
+@media (forced-colors: active) {
+  .brand-name { background: none; -webkit-text-fill-color: currentColor; }
+}
+
+/* --- бургер ---------------------------------------------------------------
+   На узком экране это кнопка, на широком его нет вовсе: раскрытым содержимое
+   держит CSS. Правил для этого два, потому что браузеры прячут закрытое
+   <details> двумя разными способами - старые через display на содержимом,
+   новые (Chrome 131+) через content-visibility на псевдоэлементе
+   ::details-content.                                                      */
+.burger { flex: 1 1 auto; min-width: 0; }
+.burger > summary {
+  list-style: none; cursor: pointer;
+  width: max-content; margin-left: auto; padding: .6rem .2rem;
+}
+.burger > summary::-webkit-details-marker { display: none; }
+.burger-ico { display: block; width: 26px; height: 2px; background: var(--ink); position: relative; }
+.burger-ico::before, .burger-ico::after {
+  content: ""; position: absolute; left: 0; width: 26px; height: 2px;
+  background: var(--ink); transition: transform .15s, top .15s;
+}
+.burger-ico::before { top: -8px; }
+.burger-ico::after  { top: 8px; }
+.burger[open] .burger-ico { background: transparent; }
+.burger[open] .burger-ico::before { top: 0; transform: rotate(45deg); }
+.burger[open] .burger-ico::after  { top: 0; transform: rotate(-45deg); }
+
+/* Раскрытое меню на узком экране. Тень и зелёная полоска сверху - ровно то,
+   что epic делает у .MegaMenu на телефоне (box-shadow 0 4px 44px и полоска
+   96x9 по центру). Это единственное место, где у них есть тень.          */
+.burger[open] .hdr-body {
+  display: block; position: absolute; left: 0; right: 0; top: 100%; z-index: 20;
+  background: var(--bg); box-shadow: var(--shadow-menu);
+  padding: var(--gap-md) 0 var(--gap-sm);
+}
+.burger[open] .hdr-body::before {
+  content: ""; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
+  width: 96px; height: 9px; background: var(--green);
+}
+
+/* --- пункты верхнего уровня ----------------------------------------------
+   epic: .Nav-button/.Nav-link - font-size 1.125rem (14.6px), font-weight 700,
+   text-transform uppercase, line-height 1, цвет наследуется от .Nav-list
+   (#14285e = наш --ink). Шрифт - Verdana, см. --sans-nav в tokens.css.   */
+.nav-list, .dd-list { list-style: none; margin: 0; padding: 0; }
+.nav-link {
+  font-family: var(--sans-nav); font-size: var(--fs-nav); font-weight: 700;
+  line-height: 1; text-transform: uppercase;
+  color: var(--ink); text-decoration: none; cursor: pointer; list-style: none;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: var(--gap-xs); position: relative;
+  transition: color .15s ease-in-out;
+}
+summary.nav-link::-webkit-details-marker,
+summary.act-link::-webkit-details-marker { display: none; }
+.nav-link:hover, .nav-link:focus-visible { color: var(--link); }
+
+/* Значка «плюс/минус» справа от пункта больше нет (решение Артура
+   2026-08-22). У epic он есть, у нас пунктов меньше и они прописными - и без
+   него видно, что пункт раскрывается: под раскрытым идёт зелёная полоса, а на
+   телефоне список разворачивается прямо под ним.                          */
+
+/* --- раскрытая панель -----------------------------------------------------
+   У epic это .MegaMenu: белая панель во всю ширину под шапкой, содержимое
+   разложено в колонки по 25ch, пункты набраны засечками. Ни рамки, ни тени
+   на широком экране у неё нет - только воздух.                           */
+.dd-list a {
+  color: var(--ink); text-decoration: none;
+  transition: color .15s ease-in-out;
+}
+.dd-list a:hover, .dd-list a:focus-visible {
+  color: var(--link); text-decoration: underline;
+}
+/* Текущая страница помечена цветом и весом, а не только атрибутом: атрибут
+   слышит читалка, а видит его никто. */
+.dd-list a[aria-current], .nav-link[aria-current] { color: var(--link); }
+/* Раздел, в котором читатель находится сейчас.
+
+   Сборщик помечает пункт меню классом `nav-item--here` на 162 страницах
+   корпуса, но правила для него не было ни одного: читатель не видел, в
+   каком разделе стоит. Подчёркивание, а не только цвет: цветом здесь же
+   отмечается наведение, и два разных состояния одним признаком читались бы
+   как одно. */
+.nav-item--here > .nav-link,
+.nav-item--here > .dd > .nav-link {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: .3em;
+}
+
+/* --- действия справа ------------------------------------------------------
+   Переключатель языка - кнопка, а не ещё один пункт меню (решение Артура
+   2026-08-22). Прописными и тем же кеглем он стоял в один ряд с разделами и
+   читался четырнадцатым пунктом; заливка отделяет его сразу. Цвет - роль
+   --cta-bg, та же, что у кнопок «Вступить» и «Платформа»: кнопка на странице
+   выглядит кнопкой, а не отдельным изобретением шапки.                    */
+.act-link {
+  font-family: var(--sans-nav); font-size: var(--fs-nav); font-weight: 700;
+  line-height: 1; text-transform: uppercase;
+  background: var(--cta-bg); color: var(--ink-invert);
+  padding: .55rem .9rem;
+  text-decoration: none; cursor: pointer; list-style: none;
+  display: inline-flex; align-items: center; gap: var(--gap-xs);
+  position: relative; transition: color .15s ease-in-out;
+}
+.act-link:hover, .act-link:focus-visible {
+  background: var(--cta-bg-hover); color: var(--ink-invert);
+}
+/* Кнопки «Вступить» в шапке больше нет (решение Артура 2026-08-22): то же
+   действие стоит на полосе «Путь earthling». Правила сняты вместе с ней -
+   стиль кнопки живёт в home.css у .band-cta, здесь он был вторым описанием
+   того же самого. */
+
+/* --- узкий экран ----------------------------------------------------------
+   epic: .Nav-list-item padding 1.125rem 2.5rem, разделитель border-top 1px
+   #e6edf4 - это ровно наш --mist.                                        */
+@media (max-width: 77.99rem) {
+  .nav-item { padding: .9rem clamp(1.25rem, 5vw, 2rem); }
+  .nav-item + .nav-item { border-top: 1px solid var(--bg-alt); }
+  .nav-link { width: 100%; }
+  .dd-list { padding: var(--gap-sm) 0 0; }
+  .dd-list li + li { margin-top: .6rem; }
+  .dd-list a {
+    display: block; font-family: var(--serif); font-size: 1.25rem;
+    line-height: 1.25;
+  }
+  .hdr-acts {
+    display: flex; flex-wrap: wrap; align-items: center; gap: var(--gap-sm);
+    margin-top: var(--gap-sm); padding: var(--gap-sm) clamp(1.25rem, 5vw, 2rem) 0;
+    border-top: 1px solid var(--bg-alt);
+  }
+}
+
+/* --- широкий экран --------------------------------------------------------
+   Порог 78rem (1248px), а не epic'овские 987px, и это не вкус, а замер:
+   _v2/tools/menu_fits.py считает ширину строки по настоящим файлам шрифтов
+   на всех языках. Самый широкий - французский, ему при 1248px остаётся 47px
+   запаса, а ниже строка уже не собирается. Там показывается бургер, а не
+   перенос на вторую строку. У epic порог ниже, потому что их разделы
+   называются одним коротким английским словом.                          */
+@media (min-width: 78rem) {
+  .burger > summary { display: none; }
+  .burger { display: flex; }
+  .burger::details-content { content-visibility: visible; block-size: auto;
+                             display: flex; flex: 1 1 auto; }
+  /* Селектор повторён с [open] намеренно: если меню открыли на узком экране,
+     а потом расширили окно, правило без [open] проиграло бы по весу. */
+  .burger .hdr-body, .burger[open] .hdr-body {
+    display: flex; align-items: stretch; justify-content: flex-start;
+    flex: 1 1 auto; gap: var(--gap-group);
+    position: static; padding: 0; border: 0; background: none; box-shadow: none;
+  }
+  .burger[open] .hdr-body::before { content: none; }
+
+  /* Высота шапки задана явно: от неё отсчитывается зелёная полоса под
+     раскрытым пунктом. epic держит height 9.375rem при корне 13px = 122px. */
+  .hdr-in { height: 7.5rem; align-items: stretch; padding-top: 0; padding-bottom: 0; }
+  .brand { align-self: center; }
+
+  /* Все пункты - в одну строку. Переносов нет ни при каком языке: строка
+     подбирается текучим кеглем и текучим просветом, а не переносом.      */
+  /* Меню НЕ растягивается на свободное место: переключатель языка стоит
+     сразу за последним пунктом, а не улетает к правому краю окна (решение
+     Артура 2026-08-22). Раньше .nav занимал всё свободное место, и между
+     «Развитием» и «RU» на широком экране висела треть окна пустоты. */
+  .nav { display: flex; flex: 0 1 auto; min-width: 0; }
+  .nav-list {
+    display: flex; align-items: stretch; flex-wrap: nowrap;
+    gap: var(--gap-nav);                /* epic 2.125rem при корне 13px */
+  }
+  .nav-item, .nav-item > .dd { display: flex; }
+  .nav-link { font-size: var(--fs-nav-bar); white-space: nowrap; }
+  .act-link { font-size: var(--fs-nav-bar); white-space: nowrap; }
+
+  /* Зелёная полоса под раскрытым пунктом - подпись epic. У них
+     .Nav-button[aria-expanded=true]:before, высота 9px, во всю ширину кнопки,
+     у нижнего края шапки.                                                 */
+  .dd[open] > .nav-link::after {
+    content: ""; position: absolute; left: 0; right: 0; bottom: 0;
+    height: 9px; background: var(--green);
+  }
+
+  .dd-list {
+    position: absolute; left: 0; right: 0; top: 100%; z-index: 30;
+    background: var(--bg); color: var(--ink);
+    /* поля выравнивают колонки по тому же контейнеру, что и шапку */
+    padding: 2rem max(clamp(1.25rem, 5vw, 2rem), calc((100vw - var(--container)) / 2)) 2.5rem;
+    columns: 25ch; column-gap: var(--gap-lg);
+  }
+  .dd-list li { break-inside: avoid; }
+  .dd-list li + li { margin-top: 3rem; }   /* epic 3.75rem при корне 13px */
+  .dd-list a {
+    display: block; font-family: var(--serif); font-size: var(--fs-menu);
+    font-weight: 400; line-height: 1.1;
+  }
+
+  .hdr-acts {
+    display: flex; align-items: center; flex: 0 0 auto; flex-wrap: nowrap;
+    gap: var(--gap-acts);
+  }
+}
+
+/* --- переключатель языка --------------------------------------------------
+   Полноширокая панель нужна пяти разделам корпуса, а девяти коротким
+   названиям языков - нет. Здесь обычный компактный список у правого края.  */
+.dd--lang { position: relative; display: flex; align-items: center; }
+.dd-list--lang {
+  position: absolute; top: 100%; left: auto; right: 0; z-index: 30;
+  min-width: 12rem; columns: auto; padding: .4rem 0;
+  background: var(--bg); border: var(--border);
+}
+.dd-list--lang li + li { margin-top: 0; }
+.dd-list--lang a {
+  display: block; font-family: var(--sans); font-size: var(--fs-body);
+  font-weight: 400; line-height: 1.4; padding: .5rem 1rem; text-transform: none;
+}
+.dd-list--lang a:hover, .dd-list--lang a:focus-visible {
+  background: var(--bg-alt); text-decoration: none;
+}
+
+/* --- подвал --------------------------------------------------------------- */
+.ftr { background: var(--bg-invert); color: var(--ink-on-dark); margin-top: var(--gap-xl); }
+/* Подвал вплотную к последней полосе (решение Артура 2026-08-23). Отступ
+   нужен страницам документов, где подвал идёт за белым текстом; на главной
+   и в Обращении последняя полоса цветная, и белая щель между ней и тёмным
+   подвалом читается как незакрытая дыра.
+
+   Модификатор, а не правило `.ftr{margin-top:0}` в home.css. То правило
+   перебивало это ТОЛЬКО потому, что home.css подключается ниже: одинаковая
+   специфичность, решает порядок файлов. Поменяй порядок - и отступ вернулся
+   бы молча. Здесь оба правила в одном файле и спорить им не о чем. */
+.ftr--flush { margin-top: 0; }
+/* Колонки подвала. Просвет между ними увеличен с 2rem до 4rem и разведён по
+   осям: по горизонтали воздух нужен, потому что подписи политик длинные
+   («Политика биометрической верификации») и при тесном просвете колонка
+   «Политики» наезжала на «Системы»; по вертикали столько воздуха не нужно,
+   там колонки просто переносятся на телефоне.
+
+   Просветы одинаковы по построению: grid-gap один для всех стыков. То, что
+   выглядело неровным, шло не от просветов, а от разной длины содержимого - у
+   «Систем» две короткие ссылки, у «Эссе» пока одно название без списка. */
+.ftr-in {
+  max-width: var(--container); margin: 0 auto;
+  padding: var(--gap-lg) clamp(1.25rem, 5vw, 2rem) var(--gap-md);
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  column-gap: var(--gap-lg); row-gap: var(--gap-md);
+}
+/* Слева в подвале теперь строка прав, а не слово переливом (решение Артура
+   2026-08-23): второй раз на странице оно стояло без своей работы. Набрано
+   тем же приглушённым тоном, что и прочий текст подвала, - 11.9 к одному на
+   тёмном, - и ограничено по ширине, чтобы не растягиваться в одну строку. */
+.ftr-copy {
+  margin: 0; font-size: var(--fs-label); line-height: 1.5;
+  color: var(--ink-on-dark); max-width: 24ch;
+}
+.ftr-h {
+  margin: 0 0 var(--gap-xs); font-size: var(--fs-label); font-weight: 700;
+  text-transform: uppercase; letter-spacing: .12em; color: var(--ink-on-dark);
+}
+.ftr-list { list-style: none; margin: 0; padding: 0; }
+.ftr-list li { margin-bottom: .45rem; }
+/* Ссылка в подвале отличается от текста подчёркиванием, а не оттенком:
+   синий epic на тёмном даёт 4.02:1 и обычному тексту не годится. */
+.ftr-list a, .ftr-bottom a, .ftr-copy a {
+  color: var(--link-on-dark); text-decoration: underline; text-underline-offset: .15em;
+}
+.ftr-list a:hover, .ftr-bottom a:hover, .ftr-copy a:hover { text-decoration-thickness: 2px; }
+/* Нижняя строка: права слева, «О нас» и юридическая информация справа.
+   space-between разводит две группы по краям; на узком экране flex-wrap
+   переносит правую под левую, и тогда она встаёт по левому краю сама. */
+.ftr-bottom {
+  max-width: var(--container); margin: 0 auto;
+  padding: 0 clamp(1.25rem, 5vw, 2rem) var(--gap-lg);
+  display: flex; flex-wrap: wrap; justify-content: space-between;
+  align-items: baseline; gap: var(--gap-sm);
+  font-size: var(--fs-label); color: var(--ink-on-dark);
+}
+.ftr-legal { display: flex; flex-wrap: wrap; gap: var(--gap-md); }
+
+/* --- ссылка «к содержанию» ------------------------------------------------
+   Прячется схлопыванием в точку, а не выносом за левый край. Прежде здесь
+   стояло left: -9999px, и на арабском - единственном языке с dir="rtl" - это
+   растягивало полотно страницы влево на те же 9999px: внизу появлялась
+   горизонтальная полоса прокрутки, и страницу можно было угнать в пустоту.
+   В левонаправленных языках того же не происходило, поэтому дефект и жил
+   незамеченным. Замерено пробой: ru 0 px вбок, ar 9999 px.
+
+   Схлопнутая ссылка остаётся в потоке и остаётся доступной с клавиатуры:
+   размер возвращается по :focus. clip-path нужен рядом с width/height -
+   без него внутри однопиксельной коробки текст всё равно рисуется.      */
+.skip {
+  position: absolute; width: 1px; height: 1px;
+  overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+}
+.skip:focus {
+  width: auto; height: auto; clip-path: none;
+  left: 1rem; top: 1rem; z-index: 900; background: var(--link);
+  color: var(--ink-invert); padding: .6rem 1rem;
+}
+
+/* --- арабский ------------------------------------------------------------- */
+[dir="rtl"] .burger > summary { margin-left: 0; margin-right: auto; }
+[dir="rtl"] .dd-list--lang { right: auto; left: 0; }
+
+/* --- печать ---------------------------------------------------------------
+   Меню и подвал на бумаге не нужны: по ним не кликают, а место занимают.  */
+@media print { .hdr, .ftr, .skip { display: none; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .burger-ico::before, .burger-ico::after,
+  .nav-link, .act-link, .dd-list a { transition: none; }
+}

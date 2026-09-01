@@ -54,6 +54,8 @@ V2 = os.path.join(SITE, '_v2')
 NGINX = os.environ.get('EARTHLINGS_NGINX') or os.path.join(
     os.path.dirname(REPO), 'earthlings-nginx')
 
+CSS_SRC = os.path.join(TOOLS, 'css')
+
 LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 
 # Бюджеты из README черновика, в БАЙТАХ ПОСЛЕ GZIP - как уходит по сети.
@@ -134,7 +136,8 @@ class Tree(object):
     def __init__(self):
         self.pages = {}          # страницы НОВОГО сайта: полный стандарт
         self.carried = {}        # перенесённые как есть: только связность
-        self.css = {}            # css/имя.css -> текст
+        self.css = {}            # ИСХОДНИКИ стилей: с комментариями
+        self.css_out = {}        # выдача: то, что уезжает читателю
         self.classes = set()     # классы разметки нового сайта
         self.ids = set()
 
@@ -167,8 +170,17 @@ class Tree(object):
                     continue
                 p = os.path.join(dirpath, fn)
                 (t.carried if carried else t.pages)[rel(p, V2)] = read(p)
+        # Исходники стилей лежат в репозитории сборки, выдача - в дереве
+        # сайта. Проверять надо И ТО И ДРУГОЕ, но по-разному: объявления
+        # `no-style:`/`unused-ok:` и мёртвые правила ищутся в ИСХОДНИКЕ (в
+        # выдаче комментариев нет), а вес считается по ВЫДАЧЕ - её и качает
+        # читатель.
+        for p in sorted(glob.glob(os.path.join(CSS_SRC, '*.css'))):
+            t.css['css/' + os.path.basename(p)] = read(p)
         for p in sorted(glob.glob(os.path.join(V2, 'css', '*.css'))):
-            t.css[rel(p, V2)] = read(p)
+            t.css_out[rel(p, V2)] = read(p)
+        if not t.css:
+            raise IOError(u'не найдено исходников стилей: %s' % CSS_SRC)
         if not t.pages:
             raise IOError(u'в черновике не найдено ни одной своей страницы')
         if not t.css:
@@ -617,11 +629,35 @@ def check_unstyled_classes(tree, resolve):
                   for c in stale])
 
 
+def check_css_built(tree, resolve):
+    u"""Выдача стилей соответствует исходникам.
+
+    Стили теперь порождаются: исходник с комментариями в _tools/css/, выдача
+    без них в _v2/css/. Разделение экономит 70% веса, но заводит ровно ту
+    опасность, ради которой эта проверка и написана: правку внесли в
+    исходник, пересобрать забыли, и читатель получает вчерашние стили.
+    Заметить это глазами нельзя - файлы выглядят одинаково.
+    """
+    name = u'стили пересобраны из исходников'
+    if TOOLS not in sys.path:
+        sys.path.insert(0, TOOLS)
+    try:
+        import build_css
+        stale, orphan, _, _ = build_css.build(check=True)
+    except Exception as e:                       # noqa: BLE001
+        return fail(name, u'%s: %s' % (type(e).__name__, e))
+    bad = [u'%s - выдача отстала от исходника' % n for n in stale]
+    bad += [u'%s - в выдаче есть, исходника нет' % n for n in orphan]
+    return Row(name, not bad,
+               u'листов %d, устарело %d, без исходника %d'
+               % (len(tree.css), len(stale), len(orphan)), bad)
+
+
 def check_budgets(tree, resolve):
     u"""Вес страницы по сети: HTML и блокирующий отрисовку CSS, оба в gzip."""
     name = u'бюджеты веса страницы'
     sizes = {}
-    for relpath, css in tree.css.items():
+    for relpath, css in tree.css_out.items():
         sizes[relpath] = css.encode('utf-8')
     bad = []
     worst_html = ('', 0)
@@ -868,6 +904,7 @@ CHECKS = [
     check_tokens_defined,
     check_dead_css,
     check_unstyled_classes,
+    check_css_built,
     check_budgets,
     check_colors,
     check_analytics,

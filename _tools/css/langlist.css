@@ -1,0 +1,160 @@
+/* Выбор языка: девять письменностей списком.
+
+   Отдельным листом, потому что нужен трём разным страницам - корню, странице
+   ненайденного и языковым главным, - а полосы главной им не нужны. Пока он
+   лежал в home.css, страница 404 тянула семнадцать килобайт ради четырёх
+   правил.
+
+   Цветов литералами нет ни одного, только роли из tokens.css. */
+
+/* --- слайдер девяти языков -------------------------------------------------
+   Девять слайдов - девять письменностей. На каждом название Декларации на
+   своём языке; слайд ведёт на неё же.
+
+   Скошенные бока взяты у epic по духу, но не по приёму. У них это вырез в
+   углу картинки (clip-path polygon с отступом 13% сверху слева) поверх
+   фотографии - фотографий у нас нет ни одной. Здесь скошен весь слайд: он
+   параллелограмм, а текст внутри стоит прямо. Наклонный срез становится
+   границей МЕЖДУ языками, а не рамкой картинки. При наведении и фокусе слайд
+   выпрямляется: язык, который выбрали, встаёт прямо.
+
+   Ни строки JavaScript: прокрутка родная, привязка - scroll-snap. Flickity,
+   на которой держится слайдер epic, весит 25 КБ и здесь не нужна.
+
+   Шрифты письменностей объявлены ЗДЕСЬ, а не в tokens.css, и названы своими
+   именами. Это подрезки под девять заголовков (см. tools/subset_slider_fonts.py):
+   под именем «Noto Naskh Arabic» браузер подхватил бы их для всего арабского
+   текста на сайте и молча потерял знаки, которых в подрезке нет.        */
+
+@font-face { font-family:'Slide Arabic'; font-display:swap;
+  src:url('../fonts/slide-arabic.woff2') format('woff2') }
+@font-face { font-family:'Slide Devanagari'; font-display:swap;
+  src:url('../fonts/slide-devanagari.woff2') format('woff2') }
+@font-face { font-family:'Slide Georgian'; font-display:swap;
+  src:url('../fonts/slide-georgian.woff2') format('woff2') }
+@font-face { font-family:'Slide Han'; font-display:swap;
+  src:url('../fonts/slide-han.woff2') format('woff2') }
+@font-face { font-family:'Slide Han'; font-display:swap;
+  src:url('../fonts/slide-han-2.woff2') format('woff2') }
+@font-face { font-family:'Slide Han'; font-display:swap;
+  src:url('../fonts/slide-han-3.woff2') format('woff2') }
+@font-face { font-family:'Slide Han'; font-display:swap;
+  src:url('../fonts/slide-han-4.woff2') format('woff2') }
+@font-face { font-family:'Slide Han'; font-display:swap;
+  src:url('../fonts/slide-han-5.woff2') format('woff2') }
+
+.langlist {
+  list-style: none; margin: var(--gap-lg) 0 0; padding: 0;
+  /* Просвет одинаковый по обеим осям и равен epic'овскому: у них между
+     карточками сетки 2.1875rem, то есть 28px при корне 13px. Раньше
+     междурядье было меньше межколонника, потому что карточки были без
+     заливки и группировались рамками. Теперь группирует заливка, и разные
+     просветы читались бы как разная связь между карточками. */
+  display: grid; gap: 1.75rem;
+  /* Ссылка обязана занимать карточку целиком, иначе в ряду с двухстрочным
+     названием однострочная карточка выйдет ниже соседей. Ряд тянет <li>,
+     поэтому растягивать <a> надо изнутри него. У epic то же место закрыто
+     явно: .IssueGrid-card и .GenericTile объявлены height:100%.          */
+  /* Колонки заданы явно, а не auto-fit. Названий девять, девять делится на
+     три, и при автоподборе на широком экране вставало бы пять и четыре -
+     нижний ряд повисал бы огрызком. */
+  grid-template-columns: minmax(0, 1fr);
+}
+@media (min-width: 34rem) {
+  .langlist { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 56rem) {
+  .langlist { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+/* Каждая языковая версия - карточка с заливкой, а не рамка.
+   25 августа все девять стояли на одной большой белой плите, и плита не
+   сработала: карточки внутри неё тоже белые, а разделяли их волоски в 1px -
+   белое на белом. Смотреть было не на что.
+
+   У epic общей подложки нет ни у одной секции: белые там только карточки
+   (.IssueGrid-card background #fff), полоса под ними цветная (.IssueGrid
+   background #e6edf4), а между карточками просвет 28px, сквозь который цвет
+   полосы виден. Сетка читается потому, что белое чередуется с цветом девять
+   раз. То, ради чего заводили плиту, при этом сохраняется целиком:
+   содержимое остаётся тёмным по светлому.
+
+   Заливка карточки светлая ВСЕГДА, кроме белой полосы - там она туманная:
+   карточка обязана отличаться от полосы, иначе её нет. То же правило и у
+   шести шагов ниже.
+
+   Поля 24px по бокам и 22-26px по вертикали - в меру epic (.GenericTile
+   padding 2.5rem 1.875rem при корне 13px, то есть 32px и 24px). Прежние
+   11px и 14px были втрое меньше и делали карточку тесной. */
+.langlist li { display: grid; }
+.langlist a {
+  display: block; text-decoration: none; color: var(--ink);
+  padding: 1.4rem 1.5rem 1.6rem;
+  background: var(--bg); border-top: 3px solid var(--link);
+  transition: background-color .2s ease;
+}
+/* Тон линейки подбирается под полосу, а не под карточку. На тёмно-синей
+   полосе --link (#005ec4) стоял бы тёмно-синим на тёмно-синем фоне вокруг
+   карточки, то есть линейки бы не было видно вовсе. --blue даёт на navy
+   4.02 к одному; для нетекстового элемента порог 3.0.                    */
+.band--navy .langlist a { border-top-color: var(--blue); }
+/* Карточка обязана отличаться от полосы, иначе её нет. */
+.band--white .langlist a { background: var(--bg-alt); }
+/* Наведение отмечают заливка и подчёркивание названия ниже, но не линейка:
+   линейка теперь несёт акцент сама, и гасить его на наведении незачем. */
+.langlist a:hover, .langlist a:focus-visible { background: var(--bg-alt); }
+.band--white .langlist a:hover,
+.band--white .langlist a:focus-visible { background: var(--bg); }
+/* Надписи-заголовки внутри полос набраны основным тоном, а не приглушённым
+   (решение Артура 2026-08-23): приглушённый читался как подпись к чему-то, а
+   это заголовки. Приглушённый остался у прозы - шагов, ответов, подписи. */
+.langlist-lang {
+  display: block; margin-bottom: .35rem;
+  font-family: var(--sans-nav); font-size: var(--fs-label); font-weight: 700;
+  /* Основным тоном, не синим. У epic такая метка над заголовком карточки
+     синяя (.DocumentGrid-card-supertitle color #1988ff), но их карточка не
+     ссылка целиком, а наша ссылка: постоянно синяя метка внутри неё читалась
+     бы как ссылка внутри ссылки, а название при наведении становится того же
+     синего. Синий на карточке остаётся один - линейка сверху. */
+  letter-spacing: .12em; text-transform: uppercase; color: var(--ink);
+}
+.langlist-title {
+  display: block;
+  font-family: var(--serif); font-weight: 400;
+  font-size: clamp(1.05rem, 1.4vw, 1.2rem); line-height: 1.25;
+}
+.langlist a:hover .langlist-title,
+.langlist a:focus-visible .langlist-title {
+  color: var(--link); text-decoration: underline;
+}
+/* Письменности, которых нет ни в Cormorant, ни в Montserrat. Латиница внутри
+   («Earthlings») приезжает из Cormorant - он стоит в стеке вторым. */
+.langlist-title:lang(ar) { font-family: 'Slide Arabic', var(--serif); }
+.langlist-title:lang(hi) { font-family: 'Slide Devanagari', var(--serif); }
+.langlist-title:lang(zh) { font-family: 'Slide Han', var(--serif); }
+.langlist-title:lang(ka) { font-family: 'Slide Georgian', var(--serif); }
+
+/* То же самое для метки над названием - самоназвания языка. Правил у неё не
+   было, и «العربية», «हिन्दी», «中文», «ქართული» падали в системную подстановку:
+   в --sans-nav стоит Verdana, а в ней этих письменностей нет. Заметить это на
+   своей машине нельзя - у кого шрифты доустановлены, у того всё рисуется.
+   Подрезки слайдера самоназвания покрывают: они из тех же девяти заголовков. */
+.langlist-lang:lang(ar) { font-family: 'Slide Arabic', var(--sans-nav); }
+.langlist-lang:lang(hi) { font-family: 'Slide Devanagari', var(--sans-nav); }
+.langlist-lang:lang(zh) { font-family: 'Slide Han', var(--sans-nav); }
+.langlist-lang:lang(ka) { font-family: 'Slide Georgian', var(--sans-nav); }
+
+/* Переопределений ЦВЕТА ТЕКСТА для тёмной полосы здесь больше нет и быть не
+   должно: карточка светлая на любой полосе, значит и текст в ней тёмный на
+   любой. Прежде их было четыре, и держались они на том, что карточка брала
+   цвет полосы. Единственное, что от полосы ещё зависит, - тон линейки сверху
+   (выше): она граничит не с карточкой, а с фоном вокруг неё. */
+
+@media (prefers-reduced-motion: reduce) {
+  .langlist a { transition: none; }
+}
+/* Белой плиты .band-box здесь больше нет. Она стояла с 25 августа под
+   девятью языковыми версиями и под шестью шагами и не работала: карточки
+   внутри неё были белыми же, а разделяли их волоски в 1px. Задачу - сделать
+   содержимое тёмным по светлому - взяли на себя сами карточки, каждая своей
+   заливкой. Так это и устроено у epic.org, где общей подложки нет ни у одной
+   секции. */

@@ -1,0 +1,6 @@
+/* Письменность языка ka. Собран make_script_fonts.py из
+   боевого css/fonts-ka.css: оставлены только семейства, названные в
+   лесенке _v2/css/tokens.css - Noto Sans Georgian, Noto Serif Georgian.
+   Руками не править: правка переживёт до следующей сборки.
+   Отброшено как шрифты прежней темы: Inter. */
+@font-face{font-family:'Noto Sans Georgian';font-style:normal;font-weight:300 800;font-stretch:100%;font-display:swap;src:url(/fonts/noto-sans-georgian-b31b7282.woff2) format('woff2');unicode-range:U+0589,U+10A0-10FF,U+1C90-1CBA,U+1CBD-1CBF,U+205A,U+2D00-2D2F,U+2E31;}@font-face{font-family:'Noto Serif Georgian';font-style:normal;font-weight:300 800;font-stretch:100%;font-display:swap;src:url(/fonts/noto-serif-georgian-georgian.woff2) format('woff2');unicode-range:U+0589,U+10A0-10FF,U+1C90-1CBA,U+1CBD-1CBF,U+205A,U+2D00-2D2F,U+2E31;}

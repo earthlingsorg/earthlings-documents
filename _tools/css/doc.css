@@ -1,0 +1,303 @@
+/* ============================================================================
+   Страница документа. Классы здесь не выдуманы: это ровно та разметка, которую
+   уже выдаёт _tools/build_site_docs.py - .statute > .sheet > .doc-head, .toc,
+   .part, .article > .art-head > .art-title, .seo-prev-next. Поэтому провод в
+   генератор сведётся к смене списка стилей, а не к переписыванию шаблона.
+
+   Цветов литералами нет ни одного, только роли из tokens.css.
+
+   Язык формы взят у epic.org и проверен по их файлу: контейнер текста там без
+   фона, без рамки и без тени - текст лежит прямо на странице. Структуру держат
+   подложка и воздух, а не линии. Рамки остались ровно в двух местах, где они
+   несут смысл: ячейки таблиц и цветная черта у выделенного блока.
+   ========================================================================= */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Ссылка «к содержанию» описана в chrome.css - она часть обвязки, и держать
+   её в двух файлах значит завести два источника для одного правила. */
+
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+/* --- лист ---------------------------------------------------------------- */
+/* Классы, которые сборщик ставит, а правил у них нет намеренно. Объявляются
+   здесь, рядом со стилями, а не списком в приёмке: список в приёмке - копия
+   решения, и он разойдётся с решением при первой правке. Приёмка читает эти
+   строки живьём и отличает «ещё не оформлено» от «оформлять нечего».
+
+   no-style: col - ширину блока в новой теме задаёт .sheet; в прежней теме
+   этот класс сужал колонку до --measure, здесь такого ограничителя нет и
+   вводить его значило бы менять вид всех страниц, а не чинить дефект. */
+.statute { padding: var(--gap-lg) clamp(1.25rem, 5vw, 2rem) var(--gap-xl); }
+.sheet {
+  max-width: 58rem;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* --- шапка документа ----------------------------------------------------- */
+.doc-head { text-align: center; margin-bottom: var(--gap-lg); }
+/* Вес 500, а не 300. Замер: площадь чернил слова, делённая на площадь
+   строки, у JuniusX Light (заголовки epic.org) - 0.2210; у Cormorant 300 -
+   0.1632, то есть 74% от образца; у Cormorant 500 - 0.2169, то есть 98%.
+   Четверти штриха на странице просто не было. Кегль при этом не меняется. */
+.doc-title {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: var(--fs-h1);
+  line-height: var(--lh-h1);
+  margin: 0;
+}
+/* Двойная линейка прежнего листа заменена одной тонкой: на epic.org
+   декоративных двойных правил нет нигде, язык формы у него скупой. */
+.rule-double { height:1px; background:var(--rule); margin:var(--gap-md) auto 0; max-width:8rem; }
+.doc-subtitle {
+  margin: var(--gap-sm) auto 0; max-width: 34em;
+  color: var(--ink-soft); font-size: var(--fs-lead); line-height: 1.5;
+}
+.doc-subtitle strong { font-weight: 500; color: var(--ink-soft); }
+
+/* --- содержание ---------------------------------------------------------- */
+.toc { margin: 0 0 var(--gap-xl); padding: var(--gap-md); background: var(--bg-alt); }
+.toc-title {
+  font-size: var(--fs-label); text-transform: uppercase; letter-spacing: .12em;
+  font-weight: 700; color: var(--link); margin: 0 0 var(--gap-sm);
+}
+.toc-part {
+  font-size: var(--fs-label); text-transform: uppercase; letter-spacing: .08em;
+  font-weight: 600; color: var(--ink-soft);
+  margin: var(--gap-sm) 0 var(--gap-xs);
+}
+.toc-part:first-of-type { margin-top: 0; }
+.toc-item {
+  display: flex; gap: var(--gap-xs); align-items: baseline;
+  padding: .3rem 0; color: var(--ink); text-decoration: none;
+}
+.toc-item:hover, .toc-item:focus-visible { color: var(--link); }
+/* Номер статьи - метка постоянной ширины, чтобы названия выстроились в столбик
+   и читались как список, а не как абзац с переносами. */
+.toc-no {
+  flex: 0 0 auto; min-width: 7.5em;
+  font-size: var(--fs-label); text-transform: uppercase; letter-spacing: .06em;
+  font-weight: 600; color: var(--ink-soft);
+}
+.toc-item:hover .toc-no { color: var(--link); }
+.toc-name { flex: 1 1 auto; }
+/* У пунктов без номера (преамбула, статус редакции) метки нет - выравниваем
+   их по той же вертикали, иначе столбик разъезжается. */
+.toc-item.nolabel .toc-name { font-weight: 500; }
+/* Вложенный пункт оглавления: этап внутри статьи, подраздел внутри части.
+   Сборщик помечает такие `.sub` (879 вхождений в корпусе), но правила не
+   было, и вложенность в оглавлении не читалась - все пункты стояли одним
+   столбиком. Логический отступ, а не `padding-left`: в арабском он сам
+   встанет справа, и парного правила `[dir="rtl"]` не понадобится. */
+.toc-item.sub { padding-inline-start: 1.4rem; font-size: .95rem; }
+
+/* --- части и статьи ------------------------------------------------------
+   Деление шрифтов повторяет epic.org поимённо, а не «на глаз». У них засечками
+   набраны только h1, h2 и h6 плюс заголовки блоков; h3, h4 и h5 - гротеск.
+   Причём h3 у них не крупный заголовок, а прописная метка: вес 700,
+   text-transform:uppercase, межстрочный 1.5.
+   Поэтому: РАЗДЕЛ - засечки (это h2), Статья - гротеск прописными (это h3). */
+/* --- метки над заголовками ------------------------------------------------
+   Сборщик ставит их с самого начала: «Часть I» над названием части,
+   «Статья 1» над названием статьи, «РАЗДЕЛ 01» над разделом. Правил для них
+   в новой теме не было ни одного, и метка выходила обычным абзацем в кегле
+   текста - неотличимой от заголовка, над которым стоит. На Декларации это
+   шестнадцать частей и четыре статьи, набранные как проза.
+
+   Замысел взят из прежнего листа `docs-statute.css`, где эти правила были:
+   мелкие прописные с широким трекингом. Цвет - роль ссылки, тем же набраны
+   остальные рубрикаторы страницы (`.toc-title`, `.pn-label`); золота
+   прежней темы в новой палитре нет.                                       */
+.part-no, .art-no {
+  font-family: var(--sans);
+  font-size: .78rem; font-weight: 700; line-height: 1.2;
+  text-transform: uppercase; color: var(--link);
+}
+.part-no { letter-spacing: .28em; margin-bottom: .7rem; }
+.art-no  { letter-spacing: .22em; margin-bottom: .55rem; }
+.part { margin: var(--gap-xl) 0 var(--gap-md); }
+
+/* Раздел, а не часть. `.flat` сборщик ставит на РАЗДЕЛ - ступень ниже
+   ЧАСТИ, - и в прежней теме заголовок раздела набирался мельче и без
+   разрядки. Здесь то же самое: воздуха сверху меньше, кегль меньше, иначе
+   раздел спорит с частью за старшинство. */
+.part.flat { margin-top: var(--gap-lg); }
+.part.flat .part-no { margin-bottom: .5rem; }
+.part.flat .part-title { font-size: clamp(1.5rem, 3.4vw, 1.9rem); }
+.part-title {
+  font-family: var(--serif); font-weight: 500; font-size: var(--fs-h2);
+  line-height: var(--lh-h2); margin: 0;
+}
+.article { margin: 0 0 var(--gap-md); }
+.art-head { margin: var(--gap-lg) 0 var(--gap-xs); }
+.art-title {
+  font-family: var(--sans); font-weight: 700; font-size: var(--fs-h3);
+  line-height: var(--lh-h3); letter-spacing: .04em;
+  text-transform: uppercase; margin: 0;
+}
+
+/* --- текст --------------------------------------------------------------- */
+.sheet p { margin: 0 0 1em; }
+.sheet strong { font-weight: 600; }
+.sheet a { color: var(--link); text-decoration: underline; text-underline-offset: .15em; }
+.sheet a:hover { color: var(--link-hover); }
+.sheet ul, .sheet ol { padding-left: 1.4rem; margin: 0 0 var(--gap-sm); }
+.sheet li { margin-bottom: .4rem; }
+.sheet blockquote {
+  margin: var(--gap-sm) 0; padding: var(--gap-sm) var(--gap-sm);
+  background: var(--bg-alt); border-left: 3px solid var(--link);
+}
+.sheet blockquote p:last-child { margin-bottom: 0; }
+/* Оговорка при документе: «настоящий документ производный», «вступает в
+   силу с момента публикации», приоритет Устава над ним. Сборщик ставит
+   `.note` на 189 страницах, правила не было, и оговорка читалась как
+   обычный абзац - то есть как часть самого текста, хотя она о тексте.
+
+   От цитаты отличается намеренно: у цитаты заливка и цвет ссылки, здесь
+   только тонкая черта и приглушённый тон. Оговорка подчинена документу, а
+   не выделена из него. Свойства логические - зеркалить для арабского
+   отдельным правилом не придётся. */
+.note {
+  margin: var(--gap-sm) 0 var(--gap-md);
+  padding-inline-start: var(--gap-sm);
+  border-inline-start: 3px solid var(--rule);
+  color: var(--ink-soft);
+}
+.note p:last-child, .note ul:last-child, .note ol:last-child { margin-bottom: 0; }
+.sheet code { font-family: var(--mono); font-size: .9em; }
+/* Прокрутка широкой таблицы принадлежит ОБЁРТКЕ, а не таблице.
+
+   Здесь стояло `display: block; overflow-x: auto` на самой <table>. Это
+   работало, но ценой смысла: блочный тип снимает с таблицы табличную роль,
+   и часть экранных читалок перестаёт объявлять её таблицей - читатель
+   теряет навигацию по строкам и столбцам. На правовых текстах, где таблица
+   несёт доли казны и сроки, это существенно.
+
+   Обёртка `.tbl-wrap` при этом СТОЯЛА В РАЗМЕТКЕ всё это время - сборщик
+   заворачивает в неё каждую таблицу, 144 раза на 72 страницах, - но правил
+   для неё в новой теме не было ни одного, и прокрутку пришлось брать
+   порчей таблицы. Правило ниже возвращает обёртке её работу. */
+.tbl-wrap { overflow-x: auto; margin: var(--gap-sm) 0 var(--gap-md); }
+.sheet table {
+  border-collapse: collapse; width: 100%; margin: var(--gap-sm) 0;
+  font-size: .95em;
+}
+.sheet th, .sheet td { border: var(--border); padding: .5rem .7rem; text-align: left; vertical-align: top; }
+.sheet th { background: var(--bg-alt); font-weight: 600; }
+
+/* --- переход к соседним документам --------------------------------------- */
+.seo-prev-next {
+  display: flex; gap: var(--gap-md); max-width: 58rem;
+  margin: 0 auto; padding: var(--gap-sm) clamp(1.25rem, 5vw, 2rem) var(--gap-xl);
+  border-top: var(--border);
+}
+.pn-side { flex: 1; }
+.pn-side a { display: block; padding: var(--gap-sm) 0; text-decoration: none; color: var(--ink); }
+.pn-side a:hover .pn-name { color: var(--link); }
+.pn-next { text-align: right; }
+.pn-label { display: block; font-size: var(--fs-label); text-transform: uppercase;
+            letter-spacing: .1em; color: var(--link); font-weight: 600; }
+.pn-name { display: block; margin-top: .25rem; }
+
+/* --- арабский ------------------------------------------------------------
+   Зеркалим то, что привязано к стороне. Всё остальное логические свойства
+   разворачивают сами.                                                      */
+[dir="rtl"] .sheet ul, [dir="rtl"] .sheet ol { padding-left: 0; padding-right: 1.4rem; }
+[dir="rtl"] .sheet blockquote { border-left: 0; border-right: 3px solid var(--link); }
+[dir="rtl"] .sheet th, [dir="rtl"] .sheet td { text-align: right; }
+[dir="rtl"] .pn-next { text-align: left; }
+
+/* --- печать --------------------------------------------------------------
+   Правовые тексты печатают и подшивают. На боевом сайте печатных стилей нет
+   вовсе: лист уезжает с фоном, а навигация и содержание тратят бумагу.     */
+/* --- подпись и ссылка на PDF -------------------------------------------
+   Принадлежат странице Обращения, а она собрана на .statute/.sheet, как
+   документ. Лежали в home.css, и из-за них девять страниц Обращения тянули
+   семнадцать килобайт стилей главной ради трёх правил - 3% файла. */
+.sign {
+  margin: var(--gap-lg) auto 0; text-align: center;
+  font-size: .95rem; color: var(--ink-soft);
+}
+.sign::before {
+  content: ""; display: block; width: 56px; height: 0;
+  margin: 0 auto var(--gap-sm); border-top: 1px solid var(--rule);
+}
+.pdf-link {
+  display: inline-flex; align-items: center; gap: .5rem;
+  margin-top: var(--gap-md);
+  font-family: var(--sans-nav); font-size: var(--fs-nav-bar); font-weight: 700;
+  letter-spacing: .04em; text-transform: uppercase;
+  color: var(--link); text-decoration: none;
+}
+.pdf-link:hover, .pdf-link:focus-visible { text-decoration: underline; }
+
+@media print {
+  body { background: var(--white); font-size: 11pt; }
+  .statute { padding: 0; }
+  .sheet { max-width: none; border: 0; padding: 0; }
+  .toc, .seo-prev-next, .skip { display: none; }
+  .part-title, .art-title { break-after: avoid; }
+  .article, blockquote, table { break-inside: avoid; }
+  .sheet a { color: inherit; text-decoration: none; }
+  /* Адрес ссылки печатаем рядом: на бумаге кликнуть нельзя. */
+  .sheet a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 9pt; color: var(--ink-soft); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+/* --- библиотека документов -----------------------------------------------
+   Страница «Все документы». В боевом дереве она была, в новой теме её не было
+   вовсе: тема не трогала боевую и не делала своей. После подмены корня вход в
+   корпус исчез бы - из меню ссылку сняли 12 августа, из подвала 23-го, и
+   остался бы один значок «домой» внутри документа.
+
+   Номер держим меткой постоянной ширины, как в оглавлении документа: иначе
+   названия разной длины не выстраиваются в столбик и список читается как
+   абзац с переносами. Ширина меньше, чем у .toc-no: там метка вида
+   «Статья 12», здесь две цифры. */
+.library {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: var(--gap-lg) clamp(1.25rem, 5vw, 2rem) var(--gap-xl);
+}
+.library h1 {
+  font-family: var(--serif);
+  /* Здесь стояли --fs-h и --lh-h, которых в tokens.css нет ни одного: в
+     шкале объявлены --fs-h1...--fs-h4. Обе строки были невалидны на этапе
+     вычисления, и заголовок девяти библиотечных страниц рисовался кеглем
+     браузера по умолчанию, а не по шкале. */
+  font-size: var(--fs-h2);
+  line-height: var(--lh-h2);
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0 0 var(--gap-lg);
+}
+.docs { list-style: none; margin: 0; padding: 0; }
+.docs li { border-top: 1px solid var(--rule); }
+.docs li:last-child { border-bottom: 1px solid var(--rule); }
+.docs a {
+  display: flex; gap: var(--gap-sm); align-items: baseline;
+  padding: .7rem 0; color: var(--ink); text-decoration: none;
+}
+.docs a:hover, .docs a:focus-visible { color: var(--link); }
+.docs .n {
+  flex: 0 0 auto; min-width: 2.5em;
+  font-size: var(--fs-label); letter-spacing: .06em;
+  font-weight: 600; color: var(--ink-soft); font-variant-numeric: tabular-nums;
+}
+.docs a:hover .n, .docs a:focus-visible .n { color: var(--link); }
+.docs .t { flex: 1 1 auto; }
