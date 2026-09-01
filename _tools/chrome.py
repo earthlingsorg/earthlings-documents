@@ -559,13 +559,23 @@ def header_html(lang, doc_href, lang_url, home_url=None, has_doc=None,
 FOOTER_ESSAYS = []
 
 
-def footer_html(lang, doc_href, has_doc=None):
+def footer_html(lang, doc_href, has_doc=None, flush=False):
+    u"""Подвал. `flush=True` прижимает его вплотную к последней полосе.
+
+    Отступ нужен страницам документов, где подвал идёт за белым текстом.
+    На главной и в Обращении последняя полоса цветная, и белая щель между
+    ней и тёмным подвалом читается как незакрытая дыра.
+
+    Раньше это делалось правилом `.ftr{margin-top:0}` в home.css, которое
+    перебивало обвязку ТОЛЬКО потому, что подключалось ниже. Теперь
+    решает разметка, а не порядок файлов.
+    """
     assert lang in ALL_LANGS, u'неизвестный язык %r' % lang
     has_doc = has_doc or (lambda num: True)
     o = []
     a = o.append
 
-    a(u'<footer class="ftr">')
+    a(u'<footer class="ftr%s">' % (u' ftr--flush' if flush else u''))
     a(u'<div class="ftr-in">')
 
     # Колонка называется «Политики», а не «Документы»: в ней и лежат только

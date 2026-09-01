@@ -83,7 +83,9 @@ def build():
         '<link rel="stylesheet" href="/css/tokens.css">',
         '<link rel="stylesheet" href="/css/chrome.css">',
         '<link rel="stylesheet" href="/css/doc.css">',
-        '<link rel="stylesheet" href="/css/home.css">',
+        # Из home.css странице ненайденного нужен был только список
+        # языков - четыре правила из ста восьмидесяти. Он вынесен.
+        '<link rel="stylesheet" href="/css/langlist.css">',
         '</head>',
         '<body>',
         '<main class="statute" id="main"><div class="sheet">',

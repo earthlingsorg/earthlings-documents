@@ -635,8 +635,18 @@ def check_budgets(tree, resolve):
                        % (relpath, n // 1024, BUDGET_HTML // 1024))
         head = s.split('</head>')[0]
         blob = b''
-        for href in re.findall(r'<link rel="stylesheet" href="([^"]+)"', head):
-            key = 'css/' + href.rsplit('/', 1)[-1]
+        # Считается ТОЛЬКО то, что держит отрисовку. Лист с media="print"
+        # браузер грузит с низким приоритетом и первый экран не задерживает,
+        # поэтому в бюджет блокирующего он не входит. Первая версия этой
+        # проверки складывала все листы подряд и записывала печатный лист в
+        # долг, которого нет.
+        for tag in re.findall(r'<link rel="stylesheet"[^>]*>', head):
+            if re.search(r'media="(print|speech)"', tag):
+                continue
+            href = re.search(r'href="([^"]+)"', tag)
+            if not href:
+                continue
+            key = 'css/' + href.group(1).rsplit('/', 1)[-1]
             if key in sizes:
                 blob += sizes[key]
         if not blob:

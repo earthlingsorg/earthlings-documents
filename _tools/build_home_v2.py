@@ -451,7 +451,9 @@ def wrap(lang, inner, url, title, desc, path, extra_css=()):
         C.header_html(lang, doc_href=href, lang_url=path,
                       home_url='/%s/' % lang, has_doc=have),
         inner,
-        C.footer_html(lang, doc_href=href, has_doc=have),
+        # Главная, Обращение и корень прижимают подвал: последняя полоса
+        # у них цветная.
+        C.footer_html(lang, doc_href=href, has_doc=have, flush=True),
         # Счётчик. Его не было ни на одной главной, ни на одном Обращении, ни
         # на корне - то есть на всём входе на сайт. Корпус мерился, посадка
         # нет.
@@ -1241,7 +1243,11 @@ def build_index(lang):
     inner = '<main id="main">%s</main>' % '\n'.join(bands)
     return wrap(lang, inner, '%s/%s/' % (ORIGIN, lang), title, desc,
                 lambda c: '/%s/' % c,
+                # Полосы главной и список языков - разными листами:
+                # список нужен ещё корню и странице ненайденного, а полосы
+                # им не нужны.
                 ['<link rel="stylesheet" href="/css/home.css">',
+                 '<link rel="stylesheet" href="/css/langlist.css">',
                  # Единственная его работа - подсветить текущую веху шкалы.
                  # Без него шкала читается целиком, просто без подсветки.
                  '<script defer src="/js/home.js"></script>'])
@@ -1277,7 +1283,12 @@ def build_address(lang):
                 '%s/%s/manifest.html' % (ORIGIN, lang),
                 '%s | Earthlings' % doc['title'], desc,
                 lambda c: '/%s/manifest.html' % c,
-                ['<link rel="stylesheet" href="/css/home.css">'])
+                # home.css здесь НЕ подключается. Из него странице
+                # Обращения нужны были три правила из ста восьмидесяти -
+                # три процента файла, - и они переехали: подпись и ссылка
+                # на PDF в doc.css, прижатый подвал в модификатор обвязки.
+                # Было 35 КБ блокирующего CSS, стало 20.
+                [])
 
 
 def build_root():
@@ -1312,7 +1323,8 @@ def build_root():
     return wrap(lang, '\n'.join(o), ORIGIN + '/',
                 'Earthlings - a new people', lead[:300],
                 lambda c: '/%s/' % c,
-                ['<link rel="stylesheet" href="/css/home.css">'])
+                # Корню нужен только список языков - полос у него нет.
+                ['<link rel="stylesheet" href="/css/langlist.css">'])
 
 
 def main():
