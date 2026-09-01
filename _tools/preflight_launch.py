@@ -487,6 +487,40 @@ def check_dead_css(tree, resolve):
                 for k, v in sorted(dead.items())])
 
 
+def check_unstyled_classes(tree, resolve):
+    u"""Класс в разметке, у которого нет ни одного правила.
+
+    Зеркало проверки мёртвых правил, и находит она другое. Мёртвое правило -
+    это лишние байты. Класс без правила - это ЗАМЫСЕЛ, который не виден
+    читателю: сборщик ставит `nav-item--here` на текущий пункт меню, а
+    подсветки нет; ставит `tbl-wrap` вокруг таблицы, а прокрутки нет.
+    Сборщик и стили расходятся молча, и заметить это можно только так.
+
+    Ловится по разметке, потому что классы ставит генератор обвязки: если
+    он перестанет их ставить, проверка промолчит - но тогда и замысла нет.
+    """
+    name = u'классы разметки описаны в стилях'
+    styled = set()
+    for css in tree.css.values():
+        styled.update(re.findall(r'\.([A-Za-z][\w-]*)',
+                                 strip_css_comments(css)))
+    if not styled:
+        return fail(name, u'в стилях не найдено ни одного класса')
+    used = {}
+    for relpath, s in tree.pages.items():
+        for m in re.finditer(r'\bclass="([^"]*)"', s):
+            for c in m.group(1).split():
+                used.setdefault(c, set()).add(relpath)
+    if not used:
+        return fail(name, u'в разметке не найдено ни одного класса')
+    orphan = sorted(c for c in used if c not in styled)
+    return Row(name, not orphan,
+               u'классов в разметке %d, без единого правила %d'
+               % (len(used), len(orphan)),
+               [u'.%s - %d стр., напр. %s'
+                % (c, len(used[c]), sorted(used[c])[0]) for c in orphan])
+
+
 def check_budgets(tree, resolve):
     u"""Вес страницы по сети: HTML и блокирующий отрисовку CSS, оба в gzip."""
     name = u'бюджеты веса страницы'
@@ -707,6 +741,7 @@ CHECKS = [
     check_social_meta,
     check_tokens_defined,
     check_dead_css,
+    check_unstyled_classes,
     check_budgets,
     check_colors,
     check_analytics,
