@@ -25,6 +25,7 @@ import io, os, re, sys, html, json, argparse
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import md2doc
 import chrome
+import site_guard as guard
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 # Мастера лежат в этом же репозитории, по языкам: ru/NN-slug.md.
@@ -1355,7 +1356,7 @@ def build_css():
     body_rule = ('body.%s{margin:0;background:#ece5d6}\n'
                  '.%s{background:#ece5d6}\n' % (ROOT, ROOT))
     out = head + body_rule + scope_css(css.strip()) + '\n' + scope_css(EXTRA_CSS)
-    io.open(CSS_PATH, 'w', encoding='utf-8', newline='\n').write(out)
+    guard.write(CSS_PATH, out)
     return len(out)
 
 
@@ -1810,7 +1811,7 @@ def sync_library(titles, dry=False, lang='ru'):
     # названий, а адреса меняются молча, и при переезде на слаги файл остался
     # бы со старыми ссылками.
     if out != s and not dry:
-        io.open(path, 'w', encoding='utf-8', newline='\n').write(out)
+        guard.write(path, out)
     return changed
 
 
@@ -1935,10 +1936,7 @@ def write_redirect_map():
                          % (lang, lang, num, RETIRED[num]['slugs'][lang], target))
             n += 2
     path = os.path.join(SITE, 'nginx', 'redirects-docs.map')
-    d = os.path.dirname(path)
-    if not os.path.isdir(d):
-        os.makedirs(d)
-    io.open(path, 'w', encoding='utf-8', newline='\n').write('\n'.join(lines) + '\n')
+    guard.write(path, '\n'.join(lines) + '\n')
     return n
 
 
@@ -1958,7 +1956,7 @@ def write_slug_module():
     )
     path = os.path.join(SITE, 'js', 'modern', 'shared', 'doc-slugs.js')
     assert os.path.isdir(os.path.dirname(path)), path
-    io.open(path, 'w', encoding='utf-8', newline='\n').write(body)
+    guard.write(path, body)
 
 
 HREF_RE = re.compile(
@@ -2033,8 +2031,7 @@ def fix_hreflang(dry=False):
             assert old in s, 'не нашёл аннотацию в %s: %s' % (path, old)
             s = s.replace(old, new)
         if s != before:
-            if not dry:
-                io.open(path, 'w', encoding='utf-8', newline='\n').write(s)
+            guard.write(path, s, dry=dry)
             n += 1
     return n, len(bad)
 
@@ -2191,8 +2188,7 @@ def write_sitemap_v2(titles, dry=False):
     assert docs >= 150, u'документов в сайтмапе всего %d - похоже, сборка сломалась' % docs
 
     dst = os.path.join(SITE, '_v2', 'sitemap.xml')
-    if not dry:
-        io.open(dst, 'w', encoding='utf-8', newline='\n').write(text)
+    guard.write(dst, text, dry=dry)
     return docs, len(carried), text.count('<loc>')
 
 
@@ -2279,8 +2275,7 @@ def main():
         src = os.path.join(md, corpus_file(num, lang))
         doc, page = build_doc(num, src, titles, lang=lang)
         dst = os.path.join(docs, doc_file(num, lang))
-        if not a.dry:
-            io.open(dst, 'w', encoding='utf-8', newline='\n').write(page)
+        guard.write(dst, page, dry=a.dry)
         arts = sum(len(p['articles']) for p in doc['parts'])
         print('OK   %s%s  %-42s частей: %2d, разделов: %3d, %3d КБ'
               % (lang, num, os.path.basename(src)[:42],
@@ -2326,4 +2321,11 @@ def main():
 if __name__ == '__main__':
     # Код возврата пробрасывается наружу: без этого отказ собирать боевую тему
     # выглядел бы для любой обёртки успехом, и замок ловил бы только глаз.
-    sys.exit(main() or 0)
+    #
+    # Отказ замка ловится здесь и печатается человеку, а не трассировкой.
+    # Трассировка в этом месте читается как поломка скрипта, хотя произошло
+    # ровно то, ради чего замок и поставлен.
+    try:
+        sys.exit(main() or 0)
+    except guard.LegacyWriteRefused as e:
+        sys.exit(guard.die(e))

@@ -161,17 +161,49 @@ def check_prod_untouched():
         r'^(_v2/|\.githooks/|\.gitignore$|package(-lock)?\.json$|'
         r'README\.md$|CLAUDE\.md$|build\.sh$|sw\.js$)')
     bad = []
+    stray = []
     for line in (p.stdout or b'').decode('utf-8', 'replace').split('\n'):
         if not line.strip():
             continue
         path = line[3:].strip().strip('"')
         if line[:2] == '??':
-            continue                              # неотслеживаемое не коммитится
+            # Раньше здесь стоял `continue` с доводом «неотслеживаемое не
+            # коммитится». Довод неверен: `git add -A` делает его
+            # отслеживаемым одним движением, и ровно так в боевое дерево
+            # попала ka02-civic-voice.html - выход сборки, запущенной без
+            # --theme v2. Файл пролежал там неделю, невидимый для этой
+            # проверки, которая всё это время говорила «не тронуто».
+            if not allowed.match(path):
+                stray.append(path)
+            continue
         if not allowed.match(path):
             bad.append(path)
-    return Row(u'боевое дерево не тронуто', not bad,
-               u'изменённых файлов вне _v2: %d%s'
-               % (len(bad), (': ' + ', '.join(bad[:3])) if bad else ''))
+    note = u'изменённых файлов вне _v2: %d' % len(bad)
+    if bad:
+        note += u' (' + u', '.join(bad[:3]) + u')'
+    if stray:
+        note += u'; НЕОТСЛЕЖИВАЕМЫХ: %d (%s)' % (len(stray),
+                                                 u', '.join(stray[:3]))
+    return Row(u'боевое дерево не тронуто', not bad and not stray, note)
+
+
+def check_guard():
+    u"""Замок на запись в боевое дерево исправен.
+
+    Сам замок стоит в site_guard.py и вызывается из каждого места записи.
+    Здесь проверяется, что он и запирается, и отпирается: ослабленный замок
+    выглядит точно как исправный, пока в него не постучат.
+    """
+    if TOOLS not in sys.path:
+        sys.path.insert(0, TOOLS)
+    try:
+        import site_guard
+        bad = site_guard.selftest()
+    except Exception as e:                       # noqa: BLE001
+        return Row(u'замок на боевое дерево', False,
+                   u'не запустился: %s: %s' % (type(e).__name__, e))
+    return Row(u'замок на боевое дерево', not bad,
+               u'исправен' if not bad else u'; '.join(bad)[:110])
 
 
 def check_launch():
@@ -198,7 +230,7 @@ def main():
               check_sitemap(),
               check_site('contrast_check.py', u'контраст меню'),
               check_site('menu_fits.py', u'меню помещается в шапку'),
-              check_prod_untouched()]
+              check_prod_untouched(), check_guard()]
     launch = [] if '--corpus' in sys.argv else check_launch()
     rows = corpus + launch
 

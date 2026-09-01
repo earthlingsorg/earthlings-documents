@@ -49,6 +49,7 @@ if os.environ.get('ALLOW_LEGACY_BUILD') != '1':
     print('')
     sys.exit(2)
 from build_site_docs import SITE, REPO, ROOT, LANGS_BY_DOC
+import site_guard as guard
 
 # Обращение лежит вне корпуса: он ничего не устанавливает, предложения к нему
 # не принимаются и на голосование он не выносится (Учредительный период, 02).
@@ -261,11 +262,15 @@ def main():
         '',
     ])
 
-    if not dry:
-        io.open(PAGE, 'w', encoding='utf-8', newline='\n').write(page)
+    guard.write(PAGE, page, dry=dry)
     print("главная собрана из мастера: %d абзацев, %d КБ"
           % (len(re.findall(r"<p[ >]", body)), len(page.encode("utf-8")) // 1024))
 
 
 if __name__ == '__main__':
-    main()
+    # Отказ замка печатается человеку, а не трассировкой: произошло
+    # ровно то, ради чего он поставлен, и это не поломка скрипта.
+    try:
+        main()
+    except guard.LegacyWriteRefused as e:
+        sys.exit(guard.die(e))

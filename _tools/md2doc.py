@@ -13,6 +13,7 @@
   python md2doc.py <input.md> <output.html> [--hero] [--no-toc]
 """
 import sys, os, re, html, argparse
+import site_guard as guard
 
 # ---------------------------------------------------------------- инлайн
 
@@ -619,8 +620,7 @@ def main():
     assert doc['title'], 'не найден заголовок H1'
 
     out = render(doc, a.lang, hero=a.hero, toc=not a.no_toc, hero_hint=a.hero_hint)
-    os.makedirs(os.path.dirname(os.path.abspath(a.dst)), exist_ok=True)
-    open(a.dst, 'w', encoding='utf-8', newline='\n').write(out)
+    guard.write(a.dst, out)
 
     arts = sum(len(p['articles']) for p in doc['parts'])
     print('OK  %-46s -> %-14s частей: %d, разделов: %d, %d КБ'
@@ -630,4 +630,9 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    # Отказ замка печатается человеку, а не трассировкой: произошло
+    # ровно то, ради чего он поставлен, и это не поломка скрипта.
+    try:
+        main()
+    except guard.LegacyWriteRefused as e:
+        sys.exit(guard.die(e))

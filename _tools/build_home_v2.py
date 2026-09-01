@@ -40,6 +40,7 @@ import md2doc                                              # noqa: E402
 import chrome as C                                         # noqa: E402
 from build_site_docs import (SITE, REPO, ORIGIN, ROOT, doc_href, has_doc,
                              ALL_LANGS, md_dir, corpus_file, SLUGS)  # noqa: E402
+import site_guard as guard                                 # noqa: E402
 
 ADDRESS_DIR = os.path.join(REPO, '_address')
 OUT = os.path.join(SITE, '_v2')
@@ -1307,14 +1308,12 @@ def main():
             u'легли бы мимо' % lang)
         d = os.path.join(OUT, lang)
         if not os.path.isdir(d) and not dry:
-            os.makedirs(d)
+            guard.makedirs(d)
         pages = ([('manifest.html', build_address(lang))] if only_address
                  else [('index.html', build_index(lang)),
                        ('manifest.html', build_address(lang))])
         for name, page in pages:
-            if not dry:
-                io.open(os.path.join(d, name), 'w', encoding='utf-8',
-                        newline='\n').write(page)
+            guard.write(os.path.join(d, name), page, dry=dry)
             text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
                           page.split('<body', 1)[1])).strip()
             print('OK   _v2/%s/%-14s %3d КБ, текста без JS: %5d знаков'
@@ -1342,4 +1341,9 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    # Отказ замка печатается человеку, а не трассировкой: произошло
+    # ровно то, ради чего он поставлен, и это не поломка скрипта.
+    try:
+        main()
+    except guard.LegacyWriteRefused as e:
+        sys.exit(guard.die(e))

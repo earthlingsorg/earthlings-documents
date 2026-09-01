@@ -32,6 +32,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from build_site_docs import SITE                               # noqa: E402
+import site_guard as guard
 
 V2 = os.path.join(SITE, '_v2')
 assert os.path.isdir(V2), u'нет черновика %s' % V2
@@ -121,8 +122,7 @@ def main():
                    ', '.join(sorted(dropped)) or u'ничего'))
 
         out = os.path.join(V2, 'css', 'fonts-%s.css' % lang)
-        io.open(out, 'w', encoding='utf-8', newline='\n').write(
-            head + u''.join(keep) + u'\n')
+        guard.write(out, head + u''.join(keep) + u'\n')
         written += 1
         sys.stdout.write(
             'fonts-%s.css  объявлений %d, семейств %d (%s), %d КБ\n'
@@ -134,4 +134,9 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    # Отказ замка печатается человеку, а не трассировкой: произошло
+    # ровно то, ради чего он поставлен, и это не поломка скрипта.
+    try:
+        main()
+    except guard.LegacyWriteRefused as e:
+        sys.exit(guard.die(e))
