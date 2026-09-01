@@ -1,0 +1,90 @@
+/* ============================================================================
+   Тематические страницы.
+
+   Их семь на девяти языках, и от документа они отличаются формой, а не
+   природой: тот же лист (.statute > .sheet), те же заголовки, но вступление
+   набрано крупнее, а в конце стоят призыв и список смежных тем.
+
+   Отдельным листом, а не внутри doc.css: четыре правила нужны 72 страницам
+   из 326, и возить их на каждой странице корпуса незачем.
+
+   Цветов литералами нет ни одного, только роли из tokens.css.
+   ========================================================================= */
+
+/* Вступление. Крупнее основного текста, но не заголовок: это ещё текст,
+   который читают, а не рубрика, которую просматривают. Кегль тот же, что у
+   подзаголовка документа, - у страницы и там и здесь одна роль «то, ради
+   чего стоит читать дальше». */
+.topic-lead {
+  margin: 0 0 var(--gap-lg);
+}
+.topic-lead p {
+  font-size: var(--fs-lead);
+  line-height: 1.5;
+  color: var(--ink-soft);
+  margin: 0 0 var(--gap-sm);
+}
+.topic-lead p:last-child { margin-bottom: 0; }
+
+/* Призыв в конце. Подложка, а не рамка: язык формы у epic.org скупой, и
+   рамок в новой теме ровно две - ячейки таблиц и цветная черта у выделенного
+   блока. */
+.topic-cta {
+  margin: var(--gap-lg) 0 0;
+  padding: var(--gap-md);
+  background: var(--bg-alt);
+}
+.topic-cta > :first-child { margin-top: 0; }
+.topic-cta p { margin: var(--gap-sm) 0 0; }
+
+/* Кнопка призыва. Та же, что и главное действие в шапке: у читателя не
+   должно быть двух разных «главных кнопок» на одном сайте. */
+.topic-btn {
+  display: inline-block;
+  margin-top: var(--gap-xs);
+  padding: .55rem .9rem;
+  background: var(--cta-bg); color: var(--ink-invert);
+  font-family: var(--sans-nav); font-size: var(--fs-cta); font-weight: 700;
+  letter-spacing: .04em; text-transform: uppercase; text-decoration: none;
+}
+.topic-btn:hover, .topic-btn:focus-visible {
+  background: var(--cta-bg-hover); color: var(--ink-invert);
+}
+
+/* Смежные темы. Список, а не карточки: их две, и карточки на две штуки
+   выглядят как недоделанная сетка. Разметка та же, что у библиотеки
+   документов, - читателю не приходится осваивать второй вид списка. */
+.topic-related { margin: var(--gap-lg) 0 0; }
+.topic-related ul { list-style: none; margin: var(--gap-sm) 0 0; padding: 0; }
+.topic-related li { border-top: 1px solid var(--rule); }
+.topic-related li:last-child { border-bottom: 1px solid var(--rule); }
+.topic-related a {
+  display: block; padding: .8rem 0;
+  color: var(--ink); text-decoration: none;
+}
+.topic-related a span {
+  display: block; margin-top: .2rem;
+  font-size: .95rem; color: var(--ink-soft);
+}
+.topic-related a:hover, .topic-related a:focus-visible { color: var(--link); }
+.topic-related a:hover span, .topic-related a:focus-visible span {
+  color: var(--ink-soft);
+}
+
+/* Список тем на хабе - тот же приём, что у смежных тем. Общего правила на
+   оба не заводится намеренно: они стоят на разных страницах, и связывать их
+   одним селектором значит запретить им разойтись, когда это понадобится. */
+.topic-list { list-style: none; margin: var(--gap-md) 0 0; padding: 0; }
+.topic-list li { border-top: 1px solid var(--rule); }
+.topic-list li:last-child { border-bottom: 1px solid var(--rule); }
+.topic-list a {
+  display: block; padding: 1rem 0;
+  font-family: var(--serif); font-size: var(--fs-menu); line-height: 1.2;
+  color: var(--ink); text-decoration: none;
+}
+.topic-list a span {
+  display: block; margin-top: .3rem;
+  font-family: var(--sans); font-size: .95rem; line-height: 1.45;
+  color: var(--ink-soft);
+}
+.topic-list a:hover, .topic-list a:focus-visible { color: var(--link); }
