@@ -85,6 +85,18 @@ VERIFY_PATTERNS = [
 # правило перестаёт их закрывать.
 NOT_IN_WEBROOT = ['preview', 'i18n', 'tools']
 
+# Разделы, перенесённые в новый сайт КАК ЕСТЬ (решение Артура). У них своя
+# вёрстка, свои стили и своя обвязка; на новый дизайн они не переводятся.
+#
+# Требовать с них токены, hreflang, значок и бюджеты нового сайта - значит
+# получить триста провалов, которые никто не собирается чинить, и через
+# неделю выключить всю приёмку. Поэтому они проверяются только на то, что
+# от них зависит снаружи: ведут ли ссылки в существующее и не попадает ли
+# адрес под серверные редиректы.
+#
+# `preview` в этот список не входит: он не переносится вовсе, а удаляется.
+CARRIED = ['awakened_code']
+
 
 class Row(object):
     def __init__(self, name, ok, note, details=None):
@@ -114,10 +126,18 @@ def rel(path, root):
 
 class Tree(object):
     def __init__(self):
-        self.pages = {}          # относительный путь -> текст
+        self.pages = {}          # страницы НОВОГО сайта: полный стандарт
+        self.carried = {}        # перенесённые как есть: только связность
         self.css = {}            # css/имя.css -> текст
-        self.classes = set()     # все class= во всём дереве
+        self.classes = set()     # классы разметки нового сайта
         self.ids = set()
+
+    def every(self):
+        u"""Все страницы дерева. Для проверок связности: битая ссылка в
+        перенесённом разделе отдаёт 404 ровно так же, как своя."""
+        d = dict(self.pages)
+        d.update(self.carried)
+        return d
 
     @classmethod
     def load(cls):
@@ -125,19 +145,24 @@ class Tree(object):
         if not os.path.isdir(V2):
             raise IOError(u'нет каталога черновика: %s' % V2)
         for dirpath, dirnames, filenames in os.walk(V2):
-            if 'preview' in rel(dirpath, V2).split('/'):
+            parts = rel(dirpath, V2).split('/')
+            if 'preview' in parts:
                 continue
+            carried = parts[0] in CARRIED
             for fn in filenames:
                 if not fn.endswith('.html'):
                     continue
                 p = os.path.join(dirpath, fn)
-                t.pages[rel(p, V2)] = read(p)
+                (t.carried if carried else t.pages)[rel(p, V2)] = read(p)
         for p in sorted(glob.glob(os.path.join(V2, 'css', '*.css'))):
             t.css[rel(p, V2)] = read(p)
         if not t.pages:
-            raise IOError(u'в черновике не найдено ни одной страницы')
+            raise IOError(u'в черновике не найдено ни одной своей страницы')
         if not t.css:
             raise IOError(u'в черновике не найдено ни одного файла стилей')
+        # Классы и id собираются ТОЛЬКО со своих страниц: у перенесённых
+        # разделов свои стили, и их классы «оживили» бы мёртвые правила в
+        # наших, а свои - утонули бы в их именах.
         for s in t.pages.values():
             for m in re.finditer(r'\bclass="([^"]*)"', s):
                 t.classes.update(m.group(1).split())
@@ -267,7 +292,7 @@ def check_internal_links(tree, resolve):
     u"""Внутренние ссылки черновика ведут туда, где после подмены что-то есть."""
     name = u'внутренние ссылки черновика'
     bad = {}
-    for relpath, s in tree.pages.items():
+    for relpath, s in tree.every().items():
         base = os.path.dirname(relpath)
         for href in re.findall(r'href="([^"]+)"', s):
             if href.startswith(('http://', 'https://', 'mailto:', 'tel:',
@@ -685,12 +710,31 @@ def check_own_lang_query(tree, resolve):
     # `[?&]lang=` и не находила НИ ОДНОГО из девяти вхождений: проверка
     # молча проходила на том самом дефекте, ради которого написана.
     bad = []
-    for relpath, s in sorted(tree.pages.items()):
+    for relpath, s in sorted(tree.every().items()):
         for m in re.finditer(
                 r'(?:src|href)="(/[^"]*?[?&](?:amp;)?lang=[a-z]{2}[^"]*)"', s):
             bad.append(u'%s -> %s' % (relpath, m.group(1).replace('&amp;', '&')))
     return Row(name, not bad,
                u'своих адресов с ?lang= %d' % len(bad), bad)
+
+
+def tags_only(html):
+    u"""Разметка без содержимого, в котором могут стоять угловые скобки.
+
+    Иначе разбор тегов считает разметкой то, что ею не является. Так и вышло:
+    в awakened_code/index.html значок вкладки задан как
+    href="data:image/svg+xml,<svg ...><text ...>%3E_</text></svg>", и проверка
+    объявила страницу рваной - «лишний </svg>», - хотя она цела.
+
+    Убираются комментарии, тела script и style и значения атрибутов в
+    кавычках. Сами теги остаются нетронутыми.
+    """
+    html = re.sub(r'<!--.*?-->', '', html, flags=re.S)
+    html = re.sub(r'(?is)<script\b[^>]*>.*?</script>', '<script></script>', html)
+    html = re.sub(r'(?is)<style\b[^>]*>.*?</style>', '<style></style>', html)
+    html = re.sub(r'=\s*"[^"]*"', '=""', html)
+    html = re.sub(r"=\s*'[^']*'", "=''", html)
+    return html
 
 
 def check_markup(tree, resolve):
@@ -699,7 +743,7 @@ def check_markup(tree, resolve):
     void = set(['area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input',
                 'link', 'meta', 'source', 'track', 'wbr'])
     bad = []
-    for relpath, s in sorted(tree.pages.items()):
+    for relpath, s in sorted(tree.every().items()):
         ids = re.findall(r'\sid="([^"]+)"', s)
         dup = sorted(set(x for x in ids if ids.count(x) > 1))
         if dup:
@@ -709,7 +753,8 @@ def check_markup(tree, resolve):
             if fr not in idset:
                 bad.append(u'%s: висящий якорь #%s' % (relpath, fr))
         stack = []
-        for m in re.finditer(r'<(/?)([a-zA-Z][a-zA-Z0-9]*)\b[^>]*?(/?)>', s):
+        for m in re.finditer(r'<(/?)([a-zA-Z][a-zA-Z0-9]*)\b[^>]*?(/?)>',
+                             tags_only(s)):
             close, tag, self_ = m.group(1), m.group(2).lower(), m.group(3)
             if tag in void or self_:
                 continue
