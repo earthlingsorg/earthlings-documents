@@ -376,13 +376,31 @@ summary.act-link::-webkit-details-marker { display: none; }
    Схлопнутая ссылка остаётся в потоке и остаётся доступной с клавиатуры:
    размер возвращается по :focus. clip-path нужен рядом с width/height -
    без него внутри однопиксельной коробки текст всё равно рисуется.      */
+/* Ссылка «к содержанию»: не видна глазами, но остаётся в порядке обхода
+   клавиатурой и озвучивается читалками.
+
+   Приём полный, а не «width:1px и обрезка». Прежде тут стояли только размер
+   в пиксел и clip-path, без координат и без отрицательного поля - и на
+   арабской главной обрезанный остаток был ВИДЕН в правом верхнем углу
+   отдельной чёрточкой. В левостороннем письме он прятался под шапкой, и
+   потому не замечался. Найдено снимком экрана: ни одна статическая проверка
+   такого не покажет.
+
+   margin: -1px убирает пиксел из потока окончательно; padding и border
+   обнулены, чтобы у коробки не осталось собственного размера. */
 .skip {
-  position: absolute; width: 1px; height: 1px;
+  position: absolute; top: 0; inset-inline-start: 0;
+  width: 1px; height: 1px; margin: -1px;
+  padding: 0; border: 0;
   overflow: hidden; clip-path: inset(50%); white-space: nowrap;
 }
+/* При фокусе - обычная кнопка в углу. Смещение ЛОГИЧЕСКОЕ, как и в скрытом
+   состоянии: если здесь поставить `left`, то в арабской вёрстке окажутся
+   заданы обе стороны разом (`right` из базового правила и `left` отсюда), и
+   коробка растянется на всю ширину окна. Так и было - видно на снимке. */
 .skip:focus {
-  width: auto; height: auto; clip-path: none;
-  left: 1rem; top: 1rem; z-index: 900; background: var(--link);
+  width: auto; height: auto; margin: 0; clip-path: none;
+  inset-inline-start: 1rem; top: 1rem; z-index: 900; background: var(--link);
   color: var(--ink-invert); padding: .6rem 1rem;
 }
 

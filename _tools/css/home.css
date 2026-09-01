@@ -140,7 +140,12 @@
   color: var(--link); text-decoration: none;
   transition: border-color .2s ease;
 }
+/* Стрелка смотрит ПО направлению чтения. В арабской вёрстке правая стрелка
+   указывает назад: сама ссылка уже встала справа налево логическим
+   отступом, а знак остался прежним. Замечено на снимке ar/index.html -
+   ни один статический разбор такого не показывает. */
 .band-more::after { content: "\2192"; color: var(--green); }
+[dir="rtl"] .band-more::after { content: "\2190"; }
 .band-more:hover, .band-more:focus-visible { border-bottom-color: var(--link); }
 .band--navy .band-more { color: var(--link-on-dark); }
 .band--navy .band-more:hover,
