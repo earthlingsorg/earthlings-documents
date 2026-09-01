@@ -174,24 +174,53 @@ def check_prod_untouched():
                % (len(bad), (': ' + ', '.join(bad[:3])) if bad else ''))
 
 
+def check_launch():
+    u"""Готовность к подмене - девятнадцать проверок из `preflight_launch.py`.
+
+    Отдельным файлом, потому что вопросы разные: здесь корпус, там - что
+    перестанет отдаваться в момент смены корня nginx. Вызывается отсюда,
+    чтобы ответ давала одна команда: проверка, которую надо вспомнить, чтобы
+    запустить, рано или поздно не запускается.
+    """
+    if TOOLS not in sys.path:
+        sys.path.insert(0, TOOLS)
+    try:
+        import preflight_launch
+        return preflight_launch.run_checks()
+    except Exception as e:                       # noqa: BLE001
+        return [Row(u'готовность к подмене', False,
+                    u'не запустилась: %s: %s' % (type(e).__name__, e))]
+
+
 def main():
     fast = '--fast' in sys.argv
-    rows = [check_verify(), check_layout(), check_nav(), check_audit(fast),
-            check_sitemap(),
-            check_site('contrast_check.py', u'контраст меню'),
-            check_site('menu_fits.py', u'меню помещается в шапку'),
-            check_prod_untouched()]
+    corpus = [check_verify(), check_layout(), check_nav(), check_audit(fast),
+              check_sitemap(),
+              check_site('contrast_check.py', u'контраст меню'),
+              check_site('menu_fits.py', u'меню помещается в шапку'),
+              check_prod_untouched()]
+    launch = [] if '--corpus' in sys.argv else check_launch()
+    rows = corpus + launch
 
     width = max(len(r.name) for r in rows)
+    line = '=' * (width + 60)
     print('')
     print(u'ПРЕДПОЛЁТ: %d проверок' % len(rows))
-    print('=' * (width + 60))
-    for r in rows:
-        print(u'  %-3s %-*s  %s' % (u'ok' if r.ok else u'ПРОВАЛ', width,
+    print(line)
+    print(u'  -- корпус ' + '-' * (width + 48))
+    for r in corpus:
+        print(u'  %-6s %-*s  %s' % (u'ok' if r.ok else u'ПРОВАЛ', width,
                                     r.name, r.note))
-    print('=' * (width + 60))
+    if launch:
+        print(u'  -- готовность к подмене ' + '-' * (width + 34))
+        for r in launch:
+            print(u'  %-6s %-*s  %s' % (u'ok' if r.ok else u'ПРОВАЛ', width,
+                                        r.name, r.note))
+    print(line)
     bad = [r for r in rows if not r.ok]
     print(u'провалено: %d из %d' % (len(bad), len(rows)))
+    if any(not r.ok for r in launch):
+        print(u'подробности по подмене: python _tools/preflight_launch.py -v')
     return len(bad)
 
 
