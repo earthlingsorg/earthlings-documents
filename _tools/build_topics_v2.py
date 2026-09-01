@@ -86,6 +86,51 @@ def main_of(path):
     return m.group(1), t.group(1).strip(), d.group(1)
 
 
+# Прежнее название Декларации. Боевые темы писались до переименования
+# 2026-08-25 («Декларация Earthlings о самоопределении» -> «Декларация
+# Earthlings»), а источник переноса - боевая страница; другого места
+# исправить это нет, боевое дерево заморожено.
+#
+# Списком, а не выводом из нового заголовка: в русском тексте название
+# стоит в разных падежах, и правило для них не выводится. Что новое
+# название совпадает с живым корпусом, проверяет check_renames - иначе
+# правка тихо разошлась бы с самой Декларацией.
+#
+# Остальные восемь языков не упоминают Декларацию полным названием -
+# проверено поиском по точной строке боевого h1 каждого языка.
+RENAMES = {
+    'ru': [(u'Декларация Earthlings о самоопределении',
+            u'Декларация Earthlings'),
+           (u'Декларации Earthlings о самоопределении',
+            u'Декларации Earthlings'),
+           (u'Декларацию Earthlings о самоопределении',
+            u'Декларацию Earthlings'),
+           (u'Декларацией Earthlings о самоопределении',
+            u'Декларацией Earthlings')],
+}
+
+
+def check_renames():
+    u"""Новое название в RENAMES обязано совпадать с живой Декларацией."""
+    for lang, pairs in RENAMES.items():
+        found = glob.glob(os.path.join(V2, 'documents', lang,
+                                       '%s01-*.html' % lang))
+        assert found, u'нет страницы Декларации: %s' % lang
+        h = io.open(found[0], encoding='utf-8').read()
+        m = re.search(r'<h1[^>]*>(.*?)</h1>', h, re.S)
+        assert m, found[0]
+        live = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', m.group(1))).strip()
+        assert pairs[0][1] == live, (
+            u'RENAMES разошлись с корпусом: %r против %r' % (pairs[0][1], live))
+
+
+def fix_names(s, lang):
+    u"""Название Декларации - в нынешнем виде."""
+    for old, new in RENAMES.get(lang, []):
+        s = s.replace(old, new)
+    return s
+
+
 def fix_links(s, lang):
     u"""Ссылки на документы - на смысловые слаги и корневой формой.
 
@@ -172,6 +217,8 @@ def shell(lang, inner, url, title, desc, alt_path):
 def build_topic(slug, lang):
     src = os.path.join(PROD, slug, '%s.html' % lang)
     body, title, desc = main_of(src)
+    body, title, desc = (fix_names(body, lang), fix_names(title, lang),
+                         fix_names(desc, lang))
     m = TOPIC.match(body)
     assert m, u'страница не совпала со скелетом: %s' % src
     g = {k: fix_links(v, lang) for k, v in m.groupdict().items()}
@@ -215,6 +262,8 @@ def build_hub(lang):
     if lang == 'en':
         src = os.path.join(PROD, 'index.html')
     body, title, desc = main_of(src)
+    body, title, desc = (fix_names(body, lang), fix_names(title, lang),
+                         fix_names(desc, lang))
     m = HUB.match(body)
     assert m, u'хаб не совпал со скелетом: %s' % src
     g = {k: fix_links(v, lang) for k, v in m.groupdict().items()}
@@ -238,6 +287,7 @@ def build_hub(lang):
 def main():
     dry = '--dry' in sys.argv
     assert os.path.isdir(PROD), u'нет боевого каталога тем: %s' % PROD
+    check_renames()
     guard.makedirs(OUT)
 
     n = 0
