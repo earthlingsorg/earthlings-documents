@@ -27,15 +27,22 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-SITE = os.path.dirname(os.path.dirname(HERE))
+# TOOLS - родительский каталог: этот файл лежит в _tools/v2/. Путь к
+# сайту берётся у build_site_docs, а не считается «на два уровня вверх»:
+# так было, пока инструмент лежал в earth-lings-site/_v2/tools, и после
+# переезда сюда счёт стал указывать в earthlings-documents - проверка
+# падала на «нет файла шрифта». У build_site_docs резолвер один и он
+# понимает EARTHLINGS_SITE.
+TOOLS = os.path.dirname(HERE)
+assert os.path.isdir(TOOLS), u'нет каталога %s' % TOOLS
+sys.path.insert(0, TOOLS)
+
+from build_site_docs import SITE        # noqa: E402
 V2 = os.path.join(SITE, '_v2')
 # Величины берутся из ИСХОДНИКА стилей, а не из выдачи: выдача
 # порождается снятием комментариев, и мерить надо то, что написано.
 TOKENS = os.path.join(os.path.dirname(HERE), 'css', 'tokens.css')
 FONTS = os.path.join(V2, 'fonts')
-TOOLS = os.path.join(os.path.dirname(SITE), 'earthlings-documents', '_tools')
-assert os.path.isdir(TOOLS), u'нет каталога %s' % TOOLS
-sys.path.insert(0, TOOLS)
 
 import chrome as C                        # noqa: E402
 from fontTools.ttLib import TTFont        # noqa: E402
