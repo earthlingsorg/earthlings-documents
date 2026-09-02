@@ -528,7 +528,7 @@ Si plus d'un passeport valide a été délivré à une même personne, la déliv
 - Vote: **majorité de sanction de 75% avec un quorum de 25%, secret, sans délégation**
 - Recours dans les 30 jours; la majorité simple (51%, quorum 20%) suffit pour annuler la décision
 
-La question est examinée par les participants eux-mêmes - ceux qui ne l'ont pas soulevée. Le recours est porté devant l'Assemblée. Il n'est créé aucun organe permanent qui trancherait de telles questions à la place des participants: le peuple des Earthlings n'a pas de tribunal.
+Le recours est porté devant l'Assemblée. Les garanties dues à la personne lors de cet examen sont établies par la Déclaration; la Charte ne les répète pas et ne peut les abaisser.
 
 L'annulation n'est pas une exclusion du peuple et ne s'applique pas comme sanction d'un comportement. Elle établit seulement que la délivrance n'a pas régulièrement eu lieu à l'origine. La personne dont le passeport est annulé a le droit de refaire vérifier son identité dans les conditions de droit commun, si l'obstacle à une délivrance régulière est levé.
 

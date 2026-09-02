@@ -528,7 +528,7 @@ Ist einem Menschen mehr als ein gültiger Pass ausgegeben worden, so wird die Au
 - Abstimmung: **Sanktionsmehrheit 75 % bei einem Quorum von 25 %, geheim, ohne Übertragung**
 - Beschwerde binnen 30 Tagen; zur Aufhebung der Entscheidung genügt eine einfache Mehrheit (51 %, Quorum 20 %)
 
-Die Frage prüfen die Teilnehmer selbst - diejenigen, die sie nicht aufgeworfen haben. Die Beschwerde geht an die Vollversammlung. Ein ständiges Organ, das solche Fragen anstelle der Teilnehmer entscheidet, wird nicht geschaffen: ein Gericht hat das Volk der Earthlings nicht.
+Die Beschwerde geht an die Vollversammlung. Die Gewährleistungen, die dem Menschen bei der Prüfung zustehen, sind in der Erklärung festgelegt; die Charta wiederholt sie nicht und kann sie nicht absenken.
 
 Die Aufhebung ist kein Ausschluss aus dem Volk und wird nicht als Sanktion für ein Verhalten angewandt. Sie stellt nur fest, dass die Ausgabe von Anfang an nicht rechtmäßig zustande gekommen ist. Ein Mensch, dessen Pass aufgehoben wurde, ist befugt, die Prüfung unter den allgemeinen Voraussetzungen erneut zu durchlaufen, wenn das Hindernis für eine rechtmäßige Ausgabe beseitigt ist.
 

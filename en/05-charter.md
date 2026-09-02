@@ -528,7 +528,7 @@ If more than one valid passport has been issued to one person, the issuance of a
 - Vote: **sanction majority of 75% at a quorum of 25%, secret, without delegation**
 - Appeal within 30 days; a simple majority (51%, quorum 20%) is enough to overturn the decision
 
-The question is examined by the participants themselves - those who did not raise it. An appeal goes to the Assembly. No permanent body deciding such questions in place of the participants is created: the Earthlings people has no court.
+An appeal goes to the Assembly. The guarantees owed to the person in such an examination are established by the Declaration; the Charter neither repeats them nor can lower them.
 
 Annulment is not expulsion from the people and is not applied as a measure of liability for conduct. It establishes only that the issuance did not lawfully take place. A person whose passport has been annulled has the right to undergo verification again on general terms, once the impediment to lawful issuance has been removed.
 

@@ -528,7 +528,7 @@ Si a una misma persona se le ha emitido más de un pasaporte en vigor, se anula 
 - Votación: **mayoría sancionadora del 75% con quórum del 25%, secreta y sin delegación**
 - Recurso en el plazo de 30 días; para anular la decisión basta la mayoría simple (51%, quórum 20%)
 
-La cuestión la examinan los propios participantes: aquellos que no la plantearon. El recurso se dirige a la Asamblea. No se crea ningún órgano permanente que resuelva tales cuestiones en lugar de los participantes: el pueblo Earthlings no tiene tribunal.
+El recurso se dirige a la Asamblea. Las garantías que corresponden a la persona en ese examen las establece la Declaración; la Carta no las repite ni puede rebajarlas.
 
 La anulación no es una expulsión del pueblo y no se aplica como medida de responsabilidad por la conducta. Solo establece que la emisión no llegó a producirse válidamente. La persona cuyo pasaporte se ha anulado puede pasar de nuevo la verificación en las condiciones generales si se ha removido el impedimento a una emisión válida.
 
