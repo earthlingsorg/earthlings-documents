@@ -465,17 +465,19 @@ The Earthlings people is formed in the logic of internal, non-territorial, and v
 
 The content of internal self-determination as recognized in law already includes a people's self-government in its own affairs: the UN Declaration on the Rights of Indigenous Peoples recognizes the right of self-determination (Article 3) and unfolds it as "autonomy or self-government in matters relating to their internal and local affairs" (Article 4), with a reservation on territorial integrity (Article 46) that mirrors ours. The substance of the right was stated by the International Court of Justice in the advisory opinion on Western Sahara (1975): what decides is the free and genuine expression of the will of the people itself, and the form is secondary.
 
-## Four guarantees of compatibility with sovereignty
+## Additive self-determination
 
-The self-determination of Earthlings is additive, not subtractive: it adds a belonging without taking anything from states, and is therefore incapable by construction of encroaching on territorial integrity - the object of encroachment is absent.
+The self-determination of the Earthlings people is exercised by means that public authority does not use, and upon a subject-matter to which it lays no claim. The people establishes belonging, forms a verifiable collective position of its participants and conveys it by the word. Everything it does, it does by these means and by these alone. From that follows the compatibility examined below: not as a concession agreed upon with states, but as a property of the construction itself.
 
-**No territorial claims** - no territory, and no jurisdiction over physical space, resources, or the populations of states.
+**Belonging instead of jurisdiction** - the people binds only those who have entered it, and only in the matters of its own internal life. Neither territory nor jurisdiction over physical space, resources, or the populations of states does it have or claim.
 
-**Renunciation of coercion and of a monopoly on force** - armed formations, security structures, and the forcible enforcement of decisions are excluded.
+**The word instead of force** - the sole means of the people is the utterance, the address and the argument; the execution of its decisions rests on the voluntariness of the participant. Armed formations, security structures, and the forcible enforcement of decisions are excluded by Article 9 of the Declaration, which forms part of the unamendable core.
 
-**Renunciation of the classical functions of public authority** - no claims to taxation, criminal jurisdiction, or the regulation of the internal economies of states.
+**Position instead of authority** - the people produces a verifiable collective position and presents it. Taxation, criminal jurisdiction, and the regulation of internal economies remain wholly with states; the people advances no claim to them.
 
-**Compatibility with national citizenship** - where applicable laws conflict, the mandatory norms of the relevant national jurisdiction prevail.
+**Addition instead of replacement** - belonging to the people is added to what a person already has, and does not affect their citizenship, their tax obligations, or their jurisdiction. Where applicable laws conflict, the mandatory norms of the relevant national jurisdiction prevail.
+
+No object of collision arises here, and not because the people has given something up under pressure, but because a claim and a guarantee are here of different natures. The renunciation of violence in Article 9 of the Declaration is an obligation of the people towards itself and towards the person, not a concession to states: it would hold even in the absence of any dispute about territorial integrity.
 
 ---
 

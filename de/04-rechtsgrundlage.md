@@ -465,17 +465,19 @@ Das Volk der Earthlings bildet sich in der Logik einer inneren, nichtterritorial
 
 Der rechtlich anerkannte Inhalt der inneren Selbstbestimmung schließt die Selbstverwaltung eines Volkes in eigenen Angelegenheiten bereits ein: Die Erklärung der Vereinten Nationen über die Rechte indigener Völker anerkennt das Recht auf Selbstbestimmung (Artikel 3) und entfaltet es als „Autonomie oder Selbstverwaltung in Angelegenheiten, die ihre inneren und örtlichen Belange betreffen“ (Artikel 4), bei einem Vorbehalt zur territorialen Unversehrtheit (Artikel 46), der mit unserem spiegelbildlich übereinstimmt. Das Wesen des Rechts hat der Internationale Gerichtshof im Gutachten zur Westsahara (1975) benannt: Es entscheidet die freie und echte Willensbekundung des Volkes selbst, die Form ist zweitrangig.
 
-## Vier Gewährleistungen der Vereinbarkeit mit der Souveränität
+## Hinzufügende Selbstbestimmung
 
-Die Selbstbestimmung der Earthlings hat hinzufügenden und keinen abziehenden Charakter: Sie fügt eine Zugehörigkeit hinzu, ohne den Staaten etwas zu nehmen, und ist deshalb ihrem Bau nach nicht in der Lage, die territoriale Unversehrtheit anzutasten - der Gegenstand des Antastens fehlt.
+Die Selbstbestimmung des Volkes der Earthlings wird mit Mitteln ausgeübt, welche die öffentliche Gewalt nicht gebraucht, und in einem Gegenstand, auf den sie keinen Anspruch erhebt. Das Volk begründet Zugehörigkeit, bildet eine überprüfbare kollektive Position seiner Teilnehmer und bringt sie mit dem Wort zur Geltung. Alles, was es tut, tut es mit diesen Mitteln und nur mit ihnen. Daraus folgt die unten behandelte Vereinbarkeit: nicht als ein mit den Staaten ausgehandeltes Zugeständnis, sondern als Eigenschaft des Baus selbst.
 
-**Das Fehlen von Gebietsansprüchen** - weder ein Gebiet noch Hoheitsgewalt über den physischen Raum, die Ressourcen oder die Bevölkerung von Staaten.
+**Zugehörigkeit statt Hoheitsgewalt** - das Volk bindet nur diejenigen, die ihm beigetreten sind, und nur in den Fragen des eigenen inneren Lebens. Weder ein Gebiet noch Hoheitsgewalt über den physischen Raum, die Ressourcen oder die Bevölkerung von Staaten hat es, und es beansprucht beides auch nicht.
 
-**Der Verzicht auf Zwang und auf das Gewaltmonopol** - bewaffnete Verbände, Machtstrukturen und die zwangsweise Durchsetzung von Beschlüssen sind ausgeschlossen.
+**Das Wort statt der Gewalt** - das einzige Mittel des Volkes ist die Äußerung, die Ansprache und das Argument; die Ausführung seiner Beschlüsse beruht auf der Freiwilligkeit des Teilnehmers. Bewaffnete Verbände, Machtstrukturen und die zwangsweise Durchsetzung von Beschlüssen sind durch Artikel 9 der Erklärung ausgeschlossen, der zum unabänderlichen Kern gehört.
 
-**Der Verzicht auf die klassischen Aufgaben der öffentlichen Gewalt** - keinerlei Ansprüche auf Besteuerung, Strafgerichtsbarkeit und Regulierung der Binnenwirtschaft von Staaten.
+**Position statt Herrschaft** - das Volk bringt eine überprüfbare kollektive Position hervor und legt sie vor. Besteuerung, Strafgerichtsbarkeit und die Regulierung der Binnenwirtschaft bleiben zur Gänze bei den Staaten; Ansprüche darauf erhebt das Volk nicht.
 
-**Die Vereinbarkeit mit der nationalen Staatsangehörigkeit** - bei einer Kollision des anwendbaren Rechts haben die zwingenden Normen der jeweiligen nationalen Rechtsordnung Vorrang.
+**Ergänzung statt Ersetzung** - die Zugehörigkeit zum Volk tritt zu dem hinzu, was ein Mensch bereits hat, und berührt seine Staatsangehörigkeit, seine Steuerpflichten und seinen Gerichtsstand nicht. Bei einer Kollision des anwendbaren Rechts haben die zwingenden Normen der jeweiligen nationalen Rechtsordnung Vorrang.
+
+Ein Gegenstand des Zusammenstoßes entsteht dabei nicht, und zwar nicht deshalb, weil das Volk unter Druck auf etwas verzichtet hätte, sondern weil Anspruch und Gewährleistung hier von verschiedener Natur sind. Der Verzicht auf Gewalt in Artikel 9 der Erklärung ist eine Verpflichtung des Volkes gegenüber sich selbst und gegenüber dem Menschen, kein Zugeständnis an die Staaten: Er gälte auch dann, wenn es keinerlei Streit über die territoriale Unversehrtheit gäbe.
 
 ---
 

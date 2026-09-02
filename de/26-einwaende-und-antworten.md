@@ -46,7 +46,7 @@ Die rechtliche Seite der Frage steht in der Rechtsgrundlage, Abschnitt 07.
 
 ### Sie untergraben die Souveränität: eine Parallelstruktur über den Bürgern von Staaten.
 
-Vier Gewährleistungen der Vereinbarkeit: keine Gebietsansprüche; keine bewaffneten oder zwingenden Strukturen; Ergänzung statt Ersetzung - keine Besteuerung, keine Strafgerichtsbarkeit, keine Regulierung der Wirtschaft; bei einer Kollision des anwendbaren Rechts haben die zwingenden Normen der nationalen Rechtsordnung Vorrang.
+Die hinzufügende Selbstbestimmung steht auf vier Eigenschaften des Baus. Zugehörigkeit statt Hoheitsgewalt: weder Gebiet noch Hoheitsgewalt über den Raum, die Ressourcen oder die Bevölkerung von Staaten. Das Wort statt der Gewalt: keinerlei bewaffnete oder zwingende Strukturen. Position statt Herrschaft: keine Besteuerung, keine Strafgerichtsbarkeit, keine Regulierung der Wirtschaft. Ergänzung statt Ersetzung: bei einer Kollision des anwendbaren Rechts haben die zwingenden Normen der nationalen Rechtsordnung Vorrang.
 
 Der Mensch behält Staatsangehörigkeit, Steuern und Gerichtsstand - die Zugehörigkeit zu den Earthlings tritt lediglich hinzu.
 

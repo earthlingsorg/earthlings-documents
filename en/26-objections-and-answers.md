@@ -46,7 +46,7 @@ The legal side of the question is in the Legal Basis, section 07.
 
 ### You undermine sovereignty: a parallel structure over the citizens of states.
 
-Four guarantees of compatibility: no territorial claims; no armed or coercive structures; complementarity instead of replacement - no taxation, no criminal jurisdiction, no regulation of economies; where applicable laws conflict, the mandatory norms of the national jurisdiction prevail.
+Additive self-determination rests on four properties of the construction. Belonging instead of jurisdiction: no territory, and no jurisdiction over space, resources, or the populations of states. The word instead of force: no armed or coercive structures. Position instead of authority: no taxation, no criminal jurisdiction, no regulation of economies. Addition instead of replacement: where applicable laws conflict, the mandatory norms of the national jurisdiction prevail.
 
 A person keeps their citizenship, their taxes, and their jurisdiction - belonging to Earthlings is only added to them.
 

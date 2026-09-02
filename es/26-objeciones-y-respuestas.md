@@ -46,7 +46,7 @@ El aspecto jurídico de la cuestión está en la Base jurídica, sección 07.
 
 ### Ustedes socavan la soberanía: una estructura paralela sobre los ciudadanos de los Estados.
 
-Cuatro garantías de compatibilidad: no hay reivindicaciones territoriales; no hay estructuras armadas ni coactivas; adicionalidad en lugar de sustitución - no hay tributación, ni jurisdicción penal, ni regulación de la economía; en caso de conflicto de derecho aplicable, prioridad de las normas imperativas de la jurisdicción nacional.
+La libre determinación aditiva se sostiene en cuatro propiedades de la construcción. La pertenencia en lugar de la jurisdicción: ni territorio, ni jurisdicción sobre el espacio, los recursos o la población de los Estados. La palabra en lugar de la fuerza: ninguna estructura armada ni coactiva. La posición en lugar del poder: no hay tributación, ni jurisdicción penal, ni regulación de la economía. La adición en lugar de la sustitución: en caso de conflicto de derecho aplicable, prioridad de las normas imperativas de la jurisdicción nacional.
 
 La persona conserva su nacionalidad, sus impuestos y su fuero: la pertenencia a los Earthlings solo se añade.
 

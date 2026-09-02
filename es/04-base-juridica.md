@@ -465,17 +465,19 @@ El pueblo Earthlings se forma en la lógica de una libre determinación interna,
 
 El contenido de la libre determinación interna reconocido por el derecho incluye ya el autogobierno de un pueblo en sus propios asuntos: la Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas reconoce el derecho de libre determinación (artículo 3) y lo desarrolla como «la autonomía o el autogobierno en las cuestiones relacionadas con sus asuntos internos y locales» (artículo 4), con una salvedad sobre la integridad territorial (artículo 46) que coincide en espejo con la nuestra. La esencia del derecho la señaló la Corte Internacional de Justicia en la opinión consultiva sobre el Sáhara Occidental (1975): decide la expresión libre y auténtica de la voluntad del propio pueblo, y la forma es secundaria.
 
-## Cuatro garantías de compatibilidad con la soberanía
+## La libre determinación aditiva
 
-La libre determinación de los Earthlings tiene carácter aditivo y no sustractivo: añade una pertenencia sin quitar nada a los Estados y por ello, por construcción, no puede atentar contra la integridad territorial: falta el objeto del atentado.
+La libre determinación del pueblo Earthlings se ejerce con medios que el poder público no emplea y en una materia que este no pretende. El pueblo instituye la pertenencia, forma una posición colectiva verificable de sus participantes y la hace llegar con la palabra. Todo lo que hace, lo hace con esos medios y solo con ellos. De ahí se sigue la compatibilidad que se examina más abajo: no como una concesión pactada con los Estados, sino como una propiedad de la construcción misma.
 
-**Ausencia de reivindicaciones territoriales**: ni territorio, ni jurisdicción sobre el espacio físico, los recursos o la población de los Estados.
+**La pertenencia en lugar de la jurisdicción**: el pueblo vincula solo a quienes han entrado en él, y solo en las cuestiones de su propia vida interna. Ni territorio ni jurisdicción sobre el espacio físico, los recursos o la población de los Estados: no los tiene ni los pretende.
 
-**Renuncia a la coacción y al monopolio de la fuerza**: quedan excluidas las formaciones armadas, las estructuras de seguridad y la ejecución forzosa de las decisiones.
+**La palabra en lugar de la fuerza**: el único medio del pueblo es la declaración, el llamamiento y el argumento; la ejecución de sus decisiones se apoya en la voluntariedad del participante. Las formaciones armadas, las estructuras de seguridad y la ejecución forzosa de las decisiones quedan excluidas por el artículo 9 de la Declaración, que forma parte del núcleo intangible.
 
-**Renuncia a las funciones clásicas del poder público**: ninguna pretensión de tributación, jurisdicción penal ni regulación de la economía interna de los Estados.
+**La posición en lugar del poder**: el pueblo produce una posición colectiva verificable y la presenta. La tributación, la jurisdicción penal y la regulación de la economía interna quedan enteramente en manos de los Estados; el pueblo no formula pretensión alguna sobre ellas.
 
-**Compatibilidad con la nacionalidad**: en caso de conflicto de derecho aplicable tienen prioridad las normas imperativas de la jurisdicción nacional correspondiente.
+**La adición en lugar de la sustitución**: la pertenencia al pueblo se añade a lo que la persona ya tiene y no afecta a su nacionalidad, a sus obligaciones tributarias ni a su fuero. En caso de conflicto de derecho aplicable tienen prioridad las normas imperativas de la jurisdicción nacional correspondiente.
+
+El objeto de la colisión no llega a surgir, y no porque el pueblo haya renunciado a algo bajo presión, sino porque la pretensión y la garantía son aquí de naturaleza distinta. La renuncia a la violencia del artículo 9 de la Declaración es una obligación del pueblo consigo mismo y con la persona, no una concesión a los Estados: regiría igualmente en ausencia de toda controversia sobre la integridad territorial.
 
 ---
 

@@ -465,17 +465,19 @@ Le peuple des Earthlings se forme dans la logique d'une autodétermination inter
 
 Le contenu de l'autodétermination interne reconnu par le droit comprend déjà l'autogouvernement d'un peuple dans ses propres affaires: la Déclaration des Nations Unies sur les droits des peuples autochtones reconnaît le droit à l'autodétermination (article 3) et le développe comme le droit « d'être autonomes et de s'administrer eux-mêmes pour tout ce qui touche à leurs affaires intérieures et locales » (article 4), sous une réserve d'intégrité territoriale (article 46) qui coïncide exactement avec la nôtre. La Cour internationale de Justice a indiqué la substance de ce droit dans son avis consultatif sur le Sahara occidental (1975): ce qui décide est l'expression libre et authentique de la volonté du peuple lui-même, la forme est seconde.
 
-## Quatre garanties de compatibilité avec la souveraineté
+## Une autodétermination additive
 
-L'autodétermination des Earthlings est additive et non soustractive: elle ajoute une appartenance sans rien retirer aux États, et elle est donc, par construction, hors d'état de porter atteinte à l'intégrité territoriale - l'objet de l'atteinte est absent.
+L'autodétermination du peuple des Earthlings s'exerce par des moyens que la puissance publique n'emploie pas et sur un objet auquel elle ne prétend pas. Le peuple institue l'appartenance, forme une position collective vérifiable de ses participants et la porte par la parole. Tout ce qu'il fait, il le fait par ces moyens et par eux seuls. De là découle la compatibilité examinée ci-dessous: non comme une concession négociée avec les États, mais comme une propriété de la construction elle-même.
 
-**L'absence de revendication territoriale** - ni territoire, ni juridiction sur l'espace physique, les ressources ou la population des États.
+**L'appartenance au lieu de la juridiction** - le peuple ne lie que ceux qui y sont entrés, et seulement pour les questions de sa propre vie intérieure. Ni territoire ni juridiction sur l'espace physique, les ressources ou la population des États: il n'en a pas et n'en revendique pas.
 
-**Le renoncement à la contrainte et au monopole de la force** - sont exclues les formations armées, les structures de force et l'exécution forcée des décisions.
+**La parole au lieu de la force** - le seul moyen du peuple est la déclaration, l'adresse et l'argument; l'exécution de ses décisions repose sur le caractère volontaire de la participation. Les formations armées, les structures de force et l'exécution forcée des décisions sont exclues par l'article 9 de la Déclaration, qui fait partie du noyau intangible.
 
-**Le renoncement aux fonctions classiques de la puissance publique** - aucune prétention à l'imposition, à la compétence pénale et à la réglementation de l'économie interne des États.
+**La position au lieu du pouvoir** - le peuple produit une position collective vérifiable et la présente. L'imposition, la compétence pénale et la réglementation de l'économie interne restent entièrement aux États; le peuple n'y élève aucune prétention.
 
-**La compatibilité avec la nationalité** - en cas de conflit de lois, priorité est donnée aux normes impératives de l'ordre juridique national concerné.
+**L'addition au lieu du remplacement** - l'appartenance au peuple s'ajoute à ce que la personne a déjà et n'affecte ni sa nationalité, ni ses obligations fiscales, ni ses juges. En cas de conflit de lois, priorité est donnée aux normes impératives de l'ordre juridique national concerné.
+
+L'objet du heurt ne naît pas, et non parce que le peuple aurait renoncé à quelque chose sous la contrainte, mais parce que la prétention et la garantie sont ici de nature différente. La renonciation à la violence énoncée à l'article 9 de la Déclaration est une obligation du peuple envers lui-même et envers la personne, non une concession aux États: elle vaudrait même en l'absence de tout différend sur l'intégrité territoriale.
 
 ---
 

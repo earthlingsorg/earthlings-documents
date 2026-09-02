@@ -46,7 +46,7 @@ L'aspect juridique de la question se trouve dans la Base juridique, section 07.
 
 ### Vous sapez la souveraineté: une structure parallèle au-dessus des citoyens des États.
 
-Quatre garanties de compatibilité: aucune revendication territoriale; aucune structure armée ou de contrainte; l'addition au lieu du remplacement - pas d'imposition, pas de compétence pénale, pas de réglementation de l'économie; en cas de conflit de lois, priorité aux normes impératives de l'ordre juridique national.
+L'autodétermination additive tient à quatre propriétés de la construction. L'appartenance au lieu de la juridiction: ni territoire, ni juridiction sur l'espace, les ressources ou la population des États. La parole au lieu de la force: aucune structure armée ou de contrainte. La position au lieu du pouvoir: pas d'imposition, pas de compétence pénale, pas de réglementation de l'économie. L'addition au lieu du remplacement: en cas de conflit de lois, priorité aux normes impératives de l'ordre juridique national.
 
 La personne garde sa nationalité, ses impôts et ses juges: l'appartenance aux Earthlings ne fait que s'ajouter.
 
