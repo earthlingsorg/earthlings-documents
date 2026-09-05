@@ -217,7 +217,7 @@ From this comes the formula that is perhaps the only thing in the whole document
 
 Anyone can be heard today. No one can be counted.
 
-And at once the caveat without which this word is dangerous. **The instrument is a procedure, not people.** It is not the person who is measured: the person answers or does not answer, of their own will, and the answer belongs to them. What we call the instrument is the order by which answers are collected and verified - the question, the deadline, the registry, the signature, the publication. The people is an instrument for no one, itself included: an instrument is what it builds, not what it is. Anything else would contradict Article 10 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), where the dignity of the person is called inviolable, and the person is called not a means.
+And at once the caveat without which this word is dangerous. **The instrument is a procedure, not people.** It is not the person who is measured: the person answers or does not answer, of their own will, and the answer belongs to them. What we call the instrument is the order by which answers are collected and verified - the question, the deadline, the registry, the signature, the publication. The people is an instrument for no one, itself included: an instrument is what it builds, not what it is. Anything else would contradict Article 3 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), where the dignity of the person is called inviolable, and the person is called not a means.
 
 ## 5. Five properties of a tool that cannot be ignored
 
@@ -301,7 +301,7 @@ What this gives the measurement:
 
 - **one person, one vote**, because there is one passport per person and it cannot be transferred;
 - **a vote cannot be bought**, because the passport is non-transferable and inalienable;
-- **a vote cannot be accumulated**, because property is separated from the vote by the unamendable core of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), Article 13;
+- **a vote cannot be accumulated**, because property is separated from the vote by the unamendable core of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), Article 11;
 - **anyone at all can check**, because the registry lives in a blockchain and not on our servers, and is read directly from an open smart contract.
 
 How identity verification works, and why it does not turn into surveillance, is described in the documents [Biometric Verification](https://earth-lings.org/documents/en/en16-biometric-verification.html) and [SBT passport](https://earth-lings.org/documents/en/en15-sbt-passport.html). What exactly in this infrastructure is open, what is closed, and where today one has to take our word for it, is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html).
@@ -322,17 +322,17 @@ The order for forming a question is therefore bound to meet five requirements:
 4. **No change after the start.** From the moment voting opens the question is not edited. A defect of wording discovered means the measurement is cancelled and a new one held, not corrected on the fly.
 5. **A connection with the participant's life.** The question is put where the consequence falls on the person, and not where institutions negotiate about it. This requirement is not about courtesy to the reader: it determines whether a measurement takes place at all, and it is explained separately below.
 
-The subject matter of a question is limited by Article 7 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) to two criteria that operate at once: no state can resolve the question on its own, and the consequences fall on people whether or not they took part in the decision.
+The subject matter of a question is limited by the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) from two sides. Article 3 draws the circle: the people speaks about what affects everyone. Article 5 sets the exception: the internal life of a particular state is not a subject of the people's decisions, that being a matter for its citizens.
 
-The criteria are exhaustive; the list of questions is not. Falling under them are, for instance, the taxation of transnational profit, the rules for artificial intelligence systems, the fate of the atmosphere and the ocean, resilience to pandemics, responsibility towards future generations. Nothing from the internal politics of a particular state falls under them - on which see section 11 separately.
+The boundary itself is closed; the list of questions is not. Falling under it are, for instance, the taxation of transnational profit, the rules for artificial intelligence systems, the fate of the atmosphere and the ocean, resilience to pandemics, responsibility towards future generations. Nothing from the internal politics of a particular state falls under it - on which see section 11 separately.
 
 ### The question is bound to touch the life of the person being asked
 
 This is the answer to the most likely cause of failure - low turnout, of which section 20 speaks separately. It is cured not by reminders and not by appeals, but by the question. **If the questions do not touch the real life, interests and difficulties of people, the sense of voting disappears entirely: there is no point in asking, and no point in answering.**
 
-There is a genuine contradiction here, and we name it rather than go round it. The criteria of Article 7 select planetary questions - those that no state resolves on its own. And the planetary sounds far from the person: between "agreeing a rate of tax on transnational profit" and the cares of a particular day the distance seems unbridgeable.
+There is a genuine contradiction here, and we name it rather than go round it. The boundary selects planetary questions - those that affect everyone. And the planetary sounds far from the person: between "agreeing a rate of tax on transnational profit" and the cares of a particular day the distance seems unbridgeable.
 
-It seems so. A planetary question **always lands somewhere** - otherwise it would not be planetary: the consequences fall on people, that being its second criterion. So the question has to be put at the point of landing, not at the point of negotiation. Compare:
+It seems so. A planetary question **always lands somewhere** - otherwise it would not be planetary: what affects everyone affects each person. So the question has to be put at the point of landing, not at the point of negotiation. Compare:
 
 | Put at the point of negotiation | Put at the point of landing |
 |---|---|
@@ -344,7 +344,7 @@ On the right and on the left is one and the same question. The wording on the ri
 
 **And immediately the boundary, because from this technique it is one step to disaster.** Wording for the sake of a response is the door next to wording for the sake of the answer wanted, and the latter is already directly forbidden by requirement 3. We draw the distinction thus: **a wording is admissible if it names where the consequence falls, and inadmissible if it prompts how to feel about the consequence.** "Whether a company should be able to pay tax nowhere" names. "Is it fair that corporations profit off you without paying taxes" prompts. Both touch life; the second is not a measurement. The adversarial stage exists among other things to sift such wordings out, and the objection "the question is worded for the sake of the answer wanted" is considered on the same footing as the rest.
 
-The second boundary is Article 9. The questions closest to a person are almost always questions of domestic politics, and that is exactly why they are closed. A suitable question lies at the intersection of two conditions: **it touches the life of the person and at the same time has no national address.** That intersection is not empty: the taxation of transnational profit, the rules for the systems people speak with every day, the fate of data about a person, the price of medicines, resilience to pandemics, who pays for damage to the planet. Each of these has a point of landing in the life of any person, and there is not a single parliament that would resolve it entirely.
+The second boundary is Article 5. The questions closest to a person are almost always questions of domestic politics, and that is exactly why they are closed. A suitable question lies at the intersection of two conditions: **it touches the life of the person and at the same time has no national address.** That intersection is not empty: the taxation of transnational profit, the rules for the systems people speak with every day, the fate of data about a person, the price of medicines, resilience to pandemics, who pays for damage to the planet. Each of these has a point of landing in the life of any person, and there is not a single parliament that would resolve it entirely.
 
 ### Two streams of questions, and both are needed
 
@@ -352,7 +352,7 @@ There is a second and simpler reason why people answer: **the answer does someth
 
 The questions of the people therefore come in two streams, and one cannot be substituted for the other.
 
-**Questions of the internal life of the people** - what the treasury is spent on, what the contribution amounts to, which projects to support, how the rules change, what to do about mandates. Here the consequence follows always and at once: the money really is spent, the rules really do change. It is these votes that create the habit of answering, and habit is the only thing that holds turnout up over a long distance. Their subject matter is limited not by Article 7 but by Article 11 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): these are questions of the life of the people, not of the position of the people towards the outside.
+**Questions of the internal life of the people** - what the treasury is spent on, what the contribution amounts to, which projects to support, how the rules change, what to do about mandates. Here the consequence follows always and at once: the money really is spent, the rules really do change. It is these votes that create the habit of answering, and habit is the only thing that holds turnout up over a long distance. Their subject matter is limited not by Article 6 but by Article 9 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): these are questions of the life of the people, not of the position of the people towards the outside.
 
 **Planetary questions** are those discussed above. Their consequence is not guaranteed: we can measure and publish, but we cannot promise that anyone will answer. That is their weakness, and it is not removable on the first rungs of the ladder.
 
@@ -419,11 +419,11 @@ We prefer to describe this in advance, while not a single measurement has been c
 
 An instrument with which everything can be measured will be used against someone. The limits are therefore written into the Declaration and not into a set of rules, and they are not lifted by a decision of the majority.
 
-**The internal politics of a particular state.** On such questions no collective position on behalf of the whole people is taken at all - Article 9 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html). The Earthlings people takes no part in the struggle for state power, supports no parties and candidates, funds no election campaigns and calls on no one to vote in a particular way.
+**The internal politics of a particular state.** On such questions no collective position on behalf of the whole people is taken at all - Article 5 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html). The Earthlings people takes no part in the struggle for state power, supports no parties and candidates, funds no election campaigns and calls on no one to vote in a particular way.
 
 **A particular person.** No collective position is taken with respect to a particular individual. The people speaks about phenomena, decisions and arrangements, but not about people. An instrument aimed at a person is a lynching with a procedure, and we shall not build one.
 
-**The principles of the unamendable core.** They are not a subject of voting - and this is not a question of a raised threshold but a question that is not put at all. The list of those principles is closed and is established by Article 13 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html); we do not reproduce it here, so that it keeps a single source. The core may be added to; it may not be weakened.
+**The principles of the unamendable core.** They are not a subject of voting - and this is not a question of a raised threshold but a question that is not put at all. The list of those principles is closed and is established by Article 11 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html); we do not reproduce it here, so that it keeps a single source. The core may be added to; it may not be weakened.
 
 These three limits make the instrument less powerful. It is a deliberate trade: a tool with which no blow can be struck is far harder to take away.
 
@@ -565,7 +565,7 @@ So far as we know, an artefact of that kind exists neither with states, nor with
 
 In Part I it was said that the injured side - those who do not yet vote and those who are not yet born - has no representation. Usually the conversation ends there: naming the harm is easy, and there is nothing to repair it with.
 
-Here there is something. It follows not from our good intention but from the construction of the text. Article 9 of the Declaration says: **"No decision of the Earthlings people shifts its consequences onto those who had no opportunity to take part in making it, including future generations."** Article 9 belongs to the unamendable core (Article 13), and the principles of the core are not put to a vote at all - this is not a question of a raised threshold, it is a question that is not asked. A decision that contradicts the core is void from the moment it is taken and is cured neither by time nor by execution.
+Here there is something. It follows not from our good intention but from the construction of the text. Article 5 of the Declaration says: **"No decision of the Earthlings people is to shift negative consequences onto future generations."** Article 5 belongs to the unamendable core (Article 11), and the principles of the core are not put to a vote at all - this is not a question of a raised threshold, it is a question that is not asked. A decision that contradicts the core is void from the moment it is taken and is cured neither by time nor by execution.
 
 Out of this norm a standing procedure may grow: an assessment of every significant decision for its effect on those who come after - with a published opinion and the right of any participant to demand it. No such procedure exists today in any state or in any international organization. Nor do we have one yet: we have the norm from which it follows, and those are different things (section 21).
 
@@ -788,7 +788,7 @@ Let us say the reverse too, because it is of the same order: **if the questions 
 
 **What follows from this for ourselves.** **The share of those who answer is the chief vital indicator of the project, more important than the number of participants.** A people of ten million with a turnout of forty per cent weighs incomparably more than a people of a hundred million with a turnout of four per cent. We say this in advance, so that one indicator cannot later be substituted for the other.
 
-**What we do not guarantee.** That a suitable question will always be found. The criteria of Article 7 are narrow deliberately, and questions that are at once planetary and close to the person are fewer than one would like. We shall not widen the criteria for the sake of turnout: a people that has started asking about anything and everything in order to be listened to better has ceased to be what it was created for.
+**What we do not guarantee.** That a suitable question will always be found. The boundary is narrow deliberately, and questions that are at once planetary and close to the person are fewer than one would like. We shall not widen it for the sake of turnout: a people that has started asking about anything and everything in order to be listened to better has ceased to be what it was created for.
 
 ### 4. Shallowness
 
@@ -892,7 +892,7 @@ So that what is described here can be checked rather than taken on faith, we nam
 
 **There are no probabilities here.** We do not know which of the rungs will be reached, or whether even one will be.
 
-**There is no promise of a result here.** What the people is bound by and what it is not bound by is established by Article 7 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and we do not reproduce it here, so that the norm keeps a single source. In short: recognition is not within its power, and the existence of the people does not depend on recognition.
+**There is no promise of a result here.** What the people is bound by and what it is not bound by is established by Article 6 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and we do not reproduce it here, so that the norm keeps a single source. In short: recognition is not within its power, and the existence of the people does not depend on recognition.
 
 **And there is not a single assertion here on which anything depends today.** The infrastructure is built, the founding period is under way, the Declaration is being put to a vote. If not one of the rungs described here is climbed, that will annul nothing of what has already been done and will make meaningless nothing of what people chose one another for.
 
@@ -929,7 +929,7 @@ This is a doctrinal source, not a norm. We cite it because the mechanism describ
 
 Documents of the corpus to which this one refers:
 
-- [The Earthlings Declaration](https://earth-lings.org/documents/en/en01-declaration.html) - Articles 7, 8, 9, 10, 12 and 13
+- [The Earthlings Declaration](https://earth-lings.org/documents/en/en01-declaration.html) - Articles 3, 5, 6, 8, 9, 10 and 11
 - [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html)
 - [The Earthlings DAO](https://earth-lings.org/documents/en/en07-dao.html)
 - [Digital Platform](https://earth-lings.org/documents/en/en12-digital-platform.html)

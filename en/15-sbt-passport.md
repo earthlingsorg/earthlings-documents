@@ -28,7 +28,7 @@ Unlike state passports, which are tied to a territory and confirm citizenship, t
 - the submission of proposals and initiatives;
 - participation in decisions on every question.
 
-> **The vote is inalienable** and cannot be taken away or suspended for a person's views, for how they voted, for disagreement with decisions, or as a general measure of liability (Declaration, Article 10; [Charter, Articles 17 and 37](https://earth-lings.org/documents/en/en05-charter.html)). The vote is the substance of belonging: by taking it away on such grounds, the people would expel a person while leaving them the name.
+> **The vote is inalienable** and cannot be taken away or suspended for a person's views, for how they voted, for disagreement with decisions, or as a general measure of liability (Declaration, Article 4; [Charter, Articles 17 and 37](https://earth-lings.org/documents/en/en05-charter.html)). The vote is the substance of belonging: by taking it away on such grounds, the people would expel a person while leaving them the name.
 
 The single exception is proven acts aimed at undermining the integrity of the voting itself: collusion, buying or selling a vote, coercing others, circumventing the rule of "one person, one passport" (Charter, Article 22 bis). Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
 

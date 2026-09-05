@@ -52,7 +52,7 @@ If mediation has not led to resolution and the dispute affects the interests of 
 
 This is a last resort. It is appropriate when a conflict concerns the interpretation of the people's rules, when a decision setting a pattern for future cases is required, or when one of the parties systematically acts contrary to the principles adopted in the people.
 
-Consideration proceeds under the procedures of the Charter. **The Assembly cannot expel a person from the people under any circumstances** (Declaration, Article 10); the applicable measures and the procedure for applying them are laid down by Article 22 of the Charter.
+Consideration proceeds under the procedures of the Charter. **The Assembly cannot expel a person from the people under any circumstances** (Declaration, Article 4); the applicable measures and the procedure for applying them are laid down by Article 22 of the Charter.
 
 ## What is not subject to mediation
 
@@ -88,7 +88,7 @@ Refraining from sarcasm and barbs in a shared space makes conversation more prod
 
 Threats, defamation, and coercion are incompatible with belonging to the people. If such conduct constitutes a ground provided for by Article 22 of the Charter, the measures and the procedure it lays down apply.
 
-**Sharpness, irony, disagreement, and inconvenient criticism never entail consequences** - neither directly nor under the guise of another ground (Declaration, Article 10).
+**Sharpness, irony, disagreement, and inconvenient criticism never entail consequences** - neither directly nor under the guise of another ground (Declaration, Article 4).
 
 ---
 

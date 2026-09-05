@@ -99,7 +99,7 @@ Five provisions are not up for discussion under any circumstances. A people from
 - **Exit is free.** At any moment, without giving reasons. Expulsion from the people does not exist.
 - **The people speaks but does not coerce.** Violence is excluded without exception.
 
-All five are written into Articles 8, 9, and 10 of the Declaration, listed in Article 13, and constitute the unamendable core. Proposals aimed at repealing or limiting these principles are not considered. Proposals to refine the wording and to add to the core are considered on the same footing as all the others.
+All five are written into Articles 3, 4, and 5 of the Declaration, listed in Article 11, and constitute the unamendable core. Proposals aimed at repealing or limiting these principles are not considered. Proposals to refine the wording and to add to the core are considered on the same footing as all the others.
 
 What is unamendable are the principles themselves, not the letter in which they are written. The wording may be refined if the refinement does not narrow the principle and lowers no guarantee to the person; where there is doubt it is deemed to lower it and is not accepted. The rest of the text of the Declaration the people is entitled to change, add to, and shorten - by two thirds of the votes and only so that no guarantee becomes weaker.
 
@@ -185,7 +185,7 @@ A proposal **on translation** points out that a translation conveys the meaning 
 
 Which kind a proposal belongs to is determined by its content, not by how it is labelled. If a proposal on translation reveals an ambiguity in the master text itself, it is also considered as a proposal on the merits.
 
-**Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 13). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where they diverge the construction giving the person the higher protection applies, and if that does not resolve the divergence, the meaning of the Russian text prevails.
+**Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where they diverge the construction giving the person the higher protection applies, and if that does not resolve the divergence, the meaning of the Russian text prevails.
 
 **Readiness of the translations.** The corpus in all nine languages is brought into line with the Russian master texts before proposals open on 22 October 2026. The final editions put to the vote are published in Russian and English on 3 February 2027, and the translations into the other seven languages by the same date. If any translation is not ready by that day, this is stated plainly, naming the language and the reason; we will not pass off an unfinished translation as a finished one.
 
@@ -209,7 +209,7 @@ The record of all proposals received and the replies to them is published on 3 F
 
 ## 4. What is not considered
 
-Proposals aimed at repealing or limiting the principles established by Articles 8, 9, and 10 of the Declaration and listed in its Article 13 are not considered. Proposals to refine the wording of these articles are considered on the same footing as the rest.
+Proposals aimed at repealing or limiting the principles established by Articles 3, 4, and 5 of the Declaration and listed in its Article 11 are not considered. Proposals to refine the wording of these articles are considered on the same footing as the rest.
 
 Proposals to add to the unamendable core are considered on the same footing as the rest and are included only if they meet all four conditions of the test set out above.
 
@@ -225,7 +225,7 @@ Identity verification is carried out free of charge and continues throughout the
 
 The text is adopted by a vote on 17 February 2027. Those who vote are people who have confirmed their identity, on the principle of one person, one vote.
 
-The vote is held on two texts at once - Russian and English. Both are adopted as authentic (Declaration, Article 13), so the English text must be ready and published no later than the day the record is published, 3 February 2027: one can vote only for what can be read in advance.
+The vote is held on two texts at once - Russian and English. Both are adopted as authentic (Declaration, Article 11), so the English text must be ready and published no later than the day the record is published, 3 February 2027: one can vote only for what can be read in advance.
 
 The text is deemed adopted when three conditions are met at the same time:
 
@@ -247,4 +247,4 @@ The other requirements are not lowered under any circumstances.
 
 These rules apply from the day proposals open and cease to have effect from the moment the text is adopted.
 
-On the day of adoption, Article 14 of the Declaration is filled in with the actual data of the vote and remains in the text forever. The section "Status of This Edition" is not reproduced in the adopted edition.
+On the day of adoption, Article 12 of the Declaration is filled in with the actual data of the vote and remains in the text forever. The section "Status of This Edition" is not reproduced in the adopted edition.

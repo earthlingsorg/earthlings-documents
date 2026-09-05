@@ -294,7 +294,7 @@ An earthling may delegate their vote on a particular field to another earthling.
 
 ## Article 8 bis. Measurement of the Common Will
 
-The Earthlings people expresses a common will on questions meeting the criteria of Article 7 of the Declaration. The limits of such expression are established by Articles 9 and 13 of the Declaration.
+The Earthlings people expresses a common will on questions that affect everyone - Article 3 of the Declaration. The limits of such expression are established by Articles 5 and 11 of the Declaration.
 
 The wording of a question is approved neither by those who run the operational management of the people, nor by those who conduct the measurement. The question is published before voting opens and may be challenged; once voting has opened the question is not edited.
 
@@ -840,7 +840,7 @@ This Charter enters into force upon its publication on the website of the Earthl
 
 A contradiction of the Charter with the Declaration, once discovered, is removed by bringing the Charter into accordance with the Declaration, and not the other way round.
 
-**Division of subject matter.** The Declaration establishes principles, the guarantees to the person, and the limits of the people. The principles of its unamendable core are never abolished; the wording of those principles and its other provisions are changed only by the Assembly, in the manner provided by Article 13 of the Declaration and only so that no guarantee to the person becomes weaker. The Charter establishes mechanisms, thresholds, time limits and procedures; it is amended in the manner provided by Article 36. Numerical values, technical means and organizational detail are not carried over into the Declaration.
+**Division of subject matter.** The Declaration establishes principles, the guarantees to the person, and the limits of the people. The principles of its unamendable core are never abolished; the wording of those principles and its other provisions are changed only by the Assembly, in the manner provided by Article 11 of the Declaration and only so that no guarantee to the person becomes weaker. The Charter establishes mechanisms, thresholds, time limits and procedures; it is amended in the manner provided by Article 36. Numerical values, technical means and organizational detail are not carried over into the Declaration.
 
 ## Article 39. The Structure-Formation Stage
 

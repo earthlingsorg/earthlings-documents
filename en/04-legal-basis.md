@@ -233,7 +233,7 @@ We make the qualification to the last line ourselves: the legal grounds for burn
 
 The precise statement runs as follows: documents of belonging to a people exist, but all of them certify a belonging derived from descent and recognized by a state. For the first time, belonging is certified by a document issued by the people itself, tied neither to territory nor to descent, arising by the decision of the person themselves, and verifiable by anyone.
 
-The assertion "issued by the people" does not rest on words alone: Article 9 of the Declaration establishes that the registry of participants, the confirmation of their identity and the data connected with it "are not the property of a legal entity, cannot be transferred, sold, pledged or otherwise disposed of, and under no circumstances follow a legal entity", and that legal entities "are not the bearers of the people". Without that norm, the assertion would come down to a document issued by a commercial company.
+The assertion "issued by the people" does not rest on words alone: Article 9 of the Declaration establishes that the registry of participants, the confirmation of their identity and the data connected with it "are not the property of a legal entity, cannot be transferred, sold, pledged or otherwise disposed of", and that legal entities "are not the bearers of the people". Without that norm, the assertion would come down to a document issued by a commercial company.
 
 The earthling passport does not replace state documents, and gives no citizenship, visas, right of entry, or consular protection. It certifies belonging to a people - which state documents do not certify at all.
 
@@ -265,7 +265,7 @@ The infrastructure of the Earthlings people is built so that the record cannot e
 
 ## Levels, not a hierarchy
 
-Article 7 of the Declaration defines the subject matter of the people's activity by two features: no single state decides the question alone, and the consequences fall on those who had no voice. This is the all-affected principle, expressed through features rather than through a list of topics.
+Article 3 of the Declaration draws the subject matter of the people's activity with the all-affected principle: what affects everyone is decided with the participation of everyone. This is a principle, not a list of topics: a list will go out of date, a principle will not.
 
 The levels do not form a hierarchy: the Earthlings people does not review the decisions of states and cannot annul them. These are different levels by range of questions, not steps in a ladder of force.
 
@@ -471,13 +471,13 @@ The self-determination of the Earthlings people is exercised by means that publi
 
 **Belonging instead of jurisdiction** - the people binds only those who have entered it, and only in the matters of its own internal life. Neither territory nor jurisdiction over physical space, resources, or the populations of states does it have or claim.
 
-**The word instead of force** - the sole means of the people is the utterance, the address and the argument; the execution of its decisions rests on the voluntariness of the participant. Armed formations, security structures, and the forcible enforcement of decisions are excluded by Article 9 of the Declaration, which forms part of the unamendable core.
+**The word instead of force** - the sole means of the people is the utterance, the address and the argument; the execution of its decisions rests on the voluntariness of the participant. Armed formations, security structures, and the forcible enforcement of decisions are excluded by Article 5 of the Declaration, which forms part of the unamendable core.
 
 **Position instead of authority** - the people produces a verifiable collective position and presents it. Taxation, criminal jurisdiction, and the regulation of internal economies remain wholly with states; the people advances no claim to them.
 
 **Addition instead of replacement** - belonging to the people is added to what a person already has, and does not affect their citizenship, their tax obligations, or their jurisdiction. Where applicable laws conflict, the mandatory norms of the relevant national jurisdiction prevail.
 
-No object of collision arises here, and not because the people has given something up under pressure, but because a claim and a guarantee are here of different natures. The renunciation of violence in Article 9 of the Declaration is an obligation of the people towards itself and towards the person, not a concession to states: it would hold even in the absence of any dispute about territorial integrity.
+No object of collision arises here, and not because the people has given something up under pressure, but because a claim and a guarantee are here of different natures. The renunciation of violence in Article 5 of the Declaration is an obligation of the people towards itself and towards the person, not a concession to states: it would hold even in the absence of any dispute about territorial integrity.
 
 ---
 

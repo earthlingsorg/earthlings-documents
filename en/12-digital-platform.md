@@ -53,7 +53,7 @@ No other persons or structures with technical powers over the platform exist.
 
 At the initial stage the platform uses existing artificial-intelligence models to analyse initiatives, support projects, and automate routine work. In the longer term, developing an in-house model adapted to the people's tasks is under consideration.
 
-The limits on the use of AI are set by Article 10 of the Declaration: no digital architecture can justify hidden manipulation or the suppression of human autonomy. Hence three strict rules that apply whichever model is used:
+The limits on the use of AI are set by Article 3 of the Declaration: no digital architecture can justify hidden manipulation or the suppression of human autonomy. Hence three strict rules that apply whichever model is used:
 
 - **AI decides nothing.** Any output it produces is advisory and is not a ground for refusal.
 - **Reasons are disclosed.** A person whose initiative AI has flagged receives a statement of the reasons in intelligible form, not a refusal without explanation.
@@ -144,7 +144,7 @@ The platform supports the full cycle: from the appearance of an idea to the comp
 
 Every participant holding a passport and having signed the Declaration has one vote. The vote is not strengthened by a quantity of units of account, by standing within Cells, or by reputation. Economic weight and the right to vote are separated architecturally, not declaratively.
 
-**The right to vote cannot be restricted for a person's views, for how they voted, or as a general measure of liability** (Declaration, Article 10; Charter, Articles 17 and 37). The restrictions provided for by Article 22 of the Charter affect participation in Cells, the right to submit proposals, and access to particular services, but not the vote and not access to votes themselves.
+**The right to vote cannot be restricted for a person's views, for how they voted, or as a general measure of liability** (Declaration, Article 4; Charter, Articles 17 and 37). The restrictions provided for by Article 22 of the Charter affect participation in Cells, the right to submit proposals, and access to particular services, but not the vote and not access to votes themselves.
 
 The only case in which the platform executes a suspension of the vote is a decision of the Assembly under Article 22 bis of the Charter for proven undermining of the integrity of voting, for a period of no more than 6 months. The platform executes such a decision and can neither initiate it, nor apply it on any other ground, nor extend it.
 
@@ -279,7 +279,7 @@ Regular substantive votes, a secret ballot with a verifiable count, delegation b
 **Stage 4. External engagement - still ahead.**
 Engagement with international organizations, universities, and research centres. Provision of aggregated data for the analysis of global processes. Participation of the people in discussing questions that go beyond a single country.
 
-> **On the boundary of the fourth stage.** What is meant is the right to be heard, not power in the decision. The platform does not become and cannot become a place where decisions binding on anyone other than Earthlings themselves are taken. The powers of states are not affected (Declaration, Article 7).
+> **On the boundary of the fourth stage.** What is meant is the right to be heard, not power in the decision. The platform does not become and cannot become a place where decisions binding on anyone other than Earthlings themselves are taken. The powers of states are not affected (Declaration, Article 6).
 
 The division into what is built and what is still ahead is given honestly: the infrastructure exists and has been tested in a working environment, but its evidentiary and practical value arises as participation accumulates, not at the moment of deployment.
 

@@ -57,7 +57,7 @@ If a project needs more people, several Cells are created rather than one enlarg
 
 **2. Initial analysis.** Supporting AI tools check conformity with the Declaration and with ethics, the absence of evident conflicts, and rough feasibility, and where necessary suggest improvements to the wording.
 
-> **Three rules that apply whichever model is used** (Declaration, Article 10):
+> **Three rules that apply whichever model is used** (Declaration, Article 3):
 > - **AI decides nothing** - any output it produces is advisory and constitutes no refusal;
 > - **reasons are disclosed** - the initiator receives a statement of the reasons in intelligible form, not a flag without explanation;
 > - **human review is guaranteed** - the initiator is entitled to demand review by a human being, and it is carried out within a set period.

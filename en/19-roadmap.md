@@ -193,7 +193,7 @@ The ultimate protection of the transition is the same as that of a mature people
 
 For the sake of precision: not all of the system is reproducible. Passports and the records of them lie on a public network, the passport contract code is open, and the rules, thresholds, and procedures are described in these documents - that is enough to build a new platform against the same registry. The code of the platform itself and of the identity verification system is closed, because they work with personal data (Charter, Article 30). The continuation of the people rests on the registry and on the published specification, not on the ability to copy our servers.
 
-This turns transparency from a request for trust into a lever: a delay in decentralization becomes both visible and reversible by the community's own efforts. The same mechanism is described in Article 13 of the Declaration as the last resort for protecting the unamendable core.
+This turns transparency from a request for trust into a lever: a delay in decentralization becomes both visible and reversible by the community's own efforts. The same mechanism is described in Article 11 of the Declaration as the last resort for protecting the unamendable core.
 
 ## What makes a continuation lawful
 

@@ -28,7 +28,7 @@ Transparency, however, extends to the actions of institutions, not to the person
 
 Every earthling has an equal vote on the principle of "one person, one vote". Reputation, contribution, and experience may be taken into account in discussion, but are not converted into additional voting weight, do not open access to any role, and create no privileged classes of participant.
 
-**The vote is inalienable.** The right to vote cannot be taken away or suspended for a person's views, for how they voted, for disagreement with decisions, or as a general measure of liability (Declaration, Article 10; Charter, Articles 17 and 37). The restrictions provided for by Article 22 of the Charter affect participation in Cells, the right to submit proposals, and access to particular services, but not the vote.
+**The vote is inalienable.** The right to vote cannot be taken away or suspended for a person's views, for how they voted, for disagreement with decisions, or as a general measure of liability (Declaration, Article 4; Charter, Articles 17 and 37). The restrictions provided for by Article 22 of the Charter affect participation in Cells, the right to submit proposals, and access to particular services, but not the vote.
 
 The single exception is proven acts aimed at undermining the integrity of the voting itself: collusion, buying or selling a vote, coercing others, circumventing the rule of "one person, one passport" (Charter, Article 22 bis). Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
 
@@ -112,7 +112,7 @@ Participation, contribution, and competence are recorded in inalienable marks ti
 
 ## Stages
 
-**1. Initiation.** Any earthling submits a proposal. No prior approval, collection of signatures, or threshold of support is required for submission: the right of initiative belongs to everyone (Declaration, Article 10). A proposal is accompanied by a description of the aim, the context, the alternatives, the risks, and the expected impact.
+**1. Initiation.** Any earthling submits a proposal. No prior approval, collection of signatures, or threshold of support is required for submission: the right of initiative belongs to everyone (Declaration, Article 4). A proposal is accompanied by a description of the aim, the context, the alternatives, the risks, and the expected impact.
 
 **2. Discussion.** A period of public discussion during which participants ask questions, propose amendments, and criticize the premises. The periods are set by the Charter.
 
@@ -136,7 +136,7 @@ A secret ballot is mandatory when a restriction of powers is under consideration
 
 ## The measurement of the common will is not a decision
 
-The present section describes how the people takes decisions about its own life. An expression of the people's position on questions meeting the criteria of Article 7 of the Declaration is not a decision: the people does not decide by it, it speaks. The order for measurement, the requirements for forming a question, what is published and the order where a measurement is defective are established by the [Charter, Article 8 bis](https://earth-lings.org/documents/en/en05-charter.html); in all other respects the order is established by a decision of the Assembly.
+The present section describes how the people takes decisions about its own life. An expression of the people's position on questions that affect everyone (Article 3 of the Declaration) is not a decision: the people does not decide by it, it speaks. The order for measurement, the requirements for forming a question, what is published and the order where a measurement is defective are established by the [Charter, Article 8 bis](https://earth-lings.org/documents/en/en05-charter.html); in all other respects the order is established by a decision of the Assembly.
 
 ## The feed of proposals
 

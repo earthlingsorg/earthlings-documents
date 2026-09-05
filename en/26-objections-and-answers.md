@@ -86,7 +86,7 @@ Now as to what is built differently - and we speak of the design, not of intenti
 
 **It is confirmed that a participant is a living human being and that they are one.** Multiple registration is technically excluded, and this is a condition of entry, not a wish.
 
-**The foundation is placed outside voting.** Belonging, equality of the vote, the right to leave, and the values with their guarantees are not put to a vote at all - these are not questions with a raised threshold but questions that are not on the ballot (Declaration, Articles 8, 9, and 10).
+**The foundation is placed outside voting.** Belonging, equality of the vote, the right to leave, and the values with their guarantees are not put to a vote at all - these are not questions with a raised threshold but questions that are not on the ballot (Declaration, Articles 3, 4, and 5).
 
 **Organizations do not take part.** Only living human beings belong to the people; a legal entity can neither enter, nor receive a vote, nor accumulate influence.
 
