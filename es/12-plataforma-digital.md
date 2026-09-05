@@ -53,7 +53,7 @@ No existen otras personas ni estructuras con facultades técnicas sobre la plata
 
 En la etapa inicial la plataforma emplea modelos de inteligencia artificial ya existentes para analizar iniciativas, apoyar proyectos y automatizar tareas rutinarias. En perspectiva se contempla desarrollar un modelo propio adaptado a las tareas del pueblo.
 
-Los límites del uso de la IA están establecidos en el artículo 10 de la Declaración: ninguna arquitectura digital puede justificar la manipulación encubierta o la supresión de la autonomía humana. De ahí tres reglas estrictas que rigen con independencia del modelo que se emplee:
+Los límites del uso de la IA están establecidos en el artículo 3 de la Declaración: ninguna arquitectura digital puede justificar la manipulación encubierta o la supresión de la autonomía humana. De ahí tres reglas estrictas que rigen con independencia del modelo que se emplee:
 
 - **La IA no decide nada.** Cualquier conclusión suya tiene carácter de recomendación y no es fundamento de denegación.
 - **Los fundamentos se revelan.** La persona cuya iniciativa haya marcado la IA recibe una exposición de los motivos en forma comprensible, y no una negativa sin explicación.
@@ -144,7 +144,7 @@ La plataforma asegura el ciclo completo: desde la aparición de la idea hasta la
 
 Cada participante que tenga pasaporte y haya firmado la Declaración dispone de un voto. El voto no se refuerza con la cantidad de unidades de cuenta, con la posición en las células ni con la reputación. El peso económico y el derecho de voto están separados por arquitectura, y no de manera declarativa.
 
-**El derecho de voto no puede limitarse por las opiniones, por el sentido del voto o como medida general de responsabilidad** (Declaración, artículo 10; Carta, artículos 17 y 37). Las limitaciones previstas en el artículo 22 de la Carta afectan a la participación en las células, al derecho de presentar propuestas y al acceso a determinados servicios, pero no al voto ni al acceso a las votaciones mismas.
+**El derecho de voto no puede limitarse por las opiniones, por el sentido del voto o como medida general de responsabilidad** (Declaración, artículo 4; Carta, artículos 17 y 37). Las limitaciones previstas en el artículo 22 de la Carta afectan a la participación en las células, al derecho de presentar propuestas y al acceso a determinados servicios, pero no al voto ni al acceso a las votaciones mismas.
 
 El único caso en que la plataforma ejecuta una suspensión del voto es una decisión de la Asamblea conforme al artículo 22 bis de la Carta por socavamiento probado de la integridad de la votación, por un plazo no superior a 6 meses. La plataforma ejecuta tal decisión y no puede ni promoverla, ni aplicarla por otro fundamento, ni prorrogarla.
 
@@ -279,7 +279,7 @@ Votaciones de fondo regulares, voto secreto con recuento verificable, delegació
 **Etapa 4. Relación externa: pendiente.**
 Relación con organizaciones internacionales, universidades y centros de investigación. Puesta a disposición de datos agregados para el análisis de procesos globales. Participación del pueblo en el debate de cuestiones que exceden el marco de un solo país.
 
-> **Sobre el límite de la cuarta etapa.** Se trata del derecho a ser oído, y no del poder en la decisión. La plataforma no se convierte ni puede convertirse en un lugar donde se adopten decisiones obligatorias para nadie que no sean los propios Earthlings. Las facultades de los Estados no se ven afectadas (Declaración, artículo 7).
+> **Sobre el límite de la cuarta etapa.** Se trata del derecho a ser oído, y no del poder en la decisión. La plataforma no se convierte ni puede convertirse en un lugar donde se adopten decisiones obligatorias para nadie que no sean los propios Earthlings. Las facultades de los Estados no se ven afectadas (Declaración, artículo 6).
 
 La división entre lo construido y lo pendiente se expone con honestidad: la infraestructura existe y está comprobada en entorno de producción, pero su valor probatorio y práctico nace a medida que se acumula participación, y no en el momento del despliegue.
 

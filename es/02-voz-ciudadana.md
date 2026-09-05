@@ -2,7 +2,7 @@
 
 **Por qué hoy se la puede no escuchar, qué hacemos con ello y en qué puede llegar a convertirse**
 
-> El presente documento desarrolla una sola disposición de la Declaración. El artículo 7 dice que el pueblo Earthlings forma una posición colectiva verificable de sus participantes y la hace llegar a los Estados y a las organizaciones internacionales, y que la fuerza de esa posición no la determinan las facultades del pueblo, sino la participación libre de las personas, la transparencia de los procedimientos y la posibilidad de verificar el resultado.
+> El presente documento desarrolla una sola disposición de la Declaración. El artículo 6 dice que el pueblo Earthlings forma una posición colectiva verificable de sus participantes y la hace llegar a los Estados y a las organizaciones internacionales, y que la fuerza de esa posición no la determinan las facultades del pueblo, sino la participación libre de las personas, la transparencia de los procedimientos y la posibilidad de verificar el resultado.
 >
 > Aquí se explica qué significa eso en la práctica: por qué hoy la voz ciudadana se puede no escuchar sin rechazarla en cuanto al fondo; qué construimos en su lugar; por qué para ello hizo falta constituir un pueblo y no levantar una sola herramienta; por qué escalones gana peso una voz así; y de qué manera todo esto puede acabar mal.
 >
@@ -217,7 +217,7 @@ De ahí una fórmula que quizá sea la única de todo el documento que merece la
 
 Ser escuchado hoy puede serlo cualquiera. Ser contado, nadie.
 
-Y enseguida la salvedad sin la cual esa palabra es peligrosa. **El instrumento es un procedimiento, no personas.** No se mide a la persona: la persona responde o no responde, por su propia voluntad, y la respuesta le pertenece. Llamamos instrumento al orden por el que las respuestas se recogen y se verifican: la pregunta, el plazo, el registro, la firma, la publicación. El pueblo no es una herramienta para nadie, ni siquiera para sí mismo: la herramienta la construye, no la encarna. Lo contrario contradiría el artículo 10 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), donde la dignidad de la persona se declara inviolable y la persona, no un medio.
+Y enseguida la salvedad sin la cual esa palabra es peligrosa. **El instrumento es un procedimiento, no personas.** No se mide a la persona: la persona responde o no responde, por su propia voluntad, y la respuesta le pertenece. Llamamos instrumento al orden por el que las respuestas se recogen y se verifican: la pregunta, el plazo, el registro, la firma, la publicación. El pueblo no es una herramienta para nadie, ni siquiera para sí mismo: la herramienta la construye, no la encarna. Lo contrario contradiría el artículo 3 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), donde la dignidad de la persona se declara inviolable y la persona, no un medio.
 
 ## 5. Cinco propiedades de una herramienta a la que no se puede ignorar
 
@@ -301,7 +301,7 @@ Qué le da eso a la medición:
 
 - **una persona, un voto**, porque el pasaporte es uno por persona y no se puede transmitir;
 - **el voto no se puede comprar**, porque el pasaporte es intransmisible y no se enajena;
-- **el voto no se puede acumular**, porque el patrimonio está separado del voto por el núcleo intangible de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), artículo 13;
+- **el voto no se puede acumular**, porque el patrimonio está separado del voto por el núcleo intangible de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), artículo 11;
 - **puede verificarlo cualquiera**, porque el registro vive en la cadena de bloques y no en nuestros servidores, y se lee directamente del contrato inteligente abierto.
 
 Cómo está hecha exactamente la verificación de identidad y por qué no se convierte en vigilancia se describe en los documentos [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html) y [Pasaporte SBT](https://earth-lings.org/documents/es/es15-pasaporte-sbt.html). Qué está abierto en esa infraestructura, qué está cerrado y dónde hoy hay que fiarse de nuestra palabra se explica en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html).
@@ -322,17 +322,17 @@ Por eso el procedimiento de formación de la pregunta está obligado a responder
 4. **Inmutabilidad una vez iniciada.** Desde el momento en que se abre la votación, la pregunta no se edita. El defecto de formulación que se descubra significa la anulación de la medición y una nueva, y no un arreglo sobre la marcha.
 5. **Vínculo con la vida del participante.** La pregunta se plantea allí donde la consecuencia recae sobre la persona, y no allí donde las instituciones la negocian. Este requisito no va de cortesía hacia el lector: determina si la medición se produce o no, y se explica más abajo por separado.
 
-El objeto de la pregunta lo limita el artículo 7 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html) con dos rasgos que operan a la vez: ningún Estado puede resolver esa cuestión por sí solo, y las consecuencias recaen sobre las personas con independencia de si participaron o no en la decisión.
+El objeto de la pregunta lo limita la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html) por dos lados. El artículo 3 traza el círculo: el pueblo se pronuncia sobre lo que afecta a todos. El artículo 5 fija la excepción: la vida interna de un Estado concreto no es objeto de las decisiones del pueblo, pues es asunto de sus ciudadanos.
 
-Los rasgos son exhaustivos; la lista de cuestiones, no. Entran en ellos, por ejemplo, la tributación del beneficio transnacional, las reglas para los sistemas de inteligencia artificial, la suerte de la atmósfera y del océano, la resistencia a las pandemias, la responsabilidad ante las generaciones futuras. No entra nada de la política interna de un Estado concreto; de eso se trata aparte en la sección 11.
+El límite mismo es cerrado; la lista de cuestiones, no. Entran en él, por ejemplo, la tributación del beneficio transnacional, las reglas para los sistemas de inteligencia artificial, la suerte de la atmósfera y del océano, la resistencia a las pandemias, la responsabilidad ante las generaciones futuras. No entra en él nada de la política interna de un Estado concreto; de eso se trata aparte en la sección 11.
 
 ### La pregunta está obligada a atañer a la vida de aquel a quien se pregunta
 
 Esta es la respuesta a la causa de fracaso más probable, la baja participación, de la que se habla aparte en la sección 20. No se cura con recordatorios ni con llamamientos, sino con la pregunta. **Si las preguntas no atañen a la vida real, a los intereses y a las dificultades de las personas, el sentido de la votación desaparece por entero: no hay para qué preguntar ni para qué responder.**
 
-Aquí hay una contradicción verdadera, y la nombramos en vez de rodearla. Los rasgos del artículo 7 seleccionan cuestiones planetarias, aquellas que ningún Estado resuelve por sí solo. Y lo planetario, de oído, queda lejos de la persona: entre «la concertación del tipo del impuesto sobre el beneficio transnacional» y las preocupaciones de un día concreto la distancia parece insalvable.
+Aquí hay una contradicción verdadera, y la nombramos en vez de rodearla. El límite selecciona cuestiones planetarias, aquellas que afectan a todos. Y lo planetario, de oído, queda lejos de la persona: entre «la concertación del tipo del impuesto sobre el beneficio transnacional» y las preocupaciones de un día concreto la distancia parece insalvable.
 
-Lo parece. Una cuestión planetaria **aterriza siempre en algún sitio**; de otro modo no sería planetaria: las consecuencias recaen sobre las personas, y en eso consiste su segundo rasgo. Luego la pregunta hay que plantearla en el punto de aterrizaje y no en el punto de negociación. Compare:
+Lo parece. Una cuestión planetaria **aterriza siempre en algún sitio**; de otro modo no sería planetaria: lo que afecta a todos afecta a cada cual. Luego la pregunta hay que plantearla en el punto de aterrizaje y no en el punto de negociación. Compare:
 
 | Planteada en el punto de negociación | Planteada en el punto de aterrizaje |
 |---|---|
@@ -344,7 +344,7 @@ A la derecha y a la izquierda está la misma pregunta. El planteamiento de la de
 
 **Y acto seguido el límite, porque de este recurso a la desgracia hay un solo paso.** Formular en busca de reacción linda con formular en busca de la respuesta deseada, y eso ya lo prohíbe expresamente el requisito 3. La distinción la trazamos así: **la formulación es admisible si nombra dónde recae la consecuencia, e inadmisible si sugiere cómo hay que tomarse esa consecuencia.** «Debe una empresa poder no pagar impuestos en ninguna parte» nombra. «Es justo que las corporaciones se lucren a costa de usted sin pagar impuestos» sugiere. Los dos planteamientos atañen a la vida; el segundo no es una medición. La fase contradictoria existe, entre otras cosas, para descartar formulaciones así, y la objeción «la pregunta está formulada en busca de la respuesta deseada» se examina en igualdad con las demás.
 
-El segundo límite es el artículo 9. Las cuestiones más cercanas a la persona son casi siempre de política interna, y precisamente por eso están cerradas. Una pregunta apta está en la intersección de dos condiciones: **atañe a la vida de la persona y a la vez no tiene dirección nacional.** Esa intersección no está vacía: la tributación del beneficio transnacional, las reglas para los sistemas con los que las personas hablan cada día, la suerte de los datos sobre la persona, el precio de los medicamentos, la resistencia a las pandemias, quién paga el daño causado al planeta. Cada una de ellas tiene un punto de aterrizaje en la vida de cualquier persona, y no hay ni un solo parlamento que la resuelva por entero.
+El segundo límite es el artículo 5. Las cuestiones más cercanas a la persona son casi siempre de política interna, y precisamente por eso están cerradas. Una pregunta apta está en la intersección de dos condiciones: **atañe a la vida de la persona y a la vez no tiene dirección nacional.** Esa intersección no está vacía: la tributación del beneficio transnacional, las reglas para los sistemas con los que las personas hablan cada día, la suerte de los datos sobre la persona, el precio de los medicamentos, la resistencia a las pandemias, quién paga el daño causado al planeta. Cada una de ellas tiene un punto de aterrizaje en la vida de cualquier persona, y no hay ni un solo parlamento que la resuelva por entero.
 
 ### Dos vías de preguntas, y las dos hacen falta
 
@@ -352,7 +352,7 @@ Hay también una segunda razón, más sencilla, por la que las personas responde
 
 Por eso las preguntas del pueblo van por dos vías, y no se puede sustituir una por la otra.
 
-**Las preguntas de la vida interna del pueblo**: en qué se gasta la caja común, cuál es la cuantía de la cuota, qué proyectos apoyar, cómo cambian las reglas, qué hacer con los encargos. Aquí la consecuencia llega siempre y enseguida: el dinero se gasta de verdad, las reglas cambian de verdad. Son esas votaciones las que crean la costumbre de responder, y la costumbre es lo único que sostiene la participación a la larga. Su objeto no lo limita el artículo 7, sino el artículo 11 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html): son cuestiones de la vida del pueblo, no de la posición del pueblo hacia fuera.
+**Las preguntas de la vida interna del pueblo**: en qué se gasta la caja común, cuál es la cuantía de la cuota, qué proyectos apoyar, cómo cambian las reglas, qué hacer con los encargos. Aquí la consecuencia llega siempre y enseguida: el dinero se gasta de verdad, las reglas cambian de verdad. Son esas votaciones las que crean la costumbre de responder, y la costumbre es lo único que sostiene la participación a la larga. Su objeto no lo limita el artículo 6, sino el artículo 9 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html): son cuestiones de la vida del pueblo, no de la posición del pueblo hacia fuera.
 
 **Las preguntas planetarias** son aquellas de las que se ha hablado arriba. Su consecuencia no está garantizada: podemos medir y publicar, pero no podemos prometer que alguien responda. En eso está su debilidad, y en los primeros escalones de la escalera no hay modo de suprimirla.
 
@@ -419,11 +419,11 @@ Preferimos describir esto de antemano, mientras no se ha hecho ninguna medición
 
 Un instrumento con el que se puede medir todo será usado contra alguien. Por eso las limitaciones están escritas en la Declaración y no en un reglamento, y no se levantan por decisión de la mayoría.
 
-**La política interna de un Estado concreto.** Sobre esas cuestiones no se adopta en absoluto una posición colectiva en nombre de todo el pueblo: artículo 9 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html). El pueblo Earthlings no participa en la lucha por el poder del Estado, no apoya a partidos ni a candidatos, no financia campañas electorales y no llama a votar de una manera determinada.
+**La política interna de un Estado concreto.** Sobre esas cuestiones no se adopta en absoluto una posición colectiva en nombre de todo el pueblo: artículo 5 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html). El pueblo Earthlings no participa en la lucha por el poder del Estado, no apoya a partidos ni a candidatos, no financia campañas electorales y no llama a votar de una manera determinada.
 
 **Una persona concreta.** No se adopta una posición colectiva respecto de una persona determinada. El pueblo se pronuncia sobre fenómenos, decisiones y órdenes de cosas, pero no sobre personas. Un instrumento apuntado a una persona es un linchamiento con procedimiento, y no lo vamos a construir.
 
-**Los principios del núcleo intangible.** No son objeto de votación, y no se trata de un umbral reforzado, sino de una cuestión que no se plantea en absoluto. La lista de esos principios es cerrada y la establece el artículo 13 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html); aquí no la reproducimos para que siga teniendo una sola fuente. Al núcleo se le puede añadir; debilitarlo, no.
+**Los principios del núcleo intangible.** No son objeto de votación, y no se trata de un umbral reforzado, sino de una cuestión que no se plantea en absoluto. La lista de esos principios la establece el artículo 11 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html); aquí no la reproducimos para que siga teniendo una sola fuente. Al núcleo se le puede añadir; debilitarlo, no.
 
 Estas tres limitaciones hacen el instrumento menos potente. Es un intercambio consciente: una herramienta con la que no se puede golpear es mucho más difícil de arrebatar.
 
@@ -565,7 +565,7 @@ Un artefacto así, que sepamos, no existe ni en los Estados, ni en las organizac
 
 En la parte I se dijo que la parte perjudicada - quienes todavía no votan y quienes todavía no han nacido - no tiene representación. Por lo común la conversación termina ahí: nombrar el daño es fácil, y no hay con qué repararlo.
 
-Aquí sí lo hay, y no por nuestra buena intención, sino por la construcción del texto. El artículo 9 de la Declaración dice: **«Ninguna decisión del pueblo Earthlings traslada sus consecuencias a quienes no tuvieron posibilidad de participar en su adopción, incluidas las generaciones futuras».** El artículo 9 forma parte del núcleo intangible (artículo 13), y los principios del núcleo no se someten a votación en absoluto: no son cuestiones sujetas a un umbral reforzado, son cuestiones que no se plantean. Una decisión contraria al núcleo es nula de pleno derecho desde su adopción y no la convalidan ni el tiempo ni la ejecución.
+Aquí sí lo hay, y no por nuestra buena intención, sino por la construcción del texto. El artículo 5 de la Declaración dice: **«Ninguna decisión del pueblo Earthlings debe trasladar consecuencias negativas a las generaciones futuras».** El artículo 5 forma parte del núcleo intangible (artículo 11), y los principios del núcleo no se someten a votación en absoluto: no son cuestiones sujetas a un umbral reforzado, son cuestiones que no se plantean. Una decisión contraria al núcleo es nula de pleno derecho desde su adopción y no la convalidan ni el tiempo ni la ejecución.
 
 De esta norma puede crecer un procedimiento permanente: la evaluación de cada decisión de peso por su efecto sobre quienes vengan después, con un dictamen publicado y el derecho de cualquier participante a exigirla. Tal procedimiento no existe hoy en ningún Estado ni en ninguna organización internacional. Tampoco lo tenemos aún nosotros: tenemos la norma de la que se sigue, y son cosas distintas (sección 21).
 
@@ -788,7 +788,7 @@ Digamos también lo contrario, porque es del mismo orden: **si las preguntas dej
 
 **Qué se sigue de esto para nosotros mismos.** **La participación es el principal indicador vital del proyecto, más importante que el número de participantes.** Un pueblo de diez millones con una participación del cuarenta por ciento pesa incomparablemente más que un pueblo de cien millones con una participación del cuatro por ciento. Lo decimos de antemano para que después no se pueda sustituir un indicador por otro.
 
-**Qué no garantizamos.** Que siempre se encuentre una pregunta apta. Los rasgos del artículo 7 son estrechos a propósito, y preguntas que sean a la vez planetarias y cercanas a la persona hay menos de las que quisiéramos. No vamos a ampliar los rasgos en aras de la participación: un pueblo que se puso a preguntar de todo para que lo escucharan mejor dejó de ser aquello para lo que se creó.
+**Qué no garantizamos.** Que siempre se encuentre una pregunta apta. El límite es estrecho a propósito, y preguntas que sean a la vez planetarias y cercanas a la persona hay menos de las que quisiéramos. No vamos a ampliarlo en aras de la participación: un pueblo que se puso a preguntar de todo para que lo escucharan mejor dejó de ser aquello para lo que se creó.
 
 ### 4. La superficialidad
 
@@ -892,7 +892,7 @@ Para que lo aquí descrito se pueda verificar y no haya que aceptarlo por fe, no
 
 **Aquí no hay probabilidades.** No sabemos cuál de los escalones se alcanzará ni si se alcanzará alguno.
 
-**Aquí no hay promesa de resultado.** Aquello a lo que el pueblo está vinculado y aquello a lo que no lo está lo establece el artículo 7 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), y aquí no lo reproducimos, para que la norma conserve una sola fuente. En breve: el reconocimiento no está en su poder, y la existencia del pueblo no depende del reconocimiento.
+**Aquí no hay promesa de resultado.** Aquello a lo que el pueblo está vinculado y aquello a lo que no lo está lo establece el artículo 6 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), y aquí no lo reproducimos, para que la norma conserve una sola fuente. En breve: el reconocimiento no está en su poder, y la existencia del pueblo no depende del reconocimiento.
 
 **Y aquí no hay ni una sola afirmación de la que dependa algo hoy.** La infraestructura está construida, el período constituyente está en marcha, la Declaración se somete a votación. Si no se sube ninguno de los escalones aquí descritos, eso no anulará nada de lo ya hecho ni dejará sin sentido nada de aquello por lo que las personas se eligieron unas a otras.
 
@@ -929,7 +929,7 @@ Es una fuente doctrinal, no una norma. La traemos porque el mecanismo que descri
 
 Los documentos del corpus a los que remite el presente:
 
-- [Declaración Earthlings](https://earth-lings.org/documents/es/es01-declaracion.html) - artículos 7, 8, 9, 10, 12 y 13
+- [Declaración Earthlings](https://earth-lings.org/documents/es/es01-declaracion.html) - artículos 3, 5, 6, 8, 9, 10 y 11
 - [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html)
 - [DAO Earthlings](https://earth-lings.org/documents/es/es07-dao.html)
 - [Plataforma digital](https://earth-lings.org/documents/es/es12-plataforma-digital.html)

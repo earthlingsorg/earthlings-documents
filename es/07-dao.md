@@ -28,7 +28,7 @@ Con todo, la transparencia alcanza a los actos de las instituciones, no a los da
 
 Cada earthling dispone de un voto igual conforme al principio «una persona, un voto». La reputación, la aportación y la experiencia pueden tenerse en cuenta en el debate, pero no se convierten en peso adicional del voto, no abren el acceso a ningún papel y no crean clases privilegiadas de participantes.
 
-**El voto es inalienable.** El derecho de voto no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad (Declaración, artículo 10; Carta, artículos 17 y 37). Las limitaciones previstas en el artículo 22 de la Carta afectan a la participación en las células, al derecho de presentar propuestas y al acceso a determinados servicios, pero no al voto.
+**El voto es inalienable.** El derecho de voto no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad (Declaración, artículo 4; Carta, artículos 17 y 37). Las limitaciones previstas en el artículo 22 de la Carta afectan a la participación en las células, al derecho de presentar propuestas y al acceso a determinados servicios, pero no al voto.
 
 La única excepción son los actos probados dirigidos a socavar la integridad de la votación misma: concierto, compra o venta de un voto, coacción a otros, elusión de la regla «una persona, un pasaporte» (Carta, artículo 22 bis). Las opiniones, el sentido del voto y el desacuerdo con las decisiones no son fundamento, sea cual sea su presentación.
 
@@ -112,7 +112,7 @@ La participación, la aportación y la competencia quedan fijadas en marcas inal
 
 ## Etapas
 
-**1. Iniciativa.** Cualquier earthling presenta una propuesta. No se requieren aprobación previa, recogida de firmas ni umbral de apoyo para presentarla: el derecho de iniciativa corresponde a cada cual (Declaración, artículo 10). La propuesta va acompañada de una descripción del fin, del contexto, de las alternativas, de los riesgos y del efecto previsto.
+**1. Iniciativa.** Cualquier earthling presenta una propuesta. No se requieren aprobación previa, recogida de firmas ni umbral de apoyo para presentarla: el derecho de iniciativa corresponde a cada cual (Declaración, artículo 4). La propuesta va acompañada de una descripción del fin, del contexto, de las alternativas, de los riesgos y del efecto previsto.
 
 **2. Debate.** Período de debate público durante el cual los participantes formulan preguntas, proponen enmiendas y critican las premisas. Los plazos están establecidos en la Carta.
 
@@ -136,7 +136,7 @@ El voto secreto se aplica obligatoriamente al examinar una limitación de facult
 
 ## La medición de la voluntad común no es una decisión
 
-La presente sección describe cómo el pueblo adopta decisiones sobre su propia vida. La expresión de la posición del pueblo sobre las cuestiones que responden a los rasgos del artículo 7 de la Declaración no es una decisión: con ella el pueblo no adopta decisiones, sino que se pronuncia. El procedimiento de medición, los requisitos de formación de la pregunta, el contenido de lo que se publica y el procedimiento en caso de medición defectuosa están establecidos en la [Carta, artículo 8 bis](https://earth-lings.org/documents/es/es05-carta.html); en lo demás el procedimiento lo establece una decisión de la Asamblea.
+La presente sección describe cómo el pueblo adopta decisiones sobre su propia vida. La expresión de la posición del pueblo sobre las cuestiones que afectan a todos (artículo 3 de la Declaración) no es una decisión: con ella el pueblo no adopta decisiones, sino que se pronuncia. El procedimiento de medición, los requisitos de formación de la pregunta, el contenido de lo que se publica y el procedimiento en caso de medición defectuosa están establecidos en la [Carta, artículo 8 bis](https://earth-lings.org/documents/es/es05-carta.html); en lo demás el procedimiento lo establece una decisión de la Asamblea.
 
 ## Lista de propuestas
 

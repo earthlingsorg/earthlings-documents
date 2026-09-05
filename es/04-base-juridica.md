@@ -233,7 +233,7 @@ La salvedad a la última fila la hacemos nosotros mismos: los fundamentos juríd
 
 La afirmación exacta suena así: los documentos de pertenencia a un pueblo existen, pero todos ellos acreditan una pertenencia derivada de la descendencia y reconocida por el Estado. Por primera vez la pertenencia se acredita con un documento expedido por el propio pueblo, no ligado ni al territorio ni a la descendencia, que nace por decisión de la propia persona y que puede verificar cualquiera.
 
-La afirmación «expedido por el pueblo» no se sostiene en palabras: el artículo 9 de la Declaración establece que el registro de participantes y la verificación de su identidad «no son patrimonio de la persona jurídica, no pueden ser transmitidos, vendidos, pignorados ni enajenados de ningún otro modo, y en ninguna circunstancia siguen a la persona jurídica», y que las personas jurídicas «no encarnan al pueblo». Sin esa norma la afirmación se reduciría a que el documento lo expidió una sociedad mercantil.
+La afirmación «expedido por el pueblo» no se sostiene en palabras: el artículo 9 de la Declaración establece que el registro de participantes y la verificación de su identidad «no son patrimonio de la persona jurídica, no pueden ser transmitidos, vendidos, pignorados ni enajenados de ningún otro modo», y que las personas jurídicas «no encarnan al pueblo». Sin esa norma la afirmación se reduciría a que el documento lo expidió una sociedad mercantil.
 
 El pasaporte earthling, con todo, no sustituye a los documentos estatales, no da nacionalidad, ni visados, ni derecho de entrada, ni protección consular. Acredita la pertenencia a un pueblo, que es lo que los documentos estatales no acreditan en absoluto.
 
@@ -265,7 +265,7 @@ La infraestructura del pueblo Earthlings está construida de modo que el asiento
 
 ## Niveles, no instancias
 
-El artículo 7 de la Declaración define el objeto de la actividad del pueblo por dos rasgos: que ningún Estado resuelve la cuestión por sí solo y que las consecuencias recaen sobre quienes no tuvieron voz. Es el principio de los afectados, expresado mediante rasgos y no mediante una lista de temas.
+El artículo 3 de la Declaración traza el objeto de la actividad del pueblo con el principio de los afectados: lo que afecta a todos se decide con la participación de todos. Es un principio y no una lista de temas: una lista envejece, un principio no.
 
 Los niveles no forman con ello una jerarquía: el pueblo Earthlings no revisa las decisiones de los Estados y no puede derogarlas. Son niveles distintos por el círculo de cuestiones, y no escalones por su fuerza.
 
@@ -471,13 +471,13 @@ La libre determinación del pueblo Earthlings se ejerce con medios que el poder 
 
 **La pertenencia en lugar de la jurisdicción**: el pueblo vincula solo a quienes han entrado en él, y solo en las cuestiones de su propia vida interna. Ni territorio ni jurisdicción sobre el espacio físico, los recursos o la población de los Estados: no los tiene ni los pretende.
 
-**La palabra en lugar de la fuerza**: el único medio del pueblo es la declaración, el llamamiento y el argumento; la ejecución de sus decisiones se apoya en la voluntariedad del participante. Las formaciones armadas, las estructuras de seguridad y la ejecución forzosa de las decisiones quedan excluidas por el artículo 9 de la Declaración, que forma parte del núcleo intangible.
+**La palabra en lugar de la fuerza**: el único medio del pueblo es la declaración, el llamamiento y el argumento; la ejecución de sus decisiones se apoya en la voluntariedad del participante. Las formaciones armadas, las estructuras de seguridad y la ejecución forzosa de las decisiones quedan excluidas por el artículo 5 de la Declaración, que forma parte del núcleo intangible.
 
 **La posición en lugar del poder**: el pueblo produce una posición colectiva verificable y la presenta. La tributación, la jurisdicción penal y la regulación de la economía interna quedan enteramente en manos de los Estados; el pueblo no formula pretensión alguna sobre ellas.
 
 **La adición en lugar de la sustitución**: la pertenencia al pueblo se añade a lo que la persona ya tiene y no afecta a su nacionalidad, a sus obligaciones tributarias ni a su fuero. En caso de conflicto de derecho aplicable tienen prioridad las normas imperativas de la jurisdicción nacional correspondiente.
 
-El objeto de la colisión no llega a surgir, y no porque el pueblo haya renunciado a algo bajo presión, sino porque la pretensión y la garantía son aquí de naturaleza distinta. La renuncia a la violencia del artículo 9 de la Declaración es una obligación del pueblo consigo mismo y con la persona, no una concesión a los Estados: regiría igualmente en ausencia de toda controversia sobre la integridad territorial.
+El objeto de la colisión no llega a surgir, y no porque el pueblo haya renunciado a algo bajo presión, sino porque la pretensión y la garantía son aquí de naturaleza distinta. La renuncia a la violencia del artículo 5 de la Declaración es una obligación del pueblo consigo mismo y con la persona, no una concesión a los Estados: regiría igualmente en ausencia de toda controversia sobre la integridad territorial.
 
 ---
 

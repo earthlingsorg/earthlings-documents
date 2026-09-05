@@ -99,7 +99,7 @@ Cinco disposiciones no se discuten en ninguna circunstancia. Un pueblo al que se
 - **La salida es libre.** En cualquier momento, sin explicar los motivos. La expulsión del pueblo no existe.
 - **El pueblo habla, pero no coacciona.** La violencia queda excluida sin excepción.
 
-Las cinco están recogidas en los artículos 8, 9 y 10 de la Declaración, enumeradas en su artículo 13 y forman el núcleo intangible. Las propuestas dirigidas a derogar o restringir esos principios no se examinan. Las propuestas de precisar sus redacciones y de completar el núcleo se examinan en igualdad con todas.
+Las cinco están recogidas en los artículos 3, 4 y 5 de la Declaración, enumeradas en su artículo 11 y forman el núcleo intangible. Las propuestas dirigidas a derogar o restringir esos principios no se examinan. Las propuestas de precisar sus redacciones y de completar el núcleo se examinan en igualdad con todas.
 
 Intangibles son los principios mismos, y no las letras con que están escritos. Una redacción puede precisarse si la precisión no restringe el principio y no rebaja ninguna garantía de la persona; en caso de duda se considera que la rebaja y no se acepta. El resto del texto de la Declaración el pueblo puede modificarlo, completarlo y reducirlo, por dos tercios de los votos y solo de modo que ninguna garantía quede debilitada.
 
@@ -185,7 +185,7 @@ Una propuesta **de traducción** señala que la traducción transmite el sentido
 
 A qué clase pertenece una propuesta se determina por su contenido, y no por cómo se la denomine. Si una propuesta de traducción revela una falta de claridad del propio texto maestro, se examina también como propuesta de fondo.
 
-**Qué texto es el objeto de la votación.** La votación del 17 de febrero de 2027 se celebra sobre los textos ruso e inglés: están reconocidos como auténticos (Declaración, artículo 13). Los textos en las otras siete lenguas son traducciones oficiales. Se puede leer y votar apoyándose en cualquiera de ellos, pero en caso de discrepancia se aplica la interpretación que dé a la persona mayor protección y, si esta no resuelve la discrepancia, el sentido del texto ruso.
+**Qué texto es el objeto de la votación.** La votación del 17 de febrero de 2027 se celebra sobre los textos ruso e inglés: están reconocidos como auténticos (Declaración, artículo 11). Los textos en las otras siete lenguas son traducciones oficiales. Se puede leer y votar apoyándose en cualquiera de ellos, pero en caso de discrepancia se aplica la interpretación que dé a la persona mayor protección y, si esta no resuelve la discrepancia, el sentido del texto ruso.
 
 **Preparación de las traducciones.** El corpus en las nueve lenguas se adecua a los textos maestros rusos antes de que se abra la recepción de propuestas el 22 de octubre de 2026. Las versiones definitivas que se someten a votación se publican en ruso y en inglés el 3 de febrero de 2027, y las traducciones a las otras siete lenguas, en el mismo plazo. Si para ese día alguna traducción no está lista, se dirá de manera expresa, indicando la lengua y el motivo; no vamos a presentar como lista una traducción que no lo esté.
 
@@ -209,7 +209,7 @@ El compendio de todas las propuestas recibidas y de sus respuestas se publica el
 
 ## 4. Qué no se examina
 
-Las propuestas dirigidas a derogar o restringir los principios establecidos en los artículos 8, 9 y 10 de la Declaración y enumerados en su artículo 13 no se examinan. Las propuestas de precisar las redacciones de esos artículos se examinan en igualdad con las demás.
+Las propuestas dirigidas a derogar o restringir los principios establecidos en los artículos 3, 4 y 5 de la Declaración y enumerados en su artículo 11 no se examinan. Las propuestas de precisar las redacciones de esos artículos se examinan en igualdad con las demás.
 
 Las propuestas de completar el núcleo intangible se examinan en igualdad con las demás y se incluyen únicamente si reúnen las cuatro condiciones del test expuesto más arriba.
 
@@ -225,7 +225,7 @@ La verificación de identidad se realiza de manera gratuita y continúa durante 
 
 El texto se adopta por votación el 17 de febrero de 2027. Votan las personas que han verificado su identidad, conforme al principio «una persona, un voto».
 
-La votación se celebra sobre dos textos a la vez, el ruso y el inglés. Ambos se adoptan como auténticos (Declaración, artículo 13), por lo que el texto inglés debe estar listo y publicado no más tarde del día de publicación del compendio, el 3 de febrero de 2027: solo se puede votar aquello que se puede leer de antemano.
+La votación se celebra sobre dos textos a la vez, el ruso y el inglés. Ambos se adoptan como auténticos (Declaración, artículo 11), por lo que el texto inglés debe estar listo y publicado no más tarde del día de publicación del compendio, el 3 de febrero de 2027: solo se puede votar aquello que se puede leer de antemano.
 
 El texto se considera adoptado si se cumplen a la vez tres condiciones:
 
@@ -247,4 +247,4 @@ Las demás exigencias no se rebajan en ninguna circunstancia.
 
 Las presentes reglas rigen desde el día en que se abre la recepción de propuestas y pierden vigencia en el momento de la adopción del texto.
 
-El día de la adopción, el artículo 14 de la Declaración se completa con los datos efectivos de la votación y permanece en el texto para siempre. La sección «Estado de la presente versión» no se reproduce en la versión adoptada.
+El día de la adopción, el artículo 12 de la Declaración se completa con los datos efectivos de la votación y permanece en el texto para siempre. La sección «Estado de la presente versión» no se reproduce en la versión adoptada.

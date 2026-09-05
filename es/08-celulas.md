@@ -57,7 +57,7 @@ Si un proyecto necesita más personas, se crean varias células y no una estruct
 
 **2. Análisis inicial.** Herramientas auxiliares de IA comprueban la conformidad con la Declaración y con la ética, la ausencia de conflictos manifiestos y la viabilidad aproximada, y si es necesario proponen mejoras de redacción.
 
-> **Tres reglas que rigen con independencia del modelo que se emplee** (Declaración, artículo 10):
+> **Tres reglas que rigen con independencia del modelo que se emplee** (Declaración, artículo 3):
 > - **la IA no decide nada**: cualquier conclusión suya es de recomendación y no constituye denegación;
 > - **los fundamentos se revelan**: quien presenta la iniciativa recibe una exposición de los motivos en forma comprensible, y no una marca sin explicación;
 > - **la revisión humana está garantizada**: quien presenta la iniciativa puede exigir el examen por una persona, y este se realiza en el plazo establecido.

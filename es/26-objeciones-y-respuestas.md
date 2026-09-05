@@ -86,7 +86,7 @@ Ahora, en qué está organizado de otro modo; y hablamos de la organización, no
 
 **Se verifica que el participante es una persona viva y que es una sola.** El registro múltiple está técnicamente excluido, y esa es una condición de entrada y no un deseo.
 
-**El fundamento está sacado fuera de la votación.** La pertenencia, la igualdad del voto, el derecho a salir y los valores con sus garantías no se someten a votación en absoluto: no son cuestiones de umbral reforzado, sino cuestiones que no figuran en la papeleta (Declaración, artículos 8, 9 y 10).
+**El fundamento está sacado fuera de la votación.** La pertenencia, la igualdad del voto, el derecho a salir y los valores con sus garantías no se someten a votación en absoluto: no son cuestiones de umbral reforzado, sino cuestiones que no figuran en la papeleta (Declaración, artículos 3, 4 y 5).
 
 **Las organizaciones no participan.** Al pueblo pertenecen únicamente personas vivas; una persona jurídica no puede adherirse, ni obtener voto, ni acumular influencia.
 

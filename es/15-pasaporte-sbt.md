@@ -28,7 +28,7 @@ A diferencia de los pasaportes estatales, ligados a un territorio y acreditativo
 - presentación de propuestas e iniciativas;
 - participación en las decisiones sobre cualquier cuestión.
 
-> **El voto es inalienable** y no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad (Declaración, artículo 10; [Carta, artículos 17 y 37](https://earth-lings.org/documents/es/es05-carta.html)). El voto es el contenido de la pertenencia: al retirarlo por tales fundamentos, el pueblo estaría expulsando a la persona dejándole solo el nombre.
+> **El voto es inalienable** y no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad (Declaración, artículo 4; [Carta, artículos 17 y 37](https://earth-lings.org/documents/es/es05-carta.html)). El voto es el contenido de la pertenencia: al retirarlo por tales fundamentos, el pueblo estaría expulsando a la persona dejándole solo el nombre.
 
 La única excepción son los actos probados dirigidos a socavar la integridad de la votación misma: concierto, compra o venta de un voto, coacción a otros, elusión de la regla «una persona, un pasaporte» (Carta, artículo 22 bis). Las opiniones, el sentido del voto y el desacuerdo con las decisiones no son fundamento, sea cual sea su presentación.
 

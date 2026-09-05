@@ -193,14 +193,14 @@ La protección última del tránsito es la misma que la de un pueblo maduro: la 
 
 Por exactitud: no todo el sistema es reproducible. Los pasaportes y sus asientos están en una red pública, el código del contrato del pasaporte es abierto, y las reglas, umbrales y procedimientos están descritos en los presentes documentos; con eso basta para construir una plataforma nueva contra ese mismo registro. El código de la propia plataforma y del sistema de verificación de identidad es cerrado porque trabajan con datos personales (Carta, artículo 30). La continuación del pueblo se apoya en el registro y en una especificación abierta, y no en la posibilidad de copiar nuestros servidores.
 
-Eso convierte la transparencia, de una petición de confianza, en una palanca: retrasar la descentralización se hace visible y reversible por la propia comunidad. El mismo mecanismo está descrito en el artículo 13 de la Declaración como última instancia de protección del núcleo intangible.
+Eso convierte la transparencia, de una petición de confianza, en una palanca: retrasar la descentralización se hace visible y reversible por la propia comunidad. El mismo mecanismo está descrito en el artículo 11 de la Declaración como última instancia de protección del núcleo intangible.
 
 ## Qué hace legítima una continuación
 
 El derecho a continuar el pueblo sobre una base no capturada no significa que cualquiera que haya construido una plataforma igual se convierta en Earthlings. Una copia del instrumento no traslada ni a las personas, ni su elección, ni la legitimidad acumulada: traslada únicamente el instrumento. Una continuación legítima se reconoce no por poseer la infraestructura, sino por rasgos verificables:
 
 - **núcleo conservado**: la continuación deja intactos los fundamentos intangibles de la Declaración; quien modifica el núcleo crea por definición otra cosa, y no continúa a los Earthlings;
-- **voluntad de las personas verificadas**: el pueblo va allí donde pasa libremente la mayoría de los participantes verificados, una persona, un voto; la legitimidad la llevan las personas, y no los servidores ni el repositorio;
+- **voluntad de las personas verificadas**: el pueblo va allí donde pasa libremente la mayoría de aquellos earthlings verificados que hayan podido expresar su voluntad, una persona, un voto; la legitimidad la llevan las personas, y no los servidores ni el repositorio;
 - **continuidad de los valores y del procedimiento**: el tránsito es abierto, verificable y sujeto a rendición de cuentas conforme a las mismas reglas que regían antes de él.
 
 Por eso ni una captura puede hacerse pasar por el pueblo, ni una escisión por la escisión misma puede apropiarse de su nombre: una continuación legítima tiene rasgos que no se pueden falsificar ni copiando el código ni volviendo a construir la plataforma. El derecho a marcharse protege al pueblo por los dos lados a la vez: de quien capture el centro y de quien quiera llamar suyo a aquello tras lo cual no fueron las personas.

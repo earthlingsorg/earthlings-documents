@@ -294,7 +294,7 @@ Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La 
 
 ## Artículo 8 bis. Medición de la voluntad común
 
-El pueblo Earthlings expresa la voluntad común sobre las cuestiones que responden a los rasgos del artículo 7 de la Declaración. Los límites de esa expresión están establecidos en los artículos 9 y 13 de la Declaración.
+El pueblo Earthlings expresa la voluntad común sobre las cuestiones que afectan a todos, artículo 3 de la Declaración. Los límites de esa expresión están establecidos en los artículos 5 y 11 de la Declaración.
 
 La formulación de la pregunta no la aprueban ni quienes llevan la gestión operativa del pueblo ni quienes realizan la medición. La pregunta se publica antes de que se abra la votación y puede ser impugnada; una vez abierta la votación, la pregunta no se edita.
 
@@ -513,7 +513,7 @@ El mecanismo de inactividad protege al sistema frente a una elevación artificia
 
 Por regla general el pasaporte SBT solo lo destruye su propio titular (artículo 18). El presente artículo establece **dos y solo dos** excepciones a esa regla.
 
-> **Por qué el fallecimiento no figura en esta lista.** La pertenencia cesa por el fallecimiento de la persona: así lo establece el artículo 8 de la Declaración, y se produce por sí mismo, sin decisión de nadie. La destrucción del pasaporte por ese fundamento no se realiza, y por las siguientes razones. El pueblo no tiene ni puede tener acceso a los registros de defunción de todo el mundo: tal fundamento se apoyaría en datos cuya veracidad no hay con qué comprobar y se convertiría en el modo más barato de retirar a un participante, sin notificación, sin plazo para objetar y sin recurso, pues todos ellos presuponen la presencia de la persona. Protección frente al voto con la clave ajena la destrucción tampoco da: no puede adelantarse al conocimiento del fallecimiento. El aspecto práctico lo cubre el artículo 20: quien no participa se considera inactivo, su voto no se computa al calcular el quórum y el pasaporte se conserva. El sistema no necesita saber por qué una persona ha dejado de participar.
+> **Por qué el fallecimiento no figura en esta lista.** La pertenencia cesa por el fallecimiento de la persona: así lo establece el artículo 4 de la Declaración, y se produce por sí mismo, sin decisión de nadie. La destrucción del pasaporte por ese fundamento no se realiza, y por las siguientes razones. El pueblo no tiene ni puede tener acceso a los registros de defunción de todo el mundo: tal fundamento se apoyaría en datos cuya veracidad no hay con qué comprobar y se convertiría en el modo más barato de retirar a un participante, sin notificación, sin plazo para objetar y sin recurso, pues todos ellos presuponen la presencia de la persona. Protección frente al voto con la clave ajena la destrucción tampoco da: no puede adelantarse al conocimiento del fallecimiento. El aspecto práctico lo cubre el artículo 20: quien no participa se considera inactivo, su voto no se computa al calcular el quórum y el pasaporte se conserva. El sistema no necesita saber por qué una persona ha dejado de participar.
 
 ### 1. Anulación de una emisión inválida
 
@@ -790,7 +790,7 @@ El pueblo Earthlings no se inmiscuye en los asuntos internos de los Estados y no
 
 ## Artículo 35. Personalidad jurídica
 
-El pueblo Earthlings busca la discernibilidad jurídica: que se le trate como pueblo allí donde surge una cuestión concreta. No existe para nadie un órgano que reconozca pueblos, de modo que la discernibilidad se acumula con la práctica, el tiempo y el número de participantes, y no se otorga por una decisión. Como señala el artículo 7 de la Declaración, el derecho no se ha planteado todavía la cuestión de la adquisición de personalidad jurídica internacional por una comunidad que nunca ha tenido territorio.
+El pueblo Earthlings busca la discernibilidad jurídica: que se le trate como pueblo allí donde surge una cuestión concreta. No existe para nadie un órgano que reconozca pueblos, de modo que la discernibilidad se acumula con la práctica, el tiempo y el número de participantes, y no se otorga por una decisión. El derecho no se ha planteado todavía la cuestión de la adquisición de personalidad jurídica internacional por una comunidad que nunca ha tenido territorio.
 
 Mientras la discernibilidad jurídica no esté acumulada, para la relación externa el pueblo funciona a través de estructuras jurídicamente inscritas - interfaces jurídicas sustituibles - en las jurisdicciones correspondientes. La estrategia jurídica está descrita en el documento [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html).
 
@@ -840,7 +840,7 @@ La presente Carta entra en vigor tras su publicación en el sitio del pueblo Ear
 
 Una contradicción detectada entre la Carta y la Declaración se elimina adecuando la Carta a la Declaración, y no al revés.
 
-**Reparto de materias.** La Declaración establece los principios, las garantías a la persona y los límites del pueblo. Los principios de su núcleo intangible no se derogan nunca; las redacciones de esos principios y sus demás disposiciones las modifica únicamente la Asamblea, conforme al artículo 13 de la Declaración y solo de modo que ninguna garantía de la persona quede debilitada. La Carta establece los mecanismos, los umbrales, los plazos y los procedimientos; se modifica conforme al artículo 36. Los valores numéricos, los medios técnicos y los detalles organizativos no se trasladan a la Declaración.
+**Reparto de materias.** La Declaración establece los principios, las garantías a la persona y los límites del pueblo. Los principios de su núcleo intangible no se derogan nunca; las redacciones de esos principios y sus demás disposiciones las modifica únicamente la Asamblea, conforme al artículo 11 de la Declaración y solo de modo que ninguna garantía de la persona quede debilitada. La Carta establece los mecanismos, los umbrales, los plazos y los procedimientos; se modifica conforme al artículo 36. Los valores numéricos, los medios técnicos y los detalles organizativos no se trasladan a la Declaración.
 
 ## Artículo 39. Etapa de formación de las estructuras
 
