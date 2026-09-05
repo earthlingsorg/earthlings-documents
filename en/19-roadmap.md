@@ -200,7 +200,7 @@ This turns transparency from a request for trust into a lever: a delay in decent
 The right to continue the people on an uncaptured basis does not mean that anyone who has built the same platform becomes Earthlings. A copy of the instrument carries over neither people, nor their choice, nor accumulated legitimacy - it carries over only the instrument. A lawful continuation is recognized not by possession of the infrastructure but by verifiable signs:
 
 - **a preserved core** - a continuation leaves the unamendable foundations of the Declaration untouched; whoever changes the core by definition creates something else rather than continuing Earthlings;
-- **the will of confirmed people** - the people goes where the majority of confirmed participants freely move, "one person, one vote"; legitimacy is carried by people, not by servers and not by a repository;
+- **the will of confirmed people** - the people goes where the majority of those confirmed earthlings who were able to express their will freely move, "one person, one vote"; legitimacy is carried by people, not by servers and not by a repository;
 - **continuity of values and of procedure** - the transition is open, verifiable, and accountable by the same rules that applied before it.
 
 Neither can a capture therefore pass itself off as the people, nor can a split for the sake of splitting appropriate its name: a lawful continuation has signs that cannot be faked either by copying the code or by rebuilding the platform. The right to leave protects the people from two sides at once - from whoever captures the centre, and from whoever would give the name of the people to a copy that people did not follow.
