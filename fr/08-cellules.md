@@ -57,7 +57,7 @@ Si un projet exige davantage de personnes, on crée plusieurs cellules plutôt q
 
 **2. Analyse initiale.** Des outils d'IA auxiliaires vérifient la conformité à la Déclaration et à l'éthique, l'absence de conflits manifestes, la faisabilité approximative et proposent au besoin des améliorations de rédaction.
 
-> **Trois règles valables quel que soit le modèle utilisé** (Déclaration, article 10):
+> **Trois règles valables quel que soit le modèle utilisé** (Déclaration, article 3):
 > - **l'IA ne décide de rien** - toute conclusion qu'elle formule est consultative et ne constitue pas un refus;
 > - **les motifs sont divulgués** - l'auteur de l'initiative reçoit un exposé des raisons sous une forme compréhensible, et non une marque sans explication;
 > - **un réexamen humain est garanti** - l'auteur a le droit d'exiger un examen par un être humain, et il a lieu dans le délai fixé.

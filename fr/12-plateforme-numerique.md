@@ -53,7 +53,7 @@ Il n'existe aucune autre personne ni structure dotée de pouvoirs techniques sur
 
 Au stade initial, la plateforme utilise des modèles d'intelligence artificielle existants pour analyser les initiatives, soutenir les projets et automatiser les tâches répétitives. À terme, le développement d'un modèle propre, adapté aux tâches du peuple, est envisagé.
 
-Les limites d'emploi de l'IA sont établies par l'article 10 de la Déclaration: aucune architecture numérique ne peut justifier une manipulation dissimulée ni l'étouffement de l'autonomie humaine. D'où trois règles strictes, valables quel que soit le modèle utilisé:
+Les limites d'emploi de l'IA sont établies par l'article 3 de la Déclaration: aucune architecture numérique ne peut justifier une manipulation dissimulée ni l'étouffement de l'autonomie humaine. D'où trois règles strictes, valables quel que soit le modèle utilisé:
 
 - **L'IA ne décide de rien.** Toute conclusion qu'elle formule a un caractère consultatif et ne constitue pas un motif de refus.
 - **Les motifs sont divulgués.** La personne dont l'IA a marqué l'initiative reçoit un exposé des raisons sous une forme compréhensible, et non un refus sans explication.
@@ -144,7 +144,7 @@ La plateforme assure le cycle complet: de la naissance d'une idée à l'achèvem
 
 Chaque participant qui détient un passeport et a signé la Déclaration dispose d'une voix. La voix ne se renforce ni par le nombre d'unités de compte, ni par la position dans les cellules, ni par la réputation. Le poids économique et le droit de vote sont séparés par l'architecture, non par une déclaration d'intention.
 
-**Le droit de vote ne peut être restreint en raison des opinions, du contenu du vote ou à titre de sanction générale** (Déclaration, article 10; Charte, articles 17 et 37). Les restrictions prévues à l'article 22 de la Charte touchent la participation aux cellules, le droit de faire des propositions et l'accès à certains services, mais non la voix ni l'accès aux votes eux-mêmes.
+**Le droit de vote ne peut être restreint en raison des opinions, du contenu du vote ou à titre de sanction générale** (Déclaration, article 4; Charte, articles 17 et 37). Les restrictions prévues à l'article 22 de la Charte touchent la participation aux cellules, le droit de faire des propositions et l'accès à certains services, mais non la voix ni l'accès aux votes eux-mêmes.
 
 Le seul cas dans lequel la plateforme exécute une suspension de la voix est une décision de l'Assemblée prise en application de l'article 22 bis de la Charte pour une atteinte établie à l'intégrité du vote, pour une durée maximale de 6 mois. La plateforme exécute une telle décision et ne peut ni la déclencher, ni l'appliquer pour un autre motif, ni la prolonger.
 
@@ -279,7 +279,7 @@ Votes de fond réguliers, vote secret à décompte vérifiable, délégation par
 **Étape 4. Les relations extérieures - à venir.**
 Relations avec les organisations internationales, les universités, les centres de recherche. Mise à disposition de données agrégées pour l'analyse des processus mondiaux. Participation du peuple au débat sur des questions qui dépassent le cadre d'un seul pays.
 
-> **Sur la limite de la quatrième étape.** Il s'agit du droit d'être entendu, non d'un pouvoir dans la décision. La plateforme ne devient pas et ne peut pas devenir un lieu où se prennent des décisions obligatoires pour quiconque en dehors des Earthlings eux-mêmes. Les compétences des États ne sont pas touchées (Déclaration, article 7).
+> **Sur la limite de la quatrième étape.** Il s'agit du droit d'être entendu, non d'un pouvoir dans la décision. La plateforme ne devient pas et ne peut pas devenir un lieu où se prennent des décisions obligatoires pour quiconque en dehors des Earthlings eux-mêmes. Les compétences des États ne sont pas touchées (Déclaration, article 6).
 
 La distinction entre ce qui est bâti et ce qui reste à faire est présentée honnêtement: l'infrastructure existe et a été éprouvée en conditions réelles, mais sa valeur probante et pratique naît à mesure que la participation s'accumule, et non au moment du déploiement.
 

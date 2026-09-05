@@ -52,7 +52,7 @@ Si la médiation n'a pas abouti et que le différend touche les intérêts de la
 
 C'est une mesure de dernier recours. Elle convient lorsque le conflit porte sur l'interprétation des règles du peuple, lorsqu'une décision destinée à servir de modèle pour les cas futurs est nécessaire, ou lorsque l'une des parties agit systématiquement à l'encontre des principes adoptés par le peuple.
 
-L'examen se fait selon les procédures de la Charte. **L'Assemblée ne peut en aucune circonstance exclure une personne du peuple** (Déclaration, article 10); les mesures applicables et les modalités de leur application sont établies par l'article 22 de la Charte.
+L'examen se fait selon les procédures de la Charte. **L'Assemblée ne peut en aucune circonstance exclure une personne du peuple** (Déclaration, article 4); les mesures applicables et les modalités de leur application sont établies par l'article 22 de la Charte.
 
 ## Ce qui ne relève pas de la médiation
 
@@ -88,7 +88,7 @@ Renoncer au sarcasme et aux piques dans l'espace commun rend la conversation plu
 
 Les menaces, la diffamation et la contrainte sont incompatibles avec l'appartenance au peuple. Si un tel comportement constitue un motif prévu par l'article 22 de la Charte, les mesures qu'il établit et sa procédure s'appliquent.
 
-**La vivacité, l'ironie, le désaccord et la critique dérangeante n'entraînent jamais de conséquences** - ni directement ni sous couvert d'un autre motif (Déclaration, article 10).
+**La vivacité, l'ironie, le désaccord et la critique dérangeante n'entraînent jamais de conséquences** - ni directement ni sous couvert d'un autre motif (Déclaration, article 4).
 
 ---
 

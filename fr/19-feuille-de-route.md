@@ -193,14 +193,14 @@ La protection ultime de la transition est la même que celle d'un peuple mûr: l
 
 Pour être exact: le système n'est pas reproductible en entier. Les passeports et les inscriptions qui les concernent se trouvent dans un réseau public, le code du contrat du passeport est ouvert, et les règles, les seuils et les procédures sont décrits dans les présents documents - cela suffit pour bâtir une nouvelle plateforme sur le même registre. Le code de la plateforme elle-même et du système de vérification d'identité est fermé, parce qu'ils traitent des données personnelles (Charte, article 30). La continuation du peuple repose sur le registre et sur une spécification ouverte, non sur la possibilité de copier nos serveurs.
 
-Cela fait passer la transparence d'une demande de confiance à un levier: un retard de la décentralisation devient à la fois visible et réversible par la communauté. Le même mécanisme est décrit à l'article 13 de la Déclaration comme dernière instance de protection du noyau intangible.
+Cela fait passer la transparence d'une demande de confiance à un levier: un retard de la décentralisation devient à la fois visible et réversible par la communauté. Le même mécanisme est décrit à l'article 11 de la Déclaration comme dernière instance de protection du noyau intangible.
 
 ## Ce qui rend une continuation légitime
 
 Le droit de continuer le peuple sur une base non accaparée ne signifie pas que quiconque a bâti la même plateforme devient les Earthlings. La copie d'un outil ne transfère ni les gens, ni leur choix, ni la légitimité accumulée: elle ne transfère que l'outil. Une continuation légitime ne se reconnaît pas à la possession de l'infrastructure, mais à des critères vérifiables:
 
 - **le noyau conservé** - la continuation laisse intacts les fondements intangibles de la Déclaration; qui modifie le noyau crée par définition autre chose, il ne continue pas les Earthlings;
-- **la volonté de personnes vérifiées** - le peuple va là où passe librement la majorité des participants vérifiés, une personne - une voix; la légitimité est portée par les gens, non par les serveurs ni par un dépôt de code;
+- **la volonté de personnes vérifiées** - le peuple va là où passe librement la majorité de ceux des earthlings vérifiés qui ont pu exprimer leur volonté, une personne - une voix; la légitimité est portée par les gens, non par les serveurs ni par un dépôt de code;
 - **la continuité des valeurs et de la procédure** - le passage est ouvert, vérifiable et sujet à reddition de comptes selon les mêmes règles que celles qui valaient avant lui.
 
 Ainsi, ni une prise de contrôle ne peut se faire passer pour le peuple, ni une scission pour la scission ne peut s'approprier son nom: une continuation légitime a des critères que l'on ne peut falsifier ni en copiant du code ni en rebâtissant une plateforme. Le droit de partir protège le peuple des deux côtés à la fois: de celui qui s'emparerait du centre et de celui qui voudrait appeler sienne une copie que les gens n'ont pas suivie.

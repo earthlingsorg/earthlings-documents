@@ -86,7 +86,7 @@ Voici maintenant ce qui est agencé autrement, et nous parlons d'agencement, non
 
 **Il est vérifié que le participant est une personne vivante et qu'elle est unique.** L'inscription multiple est techniquement exclue, et c'est une condition d'entrée, non un souhait.
 
-**Le fondement est placé hors du vote.** L'appartenance, l'égalité de la voix, le droit de partir et les valeurs avec leurs garanties ne sont pas mis aux voix du tout: ce ne sont pas des questions à seuil renforcé, ce sont des questions qui ne figurent pas sur le bulletin (Déclaration, articles 8, 9 et 10).
+**Le fondement est placé hors du vote.** L'appartenance, l'égalité de la voix, le droit de partir et les valeurs avec leurs garanties ne sont pas mis aux voix du tout: ce ne sont pas des questions à seuil renforcé, ce sont des questions qui ne figurent pas sur le bulletin (Déclaration, articles 3, 4 et 5).
 
 **Les organisations ne participent pas.** Seules des personnes vivantes appartiennent au peuple; une personne morale ne peut ni adhérer, ni obtenir de voix, ni accumuler d'influence.
 

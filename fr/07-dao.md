@@ -28,7 +28,7 @@ La transparence porte toutefois sur les actes des institutions et non sur les do
 
 Chaque earthling dispose d'une voix égale, selon le principe « une personne - une voix ». La réputation, l'apport et l'expérience peuvent être pris en compte dans le débat, mais ne se convertissent pas en poids de vote supplémentaire, n'ouvrent l'accès à aucun rôle et ne créent aucune classe privilégiée de participants.
 
-**La voix est inaliénable.** Le droit de vote ne peut être retiré ni suspendu en raison des opinions, du contenu du vote, d'un désaccord avec les décisions ou à titre de sanction générale (Déclaration, article 10; Charte, articles 17 et 37). Les restrictions prévues à l'article 22 de la Charte touchent la participation aux cellules, le droit de faire des propositions et l'accès à certains services, mais non la voix.
+**La voix est inaliénable.** Le droit de vote ne peut être retiré ni suspendu en raison des opinions, du contenu du vote, d'un désaccord avec les décisions ou à titre de sanction générale (Déclaration, article 4; Charte, articles 17 et 37). Les restrictions prévues à l'article 22 de la Charte touchent la participation aux cellules, le droit de faire des propositions et l'accès à certains services, mais non la voix.
 
 La seule exception est constituée par des actes établis dirigés contre l'intégrité du vote lui-même: entente, achat ou vente d'une voix, contrainte exercée sur d'autres, contournement de la règle « une personne - un passeport » (Charte, article 22 bis). Les opinions, le contenu du vote et le désaccord avec les décisions ne sont un motif sous aucune présentation.
 
@@ -112,7 +112,7 @@ La participation, l'apport et la compétence sont consignés dans des marques in
 
 ## Les étapes
 
-**1. Déclenchement.** Tout earthling dépose une proposition. Aucune approbation préalable, aucune collecte de signatures et aucun seuil de soutien ne sont exigés pour le dépôt: le droit d'initiative appartient à chacun (Déclaration, article 10). La proposition est accompagnée d'une description du but, du contexte, des solutions de rechange, des risques et de l'incidence attendue.
+**1. Déclenchement.** Tout earthling dépose une proposition. Aucune approbation préalable, aucune collecte de signatures et aucun seuil de soutien ne sont exigés pour le dépôt: le droit d'initiative appartient à chacun (Déclaration, article 4). La proposition est accompagnée d'une description du but, du contexte, des solutions de rechange, des risques et de l'incidence attendue.
 
 **2. Débat.** Période de débat public pendant laquelle les participants posent des questions, proposent des amendements et critiquent les prémisses. Les délais sont établis par la Charte.
 
@@ -136,7 +136,7 @@ Le vote secret s'applique obligatoirement lors de l'examen d'une restriction de 
 
 ## La mesure de la volonté commune n'est pas une décision
 
-La présente section décrit comment le peuple prend les décisions qui concernent sa propre vie. L'expression de la position du peuple sur les questions répondant aux critères de l'article 7 de la Déclaration n'est pas une décision: par elle, le peuple ne statue pas, il s'exprime. Les modalités de la mesure, les exigences relatives à l'élaboration de la question, le contenu de ce qui est publié et les modalités applicables en cas de mesure défectueuse sont établis par la [Charte, article 8 bis](https://earth-lings.org/documents/fr/fr05-charte.html); pour le reste, les modalités sont établies par une décision de l'Assemblée.
+La présente section décrit comment le peuple prend les décisions qui concernent sa propre vie. L'expression de la position du peuple sur les questions qui concernent tous (article 3 de la Déclaration) n'est pas une décision: par elle, le peuple ne statue pas, il s'exprime. Les modalités de la mesure, les exigences relatives à l'élaboration de la question, le contenu de ce qui est publié et les modalités applicables en cas de mesure défectueuse sont établis par la [Charte, article 8 bis](https://earth-lings.org/documents/fr/fr05-charte.html); pour le reste, les modalités sont établies par une décision de l'Assemblée.
 
 ## Le fil des propositions
 

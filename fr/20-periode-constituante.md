@@ -99,7 +99,7 @@ Cinq dispositions ne se discutent en aucune circonstance. Un peuple auprès duqu
 - **La sortie est libre.** À tout moment, sans avoir à s'expliquer. L'exclusion du peuple n'existe pas.
 - **Le peuple parle, mais ne contraint pas.** La violence est exclue sans exception.
 
-Les cinq sont inscrites aux articles 8, 9 et 10 de la Déclaration, énumérées à son article 13 et forment le noyau intangible. Les propositions tendant à abroger ou à restreindre ces principes ne sont pas examinées. Les propositions tendant à préciser les rédactions et à compléter le noyau sont examinées au même titre que toutes les autres.
+Les cinq sont inscrites aux articles 3, 4 et 5 de la Déclaration, énumérées à son article 11 et forment le noyau intangible. Les propositions tendant à abroger ou à restreindre ces principes ne sont pas examinées. Les propositions tendant à préciser les rédactions et à compléter le noyau sont examinées au même titre que toutes les autres.
 
 Ce qui est intangible, ce sont les principes eux-mêmes et non les lettres qui les écrivent. Une rédaction peut être précisée si la précision ne restreint pas le principe et n'abaisse aucune garantie de la personne; en cas de doute, elle est réputée l'abaisser et n'est pas retenue. Le reste du texte de la Déclaration, le peuple a le droit de le modifier, de le compléter et de le réduire - aux deux tiers des voix et seulement de manière qu'aucune garantie ne devienne plus faible.
 
@@ -185,7 +185,7 @@ Une proposition **de traduction** signale qu'une traduction rend le sens de mani
 
 Le type auquel appartient une proposition est déterminé d'après son contenu, et non d'après la manière dont elle est intitulée. Si une proposition de traduction révèle une obscurité du texte-maître lui-même, elle est aussi examinée comme une proposition de fond.
 
-**Quel texte est l'objet du vote.** Le vote du 17 février 2027 porte sur les textes russe et anglais: ils sont reconnus comme faisant également foi (Déclaration, article 13). Les textes dans les sept autres langues sont des traductions officielles. On peut lire et voter en s'appuyant sur l'une quelconque d'entre elles, mais en cas de divergence s'applique l'interprétation qui donne à la personne la protection la plus élevée et, si elle ne résout pas la divergence, le sens du texte russe.
+**Quel texte est l'objet du vote.** Le vote du 17 février 2027 porte sur les textes russe et anglais: ils sont reconnus comme faisant également foi (Déclaration, article 11). Les textes dans les sept autres langues sont des traductions officielles. On peut lire et voter en s'appuyant sur l'une quelconque d'entre elles, mais en cas de divergence s'applique l'interprétation qui donne à la personne la protection la plus élevée et, si elle ne résout pas la divergence, le sens du texte russe.
 
 **L'état des traductions.** Le corpus dans les neuf langues est mis en conformité avec les textes-maîtres russes avant l'ouverture de la réception des propositions, le 22 octobre 2026. Les versions définitives soumises au vote sont publiées en russe et en anglais le 3 février 2027, et les traductions dans les sept autres langues le sont dans le même délai. Si, à cette date, une traduction n'est pas prête, cela est indiqué sans détour, avec la langue et le motif; nous ne ferons pas passer une traduction non prête pour prête.
 
@@ -209,7 +209,7 @@ Le relevé de toutes les propositions reçues et des réponses qui leur ont ét�
 
 ## 4. Ce qui n'est pas examiné
 
-Les propositions tendant à abroger ou à restreindre les principes établis par les articles 8, 9 et 10 de la Déclaration et énumérés à son article 13 ne sont pas examinées. Les propositions tendant à préciser les rédactions de ces articles sont examinées au même titre que les autres.
+Les propositions tendant à abroger ou à restreindre les principes établis par les articles 3, 4 et 5 de la Déclaration et énumérés à son article 11 ne sont pas examinées. Les propositions tendant à préciser les rédactions de ces articles sont examinées au même titre que les autres.
 
 Les propositions tendant à compléter le noyau intangible sont examinées au même titre que les autres et ne sont retenues que si elles satisfont aux quatre conditions du test exposé plus haut.
 
@@ -225,7 +225,7 @@ La vérification d'identité est gratuite et se poursuit pendant toute la pério
 
 Le texte est adopté par un vote le 17 février 2027. Votent les personnes ayant fait vérifier leur identité, selon le principe « une personne - une voix ».
 
-Le vote porte sur deux textes à la fois, le russe et l'anglais. Tous deux sont reçus comme faisant également foi (Déclaration, article 13); le texte anglais doit donc être prêt et publié au plus tard le jour de la publication du relevé, le 3 février 2027: on ne peut voter que sur ce que l'on peut lire à l'avance.
+Le vote porte sur deux textes à la fois, le russe et l'anglais. Tous deux sont reçus comme faisant également foi (Déclaration, article 11); le texte anglais doit donc être prêt et publié au plus tard le jour de la publication du relevé, le 3 février 2027: on ne peut voter que sur ce que l'on peut lire à l'avance.
 
 Le texte est réputé adopté si trois conditions sont réunies en même temps:
 
@@ -247,4 +247,4 @@ Les autres exigences ne sont abaissées en aucune circonstance.
 
 Les présentes règles s'appliquent à compter du jour de l'ouverture de la réception des propositions et cessent de produire effet dès l'adoption du texte.
 
-Le jour de l'adoption, l'article 14 de la Déclaration est complété par les données réelles du vote et demeure dans le texte à jamais. La section « Statut de la présente version » n'est pas reproduite dans la version adoptée.
+Le jour de l'adoption, l'article 12 de la Déclaration est complété par les données réelles du vote et demeure dans le texte à jamais. La section « Statut de la présente version » n'est pas reproduite dans la version adoptée.

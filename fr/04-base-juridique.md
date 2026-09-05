@@ -233,7 +233,7 @@ Une réserve à la dernière ligne, que nous faisons nous-mêmes: les motifs jur
 
 L'affirmation exacte est la suivante: des documents d'appartenance à un peuple existent, mais tous attestent une appartenance déduite de la descendance et reconnue par un État. Pour la première fois, une appartenance est attestée par un document délivré par le peuple lui-même, sans lien ni avec un territoire ni avec une descendance, qui naît de la décision de la personne et que n'importe qui peut vérifier.
 
-L'affirmation « délivré par le peuple » ne tient pas à des mots: l'article 9 de la Déclaration établit que le registre des participants et la vérification de leur identité « ne sont pas des biens de la personne morale, ne peuvent être cédés, vendus, donnés en gage ni aliénés d'aucune autre manière, et ne suivent la personne morale en aucune circonstance », et que les personnes morales « n'incarnent pas le peuple ». Sans cette norme, l'affirmation reviendrait à dire que le document a été délivré par une société commerciale.
+L'affirmation « délivré par le peuple » ne tient pas à des mots: l'article 9 de la Déclaration établit que le registre des participants et la vérification de leur identité « ne sont pas des biens de la personne morale, ne peuvent être cédés, vendus, donnés en gage ni aliénés d'aucune autre manière », et que les personnes morales « n'incarnent pas le peuple ». Sans cette norme, l'affirmation reviendrait à dire que le document a été délivré par une société commerciale.
 
 Le passeport earthling ne remplace pas les documents d'État, ne donne ni nationalité, ni visa, ni droit d'entrée, ni protection consulaire. Il atteste l'appartenance à un peuple, ce que les documents d'État n'attestent aucunement.
 
@@ -265,7 +265,7 @@ L'infrastructure du peuple des Earthlings est bâtie de manière que l'inscripti
 
 ## Des niveaux, non des degrés de juridiction
 
-L'article 7 de la Déclaration définit l'objet de l'activité du peuple par deux critères: aucun État ne règle la question à lui seul, et les conséquences retombent sur ceux qui n'ont pas eu de voix. C'est le principe des personnes concernées, exprimé par des critères et non par une liste de thèmes.
+L'article 3 de la Déclaration trace l'objet de l'activité du peuple par le principe des personnes concernées: ce qui concerne tous se décide avec la participation de tous. C'est un principe, et non une liste de thèmes: une liste vieillit, un principe ne vieillit pas.
 
 Ces niveaux ne forment pas une hiérarchie: le peuple des Earthlings ne réexamine pas les décisions des États et ne peut pas les annuler. Ce sont des niveaux différents par le cercle des questions, non des degrés par la force.
 
@@ -471,13 +471,13 @@ L'autodétermination du peuple des Earthlings s'exerce par des moyens que la pui
 
 **L'appartenance au lieu de la juridiction** - le peuple ne lie que ceux qui y sont entrés, et seulement pour les questions de sa propre vie intérieure. Ni territoire ni juridiction sur l'espace physique, les ressources ou la population des États: il n'en a pas et n'en revendique pas.
 
-**La parole au lieu de la force** - le seul moyen du peuple est la déclaration, l'adresse et l'argument; l'exécution de ses décisions repose sur le caractère volontaire de la participation. Les formations armées, les structures de force et l'exécution forcée des décisions sont exclues par l'article 9 de la Déclaration, qui fait partie du noyau intangible.
+**La parole au lieu de la force** - le seul moyen du peuple est la déclaration, l'adresse et l'argument; l'exécution de ses décisions repose sur le caractère volontaire de la participation. Les formations armées, les structures de force et l'exécution forcée des décisions sont exclues par l'article 5 de la Déclaration, qui fait partie du noyau intangible.
 
 **La position au lieu du pouvoir** - le peuple produit une position collective vérifiable et la présente. L'imposition, la compétence pénale et la réglementation de l'économie interne restent entièrement aux États; le peuple n'y élève aucune prétention.
 
 **L'addition au lieu du remplacement** - l'appartenance au peuple s'ajoute à ce que la personne a déjà et n'affecte ni sa nationalité, ni ses obligations fiscales, ni ses juges. En cas de conflit de lois, priorité est donnée aux normes impératives de l'ordre juridique national concerné.
 
-L'objet du heurt ne naît pas, et non parce que le peuple aurait renoncé à quelque chose sous la contrainte, mais parce que la prétention et la garantie sont ici de nature différente. La renonciation à la violence énoncée à l'article 9 de la Déclaration est une obligation du peuple envers lui-même et envers la personne, non une concession aux États: elle vaudrait même en l'absence de tout différend sur l'intégrité territoriale.
+L'objet du heurt ne naît pas, et non parce que le peuple aurait renoncé à quelque chose sous la contrainte, mais parce que la prétention et la garantie sont ici de nature différente. La renonciation à la violence énoncée à l'article 5 de la Déclaration est une obligation du peuple envers lui-même et envers la personne, non une concession aux États: elle vaudrait même en l'absence de tout différend sur l'intégrité territoriale.
 
 ---
 

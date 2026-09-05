@@ -28,7 +28,7 @@ Le passeport SBT de l'earthling est un jeton numérique intransmissible (Soulbou
 - le dépôt de propositions et d'initiatives;
 - la participation aux décisions sur chaque question.
 
-> **La voix est inaliénable** et ne peut être retirée ni suspendue en raison des opinions, du contenu du vote, d'un désaccord avec les décisions ou à titre de sanction générale (Déclaration, article 10; [Charte, articles 17 et 37](https://earth-lings.org/documents/fr/fr05-charte.html)). La voix est le contenu de l'appartenance: en la retirant pour de tels motifs, le peuple exclurait la personne en ne lui laissant que le nom.
+> **La voix est inaliénable** et ne peut être retirée ni suspendue en raison des opinions, du contenu du vote, d'un désaccord avec les décisions ou à titre de sanction générale (Déclaration, article 4; [Charte, articles 17 et 37](https://earth-lings.org/documents/fr/fr05-charte.html)). La voix est le contenu de l'appartenance: en la retirant pour de tels motifs, le peuple exclurait la personne en ne lui laissant que le nom.
 
 La seule exception est constituée par des actes établis dirigés contre l'intégrité du vote lui-même: entente, achat ou vente d'une voix, contrainte exercée sur d'autres, contournement de la règle « une personne - un passeport » (Charte, article 22 bis). Les opinions, le contenu du vote et le désaccord avec les décisions ne sont un motif sous aucune présentation.
 

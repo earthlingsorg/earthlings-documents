@@ -294,7 +294,7 @@ Un earthling peut déléguer sa voix, sur un domaine déterminé, à un autre ea
 
 ## Article 8 bis. La mesure de la volonté commune
 
-Le peuple des Earthlings exprime la volonté commune sur les questions répondant aux critères de l'article 7 de la Déclaration. Les limites de cette expression sont établies par les articles 9 et 13 de la Déclaration.
+Le peuple des Earthlings exprime la volonté commune sur les questions qui concernent tous - article 3 de la Déclaration. Les limites de cette expression sont établies par les articles 5 et 11 de la Déclaration.
 
 Le libellé de la question n'est approuvé ni par ceux qui assurent la gestion opérationnelle du peuple, ni par ceux qui effectuent la mesure. La question est publiée avant l'ouverture du vote et peut être contestée; une fois le vote ouvert, la question n'est plus modifiée.
 
@@ -513,7 +513,7 @@ Le mécanisme d'inactivité protège le système contre une élévation artifici
 
 En règle générale, le passeport SBT n'est détruit que par son titulaire lui-même (article 18). Le présent article établit **deux exceptions et deux seulement** à cette règle.
 
-> **Pourquoi le décès ne figure pas dans cette liste.** L'appartenance prend fin par l'effet du décès de la personne: cela est établi à l'article 8 de la Déclaration et se produit de soi-même, sans décision de quiconque. La destruction du passeport pour ce motif n'a pas lieu, et voici pourquoi. Le peuple n'a pas et ne peut pas avoir accès aux registres de décès du monde entier: un tel motif reposerait sur des informations dont rien ne permet de vérifier l'exactitude et deviendrait le moyen le moins coûteux d'écarter un participant, sans notification, sans délai d'objection et sans recours, puisque tous supposent la présence de la personne. Et la destruction ne protège pas pour autant contre un vote émis avec la clé d'autrui: elle ne peut pas devancer la connaissance du décès. L'aspect pratique est réglé par l'article 20: celui qui ne participe pas est réputé inactif, sa voix n'est pas prise en compte dans le calcul du quorum, et son passeport est conservé. Le système n'a pas besoin de savoir pourquoi une personne a cessé de participer.
+> **Pourquoi le décès ne figure pas dans cette liste.** L'appartenance prend fin par l'effet du décès de la personne: cela est établi à l'article 4 de la Déclaration et se produit de soi-même, sans décision de quiconque. La destruction du passeport pour ce motif n'a pas lieu, et voici pourquoi. Le peuple n'a pas et ne peut pas avoir accès aux registres de décès du monde entier: un tel motif reposerait sur des informations dont rien ne permet de vérifier l'exactitude et deviendrait le moyen le moins coûteux d'écarter un participant, sans notification, sans délai d'objection et sans recours, puisque tous supposent la présence de la personne. Et la destruction ne protège pas pour autant contre un vote émis avec la clé d'autrui: elle ne peut pas devancer la connaissance du décès. L'aspect pratique est réglé par l'article 20: celui qui ne participe pas est réputé inactif, sa voix n'est pas prise en compte dans le calcul du quorum, et son passeport est conservé. Le système n'a pas besoin de savoir pourquoi une personne a cessé de participer.
 
 ### 1. L'annulation d'une délivrance non valide
 
@@ -790,7 +790,7 @@ Le peuple des Earthlings ne s'immisce pas dans les affaires intérieures des Ét
 
 ## Article 35. La personnalité juridique
 
-Le peuple des Earthlings recherche la discernabilité juridique: être traité comme un peuple là où naît une question concrète. Il n'existe pour personne d'organe qui reconnaisse les peuples; la discernabilité s'accumule donc par la pratique, le temps et le nombre de participants, et ne se délivre pas par une décision. Comme l'indique l'article 7 de la Déclaration, la question de l'acquisition de la personnalité juridique internationale par une communauté n'ayant jamais possédé de territoire n'a pas encore été posée au droit.
+Le peuple des Earthlings recherche la discernabilité juridique: être traité comme un peuple là où naît une question concrète. Il n'existe pour personne d'organe qui reconnaisse les peuples; la discernabilité s'accumule donc par la pratique, le temps et le nombre de participants, et ne se délivre pas par une décision. La question de l'acquisition de la personnalité juridique internationale par une communauté n'ayant jamais possédé de territoire n'a pas encore été posée au droit.
 
 Tant que la discernabilité juridique n'est pas accumulée, le peuple fonctionne, pour ses relations extérieures, par des structures juridiquement enregistrées - des interfaces juridiques interchangeables - dans les ordres juridiques concernés. La stratégie juridique est décrite dans le document [Base juridique](https://earth-lings.org/documents/fr/fr04-base-juridique.html).
 
@@ -840,7 +840,7 @@ La présente Charte entre en vigueur après sa publication sur le site du peuple
 
 Une contradiction constatée entre la Charte et la Déclaration se résout en mettant la Charte en conformité avec la Déclaration, et non l'inverse.
 
-**Répartition des objets.** La Déclaration établit les principes, les garanties données à la personne et les limites du peuple. Les principes de son noyau intangible ne sont jamais abrogés; la rédaction de ces principes et ses autres dispositions ne sont modifiées que par l'Assemblée, dans les conditions de l'article 13 de la Déclaration et seulement de manière qu'aucune garantie de la personne ne devienne plus faible. La Charte établit les mécanismes, les seuils, les délais et les procédures; elle est modifiée dans les conditions de l'article 36. Les valeurs chiffrées, les moyens techniques et les détails d'organisation ne sont pas reportés dans la Déclaration.
+**Répartition des objets.** La Déclaration établit les principes, les garanties données à la personne et les limites du peuple. Les principes de son noyau intangible ne sont jamais abrogés; la rédaction de ces principes et ses autres dispositions ne sont modifiées que par l'Assemblée, dans les conditions de l'article 11 de la Déclaration et seulement de manière qu'aucune garantie de la personne ne devienne plus faible. La Charte établit les mécanismes, les seuils, les délais et les procédures; elle est modifiée dans les conditions de l'article 36. Les valeurs chiffrées, les moyens techniques et les détails d'organisation ne sont pas reportés dans la Déclaration.
 
 ## Article 39. L'étape de mise en place des structures
 
