@@ -169,7 +169,7 @@ There is no decision on admission to the people: the people considers no applica
 
 **The Contribution.** On joining, a contribution is paid that covers identity verification, the issuance of the passport and the upkeep of the infrastructure. The contribution buys no belonging and creates no advantage of any kind. Inability to pay the contribution oneself does not close entry into the people: the contribution for a person may be paid by another person or out of the common treasury.
 
-**There Are No Insurmountable Requirements.** No requirement for joining or for participation may be such that a person is unable to satisfy it for reasons beyond their control. The absence of documents, lack of access to communications, state of health, remoteness of the place of residence and other such circumstances close neither entry into the people nor participation in its decisions. Inability to satisfy a requirement is not held against the person and is not a ground for refusal.
+**There Are No Insurmountable Requirements.** No requirement for joining or for participation may be such that a person is unable to satisfy it for reasons beyond their control. The absence of documents, lack of access to communications, state of health, remoteness of the place of residence and other such circumstances close neither entry into the people nor participation in its decisions. Inability to satisfy a requirement is not held against the person and is not a ground for refusing confirmation of identity.
 
 **What the People Does Not Require.** The Earthlings people requires of an earthling neither service nor agreement with the decisions of the majority. It expects two things: that one living person stands behind the signature, and that the freedom an earthling claims for themselves is acknowledged by them for every other person.
 
@@ -279,7 +279,7 @@ Every edition of this Declaration is published in such a way that earlier editio
 A lawful continuation of the Earthlings people is only one in which three conditions are satisfied at once:
 
 1. the principles of the unamendable core are preserved in full; whoever changes them creates, by definition, a different body;
-2. the continuation rests on the free will of a majority of confirmed earthlings, expressed on the principle of "one person, one vote";
+2. the continuation rests on the free will of a majority of those confirmed earthlings who were able to express it, at a quorum not lower than the one established by the Earthlings Charter; the will is expressed on the principle of "one person, one vote";
 3. the transition is carried out openly and verifiably.
 
 Neither possession of the infrastructure, nor ownership of the program code, nor control over legal entities amounts in itself to a continuation of the people.

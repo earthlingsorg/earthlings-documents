@@ -423,7 +423,7 @@ An instrument with which everything can be measured will be used against someone
 
 **A particular person.** No collective position is taken with respect to a particular individual. The people speaks about phenomena, decisions and arrangements, but not about people. An instrument aimed at a person is a lynching with a procedure, and we shall not build one.
 
-**The principles of the unamendable core.** They are not a subject of voting - and this is not a question of a raised threshold but a question that is not put at all. The list of those principles is closed and is established by Article 11 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html); we do not reproduce it here, so that it keeps a single source. The core may be added to; it may not be weakened.
+**The principles of the unamendable core.** They are not a subject of voting - and this is not a question of a raised threshold but a question that is not put at all. The list of those principles is established by Article 11 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html); we do not reproduce it here, so that it keeps a single source. The core may be added to; it may not be weakened.
 
 These three limits make the instrument less powerful. It is a deliberate trade: a tool with which no blow can be struck is far harder to take away.
 
