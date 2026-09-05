@@ -217,7 +217,7 @@ Daraus die Formel, die vielleicht als einzige aus dem ganzen Dokument wert ist, 
 
 Gehört werden kann heute jeder. Gezählt werden kann niemand.
 
-Und gleich die Einschränkung, ohne die dieses Wort gefährlich ist. **Das Messinstrument ist ein Verfahren und keine Menschen.** Gemessen wird nicht der Mensch: Der Mensch antwortet oder antwortet nicht, aus freiem Willen, und die Antwort gehört ihm. Messinstrument nennen wir den Ablauf, in dem Antworten gesammelt und geprüft werden - Frage, Frist, Register, Signatur, Veröffentlichung. Das Volk ist für niemanden ein Werkzeug, auch für sich selbst nicht: Ein Werkzeug baut es, es ist aber selbst keines. Anderes widerspräche Artikel 10 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html), wo die Würde des Menschen als unantastbar bezeichnet wird und der Mensch nicht als Mittel.
+Und gleich die Einschränkung, ohne die dieses Wort gefährlich ist. **Das Messinstrument ist ein Verfahren und keine Menschen.** Gemessen wird nicht der Mensch: Der Mensch antwortet oder antwortet nicht, aus freiem Willen, und die Antwort gehört ihm. Messinstrument nennen wir den Ablauf, in dem Antworten gesammelt und geprüft werden - Frage, Frist, Register, Signatur, Veröffentlichung. Das Volk ist für niemanden ein Werkzeug, auch für sich selbst nicht: Ein Werkzeug baut es, es ist aber selbst keines. Anderes widerspräche Artikel 3 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html), wo die Würde des Menschen als unantastbar bezeichnet wird und der Mensch nicht als Mittel.
 
 ## 5. Fünf Eigenschaften eines Werkzeugs, das sich nicht übergehen lässt
 
@@ -301,7 +301,7 @@ Was das der Messung gibt:
 
 - **ein Mensch - eine Stimme**, weil es je Mensch einen Pass gibt und er nicht übertragen werden kann;
 - **die Stimme lässt sich nicht kaufen**, weil der Pass nicht übertragbar und nicht veräußerlich ist;
-- **die Stimme lässt sich nicht ansammeln**, weil das Vermögen durch den unabänderlichen Kern der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html), Artikel 13, von der Stimme getrennt ist;
+- **die Stimme lässt sich nicht ansammeln**, weil das Vermögen durch den unabänderlichen Kern der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html), Artikel 11, von der Stimme getrennt ist;
 - **überprüfen kann es jeder**, weil das Register in der Blockchain liegt und nicht auf unseren Servern und unmittelbar aus einem offenen Smart Contract gelesen wird.
 
 Wie die Identitätsprüfung genau aufgebaut ist und warum sie nicht zur Überwachung wird, beschreiben die Dokumente [Die Politik der biometrischen Prüfung](https://earth-lings.org/documents/de/de16-biometrische-pruefung.html) und [Der SBT-Pass](https://earth-lings.org/documents/de/de15-sbt-pass.html). Was an dieser Infrastruktur offen ist, was geschlossen und wo man uns heute aufs Wort glauben muss, steht im Dokument [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html).
@@ -322,17 +322,17 @@ Deshalb muss das Verfahren der Fragebildung fünf Anforderungen genügen:
 4. **Unveränderlichkeit nach dem Beginn.** Vom Augenblick der Eröffnung der Abstimmung an wird die Frage nicht mehr redigiert. Ein entdeckter Mangel der Formulierung bedeutet, dass die Messung für ungültig erklärt und eine neue durchgeführt wird, und nicht, dass im Lauf nachgebessert wird.
 5. **Bezug zum Leben des Teilnehmers.** Die Frage wird dort gestellt, wo die Folge den Menschen trifft, und nicht dort, wo Institutionen sich über sie verständigen. Diese Anforderung betrifft nicht die Höflichkeit gegenüber dem Leser: Sie entscheidet, ob eine Messung zustande kommt oder nicht, und wird unten gesondert erklärt.
 
-Der Gegenstand der Frage ist durch Artikel 7 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) auf zwei Merkmale beschränkt, die zugleich gelten: Kein Staat kann diese Frage allein lösen, und die Folgen tragen Menschen unabhängig davon, ob sie an der Entscheidung teilgenommen haben.
+Der Gegenstand der Frage ist durch die [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) von zwei Seiten begrenzt. Artikel 3 zieht den Kreis: Das Volk äußert sich zu dem, was alle betrifft. Artikel 5 setzt die Ausnahme: Das innere Leben eines einzelnen Staates ist kein Gegenstand der Beschlüsse des Volkes, das ist Sache seiner Bürger.
 
-Die Merkmale sind erschöpfend, das Verzeichnis der Fragen ist es nicht. Darunter fallen zum Beispiel die Besteuerung transnationaler Gewinne, die Regeln für Systeme künstlicher Intelligenz, das Schicksal der Atmosphäre und des Ozeans, die Widerstandsfähigkeit gegen Pandemien, die Verantwortung gegenüber künftigen Generationen. Nichts aus der Innenpolitik eines einzelnen Staates fällt darunter - dazu gesondert in Abschnitt 11.
+Die Grenze selbst ist abschließend, das Verzeichnis der Fragen ist es nicht. Darunter fallen zum Beispiel die Besteuerung transnationaler Gewinne, die Regeln für Systeme künstlicher Intelligenz, das Schicksal der Atmosphäre und des Ozeans, die Widerstandsfähigkeit gegen Pandemien, die Verantwortung gegenüber künftigen Generationen. Nichts aus der Innenpolitik eines einzelnen Staates fällt darunter - dazu gesondert in Abschnitt 11.
 
 ### Die Frage muss das Leben dessen betreffen, den man fragt
 
 Das ist die Antwort auf die wahrscheinlichste Ursache des Scheiterns - die niedrige Beteiligung, von der gesondert in Abschnitt 20 die Rede ist. Geheilt wird sie nicht durch Erinnerungen und nicht durch Aufrufe, sondern durch die Frage. **Wenn die Fragen das wirkliche Leben, die Interessen und die Schwierigkeiten der Menschen nicht berühren, verschwindet der Sinn der Abstimmung vollständig: Es gibt keinen Grund zu fragen, und es gibt keinen Grund zu antworten.**
 
-Hier liegt ein wirklicher Widerspruch, und wir nennen ihn, statt ihn zu umgehen. Die Merkmale des Artikels 7 wählen planetare Fragen aus - jene, die kein Staat allein löst. Das Planetare aber klingt weit weg vom Menschen: Zwischen der „Abstimmung eines Steuersatzes auf transnationale Gewinne“ und den Sorgen eines bestimmten Tages scheint der Abstand unüberwindlich.
+Hier liegt ein wirklicher Widerspruch, und wir nennen ihn, statt ihn zu umgehen. Die Grenze wählt planetare Fragen aus - jene, die alle betreffen. Das Planetare aber klingt weit weg vom Menschen: Zwischen der „Abstimmung eines Steuersatzes auf transnationale Gewinne“ und den Sorgen eines bestimmten Tages scheint der Abstand unüberwindlich.
 
-Er scheint es nur. Eine planetare Frage **landet immer irgendwo** - sonst wäre sie nicht planetar: Die Folgen tragen Menschen, darin besteht ihr zweites Merkmal. Also ist die Frage am Ort der Landung zu stellen und nicht am Ort der Verhandlung. Vergleichen Sie:
+Er scheint es nur. Eine planetare Frage **landet immer irgendwo** - sonst wäre sie nicht planetar: Was alle betrifft, betrifft jeden Einzelnen. Also ist die Frage am Ort der Landung zu stellen und nicht am Ort der Verhandlung. Vergleichen Sie:
 
 | Am Ort der Verhandlung gestellt | Am Ort der Landung gestellt |
 |---|---|
@@ -344,7 +344,7 @@ Rechts und links steht ein und dieselbe Frage. Die rechte Fassung ist keine Vere
 
 **Und gleich die Grenze, denn von diesem Kunstgriff ist es nur ein Schritt bis zum Unglück.** Um des Anklangs willen zu formulieren liegt Tür an Tür damit, um der Antwort willen zu formulieren, und das ist durch Anforderung 3 bereits ausdrücklich verboten. Die Unterscheidung treffen wir so: **Eine Formulierung ist zulässig, wenn sie nennt, wo die Folge eintritt, und unzulässig, wenn sie nahelegt, wie zu dieser Folge zu stehen ist.** „Soll ein Unternehmen nirgendwo Steuern zahlen können“ nennt. „Ist es gerecht, dass Konzerne sich auf Ihre Kosten bereichern, ohne Steuern zu zahlen“ legt nahe. Beide Fassungen betreffen das Leben; die zweite ist keine Messung. Die kontradiktorische Phase besteht unter anderem dazu, solche Formulierungen auszusondern, und der Einwand, die Frage sei um der gewünschten Antwort willen formuliert, wird gleichrangig mit den übrigen behandelt.
 
-Die zweite Grenze ist Artikel 9. Die dem Menschen nächsten Fragen sind fast immer innenpolitische, und genau deshalb sind sie ausgeschlossen. Eine taugliche Frage liegt im Schnitt zweier Bedingungen: **Sie betrifft das Leben des Menschen und hat dabei keine nationale Anschrift.** Dieser Schnitt ist nicht leer: die Besteuerung transnationaler Gewinne, die Regeln für Systeme, mit denen Menschen täglich sprechen, das Schicksal der Daten über den Menschen, der Preis von Arzneimitteln, die Widerstandsfähigkeit gegen Pandemien, wer für den Schaden am Planeten zahlt. Jede von ihnen hat einen Ort der Landung im Leben jedes Menschen, und es gibt kein Parlament, das sie ganz entscheiden würde.
+Die zweite Grenze ist Artikel 5. Die dem Menschen nächsten Fragen sind fast immer innenpolitische, und genau deshalb sind sie ausgeschlossen. Eine taugliche Frage liegt im Schnitt zweier Bedingungen: **Sie betrifft das Leben des Menschen und hat dabei keine nationale Anschrift.** Dieser Schnitt ist nicht leer: die Besteuerung transnationaler Gewinne, die Regeln für Systeme, mit denen Menschen täglich sprechen, das Schicksal der Daten über den Menschen, der Preis von Arzneimitteln, die Widerstandsfähigkeit gegen Pandemien, wer für den Schaden am Planeten zahlt. Jede von ihnen hat einen Ort der Landung im Leben jedes Menschen, und es gibt kein Parlament, das sie ganz entscheiden würde.
 
 ### Zwei Reihen von Fragen, und beide werden gebraucht
 
@@ -352,7 +352,7 @@ Es gibt noch einen zweiten, einfacheren Grund, aus dem Menschen antworten: **Die
 
 Deshalb laufen die Fragen des Volkes in zwei Reihen, und die eine darf die andere nicht ersetzen.
 
-**Fragen des inneren Lebens des Volkes** - wofür die Schatzkammer ausgibt, wie hoch der Beitrag ist, welche Vorhaben zu unterstützen sind, wie sich die Regeln ändern, was mit den Aufträgen geschieht. Hier tritt die Folge immer und sofort ein: Das Geld wird wirklich ausgegeben, die Regeln ändern sich wirklich. Diese Abstimmungen schaffen die Gewohnheit zu antworten, und die Gewohnheit ist das Einzige, was die Beteiligung auf lange Sicht trägt. Ihr Gegenstand ist nicht durch Artikel 7 beschränkt, sondern durch Artikel 11 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html): Es sind Fragen des Lebens des Volkes und nicht Fragen seiner Position nach außen.
+**Fragen des inneren Lebens des Volkes** - wofür die Schatzkammer ausgibt, wie hoch der Beitrag ist, welche Vorhaben zu unterstützen sind, wie sich die Regeln ändern, was mit den Aufträgen geschieht. Hier tritt die Folge immer und sofort ein: Das Geld wird wirklich ausgegeben, die Regeln ändern sich wirklich. Diese Abstimmungen schaffen die Gewohnheit zu antworten, und die Gewohnheit ist das Einzige, was die Beteiligung auf lange Sicht trägt. Ihr Gegenstand ist nicht durch Artikel 6 beschränkt, sondern durch Artikel 9 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html): Es sind Fragen des Lebens des Volkes und nicht Fragen seiner Position nach außen.
 
 **Planetare Fragen** - jene, von denen oben die Rede war. Ihre Folge ist nicht gewährleistet: Wir können messen und veröffentlichen, aber wir können nicht versprechen, dass jemand antwortet. Darin liegt ihre Schwäche, und auf den ersten Stufen der Leiter ist sie nicht zu beheben.
 
@@ -419,11 +419,11 @@ Wir beschreiben das lieber im Voraus, solange keine einzige Messung durchgeführ
 
 Ein Messinstrument, mit dem sich alles messen lässt, wird gegen irgendjemanden eingesetzt werden. Deshalb stehen die Beschränkungen in der Erklärung und nicht in einer Geschäftsordnung, und sie werden nicht durch einen Mehrheitsbeschluss aufgehoben.
 
-**Die Innenpolitik eines einzelnen Staates.** Zu solchen Fragen wird überhaupt keine kollektive Position im Namen des ganzen Volkes beschlossen - Artikel 9 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html). Das Volk der Earthlings nimmt am Kampf um die Staatsgewalt nicht teil, unterstützt keine Parteien und keine Kandidaten, finanziert keine Wahlkämpfe und ruft nicht dazu auf, in bestimmter Weise abzustimmen.
+**Die Innenpolitik eines einzelnen Staates.** Zu solchen Fragen wird überhaupt keine kollektive Position im Namen des ganzen Volkes beschlossen - Artikel 5 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html). Das Volk der Earthlings nimmt am Kampf um die Staatsgewalt nicht teil, unterstützt keine Parteien und keine Kandidaten, finanziert keine Wahlkämpfe und ruft nicht dazu auf, in bestimmter Weise abzustimmen.
 
 **Ein einzelner Mensch.** Zu einer bestimmten Person wird keine kollektive Position beschlossen. Das Volk äußert sich über Erscheinungen, Entscheidungen und Zustände, nicht über Menschen. Ein auf einen Menschen gerichtetes Messinstrument ist Lynchjustiz mit Verfahren, und wir werden es nicht bauen.
 
-**Die Grundsätze des unabänderlichen Kerns.** Sie sind kein Gegenstand der Abstimmung - und das ist keine Frage einer erhöhten Schwelle, sondern eine Frage, die überhaupt nicht gestellt wird. Das Verzeichnis dieser Grundsätze ist abschließend und durch Artikel 13 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) festgelegt; wir geben es hier nicht wieder, damit es eine einzige Quelle behält. Den Kern zu ergänzen ist möglich, ihn zu schwächen nicht.
+**Die Grundsätze des unabänderlichen Kerns.** Sie sind kein Gegenstand der Abstimmung - und das ist keine Frage einer erhöhten Schwelle, sondern eine Frage, die überhaupt nicht gestellt wird. Das Verzeichnis dieser Grundsätze ist durch Artikel 11 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) festgelegt; wir geben es hier nicht wieder, damit es eine einzige Quelle behält. Den Kern zu ergänzen ist möglich, ihn zu schwächen nicht.
 
 Diese drei Beschränkungen machen das Messinstrument weniger mächtig. Das ist ein bewusster Tausch: Ein Werkzeug, mit dem sich nicht zuschlagen lässt, ist weit schwerer wegzunehmen.
 
@@ -565,7 +565,7 @@ Ein solches Artefakt gibt es, soweit wir wissen, weder bei Staaten noch bei inte
 
 In Teil I hieß es, die geschädigte Seite - diejenigen, die noch nicht wählen, und diejenigen, die noch nicht geboren sind - habe keine Repräsentation. Gewöhnlich endet das Gespräch hier: Den Schaden zu benennen ist leicht, und zu beheben ist er mit nichts.
 
-Hier ist er mit etwas zu beheben - nicht wegen unserer guten Absicht, sondern wegen des Baus des Textes. Artikel 9 der Erklärung sagt: **„Kein Beschluss des Volkes der Earthlings wälzt seine Folgen auf diejenigen ab, die keine Möglichkeit hatten, an seiner Fassung teilzunehmen, einschließlich künftiger Generationen.“** Artikel 9 gehört zum unabänderlichen Kern (Artikel 13), und die Grundsätze des Kerns werden überhaupt nicht zur Abstimmung gestellt - es ist keine Frage einer erhöhten Schwelle, es ist eine Frage, die nicht gestellt wird. Ein Beschluss, der dem Kern widerspricht, ist von Anfang an nichtig und wird weder durch Zeit noch durch Ausführung geheilt.
+Hier ist er mit etwas zu beheben - nicht wegen unserer guten Absicht, sondern wegen des Baus des Textes. Artikel 5 der Erklärung sagt: **„Kein Beschluss des Volkes der Earthlings darf nachteilige Folgen auf künftige Generationen abwälzen.“** Artikel 5 gehört zum unabänderlichen Kern (Artikel 11), und die Grundsätze des Kerns werden überhaupt nicht zur Abstimmung gestellt - es ist keine Frage einer erhöhten Schwelle, es ist eine Frage, die nicht gestellt wird. Ein Beschluss, der dem Kern widerspricht, ist von Anfang an nichtig und wird weder durch Zeit noch durch Ausführung geheilt.
 
 Aus dieser Norm kann ein ständiges Verfahren erwachsen: die Beurteilung jeder erheblichen Entscheidung nach ihrer Wirkung auf die, die nach uns kommen - mit einer veröffentlichten Stellungnahme und dem Recht jedes Teilnehmers, sie zu verlangen. Ein solches Verfahren gibt es heute in keinem Staat und in keiner internationalen Organisation. Bei uns besteht es ebenfalls noch nicht: Es gibt die Norm, aus der es folgt, und das ist zweierlei (Abschnitt 21).
 
@@ -788,7 +788,7 @@ Sagen wir auch das Umgekehrte, denn es ist von derselben Ordnung: **Wenn die Fra
 
 **Was daraus für uns selbst folgt.** **Der Anteil der Antwortenden ist die wichtigste Lebenskennzahl des Vorhabens, wichtiger als die Zahl der Teilnehmer.** Ein Volk von zehn Millionen mit einer Beteiligung von vierzig Prozent wiegt unvergleichlich mehr als ein Volk von einhundert Millionen mit einer Beteiligung von vier Prozent. Wir sagen das im Voraus, damit später die eine Kennzahl nicht durch die andere ersetzt werden kann.
 
-**Was wir nicht gewährleisten.** Dass sich immer eine passende Frage findet. Die Merkmale des Artikels 7 sind mit Absicht eng, und Fragen, die zugleich planetar und dem Menschen nahe sind, gibt es weniger, als man sich wünschte. Die Merkmale um der Beteiligung willen zu erweitern werden wir nicht: Ein Volk, das anfängt, nach allem Möglichen zu fragen, damit man ihm besser zuhört, hat aufgehört, das zu sein, wofür es geschaffen wurde.
+**Was wir nicht gewährleisten.** Dass sich immer eine passende Frage findet. Die Grenze ist mit Absicht eng, und Fragen, die zugleich planetar und dem Menschen nahe sind, gibt es weniger, als man sich wünschte. Sie um der Beteiligung willen zu erweitern werden wir nicht: Ein Volk, das anfängt, nach allem Möglichen zu fragen, damit man ihm besser zuhört, hat aufgehört, das zu sein, wofür es geschaffen wurde.
 
 ### 4. Seichtheit
 
@@ -892,7 +892,7 @@ Damit sich das hier Beschriebene überprüfen und nicht bloß glauben lässt, ne
 
 **Hier stehen keine Wahrscheinlichkeiten.** Wir wissen nicht, welche der Stufen erreicht wird und ob überhaupt eine erreicht wird.
 
-**Hier steht kein Versprechen eines Ergebnisses.** Wodurch das Volk gebunden ist und wodurch nicht, ist in Artikel 7 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) festgelegt, und wir geben das hier nicht wieder, damit der Norm eine einzige Quelle bleibt. Kurz: Die Anerkennung steht nicht in seiner Macht, und das Bestehen des Volkes hängt von der Anerkennung nicht ab.
+**Hier steht kein Versprechen eines Ergebnisses.** Wodurch das Volk gebunden ist und wodurch nicht, ist in Artikel 6 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) festgelegt, und wir geben das hier nicht wieder, damit der Norm eine einzige Quelle bleibt. Kurz: Die Anerkennung steht nicht in seiner Macht, und das Bestehen des Volkes hängt von der Anerkennung nicht ab.
 
 **Und hier steht keine einzige Behauptung, von der heute irgendetwas abhängt.** Die Infrastruktur ist gebaut, die Gründungsphase läuft, die Erklärung wird zur Abstimmung gestellt. Wenn keine der hier beschriebenen Stufen genommen wird, hebt das nichts von dem bereits Getanen auf und macht nichts von dem sinnlos, wofür Menschen einander gewählt haben.
 
@@ -929,7 +929,7 @@ Das ist eine Lehrmeinung und keine Norm. Wir führen sie an, weil der in ihr bes
 
 Dokumente des Korpus, auf die dieses Dokument verweist:
 
-- [Erklärung der Earthlings](https://earth-lings.org/documents/de/de01-erklaerung.html) - Artikel 7, 8, 9, 10, 12 und 13
+- [Erklärung der Earthlings](https://earth-lings.org/documents/de/de01-erklaerung.html) - Artikel 3, 5, 6, 8, 9, 10 und 11
 - [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html)
 - [Die DAO der Earthlings](https://earth-lings.org/documents/de/de07-dao.html)
 - [Die Digitale Plattform](https://earth-lings.org/documents/de/de12-digitale-plattform.html)

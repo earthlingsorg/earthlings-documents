@@ -52,7 +52,7 @@ Hat die Mediation zu keiner Beilegung geführt und berührt der Streit die Inter
 
 Das ist das äußerste Mittel. Es ist angebracht, wenn der Konflikt die Auslegung der Regeln des Volkes betrifft, wenn eine Entscheidung verlangt wird, die ein Vorbild für künftige Fälle setzt, oder wenn eine der Seiten fortgesetzt gegen die im Volk angenommenen Grundsätze handelt.
 
-Die Behandlung erfolgt nach den Verfahren der Charta. **Einen Menschen aus dem Volk auszuschließen kann die Vollversammlung unter keinen Umständen** (Erklärung, Artikel 10); die anwendbaren Maßnahmen und der Ablauf ihrer Anwendung sind in Artikel 22 der Charta festgelegt.
+Die Behandlung erfolgt nach den Verfahren der Charta. **Einen Menschen aus dem Volk auszuschließen kann die Vollversammlung unter keinen Umständen** (Erklärung, Artikel 4); die anwendbaren Maßnahmen und der Ablauf ihrer Anwendung sind in Artikel 22 der Charta festgelegt.
 
 ## Was einer Mediation nicht zugänglich ist
 
@@ -88,7 +88,7 @@ Der Verzicht auf Spott und Spitzen im gemeinsamen Raum macht das Gespräch ergie
 
 Drohungen, Verleumdung und Nötigung sind mit der Zugehörigkeit zum Volk unvereinbar. Erfüllt ein solches Verhalten einen in Artikel 22 der Charta vorgesehenen Grund, so werden die dort festgelegten Maßnahmen und ihr Verfahren angewandt.
 
-**Schärfe, Ironie, Ablehnung und unbequeme Kritik ziehen niemals Folgen nach sich** - weder unmittelbar noch unter dem Deckmantel eines anderen Grundes (Erklärung, Artikel 10).
+**Schärfe, Ironie, Ablehnung und unbequeme Kritik ziehen niemals Folgen nach sich** - weder unmittelbar noch unter dem Deckmantel eines anderen Grundes (Erklärung, Artikel 4).
 
 ---
 

@@ -193,14 +193,14 @@ Der letzte Schutz des Übergangs ist derselbe wie bei einem reifen Volk: die Fre
 
 Der Genauigkeit halber: Nachbildbar ist nicht das ganze System. Die Pässe und die Einträge über sie liegen in einem öffentlichen Netz, der Code des Vertrags des Passes ist offen, und die Regeln, Schwellen und Verfahren sind in diesen Dokumenten beschrieben - das genügt, um eine neue Plattform gegen dasselbe Register zu bauen. Der Code der Plattform selbst und des Systems der Identitätsprüfung ist verschlossen, weil sie mit personenbezogenen Daten arbeiten (Charta, Artikel 30). Die Fortsetzung des Volkes stützt sich auf das Register und auf die offene Beschreibung und nicht auf die Möglichkeit, unsere Server zu kopieren.
 
-Das verwandelt die Durchsichtigkeit aus einer Bitte um Vertrauen in einen Hebel: Eine Verzögerung der Dezentralisierung wird sowohl merklich als auch mit den Kräften der Gemeinschaft umkehrbar. Derselbe Mechanismus ist in Artikel 13 der Erklärung als letzte Instanz des Schutzes des unabänderlichen Kerns beschrieben.
+Das verwandelt die Durchsichtigkeit aus einer Bitte um Vertrauen in einen Hebel: Eine Verzögerung der Dezentralisierung wird sowohl merklich als auch mit den Kräften der Gemeinschaft umkehrbar. Derselbe Mechanismus ist in Artikel 11 der Erklärung als letzte Instanz des Schutzes des unabänderlichen Kerns beschrieben.
 
 ## Was eine Fortsetzung rechtmäßig macht
 
 Das Recht, das Volk auf einer nicht übernommenen Grundlage fortzusetzen, bedeutet nicht, dass jeder, der eine gleiche Plattform gebaut hat, zu den Earthlings wird. Eine Kopie des Werkzeugs überträgt weder die Menschen noch ihre Wahl noch die angesammelte Legitimität - sie überträgt nur das Werkzeug. Eine rechtmäßige Fortsetzung erkennt man nicht am Besitz der Infrastruktur, sondern an überprüfbaren Merkmalen:
 
 - **der bewahrte Kern** - die Fortsetzung lässt die unabänderlichen Grundlagen der Erklärung unberührt; wer den Kern ändert, schafft begrifflich ein anderes und setzt die Earthlings nicht fort;
-- **der Wille der geprüften Menschen** - das Volk geht dorthin, wohin die Mehrheit der geprüften Teilnehmer frei übergeht, ein Mensch - eine Stimme; die Legitimität tragen die Menschen und nicht die Server und nicht das Repositorium;
+- **der Wille der geprüften Menschen** - das Volk geht dorthin, wohin die Mehrheit derjenigen geprüften Earthlings frei übergeht, die ihren Willen bekunden konnten, ein Mensch - eine Stimme; die Legitimität tragen die Menschen und nicht die Server und nicht das Repositorium;
 - **die Fortdauer der Werte und des Verfahrens** - der Übergang ist offen, überprüfbar und rechenschaftspflichtig nach denselben Regeln, die vor ihm galten.
 
 Deshalb kann weder eine Übernahme sich für das Volk ausgeben noch eine Spaltung um der Spaltung willen sich seinen Namen aneignen: Eine rechtmäßige Fortsetzung hat Merkmale, die sich weder durch das Kopieren von Code noch durch den erneuten Bau einer Plattform fälschen lassen. Das Recht zu gehen schützt das Volk zugleich von zwei Seiten - vor dem, der das Zentrum übernimmt, und vor dem, der seine Kopie als das bezeichnen will, dem die Menschen nicht gefolgt sind.

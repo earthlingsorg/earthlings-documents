@@ -86,7 +86,7 @@ Nun dazu, was anders eingerichtet ist - und wir sprechen vom Bau und nicht von A
 
 **Es wird nachgewiesen, dass ein Teilnehmer ein lebender Mensch ist und dass er einer ist.** Mehrfachanmeldung ist technisch ausgeschlossen, und das ist eine Voraussetzung des Eintritts und kein Wunsch.
 
-**Die Grundlage ist der Abstimmung entzogen.** Zugehörigkeit, Gleichheit der Stimme, das Recht zu gehen sowie die Werte mit ihren Gewährleistungen werden überhaupt nicht zur Abstimmung gestellt - das sind keine Fragen einer erhöhten Schwelle, sondern Fragen, die auf dem Stimmzettel nicht vorkommen (Erklärung, Artikel 8, 9 und 10).
+**Die Grundlage ist der Abstimmung entzogen.** Zugehörigkeit, Gleichheit der Stimme, das Recht zu gehen sowie die Werte mit ihren Gewährleistungen werden überhaupt nicht zur Abstimmung gestellt - das sind keine Fragen einer erhöhten Schwelle, sondern Fragen, die auf dem Stimmzettel nicht vorkommen (Erklärung, Artikel 3, 4 und 5).
 
 **Organisationen nehmen nicht teil.** Zum Volk gehören nur lebende Menschen; eine juristische Person kann weder beitreten noch eine Stimme erhalten noch Einfluss anhäufen.
 

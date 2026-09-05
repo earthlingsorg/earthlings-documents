@@ -99,7 +99,7 @@ Fünf Bestimmungen stehen unter keinen Umständen zur Erörterung. Ein Volk, dem
 - **Der Austritt ist frei.** Jederzeit, ohne Angabe von Gründen. Einen Ausschluss aus dem Volk gibt es nicht.
 - **Das Volk spricht, aber es zwingt nicht.** Gewalt ist ohne Ausnahme ausgeschlossen.
 
-Alle fünf sind in den Artikeln 8, 9 und 10 der Erklärung niedergelegt, in ihrem Artikel 13 aufgezählt und bilden den unabänderlichen Kern. Vorschläge, die auf die Aufhebung oder Einschränkung dieser Grundsätze zielen, werden nicht behandelt. Vorschläge zur Präzisierung der Formulierungen und zur Ergänzung des Kerns werden gleichrangig mit allen behandelt.
+Alle fünf sind in den Artikeln 3, 4 und 5 der Erklärung niedergelegt, in ihrem Artikel 11 aufgezählt und bilden den unabänderlichen Kern. Vorschläge, die auf die Aufhebung oder Einschränkung dieser Grundsätze zielen, werden nicht behandelt. Vorschläge zur Präzisierung der Formulierungen und zur Ergänzung des Kerns werden gleichrangig mit allen behandelt.
 
 Unabänderlich sind die Grundsätze selbst und nicht die Buchstaben, mit denen sie geschrieben sind. Eine Formulierung lässt sich präzisieren, wenn die Präzisierung den Grundsatz nicht einengt und keine Gewährleistung für den Menschen absenkt; im Zweifel gilt sie als absenkend und wird nicht angenommen. Den übrigen Text der Erklärung ist das Volk befugt zu ändern, zu ergänzen und zu kürzen - mit zwei Dritteln der Stimmen und nur so, dass keine Gewährleistung schwächer wird.
 
@@ -185,7 +185,7 @@ Ein Vorschlag **zur Übersetzung** weist darauf hin, dass die Übersetzung den S
 
 Zu welcher Art ein Vorschlag gehört, bestimmt sich nach seinem Inhalt und nicht danach, wie er genannt ist. Deckt ein Vorschlag zur Übersetzung eine Unklarheit des Ausgangstextes selbst auf, so wird er auch als Vorschlag zur Sache behandelt.
 
-**Welcher Text Gegenstand der Abstimmung ist.** Die Abstimmung am 17. Februar 2027 wird über den russischen und den englischen Text geführt: Sie sind als authentisch anerkannt (Erklärung, Artikel 13). Die Texte in den übrigen sieben Sprachen sind amtliche Übersetzungen. Lesen und abstimmen kann man gestützt auf jeden von ihnen, doch bei einer Abweichung gilt die Auslegung, die dem Menschen den höheren Schutz gibt, und löst sie die Abweichung nicht auf, so gilt die Bedeutung des russischen Textes.
+**Welcher Text Gegenstand der Abstimmung ist.** Die Abstimmung am 17. Februar 2027 wird über den russischen und den englischen Text geführt: Sie sind als authentisch anerkannt (Erklärung, Artikel 11). Die Texte in den übrigen sieben Sprachen sind amtliche Übersetzungen. Lesen und abstimmen kann man gestützt auf jeden von ihnen, doch bei einer Abweichung gilt die Auslegung, die dem Menschen den höheren Schutz gibt, und löst sie die Abweichung nicht auf, so gilt die Bedeutung des russischen Textes.
 
 **Die Fertigstellung der Übersetzungen.** Der Bestand in allen neun Sprachen wird bis zur Eröffnung der Einreichung von Vorschlägen am 22. Oktober 2026 mit den russischen Ausgangstexten in Übereinstimmung gebracht. Die endgültigen Fassungen, die zur Abstimmung gestellt werden, werden am 3. Februar 2027 auf Russisch und Englisch veröffentlicht, und die Übersetzungen in die übrigen sieben Sprachen in derselben Frist. Ist eine Übersetzung bis zu diesem Tag nicht fertig, so wird das unmittelbar mitgeteilt, unter Angabe der Sprache und des Grundes; eine nicht fertige Übersetzung für fertig auszugeben werden wir nicht.
 
@@ -209,7 +209,7 @@ Die Übersicht aller eingegangenen Vorschläge und der Antworten darauf wird am 
 
 ## 4. Was nicht behandelt wird
 
-Vorschläge, die auf die Aufhebung oder Einschränkung der Grundsätze zielen, die in den Artikeln 8, 9 und 10 der Erklärung festgelegt und in ihrem Artikel 13 aufgezählt sind, werden nicht behandelt. Vorschläge zur Präzisierung der Formulierungen dieser Artikel werden gleichrangig mit den übrigen behandelt.
+Vorschläge, die auf die Aufhebung oder Einschränkung der Grundsätze zielen, die in den Artikeln 3, 4 und 5 der Erklärung festgelegt und in ihrem Artikel 11 aufgezählt sind, werden nicht behandelt. Vorschläge zur Präzisierung der Formulierungen dieser Artikel werden gleichrangig mit den übrigen behandelt.
 
 Vorschläge zur Ergänzung des unabänderlichen Kerns werden gleichrangig mit den übrigen behandelt und nur bei Erfüllung aller vier Voraussetzungen des oben dargelegten Tests aufgenommen.
 
@@ -225,7 +225,7 @@ Die Identitätsprüfung erfolgt kostenlos und dauert die ganze Phase hindurch an
 
 Der Text wird am 17. Februar 2027 durch Abstimmung angenommen. Es stimmen die Menschen ab, die ihre Identität haben prüfen lassen, nach dem Grundsatz „ein Mensch - eine Stimme“.
 
-Die Abstimmung wird über zwei Texte zugleich geführt - den russischen und den englischen. Beide werden als authentisch angenommen (Erklärung, Artikel 13), deshalb muss der englische Text spätestens am Tag der Veröffentlichung der Übersicht, dem 3. Februar 2027, fertig und veröffentlicht sein: Abstimmen kann man nur über das, was sich vorher lesen lässt.
+Die Abstimmung wird über zwei Texte zugleich geführt - den russischen und den englischen. Beide werden als authentisch angenommen (Erklärung, Artikel 11), deshalb muss der englische Text spätestens am Tag der Veröffentlichung der Übersicht, dem 3. Februar 2027, fertig und veröffentlicht sein: Abstimmen kann man nur über das, was sich vorher lesen lässt.
 
 Der Text gilt als angenommen, wenn drei Voraussetzungen zugleich erfüllt sind:
 
@@ -247,4 +247,4 @@ Andere Anforderungen werden unter keinen Umständen herabgesetzt.
 
 Diese Regeln gelten vom Tag der Eröffnung der Einreichung von Vorschlägen an und treten mit der Annahme des Textes außer Kraft.
 
-Am Tag der Annahme wird Artikel 14 der Erklärung mit den tatsächlichen Angaben der Abstimmung ausgefüllt und bleibt dauerhaft im Text. Der Abschnitt „Status dieser Fassung“ wird in der angenommenen Fassung nicht wiedergegeben.
+Am Tag der Annahme wird Artikel 12 der Erklärung mit den tatsächlichen Angaben der Abstimmung ausgefüllt und bleibt dauerhaft im Text. Der Abschnitt „Status dieser Fassung“ wird in der angenommenen Fassung nicht wiedergegeben.

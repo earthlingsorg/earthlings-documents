@@ -53,7 +53,7 @@ Andere Personen und Strukturen mit technischen Befugnissen über die Plattform g
 
 Auf dem anfänglichen Abschnitt verwendet die Plattform bestehende Modelle künstlicher Intelligenz zur Auswertung von Anregungen, zur Unterstützung von Projekten und zur Selbsttätigkeit bei wiederkehrenden Arbeiten. Künftig wird die Entwicklung eines eigenen Modells erwogen, das an die Aufgaben des Volkes angepasst ist.
 
-Die Grenzen der Anwendung künstlicher Intelligenz legt Artikel 10 der Erklärung fest: Keine digitale Architektur darf eine verdeckte Beeinflussung oder die Unterdrückung der Autonomie des Menschen rechtfertigen. Daraus drei strenge Regeln, die unabhängig davon gelten, welches Modell verwendet wird:
+Die Grenzen der Anwendung künstlicher Intelligenz legt Artikel 3 der Erklärung fest: Keine digitale Architektur darf eine verdeckte Beeinflussung oder die Unterdrückung der Autonomie des Menschen rechtfertigen. Daraus drei strenge Regeln, die unabhängig davon gelten, welches Modell verwendet wird:
 
 - **Die künstliche Intelligenz entscheidet nichts.** Jede ihrer Schlussfolgerungen ist empfehlender Art und ist kein Grund für eine Ablehnung.
 - **Die Grundlagen werden offengelegt.** Ein Mensch, dessen Anregung die künstliche Intelligenz vermerkt hat, erhält eine verständliche Darlegung der Gründe und keine Ablehnung ohne Erläuterung.
@@ -144,7 +144,7 @@ Die Plattform sichert den vollständigen Lauf: vom Auftauchen einer Idee bis zum
 
 Jeder Teilnehmer, der einen Pass hat und die Erklärung unterzeichnet hat, hat eine Stimme. Die Stimme wird weder durch die Menge an Recheneinheiten noch durch die Stellung in Zellen noch durch das Ansehen verstärkt. Wirtschaftliches Gewicht und Stimmrecht sind baulich getrennt und nicht bloß erklärt.
 
-**Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe oder als allgemeine Sanktion beschränkt werden** (Erklärung, Artikel 10; Charta, Artikel 17 und 37). Die in Artikel 22 der Charta vorgesehenen Beschränkungen betreffen die Teilnahme an Zellen, das Recht, Vorschläge einzubringen, und den Zugang zu einzelnen Diensten, nicht aber die Stimme und nicht den Zugang zu den Abstimmungen selbst.
+**Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe oder als allgemeine Sanktion beschränkt werden** (Erklärung, Artikel 4; Charta, Artikel 17 und 37). Die in Artikel 22 der Charta vorgesehenen Beschränkungen betreffen die Teilnahme an Zellen, das Recht, Vorschläge einzubringen, und den Zugang zu einzelnen Diensten, nicht aber die Stimme und nicht den Zugang zu den Abstimmungen selbst.
 
 Der einzige Fall, in dem die Plattform eine Aussetzung der Stimme ausführt, ist ein Beschluss der Vollversammlung nach Artikel 22-bis der Charta wegen einer nachgewiesenen Untergrabung der Unversehrtheit der Abstimmung, für eine Dauer von höchstens 6 Monaten. Die Plattform führt einen solchen Beschluss aus und kann ihn weder einleiten noch aus einem anderen Grund anwenden noch verlängern.
 
@@ -279,7 +279,7 @@ Regelmäßige inhaltliche Abstimmungen, geheime Abstimmung mit überprüfbarer A
 **Abschnitt 4. Der äußere Verkehr - steht bevor.**
 Der Verkehr mit internationalen Organisationen, Universitäten, Forschungseinrichtungen. Die Bereitstellung zusammengefasster Daten zur Auswertung weltweiter Vorgänge. Die Teilnahme des Volkes an der Erörterung von Fragen, die über ein Land hinausgehen.
 
-> **Zur Grenze des vierten Abschnitts.** Die Rede ist vom Recht, gehört zu werden, und nicht von Macht in der Entscheidung. Die Plattform wird nicht zu einem Ort, an dem Beschlüsse gefasst werden, die für jemanden außer den Earthlings selbst verbindlich sind, und kann es nicht werden. Die Befugnisse der Staaten werden nicht berührt (Erklärung, Artikel 7).
+> **Zur Grenze des vierten Abschnitts.** Die Rede ist vom Recht, gehört zu werden, und nicht von Macht in der Entscheidung. Die Plattform wird nicht zu einem Ort, an dem Beschlüsse gefasst werden, die für jemanden außer den Earthlings selbst verbindlich sind, und kann es nicht werden. Die Befugnisse der Staaten werden nicht berührt (Erklärung, Artikel 6).
 
 Die Aufteilung in Gebautes und Bevorstehendes wird ehrlich angeführt: Die Infrastruktur besteht und ist in der Arbeitsumgebung geprüft, doch ihr beweisender und praktischer Wert entsteht mit dem Ansammeln von Teilnahme und nicht im Augenblick der Ausrollung.
 

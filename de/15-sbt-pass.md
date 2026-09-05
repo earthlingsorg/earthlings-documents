@@ -28,7 +28,7 @@ Anders als staatliche Pässe, die an ein Gebiet gebunden sind und eine Staatsang
 - das Einbringen von Vorschlägen und Anregungen;
 - die Teilnahme an den Entscheidungen zu jeder Frage.
 
-> **Die Stimme ist unveräußerlich** und darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung von Beschlüssen oder als allgemeine Sanktion entzogen oder ausgesetzt werden (Erklärung, Artikel 10; [Charta, Artikel 17 und 37](https://earth-lings.org/documents/de/de05-charta.html)). Die Stimme ist der Inhalt der Zugehörigkeit: Entzöge das Volk sie aus solchen Gründen, so schlösse es den Menschen aus und ließe ihm nur den Namen.
+> **Die Stimme ist unveräußerlich** und darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung von Beschlüssen oder als allgemeine Sanktion entzogen oder ausgesetzt werden (Erklärung, Artikel 4; [Charta, Artikel 17 und 37](https://earth-lings.org/documents/de/de05-charta.html)). Die Stimme ist der Inhalt der Zugehörigkeit: Entzöge das Volk sie aus solchen Gründen, so schlösse es den Menschen aus und ließe ihm nur den Namen.
 
 Die einzige Ausnahme sind nachgewiesene Handlungen, die auf die Untergrabung der Unversehrtheit der Abstimmung selbst gerichtet sind: Absprache, Kauf oder Verkauf einer Stimme, Nötigung anderer, Umgehung der Regel „ein Mensch - ein Pass“ (Charta, Artikel 22-bis). Ansichten, der Inhalt der Stimmabgabe und die Ablehnung von Beschlüssen sind in keiner Darstellung ein Grund.
 

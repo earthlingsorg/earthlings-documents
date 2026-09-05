@@ -233,7 +233,7 @@ Den Vorbehalt zur letzten Zeile machen wir selbst: Die rechtlichen Gründe für 
 
 Die genaue Behauptung lautet so: Urkunden über die Zugehörigkeit zu einem Volk gibt es, doch alle bescheinigen sie eine Zugehörigkeit, die aus der Abstammung abgeleitet und vom Staat anerkannt ist. Zum ersten Mal wird eine Zugehörigkeit durch eine Urkunde bescheinigt, die vom Volk selbst ausgegeben ist, weder mit einem Gebiet noch mit einer Abstammung verbunden ist, durch die Entscheidung des Menschen selbst entsteht und von jedermann überprüft werden kann.
 
-Die Behauptung „vom Volk ausgegeben“ beruht nicht auf Worten: Artikel 9 der Erklärung legt fest, dass das Teilnehmerregister und die Prüfung der Identität der Teilnehmer „kein Vermögen einer juristischen Person sind, nicht übertragen, verkauft, verpfändet oder auf andere Weise veräußert werden können und unter keinen Umständen einer juristischen Person folgen“, und dass juristische Personen „nicht die Träger des Volkes sind“. Ohne diese Norm liefe die Behauptung darauf hinaus, dass eine Handelsgesellschaft die Urkunde ausgegeben hat.
+Die Behauptung „vom Volk ausgegeben“ beruht nicht auf Worten: Artikel 9 der Erklärung legt fest, dass das Teilnehmerregister und die Prüfung der Identität der Teilnehmer „kein Vermögen einer juristischen Person sind, nicht übertragen, verkauft, verpfändet oder auf andere Weise veräußert werden können“, und dass juristische Personen „nicht die Träger des Volkes sind“. Ohne diese Norm liefe die Behauptung darauf hinaus, dass eine Handelsgesellschaft die Urkunde ausgegeben hat.
 
 Der Earthling-Pass ersetzt dabei keine staatlichen Urkunden, verleiht keine Staatsangehörigkeit, keine Visa, kein Einreiserecht und keinen konsularischen Schutz. Er bescheinigt die Zugehörigkeit zu einem Volk - das, was staatliche Urkunden überhaupt nicht bescheinigen.
 
@@ -265,7 +265,7 @@ Die Infrastruktur des Volkes der Earthlings ist so gebaut, dass eine Aufzeichnun
 
 ## Ebenen, keine Instanzen
 
-Artikel 7 der Erklärung bestimmt den Gegenstand der Tätigkeit des Volkes durch zwei Merkmale: Kein Staat entscheidet die Frage allein, und die Folgen treffen diejenigen, die keine Stimme hatten. Das ist das Betroffenheitsprinzip, ausgedrückt durch Merkmale und nicht durch eine Aufzählung von Themen.
+Artikel 3 der Erklärung umreißt den Gegenstand der Tätigkeit des Volkes mit dem Betroffenheitsprinzip: Was alle betrifft, wird unter Beteiligung aller entschieden. Das ist ein Prinzip und keine Aufzählung von Themen: Eine Aufzählung veraltet, ein Prinzip veraltet nicht.
 
 Die Ebenen bilden dabei keine Rangordnung: Das Volk der Earthlings überprüft Entscheidungen von Staaten nicht und kann sie nicht aufheben. Es sind verschiedene Ebenen nach dem Kreis der Fragen und keine Stufen nach der Kraft.
 
@@ -471,13 +471,13 @@ Die Selbstbestimmung des Volkes der Earthlings wird mit Mitteln ausgeübt, welch
 
 **Zugehörigkeit statt Hoheitsgewalt** - das Volk bindet nur diejenigen, die ihm beigetreten sind, und nur in den Fragen des eigenen inneren Lebens. Weder ein Gebiet noch Hoheitsgewalt über den physischen Raum, die Ressourcen oder die Bevölkerung von Staaten hat es, und es beansprucht beides auch nicht.
 
-**Das Wort statt der Gewalt** - das einzige Mittel des Volkes ist die Äußerung, die Ansprache und das Argument; die Ausführung seiner Beschlüsse beruht auf der Freiwilligkeit des Teilnehmers. Bewaffnete Verbände, Machtstrukturen und die zwangsweise Durchsetzung von Beschlüssen sind durch Artikel 9 der Erklärung ausgeschlossen, der zum unabänderlichen Kern gehört.
+**Das Wort statt der Gewalt** - das einzige Mittel des Volkes ist die Äußerung, die Ansprache und das Argument; die Ausführung seiner Beschlüsse beruht auf der Freiwilligkeit des Teilnehmers. Bewaffnete Verbände, Machtstrukturen und die zwangsweise Durchsetzung von Beschlüssen sind durch Artikel 5 der Erklärung ausgeschlossen, der zum unabänderlichen Kern gehört.
 
 **Position statt Herrschaft** - das Volk bringt eine überprüfbare kollektive Position hervor und legt sie vor. Besteuerung, Strafgerichtsbarkeit und die Regulierung der Binnenwirtschaft bleiben zur Gänze bei den Staaten; Ansprüche darauf erhebt das Volk nicht.
 
 **Ergänzung statt Ersetzung** - die Zugehörigkeit zum Volk tritt zu dem hinzu, was ein Mensch bereits hat, und berührt seine Staatsangehörigkeit, seine Steuerpflichten und seinen Gerichtsstand nicht. Bei einer Kollision des anwendbaren Rechts haben die zwingenden Normen der jeweiligen nationalen Rechtsordnung Vorrang.
 
-Ein Gegenstand des Zusammenstoßes entsteht dabei nicht, und zwar nicht deshalb, weil das Volk unter Druck auf etwas verzichtet hätte, sondern weil Anspruch und Gewährleistung hier von verschiedener Natur sind. Der Verzicht auf Gewalt in Artikel 9 der Erklärung ist eine Verpflichtung des Volkes gegenüber sich selbst und gegenüber dem Menschen, kein Zugeständnis an die Staaten: Er gälte auch dann, wenn es keinerlei Streit über die territoriale Unversehrtheit gäbe.
+Ein Gegenstand des Zusammenstoßes entsteht dabei nicht, und zwar nicht deshalb, weil das Volk unter Druck auf etwas verzichtet hätte, sondern weil Anspruch und Gewährleistung hier von verschiedener Natur sind. Der Verzicht auf Gewalt in Artikel 5 der Erklärung ist eine Verpflichtung des Volkes gegenüber sich selbst und gegenüber dem Menschen, kein Zugeständnis an die Staaten: Er gälte auch dann, wenn es keinerlei Streit über die territoriale Unversehrtheit gäbe.
 
 ---
 

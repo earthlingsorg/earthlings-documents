@@ -294,7 +294,7 @@ Ein Earthling kann seine Stimme in einem einzelnen Sachgebiet einem anderen Eart
 
 ## Artikel 8-bis. Die Messung des gemeinsamen Willens
 
-Das Volk der Earthlings bekundet den gemeinsamen Willen zu Fragen, die den Merkmalen des Artikels 7 der Erklärung entsprechen. Die Grenzen einer solchen Bekundung sind in den Artikeln 9 und 13 der Erklärung festgelegt.
+Das Volk der Earthlings bekundet den gemeinsamen Willen zu Fragen, die alle betreffen - Artikel 3 der Erklärung. Die Grenzen einer solchen Bekundung sind in den Artikeln 5 und 11 der Erklärung festgelegt.
 
 Den Wortlaut der Frage billigen weder diejenigen, die das Volk operativ führen, noch diejenigen, die die Messung durchführen. Die Frage wird vor der Eröffnung der Abstimmung veröffentlicht und kann angefochten werden; nach der Eröffnung der Abstimmung wird die Frage nicht mehr redigiert.
 
@@ -840,7 +840,7 @@ Diese Charta tritt nach ihrer Veröffentlichung auf der Website des Volkes der E
 
 Ein festgestellter Widerspruch der Charta zur Erklärung wird dadurch beseitigt, dass die Charta mit der Erklärung in Einklang gebracht wird, und nicht umgekehrt.
 
-**Die Trennung der Gegenstände.** Die Erklärung legt die Grundsätze, die Gewährleistungen für den Menschen und die Grenzen des Volkes fest. Die Grundsätze ihres unabänderlichen Kerns werden niemals aufgehoben; die Formulierungen dieser Grundsätze und ihre übrigen Bestimmungen werden nur von der Vollversammlung geändert, nach Artikel 13 der Erklärung und nur so, dass keine Gewährleistung für den Menschen schwächer wird. Die Charta legt die Mechanismen, Schwellen, Fristen und Verfahren fest; sie wird nach Artikel 36 geändert. Zahlenwerte, technische Mittel und organisatorische Einzelheiten werden nicht in die Erklärung übernommen.
+**Die Trennung der Gegenstände.** Die Erklärung legt die Grundsätze, die Gewährleistungen für den Menschen und die Grenzen des Volkes fest. Die Grundsätze ihres unabänderlichen Kerns werden niemals aufgehoben; die Formulierungen dieser Grundsätze und ihre übrigen Bestimmungen werden nur von der Vollversammlung geändert, nach Artikel 11 der Erklärung und nur so, dass keine Gewährleistung für den Menschen schwächer wird. Die Charta legt die Mechanismen, Schwellen, Fristen und Verfahren fest; sie wird nach Artikel 36 geändert. Zahlenwerte, technische Mittel und organisatorische Einzelheiten werden nicht in die Erklärung übernommen.
 
 ## Artikel 39. Die Phase des Strukturaufbaus
 

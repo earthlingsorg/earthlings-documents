@@ -28,7 +28,7 @@ Dabei erstreckt sich die Durchsichtigkeit auf das Handeln der Einrichtungen und 
 
 Jeder Earthling hat nach dem Grundsatz „ein Mensch - eine Stimme“ eine gleiche Stimme. Ansehen, Beitrag und Erfahrung können bei der Erörterung berücksichtigt werden, verwandeln sich aber nicht in ein zusätzliches Gewicht der Stimme, öffnen den Zugang zu keiner Rolle und begründen keine bevorrechtigten Klassen von Teilnehmern.
 
-**Die Stimme ist unveräußerlich.** Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung von Beschlüssen oder als allgemeine Sanktion entzogen oder ausgesetzt werden (Erklärung, Artikel 10; Charta, Artikel 17 und 37). Die in Artikel 22 der Charta vorgesehenen Beschränkungen betreffen die Teilnahme an Zellen, das Recht, Vorschläge einzubringen, und den Zugang zu einzelnen Diensten, nicht aber die Stimme.
+**Die Stimme ist unveräußerlich.** Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung von Beschlüssen oder als allgemeine Sanktion entzogen oder ausgesetzt werden (Erklärung, Artikel 4; Charta, Artikel 17 und 37). Die in Artikel 22 der Charta vorgesehenen Beschränkungen betreffen die Teilnahme an Zellen, das Recht, Vorschläge einzubringen, und den Zugang zu einzelnen Diensten, nicht aber die Stimme.
 
 Die einzige Ausnahme sind nachgewiesene Handlungen, die auf die Untergrabung der Unversehrtheit der Abstimmung selbst gerichtet sind: Absprache, Kauf oder Verkauf einer Stimme, Nötigung anderer, Umgehung der Regel „ein Mensch - ein Pass“ (Charta, Artikel 22-bis). Ansichten, der Inhalt der Stimmabgabe und die Ablehnung von Beschlüssen sind in keiner Darstellung ein Grund.
 
@@ -112,7 +112,7 @@ Teilnahme, Beitrag und Sachkunde werden in unveräußerlichen Vermerken festgeha
 
 ## Die Abschnitte
 
-**1. Die Einleitung.** Jeder Earthling bringt einen Vorschlag ein. Eine vorherige Billigung, das Sammeln von Unterschriften und eine Schwelle der Unterstützung sind für das Einbringen nicht erforderlich: Das Initiativrecht steht jedem zu (Erklärung, Artikel 10). Dem Vorschlag werden eine Beschreibung des Ziels, des Zusammenhangs, der Alternativen, der Risiken und der vermuteten Wirkung beigefügt.
+**1. Die Einleitung.** Jeder Earthling bringt einen Vorschlag ein. Eine vorherige Billigung, das Sammeln von Unterschriften und eine Schwelle der Unterstützung sind für das Einbringen nicht erforderlich: Das Initiativrecht steht jedem zu (Erklärung, Artikel 4). Dem Vorschlag werden eine Beschreibung des Ziels, des Zusammenhangs, der Alternativen, der Risiken und der vermuteten Wirkung beigefügt.
 
 **2. Die Erörterung.** Ein Zeitraum öffentlicher Erörterung, in dem die Teilnehmer Fragen stellen, Änderungen vorschlagen und die Voraussetzungen kritisieren. Die Fristen legt die Charta fest.
 
@@ -136,7 +136,7 @@ Geheim wird zwingend abgestimmt bei der Behandlung der Frage einer Beschränkung
 
 ## Die Messung des gemeinsamen Willens - kein Beschluss
 
-Dieser Abschnitt beschreibt, wie das Volk Beschlüsse über das eigene Leben fasst. Die Bekundung der Position des Volkes zu Fragen, die den Merkmalen des Artikels 7 der Erklärung entsprechen, ist kein Beschluss: Das Volk beschließt damit nichts, sondern äußert sich. Das Verfahren der Messung, die Anforderungen an die Bildung der Frage, der Umfang des Veröffentlichten und das Vorgehen bei einer mangelhaften Messung sind in der [Charta, Artikel 8-bis](https://earth-lings.org/documents/de/de05-charta.html) festgelegt; im Übrigen wird das Verfahren durch Beschluss der Vollversammlung festgelegt.
+Dieser Abschnitt beschreibt, wie das Volk Beschlüsse über das eigene Leben fasst. Die Bekundung der Position des Volkes zu Fragen, die alle betreffen (Artikel 3 der Erklärung), ist kein Beschluss: Das Volk beschließt damit nichts, sondern äußert sich. Das Verfahren der Messung, die Anforderungen an die Bildung der Frage, der Umfang des Veröffentlichten und das Vorgehen bei einer mangelhaften Messung sind in der [Charta, Artikel 8-bis](https://earth-lings.org/documents/de/de05-charta.html) festgelegt; im Übrigen wird das Verfahren durch Beschluss der Vollversammlung festgelegt.
 
 ## Die Reihenfolge der Vorschläge
 

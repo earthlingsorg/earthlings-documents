@@ -57,7 +57,7 @@ Braucht ein Projekt mehr Menschen, so werden mehrere Zellen gebildet und nicht e
 
 **2. Die erste Auswertung.** Unterstützende Werkzeuge künstlicher Intelligenz prüfen die Übereinstimmung mit der Erklärung und der Ethik, das Fehlen offenkundiger Konflikte, die ungefähre Durchführbarkeit und schlagen bei Bedarf Verbesserungen der Formulierungen vor.
 
-> **Drei Regeln, die unabhängig davon gelten, welches Modell verwendet wird** (Erklärung, Artikel 10):
+> **Drei Regeln, die unabhängig davon gelten, welches Modell verwendet wird** (Erklärung, Artikel 3):
 > - **die künstliche Intelligenz entscheidet nichts** - jede ihrer Schlussfolgerungen ist empfehlend und begründet keine Ablehnung;
 > - **die Grundlagen werden offengelegt** - der Einleitende erhält eine verständliche Darlegung der Gründe und keinen Vermerk ohne Erläuterung;
 > - **eine Überprüfung durch einen Menschen ist gewährleistet** - der Einleitende ist befugt, eine Behandlung durch einen Menschen zu verlangen, und sie wird in der festgelegten Frist durchgeführt.
