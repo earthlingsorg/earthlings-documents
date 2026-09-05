@@ -2,7 +2,7 @@
 
 **Why it can be left unheard today, what we are doing about it, and what it may grow into**
 
-> This document unfolds one provision of the Declaration. Article 7 states that the Earthlings people forms a verifiable collective position of its participants and conveys it to states and international organizations, and that the force of that position is determined not by the powers of the people but by the free participation of persons, the transparency of the procedures, and the ability to verify the result.
+> This document unfolds one provision of the Declaration. Article 6 states that the Earthlings people forms a verifiable collective position of its participants and conveys it to states and international organizations, and that the force of that position is determined not by the powers of the people but by the free participation of persons, the transparency of the procedures, and the ability to verify the result.
 >
 > What that means in practice is explained here: why a civic voice can be left unheard today without being rejected on the merits; what exactly we are building instead; why this required constituting a people rather than building a single tool; by what rungs such a voice gains weight; and how the whole thing may end badly.
 >

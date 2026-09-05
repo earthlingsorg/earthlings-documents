@@ -513,7 +513,7 @@ The inactivity mechanism protects the system from an artificial inflation of quo
 
 As a general rule an SBT passport is burned only by the holder themselves (Article 18). This Article establishes **two and only two** exceptions to that rule.
 
-> **Why death is not on this list.** Belonging ends upon the death of a person - this is established by Article 8 of the Declaration and occurs of itself, without anyone's decision. A passport is not burned on that ground, and for the following reasons. The people has, and can have, no access to records of death across the world: such a ground would rest on information whose reliability there is no way to check, and it would become the cheapest way to remove a participant - without notice, without a period for objections and without appeal, since all of these presuppose the person's presence. Nor does burning provide protection against voting with someone else's key: it cannot outrun knowledge of the death. The practical side is covered by Article 20: whoever does not take part is deemed inactive, their vote is not counted towards the quorum, and the passport is retained. The system does not need to know why a person stopped taking part.
+> **Why death is not on this list.** Belonging ends upon the death of a person - this is established by Article 4 of the Declaration and occurs of itself, without anyone's decision. A passport is not burned on that ground, and for the following reasons. The people has, and can have, no access to records of death across the world: such a ground would rest on information whose reliability there is no way to check, and it would become the cheapest way to remove a participant - without notice, without a period for objections and without appeal, since all of these presuppose the person's presence. Nor does burning provide protection against voting with someone else's key: it cannot outrun knowledge of the death. The practical side is covered by Article 20: whoever does not take part is deemed inactive, their vote is not counted towards the quorum, and the passport is retained. The system does not need to know why a person stopped taking part.
 
 ### 1. Annulment of an Invalid Issuance
 
@@ -790,7 +790,7 @@ The Earthlings people does not interfere in the internal affairs of states and t
 
 ## Article 35. Legal Personality
 
-The Earthlings people works towards legal cognizability: towards being treated as a people wherever a specific question arises. No organ that recognizes peoples exists for anyone, so cognizability accumulates through practice, time and the number of participants, and is not issued by decision. As stated in Article 7 of the Declaration, law has not yet addressed the question of the acquisition of international legal personality by a community that has never held territory.
+The Earthlings people works towards legal cognizability: towards being treated as a people wherever a specific question arises. No organ that recognizes peoples exists for anyone, so cognizability accumulates through practice, time and the number of participants, and is not issued by decision. Law has not yet addressed the question of the acquisition of international legal personality by a community that has never held territory.
 
 Until legal cognizability has accumulated, the people operates for external dealings through legally registered structures - replaceable legal interfaces - in the relevant jurisdictions. The legal strategy is described in the document [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html).
 

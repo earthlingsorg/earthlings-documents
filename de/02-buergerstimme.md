@@ -2,7 +2,7 @@
 
 **Warum sie heute überhört werden kann, was wir dagegen tun und wozu das heranwachsen kann**
 
-> Dieses Dokument entfaltet eine einzige Bestimmung der Erklärung. Artikel 7 sagt, dass das Volk der Earthlings eine überprüfbare kollektive Position seiner Teilnehmer bildet und sie den Staaten und den internationalen Organisationen zur Kenntnis bringt, und dass sich die Kraft dieser Position nicht nach den Befugnissen des Volkes bestimmt, sondern nach der freien Teilnahme der Menschen, der Transparenz der Verfahren und der Möglichkeit, das Ergebnis zu überprüfen.
+> Dieses Dokument entfaltet eine einzige Bestimmung der Erklärung. Artikel 6 sagt, dass das Volk der Earthlings eine überprüfbare kollektive Position seiner Teilnehmer bildet und sie den Staaten und den internationalen Organisationen zur Kenntnis bringt, und dass sich die Kraft dieser Position nicht nach den Befugnissen des Volkes bestimmt, sondern nach der freien Teilnahme der Menschen, der Transparenz der Verfahren und der Möglichkeit, das Ergebnis zu überprüfen.
 >
 > Hier ist erklärt, was das in der Praxis bedeutet: warum die Bürgerstimme heute überhört werden kann, ohne sie in der Sache zu bestreiten; was genau wir stattdessen bauen; warum es dafür nötig war, ein Volk zu konstituieren, statt ein einzelnes Werkzeug zu bauen; über welche Stufen eine solche Stimme an Gewicht gewinnt; und wodurch das alles schlecht ausgehen kann.
 >
