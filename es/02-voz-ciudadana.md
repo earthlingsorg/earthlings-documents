@@ -686,7 +686,7 @@ Sonará el primer día, en cuanto la medición empiece a significar algo. Mire l
 
 Los cinco principios del núcleo se leen como valores. Mírelos como un pliego de requisitos técnicos.
 
-«El voto no se puede comprar, vender, acumular ni ceder de forma irrevocable» es el requisito de que el resultado de la medición no se pueda adquirir. «El patrimonio está separado del voto», de que el peso en la medición no se compre con dinero. «El poder no se acumula, un encargo no se convierte en cargo», de que el instrumento no lo capturen desde dentro quienes lo atienden. «La salida es libre, la expulsión no existe», de que el denominador no se pueda limpiar de los incómodos. «El pueblo habla, pero no coacciona», de que el instrumento no se pueda convertir en arma y, por tanto, de que lo usen las dos partes.
+«El voto no se puede comprar, vender, acumular ni ceder de manera irrevocable» es el requisito de que el resultado de la medición no se pueda adquirir. «El patrimonio está separado del voto», de que el peso en la medición no se compre con dinero. «El poder no se acumula, un encargo no se convierte en cargo», de que el instrumento no lo capturen desde dentro quienes lo atienden. «La salida es libre, la expulsión no existe», de que el denominador no se pueda limpiar de los incómodos. «El pueblo habla, pero no coacciona», de que el instrumento no se pueda convertir en arma y, por tanto, de que lo usen las dos partes.
 
 Ahora pregunte: ¿qué protege de la captura a un instrumento que pertenece a una fundación? La buena fe del patronato. No se hereda, no se verifica desde fuera y no sobrevive a un cambio de composición.
 

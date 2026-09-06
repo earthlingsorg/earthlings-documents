@@ -68,7 +68,7 @@ Au sein du peuple des Earthlings, le gouvernement du peuple repose sur trois con
 
 **La liberté.** La liberté, telle que l'entend le peuple des Earthlings, est l'absence de domination et de suprématie d'une personne ou d'un groupe de personnes sur les autres: nul ne peut détenir de pouvoir sur une autre personne - ni par l'argent, ni par les mérites, ni par la position.
 
-**La dignité.** Toute personne naît égale en dignité. La dignité de la personne est inviolable. Nulle personne ne peut être réduite à l'état de moyen au service d'une manipulation, d'une exploitation ou d'une humiliation.
+**La dignité.** Toute personne naît égale en dignité. La dignité de la personne est inviolable. Nul ne peut être utilisé comme un moyen: ni pour le manipuler, ni pour l'exploiter, ni pour l'humilier.
 
 **La solidarité planétaire.** Ce qui concerne tous se décide avec la participation de tous. Une personne appartient à la fois à son pays, à ses communautés et à l'humanité entière. Ces formes d'appartenance se complètent et ne se contredisent pas.
 
@@ -88,8 +88,8 @@ Le noyau intangible existe pour protéger la personne contre le pouvoir du peupl
 
 Ce qui est énuméré ici appartient à chaque earthling dès la signature de la présente Déclaration. Ces garanties ne peuvent être ni abrogées, ni restreintes, ni subordonnées à des conditions.
 
-**Le droit d'appartenir.** L'appartenance au peuple des Earthlings est inaliénable. Nul ne peut être exclu pour quelque motif que ce soit. Une personne cesse de faire partie du peuple par sa seule décision:
-- à tout moment, sans avoir à s'expliquer et sans l'accord de quiconque
+**Le droit d'appartenir.** L'appartenance au peuple des Earthlings est inaliénable. Nul ne peut être exclu pour quelque motif que ce soit. Une personne cesse de faire partie du peuple dans deux cas seulement:
+- par sa propre décision - à tout moment, sans avoir à s'expliquer et sans l'accord de quiconque
 - par l'effet de son décès.
 
 La liste de ces motifs est fermée: elle ne peut être interprétée extensivement, ni par la Charte des Earthlings, ni par une décision.
@@ -98,7 +98,7 @@ La liste de ces motifs est fermée: elle ne peut être interprétée extensiveme
 
 **Le droit de participer.** Tout earthling a le droit de prendre part au débat et aux décisions sur toute question relative à la vie du peuple, de faire des propositions et de soulever des questions. Aucune approbation préalable n'est requise à cette fin.
 
-**Le droit d'être entendu.** Le peuple des Earthlings ne prend de décision à l'égard d'une personne déterminée que dans deux cas: lorsque la délivrance d'un passeport est annulée et lorsque la participation au vote est restreinte temporairement. Les motifs en sont établis par l'article 8, leur liste est fermée, et il n'en existe pas d'autres. Dans les deux cas, il est garanti à la personne de connaître les motifs en temps utile, de présenter ses objections, de recevoir une réponse à l'issue de leur examen et de former un recours contre la décision selon la procédure établie par la Charte des Earthlings.
+**Le droit d'être entendu.** Le peuple des Earthlings ne restreint les droits d'une personne déterminée que dans deux cas: lorsque la délivrance d'un passeport est annulée et lorsque la participation au vote est restreinte temporairement. Les motifs en sont établis par l'article 8, leur liste est fermée, et il n'en existe pas d'autres. Mais toute décision concernant une personne déterminée qui lui est défavorable, y compris le refus de la vérification d'identité et la révocation d'une mission, n'est prise que de la manière suivante: il est garanti à la personne de connaître les motifs en temps utile, de présenter ses objections, de recevoir une réponse à l'issue de leur examen et de former un recours contre la décision selon la procédure établie par la Charte des Earthlings.
 
 **Le droit de sortir librement du peuple.** Chacun a le droit de mettre fin à tout moment à son appartenance au peuple des Earthlings. La sortie n'exige ni explication, ni autorisation, ni l'accord de quiconque. Nul n'a le droit d'y faire obstacle.
 
@@ -114,7 +114,7 @@ Le peuple des Earthlings fixe ses propres limites par le présent article. Elles
 
 **Les limites des pouvoirs.** Le peuple des Earthlings n'assume que les pouvoirs nécessaires à son existence. Les décisions du peuple ne concernent que les earthlings.
 
-**La liberté de la personne hors du peuple.** La manière dont chaque earthling use de ses droits hors du peuple n'entraîne aucune conséquence pour le peuple.
+**La liberté de la personne hors du peuple.** La manière dont un earthling use de ses droits hors du peuple ne regarde que lui. Le peuple des Earthlings ne la juge pas et n'y attache aucune conséquence: ni pour la personne, ni pour lui-même.
 
 **Le respect du droit de l'État.** Le peuple des Earthlings n'a pas le droit d'exiger d'un earthling la violation des normes impératives du droit de l'État dont cet earthling a la nationalité ou dans lequel il réside. Si une décision du peuple entre en contradiction avec ce droit, l'earthling suit le droit de son État et n'encourt de ce fait aucune responsabilité envers le peuple des Earthlings.
 
@@ -157,7 +157,7 @@ Le peuple des Earthlings ne formule aucune revendication territoriale.
 
 ## Article 8. L'appartenance au peuple
 
-**Comment naît l'appartenance.** L'appartenance au peuple des Earthlings est volontaire: elle naît et prend fin par la seule décision de la personne elle-même, hors les cas énoncés au présent article.
+**Comment naît l'appartenance.** L'appartenance au peuple des Earthlings est volontaire: elle naît par la décision de la personne elle-même dans les conditions énoncées au présent article, et elle ne prend fin que pour les motifs établis par l'article 4.
 
 L'appartenance ne naît pas avant l'âge établi par la Charte des Earthlings. Cet âge ne peut être inférieur à 16 ans, et nul n'a le droit de l'abaisser.
 
@@ -167,7 +167,7 @@ Aucune autre condition d'appartenance n'est établie ni ne peut l'être. L'appar
 
 Il n'existe pas de décision d'admission dans le peuple: le peuple n'examine pas de demandes, n'évalue personne et ne refuse personne.
 
-**La cotisation.** Une cotisation est versée à l'entrée; elle couvre la vérification d'identité, la délivrance du passeport earthling et l'entretien de l'infrastructure. La cotisation n'achète pas l'appartenance et ne crée aucun avantage. L'impossibilité de la verser soi-même ne ferme pas l'entrée dans le peuple: la cotisation peut être acquittée pour cette personne par un tiers ou prise en charge sur le trésor commun.
+**La cotisation.** Une cotisation est versée à l'entrée; elle couvre la vérification d'identité, la délivrance du passeport earthling et l'entretien de l'infrastructure. La cotisation n'est pas une condition de l'appartenance: elle n'achète pas l'appartenance et ne crée aucun avantage. L'impossibilité de la verser soi-même ne ferme pas l'entrée dans le peuple: la cotisation peut être acquittée pour cette personne par un tiers ou prise en charge sur le trésor commun.
 
 **Il n'existe pas d'exigence insurmontable.** Aucune exigence relative à l'entrée ou à la participation ne peut être telle qu'une personne soit hors d'état d'y satisfaire en raison de circonstances indépendantes de sa volonté. L'absence de documents, l'indisponibilité des moyens de communication, l'état de santé, l'éloignement du lieu de résidence et d'autres circonstances semblables ne ferment à la personne ni l'entrée dans le peuple ni la participation à ses décisions. L'impossibilité de satisfaire à une exigence n'est pas imputée à faute et ne constitue pas un motif de refus de la vérification d'identité.
 
@@ -175,15 +175,15 @@ Il n'existe pas de décision d'admission dans le peuple: le peuple n'examine pas
 
 **L'appartenance s'ajoute, elle ne remplace pas.** L'appartenance au peuple des Earthlings s'ajoute à ce que la personne a déjà. Elle n'impose de renoncer à aucune autre appartenance et n'affecte pas les droits et les obligations de la personne envers son État.
 
-**L'égalité des earthlings.** Dès l'instant où une personne a signé la Déclaration, elle est l'égale de tout autre earthling. Ni la date de la signature, ni la participation à la constitution du peuple, ni la durée de la participation, ni le montant des dons volontaires, ni les missions exercées ne créent d'avantage, de privilège ou de situation particulière. Aucune langue, aucune région et aucune culture ne bénéficie d'un avantage dans le peuple.
+**L'égalité des earthlings.** Dès l'instant où une personne a signé la Déclaration, elle est l'égale de tout autre earthling. Ni la date de la signature, ni la participation à la constitution du peuple, ni la durée de la participation, ni le montant des dons volontaires, ni les missions exercées ne créent d'avantage, de privilège ou de situation particulière. Aucune langue, aucune région et aucune culture ne bénéficie d'un avantage dans le peuple. La manière d'interpréter les divergences entre les textes de la présente Déclaration est établie par l'article 11 et ne crée aucun avantage pour ceux qui parlent telle ou telle langue.
 
 Il n'existe pas de classe de fondateurs dans le peuple des Earthlings.
 
 **La vie privée.** Le peuple des Earthlings ne s'immisce pas dans la vie privée de la personne. La foi, la vision du monde, les opinions politiques, la participation à d'autres communautés et le mode de vie ne sont pas une condition de l'appartenance au peuple.
 
-**L'annulation de la délivrance du passeport.** La délivrance du passeport est annulée dans trois cas, et leur liste est fermée:
+**L'annulation de la délivrance du passeport.** La délivrance du passeport est annulée dans trois cas, et leur liste est fermée. Dans aucun d'eux l'annulation ne met fin à l'appartenance de la personne au peuple:
 
-1. plus d'un passeport en cours de validité a été délivré à une même personne - dans ce cas la délivrance de tous les passeports est annulée sauf celle du premier délivré, et l'appartenance de la personne est maintenue;
+1. plus d'un passeport en cours de validité a été délivré à une même personne - dans ce cas la délivrance de tous les passeports est annulée sauf celle du premier délivré;
 2. la vérification de l'identité a été obtenue au moyen d'informations falsifiées ou de l'identité d'autrui;
 3. le passeport a été délivré à une personne n'ayant pas atteint l'âge établi par la Charte des Earthlings.
 
@@ -221,7 +221,7 @@ La technologie, dans le peuple des Earthlings, n'est qu'un moyen. Elle ne crée 
 
 Les moyens techniques ne sont employés que là où, sans eux, il est impossible de remplir les trois conditions énoncées à l'article 2.
 
-**L'unicité de la participation.** Derrière chaque earthling se tient une seule personne vivante, et cela est attesté sans que son identité soit divulguée.
+**L'unicité de la participation.** À une seule personne vivante correspond une et une seule appartenance au peuple, et cela est attesté sans que son identité soit divulguée.
 
 **L'inaliénabilité de la voix.** Le droit de participer appartient à la personne elle-même et ne peut être ni acheté, ni vendu, ni approprié, ni transmis de façon irrévocable.
 
@@ -264,13 +264,13 @@ Toute tentative de contourner le noyau par une autre procédure, une autre réda
 
 Une décision contraire à la Partie I est nulle dès son adoption. Ni l'écoulement du temps, ni l'exécution de la décision, ni l'absence d'objections ne la couvrent. Au moindre doute, les dispositions de la Partie I s'interprètent en faveur de la personne et contre l'extension des pouvoirs d'une institution, d'une mission ou d'une procédure du peuple des Earthlings.
 
-**Ce qui est modifiable.** La Partie II de la présente Déclaration peut être modifiée, complétée ou réduite par une décision que l'Assemblée adopte par les deux tiers au moins des voix exprimées, avec un quorum établi par la Charte des Earthlings et qui ne peut être inférieur au quorum auquel la présente Déclaration a été adoptée.
+**Ce qui est modifiable.** La Partie II de la présente Déclaration peut être modifiée, complétée ou réduite par une décision que l'Assemblée adopte par les deux tiers au moins des voix exprimées, avec un quorum établi par la Charte des Earthlings et qui ne peut être inférieur au rapport entre les voix exprimées et le nombre de personnes vérifiées consigné à l'article 12.
 
 Une modification ne peut abaisser aucune garantie de la personne établie par la présente Déclaration. Une modification adoptée en violation de ces conditions est nulle dès son adoption.
 
 Chaque version de la présente Déclaration est publiée de manière que les versions antérieures et toutes les différences entre elles restent accessibles à toute personne. Le remplacement du texte sans conservation du précédent ne constitue pas une modification de la Déclaration.
 
-**Les limites de la transformation.** Le peuple des Earthlings ne peut être transformé en État numérique, en micronation, en parti politique, en organisation à but non lucratif, en société commerciale, en organisation religieuse ou en formation paramilitaire. Une décision tendant à une telle transformation est nulle dès son adoption.
+**Les limites de la transformation.** Le peuple des Earthlings ne peut être transformé en État numérique, en micronation, en parti politique, en organisation à but non lucratif, en société commerciale, en organisation religieuse ou en formation paramilitaire. Une décision tendant à une telle transformation est nulle dès son adoption. La constitution de personnes morales selon l'article 9 n'est pas une transformation: ces personnes n'incarnent pas le peuple et ne s'y substituent pas.
 
 **La protection de la Déclaration.** La protection de la présente Déclaration est assurée par sa vérifiabilité. Le texte de la Déclaration est publié sous une forme permettant à chacun de s'assurer de son authenticité et de suivre toute modification qui y a été apportée.
 
@@ -279,7 +279,7 @@ Chaque version de la présente Déclaration est publiée de manière que les ver
 N'est une continuation légitime du peuple des Earthlings que celle qui réunit trois conditions à la fois:
 
 1. les principes du noyau intangible sont intégralement conservés; celui qui les modifie crée par définition une autre entité;
-2. la continuation est fondée sur la libre volonté de la majorité de ceux des earthlings vérifiés qui ont pu l'exprimer, avec un quorum non inférieur à celui qu'établit la Charte des Earthlings; la volonté s'exprime selon le principe « une personne - une voix »;
+2. la continuation est fondée sur la libre volonté de la majorité de ceux des earthlings vérifiés qui ont pu l'exprimer; la volonté s'exprime selon le principe « une personne - une voix »;
 3. le passage s'accomplit de façon ouverte et vérifiable.
 
 Ni la possession de l'infrastructure, ni la détention du code informatique, ni le contrôle de personnes morales ne constituent par eux-mêmes une continuation du peuple.
@@ -298,7 +298,7 @@ La présente Déclaration a été adoptée le \_\_\_\_\_\_\_\_\_\_ par le vote d
 
 À compter de ce jour, le peuple des Earthlings est constitué, et les signataires de la présente Déclaration sont des earthlings.
 
-L'intangibilité des principes énoncés à l'article 11 repose sur la décision de ceux qu'ils lient.
+L'intangibilité des principes de la Partie I repose sur la décision de ceux qu'ils lient.
 
 ---
 

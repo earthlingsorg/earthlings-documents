@@ -4,7 +4,7 @@
 
 La presente versión es constituyente. El pueblo Earthlings queda constituido con su adopción.
 
-Hasta su adopción, el texto de la Declaración está abierto a las propuestas de cualquier persona. Ni la incorporación al pueblo, ni la verificación de identidad, ni la conformidad con lo aquí expuesto son necesarias para presentar una propuesta. Las propuestas, incluidas las rechazadas, se publican junto con la respuesta a ellas y el motivo del rechazo.
+Hasta su adopción, el texto de la Declaración está abierto a las propuestas de cualquier persona. Ni la incorporación al pueblo, ni la verificación de identidad, ni la conformidad con lo aquí expuesto son necesarias para presentar una propuesta. Cada propuesta se publica junto con la respuesta a ella, y la rechazada, con el motivo del rechazo.
 
 Las propuestas y sus respuestas se publican en un registro abierto: <https://github.com/earthlingsorg/earthlings-documents>. El registro es accesible a cualquier persona sin inscripción ni autorización; cada cambio del texto se ve en él línea por línea y está ligado a la propuesta que lo originó.
 
@@ -68,7 +68,7 @@ En el pueblo Earthlings, el gobierno del pueblo se asienta en tres condiciones, 
 
 **La libertad.** La libertad, tal como la entiende el pueblo Earthlings, es la ausencia de dominación y de superioridad de una persona o de un grupo de personas sobre las demás: nadie puede tener poder sobre otra persona, ni con dinero, ni con méritos, ni con posición.
 
-**La dignidad.** Toda persona nace igual en dignidad. La dignidad de la persona es inviolable. Ninguna persona puede ser convertida en medio para la manipulación, la explotación o la humillación ajenas.
+**La dignidad.** Toda persona nace igual en dignidad. La dignidad de la persona es inviolable. Nadie puede ser usado como medio: ni para manipularlo, ni para explotarlo, ni para humillarlo.
 
 **La solidaridad planetaria.** Lo que afecta a todos se decide con la participación de todos. Una persona pertenece a la vez a su país, a sus comunidades y a toda la humanidad. Estas formas de pertenencia se complementan entre sí y no se contradicen.
 
@@ -88,8 +88,8 @@ El núcleo intangible existe para proteger a la persona frente al poder del prop
 
 Lo aquí enumerado corresponde a cada earthling desde el momento de la firma de la presente Declaración. Estas garantías no pueden ser derogadas, restringidas ni condicionadas.
 
-**Derecho a pertenecer.** La pertenencia al pueblo Earthlings es inalienable. No se puede expulsar a nadie por motivo alguno. La persona deja de formar parte del pueblo únicamente por decisión propia:
-- en cualquier momento, sin explicar los motivos y sin el consentimiento de nadie
+**Derecho a pertenecer.** La pertenencia al pueblo Earthlings es inalienable. No se puede expulsar a nadie por motivo alguno. La persona deja de formar parte del pueblo únicamente en dos casos:
+- por decisión propia - en cualquier momento, sin explicar los motivos y sin el consentimiento de nadie
 - a consecuencia de su muerte.
 
 La lista de estos motivos es cerrada: no cabe interpretarla de manera extensiva, ni por la Carta ni por decisión alguna.
@@ -98,7 +98,7 @@ La lista de estos motivos es cerrada: no cabe interpretarla de manera extensiva,
 
 **Derecho a participar.** Todo earthling puede participar en el debate y en la adopción de decisiones sobre cualquier cuestión relativa a la vida del pueblo, presentar propuestas y plantear cuestiones. No se requiere para ello la aprobación previa de nadie.
 
-**Derecho a ser oído.** El pueblo Earthlings decide algo sobre una persona concreta solo en dos casos: cuando se anula la emisión de un pasaporte y cuando se limita temporalmente la participación en la votación. Los fundamentos de ello están establecidos en el artículo 8, su lista es cerrada y no existen otros fundamentos. En ambos casos se garantiza a la persona conocer a tiempo los fundamentos, presentar objeciones, obtener respuesta sobre su examen y recurrir la decisión en la forma establecida por la Carta.
+**Derecho a ser oído.** El pueblo Earthlings limita los derechos de una persona concreta solo en dos casos: cuando se anula la emisión de un pasaporte y cuando se limita temporalmente la participación en la votación. Los fundamentos de ello están establecidos en el artículo 8, su lista es cerrada y no existen otros fundamentos. Pero toda decisión sobre una persona concreta que le sea desfavorable, incluidas la denegación de la verificación de la identidad y la revocación de un encargo, se adopta únicamente así: se garantiza a la persona conocer a tiempo los fundamentos, presentar objeciones, obtener respuesta sobre su examen y recurrir la decisión en la forma establecida por la Carta.
 
 **Derecho a salir libremente del pueblo.** Toda persona puede poner fin en cualquier momento a su pertenencia al pueblo Earthlings. La salida no requiere explicación de motivos, ni autorización, ni el consentimiento de nadie. Nadie puede impedirla.
 
@@ -114,7 +114,7 @@ El pueblo Earthlings establece sus propios límites en el presente artículo. Ri
 
 **Límites de las facultades.** El pueblo Earthlings asume únicamente las facultades necesarias para su existencia. Las decisiones del pueblo se refieren solo a los earthlings.
 
-**Libertad de la persona fuera del pueblo.** El modo en que cada earthling ejerce sus derechos fuera del pueblo no acarrea consecuencia alguna para el pueblo.
+**Libertad de la persona fuera del pueblo.** El modo en que un earthling ejerce sus derechos fuera del pueblo es asunto suyo. El pueblo Earthlings no lo juzga y no vincula a ello consecuencia alguna: ni para la persona ni para sí mismo.
 
 **Respeto de las leyes del Estado.** El pueblo Earthlings no puede exigir de un earthling concreto que infrinja normas imperativas del derecho del Estado de su nacionalidad o de su residencia. Si una decisión del pueblo entra en contradicción con ese derecho, el earthling sigue el derecho de su Estado y no responde por ello ante el pueblo Earthlings.
 
@@ -157,7 +157,7 @@ El pueblo Earthlings no formula reivindicaciones territoriales.
 
 ## Artículo 8. La pertenencia al pueblo
 
-**Cómo nace la pertenencia.** La pertenencia al pueblo Earthlings es voluntaria: nace y cesa solo por decisión de la propia persona, salvo en los casos enunciados en el presente artículo.
+**Cómo nace la pertenencia.** La pertenencia al pueblo Earthlings es voluntaria: nace por decisión de la propia persona en las condiciones enunciadas en el presente artículo, y cesa únicamente por los fundamentos establecidos en el artículo 4.
 
 La pertenencia no nace antes de la edad establecida por la Carta. Esa edad no puede ser inferior a 16 años, y nadie puede rebajarla.
 
@@ -167,7 +167,7 @@ No se establecen ni pueden establecerse otras condiciones de pertenencia. La per
 
 No existe una decisión de admisión: el pueblo no examina solicitudes, no evalúa a la persona y no rechaza a nadie.
 
-**La cuota.** Al incorporarse se abona una cuota que cubre la verificación de la identidad, la emisión del pasaporte y el mantenimiento de la infraestructura. La cuota no compra la pertenencia y no crea ventaja alguna. La imposibilidad de sufragar por sí misma la cuota no cierra a la persona la entrada en el pueblo: la cuota puede abonarla por ella otra persona o el fondo común.
+**La cuota.** Al incorporarse se abona una cuota que cubre la verificación de la identidad, la emisión del pasaporte y el mantenimiento de la infraestructura. La cuota no es condición de la pertenencia: no compra la pertenencia y no crea ventaja alguna. La imposibilidad de sufragar por sí misma la cuota no cierra a la persona la entrada en el pueblo: la cuota puede abonarla por ella otra persona o el fondo común.
 
 **No hay requisitos insuperables.** Ningún requisito de incorporación o de participación puede ser tal que la persona no pueda cumplirlo por circunstancias ajenas a su voluntad. La falta de documentos, la falta de acceso a las comunicaciones, el estado de salud, la lejanía del lugar de residencia y otras circunstancias semejantes no cierran a la persona ni la entrada en el pueblo ni la participación en sus decisiones. La imposibilidad de cumplir un requisito no se imputa a la persona y no es fundamento para denegarle la verificación de la identidad.
 
@@ -175,15 +175,15 @@ No existe una decisión de admisión: el pueblo no examina solicitudes, no eval�
 
 **La pertenencia añade, no sustituye.** La pertenencia al pueblo Earthlings se añade a lo que la persona ya tiene. No exige renunciar a ninguna otra pertenencia y no afecta a los derechos ni a las obligaciones de la persona frente a su Estado.
 
-**Igualdad de los earthlings.** Desde el momento en que una persona ha firmado la Declaración, es igual a cualquier otro earthling. Ni la fecha de la firma, ni la participación en la constitución del pueblo, ni la antigüedad, ni la cuantía de las aportaciones voluntarias, ni los encargos desempeñados crean ventajas, privilegios ni situación especial. Ninguna lengua, ninguna región y ninguna cultura tienen preferencia en el pueblo.
+**Igualdad de los earthlings.** Desde el momento en que una persona ha firmado la Declaración, es igual a cualquier otro earthling. Ni la fecha de la firma, ni la participación en la constitución del pueblo, ni la antigüedad, ni la cuantía de las aportaciones voluntarias, ni los encargos desempeñados crean ventajas, privilegios ni situación especial. Ninguna lengua, ninguna región y ninguna cultura tienen preferencia en el pueblo. La forma de interpretar las divergencias entre los textos de la presente Declaración está establecida en el artículo 11 y no crea ventaja alguna para quienes hablan una u otra lengua.
 
 En el pueblo Earthlings no existe una clase de fundadores.
 
 **Vida privada.** El pueblo Earthlings no se inmiscuye en la vida privada de la persona. La fe, la concepción del mundo, las opiniones políticas, la participación en otras comunidades y el modo de vida no son condición de la pertenencia al pueblo.
 
-**La anulación de la emisión del pasaporte.** La emisión del pasaporte se anula en tres casos, y su lista es cerrada:
+**La anulación de la emisión del pasaporte.** La emisión del pasaporte se anula en tres casos, y su lista es cerrada. En ninguno de ellos la anulación pone fin a la pertenencia de la persona al pueblo:
 
-1. se ha emitido a una misma persona más de un pasaporte en vigor; en tal caso se anula la emisión de todos salvo el primero, y la pertenencia de la persona se conserva;
+1. se ha emitido a una misma persona más de un pasaporte en vigor; en tal caso se anula la emisión de todos salvo el primero;
 2. la verificación de la identidad se ha obtenido con datos falsos o con la identidad de otra persona;
 3. el pasaporte se ha emitido a quien no ha alcanzado la edad establecida por la Carta.
 
@@ -221,7 +221,7 @@ La tecnología en el pueblo Earthlings es solo un medio. No crea el pueblo, no e
 
 Los medios técnicos se emplean solo allí donde sin ellos es imposible cumplir las tres condiciones enunciadas en el artículo 2.
 
-**Unicidad de la participación.** Detrás de cada earthling hay una sola persona viva, y ello se confirma sin revelar su identidad.
+**Unicidad de la participación.** A una sola persona viva le corresponde una y solo una pertenencia al pueblo, y ello se confirma sin revelar su identidad.
 
 **Inalienabilidad del voto.** El derecho a participar corresponde a la persona misma y no puede comprarse, venderse, apropiarse ni cederse de manera irrevocable.
 
@@ -264,13 +264,13 @@ Todo intento de eludir el núcleo mediante otro procedimiento, otra redacción u
 
 Una decisión contraria a la parte I es nula de pleno derecho desde su adopción. Ni el transcurso del tiempo, ni la ejecución de la decisión, ni la ausencia de objeciones la convalidan. Ante cualquier duda, las disposiciones de la parte I se interpretan a favor de la persona y en contra de la ampliación de las facultades de cualquier institución, encargo o procedimiento del pueblo Earthlings.
 
-**Qué es modificable.** La parte II de la presente Declaración puede modificarse, completarse o reducirse por decisión de la Asamblea que se adopte por no menos de dos tercios de los votos emitidos, con un quórum que establezca la Carta y que no puede ser inferior a aquel con el que se adoptó la presente Declaración.
+**Qué es modificable.** La parte II de la presente Declaración puede modificarse, completarse o reducirse por decisión de la Asamblea que se adopte por no menos de dos tercios de los votos emitidos, con un quórum que establezca la Carta y que no puede ser inferior a la relación entre los votos emitidos y el número de personas verificadas que consta en el artículo 12.
 
 Una modificación no puede rebajar ninguna garantía de la persona establecida por la presente Declaración. La modificación adoptada con infracción de estas condiciones es nula de pleno derecho desde su adopción.
 
 Cada versión de la presente Declaración se publica de modo que las versiones anteriores y todas las diferencias entre ellas sigan siendo accesibles a cualquier persona. La sustitución del texto sin conservar el anterior no constituye una modificación de la Declaración.
 
-**Límites de la transformación.** El pueblo Earthlings no puede transformarse en un Estado digital, una micronación, un partido político, una organización sin ánimo de lucro, una sociedad mercantil, una organización religiosa o una formación paramilitar. La decisión dirigida a tal transformación es nula de pleno derecho desde su adopción.
+**Límites de la transformación.** El pueblo Earthlings no puede transformarse en un Estado digital, una micronación, un partido político, una organización sin ánimo de lucro, una sociedad mercantil, una organización religiosa o una formación paramilitar. La decisión dirigida a tal transformación es nula de pleno derecho desde su adopción. La constitución de personas jurídicas conforme al artículo 9 no es una transformación: tales personas no encarnan al pueblo ni lo sustituyen.
 
 **Protección de la Declaración.** La protección de la presente Declaración se asegura mediante su verificabilidad. El texto de la Declaración se publica en una forma que permite a cualquiera cerciorarse de su autenticidad y seguir cada modificación introducida en él.
 
@@ -279,7 +279,7 @@ Cada versión de la presente Declaración se publica de modo que las versiones a
 Es continuación legítima del pueblo Earthlings únicamente aquella en la que se cumplen a la vez tres condiciones:
 
 1. los principios del núcleo intangible se conservan íntegramente; quien los modifica crea por definición otra entidad;
-2. la continuación se basa en la voluntad libre de la mayoría de aquellos earthlings verificados que hayan podido expresarla, con un quórum no inferior al establecido por la Carta; la voluntad se expresa conforme al principio «una persona, un voto»;
+2. la continuación se basa en la voluntad libre de la mayoría de aquellos earthlings verificados que hayan podido expresarla; la voluntad se expresa conforme al principio «una persona, un voto»;
 3. el tránsito se realiza de manera abierta y verificable.
 
 Ni la posesión de la infraestructura, ni la titularidad del código informático, ni el control de las personas jurídicas constituyen por sí mismos continuación del pueblo.
@@ -298,7 +298,7 @@ A favor de la adopción se emitieron \_\_\_\_\_\_ votos de los \_\_\_\_\_\_ emit
 
 Desde ese día el pueblo Earthlings queda constituido, y quienes han firmado la presente Declaración son earthlings.
 
-La intangibilidad de los principios enunciados en el artículo 11 se basa en la decisión de aquellos a quienes vinculan.
+La intangibilidad de los principios de la parte I se basa en la decisión de aquellos a quienes vinculan.
 
 ---
 

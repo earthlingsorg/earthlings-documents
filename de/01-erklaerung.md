@@ -4,7 +4,7 @@
 
 Diese Fassung ist die Gründungsfassung. Das Volk der Earthlings wird durch ihre Annahme konstituiert.
 
-Bis zur Annahme steht der Text der Erklärung jedem Menschen für Vorschläge offen. Der Beitritt zum Volk, die Identitätsprüfung und die Zustimmung zum hier Dargelegten sind für die Einreichung eines Vorschlags nicht erforderlich. Jeder Vorschlag, auch ein abgelehnter, wird zusammen mit der Antwort darauf und dem Grund der Ablehnung veröffentlicht.
+Bis zur Annahme steht der Text der Erklärung jedem Menschen für Vorschläge offen. Der Beitritt zum Volk, die Identitätsprüfung und die Zustimmung zum hier Dargelegten sind für die Einreichung eines Vorschlags nicht erforderlich. Jeder Vorschlag wird zusammen mit der Antwort darauf veröffentlicht, ein abgelehnter zusätzlich mit dem Grund der Ablehnung.
 
 Vorschläge und die Antworten darauf werden in einem offenen Register veröffentlicht: <https://github.com/earthlingsorg/earthlings-documents>. Das Register steht jedem Menschen ohne Anmeldung und ohne Erlaubnis offen; jede Änderung des Textes ist darin Zeile für Zeile sichtbar und mit dem Vorschlag verknüpft, der zu ihr geführt hat.
 
@@ -68,7 +68,7 @@ Die Volksherrschaft im Volk der Earthlings beruht auf drei Voraussetzungen, und 
 
 **Die Freiheit.** Freiheit ist im Verständnis des Volkes der Earthlings die Abwesenheit von Herrschaft und Überlegenheit eines Menschen oder einer Gruppe von Menschen über andere: Niemand kann Macht über einen anderen Menschen haben - weder durch Geld noch durch Verdienste noch durch Stellung.
 
-**Die Würde.** Jeder Mensch wird gleich an Würde geboren. Die Würde des Menschen ist unantastbar. Kein Mensch darf zum Mittel der Beeinflussung, der Ausbeutung oder der Erniedrigung gemacht werden.
+**Die Würde.** Jeder Mensch wird gleich an Würde geboren. Die Würde des Menschen ist unantastbar. Niemand darf als Mittel gebraucht werden - weder um ihn zu manipulieren noch um ihn auszubeuten noch um ihn zu erniedrigen.
 
 **Die planetare Solidarität.** Was alle betrifft, wird unter Beteiligung aller entschieden. Ein Mensch gehört zugleich seinem Land, seinen Gemeinschaften und der ganzen Menschheit an. Diese Formen der Zugehörigkeit ergänzen einander und widersprechen einander nicht.
 
@@ -88,8 +88,8 @@ Der unabänderliche Kern besteht zum Schutz des Menschen vor der Macht des Volke
 
 Das hier Aufgeführte steht jedem Earthling vom Augenblick der Unterzeichnung dieser Erklärung an zu. Diese Gewährleistungen können weder aufgehoben noch eingeschränkt noch von Bedingungen abhängig gemacht werden.
 
-**Das Recht auf Zugehörigkeit.** Die Zugehörigkeit zum Volk der Earthlings ist unveräußerlich. Ein Ausschluss aus dem Volk ist aus keinem Grund zulässig. Ein Mensch hört nur durch die eigene Entscheidung auf, Teil des Volkes zu sein:
-- jederzeit, ohne Angabe von Gründen und ohne die Zustimmung irgendeines anderen
+**Das Recht auf Zugehörigkeit.** Die Zugehörigkeit zum Volk der Earthlings ist unveräußerlich. Ein Ausschluss aus dem Volk ist aus keinem Grund zulässig. Ein Mensch hört nur in zwei Fällen auf, Teil des Volkes zu sein:
+- durch die eigene Entscheidung - jederzeit, ohne Angabe von Gründen und ohne die Zustimmung irgendeines anderen
 - infolge seines Todes.
 
 Das Verzeichnis dieser Gründe ist abschließend: Es darf weder durch die Charta der Earthlings noch durch einen Beschluss erweiternd ausgelegt werden.
@@ -98,7 +98,7 @@ Das Verzeichnis dieser Gründe ist abschließend: Es darf weder durch die Charta
 
 **Das Recht auf Teilnahme.** Jeder Earthling ist befugt, zu jeder Frage, die das Leben des Volkes betrifft, an der Beratung und an der Fassung von Beschlüssen teilzunehmen, Vorschläge einzubringen und Fragen aufzuwerfen. Die vorherige Zustimmung irgendeines anderen ist dafür nicht erforderlich.
 
-**Das Recht auf Gehör.** Das Volk der Earthlings entscheidet über einen bestimmten Menschen nur in zwei Fällen: wenn die Ausgabe eines Passes aufgehoben wird und wenn die Teilnahme an Abstimmungen vorübergehend eingeschränkt wird. Die Gründe dafür sind in Artikel 8 festgelegt, ihr Verzeichnis ist abschließend, und andere Gründe gibt es nicht. In beiden Fällen ist dem Menschen gewährleistet: die Gründe rechtzeitig zu erfahren, Einwendungen vorzubringen, eine Antwort auf deren Behandlung zu erhalten und gegen die Entscheidung in dem von der Charta der Earthlings festgelegten Verfahren Beschwerde einzulegen.
+**Das Recht auf Gehör.** Das Volk der Earthlings beschränkt die Rechte eines bestimmten Menschen nur in zwei Fällen: wenn die Ausgabe eines Passes aufgehoben wird und wenn die Teilnahme an Abstimmungen vorübergehend eingeschränkt wird. Die Gründe dafür sind in Artikel 8 festgelegt, ihr Verzeichnis ist abschließend, und andere Gründe gibt es nicht. Jede Entscheidung über einen bestimmten Menschen, die für ihn nachteilig ist, einschließlich der Verweigerung der Identitätsprüfung und des Widerrufs eines Auftrags, wird jedoch nur auf folgende Weise getroffen: dem Menschen ist gewährleistet, die Gründe rechtzeitig zu erfahren, Einwendungen vorzubringen, eine Antwort auf deren Behandlung zu erhalten und gegen die Entscheidung in dem von der Charta der Earthlings festgelegten Verfahren Beschwerde einzulegen.
 
 **Das Recht auf freien Austritt aus dem Volk.** Jeder ist befugt, die Zugehörigkeit zum Volk der Earthlings jederzeit zu beenden. Der Austritt erfordert weder die Angabe von Gründen noch eine Erlaubnis noch die Zustimmung irgendeines anderen. Niemand ist befugt, ihn zu verhindern.
 
@@ -114,7 +114,7 @@ Das Volk der Earthlings setzt sich mit diesem Artikel seine Grenzen. Sie gelten 
 
 **Die Grenzen der Befugnisse.** Das Volk der Earthlings nimmt nur die Befugnisse auf sich, die für sein Bestehen erforderlich sind. Die Beschlüsse des Volkes betreffen allein die Earthlings.
 
-**Die Freiheit des Menschen außerhalb des Volkes.** Wie ein Earthling seine Rechte außerhalb des Volkes ausübt, hat für das Volk keine Folgen.
+**Die Freiheit des Menschen außerhalb des Volkes.** Wie ein Earthling seine Rechte außerhalb des Volkes ausübt, ist seine eigene Sache. Das Volk der Earthlings bewertet dies nicht und knüpft daran keinerlei Folgen - weder für den Menschen noch für sich selbst.
 
 **Die Achtung der Gesetze des Staates.** Das Volk der Earthlings ist nicht befugt, von einem einzelnen Earthling den Verstoß gegen zwingende Rechtsnormen des Staates seiner Staatsangehörigkeit oder seines Wohnsitzes zu verlangen. Gerät ein Beschluss des Volkes in Widerspruch zu solchem Recht, so folgt der Earthling dem Recht seines Staates und haftet dafür dem Volk der Earthlings in keiner Weise.
 
@@ -157,7 +157,7 @@ Gebietsansprüche erhebt das Volk der Earthlings nicht.
 
 ## Artikel 8. Die Zugehörigkeit zum Volk
 
-**Wie die Zugehörigkeit entsteht.** Die Zugehörigkeit zum Volk der Earthlings ist freiwillig: Sie entsteht und endet allein durch die Entscheidung des Menschen selbst, außer in den in diesem Artikel genannten Fällen.
+**Wie die Zugehörigkeit entsteht.** Die Zugehörigkeit zum Volk der Earthlings ist freiwillig: Sie entsteht durch die Entscheidung des Menschen selbst unter den in diesem Artikel genannten Voraussetzungen und endet nur aus den in Artikel 4 festgelegten Gründen.
 
 Die Zugehörigkeit entsteht nicht vor dem Alter, das die Charta der Earthlings festlegt. Dieses Alter darf nicht unter 16 Jahren liegen, und niemand ist befugt, es herabzusetzen.
 
@@ -167,7 +167,7 @@ Weitere Voraussetzungen der Zugehörigkeit werden nicht festgelegt und können n
 
 Eine Aufnahmeentscheidung gibt es nicht: Das Volk prüft keine Anträge, bewertet keinen Menschen und weist niemanden ab.
 
-**Der Beitrag.** Beim Beitritt wird ein Beitrag entrichtet, der die Identitätsprüfung, die Ausgabe des Passes und die Unterhaltung der Infrastruktur deckt. Der Beitrag kauft keine Zugehörigkeit und begründet keinerlei Vorteile. Die Unfähigkeit, den Beitrag selbst zu tragen, verschließt den Eintritt in das Volk nicht: Der Beitrag für einen Menschen kann von einem anderen oder aus der gemeinsamen Kasse entrichtet werden.
+**Der Beitrag.** Beim Beitritt wird ein Beitrag entrichtet, der die Identitätsprüfung, die Ausgabe des Passes und die Unterhaltung der Infrastruktur deckt. Der Beitrag ist keine Voraussetzung der Zugehörigkeit: Er kauft keine Zugehörigkeit und begründet keinerlei Vorteile. Die Unfähigkeit, den Beitrag selbst zu tragen, verschließt den Eintritt in das Volk nicht: Der Beitrag für einen Menschen kann von einem anderen oder aus der gemeinsamen Kasse entrichtet werden.
 
 **Unüberwindliche Anforderungen gibt es nicht.** Keine Anforderung an den Beitritt oder an die Teilnahme darf so beschaffen sein, dass ein Mensch sie aus Umständen, die er nicht zu vertreten hat, nicht erfüllen kann. Das Fehlen von Dokumenten, fehlender Zugang zu Kommunikationsmitteln, der Gesundheitszustand, die Abgelegenheit des Wohnorts und andere derartige Umstände verschließen einem Menschen weder den Eintritt in das Volk noch die Teilnahme an seinen Beschlüssen. Die Unmöglichkeit, eine Anforderung zu erfüllen, wird dem Menschen nicht angelastet und ist kein Grund, ihm die Identitätsprüfung zu verweigern.
 
@@ -175,15 +175,15 @@ Eine Aufnahmeentscheidung gibt es nicht: Das Volk prüft keine Anträge, bewerte
 
 **Die Zugehörigkeit tritt hinzu, sie ersetzt nicht.** Die Zugehörigkeit zum Volk der Earthlings tritt zu dem hinzu, was ein Mensch bereits hat. Sie verlangt den Verzicht auf keine andere Zugehörigkeit und berührt die Rechte und Pflichten des Menschen gegenüber seinem Staat nicht.
 
-**Die Gleichheit der Earthlings.** Von dem Augenblick an, in dem ein Mensch die Erklärung unterzeichnet hat, ist er jedem anderen Earthling gleich. Weder das Datum der Unterzeichnung noch die Teilnahme an der Konstituierung des Volkes noch die Dauer der Teilnahme noch die Höhe freiwilliger Zuwendungen noch übernommene Aufträge begründen Vorteile, Vorrechte oder eine besondere Stellung. Keine Sprache, keine Region und keine Kultur hat im Volk einen Vorrang.
+**Die Gleichheit der Earthlings.** Von dem Augenblick an, in dem ein Mensch die Erklärung unterzeichnet hat, ist er jedem anderen Earthling gleich. Weder das Datum der Unterzeichnung noch die Teilnahme an der Konstituierung des Volkes noch die Dauer der Teilnahme noch die Höhe freiwilliger Zuwendungen noch übernommene Aufträge begründen Vorteile, Vorrechte oder eine besondere Stellung. Keine Sprache, keine Region und keine Kultur hat im Volk einen Vorrang. Das Verfahren der Auslegung von Abweichungen zwischen den Texten dieser Erklärung ist in Artikel 11 festgelegt und begründet für die Sprecher irgendeiner Sprache keine Vorteile.
 
 Eine Klasse von Gründern gibt es im Volk der Earthlings nicht.
 
 **Das Privatleben.** Das Volk der Earthlings mischt sich in das Privatleben eines Menschen nicht ein. Glaube, Weltanschauung, politische Anschauung, die Teilnahme an anderen Gemeinschaften und die Lebensweise sind keine Voraussetzung der Zugehörigkeit zum Volk.
 
-**Die Aufhebung der Passausgabe.** Die Ausgabe eines Passes wird in drei Fällen aufgehoben, deren Verzeichnis abschließend ist:
+**Die Aufhebung der Passausgabe.** Die Ausgabe eines Passes wird in drei Fällen aufgehoben, deren Verzeichnis abschließend ist. In keinem von ihnen beendet die Aufhebung die Zugehörigkeit des Menschen zum Volk:
 
-1. einem Menschen ist mehr als ein gültiger Pass ausgegeben worden - in diesem Fall wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben, und die Zugehörigkeit des Menschen bleibt bestehen;
+1. einem Menschen ist mehr als ein gültiger Pass ausgegeben worden - in diesem Fall wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben;
 2. die Identitätsprüfung ist unter Verwendung falscher Angaben oder der Identität eines anderen erlangt worden;
 3. der Pass ist einer Person ausgegeben worden, die das von der Charta der Earthlings festgelegte Alter nicht erreicht hat.
 
@@ -221,7 +221,7 @@ Die Technik ist im Volk der Earthlings nur ein Mittel. Sie schafft das Volk nich
 
 Technische Mittel werden nur dort eingesetzt, wo sich ohne sie die drei in Artikel 2 genannten Voraussetzungen nicht erfüllen lassen.
 
-**Die Einmaligkeit der Teilnahme.** Hinter jedem Earthling steht ein lebender Mensch, und das wird nachgewiesen, ohne seine Identität offenzulegen.
+**Die Einmaligkeit der Teilnahme.** Einem lebenden Menschen entspricht eine und nur eine Zugehörigkeit zum Volk, und das wird nachgewiesen, ohne seine Identität offenzulegen.
 
 **Die Unveräußerlichkeit der Stimme.** Das Recht auf Teilnahme steht dem Menschen selbst zu und kann weder gekauft noch verkauft noch angeeignet noch unwiderruflich übertragen werden.
 
@@ -264,13 +264,13 @@ Jeder Versuch, den Kern durch ein anderes Verfahren, eine andere Formulierung od
 
 Ein Beschluss, der Teil I widerspricht, ist von Anfang an nichtig. Weder der Ablauf der Zeit noch die Ausführung des Beschlusses noch das Ausbleiben von Einwendungen heilen ihn. Im Zweifel werden die Bestimmungen des Teils I zugunsten des Menschen und zulasten einer Erweiterung der Befugnisse jeder Einrichtung, jedes Auftrags und jedes Verfahrens des Volkes der Earthlings ausgelegt.
 
-**Was änderbar ist.** Teil II dieser Erklärung kann durch einen Beschluss der Vollversammlung geändert, ergänzt oder gekürzt werden. Der Beschluss wird mit mindestens zwei Dritteln der abgegebenen Stimmen gefasst, bei einem Quorum, das die Charta der Earthlings festlegt und das nicht niedriger sein darf als das Quorum, bei dem diese Erklärung angenommen wurde.
+**Was änderbar ist.** Teil II dieser Erklärung kann durch einen Beschluss der Vollversammlung geändert, ergänzt oder gekürzt werden. Der Beschluss wird mit mindestens zwei Dritteln der abgegebenen Stimmen gefasst, bei einem Quorum, das die Charta der Earthlings festlegt und das nicht niedriger sein darf als das in Artikel 12 festgehaltene Verhältnis der abgegebenen Stimmen zur Zahl der geprüften Menschen.
 
 Eine Änderung darf keine durch diese Erklärung festgelegte Gewährleistung für den Menschen absenken. Eine unter Verstoß gegen diese Voraussetzungen angenommene Änderung ist von Anfang an nichtig.
 
 Jede Fassung dieser Erklärung wird so veröffentlicht, dass die früheren Fassungen und alle Unterschiede zwischen ihnen jedem Menschen zugänglich bleiben. Ein Austausch des Textes ohne Bewahrung des vorherigen ist keine Änderung der Erklärung.
 
-**Die Grenzen der Umwandlung.** Das Volk der Earthlings kann nicht in einen digitalen Staat, eine Mikronation, eine politische Partei, eine gemeinnützige Organisation, eine erwerbswirtschaftliche Gesellschaft, eine Religionsgemeinschaft oder einen paramilitärischen Verband umgewandelt werden. Ein Beschluss, der auf eine solche Umwandlung zielt, ist von Anfang an nichtig.
+**Die Grenzen der Umwandlung.** Das Volk der Earthlings kann nicht in einen digitalen Staat, eine Mikronation, eine politische Partei, eine gemeinnützige Organisation, eine erwerbswirtschaftliche Gesellschaft, eine Religionsgemeinschaft oder einen paramilitärischen Verband umgewandelt werden. Ein Beschluss, der auf eine solche Umwandlung zielt, ist von Anfang an nichtig. Die Errichtung juristischer Personen nach Artikel 9 ist keine Umwandlung: Solche Personen werden nicht zu Trägern des Volkes und treten nicht an seine Stelle.
 
 **Der Schutz der Erklärung.** Der Schutz dieser Erklärung wird durch ihre Überprüfbarkeit gesichert. Der Text der Erklärung wird in einer Form veröffentlicht, die es jedem erlaubt, sich von seiner Echtheit zu überzeugen und jede an ihm vorgenommene Änderung nachzuvollziehen.
 
@@ -279,7 +279,7 @@ Jede Fassung dieser Erklärung wird so veröffentlicht, dass die früheren Fassu
 Eine rechtmäßige Fortsetzung des Volkes der Earthlings ist nur eine solche, bei der drei Voraussetzungen zugleich erfüllt sind:
 
 1. die Grundsätze des unabänderlichen Kerns sind vollständig bewahrt; wer sie ändert, schafft begrifflich ein anderes Gebilde;
-2. die Fortsetzung beruht auf dem freien Willen der Mehrheit derjenigen geprüften Earthlings, die ihn bekunden konnten, bei einem Quorum, das nicht niedriger ist als das von der Charta der Earthlings festgelegte; der Wille wird nach dem Grundsatz „ein Mensch - eine Stimme“ bekundet;
+2. die Fortsetzung beruht auf dem freien Willen der Mehrheit derjenigen geprüften Earthlings, die ihn bekunden konnten; der Wille wird nach dem Grundsatz „ein Mensch - eine Stimme“ bekundet;
 3. der Übergang geschieht offen und überprüfbar.
 
 Weder der Besitz der Infrastruktur noch das Eigentum am Programmcode noch die Kontrolle über juristische Personen sind für sich genommen eine Fortsetzung des Volkes.
@@ -298,7 +298,7 @@ Auf die Annahme entfielen \_\_\_\_\_\_ von \_\_\_\_\_\_ abgegebenen Stimmen, bei
 
 Von diesem Tag an ist das Volk der Earthlings konstituiert, und die Unterzeichner dieser Erklärung sind Earthlings.
 
-Die Unabänderlichkeit der in Artikel 11 genannten Grundsätze beruht auf der Entscheidung derer, die durch sie gebunden sind.
+Die Unabänderlichkeit der Grundsätze des Teils I beruht auf der Entscheidung derer, die durch sie gebunden sind.
 
 ---
 
