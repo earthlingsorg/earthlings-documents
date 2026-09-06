@@ -27,11 +27,21 @@ u"""Посимвольная сверка цитат Декларации в д�
 расхождений на нуле данных. Поэтому пары заданы ЧИСЛОВЫМИ кодпойнтами, а
 скрипт падает, если из документов языка не вынулось ни одной цитаты.
 
+ЭТАЛОН лежит в репозитории: `_tools/quotes-baseline.json`. Без аргументов
+скрипт сверяется именно с ним, поэтому проверка работает и в приёмке, и
+руками, одной и той же командой.
+
+**Когда цитата меняется законно** - вместе с самой Декларацией, - эталон
+пересоздаётся `--save` В ТОМ ЖЕ КОММИТЕ, что и правка текста. Это условие, а
+не пожелание: обновление эталона отдельным коммитом означает, что кто-то
+сначала увидел красную приёмку, а потом сделал её зелёной, ничего не объяснив.
+В одном коммите обновление видно в диффе и требует слов в сообщении.
+
 Запуск:
-    python _tools/check_quotes.py                    посчитать
+    python _tools/check_quotes.py                    сверить с эталоном
     python _tools/check_quotes.py --list             показать сами цитаты
-    python _tools/check_quotes.py --save FILE        снять снимок до правки
-    python _tools/check_quotes.py --against FILE     сверить с ним после
+    python _tools/check_quotes.py --save FILE        пересоздать эталон
+    python _tools/check_quotes.py --against FILE     сверить с другим снимком
 """
 import glob
 import io
@@ -47,6 +57,8 @@ assert os.path.isdir(os.path.join(REPO, 'ru')), (
 
 LANGS = ['ru', 'en', 'de', 'es', 'fr', 'ka', 'zh', 'ar', 'hi']
 DOCS = ['02', '04']
+
+BASELINE = os.path.join(HERE, 'quotes-baseline.json')
 
 # Пары кавычек по языкам. Заданы кодпойнтами, а не литералами: литерал в
 # heredoc или в чужой кодировке портится молча, и проверка начинает мерить
@@ -126,6 +138,16 @@ def main():
     langs = [a for a in args if a not in (save, against)] or LANGS
     for l in langs:
         assert l in LANGS, u'неизвестный язык %r' % l
+    # Без аргументов сверяемся с эталоном репозитория. Просто посчитать -
+    # это не проверка: число само по себе ничего не утверждает.
+    if not save and not against:
+        against = BASELINE
+        if not os.path.isfile(against):
+            print(u'ОТКАЗ: эталон не найден: %s' % against)
+            print(u'Пересоздать: python _tools/check_quotes.py --save %s'
+                  % against)
+            print(u'Зелёная строка на отсутствующем эталоне была бы ложью.')
+            return 2
 
     now = {}
     for l in langs:
@@ -139,8 +161,10 @@ def main():
     print(u'итого: %d' % sum(len(v) for v in now.values()))
 
     if save:
-        io.open(save, 'w', encoding='utf-8').write(
-            json.dumps(now, ensure_ascii=False, indent=1))
+        # newline задан явно: без него Windows пишет CRLF, git нормализует в
+        # LF, и файл в рабочей копии остаётся «изменённым» после каждой съёмки.
+        io.open(save, 'w', encoding='utf-8', newline='\n').write(
+            json.dumps(now, ensure_ascii=False, indent=1) + '\n')
         print(u'снимок записан: %s' % save)
         return 0
 

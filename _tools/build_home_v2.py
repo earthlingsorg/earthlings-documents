@@ -1355,8 +1355,40 @@ def build_root():
                 ['<link rel="stylesheet" href="/css/langlist.css">'])
 
 
+def stale(path, page):
+    u"""Отстала ли страница на диске от того, что собралось сейчас.
+
+    Сравнение побайтовое и без исключений. Нет файла - тоже отстала: это не
+    «нечего сравнивать», а «страницы нет там, где она должна быть».
+    """
+    if not os.path.isfile(path):
+        return u'нет файла'
+    have = io.open(path, encoding='utf-8').read()
+    if have == page:
+        return None
+    # Первое расхождение - по нему видно, что именно поехало.
+    n = min(len(have), len(page))
+    i = 0
+    while i < n and have[i] == page[i]:
+        i += 1
+    return u'расходится с %d-го знака: на диске %r, собралось %r' % (
+        i, have[i:i + 60], page[i:i + 60])
+
+
 def main():
     dry = '--dry' in sys.argv
+    # Проверка вместо записи: страница считается устаревшей, если пересборка
+    # её меняет. Никаких временных деревьев - сборка уже в памяти, нужен
+    # только другой конец.
+    #
+    # Зачем это вообще. «Мастер против страницы» (verify_md_html.py) сверяет
+    # 225 страниц корпуса; девять главных и девять Обращений в неё не входят,
+    # и их устаревание не ловилось ничем. 2026-09-06 это стоило дефекта:
+    # девятнадцать страниц были собраны прежней версией генератора - строка
+    # описания шла без закрывающей скобки и втягивала следующую строку внутрь
+    # <meta>, а текст полос отстал от мастеров на две редакции. Нашлось
+    # глазами, за день до подмены.
+    check = '--check' in sys.argv
     # Только страницы Обращения, без языковых главных. Нужно, когда Обращение
     # правится отдельно от корпуса: главная берёт отрывки из мастеров
     # документов и сверяет их с русским блок в блок, поэтому она не соберётся,
@@ -1379,12 +1411,13 @@ def main():
             u'добавьте --address, если нужны только страницы Обращения.'
             % (len(langs), len(ALL_LANGS)))
 
+    old = []                       # что отстало от мастеров, для --check
     for lang in langs:
         assert lang in SLUGS, (
             u'для языка %r не заданы слаги: ссылки с главной на документы '
             u'легли бы мимо' % lang)
         d = os.path.join(OUT, lang)
-        if not os.path.isdir(d) and not dry:
+        if not os.path.isdir(d) and not dry and not check:
             guard.makedirs(d)
         pages = ([('address.html', build_address(lang))] if only_address
                  else [('index.html', build_index(lang)),
@@ -1401,7 +1434,13 @@ def main():
                 u'у главной и Обращения (%s) одно и то же описание - для '
                 u'поисковика это дубль двух страниц' % lang)
         for name, page in pages:
-            guard.write(os.path.join(d, name), page, dry=dry)
+            dst = os.path.join(d, name)
+            if check:
+                why = stale(dst, page)
+                if why:
+                    old.append(('%s/%s' % (lang, name), why))
+                continue
+            guard.write(dst, page, dry=dry)
             text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
                           page.split('<body', 1)[1])).strip()
             print('OK   _v2/%s/%-14s %3d КБ, текста без JS: %5d знаков'
@@ -1417,19 +1456,36 @@ def main():
         assert not missing, (
             u'нет языковых главных: %s. Корень ведёт на все девять, и эти '
             u'ссылки отдали бы 404 на боевом адресе.' % ', '.join(missing))
-        guard.write(os.path.join(OUT, 'index.html'), page, dry=dry)
-        text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
-                      page.split('<body', 1)[1])).strip()
-        print('OK   _v2/index.html      %3d КБ, текста без JS: %5d знаков, '
-              'языков 9' % (len(page.encode('utf-8')) // 1024, len(text)))
-    else:
+        if check:
+            why = stale(os.path.join(OUT, 'index.html'), page)
+            if why:
+                old.append(('index.html', why))
+        else:
+            guard.write(os.path.join(OUT, 'index.html'), page, dry=dry)
+            text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
+                          page.split('<body', 1)[1])).strip()
+            print('OK   _v2/index.html      %3d КБ, текста без JS: %5d знаков, '
+                  'языков 9' % (len(page.encode('utf-8')) // 1024, len(text)))
+    elif not check:
         print('корень не собран: прогон неполный (%d языков из 9)' % len(langs))
+
+    if check:
+        # Считается ВСЁ, что собирает этот генератор: девять главных, девять
+        # Обращений и корень. Ноль проверенных страниц - это не «всё хорошо»,
+        # а поломка проверки, поэтому здесь assert, а не тихий выход.
+        n = len(langs) * (1 if only_address else 2) + (0 if only_address else 1)
+        assert n >= 3, u'проверять нечего: страниц %d' % n
+        for name, why in old:
+            print(u'ОТСТАЛА  _v2/%s  %s' % (name, why))
+        print(u'главные и Обращение: проверено %d, отстало %d' % (n, len(old)))
+        return 1 if old else 0
+    return 0
 
 
 if __name__ == '__main__':
     # Отказ замка печатается человеку, а не трассировкой: произошло
     # ровно то, ради чего он поставлен, и это не поломка скрипта.
     try:
-        main()
+        sys.exit(main())
     except guard.LegacyWriteRefused as e:
         sys.exit(guard.die(e))

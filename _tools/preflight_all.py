@@ -75,6 +75,48 @@ def check_verify():
                u'проверено %d, расхождений %d' % (total, bad))
 
 
+def check_home():
+    u"""Главные и Обращение против мастеров: страница устарела, если
+    пересборка её меняет.
+
+    Отдельной проверкой, потому что «мастер против страницы» смотрит только
+    на 225 страниц корпуса. Девять главных, девять Обращений и корень в неё
+    не входили, и их устаревание не ловилось ничем - это уже стоило дефекта
+    2026-09-06: девятнадцать страниц были собраны прежней версией
+    генератора, с порванным <meta description> и текстом полос, отставшим на
+    две редакции.
+    """
+    name = u'главные и Обращение против мастеров'
+    code, out = run([os.path.join('_tools', 'build_home_v2.py'), '--check'])
+    m = re.search(r'проверено (\d+), отстало (\d+)', out)
+    if code == 99 or not m:
+        return Row(name, False, tail(out))
+    total, bad = int(m.group(1)), int(m.group(2))
+    return Row(name, code == 0 and bad == 0,
+               u'проверено %d, отстало %d' % (total, bad))
+
+
+def check_quotes():
+    u"""Цитаты Декларации в документах 02 и 04 - против эталона в репозитории.
+
+    Эталон `_tools/quotes-baseline.json` снят 2026-09-06, после того как две
+    немецкие цитаты статьи 9 были приведены к дословности. Когда цитата
+    меняется законно, вместе с самой Декларацией, эталон пересоздаётся
+    `--save` В ТОМ ЖЕ КОММИТЕ, что и правка: иначе зелёная приёмка получается
+    молча, без единого слова о том, что именно изменилось.
+    """
+    name = u'цитаты Декларации против эталона'
+    code, out = run([os.path.join('_tools', 'check_quotes.py')])
+    m = re.search(r'пропало цитат (\d+)', out)
+    if code == 99 or not m:
+        return Row(name, False, tail(out))
+    lost = int(m.group(1))
+    total = re.search(r'итого: (\d+)', out)
+    return Row(name, code == 0 and lost == 0,
+               u'цитат %s, пропало %d'
+               % (total.group(1) if total else u'?', lost))
+
+
 def check_nav():
     code, out = run([os.path.join('_tools', 'check_nav_sync.py')])
     return Row(u'меню: constants.js против chrome.py', code == 0, tail(out))
@@ -235,7 +277,8 @@ def check_launch():
 
 def main():
     fast = '--fast' in sys.argv
-    corpus = [check_verify(), check_layout(), check_nav(), check_audit(fast),
+    corpus = [check_verify(), check_home(), check_quotes(),
+              check_layout(), check_nav(), check_audit(fast),
               check_sitemap(),
               check_site('contrast_check.py', u'контраст меню'),
               check_site('menu_fits.py', u'меню помещается в шапку'),
