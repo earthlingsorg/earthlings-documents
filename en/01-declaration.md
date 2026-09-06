@@ -4,7 +4,7 @@
 
 This edition is the founding edition. The Earthlings people is constituted by its adoption.
 
-Until it is adopted, the text of the Declaration is open to proposals from any person. Joining the people, identity verification, and agreement with what is set out here are not required in order to submit a proposal. Every proposal, including those rejected, is published together with the answer to it and the reason for rejection.
+Until it is adopted, the text of the Declaration is open to proposals from any person. Joining the people, identity verification, and agreement with what is set out here are not required in order to submit a proposal. Every proposal is published together with the answer to it, and a rejected proposal with the reason for rejection.
 
 Proposals and the answers to them are published in an open registry: <https://github.com/earthlingsorg/earthlings-documents>. The registry is open to any person without registration and without permission; every change to the text is visible in it line by line and is linked to the proposal that led to it.
 
@@ -68,7 +68,7 @@ Rule by the people within the Earthlings people rests on three conditions, and n
 
 **Freedom.** Freedom, as the Earthlings people understands it, is the absence of domination and of the supremacy of one person or group of people over others: no one can hold power over another person - not by money, not by merit, not by position.
 
-**Dignity.** Every person is born equal in dignity. Human dignity is inviolable. No person may be turned into a means for manipulation, exploitation or humiliation.
+**Dignity.** Every person is born equal in dignity. Human dignity is inviolable. No one may be used as a means - neither to manipulate them, nor to exploit them, nor to humiliate them.
 
 **Planetary Solidarity.** What affects everyone is decided with the participation of everyone. A person belongs at once to their country, to their communities and to the whole of humanity. These forms of belonging complement one another and do not conflict.
 
@@ -88,8 +88,8 @@ The unamendable core exists to protect the person from the power of the Earthlin
 
 What is listed here belongs to every earthling from the moment of signing this Declaration. These guarantees cannot be abolished, narrowed or made conditional on anything.
 
-**The Right to Belong.** Belonging to the Earthlings people is inalienable. No one can be expelled on any ground. A person ceases to be part of the people only by their own decision:
-- at any time, without giving reasons and without anyone's consent
+**The Right to Belong.** Belonging to the Earthlings people is inalienable. No one can be expelled on any ground. A person ceases to be part of the people in two cases only:
+- by their own decision - at any time, without giving reasons and without anyone's consent
 - as a consequence of their death.
 
 The list of these grounds is closed: it cannot be construed extensively, neither by the Earthlings Charter nor by any decision.
@@ -98,7 +98,7 @@ The list of these grounds is closed: it cannot be construed extensively, neither
 
 **The Right to Take Part.** Every earthling has the right to take part in the discussion and the taking of decisions on any question relating to the life of the people, to submit proposals and to raise questions. No one's prior approval is required for this.
 
-**The Right to Be Heard.** The Earthlings people decides a matter concerning a particular person in two cases only: when the issuance of a passport is annulled, and when participation in voting is temporarily restricted. The grounds for this are established by Article 8, the list of them is closed, and there are no other grounds. In both cases the person is guaranteed: to learn the grounds in good time, to submit objections, to receive an answer on the consideration of them, and to appeal the decision in the manner established by the Earthlings Charter.
+**The Right to Be Heard.** The Earthlings people restricts the rights of a particular person in two cases only: when the issuance of a passport is annulled, and when participation in voting is temporarily restricted. The grounds for this are established by Article 8, the list of them is closed, and there are no other grounds. But every decision concerning a particular person that is adverse to them, including the refusal of confirmation of identity and the revocation of a mandate, is taken only in this way: the person is guaranteed to learn the grounds in good time, to submit objections, to receive an answer on the consideration of them, and to appeal the decision in the manner established by the Earthlings Charter.
 
 **The Right to Leave the People Freely.** Everyone has the right to end their belonging to the Earthlings people at any time. Leaving requires no reasons, no permission and no one's consent. No one has the power to prevent it.
 
@@ -114,7 +114,7 @@ The Earthlings people establishes its own limits by this Article. They apply in 
 
 **Limits of Powers.** The Earthlings people assumes only those powers that are necessary for its existence. The decisions of the people relate to earthlings only.
 
-**The Freedom of the Person Outside the People.** How each earthling exercises their rights outside the people carries no consequences for the people.
+**The Freedom of the Person Outside the People.** How an earthling exercises their rights outside the people is their own affair. The Earthlings people does not judge it and attaches no consequences to it - neither for the person nor for itself.
 
 **Respect for the Law of the State.** The Earthlings people has no power to require an individual earthling to breach the mandatory rules of law of the state of their citizenship or residence. If a decision of the people comes into conflict with such law, the earthling follows the law of their state and bears no liability whatsoever to the Earthlings people for doing so.
 
@@ -157,7 +157,7 @@ The Earthlings people advances no territorial claims.
 
 ## Article 8. Belonging to the People
 
-**How Belonging Arises.** Belonging to the Earthlings people is voluntary: it arises and ends only by the decision of the person themselves, except in the cases named in this Article.
+**How Belonging Arises.** Belonging to the Earthlings people is voluntary: it arises by the decision of the person themselves on the conditions named in this Article, and it ends only on the grounds established by Article 4.
 
 Belonging arises no earlier than the age established by the Earthlings Charter. That age cannot be lower than 16 years, and no one has the power to lower it.
 
@@ -167,7 +167,7 @@ No other conditions of belonging are established, and none can be. Belonging doe
 
 There is no decision on admission to the people: the people considers no applications, assesses no one, and refuses no one.
 
-**The Contribution.** On joining, a contribution is paid that covers identity verification, the issuance of the passport and the upkeep of the infrastructure. The contribution buys no belonging and creates no advantage of any kind. Inability to pay the contribution oneself does not close entry into the people: the contribution for a person may be paid by another person or out of the common treasury.
+**The Contribution.** On joining, a contribution is paid that covers identity verification, the issuance of the passport and the upkeep of the infrastructure. The contribution is not a condition of belonging: it buys no belonging and creates no advantage of any kind. Inability to pay the contribution oneself does not close entry into the people: the contribution for a person may be paid by another person or out of the common treasury.
 
 **There Are No Insurmountable Requirements.** No requirement for joining or for participation may be such that a person is unable to satisfy it for reasons beyond their control. The absence of documents, lack of access to communications, state of health, remoteness of the place of residence and other such circumstances close neither entry into the people nor participation in its decisions. Inability to satisfy a requirement is not held against the person and is not a ground for refusing confirmation of identity.
 
@@ -175,15 +175,15 @@ There is no decision on admission to the people: the people considers no applica
 
 **Belonging Adds, It Does Not Replace.** Belonging to the Earthlings people is added to what a person already has. It requires giving up no other belonging and does not affect the person's rights and duties towards their state.
 
-**Equality of earthlings.** From the moment a person signs the Declaration, they are equal to every other earthling. Neither the date of signing, nor participation in constituting the people, nor length of participation, nor the size of voluntary donations, nor any mandate carried out creates any advantage, privilege or special position. No language, no region and no culture holds any advantage within the people.
+**Equality of earthlings.** From the moment a person signs the Declaration, they are equal to every other earthling. Neither the date of signing, nor participation in constituting the people, nor length of participation, nor the size of voluntary donations, nor any mandate carried out creates any advantage, privilege or special position. No language, no region and no culture holds any advantage within the people. The manner of construing divergences between the texts of this Declaration is established by Article 11 and creates no advantage for the speakers of any language.
 
 There is no class of founders in the Earthlings people.
 
 **Private Life.** The Earthlings people does not interfere in a person's private life. Faith, worldview, political views, participation in other communities and way of life are not a condition of belonging to the people.
 
-**Annulment of Passport Issuance.** The issuance of a passport is annulled in three cases, and the list of them is closed:
+**Annulment of Passport Issuance.** The issuance of a passport is annulled in three cases, and the list of them is closed. In none of them does annulment end the person's belonging to the people:
 
-1. more than one valid passport has been issued to one person - in that case the issuance of all passports but the first is annulled, and the person's belonging is preserved;
+1. more than one valid passport has been issued to one person - in that case the issuance of all passports but the first is annulled;
 2. identity verification was obtained using false information or another person's identity;
 3. the passport was issued to a person below the age established by the Earthlings Charter.
 
@@ -221,7 +221,7 @@ Technology within the Earthlings people is a means and only a means. It does not
 
 Technical means are applied only where the three conditions named in Article 2 cannot be satisfied without them.
 
-**Uniqueness of Participation.** Behind every earthling stands one living person, and this is confirmed without disclosing who they are.
+**Uniqueness of Participation.** To one living person there corresponds one and only one belonging to the people, and this is confirmed without disclosing who they are.
 
 **Inalienability of the Vote.** The right to participate belongs to the person themselves and cannot be bought, sold, appropriated or transferred irrevocably.
 
@@ -264,13 +264,13 @@ Any attempt to circumvent the core by another procedure, another wording or anot
 
 A decision that contradicts Part I is void from the moment it is taken. Neither the passage of time, nor the execution of the decision, nor the absence of objections cures it. In any case of doubt the provisions of Part I are construed in favour of the person and against any extension of the powers of any institution, mandate or procedure of the Earthlings people.
 
-**What Is Amendable.** Part II of this Declaration may be changed, supplemented or shortened by a decision of the Assembly taken by not less than two thirds of the votes cast, at a quorum established by the Earthlings Charter which cannot be lower than the quorum at which this Declaration was adopted.
+**What Is Amendable.** Part II of this Declaration may be changed, supplemented or shortened by a decision of the Assembly taken by not less than two thirds of the votes cast, at a quorum established by the Earthlings Charter which cannot be lower than the ratio of votes cast to the number of confirmed people recorded in Article 12.
 
 A change cannot lower any guarantee to the person established by this Declaration. A change adopted in breach of these conditions is void from the moment it is taken.
 
 Every edition of this Declaration is published in such a way that earlier editions and all differences between them remain available to any person. Replacing the text without preserving the previous one is not a change of the Declaration.
 
-**Limits of Transformation.** The Earthlings people cannot be transformed into a digital state, a micronation, a political party, a non-profit organization, a commercial corporation, a religious organization or a paramilitary formation. A decision directed at such a transformation is void from the moment it is taken.
+**Limits of Transformation.** The Earthlings people cannot be transformed into a digital state, a micronation, a political party, a non-profit organization, a commercial corporation, a religious organization or a paramilitary formation. A decision directed at such a transformation is void from the moment it is taken. The establishment of legal entities in the manner of Article 9 is not a transformation: such entities do not become the bearers of the people and do not replace it.
 
 **Protection of the Declaration.** The protection of this Declaration is secured by its verifiability. The text of the Declaration is published in a form that allows everyone to satisfy themselves of its authenticity and to trace every change made to it.
 
@@ -279,7 +279,7 @@ Every edition of this Declaration is published in such a way that earlier editio
 A lawful continuation of the Earthlings people is only one in which three conditions are satisfied at once:
 
 1. the principles of the unamendable core are preserved in full; whoever changes them creates, by definition, a different body;
-2. the continuation rests on the free will of a majority of those confirmed earthlings who were able to express it, at a quorum not lower than the one established by the Earthlings Charter; the will is expressed on the principle of "one person, one vote";
+2. the continuation rests on the free will of a majority of those confirmed earthlings who were able to express it; the will is expressed on the principle of "one person, one vote";
 3. the transition is carried out openly and verifiably.
 
 Neither possession of the infrastructure, nor ownership of the program code, nor control over legal entities amounts in itself to a continuation of the people.
@@ -298,7 +298,7 @@ This Declaration was adopted on \_\_\_\_\_\_\_\_\_\_ by a vote of people who had
 
 From that day the Earthlings people is constituted, and those who have signed this Declaration are earthlings.
 
-The unamendability of the principles named in Article 11 rests on the decision of those whom they bind.
+The unamendability of the principles of Part I rests on the decision of those whom they bind.
 
 ---
 
