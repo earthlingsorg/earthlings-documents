@@ -208,8 +208,20 @@ def check_prod_untouched():
                            capture_output=True, timeout=120)
     except Exception as e:                       # noqa: BLE001
         return Row(u'боевое дерево не тронуто', False, u'git не запустился: %s' % e)
+    # Каталоги, которые живой сайт отдаёт из ПРЕЖНЕГО дерева через
+    # `location @shared`, берутся из site_guard.SHARED, а не переписываются
+    # сюда списком. Замок разрешает в них писать - значит и проверка,
+    # которая объявляет себя тем же замком «до коммита», обязана их
+    # пропускать. Разошлись они 2026-09-06: правка книги прошла замок и
+    # покраснела здесь.
+    if TOOLS not in sys.path:
+        sys.path.insert(0, TOOLS)
+    import site_guard
+    assert site_guard.SHARED, u'список общих каталогов пуст'
+    shared = '|'.join(re.escape(d) + '/' for d in site_guard.SHARED)
     allowed = re.compile(
-        r'^(_v2/|\.githooks/|\.gitignore$|package(-lock)?\.json$|'
+        r'^(_v2/|' + shared + r'|\.githooks/|\.gitignore$|'
+        r'package(-lock)?\.json$|'
         r'README\.md$|CLAUDE\.md$|build\.sh$|sw\.js$)')
     bad = []
     stray = []

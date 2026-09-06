@@ -20,7 +20,7 @@ CSS не дублируется в каждый файл: правила вын�
   python build_site_docs.py 05                    один документ
   python build_site_docs.py all                   весь корпус
 """
-import io, os, re, sys, html, json, argparse, subprocess
+import io, os, re, sys, html, json, argparse, subprocess, datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import md2doc
@@ -2371,6 +2371,48 @@ def git_dates(repo=None):
     return _GIT_DATES[repo]
 
 
+_GIT_DIRTY = {}
+
+
+def git_dirty(repo=None):
+    u"""Файлы репозитория, отличающиеся от HEAD, - изменённые и новые.
+
+    Зачем. Дата в сайтмапе берётся из коммита, тронувшего мастер, и это
+    верно: mtime меняется от любой сборки и обесценил бы поле. Но сборка идёт
+    ДО коммита, и у только что переписанного мастера дата коммита - ещё
+    вчерашняя. Сайтмап уезжал на сайт, описывая предыдущее состояние
+    документа, и лечилось это лишь СЛЕДУЮЩЕЙ пересборкой: у документа,
+    который правят раз в квартал, неверный lastmod стоял бы квартал.
+
+    Почему `git status --porcelain`, а не `git diff --name-only HEAD`. Второй
+    показывает только отслеживаемые файлы: новый мастер, ещё не добавленный в
+    индекс, в него не попадает - а он-то как раз сегодняшний, и в карте дат
+    его тоже нет. `--untracked-files=all` закрывает обе половины одним
+    вызовом. Вызов один на репозиторий: мастеров больше двухсот, и вызов на
+    файл стоил бы полминуты каждой сборки.
+
+    Переименование git пишет как `R  старое -> новое`; берётся новое имя -
+    именно оно лежит на диске и попадает в сайтмап.
+    """
+    repo = repo or REPO
+    if repo not in _GIT_DIRTY:
+        out = subprocess.check_output(
+            ['git', '-c', 'core.quotepath=false', '-C', repo, 'status',
+             '--porcelain', '--untracked-files=all'],
+            stderr=subprocess.STDOUT).decode('utf-8', 'replace')
+        dirty = set()
+        for line in out.splitlines():
+            if len(line) < 4:
+                continue
+            path = line[3:].strip()
+            if ' -> ' in path:
+                path = path.split(' -> ', 1)[1].strip()
+            if path:
+                dirty.add(path.strip('"'))
+        _GIT_DIRTY[repo] = dirty
+    return _GIT_DIRTY[repo]
+
+
 def _master_paths(lang, nums, address=False):
     u"""Пути мастеров от корня репозитория - только те, что есть на диске.
 
@@ -2401,10 +2443,19 @@ def _dated(rels, repo=None):
     """
     repo = repo or REPO
     dates = git_dates(repo)
-    got = [dates[r] for r in rels if r in dates]
+    dirty = git_dirty(repo)
+    today = datetime.date.today().isoformat()
+    got = []
     for r in rels:
-        if r not in dates:
+        if r in dirty:
+            # Мастер правлен и ещё не закоммичен: правка сегодняшняя, и дата
+            # последнего коммита описывала бы предыдущее состояние.
+            got.append(today)
+        elif r in dates:
+            got.append(dates[r])
+        else:
             print(u'внимание: %s не в git (%s), дата взята от HEAD' % (r, repo))
+            got.append(_GIT_HEAD[repo])
     return max(got) if got else _GIT_HEAD[repo]
 
 
