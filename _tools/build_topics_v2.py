@@ -32,6 +32,7 @@ u"""Тематические страницы на оформление ново
 import glob
 import html as html_mod
 import io
+import json
 import os
 import re
 import sys
@@ -158,7 +159,50 @@ def visible(s):
     return re.sub(r'\s+', ' ', html_mod.unescape(s)).strip()
 
 
-def head_html(lang, url, title, desc, alt_path):
+ORG = {'@type': 'Organization', 'name': 'Earthlings', 'url': ORIGIN}
+
+
+def article_ld(lang, url, title, desc):
+    u"""Структурные данные тематической страницы.
+
+    Тип тот же `Article`, что у страниц корпуса, и поля те же: краулер
+    получает с тематической страницы ровно то же описание, что со страницы
+    документа, на который она ведёт. Заводить ей особый тип не за что - это
+    статья, написанная руками, с заголовком, лидом и разделами.
+    """
+    assert title and desc, u'страница без заголовка или описания: %s' % url
+    return {'@context': 'https://schema.org', '@type': 'Article',
+            'headline': title, 'description': desc, 'inLanguage': lang,
+            'author': ORG,
+            'publisher': {'@type': 'Organization', 'name': 'Earthlings',
+                          'logo': {'@type': 'ImageObject',
+                                   'url': ORIGIN + '/images/logo.png'}},
+            'mainEntityOfPage': url,
+            'image': ORIGIN + '/images/og-image.jpg'}
+
+
+def hub_ld(lang, url, title, desc, items):
+    u"""Структурные данные хаба тем: страница-перечень, а не статья.
+
+    `CollectionPage` описывает саму страницу, вложенный `ItemList` - то, что
+    на ней перечислено. Порядок в списке - порядок на странице: `position`
+    врать не должен, иначе разметка описывает не эту страницу, а нашу мысль
+    о ней.
+    """
+    assert items, u'хаб %s: перечислять нечего' % lang
+    return {'@context': 'https://schema.org', '@type': 'CollectionPage',
+            'name': title, 'description': desc, 'inLanguage': lang,
+            'url': url, 'publisher': ORG,
+            'mainEntity': {
+                '@type': 'ItemList', 'numberOfItems': len(items),
+                'itemListElement': [
+                    {'@type': 'ListItem', 'position': i + 1,
+                     'url': ORIGIN + href, 'name': name}
+                    for i, (href, name) in enumerate(items)]}}
+
+
+def head_html(lang, url, title, desc, alt_path, ld):
+    assert ld, u'страница без структурных данных: %s' % url
     alts = ''.join(
         '<link rel="alternate" hreflang="%s" href="%s%s">\n' % (l, ORIGIN, alt_path(l))
         for l in LANGS)
@@ -192,16 +236,19 @@ def head_html(lang, url, title, desc, alt_path):
         '<meta name="twitter:title" content="%s">' % C.esc(title),
         '<meta name="twitter:description" content="%s">' % C.esc(desc),
         '<meta name="twitter:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<script type="application/ld+json">',
+        json.dumps(ld, ensure_ascii=False, separators=(',', ':')),
+        '</script>',
         alts.rstrip(),
         '</head>',
     ])
 
 
-def shell(lang, inner, url, title, desc, alt_path):
+def shell(lang, inner, url, title, desc, alt_path, ld):
     href = lambda n: doc_href(n, lang)                        # noqa: E731
     have = lambda n: has_doc(n, lang)                         # noqa: E731
     return '\n'.join([
-        head_html(lang, url, title, desc, alt_path),
+        head_html(lang, url, title, desc, alt_path, ld),
         '<body>',
         C.header_html(lang, doc_href=href, lang_url=alt_path,
                       home_url='/%s/' % lang, has_doc=have),
@@ -253,8 +300,34 @@ def build_topic(slug, lang):
 
     url = '%s/topics/%s/%s.html' % (ORIGIN, slug, lang)
     page = shell(lang, inner, url, title, desc,
-                 lambda l: '/topics/%s/%s.html' % (slug, l))
+                 lambda l: '/topics/%s/%s.html' % (slug, l),
+                 article_ld(lang, url, visible(g['h1']), visible(desc)))
     return page, body, src
+
+
+def hub_items(list_html, lang):
+    u"""Перечень тем хаба: адрес и название, в порядке страницы.
+
+    Разбирается разметка САМОЙ страницы, а не таблица ORDER. Разметка - то,
+    что видит читатель; таблица - то, что мы о ней думаем. Число всё же
+    сверяется с ORDER: расхождение значит, что скелет списка сменился и
+    разбор молча взял не то.
+
+    Название - текст ссылки без вложенного пояснения: в `<span>` внутри
+    лежит подпись под названием, и склеенные вместе они дали бы одну строку
+    на полтораста знаков вместо имени темы.
+    """
+    items = []
+    for m in re.finditer(r'<li><a href="([^"]+)">(.*?)</a></li>', list_html, re.S):
+        name = re.sub(r'<span>.*?</span>', '', m.group(2), flags=re.S)
+        items.append((m.group(1), visible(name)))
+    assert len(items) == len(ORDER), (
+        u'в хабе %s разобрано %d тем, а в ORDER их %d - скелет списка сменился'
+        % (lang, len(items), len(ORDER)))
+    for href, name in items:
+        assert href.startswith('/topics/') and name, (
+            u'в хабе %s негодная запись: %r -> %r' % (lang, href, name))
+    return items
 
 
 def build_hub(lang):
@@ -280,7 +353,9 @@ def build_hub(lang):
     name = 'index.html' if lang == 'en' else '%s.html' % lang
     url = '%s/topics/%s' % (ORIGIN, '' if lang == 'en' else name)
     page = shell(lang, inner, url, title, desc,
-                 lambda l: '/topics/' + ('' if l == 'en' else '%s.html' % l))
+                 lambda l: '/topics/' + ('' if l == 'en' else '%s.html' % l),
+                 hub_ld(lang, url, visible(g['h1']), visible(desc),
+                        hub_items(g['list'], lang)))
     return page, body, src, name
 
 

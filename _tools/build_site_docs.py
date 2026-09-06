@@ -2071,6 +2071,37 @@ def write_library_v2(lang, titles, dry=False):
         '<meta name="twitter:title" content="%s">' % esc(title),
         '<meta name="twitter:description" content="%s">' % esc(desc),
         '<meta name="twitter:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        # Структурные данные библиотеки.
+        #
+        # `CollectionPage` описывает саму страницу, вложенный `ItemList` -
+        # то, что на ней перечислено. Тип выбран по тому, чем страница
+        # является: это не статья (текста у неё нет вовсе) и не сайт, а
+        # перечень из двадцати пяти документов - единственный на языке узел,
+        # с которого виден весь корпус сразу. Голый `ItemList` описал бы
+        # список, но не страницу, и `inLanguage` с `description` вешать было
+        # бы не на что.
+        #
+        # Порядок в списке - порядок на странице, тот же CHAIN: `position`
+        # врать не должен, иначе разметка описывает не эту страницу.
+        '<script type="application/ld+json">',
+        json.dumps({
+            '@context': 'https://schema.org', '@type': 'CollectionPage',
+            # Имя страницы, а не её <title>: хвост «| Earthlings» нужен
+            # вкладке браузера, а в разметке он часть имени организации,
+            # которая тут же и названа отдельным полем.
+            'name': chrome.x(lang, 'all_docs'),
+            'description': desc, 'inLanguage': lang,
+            'url': url,
+            'publisher': {'@type': 'Organization', 'name': 'Earthlings',
+                          'url': ORIGIN},
+            'mainEntity': {
+                '@type': 'ItemList', 'numberOfItems': len(nums),
+                'itemListElement': [
+                    {'@type': 'ListItem', 'position': i + 1,
+                     'url': ORIGIN + href(n), 'name': titles[n]}
+                    for i, n in enumerate(nums)]},
+        }, ensure_ascii=False, separators=(',', ':')),
+        '</script>',
     ] + alts + [
         '</head>',
         '<body>',
@@ -2259,16 +2290,16 @@ def _carry_over_from_legacy(kinds):
     переходе на генерацию значило бы обменять один дефект на другой, поэтому
     они переносятся как есть, по префиксу адреса.
 
-    Книга (21 адрес) переносится тем же механизмом с 2026-09-06. До того она
-    была исключена решением Артура 2026-08-26 - «книги, статей и питчей на
-    новом сайте нет»; 2026-09-02 решение отменено, книга остаётся на прежних
-    адресах и в прежнем оформлении, и после подмены корня отдаётся из старого
-    дерева через `location @shared`. Проверено на живом сайте в день подмены:
-    все 21 адрес отвечают 200. Пока их не было в сайтмапе и ни одна страница
-    сайта на них не ссылалась, книга была для поисковика сиротой.
+    Книгу этим механизмом переносить нельзя, и это выяснилось дорого. Утром
+    2026-09-06 она вернулась в сайтмап переносом - и вернулась неполной:
+    в прежнем списке лежал 21 адрес из 25, не хватало вторых и шестых глав на
+    обоих языках. Мы аккуратно воспроизвели чужую неполноту. Книга лежит у нас
+    на диске целиком, поэтому её состав собирается обходом каталога - см.
+    `_book_urls`. Топики на диске тоже лежат, но собранными страницами: списка
+    их адресов, кроме прежнего сайтмапа, не существует.
 
-    Даты у перенесённых адресов остаются свои: мастеров ни у топиков, ни у
-    книги в этом репозитории нет, и сочинить дату честнее нечем.
+    Даты у перенесённых адресов остаются свои: мастеров у топиков в этом
+    репозитории нет, и сочинить дату честнее нечем.
 
     Боевой файл только ЧИТАЕТСЯ. Замок этапа 0 запрещает писать в боевое
     дерево, а не смотреть в него.
@@ -2289,13 +2320,14 @@ def _carry_over_from_legacy(kinds):
     return out
 
 
-# Даты последнего изменения мастеров. Считаются один раз за прогон.
-_GIT_DATES = None
-_GIT_HEAD = None
+# Даты последнего изменения файлов. Считаются один раз на репозиторий.
+# Репозиториев два: мастера лежат здесь, книга - в дереве сайта.
+_GIT_DATES = {}
+_GIT_HEAD = {}
 
 
-def git_dates():
-    u"""Дата последнего коммита для каждого файла репозитория мастеров.
+def git_dates(repo=None):
+    u"""Дата последнего коммита для каждого файла репозитория.
 
     Зачем не mtime. mtime меняется от `git checkout`, от выгрузки репозитория
     и от любой сборки, которая файл перезаписала. В сайтмапе это означало бы
@@ -2311,13 +2343,14 @@ def git_dates():
     от новых к старым, поэтому первое встреченное упоминание файла и есть
     последнее по времени.
     """
-    global _GIT_DATES, _GIT_HEAD
-    if _GIT_DATES is None:
+    repo = repo or REPO
+    if repo not in _GIT_DATES:
         out = subprocess.check_output(
-            ['git', '-c', 'core.quotepath=false', '-C', REPO, 'log',
+            ['git', '-c', 'core.quotepath=false', '-C', repo, 'log',
              '--format=%cs', '--name-only', '--no-renames'],
             stderr=subprocess.STDOUT).decode('utf-8', 'replace')
-        assert out.strip(), u'git log не отдал ни строки - даты брать неоткуда'
+        assert out.strip(), (
+            u'git log в %s не отдал ни строки - даты брать неоткуда' % repo)
         dates, cur = {}, None
         for line in out.splitlines():
             line = line.strip()
@@ -2327,14 +2360,15 @@ def git_dates():
                 cur = line
             elif cur and line not in dates:
                 dates[line] = cur
-        assert dates, u'в выводе git log нет ни одного имени файла'
-        _GIT_DATES = dates
-        _GIT_HEAD = subprocess.check_output(
-            ['git', '-C', REPO, 'log', '-1', '--format=%cs']
+        assert dates, u'в выводе git log (%s) нет ни одного имени файла' % repo
+        head = subprocess.check_output(
+            ['git', '-C', repo, 'log', '-1', '--format=%cs']
         ).decode('utf-8').strip()
-        assert re.match(r'^\d{4}-\d{2}-\d{2}$', _GIT_HEAD), (
-            u'дата HEAD не похожа на дату: %r' % _GIT_HEAD)
-    return _GIT_DATES
+        assert re.match(r'^\d{4}-\d{2}-\d{2}$', head), (
+            u'дата HEAD (%s) не похожа на дату: %r' % (repo, head))
+        _GIT_DATES[repo] = dates
+        _GIT_HEAD[repo] = head
+    return _GIT_DATES[repo]
 
 
 def _master_paths(lang, nums, address=False):
@@ -2357,20 +2391,94 @@ def _master_paths(lang, nums, address=False):
     return o
 
 
-def _dated(rels):
-    u"""Самая поздняя дата коммита среди перечисленных мастеров.
+def _dated(rels, repo=None):
+    u"""Самая поздняя дата коммита среди перечисленных файлов.
 
-    Мастер лежит на диске, но в git его нет (только что создан и не
+    Файл лежит на диске, но в git его нет (только что создан и не
     закоммичен) - берём дату HEAD и говорим об этом вслух. Падать здесь
     нельзя: сборка в грязном дереве законна, а молча поставить дату из
     воздуха - именно то, чего это поле не должно делать.
     """
-    dates = git_dates()
+    repo = repo or REPO
+    dates = git_dates(repo)
     got = [dates[r] for r in rels if r in dates]
     for r in rels:
         if r not in dates:
-            print(u'внимание: мастер %s не в git, дата взята от HEAD' % r)
-    return max(got) if got else _GIT_HEAD
+            print(u'внимание: %s не в git (%s), дата взята от HEAD' % (r, repo))
+    return max(got) if got else _GIT_HEAD[repo]
+
+
+# Языки книги. Их два, и третьему взяться неоткуда: книга написана
+# по-русски и переведена на английский, других переводов нет и не заказано.
+# Список нужен затем, чтобы появление третьего каталога в book/ уронило
+# сборку, а не осталось незамеченным.
+BOOK_LANGS = ('en', 'ru')
+
+
+def _book_urls(url):
+    u"""Адреса книги - обходом каталога, а не переносом чужого списка.
+
+    Почему обходом. Заходом 1 книга вернулась в сайтмап переносом из прежнего
+    сайтмапа, и вместе с ней перенеслась его неполнота: в прежнем списке было
+    21 из 25 страниц - не хватало вторых и шестых глав на обоих языках. Они
+    отдают 200, стоят в оглавлении, первая глава ссылается на вторую, а
+    поисковику их не обещали. Список, собранный с диска, такого не умеет:
+    следующая написанная глава попадёт в сайтмап сама.
+
+    Книга живёт в ПРЕЖНЕМ дереве и в `_v2` не переносится (решение Артура
+    2026-09-02, оформление у неё своё). После подмены корня она отдаётся через
+    `location @shared` в nginx - там же, где шрифты и изображения.
+
+    `book/index.html` в список НЕ идёт, и это не пропуск: это страница-развилка
+    на JavaScript, которая тут же перебрасывает на `/book/en/` или `/book/ru/`.
+    Обещать краулеру редирект незачем; в прежнем сайтмапе её тоже не было.
+
+    Дата - последний коммит, тронувший файл, как и у страниц корпуса. Только
+    репозиторий другой: книга лежит в дереве сайта.
+    """
+    root = os.path.join(SITE, 'book')
+    assert os.path.isdir(root), (
+        u'нет каталога книги %s - 25 адресов молча исчезли бы из сайтмапа' % root)
+    dirs = sorted(d for d in os.listdir(root)
+                  if os.path.isdir(os.path.join(root, d)))
+    assert set(dirs) == set(BOOK_LANGS), (
+        u'в %s языки %s, а ожидались %s. У книги появился (или пропал) язык - '
+        u'обновите BOOK_LANGS и проверьте hreflang.'
+        % (root, sorted(dirs), sorted(BOOK_LANGS)))
+
+    pages = {}
+    for lang in BOOK_LANGS:
+        names = sorted(f for f in os.listdir(os.path.join(root, lang))
+                       if f.endswith('.html'))
+        assert names, u'в %s нет ни одной страницы книги' % lang
+        for n in names:
+            pages.setdefault(n, []).append(lang)
+
+    def href(lang, name):
+        return '%s/book/%s/%s' % (ORIGIN, lang, '' if name == 'index.html'
+                                  else name)
+
+    out = []
+    for name in sorted(pages):
+        langs = pages[name]
+        for lang in langs:
+            # Вес по роли страницы: оглавление выше глав, примечания ниже.
+            # Те же три величины стояли в прежнем сайтмапе - менять их заодно
+            # с составом значило бы смешать две правки в одной.
+            prio = ('0.7' if name == 'index.html'
+                    else '0.6' if re.match(r'^ch\d+\.html$', name) else '0.5')
+            alt = ['    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>'
+                   % (c, href(c, name)) for c in langs]
+            # x-default - английский, если он есть; иначе единственный язык,
+            # на котором страница написана.
+            ref = 'en' if 'en' in langs else langs[0]
+            alt.append('    <xhtml:link rel="alternate" hreflang="x-default" '
+                       'href="%s"/>' % href(ref, name))
+            out.append(url(href(lang, name), 'monthly', prio, alt,
+                           lastmod=_dated(['book/%s/%s' % (lang, name)],
+                                          repo=SITE)))
+    assert out, u'адресов книги не собрано - каталог book/ пуст?'
+    return out
 
 
 def write_sitemap_v2(titles, dry=False):
@@ -2476,10 +2584,16 @@ def write_sitemap_v2(titles, dry=False):
                             lastmod=_dated(_master_paths(c, [num]))))
             docs += 1
 
-    # Топики и книга - два раздела, которых сборщик не строит. Проверяются по
-    # отдельности: общая проверка «перенеслось хоть что-нибудь» пропустила бы
-    # пропажу одного из двух.
-    carried_by_kind = _carry_over_from_legacy(('/topics/', '/book/'))
+    # Книга - раздел, которого сборщик не строит, но который лежит у нас на
+    # диске целиком. Значит и состав берётся с диска, а не переносом чужого
+    # списка: перенос уже стоил четырёх глав, см. _book_urls.
+    book = _book_urls(url)
+    body.extend(book)
+
+    # Топики - единственное, что по-прежнему переносится из прежнего сайтмапа.
+    # У них нет ни мастеров, ни своего сборщика: страницы написаны руками, и
+    # список их адресов существует ровно в одном месте - в прежнем сайтмапе.
+    carried_by_kind = _carry_over_from_legacy(('/topics/',))
     for kind, urls in sorted(carried_by_kind.items()):
         assert urls, (
             u'из боевого сайтмапа не перенесено ни одного адреса %s. Либо файл '
@@ -2494,8 +2608,10 @@ def write_sitemap_v2(titles, dry=False):
            '',
            '  <!-- Собран build_site_docs.py из SLUGS, CHAIN и LANGS_BY_DOC.',
            '       Руками не править: правка переживёт ровно до следующей сборки.',
-           '       Топики и книга перенесены из боевого сайтмапа как есть,',
-           '       вместе со своими датами: мастеров у них здесь нет.',
+           '       Книга собрана обходом каталога book/ в прежнем дереве:',
+           '       она отдаётся оттуда через @shared и в _v2 не переносится.',
+           '       Топики перенесены из боевого сайтмапа как есть, вместе со',
+           '       своими датами: ни мастеров, ни сборщика у них нет.',
            '       У порождаемых адресов lastmod - дата последнего коммита,',
            '       тронувшего мастер. -->',
            '']
@@ -2515,7 +2631,7 @@ def write_sitemap_v2(titles, dry=False):
 
     dst = os.path.join(SITE, '_v2', 'sitemap.xml')
     guard.write(dst, text, dry=dry)
-    return docs, len(carried), text.count('<loc>')
+    return docs, len(book), len(carried), text.count('<loc>')
 
 
 def main():
@@ -2625,9 +2741,9 @@ def main():
         # Сайтмап собирается из таблиц, а не из дерева, поэтому его состав не
         # зависит от того, какой язык сейчас собирали. Пишем при каждой сборке:
         # так он не может отстать.
-        d, c, total = write_sitemap_v2(all_titles(), dry=a.dry)
+        d, b, c, total = write_sitemap_v2(all_titles(), dry=a.dry)
         print('сайтмап   _v2/sitemap.xml  адресов %d (документов %d, '
-              'перенесено топиков и книги %d)' % (total, d, c))
+              'книга %d, перенесено топиков %d)' % (total, d, b, c))
         print('тема v2: карта редиректов и doc-slugs.js не трогались')
         return
 

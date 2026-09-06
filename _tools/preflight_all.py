@@ -11,6 +11,13 @@ u"""Одна команда приёмки: прогоняет все прове
 
     python _tools/preflight_all.py            все проверки
     python _tools/preflight_all.py --fast     без аудита девяти языков
+    python _tools/preflight_all.py --live     континуитет спрашивать у сайта
+
+Про `--live`. Проверка «континуитет: адреса боевого sitemap» умеет два
+способа ответить: быстрый - по дереву файлов и снимку nginx, и точный -
+запросом к боевому сайту. По умолчанию быстрый, потому что предполёт гоняют
+помногу и не всегда при сети. Перед тем как сказать «выкачено и работает»,
+гонять с `--live`: после подмены дерево отвечает не на тот вопрос.
 
 Код возврата 0, если провалов нет. Ненулевой - число проваленных проверок.
 
@@ -220,7 +227,7 @@ def check_launch():
         sys.path.insert(0, TOOLS)
     try:
         import preflight_launch
-        return preflight_launch.run_checks()
+        return preflight_launch.run_checks(live='--live' in sys.argv)
     except Exception as e:                       # noqa: BLE001
         return [Row(u'готовность к подмене', False,
                     u'не запустилась: %s: %s' % (type(e).__name__, e))]
