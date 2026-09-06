@@ -20,7 +20,7 @@ CSS не дублируется в каждый файл: правила вын�
   python build_site_docs.py 05                    один документ
   python build_site_docs.py all                   весь корпус
 """
-import io, os, re, sys, html, json, argparse
+import io, os, re, sys, html, json, argparse, subprocess
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import md2doc
@@ -2259,23 +2259,118 @@ def _carry_over_from_legacy(kinds):
     переходе на генерацию значило бы обменять один дефект на другой, поэтому
     они переносятся как есть, по префиксу адреса.
 
-    Книга (21 адрес) НЕ переносится - решение Артура 2026-08-26: книги, статей
-    и питчей на новом сайте нет. Обещать краулеру раздел, которого на сайте не
-    будет, - тот самый дефект, ради которого сайтмап и отдали генератору.
+    Книга (21 адрес) переносится тем же механизмом с 2026-09-06. До того она
+    была исключена решением Артура 2026-08-26 - «книги, статей и питчей на
+    новом сайте нет»; 2026-09-02 решение отменено, книга остаётся на прежних
+    адресах и в прежнем оформлении, и после подмены корня отдаётся из старого
+    дерева через `location @shared`. Проверено на живом сайте в день подмены:
+    все 21 адрес отвечают 200. Пока их не было в сайтмапе и ни одна страница
+    сайта на них не ссылалась, книга была для поисковика сиротой.
+
+    Даты у перенесённых адресов остаются свои: мастеров ни у топиков, ни у
+    книги в этом репозитории нет, и сочинить дату честнее нечем.
 
     Боевой файл только ЧИТАЕТСЯ. Замок этапа 0 запрещает писать в боевое
     дерево, а не смотреть в него.
     """
     src = os.path.join(SITE, 'sitemap.xml')
     if not os.path.isfile(src):
-        return []
+        return {}
     raw = io.open(src, encoding='utf-8').read()
-    out = []
+    out = dict((k, []) for k in kinds)
     for block in re.findall(r'<url>.*?</url>', raw, re.S):
         m = re.search(r'<loc>([^<]+)</loc>', block)
-        if m and any(m.group(1).startswith(ORIGIN + k) for k in kinds):
-            out.append(block.strip())
+        if not m:
+            continue
+        for k in kinds:
+            if m.group(1).startswith(ORIGIN + k):
+                out[k].append(block.strip())
+                break
     return out
+
+
+# Даты последнего изменения мастеров. Считаются один раз за прогон.
+_GIT_DATES = None
+_GIT_HEAD = None
+
+
+def git_dates():
+    u"""Дата последнего коммита для каждого файла репозитория мастеров.
+
+    Зачем не mtime. mtime меняется от `git checkout`, от выгрузки репозитория
+    и от любой сборки, которая файл перезаписала. В сайтмапе это означало бы
+    «страница обновлена» там, где не изменилось ни слова: поле обесценивается,
+    и поисковик перестаёт по нему ходить. Дата коммита меняется тогда и только
+    тогда, когда текст правда правили.
+
+    Один проход `git log --name-only`, а не вызов на файл: мастеров больше
+    двухсот, и на Windows отдельный вызов на каждый стоил бы полминуты на
+    каждой сборке.
+
+    Возвращает {путь от корня репозитория: 'ГГГГ-ММ-ДД'}. Порядок git log -
+    от новых к старым, поэтому первое встреченное упоминание файла и есть
+    последнее по времени.
+    """
+    global _GIT_DATES, _GIT_HEAD
+    if _GIT_DATES is None:
+        out = subprocess.check_output(
+            ['git', '-c', 'core.quotepath=false', '-C', REPO, 'log',
+             '--format=%cs', '--name-only', '--no-renames'],
+            stderr=subprocess.STDOUT).decode('utf-8', 'replace')
+        assert out.strip(), u'git log не отдал ни строки - даты брать неоткуда'
+        dates, cur = {}, None
+        for line in out.splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            if re.match(r'^\d{4}-\d{2}-\d{2}$', line):
+                cur = line
+            elif cur and line not in dates:
+                dates[line] = cur
+        assert dates, u'в выводе git log нет ни одного имени файла'
+        _GIT_DATES = dates
+        _GIT_HEAD = subprocess.check_output(
+            ['git', '-C', REPO, 'log', '-1', '--format=%cs']
+        ).decode('utf-8').strip()
+        assert re.match(r'^\d{4}-\d{2}-\d{2}$', _GIT_HEAD), (
+            u'дата HEAD не похожа на дату: %r' % _GIT_HEAD)
+    return _GIT_DATES
+
+
+def _master_paths(lang, nums, address=False):
+    u"""Пути мастеров от корня репозитория - только те, что есть на диске.
+
+    `address=True` добавляет мастер Обращения: он тоже участвует в странице,
+    которую собирают из нескольких источников (языковая главная).
+    """
+    o = []
+    for num in nums:
+        if lang not in SLUGS or num not in SLUGS[lang]:
+            continue
+        rel = '%s/%s' % (lang, corpus_file(num, lang))
+        if os.path.isfile(os.path.join(REPO, rel)):
+            o.append(rel)
+    if address:
+        rel = '_address/%s-address.md' % lang
+        if os.path.isfile(os.path.join(REPO, rel)):
+            o.append(rel)
+    return o
+
+
+def _dated(rels):
+    u"""Самая поздняя дата коммита среди перечисленных мастеров.
+
+    Мастер лежит на диске, но в git его нет (только что создан и не
+    закоммичен) - берём дату HEAD и говорим об этом вслух. Падать здесь
+    нельзя: сборка в грязном дереве законна, а молча поставить дату из
+    воздуха - именно то, чего это поле не должно делать.
+    """
+    dates = git_dates()
+    got = [dates[r] for r in rels if r in dates]
+    for r in rels:
+        if r not in dates:
+            print(u'внимание: мастер %s не в git, дата взята от HEAD' % r)
+    return max(got) if got else _GIT_HEAD
 
 
 def write_sitemap_v2(titles, dry=False):
@@ -2305,24 +2400,52 @@ def write_sitemap_v2(titles, dry=False):
                  'href="%s"/>' % url_of(ref))
         return o
 
-    def url(loc, freq, prio, alt=None):
-        o = ['  <url>', '    <loc>%s</loc>' % loc,
-             '    <changefreq>%s</changefreq>' % freq,
-             '    <priority>%s</priority>' % prio]
+    def url(loc, freq, prio, alt=None, lastmod=None):
+        # Порядок элементов - тот, который требует схема sitemap 0.9:
+        # loc, lastmod, changefreq, priority. Аннотации hreflang идут после.
+        o = ['  <url>', '    <loc>%s</loc>' % loc]
+        if lastmod:
+            assert re.match(r'^\d{4}-\d{2}-\d{2}$', lastmod), (
+                u'дата %r у адреса %s не похожа на дату' % (lastmod, loc))
+            o.append('    <lastmod>%s</lastmod>' % lastmod)
+        o += ['    <changefreq>%s</changefreq>' % freq,
+              '    <priority>%s</priority>' % prio]
         o += alt or []
         o.append('  </url>')
         return '\n'.join(o)
 
+    # Дата страницы - дата последнего коммита, тронувшего её мастер.
+    #
+    # У главной, библиотеки и корня мастер не один: главная собирается из
+    # анонса и отрывков восьми документов, библиотека перечисляет все
+    # двадцать пять, корень ведёт на девять языков. Берётся самая поздняя
+    # дата по всем мастерам языка (а для корня - по всем языкам сразу).
+    #
+    # Почему по всем, а не по тем восьми, что стоят на главной: список полос
+    # живёт в BANDS другого модуля, и вписать его номера сюда значило бы
+    # завести вторую копию таблицы. Копии расходятся - это здесь уже стоило
+    # немецкого меню, месяц показывавшего чужие пункты. Цена огрубления
+    # маленькая и односторонняя: дата может оказаться свежее нужного и позвать
+    # краулера лишний раз, но не устареет и не смолчит о правке.
+    corpus_date = dict((c, _dated(_master_paths(c, CHAIN))) for c in built)
+    addr_date = dict((c, _dated(_master_paths(c, [], address=True)))
+                     for c in built)
+    home_date = dict((c, max(corpus_date[c], addr_date[c])) for c in built)
+    assert home_date, u'ни для одного языка не вычислена дата мастеров'
+    root_date = max(home_date.values())
+
     body = [url(ORIGIN + '/', 'weekly', '1.0',
-                alts(lambda c: '%s/%s/' % (ORIGIN, c)))]
+                alts(lambda c: '%s/%s/' % (ORIGIN, c)), lastmod=root_date)]
 
     for c in built:
         body.append(url('%s/%s/' % (ORIGIN, c), 'weekly', '0.9',
-                        alts(lambda x: '%s/%s/' % (ORIGIN, x))))
+                        alts(lambda x: '%s/%s/' % (ORIGIN, x)),
+                        lastmod=home_date[c]))
 
     for c in built:
         body.append(url('%s/%s/address.html' % (ORIGIN, c), 'monthly', '0.8',
-                        alts(lambda x: '%s/%s/address.html' % (ORIGIN, x))))
+                        alts(lambda x: '%s/%s/address.html' % (ORIGIN, x)),
+                        lastmod=addr_date[c]))
 
     # Библиотеки. С 2026-09-01 они индексируются и потому идут в сайтмап.
     #
@@ -2334,7 +2457,8 @@ def write_sitemap_v2(titles, dry=False):
     # снято в другую сторону: страница индексируется, и сайтмап её обещает.
     for c in built:
         body.append(url('%s/documents/%s/' % (ORIGIN, c), 'monthly', '0.7',
-                        alts(lambda x: '%s/documents/%s/' % (ORIGIN, x))))
+                        alts(lambda x: '%s/documents/%s/' % (ORIGIN, x)),
+                        lastmod=corpus_date[c]))
 
     docs = 0
     for num in CHAIN:
@@ -2348,14 +2472,20 @@ def write_sitemap_v2(titles, dry=False):
                             if len(langs) == len(built) else
                             ['    <xhtml:link rel="alternate" hreflang="%s" '
                              'href="%s"/>' % (y, ORIGIN + doc_href(num, y))
-                             for y in langs]))
+                             for y in langs],
+                            lastmod=_dated(_master_paths(c, [num]))))
             docs += 1
 
-    carried = _carry_over_from_legacy(('/topics/',))
-    assert carried, (
-        u'из боевого сайтмапа не перенесено ни одного топика. Либо файл не '
-        u'прочитался, либо префикс сменился - молча отдать сайтмап без 72 '
-        u'адресов хуже, чем упасть здесь.')
+    # Топики и книга - два раздела, которых сборщик не строит. Проверяются по
+    # отдельности: общая проверка «перенеслось хоть что-нибудь» пропустила бы
+    # пропажу одного из двух.
+    carried_by_kind = _carry_over_from_legacy(('/topics/', '/book/'))
+    for kind, urls in sorted(carried_by_kind.items()):
+        assert urls, (
+            u'из боевого сайтмапа не перенесено ни одного адреса %s. Либо файл '
+            u'не прочитался, либо префикс сменился - молча отдать сайтмап без '
+            u'этого раздела хуже, чем упасть здесь.' % kind)
+    carried = [u for _, urls in sorted(carried_by_kind.items()) for u in urls]
     body.extend(carried)
 
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
@@ -2364,7 +2494,10 @@ def write_sitemap_v2(titles, dry=False):
            '',
            '  <!-- Собран build_site_docs.py из SLUGS, CHAIN и LANGS_BY_DOC.',
            '       Руками не править: правка переживёт ровно до следующей сборки.',
-           '       Топики перенесены из боевого сайтмапа как есть; книги нет. -->',
+           '       Топики и книга перенесены из боевого сайтмапа как есть,',
+           '       вместе со своими датами: мастеров у них здесь нет.',
+           '       У порождаемых адресов lastmod - дата последнего коммита,',
+           '       тронувшего мастер. -->',
            '']
     out += body
     out.append('</urlset>')
@@ -2494,7 +2627,7 @@ def main():
         # так он не может отстать.
         d, c, total = write_sitemap_v2(all_titles(), dry=a.dry)
         print('сайтмап   _v2/sitemap.xml  адресов %d (документов %d, '
-              'перенесено топиков %d)' % (total, d, c))
+              'перенесено топиков и книги %d)' % (total, d, c))
         print('тема v2: карта редиректов и doc-slugs.js не трогались')
         return
 

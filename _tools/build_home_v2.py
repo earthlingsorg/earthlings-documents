@@ -1238,8 +1238,22 @@ def build_index(lang):
                                      timeline(lang) if num == '20' else None)))
 
     title = C.t(lang, 'page.title')
-    desc = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '',
-                  md_inline(prose(address)[0])))[:300]
+    # Описание главной - её собственная первая полоса, а не первый абзац
+    # мастера Обращения.
+    #
+    # До 2026-09-06 отсюда и из build_address бралось одно и то же место
+    # мастера, и девять пар страниц - главная и Обращение того же языка -
+    # несли слово в слово одинаковое description. Две разные индексируемые
+    # страницы с одним описанием - прямой дубль, и так на всех девяти языках.
+    #
+    # Берётся анонс: он написан для главной, стоит на ней первым и говорит
+    # ровно то, что странице нужно сказать поиску - кто мы и что учреждаем.
+    # Анонса нет (таблица ANNOUNCE пуста) - берём крупную строку плаката,
+    # цитату из документа 02: она тоже с этой страницы и в мастере Обращения
+    # не встречается, так что дубль не вернётся и в этом случае.
+    home_lead = ANNOUNCE.get(lang) or [poster_line(lang)]
+    desc = re.sub(r'\s+', ' ', ' '.join(home_lead)).strip()[:300]
+    assert desc, u'описание главной (%s) вышло пустым' % lang
     inner = '<main id="main">%s</main>' % '\n'.join(bands)
     return wrap(lang, inner, '%s/%s/' % (ORIGIN, lang), title, desc,
                 lambda c: '/%s/' % c,
@@ -1277,8 +1291,11 @@ def build_address(lang):
                  % (href, C.esc(label)))
     o.append('</div></main>')
 
+    # Описание Обращения - первый абзац Обращения. Главная его больше не
+    # берёт (см. build_index): описание страницы обязано описывать её саму.
     desc = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '',
                   md_inline(prose(md)[0])))[:300]
+    assert desc, u'описание Обращения (%s) вышло пустым' % lang
     return wrap(lang, '\n'.join(o),
                 '%s/%s/address.html' % (ORIGIN, lang),
                 '%s | Earthlings' % doc['title'], desc,
@@ -1320,8 +1337,19 @@ def build_root():
          '<section class="lead col"><p>%s</p></section>' % C.esc(lead),
          langlist(lang, href_of=lambda c: '/%s/' % c),
          '</div></main>']
+    # Заголовок корня не повторяет заголовок /en/.
+    #
+    # До 2026-09-06 обе страницы назывались «Earthlings - a new people», а это
+    # две разные индексируемые страницы: корень - выбор языка, /en/ - настоящая
+    # английская главная. Один заголовок на двух адресах поисковик читает как
+    # дубль и сам решает, какой из них показать.
+    #
+    # Корень назван тем, что на нём есть: девять языков и выбор одного из них.
+    # «Earthlings» стоит первым, потому что это корень домена и в выдаче он
+    # чаще всего и есть визитка; «choose one» повторяет последнее слово лида,
+    # который стоит под заголовком страницы.
     return wrap(lang, '\n'.join(o), ORIGIN + '/',
-                'Earthlings - a new people', lead[:300],
+                'Earthlings in nine languages - choose one', lead[:300],
                 lambda c: '/%s/' % c,
                 # Корню нужен только список языков - полос у него нет.
                 ['<link rel="stylesheet" href="/css/langlist.css">'])
@@ -1361,6 +1389,17 @@ def main():
         pages = ([('address.html', build_address(lang))] if only_address
                  else [('index.html', build_index(lang)),
                        ('address.html', build_address(lang))])
+        # Главная и Обращение - две разные индексируемые страницы, и описание
+        # у них обязано быть разное. Проверка стоит здесь, а не в глазах: до
+        # 2026-09-06 они девять языков подряд несли одно и то же описание, и
+        # заметить это удалось только измерением живого сайта.
+        if len(pages) == 2:
+            got = [re.search(r'<meta name="description" content="(.*?)">',
+                             p, re.S) for _, p in pages]
+            assert all(got), u'на странице нет описания вовсе (%s)' % lang
+            assert got[0].group(1) != got[1].group(1), (
+                u'у главной и Обращения (%s) одно и то же описание - для '
+                u'поисковика это дубль двух страниц' % lang)
         for name, page in pages:
             guard.write(os.path.join(d, name), page, dry=dry)
             text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
