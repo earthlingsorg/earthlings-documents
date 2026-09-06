@@ -2,7 +2,7 @@
 
 **Warum sie heute überhört werden kann, was wir dagegen tun und wozu das heranwachsen kann**
 
-> Dieses Dokument entfaltet eine einzige Bestimmung der Erklärung. Artikel 6 sagt, dass das Volk der Earthlings eine überprüfbare kollektive Position seiner Teilnehmer bildet und sie den Staaten und den internationalen Organisationen zur Kenntnis bringt, und dass sich die Kraft dieser Position nicht nach den Befugnissen des Volkes bestimmt, sondern nach der freien Teilnahme der Menschen, der Transparenz der Verfahren und der Möglichkeit, das Ergebnis zu überprüfen.
+> Dieses Dokument entfaltet eine einzige Bestimmung der Erklärung. Artikel 6 sagt, dass das Volk der Earthlings eine überprüfbare kollektive Position seiner Earthlings bildet und sie den Staaten und den internationalen Organisationen zur Kenntnis bringt, und dass sich die Kraft dieser Position nicht nach den Befugnissen des Volkes bestimmt, sondern nach der freien Teilnahme der Menschen, der Transparenz der Verfahren und der Möglichkeit, das Ergebnis zu überprüfen.
 >
 > Hier ist erklärt, was das in der Praxis bedeutet: warum die Bürgerstimme heute überhört werden kann, ohne sie in der Sache zu bestreiten; was genau wir stattdessen bauen; warum es dafür nötig war, ein Volk zu konstituieren, statt ein einzelnes Werkzeug zu bauen; über welche Stufen eine solche Stimme an Gewicht gewinnt; und wodurch das alles schlecht ausgehen kann.
 >
@@ -529,7 +529,7 @@ Der Abschnitt besteht, damit ein beitretender Mensch sich keine Erwartungen mach
 
 **Das ist keine Macht.** Das Volk der Earthlings trifft keine Entscheidungen für Staaten und übt keine öffentliche Gewalt aus. Seine Beschlüsse sind nur innerhalb seiner selbst verbindlich und nur für diejenigen, die ihm angehören.
 
-**Das ersetzt nicht die Staatsangehörigkeit, die Wahlen und die Gesetze.** Der Teilnehmer bleibt Staatsangehöriger seines Landes, stimmt bei dessen Wahlen ab, befolgt dessen Gesetze und zahlt dessen Steuern. Das Volk verlangt nichts anderes und kann nichts anderes verlangen: Die Zugehörigkeit ergänzt und ersetzt nicht - Artikel 8 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html).
+**Das ersetzt nicht die Staatsangehörigkeit, die Wahlen und die Gesetze.** Der Earthling bleibt Staatsangehöriger seines Landes, stimmt bei dessen Wahlen ab, befolgt dessen Gesetze und zahlt dessen Steuern. Das Volk verlangt nichts anderes und kann nichts anderes verlangen: Die Zugehörigkeit ergänzt und ersetzt nicht - Artikel 8 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html).
 
 **Das ist keine Partei und keine Teilnahme am inneren Kampf.** Das Volk stellt keine Kandidaten auf, unterstützt sie nicht und finanziert sie nicht. Bei jeder Größe. Diese Beschränkung ist nicht taktisch, sondern konstituierend, und durch eine Abstimmung lässt sie sich nicht aufheben.
 

@@ -233,7 +233,7 @@ Den Vorbehalt zur letzten Zeile machen wir selbst: Die rechtlichen Gründe für 
 
 Die genaue Behauptung lautet so: Urkunden über die Zugehörigkeit zu einem Volk gibt es, doch alle bescheinigen sie eine Zugehörigkeit, die aus der Abstammung abgeleitet und vom Staat anerkannt ist. Zum ersten Mal wird eine Zugehörigkeit durch eine Urkunde bescheinigt, die vom Volk selbst ausgegeben ist, weder mit einem Gebiet noch mit einer Abstammung verbunden ist, durch die Entscheidung des Menschen selbst entsteht und von jedermann überprüft werden kann.
 
-Die Behauptung „vom Volk ausgegeben“ beruht nicht auf Worten: Artikel 9 der Erklärung legt fest, dass das Teilnehmerregister und die Prüfung der Identität der Teilnehmer „kein Vermögen einer juristischen Person sind, nicht übertragen, verkauft, verpfändet oder auf andere Weise veräußert werden können“, und dass juristische Personen „nicht die Träger des Volkes sind“. Ohne diese Norm liefe die Behauptung darauf hinaus, dass eine Handelsgesellschaft die Urkunde ausgegeben hat.
+Die Behauptung „vom Volk ausgegeben“ beruht nicht auf Worten: Artikel 9 der Erklärung legt fest, dass das Register der Earthlings und die Prüfung ihrer Identität „kein Vermögen einer juristischen Person sind, nicht übertragen, verkauft, verpfändet oder auf andere Weise veräußert werden können“, und dass juristische Personen „nicht die Träger des Volkes sind“. Ohne diese Norm liefe die Behauptung darauf hinaus, dass eine Handelsgesellschaft die Urkunde ausgegeben hat.
 
 Der Earthling-Pass ersetzt dabei keine staatlichen Urkunden, verleiht keine Staatsangehörigkeit, keine Visa, kein Einreiserecht und keinen konsularischen Schutz. Er bescheinigt die Zugehörigkeit zu einem Volk - das, was staatliche Urkunden überhaupt nicht bescheinigen.
 

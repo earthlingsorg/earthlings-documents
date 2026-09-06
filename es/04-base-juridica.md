@@ -233,7 +233,7 @@ La salvedad a la última fila la hacemos nosotros mismos: los fundamentos juríd
 
 La afirmación exacta suena así: los documentos de pertenencia a un pueblo existen, pero todos ellos acreditan una pertenencia derivada de la descendencia y reconocida por el Estado. Por primera vez la pertenencia se acredita con un documento expedido por el propio pueblo, no ligado ni al territorio ni a la descendencia, que nace por decisión de la propia persona y que puede verificar cualquiera.
 
-La afirmación «expedido por el pueblo» no se sostiene en palabras: el artículo 9 de la Declaración establece que el registro de participantes y la verificación de su identidad «no son patrimonio de la persona jurídica, no pueden ser transmitidos, vendidos, pignorados ni enajenados de ningún otro modo», y que las personas jurídicas «no encarnan al pueblo». Sin esa norma la afirmación se reduciría a que el documento lo expidió una sociedad mercantil.
+La afirmación «expedido por el pueblo» no se sostiene en palabras: el artículo 9 de la Declaración establece que el registro de earthlings y la verificación de su identidad «no son patrimonio de la persona jurídica, no pueden ser transmitidos, vendidos, pignorados ni enajenados de ningún otro modo», y que las personas jurídicas «no encarnan al pueblo». Sin esa norma la afirmación se reduciría a que el documento lo expidió una sociedad mercantil.
 
 El pasaporte earthling, con todo, no sustituye a los documentos estatales, no da nacionalidad, ni visados, ni derecho de entrada, ni protección consular. Acredita la pertenencia a un pueblo, que es lo que los documentos estatales no acreditan en absoluto.
 

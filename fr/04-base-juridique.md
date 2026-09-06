@@ -233,7 +233,7 @@ Une réserve à la dernière ligne, que nous faisons nous-mêmes: les motifs jur
 
 L'affirmation exacte est la suivante: des documents d'appartenance à un peuple existent, mais tous attestent une appartenance déduite de la descendance et reconnue par un État. Pour la première fois, une appartenance est attestée par un document délivré par le peuple lui-même, sans lien ni avec un territoire ni avec une descendance, qui naît de la décision de la personne et que n'importe qui peut vérifier.
 
-L'affirmation « délivré par le peuple » ne tient pas à des mots: l'article 9 de la Déclaration établit que le registre des participants et la vérification de leur identité « ne sont pas des biens de la personne morale, ne peuvent être cédés, vendus, donnés en gage ni aliénés d'aucune autre manière », et que les personnes morales « n'incarnent pas le peuple ». Sans cette norme, l'affirmation reviendrait à dire que le document a été délivré par une société commerciale.
+L'affirmation « délivré par le peuple » ne tient pas à des mots: l'article 9 de la Déclaration établit que le registre des earthlings et la vérification de leur identité « ne sont pas des biens de la personne morale, ne peuvent être cédés, vendus, donnés en gage ni aliénés d'aucune autre manière », et que les personnes morales « n'incarnent pas le peuple ». Sans cette norme, l'affirmation reviendrait à dire que le document a été délivré par une société commerciale.
 
 Le passeport earthling ne remplace pas les documents d'État, ne donne ni nationalité, ni visa, ni droit d'entrée, ni protection consulaire. Il atteste l'appartenance à un peuple, ce que les documents d'État n'attestent aucunement.
 

@@ -2,7 +2,7 @@
 
 **Por qué hoy se la puede no escuchar, qué hacemos con ello y en qué puede llegar a convertirse**
 
-> El presente documento desarrolla una sola disposición de la Declaración. El artículo 6 dice que el pueblo Earthlings forma una posición colectiva verificable de sus participantes y la hace llegar a los Estados y a las organizaciones internacionales, y que la fuerza de esa posición no la determinan las facultades del pueblo, sino la participación libre de las personas, la transparencia de los procedimientos y la posibilidad de verificar el resultado.
+> El presente documento desarrolla una sola disposición de la Declaración. El artículo 6 dice que el pueblo Earthlings forma una posición colectiva verificable de sus earthlings y la hace llegar a los Estados y a las organizaciones internacionales, y que la fuerza de esa posición no la determinan las facultades del pueblo, sino la participación libre de las personas, la transparencia de los procedimientos y la posibilidad de verificar el resultado.
 >
 > Aquí se explica qué significa eso en la práctica: por qué hoy la voz ciudadana se puede no escuchar sin rechazarla en cuanto al fondo; qué construimos en su lugar; por qué para ello hizo falta constituir un pueblo y no levantar una sola herramienta; por qué escalones gana peso una voz así; y de qué manera todo esto puede acabar mal.
 >
@@ -529,7 +529,7 @@ La sección existe para que la persona que se adhiere no se construya expectativ
 
 **No es poder.** El pueblo Earthlings no toma decisiones en lugar de los Estados ni ejerce poder público. Sus decisiones obligan solo dentro de él mismo y solo a quienes forman parte de él.
 
-**No sustituye a la nacionalidad, ni a las elecciones, ni a las leyes.** El participante sigue siendo ciudadano de su país, vota en sus elecciones, cumple sus leyes y paga sus impuestos. El pueblo no exige ni puede exigir otra cosa: la pertenencia se añade, no sustituye; artículo 8 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html).
+**No sustituye a la nacionalidad, ni a las elecciones, ni a las leyes.** El earthling sigue siendo ciudadano de su país, vota en sus elecciones, cumple sus leyes y paga sus impuestos. El pueblo no exige ni puede exigir otra cosa: la pertenencia se añade, no sustituye; artículo 8 de la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html).
 
 **No es un partido ni una participación en la lucha interna.** El pueblo no presenta candidatos, no los apoya y no los financia. Sea cual sea su tamaño. Esta limitación no es táctica, sino constitutiva, y no se puede levantar por votación.
 
