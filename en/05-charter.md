@@ -821,6 +821,7 @@ The following principles cannot be changed even by a qualified majority:
 - **Openness and transparency of decisions and finances.** All decisions of the DAO, the outcomes of votes, the financial transactions of the Fund and the actions of executive structures are public and verifiable. The personal and biometric data of participants is not public - it is protected by Article 13. Transparency extends to the actions of institutions, not to the personal data of people; the expression of will of a particular person is personal data and may be closed under Article 6
 - **Voluntariness.** Participation and departure are free; expulsion is impossible
 - **Revocability of every mandate.** A power that cannot be revoked immediately and at a threshold no higher than the threshold of its grant is not granted
+- **The threshold for amending this Charter.** The thresholds set by Article 36 cannot be lowered by a decision taken under that same Article; this is established by Article 9 of the Declaration
 
 > **Relation to the Declaration.** The principles listed are the operational expression of the unamendable core of the Earthlings Declaration - the life, dignity and freedom of the person, planetary solidarity, care for the planet and the refusal of concentrated power. They cannot narrow that core and are construed only in its favour.
 
