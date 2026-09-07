@@ -270,6 +270,114 @@ PDF = {
            u'संबोधन PDF में डाउनलोड करें'),
 }
 
+# --- страница /essays/ -----------------------------------------------------
+#
+# Статьи и эссе, опубликованные на стороне. На сайт переносятся ССЫЛКИ, а не
+# тексты (решение Артура 2026-09-07): три копии одного текста в сети - это
+# спор с самим собой за авторство, и выиграть его у площадки с большим
+# авторитетом нечем. Отсюда же следует, что `rel=canonical` странице не нужен:
+# дублей нет, вопрос снят.
+#
+# Аннотация НЕ сочиняется. Порядок такой: авторская строка площадки, если она
+# есть, иначе первая несущая фраза самой статьи - и то и другое дословно.
+# На Paragraph авторская строка есть у трёх эссе из четырёх (поле summary,
+# оно же og:description). На Medium отдельного подзаголовка нет ни у одной
+# статьи: то, что похоже на подзаголовок в списке профиля, - превью, которое
+# Medium режет по 140 знакам и добавляет многоточие. Равно оно первому абзацу,
+# и здесь стоит этот абзац ЦЕЛИКОМ. У части статей он написан как однострочный
+# зачин, у части это первая фраза текста; длина не выравнивается - это
+# авторский выбор.
+#
+# Единственное исключение - «A Society That Can't Be Captured»: авторской
+# строки у неё нет, а первые два абзаца - разгон («You have been here
+# before...»). Взят третий, с которого начинается мысль. Отступление названо
+# здесь, а не спрятано.
+#
+# Типографика ASCII, в том числе в английском. Длинное тире, «умные» кавычки и
+# неразрывные пробелы Medium и Paragraph ставят сами, и они приезжают вместе с
+# текстом; таблица уже вычищена, а `check_essay_typography` не даёт занести
+# грязь снова.
+#
+# Порядок - строго от новых к старым, по времени публикации. Правило одно и
+# без исключений: следующая написанная статья встаёт на своё место сама, и
+# помнить о ней ничего не надо. Трилогия Paragraph («After Privacy, a People»
+# -> «The Mechanism and the Demos» -> «The Missing Variable») из-за этого
+# читается снизу вверх, и это осознанная цена: сама «The Missing Variable»
+# первой же строкой говорит, что она третья и что две другие идут раньше.
+#
+# Поля: адрес, заголовок автора, площадка, месяц и год, аннотация.
+ESSAYS = [
+    ('https://paragraph.com/@earthlings/the-missing-variable',
+     u'The Missing Variable', u'Paragraph', u'July 2026',
+     u'Mechanisms without standing stay brilliant guests. Communities '
+     u'without law stay vivid clubs. On the ally builders route around.'),
+    ('https://paragraph.com/@earthlings/the-mechanism-and-the-demos',
+     u'The Mechanism and the Demos', u'Paragraph', u'July 2026',
+     u'Every mechanism for collective choice presupposes what it cannot '
+     u'create: a demos. On the ground under plural instruments.'),
+    ('https://medium.com/@arthur_42521/'
+     'democracys-unexamined-monopoly-460e1551b7d5',
+     u"Democracy's Unexamined Monopoly", u'Medium', u'July 2026',
+     u'We argue about whether democracy is healthy. We stopped asking '
+     u'whether elections are the only form it can take.'),
+    ('https://paragraph.com/@earthlings/after-privacy-a-people',
+     u'After Privacy, a People', u'Paragraph', u'July 2026',
+     u'Privacy keeps a person an author of their own life - but authors of '
+     u'what? Two bets: protect the individual, or constitute a people.'),
+    ('https://paragraph.com/@earthlings/a-society-that-cant-be-captured',
+     u"A Society That Can't Be Captured", u'Paragraph', u'June 2026',
+     u'Almost everything people use to coordinate belongs to someone. States '
+     u'hold belonging through territory. The platforms where we gather '
+     u'outside states belong to their owners.'),
+    ('https://medium.com/@arthur_42521/'
+     'we-the-peoples-was-a-promise-it-could-become-a-procedure-de7572f11fcc',
+     u'"We the Peoples" Was a Promise. It Could Become a Procedure.',
+     u'Medium', u'June 2026',
+     u"The UN's deepest crisis is not its empty treasury. It is that the "
+     u'institution has no constituency of its own - no door through which a '
+     u'people, as distinct from a state, can walk. Some people have started '
+     u'building that door outside the building. Here is how one of them '
+     u'actually works, and where the argument is weakest.'),
+    ('https://medium.com/@arthur_42521/five-thousand-years-of-searching-'
+     'what-humanity-actually-proposed-instead-of-power-aaaec8dfb715',
+     u'Five Thousand Years of Searching: What Humanity Actually Proposed '
+     u'Instead of Power', u'Medium', u'April 2026',
+     u'A history of constructions, not manifestos'),
+    ('https://medium.com/@arthur_42521/'
+     'you-are-not-the-problem-the-environment-is-4d257b9fe1ea',
+     u'You Are Not the Problem. The Environment Is.', u'Medium', u'April 2026',
+     u'Why every system judges the individual - and why the only real '
+     u'question is the one nobody asks: what kind of environment are we '
+     u'building?'),
+    ('https://medium.com/@arthur_42521/the-invisible-cage-how-law-became-'
+     'the-architecture-of-control-e9c632d5b282',
+     u'The Invisible Cage: How Law Became the Architecture of Control',
+     u'Medium', u'April 2026',
+     u'Law is not a set of rules. It is the invisible substance that fills '
+     u'every space in which human life occurs - like ether, it permeates '
+     u'everything. And the cage it has built around us is so complete that '
+     u'most people no longer notice it exists.'),
+    ('https://medium.com/@arthur_42521/freedom-without-a-master-fb32ae0d1b48',
+     u'Freedom Without a Master', u'Medium', u'April 2026',
+     u'The first system of human organization where power does not exist as '
+     u'a category'),
+    ('https://medium.com/@arthur_42521/the-system-is-the-crisis-4e0b1cad1383',
+     u'The System Is the Crisis', u'Medium', u'April 2026',
+     u'The wars, the economic shocks, the collapsing institutions - they are '
+     u'not the disease. They are the symptoms. And nobody is proposing a '
+     u'cure, because the cure requires something that does not yet exist.'),
+]
+
+# Заголовок и лид страницы. Это НАШ текст, а не авторская строка: две фразы о
+# том, что за раздел, и чего на нём нет. Ради них страница и существует -
+# голый список из одиннадцати ссылок наружу не работает ни на читателя, ни на
+# поиск.
+ESSAYS_TITLE = u'Articles and essays'
+ESSAYS_LEAD = (u'Long-form writing published elsewhere: essays on Paragraph, '
+               u'articles on Medium. The texts stay where they were '
+               u'published; this page keeps the list in one place, with the '
+               u'opening line of each.')
+
 
 # ------------------------------------------------------------------ мастера
 
@@ -392,15 +500,25 @@ def load(what, lang):
 
 # ------------------------------------------------------------------ страница
 
-def head(lang, url, title, desc, path, extra_css=()):
+def head(lang, url, title, desc, path, extra_css=(), ld=None):
     # path(код языка) -> адрес ЭТОЙ ЖЕ страницы на другом языке. Без него
     # hreflang на странице Обращения вёл бы на главные других языков, то есть
     # объявлял бы переводом не тот документ.
-    langs = [l for l in ALL_LANGS if os.path.isfile(
-        os.path.join(ADDRESS_DIR, '%s-address.md' % l))]
-    alts = ''.join(
-        '<link rel="alternate" hreflang="%s" href="%s%s">\n' % (l, ORIGIN, path(l))
-        for l in langs)
+    #
+    # path=None означает «языковых версий у страницы нет» - тогда hreflang не
+    # пишется вовсе. Это не мелкая поблажка: кластер hreflang обязан быть
+    # взаимным, и страница, объявившая девять переводов, которых не
+    # существует, зовёт краулера в девять четырёхсотых. Ровно на этом
+    # 2026-09-06 поймали примечания книги, обещавшие русскую страницу.
+    if path is None:
+        alts = ''
+        langs = []
+    else:
+        langs = [l for l in ALL_LANGS if os.path.isfile(
+            os.path.join(ADDRESS_DIR, '%s-address.md' % l))]
+        alts = ''.join(
+            '<link rel="alternate" hreflang="%s" href="%s%s">\n'
+            % (l, ORIGIN, path(l)) for l in langs)
     # x-default ведёт на КОРЕНЬ, а не на английскую версию.
     #
     # Прежде он вёл на /en/, и из этого следовало два дефекта сразу. Первый:
@@ -412,12 +530,14 @@ def head(lang, url, title, desc, path, extra_css=()):
     #
     # На страницах документов x-default по-прежнему ведёт на английскую
     # версию, и это верно: у документа нет языконезависимой формы.
-    alts += ('<link rel="alternate" hreflang="x-default" href="%s/">\n'
-             % ORIGIN)
-    ld = {'@context': 'https://schema.org', '@type': 'WebPage',
-          'name': title, 'description': desc, 'inLanguage': lang, 'url': url,
-          'publisher': {'@type': 'Organization', 'name': 'Earthlings',
-                        'url': ORIGIN}}
+    if path is not None:
+        alts += ('<link rel="alternate" hreflang="x-default" href="%s/">\n'
+                 % ORIGIN)
+    ld = ld or {'@context': 'https://schema.org', '@type': 'WebPage',
+                'name': title, 'description': desc, 'inLanguage': lang,
+                'url': url,
+                'publisher': {'@type': 'Organization', 'name': 'Earthlings',
+                              'url': ORIGIN}}
     css = C.font_preloads(lang) + [
            '<link rel="stylesheet" href="/css/tokens.css">',
            '<link rel="stylesheet" href="/css/chrome.css">',
@@ -456,13 +576,22 @@ def head(lang, url, title, desc, path, extra_css=()):
     ])
 
 
-def wrap(lang, inner, url, title, desc, path, extra_css=()):
+def wrap(lang, inner, url, title, desc, path, extra_css=(), ld=None,
+         lang_url=None):
     href = lambda n: doc_href(n, lang)                     # noqa: E731
     have = lambda n: has_doc(n, lang)                      # noqa: E731
+    # Переключатель языка в шапке и hreflang в голове - две РАЗНЫЕ вещи, и у
+    # страницы без переводов они расходятся. hreflang молчит (path=None):
+    # переводов нет, обещать нечего. Переключатель обязан остаться рабочим -
+    # он есть на каждой странице сайта, - и уводит на главную выбранного
+    # языка. Пока это был один аргумент на двоих, страницу без переводов
+    # нельзя было собрать, не сломав шапку.
+    lang_url = lang_url or path
+    assert lang_url, u'шапке нечего дать переключателю языка: %s' % url
     return '\n'.join([
-        head(lang, url, title, desc, path, extra_css),
+        head(lang, url, title, desc, path, extra_css, ld),
         '<body>',
-        C.header_html(lang, doc_href=href, lang_url=path,
+        C.header_html(lang, doc_href=href, lang_url=lang_url,
                       home_url='/%s/' % lang, has_doc=have),
         inner,
         # Главная, Обращение и корень прижимают подвал: последняя полоса
@@ -1369,6 +1498,107 @@ def build_root():
                 ['<link rel="stylesheet" href="/css/langlist.css">'])
 
 
+def check_essay_typography():
+    u"""В таблице ESSAYS нет знаков, по которым текст читается как машинный.
+
+    Словарь строится из ЧИСЛОВЫХ кодпойнтов, а не из литералов: литерал в
+    исходнике сам может оказаться тем знаком, который ищем, и проверка тогда
+    молча совпадает сама с собой. Правило общее для сайта и записано в
+    CLAUDE.md; здесь оно нужно особо, потому что аннотации приезжают копией с
+    Medium и Paragraph, а обе площадки ставят длинное тире и «умные» кавычки
+    сами.
+    """
+    assert ESSAYS, u'таблица статей пуста - проверять нечего'
+    bad_chars = {
+        0x2014: u'длинное тире', 0x2013: u'короткое тире',
+        0x2212: u'знак минуса', 0x2026: u'многоточие одним знаком',
+        0x201C: u'левая двойная', 0x201D: u'правая двойная',
+        0x201E: u'нижняя двойная', 0x2018: u'левая одинарная',
+        0x2019: u'правая одинарная', 0x201A: u'нижняя одинарная',
+        0x00A0: u'неразрывный пробел', 0x202F: u'узкий неразрывный',
+        0x2009: u'тонкий пробел', 0x200B: u'пробел нулевой ширины',
+        0x200C: u'несоединитель', 0x2060: u'соединитель слов',
+        0xFEFF: u'метка порядка байтов',
+    }
+    bad = []
+    for row in ESSAYS:
+        for field in row:
+            for ch in field:
+                if ord(ch) in bad_chars:
+                    bad.append(u'%s: %s (U+%04X)'
+                               % (row[1][:40], bad_chars[ord(ch)], ord(ch)))
+    for s in (ESSAYS_TITLE, ESSAYS_LEAD):
+        for ch in s:
+            if ord(ch) in bad_chars:
+                bad.append(u'лид страницы: %s (U+%04X)'
+                           % (bad_chars[ord(ch)], ord(ch)))
+    assert not bad, u'типографика статей: %s' % u'; '.join(sorted(set(bad)))
+
+
+def build_essays():
+    u"""Страница /essays/ - ссылки на статьи и эссе, опубликованные на стороне.
+
+    Почему она СОБИРАЕТСЯ, а не лежит готовым файлом. Статическая страница не
+    получает шапку и подвал из chrome.py, и при первой же правке меню
+    разойдётся с остальным сайтом - так уже расходились немецкое меню со своим
+    источником и load_shared_dirs с боевым конфигом. Плюс генерируемую
+    страницу накрывает `--check`, которая ловит устаревание; статическую не
+    накрывает ничто.
+
+    Отличие от Обращения: страница ОДНА и английская. Языкового цикла у неё
+    нет, hreflang нет тоже - переводов не существует, и обещать их нельзя.
+
+    Ссылки наружу открываются в ТОЙ ЖЕ вкладке. `target="_blank"` здесь был бы
+    решением за читателя: у него есть свои средства открыть ссылку рядом, а
+    отменить чужой `_blank` ему нечем. `rel="noopener"` стоит на каждой - он
+    про безопасность, а не про вкладку, и нужен независимо от неё.
+    """
+    check_essay_typography()
+    lang = 'en'
+    url = ORIGIN + '/essays/'
+    esc = C.esc
+
+    rows = []
+    for href, title, place, when, note in ESSAYS:
+        assert href.startswith('https://'), u'адрес не по https: %s' % href
+        assert note and note != title, (
+            u'аннотация пуста или повторяет заголовок: %s' % title)
+        rows.append(
+            u'<li><a class="essay-t" href="%s" rel="noopener">%s</a>'
+            u'<p class="essay-m">%s<span class="essay-dot"></span>%s</p>'
+            u'<p class="essay-n">%s</p></li>'
+            % (esc(href), esc(title), esc(place), esc(when), esc(note)))
+
+    o = ['<main class="library" id="main">',
+         '<h1>%s</h1>' % esc(ESSAYS_TITLE),
+         '<section class="lead col"><p>%s</p></section>' % esc(ESSAYS_LEAD),
+         '<ul class="essays">'] + rows + ['</ul>', '</main>']
+
+    # Структурные данные - как у библиотек документов: `CollectionPage`
+    # описывает саму страницу, вложенный `ItemList` - то, что на ней
+    # перечислено. Тип выбран по тому, чем страница является: это не статья
+    # (своего текста у неё две фразы) и не сайт, а перечень. `position` -
+    # порядок на странице, врать ему нельзя.
+    ld = {'@context': 'https://schema.org', '@type': 'CollectionPage',
+          'name': ESSAYS_TITLE, 'description': ESSAYS_LEAD,
+          'inLanguage': lang, 'url': url,
+          'publisher': {'@type': 'Organization', 'name': 'Earthlings',
+                        'url': ORIGIN},
+          'mainEntity': {
+              '@type': 'ItemList', 'numberOfItems': len(ESSAYS),
+              'itemListElement': [
+                  {'@type': 'ListItem', 'position': i + 1,
+                   'url': row[0], 'name': row[1]}
+                  for i, row in enumerate(ESSAYS)]}}
+
+    desc = (u'%d essays and articles by Earthlings, published on Paragraph '
+            u'and Medium. Links to the originals, with the opening line of '
+            u'each.' % len(ESSAYS))
+    return wrap(lang, '\n'.join(o), url,
+                '%s | Earthlings' % ESSAYS_TITLE, desc,
+                None, [], ld, lang_url=lambda c: '/%s/' % c)
+
+
 def stale(path, page):
     u"""Отстала ли страница на диске от того, что собралось сейчас.
 
@@ -1480,14 +1710,36 @@ def main():
                           page.split('<body', 1)[1])).strip()
             print('OK   _v2/index.html      %3d КБ, текста без JS: %5d знаков, '
                   'языков 9' % (len(page.encode('utf-8')) // 1024, len(text)))
+
+        # Страница статей собирается тем же полным прогоном, что и корень.
+        # Языков у неё нет, но подвал у неё общий: ссылка на неё стоит в
+        # FOOTER_ESSAYS и появляется на всех девяти языках разом. Собирать её
+        # отдельно от девятки значило бы пустить в подвал ссылку раньше, чем
+        # появится страница.
+        page = build_essays()
+        d = os.path.join(OUT, 'essays')
+        if check:
+            why = stale(os.path.join(d, 'index.html'), page)
+            if why:
+                old.append(('essays/index.html', why))
+        else:
+            if not os.path.isdir(d) and not dry:
+                guard.makedirs(d)
+            guard.write(os.path.join(d, 'index.html'), page, dry=dry)
+            text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
+                          page.split('<body', 1)[1])).strip()
+            print('OK   _v2/essays/index.html %1d КБ, текста без JS: %5d '
+                  'знаков, статей %d'
+                  % (len(page.encode('utf-8')) // 1024, len(text), len(ESSAYS)))
     elif not check:
         print('корень не собран: прогон неполный (%d языков из 9)' % len(langs))
 
     if check:
         # Считается ВСЁ, что собирает этот генератор: девять главных, девять
-        # Обращений и корень. Ноль проверенных страниц - это не «всё хорошо»,
-        # а поломка проверки, поэтому здесь assert, а не тихий выход.
-        n = len(langs) * (1 if only_address else 2) + (0 if only_address else 1)
+        # Обращений, корень и страница статей. Ноль проверенных страниц - это
+        # не «всё хорошо», а поломка проверки, поэтому здесь assert, а не
+        # тихий выход.
+        n = len(langs) * (1 if only_address else 2) + (0 if only_address else 2)
         assert n >= 3, u'проверять нечего: страниц %d' % n
         for name, why in old:
             print(u'ОТСТАЛА  _v2/%s  %s' % (name, why))

@@ -2619,6 +2619,16 @@ def write_sitemap_v2(titles, dry=False):
                         alts(lambda x: '%s/documents/%s/' % (ORIGIN, x)),
                         lastmod=corpus_date[c]))
 
+    # Страница статей и эссе. Наша страница с нашим текстом, и в сайтмап она
+    # идёт как все прочие. hreflang у неё нет: языковых версий не существует,
+    # и объявлять их в сайтмапе - тот же дефект, что и на самой странице.
+    #
+    # Мастера у неё тоже нет: состав лежит таблицей ESSAYS в генераторе
+    # главных. Поэтому lastmod считается по файлу генератора - правка таблицы
+    # и есть правка страницы. Второго источника у этой даты быть не может.
+    body.append(url(ORIGIN + '/essays/', 'monthly', '0.6',
+                    lastmod=_dated(['_tools/build_home_v2.py'])))
+
     docs = 0
     for num in CHAIN:
         langs = [c for c in built if has_doc(num, c) and num in titles]
