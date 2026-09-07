@@ -92,6 +92,18 @@ def strip(css):
     return s.strip() + '\n'
 
 
+# Листы разделов, перенесённых в новый сайт КАК ЕСТЬ. Они лежат в выдаче,
+# но исходника в _tools/css/ у них нет и быть не должно: это не наш дизайн,
+# а чужой, переехавший без изменений вместе со своим разделом.
+#
+# Оба - листы книги «Свет в тёмной комнате». Со дня подмены сайта они
+# отдавали 404 больше суток, и книга стояла без стилей; перенесены в _v2
+# 2026-09-07 коммитом 000643f0. Список именной, а не маска `*`: маска
+# погасила бы и настоящий случай, ради которого проверка написана - лист,
+# оставшийся в выдаче после того, как исходник удалили.
+CARRIED_CSS = {'documents-shared.css', 'fonts-base.css'}
+
+
 def sources():
     files = sorted(glob.glob(os.path.join(SRC, '*.css')))
     assert files, u'исходников стилей не найдено: %s' % SRC
@@ -115,8 +127,10 @@ def build(check=False):
             if not check:
                 guard.write(dst, want)
     # Лист, оставшийся в выдаче без исходника, - тоже расхождение: он
-    # отдаётся читателю, а починить его негде.
-    names = {os.path.basename(p) for p in sources()}
+    # отдаётся читателю, а починить его негде. Кроме перенесённых как есть:
+    # у книги своя вёрстка и свои два листа, из исходников нового сайта они
+    # не порождаются и порождаться не должны (см. CARRIED_CSS).
+    names = {os.path.basename(p) for p in sources()} | CARRIED_CSS
     orphan = sorted(os.path.basename(p) for p in glob.glob(os.path.join(OUT, '*.css'))
                     if os.path.basename(p) not in names)
     return stale, orphan, total_src, total_out

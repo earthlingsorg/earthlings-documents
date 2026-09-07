@@ -103,8 +103,15 @@ NOT_IN_WEBROOT = ['preview', 'i18n', 'tools']
 # чтения, а доказательства: подписанные манифесты и ключи. Ссылок на них с
 # сайта нет и не должно быть, robots.txt их закрывает.
 #
+# book - книга «Свет в тёмной комнате». Своя вёрстка и свои два листа стилей,
+# на новый дизайн не переводится (решение 2026-09-02: книга возвращена на
+# сайт в прежнем оформлении и на прежних адресах). Переехала в `_v2` целиком
+# 2026-09-07, когда снимался общий блок nginx. Её 26 страниц не знают ни
+# токенов нового сайта, ни его значка, ни счётчика: требовать это с них -
+# семь вечных провалов, которые никто не собирается чинить.
+#
 # `preview` в этот список не входит: он не переносится вовсе, а удалён.
-CARRIED = ['awakened_code', 'verification']
+CARRIED = ['awakened_code', 'verification', 'book']
 
 
 class Row(object):
@@ -289,15 +296,33 @@ def load_shared_dirs():
         raise IOError(
             u'нет снимка боевого nginx: %s. Снимок тянется скриптом '
             u'earthlings-nginx/sync-from-server.sh' % p)
+    conf = read(p)
     m = re.search(r'location\s+~\s+\^/\(([a-z_|]+)\)/[^{]*\{[^}]*@shared',
-                  read(p), re.S)
+                  conf, re.S)
     if not m:
-        raise IOError(
-            u'в %s не найден общий блок: локация вида ^/(...)/ с try_files в '
-            u'@shared. Либо снимок отстал от сервера (синк - '
-            u'earthlings-nginx/sync-from-server.sh), либо блок на сервере '
-            u'переписан. Молча вернуть пустой список нельзя: тогда КАЖДЫЙ '
-            u'адрес прежнего дерева считался бы потерянным.' % p)
+        # Общего блока нет по одной из двух причин, и они противоположны.
+        #
+        # Его СНЯЛИ намеренно 2026-09-07, когда `_v2` стал самодостаточным:
+        # тогда пустой список - правда, старое дерево больше ничего не
+        # отдаёт, и каждый адрес обязан находиться в новом корне.
+        #
+        # Или снимок отстал от сервера, блок цел, а мы об этом не знаем:
+        # тогда пустой список объявил бы потерянным каждый адрес прежнего
+        # дерева, и приёмка утонула бы в ложных провалах.
+        #
+        # Различаем по остатку: снятие убирает ОБА блока сразу, и regex, и
+        # `location @shared`. Уцелевший `@shared` без своей regex-локации -
+        # это не снятие, а разъехавшийся конфиг, и молчать о нём нельзя.
+        if re.search(r'location\s+@shared\b', conf):
+            raise IOError(
+                u'в %s есть location @shared, но нет локации вида ^/(...)/, '
+                u'которая в него уходит. Это не снятие общего блока, а '
+                u'полуснятый конфиг: либо снимок отстал от сервера (синк - '
+                u'earthlings-nginx/sync-from-server.sh), либо блок на '
+                u'сервере переписан. Молча вернуть пустой список нельзя: '
+                u'тогда КАЖДЫЙ адрес прежнего дерева считался бы '
+                u'потерянным.' % p)
+        return []
     dirs = [d for d in m.group(1).split('|') if d]
     if not dirs:
         raise IOError(u'группа общих каталогов пуста: %s' % m.group(0)[:80])
@@ -474,6 +499,109 @@ def check_internal_links(tree, resolve):
                u'битых целей %d, вхождений %d' % (len(bad), total),
                [u'%s (%d стр., напр. %s)' % (k, len(v), v[0])
                 for k, v in sorted(bad.items())])
+
+
+# Что ссылкой не считается. Шаблонные подстановки JavaScript выглядят как
+# адрес и адресом не являются: `${filePath}` в verification/documents уже
+# один раз попал в отчёт битой целью.
+ASSET_SKIP = ('http://', 'https://', '//', 'mailto:', 'tel:', 'data:',
+              'javascript:', '#')
+
+
+def page_asset_targets(tree):
+    u"""Все цели href и src со всех страниц черновика: {адрес: [страницы]}.
+
+    Почему и src, а не только href. Страница книги честно отдавала 200 и
+    стояла без стилей больше суток: оба её листа отдавали 404, а спрашивал
+    их только `<link href>` - которого проверка внутренних ссылок не видела,
+    потому что смотрела на дерево файлов, а не на выдачу. Лист лежал в
+    дереве прежнего сайта и не отдавался: до него не доставал ни один
+    `location`.
+
+    Каталожный адрес разрешается через свой `index.html`, и трейлинг-слеш
+    при этом обязан пережить нормализацию пути: `os.path.normpath` его
+    съедает, и `/book/ru/` превращается в файл `/book/ru`, которого нет.
+    Семь ложных срабатываний вместо одного настоящего - это уже было.
+    """
+    out = {}
+    for relpath, s in tree.every().items():
+        base = os.path.dirname(relpath)
+        for m in re.finditer(r'(?:href|src)="([^"]+)"', s):
+            href = m.group(1)
+            if href.startswith(ASSET_SKIP) or '${' in href or '{{' in href:
+                continue
+            path = href.split('#')[0].split('?')[0]
+            if not path:
+                continue
+            slash = path.endswith('/')
+            if not path.startswith('/'):
+                path = '/' + os.path.normpath(
+                    os.path.join(base, path)).replace(os.sep, '/')
+            if slash and not path.endswith('/'):
+                path += '/'
+            out.setdefault(path, []).append(relpath)
+    return out
+
+
+# Адреса, битые и ДО этой проверки, и не ею внесённые. Список именной и
+# короткий: молча вычесть из отчёта чужой дефект - значит его похоронить,
+# поэтому каждая строка называет причину, а проверка печатает их число
+# отдельной фразой даже когда зелена.
+#
+# /verification/documents/{en,ru}/ - кнопки «Browse EN/RU Folder» в
+# verification/documents/index.html ждут листинга каталога. Автолистинга у
+# nginx нет и не будет (autoindex off), index.html в этих каталогах не было
+# ни в прежнем дереве, ни в новом. Живой сайт отвечает на них 403 и отвечал
+# им же до переезда в `_v2`. Чинится не здесь: это правка содержимого
+# страницы, а переезд правок содержимого не несёт.
+ASSET_KNOWN_BROKEN = {
+    '/verification/documents/en/': u'кнопка листинга каталога, 403 и до переезда',
+    '/verification/documents/ru/': u'кнопка листинга каталога, 403 и до переезда',
+}
+
+
+def check_page_assets(tree, resolve):
+    u"""Отдаётся ли то, на что ссылаются сами страницы.
+
+    Континуитет спрашивает адреса СТРАНИЦ. Эта проверка спрашивает то, что
+    страница тянет к себе: листы стилей, скрипты, изображения, шрифты,
+    ссылки на соседние страницы. Разница не теоретическая - ровно в неё
+    провалилась книга.
+
+    Быстрый режим отвечает по дереву и по локациям nginx (тот же resolve,
+    что у континуитета), `--live` спрашивает живой сайт. Годными считаются
+    200 и 301. Сетевая беда возвращается строкой и попадает в отчёт как
+    беда, а не как потерянный адрес: это разные новости.
+    """
+    name = u'ссылки внутри страниц'
+    targets = page_asset_targets(tree)
+    if not targets:
+        return fail(name, u'ни одной ссылки не собрано - проверять нечего')
+    known = sorted(t for t in targets if t in ASSET_KNOWN_BROKEN)
+    ask = [t for t in sorted(targets) if t not in ASSET_KNOWN_BROKEN]
+    tail = (u', известных чужих дефектов %d' % len(known)) if known else u''
+
+    if not LIVE:
+        bad = [t for t in ask if resolve(t) is None]
+        return Row(name, not bad,
+                   u'по дереву и nginx: целей %d, не отдаётся %d%s '
+                   u'(живой сайт - с --live)' % (len(ask), len(bad), tail),
+                   [u'%s <- %d стр., напр. %s'
+                    % (t, len(targets[t]), targets[t][0]) for t in bad]
+                   + [u'известен и не считается: %s - %s'
+                      % (t, ASSET_KNOWN_BROKEN[t]) for t in known])
+
+    bad = []
+    for t in ask:
+        st = live_status(t)
+        if st not in (200, 301):
+            bad.append(u'%s -> %s <- %d стр., напр. %s'
+                       % (t, st, len(targets[t]), targets[t][0]))
+    return Row(name, not bad,
+               u'спрошен живой сайт: целей %d, отвечают не 200/301: %d%s'
+               % (len(ask), len(bad), tail),
+               bad + [u'известен и не считается: %s - %s'
+                      % (t, ASSET_KNOWN_BROKEN[t]) for t in known])
 
 
 def check_root_files(tree, resolve):
@@ -1023,6 +1151,7 @@ CHECKS = [
     check_continuity,
     check_live_documents,
     check_internal_links,
+    check_page_assets,
     check_root_files,
     check_head_icons,
     check_robots,
