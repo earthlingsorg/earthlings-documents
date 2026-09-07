@@ -821,6 +821,7 @@ Les principes suivants ne peuvent être modifiés, même à la majorité qualifi
 - **Ouverture et transparence des décisions et des finances.** Toutes les décisions de la DAO, les résultats des votes, les transactions financières du Fonds et les actes des structures d'exécution sont publics et vérifiables. Les données personnelles et biométriques des participants ne sont pas publiques pour autant: elles sont protégées par l'article 13. La transparence porte sur les actes des institutions et non sur les données personnelles des gens; l'expression de la volonté d'une personne déterminée relève des données personnelles et peut être couverte dans les conditions de l'article 6
 - **Caractère volontaire.** La participation et la sortie sont libres, l'exclusion est impossible
 - **Révocabilité de toute mission.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil qui n'excède pas celui de son octroi n'est pas confié
+- **Le seuil de modification de la présente Charte.** Les seuils de l'article 36 ne peuvent être abaissés par une décision prise dans les conditions de ce même article; cela est établi à l'article 9 de la Déclaration
 
 > **Rapport avec la Déclaration.** Les principes énumérés sont l'expression opérationnelle du noyau intangible de la Déclaration des Earthlings: la vie, la dignité et la liberté de la personne, la solidarité planétaire, le souci de la planète et le refus de la concentration du pouvoir. Ils ne peuvent restreindre ce noyau et s'interprètent uniquement en sa faveur.
 

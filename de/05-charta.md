@@ -821,6 +821,7 @@ Die folgenden Grundsätze lassen sich auch mit qualifizierter Mehrheit nicht än
 - **Offenheit und Durchsichtigkeit der Beschlüsse und der Finanzen.** Alle Beschlüsse der DAO, die Ergebnisse der Abstimmungen, die Finanzvorgänge des Fonds und die Handlungen der ausführenden Strukturen sind öffentlich und überprüfbar. Personenbezogene und biometrische Daten der Teilnehmer sind dabei nicht öffentlich - sie sind durch Artikel 13 geschützt. Die Durchsichtigkeit erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen; die Willensbekundung eines bestimmten Menschen gehört zu den persönlichen Daten und kann nach Artikel 6 verschlossen werden
 - **Freiwilligkeit.** Teilnahme und Austritt sind frei, ein Ausschluss ist unmöglich
 - **Widerruflichkeit jedes Auftrags.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle als der ihrer Erteilung widerrufen lässt, wird nicht erteilt
+- **Die Schwelle für die Änderung dieser Charta.** Die Schwellen des Artikels 36 können nicht durch einen Beschluss abgesenkt werden, der nach demselben Artikel gefasst wird; das ist in Artikel 9 der Erklärung festgelegt
 
 > **Das Verhältnis zur Erklärung.** Die aufgezählten Grundsätze sind der betriebliche Ausdruck des unabänderlichen Kerns der Erklärung der Earthlings - des Lebens, der Würde und der Freiheit des Menschen, der planetaren Solidarität, der Sorge für den Planeten und des Verzichts auf die Anhäufung von Macht. Sie dürfen diesen Kern nicht einengen und werden nur zu seinen Gunsten ausgelegt.
 
