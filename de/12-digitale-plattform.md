@@ -144,7 +144,7 @@ Die Plattform sichert den vollständigen Lauf: vom Auftauchen einer Idee bis zum
 
 Jeder Teilnehmer, der einen Pass hat und die Erklärung unterzeichnet hat, hat eine Stimme. Die Stimme wird weder durch die Menge an Recheneinheiten noch durch die Stellung in Zellen noch durch das Ansehen verstärkt. Wirtschaftliches Gewicht und Stimmrecht sind baulich getrennt und nicht bloß erklärt.
 
-**Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe oder als allgemeine Sanktion beschränkt werden** (Erklärung, Artikel 4; Charta, Artikel 17 und 37). Die in Artikel 22 der Charta vorgesehenen Beschränkungen betreffen die Teilnahme an Zellen, das Recht, Vorschläge einzubringen, und den Zugang zu einzelnen Diensten, nicht aber die Stimme und nicht den Zugang zu den Abstimmungen selbst.
+**Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe oder als allgemeine Sanktion beschränkt werden** (Erklärung, Artikel 4; Charta, Artikel 17 und 37). Nach Artikel 22 der Charta gibt es gegenüber einer Person nur eine Maßnahme - die Verwarnung, und sie entzieht nichts: weder die Stimme noch den Zugang zu den Abstimmungen selbst, noch das Recht, Vorschläge einzubringen, noch die Teilnahme an Zellen, noch den Zugang zu Diensten. Die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle und berühren die Rechte einer Person nicht.
 
 Der einzige Fall, in dem die Plattform eine Aussetzung der Stimme ausführt, ist ein Beschluss der Vollversammlung nach Artikel 22-bis der Charta wegen einer nachgewiesenen Untergrabung der Unversehrtheit der Abstimmung, für eine Dauer von höchstens 6 Monaten. Die Plattform führt einen solchen Beschluss aus und kann ihn weder einleiten noch aus einem anderen Grund anwenden noch verlängern.
 

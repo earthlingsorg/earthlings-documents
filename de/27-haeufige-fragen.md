@@ -92,7 +92,7 @@ Die Verbindung der Daten mit der Person wird getrennt, die Verarbeitung personen
 
 Nein. Ein Verfahren des Ausschlusses gibt es unter keinen Umständen und für keine Mehrheit.
 
-**Und die Stimme lässt sich Ihnen für Ihre Ansichten nicht entziehen.** Weder dafür, wie Sie abstimmen, noch für die Ablehnung von Beschlüssen, noch als allgemeine Strafe für eine Regelverletzung. Die Beschränkungen der fünf Stufen betreffen die Teilnahme an Zellen - kleinen Arbeitsgruppen -, das Recht, Vorschläge einzubringen, und den Zugang zu Diensten, nicht aber die Stimme und nicht die Zugehörigkeit.
+**Und die Stimme lässt sich Ihnen für Ihre Ansichten nicht entziehen.** Weder dafür, wie Sie abstimmen, noch für die Ablehnung von Beschlüssen, noch als allgemeine Strafe für eine Regelverletzung. Gegenüber einer Person gibt es nur eine Maßnahme - die Verwarnung, und sie entzieht nichts: weder die Stimme noch die Zugehörigkeit, noch das Recht, Vorschläge einzubringen, noch die Teilnahme an Zellen - kleinen Arbeitsgruppen -, noch den Zugang zu Diensten. Die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle und nicht an eine Person.
 
 Die einzige Ausnahme ist ein nachgewiesener Angriff auf den Abstimmungsmechanismus selbst: Absprache, Kauf oder Verkauf einer Stimme, Nötigung anderer, der Versuch, einen zweiten Pass anzulegen. Dann wird die Stimme für bis zu 6 Monate durch einen Beschluss mit 75 Prozent ausgesetzt, geheim, mit dem Recht auf Verteidigung und mit Beschwerde. Meinungen sind niemals ein Grund.
 
