@@ -561,7 +561,7 @@ El pueblo Earthlings no está obligado a destinar los recursos comunes a quien l
 - **Retirada de la financiación de un proyecto**: el cese de los desembolsos correspondientes a las fases todavía no ejecutadas de un proyecto financiado por la Tesorería Earthlings
 - **Cese de la financiación de una célula**: el cese de los pagos a la célula con cargo a los fondos comunes
 - **Retirada del reconocimiento**: el cese de la presentación de un proyecto o de una célula en los canales y medios del pueblo Earthlings como proyecto o célula del pueblo
-- **Disolución de una célula**: la extinción de la célula como asociación en torno a un recurso común; los fundamentos y el procedimiento están establecidos en el artículo 25
+- **Disolución de una célula**: la extinción de la célula como asociación formada en torno a un recurso común; los fundamentos y el procedimiento están establecidos en el artículo 25
 
 **Fundamentos de las medidas sobre los recursos comunes:**
 
@@ -665,7 +665,7 @@ La Asamblea DAO no coordina el trabajo cotidiano de las células. Las células a
 
 **Qué puede decidir la DAO respecto de una célula:** cesar su financiación con cargo a los fondos comunes, retirar el reconocimiento - cesar la presentación de la célula en los recursos del pueblo Earthlings como célula del pueblo - y disolver la célula. No existen otras sanciones a una célula. La decisión la adopta la DAO por mayoría cualificada tras una investigación independiente y puede recurrirse conforme al artículo 22.
 
-Ninguna de estas medidas limita los derechos de los participantes en la célula como Earthlings: ni la pertenencia, ni el derecho de voto, ni el derecho a presentar propuestas, ni el acceso a la plataforma. Una célula es una asociación en torno a un recurso común, y una decisión sobre ella es una disposición de lo común: la persona que participó en ella puede crear una nueva, unirse a otra y solicitar financiación de nuevo.
+Ninguna de estas medidas limita los derechos de los participantes en la célula como Earthlings: ni la pertenencia, ni el derecho de voto, ni el derecho a presentar propuestas, ni el acceso a la plataforma. Una célula es una asociación formada en torno a un recurso común, y una decisión sobre ella es una disposición de lo común: la persona que participó en ella puede crear una nueva, unirse a otra y solicitar financiación de nuevo.
 
 ## Artículo 26. Economía de las células
 

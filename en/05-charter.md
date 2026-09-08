@@ -561,7 +561,7 @@ The Earthlings people are not obliged to give what is common to someone who spen
 - **Withdrawal of funding from a project** - ending payments for the unpaid milestones of a project funded by the Earthlings Treasury
 - **Ending the funding of a Cell** - ending payments to the Cell out of common funds
 - **Withdrawal of recognition** - ending the presentation of a project or a Cell on the resources of the Earthlings people as its project or its Cell
-- **Dissolution of a Cell** - ending the existence of the Cell itself as an association around a common resource; the grounds and procedure are established by Article 25
+- **Dissolution of a Cell** - ending the existence of the Cell itself as an association formed around a common resource; the grounds and procedure are established by Article 25
 
 **Grounds for measures addressed to common resources:**
 
@@ -665,7 +665,7 @@ The DAO Assembly does not coordinate the day-to-day work of Cells. Cells act aut
 
 **What the DAO may decide in respect of a Cell:** to end its funding out of common funds, to withdraw recognition - to end the presentation of the Cell on the resources of the Earthlings people as a Cell of the people - and to dissolve the Cell. No other sanctions against a Cell exist. The decision is taken by a qualified majority of the DAO after an independent investigation and is appealed under Article 22.
 
-None of these measures restricts the rights of the Cell's participants as Earthlings: neither belonging, nor the right to vote, nor the right to submit proposals, nor access to the platform. A Cell is an association around a common resource, and a decision about it is a disposal of what is common: a person who took part in a Cell may create a new one, join another and apply for funding again.
+None of these measures restricts the rights of the Cell's participants as Earthlings: neither belonging, nor the right to vote, nor the right to submit proposals, nor access to the platform. A Cell is an association formed around a common resource, and a decision about it is a disposal of what is common: a person who took part in a Cell may create a new one, join another and apply for funding again.
 
 ## Article 26. The Economics of Cells
 

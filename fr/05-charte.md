@@ -561,7 +561,7 @@ Le peuple des Earthlings n'est pas tenu de donner le bien commun à qui le dépe
 - **Le retrait du financement d'un projet** - la cessation des versements pour les étapes non encore payées d'un projet financé par la Trésorerie des Earthlings
 - **La cessation du financement d'une cellule** - la cessation des versements à la cellule sur les fonds communs
 - **Le retrait de la reconnaissance** - la cessation de la présentation d'un projet ou d'une cellule, sur les supports officiels du peuple des Earthlings, comme son projet ou sa cellule
-- **La dissolution d'une cellule** - la fin de son existence en tant qu'association autour d'une ressource commune; les motifs et les modalités sont établis à l'article 25
+- **La dissolution d'une cellule** - la fin de son existence en tant qu'association formée autour d'une ressource commune; les motifs et les modalités sont établis à l'article 25
 
 **Motifs des mesures visant les ressources communes:**
 
@@ -665,7 +665,7 @@ L'Assemblée DAO ne coordonne pas le travail quotidien des cellules. Les cellule
 
 **Ce que la DAO peut décider à l'égard d'une cellule:** cesser son financement sur les fonds communs, retirer la reconnaissance - cesser de présenter la cellule, sur les supports officiels du peuple des Earthlings, comme une cellule du peuple - et dissoudre la cellule. Il n'existe pas d'autres sanctions à l'égard d'une cellule. La décision est prise à la majorité qualifiée de la DAO après une enquête indépendante et peut faire l'objet d'un recours dans les conditions prévues à l'article 22.
 
-Aucune de ces mesures ne restreint les droits des participants à la cellule en tant qu'Earthlings: ni l'appartenance, ni le droit de vote, ni le droit de faire des propositions, ni l'accès à la plateforme. Une cellule est une association autour d'une ressource commune, et une décision la concernant est une disposition du bien commun: la personne qui y a participé a le droit d'en créer une nouvelle, d'entrer dans une autre et de demander à nouveau un financement.
+Aucune de ces mesures ne restreint les droits des participants à la cellule en tant qu'Earthlings: ni l'appartenance, ni le droit de vote, ni le droit de faire des propositions, ni l'accès à la plateforme. Une cellule est une association formée autour d'une ressource commune, et une décision la concernant est une disposition du bien commun: la personne qui y a participé a le droit d'en créer une nouvelle, d'entrer dans une autre et de demander à nouveau un financement.
 
 ## Article 26. L'économie des cellules
 
