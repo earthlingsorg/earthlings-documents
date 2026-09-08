@@ -259,7 +259,7 @@ Within the system of Cells, indicators of the quality of work may be used.
 > - it is not a condition of joining a Cell or taking part in a project;
 > - it does not affect the order of funding: that is determined by the number of participants who supported the project, not by the applicant's rating (Charter, Article 11);
 > - it does not affect a proposal's place in the feed - the feed is chronological;
-> - it constitutes no measure of liability: restrictions apply only under Article 22 of the Charter, with a right of defence and appeal.
+> - it constitutes no measure of liability: measures apply only under Article 22 of the Charter, with a right of defence and appeal, and do not concern the rights of a person.
 >
 > Reputation is an instrument of navigation and nothing more. A mechanism in which it opens access to resources turns it into a hidden voting weight and is therefore excluded.
 
@@ -292,7 +292,7 @@ The DAO intervenes in the affairs of a Cell only on the grounds expressly listed
 
 No other grounds exist. Decisions are taken by a qualified majority after an independent investigation, not by individual people.
 
-> **Sanctions against a Cell do not affect its participants as Earthlings.** Dissolving a Cell entails neither expulsion from the people, which is impossible in principle, nor a restriction of the right to vote: a conflict in a working team is no ground for that, whatever the outcome. Restricting the powers of a particular person is possible only under Article 22 of the Charter, with a right of defence, a secret ballot, and appeal.
+> **Sanctions against a Cell do not affect its participants as Earthlings.** Dissolving a Cell entails neither expulsion from the people, which is impossible in principle, nor a restriction of the right to vote: a conflict in a working team is no ground for that, whatever the outcome. A measure under Article 22 of the Charter may concern common resources and may not concern the rights of a person; the procedure for applying it carries a right of defence, a secret ballot, and appeal.
 
 ## Leaving a Cell and belonging to the people
 

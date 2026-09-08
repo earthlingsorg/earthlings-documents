@@ -163,7 +163,7 @@ At **the holder's own request** on loss of access to a wallet or on migration of
 
 No one can be deprived of belonging to the people by compulsion. No procedure of expulsion exists.
 
-Where restrictive measures are applied for gross breaches of common rules, the passport is retained, **the right to vote is retained in full**, and the restrictions affect only participation in Cells, the right to submit proposals, and access to particular services - under the procedure of Article 22 of the Charter, with a right of defence, a secret ballot, and appeal.
+Where measures are applied for gross breaches of common rules, the passport is retained and **the right to vote is retained in full**. There is one measure addressed to a person - a warning, and it takes away neither the vote, nor the right to submit proposals, nor participation in Cells, nor access to services; the other measures are addressed to a project or a Cell and do not concern the rights of a person - under the procedure of Article 22 of the Charter, with a right of defence, a secret ballot, and appeal.
 
 ### What happens technically
 

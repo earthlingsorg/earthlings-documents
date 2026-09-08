@@ -28,7 +28,7 @@ Transparency, however, extends to the actions of institutions, not to the person
 
 Every earthling has an equal vote on the principle of "one person, one vote". Reputation, contribution, and experience may be taken into account in discussion, but are not converted into additional voting weight, do not open access to any role, and create no privileged classes of participant.
 
-**The vote is inalienable.** The right to vote cannot be taken away or suspended for a person's views, for how they voted, for disagreement with decisions, or as a general measure of liability (Declaration, Article 4; Charter, Articles 17 and 37). The restrictions provided for by Article 22 of the Charter affect participation in Cells, the right to submit proposals, and access to particular services, but not the vote.
+**The vote is inalienable.** The right to vote cannot be taken away or suspended for a person's views, for how they voted, for disagreement with decisions, or as a general measure of liability (Declaration, Article 4; Charter, Articles 17 and 37). The measures provided for by Article 22 of the Charter do not concern the rights of a person at all: the only measure addressed to a person is a warning, and the rest are addressed to a project or a Cell.
 
 The single exception is proven acts aimed at undermining the integrity of the voting itself: collusion, buying or selling a vote, coercing others, circumventing the rule of "one person, one passport" (Charter, Article 22 bis). Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
 
@@ -232,7 +232,7 @@ Every Cell is autonomous, but uses the DAO as common infrastructure for bringing
 
 The autonomy of Cells and the common architecture are in a relation of complementarity, not subordination: Cells are independent in the substance of their activity, while the DAO secures consistency in decisions affecting the whole people.
 
-Sanctions against a Cell provided for by Article 25 of the Charter do not entail restrictions on the rights of its participants as Earthlings: restricting the powers of an individual is possible only under Article 22 and does not affect the right to vote.
+Sanctions against a Cell provided for by Article 25 of the Charter do not entail restrictions on the rights of its participants as Earthlings: a measure under Article 22 may concern common resources and may not concern the rights of a person.
 
 ---
 

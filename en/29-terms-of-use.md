@@ -47,7 +47,7 @@ The people exists and develops with its own infrastructure, governance, and iden
 - **freedom and self-determination** - everyone is entitled to determine their own belonging;
 - **planetary solidarity**;
 - **transparency** - the infrastructure is open to verification, and decisions are taken collectively;
-- **refusal of the concentration of power** - we are building a horizontal design.
+- **no power of some over others** - no one holds a position above another person; we are building a horizontal design.
 
 These values are embodied in the architecture, not merely declared.
 
@@ -88,7 +88,7 @@ You are responsible for keeping your password and cryptographic keys safe, for a
 
 **What never happens.** Expulsion from the people does not exist. Belonging is inalienable and ends only by your own decision. The platform, its administrators, and the technical structures hold no such powers and cannot hold them.
 
-**What may be restricted by decision of the Assembly** under the procedure of Article 22 of the Charter, with a right of defence, a secret ballot, and appeal: participation in Cells, the right to submit proposals, access to particular platform services. Access to votes and to information is not restricted by these measures.
+**What the Assembly may decide** under the procedure of Article 22 of the Charter, with a right of defence, a secret ballot, and appeal: to issue a warning and to dispose of what is common - to withdraw funding from a project, to end the funding of a Cell, to withdraw recognition. These measures do not concern the rights of a person: neither belonging, nor the vote, nor the right to submit proposals and raise questions, nor participation in Cells, nor access to the platform and its services.
 
 **The right to vote** may be suspended **only** for proven undermining of the integrity of the voting itself - collusion, buying or selling a vote, coercing others, an attempt to circumvent the rule of "one person, one passport" - for a period of up to 6 months, under the procedure of Article 22 bis of the Charter. Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
 

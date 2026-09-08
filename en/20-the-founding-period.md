@@ -94,7 +94,7 @@ Everything that has force lies in the corpus and is open to proposals in full.
 Five provisions are not up for discussion under any circumstances. A people from whom they can be bargained away is no different from what already exists.
 
 - **One person, one vote.** A vote cannot be bought, sold, accumulated, or irrevocably transferred.
-- **Power does not accumulate.** Powers are limited, revocable, and verifiable; a mandate does not become an office.
+- **There is no power of some over others.** No one holds a position above another earthling; powers are limited, revocable, and verifiable, and a mandate does not become an office.
 - **Money is separated from the vote.** Property, contributions, and input give no additional rights in governance.
 - **Exit is free.** At any moment, without giving reasons. Expulsion from the people does not exist.
 - **The people speaks but does not coerce.** Violence is excluded without exception.

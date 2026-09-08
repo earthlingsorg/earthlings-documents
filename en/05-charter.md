@@ -14,7 +14,7 @@ Every vote is equal, every decision is transparent, every action is verifiable.
 
 **Only people vote.** Project teams and other structures hold no collective vote; only individual participants do.
 
-**A horizontal structure.** Power does not accumulate in any organ and does not rest on a monopoly on coercion; all decisions are taken democratically.
+**A horizontal structure.** There is no power of some people over others: no one holds a position above another earthling, powers accumulate in no organ and rest on no monopoly on coercion; all decisions are taken democratically.
 
 **Smart contracts = execution.** Automation instead of bureaucracy: code executes the rules adopted by people; all operations are transparent.
 
@@ -832,7 +832,7 @@ The following principles cannot be changed even by a qualified majority:
 - **Revocability of every mandate.** A power that cannot be revoked immediately and at a threshold no higher than the threshold of its grant is not granted
 - **The threshold for amending this Charter.** The thresholds set by Article 36 cannot be lowered by a decision taken under that same Article; this is established by Article 9 of the Declaration
 
-> **Relation to the Declaration.** The principles listed are the operational expression of the unamendable core of the Earthlings Declaration - the life, dignity and freedom of the person, planetary solidarity, care for the planet and the refusal of concentrated power. They cannot narrow that core and are construed only in its favour.
+> **Relation to the Declaration.** The principles listed are the operational expression of the unamendable core of the Earthlings Declaration - the life, dignity and freedom of the person, planetary solidarity, care for the planet and the absence of any power of some people over others. They cannot narrow that core and are construed only in its favour.
 
 ---
 

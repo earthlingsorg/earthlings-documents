@@ -75,7 +75,7 @@ Inside the people the passport gives everything: an equal vote, participation in
 - to take part in votes in good faith;
 - to be transparent in delivering projects and to account for the use of common funds.
 
-These are duties, not conditions for keeping your status: breaching them entails neither expulsion nor loss of the vote. Measures for gross breaches concern only participation in Cells (the small working groups), the right to submit proposals, and access to services ([Charter, Article 22](https://earth-lings.org/documents/en/en05-charter.html)).
+These are duties, not conditions for keeping your status: breaching them entails neither expulsion nor loss of the vote. There is one measure addressed to a person for gross breaches - a warning, and it takes nothing away: not the vote, not the right to submit proposals, not participation in Cells, not access to services. The other measures are addressed to a project or a Cell: the people may stop giving common money and withdraw their name, and this does not concern the rights of a person ([Charter, Article 22](https://earth-lings.org/documents/en/en05-charter.html)).
 
 ---
 

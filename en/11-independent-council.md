@@ -20,7 +20,7 @@ This distinction is material, and it should be drawn precisely.
 
 **The Council is independent of the executive structures.** It is not part of the system of operational management, is not subordinate to the Core Nodes or the Emergency Multisig, does not depend on them organizationally, and cannot be formed, limited, or dissolved by them.
 
-**The Council is not independent of the people.** It is elected by the DAO Assembly, recalled by it, and publicly accountable to it; its mandate is derivative. A body accountable to no one would be a direct breach of the very principle for which the whole people is built: power does not accumulate, and no position places a person or a group beyond a common decision.
+**The Council is not independent of the people.** It is elected by the DAO Assembly, recalled by it, and publicly accountable to it; its mandate is derivative. A body accountable to no one would hold a position above those it watches over. No one in the Earthlings people holds such a position: there is no power of some people over others, and no mandate places a person or a group beyond a common decision.
 
 The independence of the Council is independence of **judgment**, not independence from the source of its authority.
 
@@ -37,7 +37,7 @@ The independence of the Council is independence of **judgment**, not independenc
 
 These are the Council's only functions built into mandatory procedures, and both take the form of an opinion, not a decision.
 
-**Preliminary consideration on a restriction of powers** (Charter, Article 22). Within 14 days the Council considers whether the initiative is well founded and publishes a recommendation.
+**Preliminary consideration of measures under Article 22 of the Charter** - a warning and measures addressed to common resources. Within 14 days the Council considers whether the initiative is well founded and publishes a recommendation.
 
 **An opinion on annulment of an invalid issuance of a passport** (Charter, Article 21). The Council publishes an opinion before the vote under the same procedure.
 
@@ -180,4 +180,4 @@ Detailed procedures are set by the Council's rules of procedure, which are publi
 
 The Council acts on the basis of a mandate granted by the people through election, and derives its legitimacy not from state or international law but from the trust of those who voluntarily entered the people. Its opinions create no legal obligations either for participants or for the people's structures.
 
-**The strength of the Council lies in the quality of its judgments, not in the extent of its powers.** This is deliberate. A body watching over the observance of the principle that power does not accumulate cannot itself be an exception to it: as soon as an observer acquires powers, it ceases to be an observer and becomes one more authority that has to be watched.
+**The strength of the Council lies in the quality of its judgments, not in the extent of its powers.** This is deliberate. The Council watches that no one comes to hold a position above another person - and the first to hold such a position, were it given powers, would be the Council itself. As soon as an observer acquires powers, it ceases to be an observer and becomes one more authority that has to be watched.

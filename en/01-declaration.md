@@ -78,7 +78,7 @@ Rule by the people within the Earthlings people rests on three conditions, and n
 
 **Transparency.** Institutions are transparent; the person is not. No verification procedure may require disclosure of how a person voted, what they believe, or what convictions they hold.
 
-**No Concentration of Power.** Powers within the Earthlings people are at all times limited, distributed, revocable and verifiable. A mandate to carry out any function does not become an office. No position places a person, an institution or a group above the collective will of the people.
+**No Power of Some Over Others.** No one in the Earthlings people holds a position from which to command another person. Powers within the Earthlings people are at all times limited, distributed, revocable and verifiable. A mandate to carry out any function does not become an office. No position places a person, an institution or a group above the collective will of the people.
 
 **Technology.** Any technology serves the person and serves life. No technology may be used for the concealed manipulation of people, for limiting their freedom, for creating distinctions of caste or hierarchy, for digital subordination, or for suppressing human autonomy. No algorithm, code or system of artificial intelligence may be the final source of a decision affecting the rights, the dignity or the position of a person. Every person has the right to protection of the privacy of their data. The requirements for infrastructure that secure these rights are established by Article 10.
 
@@ -249,7 +249,7 @@ This Declaration is the founding document of the Earthlings people and holds the
 **What Is Unamendable.** The unamendable core of the Earthlings people is formed by Part I. The principles it establishes are unamendable. The principal ones are:
 
 1. one person, one vote; a vote cannot be bought, sold, accumulated or transferred irrevocably;
-2. power accumulates nowhere: powers are limited, revocable and verifiable, and a mandate to carry out any function does not become an office;
+2. there is no power of some people over others: no one holds a position above another earthling; powers are limited, revocable and verifiable, and a mandate to carry out any function does not become an office;
 3. property is separated from the vote: neither contributions, nor input, nor wealth confer any advantage in governance;
 4. leaving is free at any time and without giving reasons, and there is no expulsion from the people;
 5. the people speaks but does not compel: violence is excluded without exception.
