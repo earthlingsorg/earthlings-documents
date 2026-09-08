@@ -6,7 +6,7 @@
 
 Les Earthlings sont la réalisation opérationnelle et effective d'un peuple non territorial volontairement auto-organisé, fondée sur le principe de l'autodétermination.
 
-Les documents constitutifs du projet décrivent ce modèle comme l'architecture d'une société où le pouvoir ne s'accumule en aucun point. Les Earthlings réunissent des personnes de différents pays autour de la Déclaration des Earthlings - noyau constitutif intangible qu'aucune majorité ne peut récrire - et d'une infrastructure numérique assurant une participation vérifiée selon le principe « une personne - une voix » à l'échelle planétaire.
+Les documents constitutifs du projet décrivent ce modèle comme l'architecture d'une société où le pouvoir des uns sur les autres n'existe pas et où nul n'est placé au-dessus d'une autre personne. Les Earthlings réunissent des personnes de différents pays autour de la Déclaration des Earthlings - noyau constitutif intangible qu'aucune majorité ne peut récrire - et d'une infrastructure numérique assurant une participation vérifiée selon le principe « une personne - une voix » à l'échelle planétaire.
 
 L'architecture des Earthlings est conçue comme un système institutionnel d'un seul tenant, et non assemblée à partir de composants tout faits. Pour ses relations avec le système juridique existant, le peuple agit par l'intermédiaire de représentants habilités et recourt à des structures enregistrées et à d'autres instruments de droit: des interfaces extérieures interchangeables. Le peuple lui-même se gouverne par sa propre infrastructure DAO.
 
@@ -45,7 +45,7 @@ L'architecture institutionnelle des Earthlings est composée de trois éléments
 
 Ce principe est fondamental: chaque élément remplit des tâches structurellement inaccessibles aux autres, et aucun n'a le pouvoir de décider à la place d'un autre.
 
-Il en résulte une architecture où le pouvoir est réparti, révocable et réduit au minimum.
+Il en résulte une architecture où nul n'est placé au-dessus d'une autre personne et où les pouvoirs sont répartis, révocables et réduits au minimum.
 
 Au sein de la communauté elle-même, la Charte distingue quatre rôles fonctionnels:
 

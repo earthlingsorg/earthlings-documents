@@ -6,7 +6,7 @@
 
 Die Earthlings sind eine laufende betriebliche Umsetzung eines freiwillig selbst organisierten nichtterritorialen Volkes, die sich auf den Grundsatz der Selbstbestimmung stützt.
 
-Die Gründungsdokumente des Vorhabens beschreiben dieses Modell als die Architektur einer Gesellschaft, in der Macht sich an keiner Stelle anhäuft. Die Earthlings verbinden Menschen aus verschiedenen Ländern um die Erklärung der Earthlings - einen unabänderlichen konstituierenden Kern, den keine Mehrheit umschreiben kann - und um eine digitale Infrastruktur, die eine geprüfte Teilnahme nach dem Grundsatz „ein Mensch - eine Stimme“ im planetaren Maßstab sichert.
+Die Gründungsdokumente des Vorhabens beschreiben dieses Modell als die Architektur einer Gesellschaft, in der es Macht von Menschen über Menschen nicht gibt und niemand eine Stellung über einem anderen Menschen einnimmt. Die Earthlings verbinden Menschen aus verschiedenen Ländern um die Erklärung der Earthlings - einen unabänderlichen konstituierenden Kern, den keine Mehrheit umschreiben kann - und um eine digitale Infrastruktur, die eine geprüfte Teilnahme nach dem Grundsatz „ein Mensch - eine Stimme“ im planetaren Maßstab sichert.
 
 Die Architektur der Earthlings ist als ein einheitliches einrichtungsmäßiges System entworfen und nicht aus fertigen Bestandteilen zusammengesetzt. Für den Verkehr mit der bestehenden Rechtsordnung nutzt das Volk über bevollmächtigte Vertreter eingetragene Rechtsstrukturen und andere rechtliche Werkzeuge - austauschbare äußere Schnittstellen des Verkehrs. Das Volk selbst verwaltet sich über die eigene DAO-Infrastruktur.
 
@@ -45,7 +45,7 @@ Die einrichtungsmäßige Architektur der Earthlings besteht aus drei verschieden
 
 Dieser Grundsatz ist grundlegend: Jeder Bestandteil löst Aufgaben, die den anderen baulich nicht zugänglich sind, wobei kein Bestandteil die Befugnis besitzt, für einen anderen Entscheidungen zu treffen.
 
-Das Ergebnis ist eine Architektur, in der Macht verteilt, widerruflich und auf ein Mindestmaß gebracht ist.
+Das Ergebnis ist eine Architektur, in der niemand eine Stellung über einem anderen Menschen einnimmt und die Befugnisse verteilt, widerruflich und auf das notwendige Mindestmaß beschränkt sind.
 
 Innerhalb der Gemeinschaft selbst hebt die Charta vier Aufgabenbereiche hervor:
 

@@ -259,7 +259,7 @@ Im System der Zellen ist die Verwendung von Kennzeichen der Güte der Arbeit zul
 > - es ist keine Voraussetzung des Eintritts in eine Zelle und der Teilnahme an einem Projekt;
 > - es wirkt sich auf die Reihenfolge der Finanzierung nicht aus: Diese bestimmt die Zahl der Teilnehmer, die ein Projekt unterstützt haben, und keine Bewertung des Antragstellers (Charta, Artikel 11);
 > - es wirkt sich auf den Platz eines Vorschlags in der Reihenfolge nicht aus - die Reihenfolge ist zeitlich;
-> - es begründet keine Sanktionen: Beschränkungen werden nur im Verfahren des Artikels 22 der Charta angewandt, mit dem Recht auf Verteidigung und mit Beschwerde.
+> - es begründet keine Sanktionen: Maßnahmen werden nur im Verfahren des Artikels 22 der Charta verhängt, mit dem Recht auf Verteidigung und mit Beschwerde, und berühren die Rechte einer Person nicht.
 >
 > Das Ansehen ist ein Werkzeug der Orientierung und nichts weiter. Ein Mechanismus, in dem es den Zugang zu Mitteln öffnet, verwandelt es in ein verstecktes Stimmgewicht und ist deshalb ausgeschlossen.
 
@@ -292,7 +292,7 @@ Die DAO greift in die Angelegenheiten einer Zelle nur aus den Gründen ein, die 
 
 Andere Gründe gibt es nicht. Die Beschlüsse werden mit qualifizierter Mehrheit nach einer unabhängigen Untersuchung gefasst und nicht von einzelnen Menschen.
 
-> **Sanktionen gegenüber einer Zelle berühren ihre Teilnehmer als Earthlings nicht.** Die Auflösung einer Zelle zieht weder einen Ausschluss aus dem Volk nach sich, der grundsätzlich unmöglich ist, noch eine Beschränkung des Stimmrechts: Ein Konflikt in einem Arbeitsteam ist dafür bei keinem Ausgang ein Grund. Die Beschränkung der Befugnisse eines bestimmten Menschen ist nur im Verfahren des Artikels 22 der Charta möglich, mit dem Recht auf Verteidigung, geheimer Abstimmung und Beschwerde.
+> **Sanktionen gegenüber einer Zelle berühren ihre Teilnehmer als Earthlings nicht.** Die Auflösung einer Zelle zieht weder einen Ausschluss aus dem Volk nach sich, der grundsätzlich unmöglich ist, noch eine Beschränkung des Stimmrechts: Ein Konflikt in einem Arbeitsteam ist dafür bei keinem Ausgang ein Grund. Eine Maßnahme nach Artikel 22 der Charta kann sich nur auf gemeinsame Mittel beziehen und nicht auf die Rechte einer Person; das Verfahren sieht das Recht auf Verteidigung, geheime Abstimmung und Beschwerde vor.
 
 ## Der Austritt aus einer Zelle und die Zugehörigkeit zum Volk
 

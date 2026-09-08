@@ -94,7 +94,7 @@ Todo lo que tiene fuerza está en el corpus y está abierto a propuestas por com
 Cinco disposiciones no se discuten en ninguna circunstancia. Un pueblo al que se le puedan regatear no se diferencia en nada del que ya existe.
 
 - **Una persona, un voto.** El voto no se puede comprar, vender, acumular ni ceder de manera irrevocable.
-- **El poder no se acumula.** Las facultades son limitadas, revocables y verificables; un encargo no se convierte en cargo.
+- **No existe el poder de unas personas sobre otras.** Nadie ocupa una posición por encima de otro earthling; las facultades son limitadas, revocables y verificables, un encargo no se convierte en cargo.
 - **El dinero está separado del voto.** El patrimonio, las cuotas y las aportaciones no dan derechos adicionales en el gobierno.
 - **La salida es libre.** En cualquier momento, sin explicar los motivos. La expulsión del pueblo no existe.
 - **El pueblo habla, pero no coacciona.** La violencia queda excluida sin excepción.

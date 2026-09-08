@@ -28,7 +28,7 @@ La transparence porte toutefois sur les actes des institutions et non sur les do
 
 Chaque earthling dispose d'une voix égale, selon le principe « une personne - une voix ». La réputation, l'apport et l'expérience peuvent être pris en compte dans le débat, mais ne se convertissent pas en poids de vote supplémentaire, n'ouvrent l'accès à aucun rôle et ne créent aucune classe privilégiée de participants.
 
-**La voix est inaliénable.** Le droit de vote ne peut être retiré ni suspendu en raison des opinions, du contenu du vote, d'un désaccord avec les décisions ou à titre de sanction générale (Déclaration, article 4; Charte, articles 17 et 37). Les restrictions prévues à l'article 22 de la Charte touchent la participation aux cellules, le droit de faire des propositions et l'accès à certains services, mais non la voix.
+**La voix est inaliénable.** Le droit de vote ne peut être retiré ni suspendu en raison des opinions, du contenu du vote, d'un désaccord avec les décisions ou à titre de sanction générale (Déclaration, article 4; Charte, articles 17 et 37). Les mesures prévues à l'article 22 de la Charte ne portent aucune atteinte aux droits d'une personne: la seule qui s'adresse à une personne est l'avertissement, et il ne lui retire rien; les autres s'adressent à un projet ou à une cellule.
 
 La seule exception est constituée par des actes établis dirigés contre l'intégrité du vote lui-même: entente, achat ou vente d'une voix, contrainte exercée sur d'autres, contournement de la règle « une personne - un passeport » (Charte, article 22 bis). Les opinions, le contenu du vote et le désaccord avec les décisions ne sont un motif sous aucune présentation.
 
@@ -232,7 +232,7 @@ Chaque cellule est autonome, mais utilise la DAO comme infrastructure commune po
 
 L'autonomie des cellules et l'architecture commune sont dans un rapport de complémentarité et non de subordination: les cellules sont autonomes quant au contenu de leur activité, et la DAO assure la cohérence des décisions qui concernent tout le peuple.
 
-Les sanctions à l'égard d'une cellule, prévues par l'article 25 de la Charte, n'entraînent pas de restriction des droits de ses participants en tant qu'Earthlings: la restriction de pouvoirs d'une personne déterminée n'est possible que dans les conditions de l'article 22 et n'affecte pas le droit de vote.
+Les sanctions à l'égard d'une cellule, prévues par l'article 25 de la Charte, n'entraînent pas de restriction des droits de ses participants en tant qu'Earthlings: une mesure au titre de l'article 22 peut viser les ressources communes et ne peut pas viser les droits d'une personne.
 
 ---
 

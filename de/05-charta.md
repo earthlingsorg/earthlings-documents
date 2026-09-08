@@ -14,7 +14,7 @@ Jede Stimme ist gleich, jeder Beschluss ist durchsichtig, jede Handlung überpr�
 
 **Es stimmen nur Menschen ab.** Projektteams und andere Strukturen haben keine kollektive Stimme, nur die einzelnen Teilnehmer.
 
-**Waagerechter Aufbau.** Macht häuft sich in keinem Organ an und stützt sich auf kein Zwangsmonopol; alle Beschlüsse werden demokratisch gefasst.
+**Waagerechter Aufbau.** Macht von Menschen über Menschen gibt es nicht: niemand nimmt eine Stellung über einem anderen Earthling ein, Befugnisse konzentrieren sich in keinem Organ und stützen sich auf kein Zwangsmonopol; alle Beschlüsse werden demokratisch gefasst.
 
 **Smart Contracts = Ausführung.** Selbsttätigkeit statt Bürokratie: Der Code führt die von Menschen beschlossenen Regeln aus; alle Vorgänge sind durchsichtig.
 
@@ -59,7 +59,7 @@ Die DAO-Vollversammlung ist das einzige Organ zur Verwaltung des Volkes der Eart
 
 **Erhebliche Mehrheit - 67 %, Quorum 20 %**
 - Finanzierung von Projekten von 10 000 bis 100 000 EC
-- Beschränkung von Befugnissen (Stufen 1 bis 3)
+- Maßnahmen nach Artikel 22: die Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln
 
 **Qualifizierte Mehrheit - 67 %, Quorum 25 %**
 - Änderung der Regeln der DAO
@@ -68,7 +68,6 @@ Die DAO-Vollversammlung ist das einzige Organ zur Verwaltung des Volkes der Eart
 - Finanzierung von Projekten über 100 000 EC
 
 **Sanktionsmehrheit - 75 %, Quorum 25 %**
-- Beschränkung von Befugnissen der Stufen 4 und 5 (Artikel 22)
 - Aussetzung des Stimmrechts wegen Untergrabung der Unversehrtheit der Abstimmung (Artikel 22-bis)
 - Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21)
 
@@ -203,11 +202,11 @@ Eine Vergütung für die Einnahme eines Platzes im Rat über einen solchen Ausgl
 
 **Einfache Mehrheit - 51 %, Quorum 20 %.** Laufende betriebliche Beschlüsse, Finanzierung von Projekten bis 10 000 EC, Wahl und Widerruf von Core Nodes und Emergency Multisig, Erteilung und Widerruf des rechtlichen Schutzauftrags, Aufhebung von Handlungen des Emergency Multisig, vorzeitige Aufhebung von Beschränkungen, Beschwerden.
 
-**Erhebliche Mehrheit - 67 %, Quorum 20 %.** Finanzierung von Projekten von 10 000 bis 100 000 EC, Beschränkung von Befugnissen der Stufen 1 bis 3.
+**Erhebliche Mehrheit - 67 %, Quorum 20 %.** Finanzierung von Projekten von 10 000 bis 100 000 EC, Maßnahmen nach Artikel 22: die Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln.
 
 **Qualifizierte Mehrheit - 67 %, Quorum 25 %.** Änderung der Charta, strategische Beschlüsse, Finanzierung von Projekten über 100 000 EC.
 
-**Sanktionsmehrheit - 75 %, Quorum 25 %.** Beschränkung von Befugnissen der Stufen 4 und 5 (Artikel 22), Aussetzung des Stimmrechts wegen Untergrabung der Unversehrtheit der Abstimmung (Artikel 22-bis), Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21).
+**Sanktionsmehrheit - 75 %, Quorum 25 %.** Aussetzung des Stimmrechts wegen Untergrabung der Unversehrtheit der Abstimmung (Artikel 22-bis), Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21).
 
 **Verteilung nach Unterstützung.** Wird angewandt, um die Reihenfolge der Finanzierung von Projekten zu bestimmen, die ihre Zustimmungsschwelle bereits überschritten haben, wenn ihre Gesamtanforderung die Obergrenze des Bereichs übersteigt (Artikel 11).
 
@@ -443,7 +442,7 @@ Die Anzeige eines Interessenkonflikts nimmt einem Earthling für sich genommen n
 
 Andere Gründe, eine Stimme auszuschließen, gibt es nicht: Durch Mehrheitsbeschluss wird die Stimme eines Earthling nicht aus der Auszählung ausgeschlossen.
 
-Das vorsätzliche Verschweigen eines Interessenkonflikts wird als Verletzung der ethischen Normen behandelt und kann eine Beschränkung von Befugnissen nach Artikel 22 nach sich ziehen.
+Das vorsätzliche Verschweigen eines Interessenkonflikts kann eine Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln nach Artikel 22 nach sich ziehen. Solche Maßnahmen berühren die Rechte eines Earthlings nicht: weder die Stimme noch das Recht, Vorschläge einzubringen und Fragen zu stellen.
 
 ---
 
@@ -540,45 +539,53 @@ Ein Pass kann auf Antrag des Inhabers selbst entwertet und sogleich an dieselbe 
 
 ## Artikel 22. Die Beschränkung von Befugnissen
 
-Bei einer Verletzung der Regeln und Grundsätze des Volkes der Earthlings können gegen einen Earthling beschränkende Maßnahmen angewandt werden. Die Beschränkung von Befugnissen nimmt einem Menschen den Status als Earthling nicht und **berührt sein Stimmrecht nicht** (Artikel 17). Beschränkt werden nur diejenigen Möglichkeiten, die mit der Inanspruchnahme gemeinsamer Aufmerksamkeit und gemeinsamer Mittel verbunden sind.
+Bei einer Verletzung der Regeln und Grundsätze des Volkes der Earthlings ist das Volk der Earthlings befugt, die Verletzung öffentlich festzustellen und über das zu verfügen, was allen gehört: kein gemeinsames Geld mehr zu geben und die Nutzung seines Namens zu untersagen. Weder das eine noch das andere beschränkt die Rechte einer Person.
 
-### Arten der Beschränkung
+**Die Grenze dieses Artikels.** Eine Maßnahme nach diesem Artikel kann sich nur auf gemeinsame Mittel beziehen und nicht auf die Rechte einer Person. Weder die Zugehörigkeit zum Volk noch das Stimmrecht noch das Recht, an der Beratung teilzunehmen, Vorschläge einzubringen und Fragen zu stellen, noch das Recht, gehört zu werden, noch das Recht auf freien Austritt werden nach diesem Artikel beschränkt - aus keinem Grund, durch keine Mehrheit und für keine Dauer. Das Volk der Earthlings beschränkt die Rechte einer bestimmten Person nur in zwei Fällen, die in Artikel 4 der Erklärung der Earthlings festgelegt sind: bei der Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21) und bei der Aussetzung des Stimmrechts wegen Untergrabung der Unversehrtheit der Abstimmung selbst (Artikel 22-bis). Die Aufzählung ist abschließend, und dieser Artikel erweitert sie nicht.
 
-**Stufe 1 - Verwarnung.** Öffentliche Feststellung der Verletzung ohne Beschränkung von Rechten. Bleibt in der Aufzeichnung und wird bei der Behandlung späterer Verletzungen berücksichtigt.
+### Die Maßnahme gegenüber einem Menschen: die Verwarnung
 
-**Stufe 2 - Beschränkung der Teilnahme an Zellen.** Vorübergehendes Verbot, neue Zellen zu bilden oder bestehenden beizutreten. Dauer: 1 bis 12 Monate.
+**Die Verwarnung.** Öffentliche Feststellung des Verstoßes. Bleibt in der Aufzeichnung und wird bei der Beurteilung späterer Verstöße berücksichtigt. Die Verwarnung entzieht einer Person nichts: weder die Stimme noch das Recht, Vorschläge einzubringen und Fragen zu stellen, noch das Recht, Zellen zu bilden und ihnen beizutreten, noch den Zugang zur Plattform und zu ihren Diensten. Dieser Artikel sieht keine weiteren Maßnahmen gegenüber einer Person vor, und durch Beschluss können solche nicht eingeführt werden.
 
-**Stufe 3 - Beschränkung des Initiativrechts.** Vorübergehendes Verbot, Vorschläge in die DAO einzubringen. Das Recht, über Vorschläge anderer abzustimmen, bleibt vollständig erhalten. Dauer: 1 bis 12 Monate.
+**Gründe für eine Verwarnung** - nur nachgewiesene Handlungen; die Aufzählung ist abschließend und nicht erweiterbar:
 
-**Stufe 4 - Beschränkung des Zugangs zu Diensten.** Beschränkung des Zugangs zu einzelnen Diensten der Plattform. Der Zugang zu Abstimmungen, zu Informationen und zum persönlichen Bereich wird unter keinen Umständen beschränkt. Dauer: 1 bis 24 Monate.
-
-**Stufe 5 - Zusammengesetzte Beschränkung.** Verbindung mehrerer Beschränkungen der Stufen 2 bis 4. Wird bei fortgesetzten oder groben Verletzungen angewandt. Dauer: 6 bis 36 Monate.
-
-### Gründe für Beschränkungen
-
-- Verletzung der ethischen Normen des Volkes der Earthlings
 - vorsätzliches Verschweigen eines Interessenkonflikts
-- Missbrauch der Mechanismen der DAO (Spam mit Vorschlägen, Manipulationen)
-- Handlungen, die dem Ansehen des Volkes der Earthlings schaden
+- Missbrauch der Mechanismen der DAO: das Einbringen von Vorschlägen in einem Umfang, der die Arbeit der Vollversammlung behindert, oder die Manipulation der Reihenfolge der Abstimmung
 - Verletzung der Vertraulichkeit anderer Earthlings
 - fortgesetzte Nichterfüllung freiwillig übernommener Pflichten
+
+### Maßnahmen gegenüber gemeinsamen Mitteln
+
+Das Volk der Earthlings ist nicht verpflichtet, das Gemeinsame demjenigen zu geben, der es zum Schaden des Volkes verwendet, und kann die Zuwendung einstellen. Eine solche Maßnahme richtet sich an ein Projekt oder eine Zelle und nicht an einen Menschen: Der Teilnehmer bleibt Earthling mit allen Rechten und ist befugt, sich erneut um eine Finanzierung zu bewerben.
+
+- **Widerruf der Finanzierung eines Projekts** - die Beendigung der Zahlungen für die noch nicht ausgezahlten Tranchen eines aus der Schatzkammer der Earthlings finanzierten Projekts
+- **Beendigung der Finanzierung einer Zelle** - die Beendigung der Zahlungen an die Zelle aus gemeinsamen Mitteln
+- **Entzug der Anerkennung** - die Einstellung der Darstellung eines Projekts oder einer Zelle auf den Websites und Kanälen des Volkes der Earthlings als Projekt bzw. Zelle des Volkes
+
+**Gründe für Maßnahmen gegenüber gemeinsamen Mitteln:**
+
+- jeder der Gründe für eine Verwarnung
+- Verletzung der ethischen Normen des Volkes der Earthlings
+- Handlungen, die dem Ansehen des Volkes der Earthlings schaden
+
+> **Warum wertende Gründe nur hier zulässig sind.** Die Entscheidung, dass das Volk sein Geld nicht mehr gibt und seinen Namen nicht mehr dafür einsetzt, ist eine Verfügung über das Gemeinsame, und eine Wertung gehört dorthin: Das Gemeinsame gibt das Volk nach seinem Ermessen. Einem Menschen ein Recht nach derselben Wertung zu nehmen, ist durch keine Mehrheit möglich: Das Recht eines Menschen wird vom Volk nicht verliehen und deshalb von ihm auch nicht widerrufen.
 
 ### Das Verfahren der Anwendung
 
 1. **Einleitung.** Jeder Earthling oder eine Gruppe von Earthlings (mindestens 5 Menschen) ist befugt, eine Behandlung einzuleiten und dabei eine Begründung vorzulegen
 2. **Vorprüfung.** Der Unabhängige Rat prüft binnen 14 Tagen die Begründetheit der Einleitung und veröffentlicht eine Empfehlung
-3. **Recht auf Verteidigung.** Ein Earthling hat das Recht, vollständige Auskunft über die Vorwürfe zu erhalten, die eigene Position darzulegen und andere Earthlings zur Unterstützung heranzuziehen
-4. **Beratung.** Mindestens 14 Tage (Stufen 1 bis 3) oder 21 Tage (Stufen 4 und 5)
-5. **Abstimmung.** Stufen 1 bis 3: 67 % bei einem Quorum von 20 %. Stufen 4 und 5: 75 % bei einem Quorum von 25 %. Die Abstimmung ist **geheim, ohne Übertragung** (Artikel 6 und 7)
-6. **Ausführung.** Die Beschränkungen werden 48 Stunden nach Abschluss der Abstimmung wirksam
+3. **Recht auf Verteidigung.** Der von einer Verwarnung betroffene Earthling sowie, bei einer Maßnahme gegenüber gemeinsamen Mitteln, die Teilnehmer des Projekts oder der Zelle sind berechtigt, vollständige Auskunft über die Vorwürfe zu erhalten, die eigene Position darzulegen und andere Earthlings zur Unterstützung heranzuziehen
+4. **Beratung.** Mindestens 14 Tage
+5. **Abstimmung.** 67 % bei einem Quorum von 20 %. Die Abstimmung ist **geheim, ohne Übertragung** (Artikel 6 und 7)
+6. **Ausführung.** Die Maßnahme wird 48 Stunden nach Abschluss der Abstimmung wirksam
 
-**Die vorzeitige Aufhebung.** Beschränkungen können jederzeit vorzeitig durch Beschluss der DAO mit einfacher Mehrheit (51 %, Quorum 20 %) aufgehoben werden. Einleiten kann das der Earthling selbst oder jeder andere Earthling.
+**Die vorzeitige Aufhebung.** Eine Maßnahme kann jederzeit vorzeitig durch Beschluss der DAO mit einfacher Mehrheit (51 %, Quorum 20 %) aufgehoben werden. Die Aufhebung kann derjenige beantragen, gegen den die Maßnahme verhängt wurde, oder jeder andere Earthling.
 
-> Erhöhte Schwellen schützen vor der Auferlegung von Beschränkungen und nicht vor ihrer Aufhebung: Eine Beschränkung aufzuheben ist stets leichter, als sie aufzuerlegen.
+> Die erhöhte Schwelle schützt vor der Verhängung einer Maßnahme und nicht vor ihrer Aufhebung: Eine Maßnahme aufzuheben ist stets leichter, als sie zu verhängen.
 
-**Die Beschwerde.** Ein Earthling ist befugt, die Entscheidung binnen 30 Tagen anzufechten. Die Beschwerde behandelt die DAO-Vollversammlung. Zur Aufhebung der Entscheidung genügt eine einfache Mehrheit (51 %, Quorum 20 %).
+**Die Beschwerde.** Die Entscheidung kann binnen 30 Tagen angefochten werden. Die Beschwerde behandelt die DAO-Vollversammlung. Zur Aufhebung der Entscheidung genügt eine einfache Mehrheit (51 %, Quorum 20 %).
 
-> Eine Aussetzung des Stimmrechts steht unter den aufgezählten Maßnahmen nicht. Keiner der Gründe dieses Artikels - weder die Verletzung ethischer Normen noch Spam noch ein Schaden für das Ansehen - berührt das Stimmrecht. Der einzige Grund für eine Aussetzung der Stimme ist gesondert festgelegt, in Artikel 22-bis, und betrifft nicht das Verhalten eines Teilnehmers außerhalb des Abstimmungsmechanismus.
+> Eine Aussetzung des Stimmrechts ist in der Aufzählung der Maßnahmen nicht enthalten und kann darin auch nicht aufgenommen werden. Keiner der Gründe dieses Artikels - weder die Verletzung ethischer Normen noch Spam noch ein Schaden für das Ansehen - berührt das Stimmrecht. Der einzige Grund für eine Aussetzung der Stimme ist gesondert festgelegt, in Artikel 22-bis, und betrifft nicht das Verhalten eines Teilnehmers außerhalb des Abstimmungsmechanismus.
 
 ## Artikel 22-bis. Die Aussetzung des Stimmrechts
 
@@ -655,7 +662,9 @@ Die DAO-Vollversammlung stimmt die tägliche Arbeit der Zellen nicht ab. Die Zel
 - Versuche, Mittel zu übernehmen oder Richtungen zu vereinnahmen
 - Handlungen, die dem Ansehen des Volkes der Earthlings schaden
 
-Beschlüsse über Sanktionen gegenüber einer Zelle fasst die DAO mit qualifizierter Mehrheit nach einer unabhängigen Untersuchung. Sanktionen gegenüber einer Zelle ziehen keine Beschränkung der Rechte ihrer Teilnehmer als Earthlings nach sich; die Beschränkung der Befugnisse eines einzelnen Menschen ist nur nach Artikel 22 möglich.
+**Was die DAO gegenüber einer Zelle beschließen kann:** ihre Finanzierung aus gemeinsamen Mitteln zu beenden, die Anerkennung zu entziehen - die Darstellung der Zelle auf den Websites und Kanälen des Volkes der Earthlings als Zelle des Volkes einzustellen - und die Zelle aufzulösen. Andere Sanktionen gegenüber einer Zelle gibt es nicht. Die DAO fasst den Beschluss mit qualifizierter Mehrheit nach einer unabhängigen Untersuchung; er kann nach Artikel 22 angefochten werden.
+
+Keine dieser Maßnahmen beschränkt die Rechte der Teilnehmer der Zelle als Earthlings: weder die Zugehörigkeit noch das Stimmrecht noch das Recht, Vorschläge einzubringen, noch den Zugang zur Plattform. Eine Zelle ist ein Zusammenschluss zur Nutzung gemeinsamer Mittel, und ein Beschluss über sie ist eine Verfügung über das Gemeinsame: Ein Mensch, der an einer Zelle teilgenommen hat, ist befugt, eine neue zu bilden, einer anderen beizutreten und sich erneut um eine Finanzierung zu bewerben.
 
 ## Artikel 26. Die Wirtschaft der Zellen
 
@@ -823,7 +832,7 @@ Die folgenden Grundsätze lassen sich auch mit qualifizierter Mehrheit nicht än
 - **Widerruflichkeit jedes Auftrags.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle als der ihrer Erteilung widerrufen lässt, wird nicht erteilt
 - **Die Schwelle für die Änderung dieser Charta.** Die Schwellen des Artikels 36 können nicht durch einen Beschluss abgesenkt werden, der nach demselben Artikel gefasst wird; das ist in Artikel 9 der Erklärung festgelegt
 
-> **Das Verhältnis zur Erklärung.** Die aufgezählten Grundsätze sind der betriebliche Ausdruck des unabänderlichen Kerns der Erklärung der Earthlings - des Lebens, der Würde und der Freiheit des Menschen, der planetaren Solidarität, der Sorge für den Planeten und des Verzichts auf die Anhäufung von Macht. Sie dürfen diesen Kern nicht einengen und werden nur zu seinen Gunsten ausgelegt.
+> **Das Verhältnis zur Erklärung.** Die aufgezählten Grundsätze sind der betriebliche Ausdruck des unabänderlichen Kerns der Erklärung der Earthlings - des Lebens, der Würde und der Freiheit des Menschen, der planetaren Solidarität, der Sorge für den Planeten und des Grundsatzes, dass niemand Macht über andere ausübt. Sie dürfen diesen Kern nicht einengen und werden nur zu seinen Gunsten ausgelegt.
 
 ---
 
@@ -873,7 +882,7 @@ Billigung von Projekten der Zellen, Verteilung von Zuwendungen bis 10 000 EC, Wa
 Fristen: 14 Tage Beratung + 7 Tage Abstimmung.
 
 **Erhebliche Fragen - 67 %, Quorum 20 %**
-Finanzierung von Projekten von 10 000 bis 100 000 EC, Beschränkung von Befugnissen der Stufen 1 bis 3.
+Finanzierung von Projekten von 10 000 bis 100 000 EC, Maßnahmen nach Artikel 22: die Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln.
 Fristen: 14 Tage Beratung + 7 Tage Abstimmung.
 
 **Kritische Fragen - 67 %, Quorum 25 %**
@@ -881,7 +890,7 @@ Fristen: 14 Tage Beratung + 7 Tage Abstimmung.
 Fristen: 21 Tage Beratung + 14 Tage Abstimmung.
 
 **Sanktionsfragen - 75 %, Quorum 25 %**
-Beschränkung von Befugnissen der Stufen 4 und 5 (Artikel 22), Aussetzung des Stimmrechts (Artikel 22-bis), Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21). Die Abstimmung ist geheim, eine Übertragung findet nicht statt.
+Aussetzung des Stimmrechts (Artikel 22-bis), Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21). Die Abstimmung ist geheim, eine Übertragung findet nicht statt.
 Fristen: 21 Tage Beratung + 14 Tage Abstimmung.
 
 **Verteilung nach Unterstützung**

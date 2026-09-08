@@ -28,7 +28,7 @@ Dabei erstreckt sich die Durchsichtigkeit auf das Handeln der Einrichtungen und 
 
 Jeder Earthling hat nach dem Grundsatz „ein Mensch - eine Stimme“ eine gleiche Stimme. Ansehen, Beitrag und Erfahrung können bei der Erörterung berücksichtigt werden, verwandeln sich aber nicht in ein zusätzliches Gewicht der Stimme, öffnen den Zugang zu keiner Rolle und begründen keine bevorrechtigten Klassen von Teilnehmern.
 
-**Die Stimme ist unveräußerlich.** Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung von Beschlüssen oder als allgemeine Sanktion entzogen oder ausgesetzt werden (Erklärung, Artikel 4; Charta, Artikel 17 und 37). Die in Artikel 22 der Charta vorgesehenen Beschränkungen betreffen die Teilnahme an Zellen, das Recht, Vorschläge einzubringen, und den Zugang zu einzelnen Diensten, nicht aber die Stimme.
+**Die Stimme ist unveräußerlich.** Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung von Beschlüssen oder als allgemeine Sanktion entzogen oder ausgesetzt werden (Erklärung, Artikel 4; Charta, Artikel 17 und 37). Die in Artikel 22 der Charta vorgesehenen Maßnahmen berühren die Rechte einer Person nicht: Nur die Verwarnung richtet sich an eine Person, und sie entzieht ihr nichts; die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle.
 
 Die einzige Ausnahme sind nachgewiesene Handlungen, die auf die Untergrabung der Unversehrtheit der Abstimmung selbst gerichtet sind: Absprache, Kauf oder Verkauf einer Stimme, Nötigung anderer, Umgehung der Regel „ein Mensch - ein Pass“ (Charta, Artikel 22-bis). Ansichten, der Inhalt der Stimmabgabe und die Ablehnung von Beschlüssen sind in keiner Darstellung ein Grund.
 
@@ -232,7 +232,7 @@ Jede Zelle ist selbständig, nutzt die DAO aber als gemeinsame Infrastruktur, um
 
 Die Selbständigkeit der Zellen und die gemeinsame Architektur stehen im Verhältnis der Ergänzung und nicht der Unterordnung: Die Zellen sind im Inhalt ihrer Tätigkeit selbständig, und die DAO sichert die Stimmigkeit der Beschlüsse, die das ganze Volk betreffen.
 
-Sanktionen gegenüber einer Zelle, die Artikel 25 der Charta vorsieht, ziehen keine Beschränkung der Rechte ihrer Teilnehmer als Earthlings nach sich: Die Beschränkung der Befugnisse eines einzelnen Menschen ist nur nach Artikel 22 möglich und berührt das Stimmrecht nicht.
+Sanktionen gegenüber einer Zelle, die Artikel 25 der Charta vorsieht, ziehen keine Beschränkung der Rechte ihrer Teilnehmer als Earthlings nach sich: Eine Maßnahme nach Artikel 22 kann sich nur auf gemeinsame Mittel beziehen und nicht auf die Rechte einer Person.
 
 ---
 

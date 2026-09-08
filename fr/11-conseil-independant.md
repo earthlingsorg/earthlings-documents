@@ -20,7 +20,7 @@ Cette distinction est importante et doit être tracée exactement.
 
 **Le Conseil est indépendant des structures d'exécution.** Il n'entre pas dans le système de gestion opérationnelle, n'est pas subordonné aux Core Nodes ni à l'Emergency Multisig, n'en dépend pas sur le plan de l'organisation et ne peut être ni constitué, ni limité, ni dissous par eux.
 
-**Le Conseil n'est pas indépendant du peuple.** Il est élu par l'Assemblée DAO, révoqué par elle, lui rend compte publiquement, et son mandat est dérivé. Un organe qui ne rendrait de comptes à personne serait une violation directe du principe même pour lequel tout le peuple est bâti: le pouvoir ne s'accumule pas, et aucune situation ne soustrait une personne ou un groupe à la décision commune.
+**Le Conseil n'est pas indépendant du peuple.** Il est élu par l'Assemblée DAO, révoqué par elle, lui rend compte publiquement, et son mandat est dérivé. Un organe qui ne rendrait de comptes à personne se placerait au-dessus de ceux qu'il observe. Nul, dans le peuple des Earthlings, n'est ainsi placé: le pouvoir des uns sur les autres n'existe pas, et aucune mission ne soustrait une personne ou un groupe à la décision commune.
 
 L'indépendance du Conseil est une indépendance de **jugement**, non une indépendance à l'égard de la source de ses pouvoirs.
 
@@ -37,7 +37,7 @@ L'indépendance du Conseil est une indépendance de **jugement**, non une indép
 
 Ce sont les seules fonctions du Conseil intégrées à des procédures obligatoires, et toutes deux ont le caractère d'un avis, non d'une décision.
 
-**L'examen préalable en cas de restriction de pouvoirs** (Charte, article 22). Le Conseil examine le bien-fondé de l'initiative dans un délai de 14 jours et publie une recommandation.
+**L'examen préalable des mesures au titre de l'article 22 de la Charte** - l'avertissement et les mesures visant les ressources communes. Le Conseil examine le bien-fondé de l'initiative dans un délai de 14 jours et publie une recommandation.
 
 **L'avis en cas d'annulation d'une délivrance non valide de passeport** (Charte, article 21). Le Conseil publie un avis avant le vote, selon les mêmes modalités.
 
@@ -180,4 +180,4 @@ Les procédures détaillées seront déterminées par le règlement intérieur d
 
 Le Conseil agira sur le fondement d'un mandat accordé par le peuple par voie d'élection, et tirera sa légitimité non du droit étatique ou international, mais de la confiance de ceux qui ont volontairement adhéré au peuple. Ses avis ne créeront d'obligations juridiques ni pour les participants ni pour les structures du peuple.
 
-**La force du Conseil tient à la qualité de ses jugements, non à l'étendue de ses pouvoirs.** C'est délibéré. Un organe qui veille au respect du principe « le pouvoir ne s'accumule pas » ne peut pas en être lui-même l'exception: dès que l'observateur reçoit des pouvoirs, il cesse d'être observateur et devient une instance de plus qu'il faut observer.
+**La force du Conseil tient à la qualité de ses jugements, non à l'étendue de ses pouvoirs.** C'est délibéré. Le Conseil veille à ce que nul ne soit placé au-dessus d'une autre personne - et le premier à l'être, si on lui donnait des pouvoirs, serait le Conseil lui-même. Dès que l'observateur reçoit des pouvoirs, il cesse d'être observateur et devient une instance de plus qu'il faut observer.

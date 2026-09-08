@@ -47,7 +47,7 @@ Das Volk besteht und entwickelt sich mit seiner Infrastruktur, seiner Verwaltung
 - **Freiheit und Selbstbestimmung** - jeder ist befugt, seine Zugehörigkeit zu bestimmen;
 - **die planetare Solidarität**;
 - **die Durchsichtigkeit** - die Infrastruktur steht zur Überprüfung offen, die Beschlüsse werden gemeinsam gefasst;
-- **der Verzicht auf die Anhäufung von Macht** - wir bauen einen waagerechten Aufbau.
+- **kein Mensch hat Macht über einen anderen** - niemand nimmt eine Stellung über einem anderen Menschen ein; wir bauen einen waagerechten Aufbau.
 
 Diese Werte sind in der Architektur verkörpert und nicht nur erklärt.
 
@@ -88,7 +88,7 @@ Sie haften für die Sicherheit des Passworts und der kryptografischen Schlüssel
 
 **Was es niemals gibt.** Einen Ausschluss aus dem Volk gibt es nicht. Die Zugehörigkeit ist unveräußerlich und endet allein durch Ihre eigene Entscheidung. Die Plattform, ihre Verwalter und die technischen Strukturen haben solche Befugnisse nicht und können sie nicht haben.
 
-**Was durch Beschluss der Vollversammlung beschränkt werden kann** im Verfahren des Artikels 22 der Charta, mit dem Recht auf Verteidigung, geheimer Abstimmung und Beschwerde: die Teilnahme an Zellen, das Recht, Vorschläge einzubringen, der Zugang zu einzelnen Diensten der Plattform. Der Zugang zu den Abstimmungen und zu den Informationen wird durch diese Maßnahmen nicht beschränkt.
+**Was die Vollversammlung beschließen kann** im Verfahren des Artikels 22 der Charta, mit dem Recht auf Verteidigung, geheimer Abstimmung und Beschwerde: eine Verwarnung auszusprechen und über das Gemeinsame zu verfügen - die Finanzierung eines Projekts zu widerrufen, die Finanzierung einer Zelle zu beenden, die Anerkennung zu entziehen. Diese Maßnahmen berühren die Rechte einer Person nicht: weder die Zugehörigkeit noch die Stimme noch das Recht, Vorschläge einzubringen und Fragen zu stellen, noch die Teilnahme an Zellen, noch den Zugang zur Plattform und zu ihren Diensten.
 
 **Das Stimmrecht** kann **nur** wegen einer nachgewiesenen Untergrabung der Unversehrtheit der Abstimmung selbst ausgesetzt werden - Absprache, Kauf oder Verkauf einer Stimme, Nötigung anderer, der Versuch, die Regel „ein Mensch - ein Pass“ zu umgehen -, für eine Dauer von bis zu 6 Monaten, im Verfahren des Artikels 22-bis der Charta. Ansichten, der Inhalt der Stimmabgabe und die Ablehnung von Beschlüssen sind in keiner Darstellung ein Grund.
 

@@ -163,7 +163,7 @@ Sur **demande du titulaire lui-même**, en cas de perte d'accès au portefeuille
 
 Nul ne peut être privé de force de son appartenance au peuple. Il n'existe pas de procédure d'exclusion.
 
-En cas de mesures de restriction pour manquements graves aux règles communes, le passeport est conservé, **le droit de vote est intégralement conservé**, et les restrictions ne touchent que la participation aux cellules, le droit de faire des propositions et l'accès à certains services - selon la procédure de l'article 22 de la Charte, avec droit de se défendre, vote secret et recours.
+En cas de mesures prises pour manquements graves aux règles communes, le passeport est conservé et **le droit de vote est intégralement conservé**. Une seule mesure s'adresse à la personne - l'avertissement, et il ne retire ni la voix, ni le droit de faire des propositions, ni la participation aux cellules, ni l'accès aux services; les autres s'adressent à un projet ou à une cellule et ne portent aucune atteinte aux droits d'une personne - selon la procédure de l'article 22 de la Charte, avec droit de se défendre, vote secret et recours.
 
 ### Ce qui se passe techniquement
 

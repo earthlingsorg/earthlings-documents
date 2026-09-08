@@ -20,7 +20,7 @@ Diese Unterscheidung ist wesentlich, und sie ist genau zu treffen.
 
 **Der Rat ist von den ausführenden Strukturen unabhängig.** Er gehört nicht zum System der betrieblichen Verwaltung, ist den Core Nodes und dem Emergency Multisig nicht untergeordnet, hängt von ihnen organisatorisch nicht ab und kann von ihnen weder gebildet noch beschränkt noch aufgelöst werden.
 
-**Vom Volk ist der Rat nicht unabhängig.** Er wird von der DAO-Vollversammlung gewählt, von ihr widerrufen, ihr gegenüber öffentlich rechenschaftspflichtig, und sein Auftrag ist ein abgeleiteter. Ein Organ, das niemandem Rechenschaft schuldet, wäre eine unmittelbare Verletzung eben des Grundsatzes, um dessentwillen das ganze Volk gebaut ist: Macht häuft sich nicht an, und keine Bestimmung stellt einen Menschen oder eine Gruppe außerhalb des gemeinsamen Beschlusses.
+**Vom Volk ist der Rat nicht unabhängig.** Er wird von der DAO-Vollversammlung gewählt, von ihr widerrufen, ihr gegenüber öffentlich rechenschaftspflichtig, und sein Auftrag ist ein abgeleiteter. Ein Organ, das niemandem Rechenschaft schuldet, nähme eine Stellung über denen ein, die es beobachtet. Eine solche Stellung nimmt im Volk der Earthlings niemand ein: Macht von Menschen über Menschen gibt es nicht, und kein Auftrag stellt einen Menschen oder eine Gruppe außerhalb des gemeinsamen Beschlusses.
 
 Die Unabhängigkeit des Rates ist die Unabhängigkeit des **Urteils** und keine Unabhängigkeit von der Quelle der Befugnisse.
 
@@ -37,7 +37,7 @@ Die Unabhängigkeit des Rates ist die Unabhängigkeit des **Urteils** und keine 
 
 Das sind die einzigen Aufgaben des Rates, die in verbindliche Verfahren eingebaut sind, und beide haben den Charakter einer Stellungnahme und nicht einer Entscheidung.
 
-**Die Vorprüfung bei der Beschränkung von Befugnissen** (Charta, Artikel 22). Der Rat prüft binnen 14 Tagen die Begründetheit der Einleitung und veröffentlicht eine Empfehlung.
+**Die Vorprüfung von Maßnahmen nach Artikel 22 der Charta** - der Verwarnung und der Maßnahmen gegenüber gemeinsamen Mitteln. Der Rat prüft binnen 14 Tagen die Begründetheit der Einleitung und veröffentlicht eine Empfehlung.
 
 **Die Stellungnahme bei der Aufhebung einer unwirksamen Ausgabe eines Passes** (Charta, Artikel 21). Der Rat veröffentlicht die Stellungnahme vor der Abstimmung nach demselben Ablauf.
 
@@ -180,4 +180,4 @@ Die Einzelheiten der Verfahren bestimmt eine Geschäftsordnung des Rates, die ve
 
 Der Rat handelt aufgrund eines Auftrags, den ihm das Volk durch die Wahl erteilt hat, und erhält seine Legitimität nicht aus staatlichem oder internationalem Recht, sondern aus dem Vertrauen derer, die dem Volk freiwillig beigetreten sind. Seine Stellungnahmen begründen weder für die Teilnehmer noch für die Strukturen des Volkes rechtliche Pflichten.
 
-**Die Kraft des Rates liegt in der Güte seiner Urteile und nicht im Umfang seiner Befugnisse.** Das ist mit Absicht so gemacht. Ein Organ, das die Einhaltung des Grundsatzes „Macht häuft sich nicht an“ beobachtet, kann selbst keine Ausnahme von ihm sein: Sobald ein Beobachter Befugnisse erhält, hört er auf, Beobachter zu sein, und wird zu einer weiteren Stelle, die zu beobachten ist.
+**Die Kraft des Rates liegt in der Güte seiner Urteile und nicht im Umfang seiner Befugnisse.** Das ist mit Absicht so gemacht. Der Rat beobachtet, dass niemand eine Stellung über einem anderen Menschen einnimmt - und der Erste, der eine solche Stellung einnähme, wäre er selbst, gäbe man ihm Befugnisse. Sobald ein Beobachter Befugnisse erhält, hört er auf, Beobachter zu sein, und wird zu einer weiteren Stelle, die zu beobachten ist.

@@ -28,7 +28,7 @@ Con todo, la transparencia alcanza a los actos de las instituciones, no a los da
 
 Cada earthling dispone de un voto igual conforme al principio «una persona, un voto». La reputación, la aportación y la experiencia pueden tenerse en cuenta en el debate, pero no se convierten en peso adicional del voto, no abren el acceso a ningún papel y no crean clases privilegiadas de participantes.
 
-**El voto es inalienable.** El derecho de voto no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad (Declaración, artículo 4; Carta, artículos 17 y 37). Las limitaciones previstas en el artículo 22 de la Carta afectan a la participación en las células, al derecho de presentar propuestas y al acceso a determinados servicios, pero no al voto.
+**El voto es inalienable.** El derecho de voto no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad (Declaración, artículo 4; Carta, artículos 17 y 37). Las medidas previstas en el artículo 22 de la Carta no afectan a los derechos de una persona: la única medida que recae sobre la persona es la advertencia, y no le quita nada; las demás recaen sobre un proyecto o una célula.
 
 La única excepción son los actos probados dirigidos a socavar la integridad de la votación misma: concierto, compra o venta de un voto, coacción a otros, elusión de la regla «una persona, un pasaporte» (Carta, artículo 22 bis). Las opiniones, el sentido del voto y el desacuerdo con las decisiones no son fundamento, sea cual sea su presentación.
 
@@ -232,7 +232,7 @@ Cada célula es autónoma, pero emplea la DAO como infraestructura común para s
 
 La autonomía de las células y la arquitectura común están en relación de complemento y no de subordinación: las células son autónomas en el contenido de su actividad, y la DAO asegura la coherencia de las decisiones que afectan a todo el pueblo.
 
-Las sanciones a una célula previstas en el artículo 25 de la Carta no conllevan la limitación de los derechos de sus participantes como Earthlings: la limitación de facultades de una persona concreta solo es posible conforme al artículo 22 y no afecta al derecho de voto.
+Las sanciones a una célula previstas en el artículo 25 de la Carta no conllevan la limitación de los derechos de sus participantes como Earthlings: una medida conforme al artículo 22 puede referirse a los recursos comunes y no puede referirse a los derechos de una persona.
 
 ---
 

@@ -47,7 +47,7 @@ El pueblo existe y se desarrolla con su infraestructura, su gobierno y su identi
 - **la libertad y la libre determinación**: cada cual puede determinar su pertenencia;
 - **la solidaridad planetaria**;
 - **la transparencia**: la infraestructura está abierta a verificación y las decisiones se adoptan colectivamente;
-- **el rechazo de la concentración del poder**: construimos una arquitectura horizontal.
+- **la ausencia de todo poder de unas personas sobre otras**: nadie ocupa una posición por encima de otra persona; construimos una arquitectura horizontal.
 
 Estos valores están encarnados en la arquitectura, y no solo declarados.
 
@@ -88,7 +88,7 @@ Usted responde de la custodia de la contraseña y de las claves criptográficas,
 
 **Qué no ocurre nunca.** No existe la expulsión del pueblo. La pertenencia es inalienable y cesa únicamente por decisión suya. La plataforma, sus administradores y las estructuras técnicas no tienen ni pueden tener tales facultades.
 
-**Qué puede limitarse por decisión de la Asamblea**, por el procedimiento del artículo 22 de la Carta, con derecho de defensa, voto secreto y recurso: la participación en las células, el derecho de presentar propuestas, el acceso a determinados servicios de la plataforma. El acceso a las votaciones y a la información no se limita con esas medidas.
+**Qué puede decidir la Asamblea**, por el procedimiento del artículo 22 de la Carta, con derecho de defensa, voto secreto y recurso: dictar una advertencia y disponer de los recursos comunes, esto es, retirar la financiación de un proyecto, cesar la financiación de una célula, retirar el reconocimiento. Esas medidas no afectan a los derechos de una persona: ni a la pertenencia, ni al voto, ni al derecho a presentar propuestas y plantear cuestiones, ni a la participación en las células, ni al acceso a la plataforma y a sus servicios.
 
 **El derecho de voto** puede suspenderse **únicamente** por socavamiento probado de la integridad de la votación misma - concierto, compra o venta de un voto, coacción a otros, intento de eludir la regla «una persona, un pasaporte» -, por un plazo de hasta 6 meses y por el procedimiento del artículo 22 bis de la Carta. Las opiniones, el sentido del voto y el desacuerdo con las decisiones no son fundamento, sea cual sea su presentación.
 

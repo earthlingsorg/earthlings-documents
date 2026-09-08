@@ -78,7 +78,7 @@ Die Volksherrschaft im Volk der Earthlings beruht auf drei Voraussetzungen, und 
 
 **Die Transparenz.** Transparent sind die Einrichtungen, nicht der Mensch. Kein Prüfverfahren darf die Offenlegung dessen verlangen, wie ein Mensch abgestimmt hat, woran er glaubt und welche Überzeugungen er vertritt.
 
-**Keine Konzentration von Macht.** Die Befugnisse im Volk der Earthlings sind jederzeit begrenzt, verteilt, widerruflich und überprüfbar. Ein Auftrag zur Wahrnehmung irgendwelcher Aufgaben wird nicht zum Amt. Keine Stellung stellt einen Menschen, eine Einrichtung oder eine Gruppe über den kollektiven Willen des Volkes.
+**Macht von Menschen über Menschen gibt es nicht.** Niemand im Volk der Earthlings nimmt eine Stellung ein, aus der heraus er über einen anderen Menschen bestimmen könnte. Die Befugnisse im Volk der Earthlings sind jederzeit begrenzt, verteilt, widerruflich und überprüfbar. Ein Auftrag zur Wahrnehmung irgendwelcher Aufgaben wird nicht zum Amt. Keine Stellung stellt einen Menschen, eine Einrichtung oder eine Gruppe über den kollektiven Willen des Volkes.
 
 **Die Technik.** Jede Technik dient dem Menschen und dem Leben. Keine Technik darf zur verdeckten Beeinflussung von Menschen, zur Einschränkung ihrer Freiheit, zur Schaffung von Kasten- oder Rangunterschieden, zur digitalen Unterwerfung oder zur Unterdrückung der Autonomie des Menschen eingesetzt werden. Kein Algorithmus, kein Code und kein System künstlicher Intelligenz darf die endgültige Quelle einer Entscheidung sein, die die Rechte, die Würde oder die Stellung eines Menschen berührt. Jeder Mensch hat das Recht auf den Schutz der Vertraulichkeit seiner Daten. Die Anforderungen an die Infrastruktur, die diese Rechte sichern, sind in Artikel 10 festgelegt.
 
@@ -249,7 +249,7 @@ Diese Erklärung ist das Grunddokument des Volkes der Earthlings und hat innerha
 **Was unabänderlich ist.** Den unabänderlichen Kern des Volkes der Earthlings bildet Teil I. Unabänderlich sind die Grundsätze, die er festlegt. Die wichtigsten von ihnen:
 
 1. ein Mensch - eine Stimme; eine Stimme darf nicht gekauft, verkauft, angehäuft oder unwiderruflich übertragen werden;
-2. Macht häuft sich nirgends an: Befugnisse sind begrenzt, widerruflich und überprüfbar, und ein Auftrag zur Wahrnehmung irgendwelcher Aufgaben wird nicht zum Amt;
+2. Macht von Menschen über Menschen gibt es nicht: niemand nimmt eine Stellung über einem anderen Earthling ein; Befugnisse sind begrenzt, widerruflich und überprüfbar, und ein Auftrag zur Wahrnehmung irgendwelcher Aufgaben wird nicht zum Amt;
 3. das Vermögen ist von der Stimme getrennt: weder Beiträge noch Einsatz noch Reichtum begründen Vorteile in der Verwaltung;
 4. der Austritt ist jederzeit und ohne Angabe von Gründen frei, und einen Ausschluss aus dem Volk gibt es nicht;
 5. das Volk spricht, aber es zwingt nicht: Gewalt ist ohne Ausnahme ausgeschlossen.

@@ -78,7 +78,7 @@ En el pueblo Earthlings, el gobierno del pueblo se asienta en tres condiciones, 
 
 **La transparencia.** Transparentes son las instituciones, no la persona. Ningún procedimiento de verificación puede exigir que se revele cómo ha votado una persona, en qué cree y qué convicciones sostiene.
 
-**La inadmisibilidad de la concentración del poder.** Las facultades en el pueblo Earthlings están siempre limitadas, están repartidas y son revocables y verificables. Un encargo para el desempeño de cualesquiera funciones no se convierte en cargo. Ninguna posición sitúa a una persona, a una institución o a un grupo por encima de la voluntad colectiva del pueblo.
+**No existe el poder de unas personas sobre otras.** Nadie en el pueblo Earthlings ocupa una posición desde la que pueda mandar sobre otra persona. Las facultades en el pueblo Earthlings están siempre limitadas, están repartidas y son revocables y verificables. Un encargo para el desempeño de cualesquiera funciones no se convierte en cargo. Ninguna posición sitúa a una persona, a una institución o a un grupo por encima de la voluntad colectiva del pueblo.
 
 **La tecnología.** Toda tecnología sirve a la persona y a la vida. Ninguna tecnología puede emplearse para manipular de manera oculta a las personas, limitar su libertad, crear diferencias de casta o de jerarquía, someterlas digitalmente o suprimir la autonomía humana. Ningún algoritmo, código o sistema de inteligencia artificial puede ser fuente última de una decisión que afecte a los derechos, la dignidad o la situación de una persona. Toda persona tiene derecho a la protección de la privacidad de sus datos. Los requisitos que la infraestructura debe cumplir para asegurar esos derechos están establecidos en el artículo 10.
 
@@ -249,7 +249,7 @@ La presente Declaración es el documento fundamental del pueblo Earthlings y tie
 **Qué es intangible.** El núcleo intangible del pueblo Earthlings lo forma la parte I. Son intangibles los principios que ella establece. Los principales son:
 
 1. una persona, un voto; el voto no se puede comprar, vender, acumular ni ceder de manera irrevocable;
-2. el poder no se acumula en ninguna parte: las facultades son limitadas, revocables y verificables, y un encargo para el desempeño de cualesquiera funciones no se convierte en cargo;
+2. no existe el poder de unas personas sobre otras: nadie ocupa una posición por encima de otro earthling; las facultades son limitadas, revocables y verificables, y un encargo para el desempeño de cualesquiera funciones no se convierte en cargo;
 3. el patrimonio está separado del voto: ni las cuotas, ni las aportaciones, ni la fortuna crean ventajas en la gobernanza;
 4. la salida es libre en cualquier momento y sin explicar los motivos, y no existe la expulsión del pueblo;
 5. el pueblo habla, pero no coacciona: la violencia está excluida sin excepción.

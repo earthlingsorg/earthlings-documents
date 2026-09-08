@@ -47,7 +47,7 @@ Le peuple existe et se développe avec son infrastructure, sa gouvernance et son
 - **la liberté et l'autodétermination** - chacun a le droit de déterminer son appartenance;
 - **la solidarité planétaire**;
 - **la transparence** - l'infrastructure est ouverte à la vérification, les décisions sont prises collectivement;
-- **le refus de la concentration du pouvoir** - nous bâtissons un agencement horizontal.
+- **l'absence de tout pouvoir des uns sur les autres** - nul n'est placé au-dessus d'une autre personne; nous bâtissons un agencement horizontal.
 
 Ces valeurs sont incarnées dans l'architecture, elles ne sont pas seulement énoncées.
 
@@ -88,7 +88,7 @@ Vous répondez de la conservation de votre mot de passe et de vos clés cryptogr
 
 **Ce qui n'arrive jamais.** L'exclusion du peuple n'existe pas. L'appartenance est inaliénable et ne prend fin que par votre propre décision. La plateforme, ses administrateurs et les structures techniques n'ont pas et ne peuvent pas avoir de tels pouvoirs.
 
-**Ce qui peut être restreint par une décision de l'Assemblée**, selon la procédure de l'article 22 de la Charte, avec droit de se défendre, vote secret et recours: la participation aux cellules, le droit de faire des propositions, l'accès à certains services de la plateforme. L'accès aux votes et à l'information n'est pas restreint par ces mesures.
+**Ce que l'Assemblée peut décider**, selon la procédure de l'article 22 de la Charte, avec droit de se défendre, vote secret et recours: prononcer un avertissement et disposer du bien commun - retirer le financement d'un projet, cesser le financement d'une cellule, retirer la reconnaissance. Ces mesures ne portent aucune atteinte aux droits d'une personne: ni l'appartenance, ni la voix, ni le droit de faire des propositions et de poser des questions, ni la participation aux cellules, ni l'accès à la plateforme et à ses services.
 
 **Le droit de vote** ne peut être suspendu **que** pour une atteinte établie à l'intégrité du vote lui-même - entente, achat ou vente d'une voix, contrainte exercée sur d'autres, tentative de contourner la règle « une personne - un passeport » -, pour une durée maximale de 6 mois, selon la procédure de l'article 22 bis de la Charte. Les opinions, le contenu du vote et le désaccord avec les décisions ne sont un motif sous aucune présentation.
 

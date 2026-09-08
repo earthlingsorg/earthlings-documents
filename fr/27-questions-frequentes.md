@@ -130,7 +130,7 @@ Le Conseil n'est pas encore constitué.
 
 D'une secte, on ne peut pas sortir. D'ici, la sortie est un seul acte accompli avec votre propre clé, et nul ne peut y faire obstacle, pas même le fondateur. Il n'y a aucune raison à expliquer.
 
-Le pouvoir n'est concentré en aucun point, les coordinateurs sont révocables à tout moment, la critique est un droit et non une faute. Le noyau de valeurs est minimal: dignité, liberté, solidarité. Votre foi, vos opinions et votre mode de vie ne sont pas demandés ici.
+Le pouvoir des uns sur les autres n'existe pas: nul n'est placé au-dessus d'une autre personne, les coordinateurs sont révocables à tout moment, la critique est un droit et non une faute. Le noyau de valeurs est minimal: dignité, liberté, solidarité. Votre foi, vos opinions et votre mode de vie ne sont pas demandés ici.
 
 ### Est-ce de la crypto? Quelqu'un va-t-il s'enrichir là-dessus?
 

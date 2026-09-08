@@ -45,7 +45,7 @@ The institutional architecture of Earthlings consists of three distinct structur
 
 This principle is fundamental: each element addresses tasks structurally unavailable to the others, while no element holds the power to take decisions for another.
 
-The result is an architecture in which power is distributed, revocable, and reduced to a minimum.
+The result is an architecture in which no one holds a position above another person, and powers are distributed, revocable, and reduced to a minimum.
 
 Within the community itself, the Charter distinguishes four functional roles:
 

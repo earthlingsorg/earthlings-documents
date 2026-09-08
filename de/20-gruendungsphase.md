@@ -94,7 +94,7 @@ Alles, was Geltung hat, liegt im Bestand und steht für Vorschläge vollständig
 Fünf Bestimmungen stehen unter keinen Umständen zur Erörterung. Ein Volk, dem sie sich abhandeln lassen, unterscheidet sich in nichts von dem, was es schon gibt.
 
 - **Ein Mensch - eine Stimme.** Eine Stimme darf nicht gekauft, verkauft, angehäuft oder unwiderruflich übertragen werden.
-- **Macht häuft sich nicht an.** Befugnisse sind begrenzt, widerruflich und überprüfbar; ein Auftrag wird nicht zum Amt.
+- **Macht von Menschen über Menschen gibt es nicht.** Niemand nimmt eine Stellung über einem anderen Earthling ein; Befugnisse sind begrenzt, widerruflich und überprüfbar, ein Auftrag wird nicht zum Amt.
 - **Geld ist von der Stimme getrennt.** Vermögen, Beiträge und Einsatz geben keine zusätzlichen Rechte in der Verwaltung.
 - **Der Austritt ist frei.** Jederzeit, ohne Angabe von Gründen. Einen Ausschluss aus dem Volk gibt es nicht.
 - **Das Volk spricht, aber es zwingt nicht.** Gewalt ist ohne Ausnahme ausgeschlossen.

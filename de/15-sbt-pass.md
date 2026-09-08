@@ -163,7 +163,7 @@ Auf **Antrag des Inhabers selbst** bei Verlust des Zugangs zur Geldbörse oder b
 
 Niemandem kann die Zugehörigkeit zum Volk zwangsweise genommen werden. Ein Verfahren des Ausschlusses gibt es nicht.
 
-Werden für grobe Verletzungen der allgemeinen Regeln beschränkende Maßnahmen angewandt, so bleibt der Pass erhalten, **das Stimmrecht bleibt vollständig erhalten**, und die Beschränkungen betreffen nur die Teilnahme an Zellen, das Recht, Vorschläge einzubringen, und den Zugang zu einzelnen Diensten - nach dem Verfahren des Artikels 22 der Charta, mit dem Recht auf Verteidigung, geheimer Abstimmung und Beschwerde.
+Werden für grobe Verstöße der allgemeinen Regeln Maßnahmen verhängt, so bleibt der Pass erhalten und **das Stimmrecht bleibt vollständig erhalten**. Gegenüber einer Person gibt es nur eine Maßnahme - die Verwarnung, und sie entzieht weder die Stimme noch das Recht, Vorschläge einzubringen, noch die Teilnahme an Zellen, noch den Zugang zu Diensten; die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle und berühren die Rechte einer Person nicht - nach dem Verfahren des Artikels 22 der Charta, mit dem Recht auf Verteidigung, geheimer Abstimmung und Beschwerde.
 
 ### Was technisch geschieht
 

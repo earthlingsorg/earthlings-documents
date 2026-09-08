@@ -78,7 +78,7 @@ Au sein du peuple des Earthlings, le gouvernement du peuple repose sur trois con
 
 **La transparence.** Ce sont les institutions qui sont transparentes, non la personne. Aucune procédure de vérification ne peut exiger la divulgation de la manière dont une personne a voté, de ce qu'elle croit et des convictions qu'elle professe.
 
-**L'interdiction de la concentration du pouvoir.** Les pouvoirs, dans le peuple des Earthlings, sont toujours limités, répartis, révocables et vérifiables. Une mission confiée pour accomplir une tâche quelconque ne devient pas une fonction. Aucune situation ne place une personne, une institution ou un groupe au-dessus de la volonté collective du peuple.
+**Le pouvoir des uns sur les autres n'existe pas.** Nul, dans le peuple des Earthlings, n'est placé de manière à pouvoir disposer d'une autre personne. Les pouvoirs, dans le peuple des Earthlings, sont toujours limités, répartis, révocables et vérifiables. Une mission confiée pour accomplir une tâche quelconque ne devient pas une fonction. Aucune situation ne place une personne, une institution ou un groupe au-dessus de la volonté collective du peuple.
 
 **La technologie.** Toute technologie sert la personne et la vie. Aucune technologie ne peut être employée pour manipuler les gens de façon dissimulée, restreindre leur liberté, créer des distinctions de caste ou de hiérarchie, instaurer une sujétion numérique ou étouffer l'autonomie humaine. Aucun algorithme, aucun code et aucun système d'intelligence artificielle ne peut être la source ultime d'une décision touchant les droits, la dignité ou la situation d'une personne. Toute personne a droit à la protection de la confidentialité de ses données. Les exigences relatives à l'infrastructure, qui assurent ces droits, sont établies par l'article 10.
 
@@ -249,7 +249,7 @@ La présente Déclaration est le document fondateur du peuple des Earthlings et 
 **Ce qui est intangible.** Le noyau intangible du peuple des Earthlings est formé par la Partie I. Sont intangibles les principes qu'elle établit. Les principaux sont les suivants:
 
 1. une personne - une voix; la voix ne peut être achetée, vendue, accumulée ni transmise de façon irrévocable;
-2. le pouvoir ne s'accumule nulle part: les pouvoirs sont limités, révocables et vérifiables, et une mission confiée pour accomplir une tâche quelconque ne devient pas une fonction;
+2. le pouvoir des uns sur les autres n'existe pas: nul n'est placé au-dessus d'un autre earthling; les pouvoirs sont limités, révocables et vérifiables, et une mission confiée pour accomplir une tâche quelconque ne devient pas une fonction;
 3. les biens sont séparés de la voix: ni les cotisations, ni l'apport, ni la fortune ne créent d'avantage dans la gouvernance;
 4. la sortie est libre à tout moment et sans avoir à s'expliquer, et l'exclusion du peuple n'existe pas;
 5. le peuple parle mais ne contraint pas: la violence est exclue sans exception.

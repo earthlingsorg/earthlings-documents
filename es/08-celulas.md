@@ -259,7 +259,7 @@ En el sistema de células se admite el uso de indicadores de calidad del trabajo
 > - no es condición para entrar en una célula ni para participar en un proyecto;
 > - no influye en el orden de financiación: este lo determina el número de participantes que apoyan el proyecto, y no la calificación del solicitante (Carta, artículo 11);
 > - no influye en el lugar de una propuesta en la lista: la lista es cronológica;
-> - no constituye medidas de responsabilidad: las limitaciones se aplican solo conforme al artículo 22 de la Carta, con derecho de defensa y recurso.
+> - no constituye fundamento de sanción alguna: las medidas se aplican solo conforme al artículo 22 de la Carta, con derecho de defensa y recurso, y no se refieren a los derechos de una persona.
 >
 > La reputación es un instrumento de navegación y nada más. Un mecanismo en el que abra el acceso a los recursos la convierte en un peso del voto encubierto y por ello queda excluido.
 
@@ -292,7 +292,7 @@ La DAO interviene en los asuntos de una célula únicamente por los fundamentos 
 
 No existen otros fundamentos. Las decisiones se adoptan por mayoría cualificada tras una investigación independiente, y no por personas concretas.
 
-> **Las sanciones a una célula no afectan a sus participantes como Earthlings.** La disolución de una célula no conlleva ni la expulsión del pueblo, que es imposible por principio, ni la limitación del derecho de voto: un conflicto en un equipo de trabajo no es fundamento para ello con ningún desenlace. La limitación de facultades de una persona concreta solo es posible conforme al artículo 22 de la Carta, con derecho de defensa, voto secreto y recurso.
+> **Las sanciones a una célula no afectan a sus participantes como Earthlings.** La disolución de una célula no conlleva ni la expulsión del pueblo, que es imposible por principio, ni la limitación del derecho de voto: un conflicto en un equipo de trabajo no es fundamento para ello con ningún desenlace. Una medida conforme al artículo 22 de la Carta puede referirse a los recursos comunes y no puede referirse a los derechos de una persona; el procedimiento de su aplicación comprende derecho de defensa, voto secreto y recurso.
 
 ## Salida de una célula y pertenencia al pueblo
 

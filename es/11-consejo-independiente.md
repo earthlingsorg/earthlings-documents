@@ -20,7 +20,7 @@ Esta delimitación es esencial y conviene trazarla con exactitud.
 
 **El Consejo es independiente de las estructuras de ejecución.** No forma parte del sistema de gestión operativa, no está subordinado a los Core Nodes ni al Emergency Multisig, no depende de ellos organizativamente y no puede ser formado, limitado ni disuelto por ellos.
 
-**El Consejo no es independiente del pueblo.** Lo elige la Asamblea DAO, ella lo revoca, ante ella rinde cuentas públicamente, y su mandato es derivado. Un órgano que no rindiera cuentas ante nadie sería una infracción directa del principio por el que se ha construido todo el pueblo: el poder no se acumula, y ninguna posición sustrae a una persona o a un grupo a la decisión común.
+**El Consejo no es independiente del pueblo.** Lo elige la Asamblea DAO, ella lo revoca, ante ella rinde cuentas públicamente, y su mandato es derivado. Un órgano que no rindiera cuentas ante nadie ocuparía una posición por encima de aquellos a quienes vigila. Nadie en el pueblo Earthlings ocupa tal posición: no existe el poder de unas personas sobre otras, y ningún encargo sustrae a una persona o a un grupo a la decisión común.
 
 La independencia del Consejo es independencia de **juicio**, y no independencia respecto de la fuente de sus facultades.
 
@@ -37,7 +37,7 @@ La independencia del Consejo es independencia de **juicio**, y no independencia 
 
 Son las únicas funciones del Consejo integradas en procedimientos obligatorios, y ambas tienen carácter de dictamen y no de decisión.
 
-**Examen previo en la limitación de facultades** (Carta, artículo 22). El Consejo examina la fundamentación de la iniciativa en el plazo de 14 días y publica una recomendación.
+**Examen previo de las medidas previstas en el artículo 22 de la Carta**: la advertencia y las medidas sobre los recursos comunes. El Consejo examina la fundamentación de la iniciativa en el plazo de 14 días y publica una recomendación.
 
 **Dictamen en la anulación de una emisión inválida de pasaporte** (Carta, artículo 21). El Consejo publica un dictamen antes de la votación, por el mismo procedimiento.
 
@@ -180,4 +180,4 @@ Los procedimientos detallados los determina el reglamento del Consejo, que se pu
 
 El Consejo actúa sobre la base de un mandato conferido por el pueblo mediante la elección, y su legitimidad no procede del derecho estatal o internacional, sino de la confianza de quienes se han adherido voluntariamente al pueblo. Sus dictámenes no crean obligaciones jurídicas ni para los participantes ni para las estructuras del pueblo.
 
-**La fuerza del Consejo está en la calidad de sus juicios, y no en el alcance de sus facultades.** Está hecho así a propósito. Un órgano que vigila la observancia del principio «el poder no se acumula» no puede ser él mismo una excepción a él: en cuanto un observador obtiene facultades, deja de ser observador y se convierte en una instancia más a la que hay que vigilar.
+**La fuerza del Consejo está en la calidad de sus juicios, y no en el alcance de sus facultades.** Así se ha diseñado deliberadamente. El Consejo vela por que nadie ocupe una posición por encima de otra persona, y el primero en ocuparla sería él mismo si se le dieran facultades. En cuanto un observador obtiene facultades, deja de ser observador y se convierte en una instancia más a la que hay que vigilar.

@@ -75,7 +75,7 @@ Au sein du peuple, le passeport donne tout: voix égale, participation aux déci
 - participer de bonne foi aux votes;
 - être transparent dans la réalisation des projets et rendre compte de l'usage des fonds communs.
 
-Ce sont des obligations, non des conditions de conservation du statut: leur manquement n'entraîne ni exclusion ni perte de la voix. Les mesures prises pour manquements graves ne touchent que la participation aux cellules - petites équipes de travail -, le droit de faire des propositions et l'accès aux services ([Charte, article 22](https://earth-lings.org/documents/fr/fr05-charte.html)).
+Ce sont des obligations, non des conditions de conservation du statut: leur manquement n'entraîne ni exclusion ni perte de la voix. Pour manquements graves, une seule mesure s'adresse à la personne - l'avertissement, et il ne retire rien: ni la voix, ni le droit de faire des propositions, ni la participation aux cellules, ni l'accès aux services. Les autres mesures s'adressent à un projet ou à une cellule: le peuple a le droit de cesser d'allouer les fonds communs et de retirer son nom, et cela ne porte aucune atteinte aux droits d'une personne ([Charte, article 22](https://earth-lings.org/documents/fr/fr05-charte.html)).
 
 ---
 

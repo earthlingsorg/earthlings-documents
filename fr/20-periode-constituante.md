@@ -94,7 +94,7 @@ Tout ce qui a force se trouve dans le corpus et y est intégralement ouvert aux 
 Cinq dispositions ne se discutent en aucune circonstance. Un peuple auprès duquel on pourrait les négocier ne se distinguerait en rien de ce qui existe déjà.
 
 - **Une personne, une voix.** La voix ne peut être achetée, vendue, accumulée ni transmise de façon irrévocable.
-- **Le pouvoir ne s'accumule pas.** Les pouvoirs sont limités, révocables et vérifiables; une mission ne devient pas une fonction.
+- **Le pouvoir des uns sur les autres n'existe pas.** Nul n'est placé au-dessus d'un autre earthling; les pouvoirs sont limités, révocables et vérifiables, une mission ne devient pas une fonction.
 - **L'argent est séparé de la voix.** Les biens, les cotisations et l'apport ne donnent aucun droit supplémentaire dans la gouvernance.
 - **La sortie est libre.** À tout moment, sans avoir à s'expliquer. L'exclusion du peuple n'existe pas.
 - **Le peuple parle, mais ne contraint pas.** La violence est exclue sans exception.

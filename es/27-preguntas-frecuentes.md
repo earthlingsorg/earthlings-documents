@@ -130,7 +130,7 @@ El Consejo no está constituido todavía.
 
 De una secta no se puede salir. De aquí la salida es un solo acto con su propia clave, y nadie puede impedirlo, incluido el fundador. No hay que explicar motivos.
 
-El poder no está concentrado en ningún punto, los coordinadores son revocables en cualquier momento, y la crítica es un derecho y no una falta. El núcleo de valores es mínimo: dignidad, libertad, solidaridad. Su fe, sus opiniones y su modo de vida aquí no se preguntan.
+No existe el poder de unas personas sobre otras: nadie ocupa una posición por encima de otra persona, los coordinadores son revocables en cualquier momento, y la crítica es un derecho y no una falta. El núcleo de valores es mínimo: dignidad, libertad, solidaridad. Su fe, sus opiniones y su modo de vida aquí no se preguntan.
 
 ### ¿Esto es cripto? ¿Alguien va a ganar dinero con ello?
 

@@ -130,7 +130,7 @@ Der Rat ist noch nicht gebildet.
 
 Aus einer Sekte kann man nicht austreten. Hier ist der Austritt eine einzige Handlung mit Ihrem eigenen Schlüssel, und hindern kann niemand, auch der Gründer nicht. Gründe zu nennen ist nicht nötig.
 
-Die Macht ist an keiner Stelle gebündelt, die Koordinatoren sind jederzeit widerruflich, Kritik ist ein Recht und kein Vergehen. Der Wertekern ist möglichst klein: Würde, Freiheit, Solidarität. Ihr Glaube, Ihre Ansichten und Ihre Lebensweise werden hier nicht erfragt.
+Macht von Menschen über Menschen gibt es nicht: niemand nimmt eine Stellung über einem anderen Menschen ein, die Koordinatoren sind jederzeit widerruflich, Kritik ist ein Recht und kein Vergehen. Der Wertekern ist möglichst klein: Würde, Freiheit, Solidarität. Ihr Glaube, Ihre Ansichten und Ihre Lebensweise werden hier nicht erfragt.
 
 ### Ist das Krypto? Verdient jemand daran?
 

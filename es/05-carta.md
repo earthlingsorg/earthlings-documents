@@ -14,7 +14,7 @@ Cada voto es igual, cada decisión es transparente, cada acto es verificable.
 
 **Solo votan las personas.** Los equipos de proyecto y otras estructuras no tienen voto colectivo; solo lo tienen los participantes individuales.
 
-**Estructura horizontal.** El poder no se acumula en ningún órgano y no se apoya en un monopolio de la coacción; todas las decisiones se adoptan democráticamente.
+**Estructura horizontal.** No existe el poder de unas personas sobre otras: nadie ocupa una posición por encima de otro earthling, las facultades no se acumulan en ningún órgano y no se apoyan en un monopolio de la coacción; todas las decisiones se adoptan democráticamente.
 
 **Contratos inteligentes = ejecución.** Automatización en lugar de burocracia: el código ejecuta las reglas adoptadas por las personas; transparencia de todas las operaciones.
 
@@ -59,7 +59,7 @@ La Asamblea DAO es el único órgano de gobierno del pueblo Earthlings. Comprend
 
 **Mayoría relevante - 67%, quórum 20%**
 - Financiación de proyectos de 10 000 a 100 000 EC
-- Limitación de facultades (niveles 1 a 3)
+- Medidas conforme al artículo 22: la advertencia y las medidas sobre los recursos comunes
 
 **Mayoría cualificada - 67%, quórum 25%**
 - Modificación de las reglas de la DAO
@@ -68,7 +68,6 @@ La Asamblea DAO es el único órgano de gobierno del pueblo Earthlings. Comprend
 - Financiación de proyectos de más de 100 000 EC
 
 **Mayoría sancionadora - 75%, quórum 25%**
-- Limitación de facultades de los niveles 4 y 5 (artículo 22)
 - Suspensión del derecho de voto por socavamiento de la integridad de la votación (artículo 22 bis)
 - Anulación de una emisión inválida de pasaporte (artículo 21)
 
@@ -203,11 +202,11 @@ No se abona remuneración alguna por ocupar un puesto en el Consejo más allá d
 
 **Mayoría simple - 51%, quórum 20%.** Decisiones operativas corrientes, financiación de proyectos de hasta 10 000 EC, elección y revocación de Core Nodes y Emergency Multisig, otorgamiento y revocación del encargo jurídico de defensa, anulación de actos del Emergency Multisig, levantamiento anticipado de limitaciones, recursos.
 
-**Mayoría relevante - 67%, quórum 20%.** Financiación de proyectos de 10 000 a 100 000 EC, limitación de facultades de los niveles 1 a 3.
+**Mayoría relevante - 67%, quórum 20%.** Financiación de proyectos de 10 000 a 100 000 EC, medidas conforme al artículo 22: la advertencia y las medidas sobre los recursos comunes.
 
 **Mayoría cualificada - 67%, quórum 25%.** Modificación de la Carta, decisiones estratégicas, financiación de proyectos de más de 100 000 EC.
 
-**Mayoría sancionadora - 75%, quórum 25%.** Limitación de facultades de los niveles 4 y 5 (artículo 22), suspensión del derecho de voto por socavamiento de la integridad de la votación (artículo 22 bis), anulación de una emisión inválida de pasaporte (artículo 21).
+**Mayoría sancionadora - 75%, quórum 25%.** Suspensión del derecho de voto por socavamiento de la integridad de la votación (artículo 22 bis), anulación de una emisión inválida de pasaporte (artículo 21).
 
 **Distribución por apoyos.** Se aplica para determinar el orden de financiación de los proyectos que ya han superado su umbral de aprobación, cuando la suma solicitada excede el límite del área (artículo 11).
 
@@ -443,7 +442,7 @@ Declarar un conflicto de intereses no priva por sí mismo al earthling del derec
 
 No existen otros fundamentos para excluir un voto: por decisión de la mayoría el voto de un earthling no se excluye del recuento.
 
-La ocultación deliberada de un conflicto de intereses se considera infracción de las normas éticas y puede conllevar la limitación de facultades conforme al artículo 22.
+La ocultación deliberada de un conflicto de intereses puede conllevar una advertencia y medidas sobre los recursos comunes conforme al artículo 22. Esas medidas no afectan a los derechos del earthling: ni al voto, ni al derecho a presentar propuestas y plantear cuestiones.
 
 ---
 
@@ -540,45 +539,53 @@ Un pasaporte puede destruirse y reemitirse de inmediato en la misma dirección o
 
 ## Artículo 22. Limitación de facultades
 
-Ante la infracción de las reglas y principios del pueblo Earthlings pueden aplicarse a un earthling medidas limitativas. La limitación de facultades no priva a la persona de su condición de earthling y **no afecta a su derecho de voto** (artículo 17). Solo se limitan aquellas posibilidades ligadas al gasto de la atención común y de los recursos comunes.
+En caso de infracción de las reglas y los principios comunes, el pueblo Earthlings podrá constatarla públicamente y disponer de lo que a todos pertenece: dejar de destinar los fondos comunes y retirar el nombre del pueblo. Ninguna de las dos medidas limita los derechos de una persona.
 
-### Tipos de limitación
+**El límite del presente artículo.** Una medida adoptada conforme al presente artículo puede referirse a los recursos comunes y no puede referirse a los derechos de una persona. Conforme al presente artículo no se limitan la pertenencia al pueblo, ni el derecho de voto, ni el derecho a participar en el debate, a presentar propuestas y a plantear cuestiones, ni el derecho a ser oído, ni el derecho a la salida libre, por fundamento alguno, por ninguna mayoría ni por plazo alguno. El pueblo Earthlings solo limita los derechos de una persona concreta en dos casos, previstos en el artículo 4 de la Declaración Earthlings: la anulación de un pasaporte expedido indebidamente (artículo 21) y la suspensión del derecho de voto por menoscabo de la integridad de la propia votación (artículo 22 bis). La enumeración es taxativa y el presente artículo no admite ampliarla.
 
-**Nivel 1 - Advertencia.** Constatación pública de la infracción sin limitar derechos. Queda en el historial y se tiene en cuenta al examinar infracciones posteriores.
+### La medida que recae sobre la persona: la advertencia
 
-**Nivel 2 - Limitación de la participación en las células.** Prohibición temporal de crear nuevas células o de unirse a las existentes. Duración: de 1 a 12 meses.
+**Advertencia.** Constatación pública de la infracción. Queda en el historial y se tiene en cuenta al examinar infracciones posteriores. La advertencia no priva a la persona de nada: ni del voto, ni del derecho a presentar propuestas y a plantear cuestiones, ni del derecho a crear células y a unirse a ellas, ni del acceso a la plataforma y a sus servicios. El presente artículo no establece ninguna otra medida que recaiga sobre la persona, ni podrá introducirse ninguna otra por acuerdo de la Asamblea.
 
-**Nivel 3 - Limitación del derecho de iniciativa.** Prohibición temporal de presentar propuestas a la DAO. El derecho a votar las propuestas de otros se conserva íntegramente. Duración: de 1 a 12 meses.
+**Fundamentos de la advertencia**: solo hechos probados; la enumeración es taxativa y no admite ampliación:
 
-**Nivel 4 - Limitación del acceso a los servicios.** Limitación del acceso a determinados servicios de la plataforma. El acceso a las votaciones, a la información y al área personal no se limita en ninguna circunstancia. Duración: de 1 a 24 meses.
-
-**Nivel 5 - Limitación combinada.** Combinación de varias limitaciones de los niveles 2 a 4. Se aplica en caso de infracciones sistemáticas o graves. Duración: de 6 a 36 meses.
-
-### Fundamentos de las limitaciones
-
-- infracción de las normas éticas del pueblo Earthlings
 - ocultación deliberada de un conflicto de intereses
-- abuso de los mecanismos de la DAO (spam de propuestas, manipulaciones)
-- actos que causan daño reputacional al pueblo Earthlings
+- abuso de los mecanismos de la DAO: la presentación de propuestas en cantidad tal que entorpezca el funcionamiento de la Asamblea, o la manipulación del orden de la votación
 - vulneración de la confidencialidad de otros Earthlings
 - incumplimiento sistemático de obligaciones asumidas voluntariamente
+
+### Medidas sobre los recursos comunes
+
+El pueblo Earthlings no está obligado a destinar los recursos comunes a quien los emplea en perjuicio del propio pueblo, y puede dejar de destinarlos. Tal medida recae sobre un proyecto o una célula, y no sobre una persona: el participante sigue siendo earthling con todos sus derechos y puede solicitar financiación de nuevo.
+
+- **Retirada de la financiación de un proyecto**: el cese de los desembolsos correspondientes a las fases todavía no ejecutadas de un proyecto financiado por la Tesorería Earthlings
+- **Cese de la financiación de una célula**: el cese de los pagos a la célula con cargo a los fondos comunes
+- **Retirada del reconocimiento**: el cese de la presentación de un proyecto o de una célula en los canales y medios del pueblo Earthlings como proyecto o célula del pueblo
+
+**Fundamentos de las medidas sobre los recursos comunes:**
+
+- cualquiera de los fundamentos de la advertencia
+- infracción de las normas éticas del pueblo Earthlings
+- actos que causan daño reputacional al pueblo Earthlings
+
+> **Por qué los fundamentos valorativos solo se admiten aquí.** La decisión de que el pueblo ya no dé su dinero ni ponga su nombre es una disposición de lo común, y la valoración cabe en ella: el pueblo dispone de los recursos comunes a su discreción. Quitar un derecho a una persona con esa misma valoración no es posible con ninguna mayoría: el pueblo no otorga los derechos de la persona y, por ello, tampoco puede retirarlos.
 
 ### Procedimiento de aplicación
 
 1. **Inicio.** Cualquier earthling o un grupo de Earthlings (no menos de 5 personas) puede iniciar el examen presentando una motivación
 2. **Examen previo.** El Consejo Independiente examina la fundamentación de la iniciativa en el plazo de 14 días y publica una recomendación
-3. **Derecho de defensa.** El earthling tiene derecho a recibir información completa sobre las imputaciones, a exponer su posición y a recabar el apoyo de otros Earthlings
-4. **Debate.** No menos de 14 días (niveles 1 a 3) o 21 días (niveles 4 y 5)
-5. **Votación.** Niveles 1 a 3: 67% con quórum del 20%. Niveles 4 y 5: 75% con quórum del 25%. La votación es **secreta y sin delegación** (artículos 6 y 7)
-6. **Ejecución.** Las limitaciones surten efecto 48 horas después de concluida la votación
+3. **Derecho de defensa.** El earthling sobre el que recae la advertencia y, en el caso de una medida sobre los recursos comunes, los participantes en el proyecto o en la célula tienen derecho a recibir información completa sobre los hechos que se les atribuyen, a exponer su posición y a recabar el apoyo de otros Earthlings
+4. **Debate.** No menos de 14 días
+5. **Votación.** 67% con quórum del 20%. La votación es **secreta y sin delegación** (artículos 6 y 7)
+6. **Ejecución.** La medida surte efecto 48 horas después de concluida la votación
 
-**Levantamiento anticipado.** Las limitaciones pueden levantarse anticipadamente en cualquier momento por decisión de la DAO con mayoría simple (51%, quórum 20%). Puede iniciarlo el propio earthling o cualquier otro earthling.
+**Levantamiento anticipado.** Una medida puede levantarse anticipadamente en cualquier momento por decisión de la DAO con mayoría simple (51%, quórum 20%). El levantamiento puede solicitarlo la persona a la que se haya aplicado la medida o cualquier otro earthling.
 
-> Los umbrales elevados protegen frente a la imposición de limitaciones, no frente a su levantamiento: levantar una limitación es siempre más fácil que imponerla.
+> El umbral elevado protege frente a la imposición de una medida, no frente a su levantamiento: levantar una medida es siempre más fácil que imponerla.
 
-**Recurso.** Un earthling puede recurrir la decisión en el plazo de 30 días. La apelación la examina la Asamblea DAO. Para anular la decisión basta la mayoría simple (51%, quórum 20%).
+**Recurso.** La decisión puede recurrirse en el plazo de 30 días. La apelación la examina la Asamblea DAO. Para anular la decisión basta la mayoría simple (51%, quórum 20%).
 
-> Entre las medidas enumeradas no figura la suspensión del derecho de voto. Ninguno de los fundamentos del presente artículo - ni la infracción de las normas éticas, ni el spam, ni el daño reputacional - afecta al derecho de voto. El único fundamento de suspensión del voto está establecido aparte, en el artículo 22 bis, y no se refiere a la conducta del participante fuera del mecanismo de votación.
+> Entre las medidas enumeradas no figura la suspensión del derecho de voto, ni puede figurar. Ninguno de los fundamentos del presente artículo - ni la infracción de las normas éticas, ni el spam, ni el daño reputacional - afecta al derecho de voto. El único fundamento de suspensión del voto está establecido aparte, en el artículo 22 bis, y no se refiere a la conducta del participante fuera del mecanismo de votación.
 
 ## Artículo 22 bis. Suspensión del derecho de voto
 
@@ -655,7 +662,9 @@ La Asamblea DAO no coordina el trabajo cotidiano de las células. Las células a
 - intentos de apropiarse de recursos o de monopolizar áreas
 - actos que dañan la reputación del pueblo Earthlings
 
-Las decisiones sobre sanciones a una célula las adopta la DAO por mayoría cualificada tras una investigación independiente. Las sanciones a una célula no conllevan la limitación de los derechos de sus participantes como Earthlings; la limitación de facultades de una persona concreta solo es posible conforme al artículo 22.
+**Qué puede decidir la DAO respecto de una célula:** cesar su financiación con cargo a los fondos comunes, retirar el reconocimiento - cesar la presentación de la célula en los recursos del pueblo Earthlings como célula del pueblo - y disolver la célula. No existen otras sanciones a una célula. La decisión la adopta la DAO por mayoría cualificada tras una investigación independiente y puede recurrirse conforme al artículo 22.
+
+Ninguna de estas medidas limita los derechos de los participantes en la célula como Earthlings: ni la pertenencia, ni el derecho de voto, ni el derecho a presentar propuestas, ni el acceso a la plataforma. Una célula es una asociación en torno a un recurso común, y una decisión sobre ella es una disposición de lo común: la persona que participó en ella puede crear una nueva, unirse a otra y solicitar financiación de nuevo.
 
 ## Artículo 26. Economía de las células
 
@@ -823,7 +832,7 @@ Los siguientes principios no pueden modificarse ni siquiera por mayoría cualifi
 - **Revocabilidad de todo encargo.** No se otorga una facultad que no pueda revocarse de inmediato y con un umbral no superior al de su otorgamiento
 - **El umbral de modificación de esta Carta.** Los umbrales del artículo 36 no pueden rebajarse por una decisión adoptada conforme a ese mismo artículo; así lo establece el artículo 9 de la Declaración
 
-> **Relación con la Declaración.** Los principios enumerados son la expresión operativa del núcleo intangible de la Declaración Earthlings - la vida, la dignidad y la libertad de la persona, la solidaridad planetaria, el cuidado del planeta y el rechazo de la concentración del poder. No pueden restringir ese núcleo y se interpretan únicamente a su favor.
+> **Relación con la Declaración.** Los principios enumerados son la expresión operativa del núcleo intangible de la Declaración Earthlings - la vida, la dignidad y la libertad de la persona, la solidaridad planetaria, el cuidado del planeta y la ausencia de todo poder de unas personas sobre otras. No pueden restringir ese núcleo y se interpretan únicamente a su favor.
 
 ---
 
@@ -873,7 +882,7 @@ Aprobación de proyectos de células, distribución de subvenciones de hasta 10 
 Plazos: 14 días de debate + 7 días de votación.
 
 **Cuestiones relevantes - 67%, quórum 20%**
-Financiación de proyectos de 10 000 a 100 000 EC, limitación de facultades de los niveles 1 a 3.
+Financiación de proyectos de 10 000 a 100 000 EC, medidas conforme al artículo 22: la advertencia y las medidas sobre los recursos comunes.
 Plazos: 14 días de debate + 7 días de votación.
 
 **Cuestiones críticas - 67%, quórum 25%**
@@ -881,7 +890,7 @@ Modificación de la Carta, decisiones estratégicas, financiación de proyectos 
 Plazos: 21 días de debate + 14 días de votación.
 
 **Cuestiones sancionadoras - 75%, quórum 25%**
-Limitación de facultades de los niveles 4 y 5 (artículo 22), suspensión del derecho de voto (artículo 22 bis), anulación de una emisión inválida de pasaporte (artículo 21). La votación es secreta y no se aplica la delegación.
+Suspensión del derecho de voto (artículo 22 bis), anulación de una emisión inválida de pasaporte (artículo 21). La votación es secreta y no se aplica la delegación.
 Plazos: 21 días de debate + 14 días de votación.
 
 **Distribución por apoyos**

@@ -130,7 +130,7 @@ The Council has not yet been formed.
 
 You cannot leave a cult. Leaving here is one action with your own key, and no one can prevent it, the founder included. No reasons need be given.
 
-Power is concentrated at no single point, coordinators are recallable at any time, and criticism is a right, not an offence. The core of values is minimal: dignity, freedom, solidarity. Your faith, your views, and your way of life are not asked about here.
+There is no power of some people over others: no one holds a position above another person, coordinators are recallable at any time, and criticism is a right, not an offence. The core of values is minimal: dignity, freedom, solidarity. Your faith, your views, and your way of life are not asked about here.
 
 ### Is this crypto? Will someone make money on it?
 

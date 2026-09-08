@@ -259,7 +259,7 @@ Dans le système des cellules, l'usage d'indicateurs de qualité du travail est 
 > - elle n'est pas une condition d'entrée dans une cellule ni de participation à un projet;
 > - elle n'influe pas sur l'ordre de financement: celui-ci est déterminé par le nombre de participants qui ont soutenu le projet, et non par la note de son auteur (Charte, article 11);
 > - elle n'influe pas sur la place d'une proposition dans le fil - le fil est chronologique;
-> - elle ne constitue pas une mesure de responsabilité: les restrictions ne s'appliquent que dans les conditions de l'article 22 de la Charte, avec droit de se défendre et recours.
+> - elle ne constitue pas une mesure de responsabilité: les mesures ne s'appliquent que dans les conditions prévues à l'article 22 de la Charte, avec droit de se défendre et recours, et ne portent aucune atteinte aux droits d'une personne.
 >
 > La réputation est un instrument de repérage et rien de plus. Un mécanisme dans lequel elle ouvre l'accès aux ressources la transforme en poids de vote dissimulé et est pour cette raison exclu.
 
@@ -292,7 +292,7 @@ La DAO n'intervient dans les affaires d'une cellule que pour les motifs express�
 
 Il n'existe pas d'autres motifs. Les décisions sont prises à la majorité qualifiée après une enquête indépendante, et non par des personnes isolées.
 
-> **Les sanctions à l'égard d'une cellule n'affectent pas ses participants en tant qu'Earthlings.** La dissolution d'une cellule n'entraîne ni exclusion du peuple, ce qui est impossible par principe, ni restriction du droit de vote: un conflit dans une équipe de travail n'en est un motif sous aucune issue. La restriction de pouvoirs d'une personne déterminée n'est possible que dans les conditions de l'article 22 de la Charte, avec droit de se défendre, vote secret et recours.
+> **Les sanctions à l'égard d'une cellule n'affectent pas ses participants en tant qu'Earthlings.** La dissolution d'une cellule n'entraîne ni exclusion du peuple, ce qui est impossible par principe, ni restriction du droit de vote: un conflit dans une équipe de travail n'en est un motif sous aucune issue. Une mesure au titre de l'article 22 de la Charte peut viser les ressources communes et ne peut pas viser les droits d'une personne; la procédure de son application comporte les droits de la défense, le vote secret et le recours.
 
 ## La sortie d'une cellule et l'appartenance au peuple
 
