@@ -561,6 +561,7 @@ Das Volk der Earthlings ist nicht verpflichtet, das Gemeinsame demjenigen zu geb
 - **Widerruf der Finanzierung eines Projekts** - die Beendigung der Zahlungen für die noch nicht ausgezahlten Tranchen eines aus der Schatzkammer der Earthlings finanzierten Projekts
 - **Beendigung der Finanzierung einer Zelle** - die Beendigung der Zahlungen an die Zelle aus gemeinsamen Mitteln
 - **Entzug der Anerkennung** - die Einstellung der Darstellung eines Projekts oder einer Zelle auf den Websites und Kanälen des Volkes der Earthlings als Projekt bzw. Zelle des Volkes
+- **Auflösung einer Zelle** - das Ende der Zelle als eines Zusammenschlusses zur Nutzung gemeinsamer Mittel; Gründe und Verfahren sind in Artikel 25 festgelegt
 
 **Gründe für Maßnahmen gegenüber gemeinsamen Mitteln:**
 

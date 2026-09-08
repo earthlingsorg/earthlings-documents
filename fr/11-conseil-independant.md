@@ -18,11 +18,11 @@ Son objet sera de porter une appréciation impartiale sur les processus, d'aider
 
 Cette distinction est importante et doit être tracée exactement.
 
+L'indépendance du Conseil est une indépendance de **jugement**, non une indépendance à l'égard de la source de ses pouvoirs.
+
 **Le Conseil est indépendant des structures d'exécution.** Il n'entre pas dans le système de gestion opérationnelle, n'est pas subordonné aux Core Nodes ni à l'Emergency Multisig, n'en dépend pas sur le plan de l'organisation et ne peut être ni constitué, ni limité, ni dissous par eux.
 
 **Le Conseil n'est pas indépendant du peuple.** Il est élu par l'Assemblée DAO, révoqué par elle, lui rend compte publiquement, et son mandat est dérivé. Un organe qui ne rendrait de comptes à personne se placerait au-dessus de ceux qu'il observe. Nul, dans le peuple des Earthlings, n'est ainsi placé: le pouvoir des uns sur les autres n'existe pas, et aucune mission ne soustrait une personne ou un groupe à la décision commune.
-
-L'indépendance du Conseil est une indépendance de **jugement**, non une indépendance à l'égard de la source de ses pouvoirs.
 
 ---
 

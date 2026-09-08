@@ -18,11 +18,11 @@ Sein Zweck ist es, Vorgänge unvoreingenommen zu beurteilen, bei der Beilegung v
 
 Diese Unterscheidung ist wesentlich, und sie ist genau zu treffen.
 
+Die Unabhängigkeit des Rates ist die Unabhängigkeit des **Urteils** und keine Unabhängigkeit von der Quelle der Befugnisse.
+
 **Der Rat ist von den ausführenden Strukturen unabhängig.** Er gehört nicht zum System der betrieblichen Verwaltung, ist den Core Nodes und dem Emergency Multisig nicht untergeordnet, hängt von ihnen organisatorisch nicht ab und kann von ihnen weder gebildet noch beschränkt noch aufgelöst werden.
 
 **Vom Volk ist der Rat nicht unabhängig.** Er wird von der DAO-Vollversammlung gewählt, von ihr widerrufen, ihr gegenüber öffentlich rechenschaftspflichtig, und sein Auftrag ist ein abgeleiteter. Ein Organ, das niemandem Rechenschaft schuldet, nähme eine Stellung über denen ein, die es beobachtet. Eine solche Stellung nimmt im Volk der Earthlings niemand ein: Macht von Menschen über Menschen gibt es nicht, und kein Auftrag stellt einen Menschen oder eine Gruppe außerhalb des gemeinsamen Beschlusses.
-
-Die Unabhängigkeit des Rates ist die Unabhängigkeit des **Urteils** und keine Unabhängigkeit von der Quelle der Befugnisse.
 
 ---
 

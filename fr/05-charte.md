@@ -561,6 +561,7 @@ Le peuple des Earthlings n'est pas tenu de donner le bien commun à qui le dépe
 - **Le retrait du financement d'un projet** - la cessation des versements pour les étapes non encore payées d'un projet financé par la Trésorerie des Earthlings
 - **La cessation du financement d'une cellule** - la cessation des versements à la cellule sur les fonds communs
 - **Le retrait de la reconnaissance** - la cessation de la présentation d'un projet ou d'une cellule, sur les supports officiels du peuple des Earthlings, comme son projet ou sa cellule
+- **La dissolution d'une cellule** - la fin de son existence en tant qu'association autour d'une ressource commune; les motifs et les modalités sont établis à l'article 25
 
 **Motifs des mesures visant les ressources communes:**
 

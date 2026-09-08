@@ -18,11 +18,11 @@ Su finalidad es dar una valoración imparcial de los procesos, ayudar a resolver
 
 Esta delimitación es esencial y conviene trazarla con exactitud.
 
+La independencia del Consejo es independencia de **juicio**, y no independencia respecto de la fuente de sus facultades.
+
 **El Consejo es independiente de las estructuras de ejecución.** No forma parte del sistema de gestión operativa, no está subordinado a los Core Nodes ni al Emergency Multisig, no depende de ellos organizativamente y no puede ser formado, limitado ni disuelto por ellos.
 
 **El Consejo no es independiente del pueblo.** Lo elige la Asamblea DAO, ella lo revoca, ante ella rinde cuentas públicamente, y su mandato es derivado. Un órgano que no rindiera cuentas ante nadie ocuparía una posición por encima de aquellos a quienes vigila. Nadie en el pueblo Earthlings ocupa tal posición: no existe el poder de unas personas sobre otras, y ningún encargo sustrae a una persona o a un grupo a la decisión común.
-
-La independencia del Consejo es independencia de **juicio**, y no independencia respecto de la fuente de sus facultades.
 
 ---
 

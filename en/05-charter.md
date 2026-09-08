@@ -561,6 +561,7 @@ The Earthlings people are not obliged to give what is common to someone who spen
 - **Withdrawal of funding from a project** - ending payments for the unpaid milestones of a project funded by the Earthlings Treasury
 - **Ending the funding of a Cell** - ending payments to the Cell out of common funds
 - **Withdrawal of recognition** - ending the presentation of a project or a Cell on the resources of the Earthlings people as its project or its Cell
+- **Dissolution of a Cell** - ending the existence of the Cell itself as an association around a common resource; the grounds and procedure are established by Article 25
 
 **Grounds for measures addressed to common resources:**
 

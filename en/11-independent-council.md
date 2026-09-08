@@ -18,11 +18,11 @@ Its purpose is to give an unbiased assessment of processes, to help resolve conf
 
 This distinction is material, and it should be drawn precisely.
 
+The independence of the Council is independence of **judgment**, not independence from the source of its authority.
+
 **The Council is independent of the executive structures.** It is not part of the system of operational management, is not subordinate to the Core Nodes or the Emergency Multisig, does not depend on them organizationally, and cannot be formed, limited, or dissolved by them.
 
 **The Council is not independent of the people.** It is elected by the DAO Assembly, recalled by it, and publicly accountable to it; its mandate is derivative. A body accountable to no one would hold a position above those it watches over. No one in the Earthlings people holds such a position: there is no power of some people over others, and no mandate places a person or a group beyond a common decision.
-
-The independence of the Council is independence of **judgment**, not independence from the source of its authority.
 
 ---
 

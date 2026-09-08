@@ -561,6 +561,7 @@ El pueblo Earthlings no está obligado a destinar los recursos comunes a quien l
 - **Retirada de la financiación de un proyecto**: el cese de los desembolsos correspondientes a las fases todavía no ejecutadas de un proyecto financiado por la Tesorería Earthlings
 - **Cese de la financiación de una célula**: el cese de los pagos a la célula con cargo a los fondos comunes
 - **Retirada del reconocimiento**: el cese de la presentación de un proyecto o de una célula en los canales y medios del pueblo Earthlings como proyecto o célula del pueblo
+- **Disolución de una célula**: la extinción de la célula como asociación en torno a un recurso común; los fundamentos y el procedimiento están establecidos en el artículo 25
 
 **Fundamentos de las medidas sobre los recursos comunes:**
 
