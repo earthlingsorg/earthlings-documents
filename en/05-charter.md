@@ -59,7 +59,7 @@ The DAO Assembly is the sole organ of governance of the Earthlings people. It co
 
 **Significant majority - 67%, quorum 20%**
 - Project funding of 10,000-100,000 EC
-- Restriction of powers (levels 1-3)
+- Measures under Article 22: a warning and measures addressed to common resources
 
 **Qualified majority - 67%, quorum 25%**
 - Changes to the rules of the DAO
@@ -68,7 +68,6 @@ The DAO Assembly is the sole organ of governance of the Earthlings people. It co
 - Project funding above 100,000 EC
 
 **Sanction majority - 75%, quorum 25%**
-- Restriction of powers at levels 4-5 (Article 22)
 - Suspension of the right to vote for undermining the integrity of voting (Article 22 bis)
 - Annulment of an invalid issuance of a passport (Article 21)
 
@@ -203,11 +202,11 @@ No remuneration for holding a seat on the Council is paid beyond such compensati
 
 **Simple majority - 51%, quorum 20%.** Current operational decisions, project funding up to 10,000 EC, election and revocation of Core Nodes and the Emergency Multisig, grant and revocation of the protective legal mandate, annulment of actions of the Emergency Multisig, early lifting of restrictions, appeals.
 
-**Significant majority - 67%, quorum 20%.** Project funding of 10,000-100,000 EC, restriction of powers at levels 1-3.
+**Significant majority - 67%, quorum 20%.** Project funding of 10,000-100,000 EC, measures under Article 22: a warning and measures addressed to common resources.
 
 **Qualified majority - 67%, quorum 25%.** Amendment of the Charter, strategic decisions, project funding above 100,000 EC.
 
-**Sanction majority - 75%, quorum 25%.** Restriction of powers at levels 4-5 (Article 22), suspension of the right to vote for undermining the integrity of voting (Article 22 bis), annulment of an invalid issuance of a passport (Article 21).
+**Sanction majority - 75%, quorum 25%.** Suspension of the right to vote for undermining the integrity of voting (Article 22 bis), annulment of an invalid issuance of a passport (Article 21).
 
 **Allocation by support.** Applied to determine the order of funding among projects that have already passed their approval threshold, where their total request exceeds the limit for the field (Article 11).
 
@@ -443,7 +442,7 @@ Declaring a conflict of interest does not in itself deprive an earthling of the 
 
 No other grounds for excluding a vote exist: an earthling's vote is not excluded from the count by a decision of a majority.
 
-Deliberate concealment of a conflict of interest is treated as a breach of ethical rules and may entail a restriction of powers under Article 22.
+Deliberate concealment of a conflict of interest may entail a warning and measures addressed to common resources under Article 22. Such measures do not affect an earthling's rights: neither the vote, nor the right to submit proposals and raise questions.
 
 ---
 
@@ -540,45 +539,53 @@ A passport may be burned and immediately reissued to the same address or to a ne
 
 ## Article 22. Restriction of Powers
 
-Where the rules and principles of the Earthlings people are breached, restrictive measures may be applied to an earthling. A restriction of powers does not deprive a person of the status of an earthling and **does not affect their right to vote** (Article 17). What is restricted is only what involves the spending of common attention and common resources.
+Where the rules and principles of the Earthlings people are breached, the Earthlings people may put the breach on the public record and dispose of what belongs to everyone: stop giving common money and withdraw their name. Neither of these restricts the rights of a person.
 
-### Types of Restriction
+**The limit of this Article.** A measure under this Article may concern common resources and may not concern the rights of a person. Neither belonging to the people, nor the right to vote, nor the right to take part in discussion, to submit proposals and to raise questions, nor the right to be heard, nor the right to leave freely is restricted under this Article - on no ground, by no majority, for no period. The rights of an individual person are restricted by the Earthlings people in only two cases, established by Article 4 of the Earthlings Declaration: annulment of an invalid issuance of a passport (Article 21) and suspension of the right to vote for undermining the integrity of voting itself (Article 22 bis). The list is closed, and this Article does not extend it.
 
-**Level 1 - Warning.** A public record of the breach without restriction of rights. It remains in the history and is taken into account when subsequent breaches are considered.
+### The Measure Addressed to a Person: a Warning
 
-**Level 2 - Restriction of participation in Cells.** A temporary prohibition on creating new Cells or joining existing ones. Duration: from 1 to 12 months.
+**Warning.** A public record of the breach. It remains in the history and is taken into account when subsequent breaches are considered. A warning takes nothing away from a person: not the vote, not the right to submit proposals and raise questions, not the right to create Cells and to join them, not access to the platform and its services. This Article establishes no other measure addressed to a person, and no such measure may be introduced by a decision.
 
-**Level 3 - Restriction of the right of initiative.** A temporary prohibition on submitting proposals to the DAO. The right to vote on the proposals of others is fully retained. Duration: from 1 to 12 months.
+**Grounds for a warning** - proven acts only; the list is closed and not subject to extension:
 
-**Level 4 - Restriction of access to services.** Restriction of access to particular services of the platform. Access to votes, to information and to one's account is not restricted under any circumstances. Duration: from 1 to 24 months.
-
-**Level 5 - Combined restriction.** A combination of several restrictions at levels 2-4. Applied in cases of systematic or gross breaches. Duration: from 6 to 36 months.
-
-### Grounds for Restrictions
-
-- breach of the ethical rules of the Earthlings people
 - deliberate concealment of a conflict of interest
-- abuse of DAO mechanisms (spamming proposals, manipulation)
-- acts causing reputational damage to the Earthlings people
+- abuse of DAO mechanisms: submitting proposals in a volume that impedes the work of the Assembly, or manipulating the order of voting
 - breach of the confidentiality of other Earthlings
 - systematic failure to perform voluntarily assumed obligations
+
+### Measures Addressed to Common Resources
+
+The Earthlings people are not obliged to give what is common to someone who spends it to their detriment, and may stop giving. Such a measure is addressed to a project or a Cell, not to a person: a participant remains an earthling with every right and may apply for funding again.
+
+- **Withdrawal of funding from a project** - ending payments for the unpaid milestones of a project funded by the Earthlings Treasury
+- **Ending the funding of a Cell** - ending payments to the Cell out of common funds
+- **Withdrawal of recognition** - ending the presentation of a project or a Cell on the resources of the Earthlings people as its project or its Cell
+
+**Grounds for measures addressed to common resources:**
+
+- any of the grounds for a warning
+- breach of the ethical rules of the Earthlings people
+- acts causing reputational damage to the Earthlings people
+
+> **Why evaluative grounds are permissible only here.** A decision that the people no longer give their money and no longer put their name to something is a disposal of what is common, and judgement belongs in it: what is common the people give at their own discretion. To take a right away from a person on the same judgement is impossible by any majority: a person's right is not issued by the people and therefore cannot be withdrawn by them.
 
 ### Procedure for Application
 
 1. **Initiation.** Any earthling or group of Earthlings (not fewer than 5 people) may initiate consideration by submitting a substantiation
 2. **Preliminary consideration.** The Independent Council considers whether the initiative is well founded within 14 days and publishes a recommendation
-3. **The right to a defence.** The earthling has the right to receive full information about the allegations, to present their position and to enlist other Earthlings in support
-4. **Discussion.** Not less than 14 days (levels 1-3) or 21 days (levels 4-5)
-5. **Vote.** Levels 1-3: 67% at a quorum of 20%. Levels 4-5: 75% at a quorum of 25%. The vote is **secret, without delegation** (Articles 6 and 7)
-6. **Execution.** Restrictions take effect 48 hours after the vote closes
+3. **The right to a defence.** The earthling concerned by a warning, and in the case of a measure addressed to common resources the participants of the project or of the Cell, have the right to receive full information about the allegations, to present their position and to enlist other Earthlings in support
+4. **Discussion.** Not less than 14 days
+5. **Vote.** 67% at a quorum of 20%. The vote is **secret, without delegation** (Articles 6 and 7)
+6. **Execution.** The measure takes effect 48 hours after the vote closes
 
-**Early lifting.** Restrictions may be lifted early at any time by a decision of the DAO at a simple majority (51%, quorum 20%). It may be initiated by the earthling themselves or by any other earthling.
+**Early lifting.** A measure may be lifted early at any time by a decision of the DAO at a simple majority (51%, quorum 20%). It may be initiated by the one to whom it was applied or by any other earthling.
 
-> Raised thresholds protect against imposing restrictions, not against lifting them: lifting a restriction is always easier than imposing one.
+> The raised threshold protects against imposing a measure, not against lifting it: lifting a measure is always easier than imposing one.
 
-**Appeal.** An earthling has the right to appeal a decision within 30 days. The appeal is considered by the DAO Assembly. A simple majority (51%, quorum 20%) is enough to overturn the decision.
+**Appeal.** A decision may be appealed within 30 days. The appeal is considered by the DAO Assembly. A simple majority (51%, quorum 20%) is enough to overturn the decision.
 
-> Suspension of the right to vote is not among the measures listed. None of the grounds in this Article - neither a breach of ethical rules, nor spam, nor reputational damage - affects the right to vote. The sole ground for suspending a vote is established separately, by Article 22 bis, and does not concern a participant's conduct outside the voting mechanism.
+> Suspension of the right to vote is not among the measures listed and cannot be. None of the grounds in this Article - neither a breach of ethical rules, nor spam, nor reputational damage - affects the right to vote. The sole ground for suspending a vote is established separately, by Article 22 bis, and does not concern a participant's conduct outside the voting mechanism.
 
 ## Article 22 bis. Suspension of the Right to Vote
 
@@ -655,7 +662,9 @@ The DAO Assembly does not coordinate the day-to-day work of Cells. Cells act aut
 - attempts to seize resources or to monopolize fields
 - acts damaging the reputation of the Earthlings people
 
-Decisions on sanctions against a Cell are taken by a qualified majority of the DAO after an independent investigation. Sanctions against a Cell do not entail any restriction of the rights of its participants as Earthlings; a restriction of an individual person's powers is possible only under Article 22.
+**What the DAO may decide in respect of a Cell:** to end its funding out of common funds, to withdraw recognition - to end the presentation of the Cell on the resources of the Earthlings people as a Cell of the people - and to dissolve the Cell. No other sanctions against a Cell exist. The decision is taken by a qualified majority of the DAO after an independent investigation and is appealed under Article 22.
+
+None of these measures restricts the rights of the Cell's participants as Earthlings: neither belonging, nor the right to vote, nor the right to submit proposals, nor access to the platform. A Cell is an association around a common resource, and a decision about it is a disposal of what is common: a person who took part in a Cell may create a new one, join another and apply for funding again.
 
 ## Article 26. The Economics of Cells
 
@@ -873,7 +882,7 @@ Approval of Cell projects, allocation of grants up to 10,000 EC, election **and 
 Timing: 14 days of discussion + 7 days of voting.
 
 **Significant questions - 67%, quorum 20%**
-Project funding of 10,000-100,000 EC, restriction of powers at levels 1-3.
+Project funding of 10,000-100,000 EC, measures under Article 22: a warning and measures addressed to common resources.
 Timing: 14 days of discussion + 7 days of voting.
 
 **Critical questions - 67%, quorum 25%**
@@ -881,7 +890,7 @@ Amendment of the Charter, strategic decisions, project funding above 100,000 EC,
 Timing: 21 days of discussion + 14 days of voting.
 
 **Sanction questions - 75%, quorum 25%**
-Restriction of powers at levels 4-5 (Article 22), suspension of the right to vote (Article 22 bis), annulment of an invalid issuance of a passport (Article 21). The vote is secret; delegation does not apply.
+Suspension of the right to vote (Article 22 bis), annulment of an invalid issuance of a passport (Article 21). The vote is secret; delegation does not apply.
 Timing: 21 days of discussion + 14 days of voting.
 
 **Allocation by support**
