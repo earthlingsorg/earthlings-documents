@@ -455,7 +455,7 @@ The values given are benchmarks for assessment, not obligations of the people to
 
 ## Article 38. Procedure
 
-The document is amended only by a vote of the DAO Assembly: a proposal may be submitted by any earthling; entry into force 7 days after approval. The periods of discussion, the threshold and the quorum depend on the type of amendment and are established by Article 39.
+The document is amended only by a vote of the DAO Assembly: a proposal may be submitted by any earthling; entry into force 7 days after approval. The periods of discussion, the threshold and the quorum depend on the type of amendment and are set out in Article 39.
 
 ## Article 39. Types of amendment
 

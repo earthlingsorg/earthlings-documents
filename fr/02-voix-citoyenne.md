@@ -364,7 +364,7 @@ Nous répondons ici à l'objection la plus forte contre l'entreprise entière: *
 
 L'objection est fondée. L'échelle ne donne pas par elle-même la qualité du jugement, et un grand nombre de réponses mal pesées est un grand nombre de réponses mal pesées.
 
-La réponse, c'est la construction à deux couches. Ci-dessous sont décrites les modalités établies par l'article 8 ter de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html); elles ne peuvent de toute façon pas être appliquées aujourd'hui - un tirage au sort dans un registre de quelques centaines de personnes ne donne pas une coupe du peuple, et l'article le dit expressément. Elles sont agencées ainsi:
+La réponse, c'est la construction à deux couches. Ci-dessous sont décrites les modalités prévues à l'article 8 ter de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html); elles ne peuvent de toute façon pas être appliquées aujourd'hui - un tirage au sort dans un registre de quelques centaines de personnes ne donne pas une coupe du peuple, et l'article le dit expressément. Elles sont agencées ainsi:
 
 **Première couche: le panel.** Pour chaque question, un panel est tiré au sort dans le registre. Le tirage au sort n'a pas d'opinion: il donne une coupe du peuple et non sa partie active, et c'est un point de principe - la partie active est toujours biaisée. Le panel étudie la question pendant plusieurs semaines: il reçoit des documents, entend des spécialistes et les tenants de positions opposées, débat publiquement. En sortie, le panel ne décide pas - il **formule les options** et expose les arguments pour et contre chacune, avec ce sur quoi les participants ne se sont pas entendus.
 
@@ -423,7 +423,7 @@ Un instrument qui permet de tout mesurer servira contre quelqu'un. C'est pourquo
 
 **Une personne particulière.** Aucune position collective n'est adoptée à l'égard d'une personne déterminée. Le peuple se prononce sur des phénomènes, des décisions et des ordres établis, non sur des personnes. Un instrument braqué sur une personne est un lynchage muni d'une procédure, et nous ne le construirons pas.
 
-**Les principes du noyau intangible.** Ils ne font pas l'objet d'un vote - et ce n'est pas une affaire de seuil renforcé, c'est une question qui ne se pose pas du tout. La liste de ces principes est établie par l'article 11 de la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html); nous ne la reproduisons pas ici, pour qu'elle garde une source unique. Le noyau peut être complété, il ne peut pas être affaibli.
+**Les principes du noyau intangible.** Ils ne font pas l'objet d'un vote - et ce n'est pas une affaire de seuil renforcé, c'est une question qui ne se pose pas du tout. La liste de ces principes est prévue à l'article 11 de la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html); nous ne la reproduisons pas ici, pour qu'elle garde une source unique. Le noyau peut être complété, il ne peut pas être affaibli.
 
 Ces trois limitations rendent l'instrument moins puissant. C'est un échange consenti: un outil avec lequel on ne peut pas frapper est beaucoup plus difficile à confisquer.
 
@@ -862,8 +862,8 @@ Nous affirmons qu'Earthlings est vérifiable, et cette affirmation n'a de sens q
 **Non construit:**
 
 - **aucune mesure de fond n'a été effectuée.** Le canal de vote est déployé et fonctionne techniquement, mais il n'y a pas encore eu de vote sur le fond;
-- **la procédure détaillée d'élaboration de la question n'existe pas.** Les exigences sans lesquelles la mesure n'a pas lieu sont établies à l'article 8 bis de la Charte; les modalités détaillées sont laissées à une décision de l'Assemblée et n'ont pas été adoptées;
-- **il n'existe pas de panels tirés au sort.** Le schéma à deux couches de la section 9 est établi par l'article 8 ter de la Charte, mais aucun panel n'a été réuni: le registre est encore trop petit pour un tirage, et l'article le dit expressément;
+- **la procédure détaillée d'élaboration de la question n'existe pas.** Les exigences sans lesquelles la mesure n'a pas lieu sont prévues à l'article 8 bis de la Charte; les modalités détaillées sont laissées à une décision de l'Assemblée et n'ont pas été adoptées;
+- **il n'existe pas de panels tirés au sort.** Le schéma à deux couches de la section 9 est prévu à l'article 8 ter de la Charte, mais aucun panel n'a été réuni: le registre est encore trop petit pour un tirage, et l'article le dit expressément;
 - **la chronique des non-réponses n'existe pas.** Elle n'a pas été ouverte;
 - **aucun audit de sécurité indépendant n'a été effectué.**
 
@@ -871,7 +871,7 @@ La liste complète de ce qui est annoncé comme principe mais n'est pas encore f
 
 ## 22. Les indicateurs sur lesquels il faut nous juger
 
-Pour que ce qui est décrit ici puisse être vérifié et non cru sur parole, nous nommons les indicateurs sur lesquels il faut nous juger. L'obligation de publier le taux de participation rapporté au nombre de personnes ayant le droit de vote est établie à l'article 8 bis de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html); les autres indicateurs, le présent document ne les établit pas et ne peut pas les établir - il les propose comme une mesure qu'il retourne contre lui-même. Aucun d'eux n'est publicitaire, et sur plusieurs d'entre eux nous ferons à coup sûr mauvaise figure les premières années.
+Pour que ce qui est décrit ici puisse être vérifié et non cru sur parole, nous nommons les indicateurs sur lesquels il faut nous juger. L'obligation de publier le taux de participation rapporté au nombre de personnes ayant le droit de vote est prévue à l'article 8 bis de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html); les autres indicateurs, le présent document ne les établit pas et ne peut pas les établir - il les propose comme une mesure qu'il retourne contre lui-même. Aucun d'eux n'est publicitaire, et sur plusieurs d'entre eux nous ferons à coup sûr mauvaise figure les premières années.
 
 | Indicateur | Pourquoi celui-là |
 |---|---|
@@ -892,7 +892,7 @@ Pour que ce qui est décrit ici puisse être vérifié et non cru sur parole, no
 
 **Il n'y a pas ici de probabilités.** Nous ne savons pas quel échelon sera atteint, ni si un seul le sera.
 
-**Il n'y a pas ici de promesse de résultat.** Ce à quoi le peuple est tenu et ce à quoi il ne l'est pas est établi à l'article 6 de la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), et nous ne le reproduisons pas ici, pour que la norme garde une source unique. En bref: la reconnaissance n'est pas en son pouvoir, et l'existence du peuple ne dépend pas de la reconnaissance.
+**Il n'y a pas ici de promesse de résultat.** Ce à quoi le peuple est tenu et ce à quoi il ne l'est pas est prévu à l'article 6 de la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), et nous ne le reproduisons pas ici, pour que la norme garde une source unique. En bref: la reconnaissance n'est pas en son pouvoir, et l'existence du peuple ne dépend pas de la reconnaissance.
 
 **Et il n'y a ici aucune affirmation dont quoi que ce soit dépende aujourd'hui.** L'infrastructure est construite, la période constituante est en cours, la Déclaration est soumise au vote. Si aucun des échelons décrits ici n'est franchi, cela n'annulera rien de ce qui est déjà fait et ne privera de sens rien de ce pour quoi les personnes se sont choisies les unes les autres.
 

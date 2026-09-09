@@ -52,7 +52,7 @@ Si la mediación no ha llevado a una solución y la controversia afecta a los in
 
 Es una medida extrema. Resulta pertinente cuando el conflicto afecta a la interpretación de las reglas del pueblo, cuando se requiere una decisión que siente pauta para casos futuros o cuando una de las partes actúa de manera sistemática en contra de los principios asumidos por el pueblo.
 
-El examen se rige por los procedimientos de la Carta. **La Asamblea no puede expulsar a nadie del pueblo en ninguna circunstancia** (Declaración, artículo 4); las medidas aplicables y su procedimiento están establecidos en el artículo 22 de la Carta.
+El examen se rige por los procedimientos de la Carta. **La Asamblea no puede expulsar a nadie del pueblo en ninguna circunstancia** (Declaración, artículo 4); las medidas aplicables y su procedimiento se establecen en el artículo 22 de la Carta.
 
 ## Qué no se somete a mediación
 

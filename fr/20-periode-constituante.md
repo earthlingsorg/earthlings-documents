@@ -209,7 +209,7 @@ Le relevé de toutes les propositions reçues et des réponses qui leur ont ét�
 
 ## 4. Ce qui n'est pas examiné
 
-Les propositions tendant à abroger ou à restreindre les principes établis par les articles 3, 4 et 5 de la Déclaration et énumérés à son article 11 ne sont pas examinées. Les propositions tendant à préciser les rédactions de ces articles sont examinées au même titre que les autres.
+Les propositions tendant à abroger ou à restreindre les principes prévus aux articles 3, 4 et 5 de la Déclaration et énumérés à son article 11 ne sont pas examinées. Les propositions tendant à préciser les rédactions de ces articles sont examinées au même titre que les autres.
 
 Les propositions tendant à compléter le noyau intangible sont examinées au même titre que les autres et ne sont retenues que si elles satisfont aux quatre conditions du test exposé plus haut.
 

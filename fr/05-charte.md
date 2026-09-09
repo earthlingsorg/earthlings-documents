@@ -212,7 +212,7 @@ Aucune rémunération pour l'occupation d'un siège au Conseil n'est versée au-
 
 > **Les seuils de financement.** Les montants de 10 000 EC et de 100 000 EC, qui délimitent les types de votes, sont fixés par une décision de l'Assemblée DAO et modifiés sans amendement à la Charte. Les valeurs indiquées ici sont celles en vigueur au moment de l'adoption de la Charte; en cas de divergence, c'est la décision en vigueur de l'Assemblée DAO qui s'applique.
 
-**La mesure de la volonté commune n'est pas une décision** et ne figure pas dans la présente liste: par elle, le peuple exprime une position, il ne statue pas. Les exigences relatives à la mesure sont établies à l'article 8 bis; les modalités sont pour le reste établies par une décision de l'Assemblée DAO.
+**La mesure de la volonté commune n'est pas une décision** et ne figure pas dans la présente liste: par elle, le peuple exprime une position, il ne statue pas. Les exigences relatives à la mesure sont prévues à l'article 8 bis; les modalités sont pour le reste établies par une décision de l'Assemblée DAO.
 
 ## Article 6. Les procédures de vote
 
@@ -293,7 +293,7 @@ Un earthling peut déléguer sa voix, sur un domaine déterminé, à un autre ea
 
 ## Article 8 bis. La mesure de la volonté commune
 
-Le peuple des Earthlings exprime la volonté commune sur les questions qui concernent tous - article 3 de la Déclaration. Les limites de cette expression sont établies par les articles 5 et 11 de la Déclaration.
+Le peuple des Earthlings exprime la volonté commune sur les questions qui concernent tous - article 3 de la Déclaration. Les limites de cette expression sont prévues aux articles 5 et 11 de la Déclaration.
 
 Le libellé de la question n'est approuvé ni par ceux qui assurent la gestion opérationnelle du peuple, ni par ceux qui effectuent la mesure. La question est publiée avant l'ouverture du vote et peut être contestée; une fois le vote ouvert, la question n'est plus modifiée.
 
@@ -454,7 +454,7 @@ L'appartenance au peuple des Earthlings est inaliénable. Nul ne peut être excl
 
 **Le droit de vote ne peut être retiré ni suspendu en raison des opinions d'une personne, du contenu de son vote, d'un désaccord avec les décisions adoptées ou à titre de sanction générale pour manquement aux règles.** La voix est le contenu de l'appartenance: la retirer pour de tels motifs reviendrait à exclure la personne du peuple en lui en laissant le nom. Les mesures de restriction prévues à l'article 22 n'affectent pas le droit de vote.
 
-La seule exception admissible est établie à l'article 22 bis et concerne les actes dirigés contre l'intégrité du vote lui-même. La liste des motifs n'est pas susceptible d'élargissement.
+La seule exception admissible est prévue à l'article 22 bis et concerne les actes dirigés contre l'intégrité du vote lui-même. La liste des motifs n'est pas susceptible d'élargissement.
 
 Ce principe découle de la Déclaration des Earthlings: la liberté appartient à chacun, et aucune majorité n'a le droit de priver une personne de son appartenance à un peuple auquel elle a adhéré volontairement.
 
@@ -512,7 +512,7 @@ Le mécanisme d'inactivité protège le système contre une élévation artifici
 
 En règle générale, le passeport SBT n'est détruit que par son titulaire lui-même (article 18). Le présent article établit **deux exceptions et deux seulement** à cette règle.
 
-> **Pourquoi le décès ne figure pas dans cette liste.** L'appartenance prend fin par l'effet du décès de la personne: cela est établi à l'article 4 de la Déclaration et se produit de soi-même, sans décision de quiconque. La destruction du passeport pour ce motif n'a pas lieu, et voici pourquoi. Le peuple n'a pas et ne peut pas avoir accès aux registres de décès du monde entier: un tel motif reposerait sur des informations dont rien ne permet de vérifier l'exactitude et deviendrait le moyen le moins coûteux d'écarter un participant, sans notification, sans délai d'objection et sans recours, puisque tous supposent la présence de la personne. Et la destruction ne protège pas pour autant contre un vote émis avec la clé d'autrui: elle ne peut pas devancer la connaissance du décès. L'aspect pratique est réglé par l'article 20: celui qui ne participe pas est réputé inactif, sa voix n'est pas prise en compte dans le calcul du quorum, et son passeport est conservé. Le système n'a pas besoin de savoir pourquoi une personne a cessé de participer.
+> **Pourquoi le décès ne figure pas dans cette liste.** L'appartenance prend fin par l'effet du décès de la personne: cela est prévu à l'article 4 de la Déclaration et se produit de soi-même, sans décision de quiconque. La destruction du passeport pour ce motif n'a pas lieu, et voici pourquoi. Le peuple n'a pas et ne peut pas avoir accès aux registres de décès du monde entier: un tel motif reposerait sur des informations dont rien ne permet de vérifier l'exactitude et deviendrait le moyen le moins coûteux d'écarter un participant, sans notification, sans délai d'objection et sans recours, puisque tous supposent la présence de la personne. Et la destruction ne protège pas pour autant contre un vote émis avec la clé d'autrui: elle ne peut pas devancer la connaissance du décès. L'aspect pratique est réglé par l'article 20: celui qui ne participe pas est réputé inactif, sa voix n'est pas prise en compte dans le calcul du quorum, et son passeport est conservé. Le système n'a pas besoin de savoir pourquoi une personne a cessé de participer.
 
 ### 1. L'annulation d'une délivrance non valide
 
@@ -541,7 +541,7 @@ Un passeport peut être détruit et immédiatement réémis à la même adresse 
 
 En cas de manquement aux règles et aux principes du peuple des Earthlings, le peuple des Earthlings a le droit de constater publiquement le manquement et de disposer de ce qui appartient à tous: cesser d'allouer les fonds communs et retirer son nom. Ni l'un ni l'autre ne restreint les droits d'une personne.
 
-**La limite du présent article.** Une mesure prise au titre du présent article peut viser les ressources communes et ne peut pas viser les droits d'une personne. Ni l'appartenance au peuple, ni le droit de vote, ni le droit de participer au débat, de faire des propositions et de poser des questions, ni le droit d'être entendu, ni le droit de sortir librement ne sont restreints au titre du présent article - pour quelque motif que ce soit, par quelque majorité que ce soit et pour quelque durée que ce soit. Les droits d'une personne déterminée, le peuple des Earthlings ne les restreint que dans deux cas, établis par l'article 4 de la Déclaration des Earthlings: l'annulation d'une délivrance non valide de passeport (article 21) et la suspension du droit de vote pour atteinte à l'intégrité du vote lui-même (article 22 bis). Cette liste est limitative, et le présent article ne l'étend pas.
+**La limite du présent article.** Une mesure prise au titre du présent article peut viser les ressources communes et ne peut pas viser les droits d'une personne. Ni l'appartenance au peuple, ni le droit de vote, ni le droit de participer au débat, de faire des propositions et de poser des questions, ni le droit d'être entendu, ni le droit de sortir librement ne sont restreints au titre du présent article - pour quelque motif que ce soit, par quelque majorité que ce soit et pour quelque durée que ce soit. Les droits d'une personne déterminée, le peuple des Earthlings ne les restreint que dans deux cas, prévus à l'article 4 de la Déclaration des Earthlings: l'annulation d'une délivrance non valide de passeport (article 21) et la suspension du droit de vote pour atteinte à l'intégrité du vote lui-même (article 22 bis). Cette liste est limitative, et le présent article ne l'étend pas.
 
 ### La mesure visant une personne: l'avertissement
 
@@ -561,7 +561,7 @@ Le peuple des Earthlings n'est pas tenu de donner le bien commun à qui le dépe
 - **Le retrait du financement d'un projet** - la cessation des versements pour les étapes non encore payées d'un projet financé par la Trésorerie des Earthlings
 - **La cessation du financement d'une cellule** - la cessation des versements à la cellule sur les fonds communs
 - **Le retrait de la reconnaissance** - la cessation de la présentation d'un projet ou d'une cellule, sur les supports officiels du peuple des Earthlings, comme son projet ou sa cellule
-- **La dissolution d'une cellule** - la fin de son existence en tant qu'association formée autour d'une ressource commune; les motifs et les modalités sont établis à l'article 25
+- **La dissolution d'une cellule** - la fin de son existence en tant qu'association formée autour d'une ressource commune; les motifs et les modalités sont prévus à l'article 25
 
 **Motifs des mesures visant les ressources communes:**
 
@@ -831,7 +831,7 @@ Les principes suivants ne peuvent être modifiés, même à la majorité qualifi
 - **Ouverture et transparence des décisions et des finances.** Toutes les décisions de la DAO, les résultats des votes, les transactions financières du Fonds et les actes des structures d'exécution sont publics et vérifiables. Les données personnelles et biométriques des participants ne sont pas publiques pour autant: elles sont protégées par l'article 13. La transparence porte sur les actes des institutions et non sur les données personnelles des gens; l'expression de la volonté d'une personne déterminée relève des données personnelles et peut être couverte dans les conditions de l'article 6
 - **Caractère volontaire.** La participation et la sortie sont libres, l'exclusion est impossible
 - **Révocabilité de toute mission.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil qui n'excède pas celui de son octroi n'est pas confié
-- **Le seuil de modification de la présente Charte.** Les seuils de l'article 36 ne peuvent être abaissés par une décision prise dans les conditions de ce même article; cela est établi à l'article 9 de la Déclaration
+- **Le seuil de modification de la présente Charte.** Les seuils de l'article 36 ne peuvent être abaissés par une décision prise dans les conditions de ce même article; cela est prévu à l'article 9 de la Déclaration
 
 > **Rapport avec la Déclaration.** Les principes énumérés sont l'expression opérationnelle du noyau intangible de la Déclaration des Earthlings: la vie, la dignité et la liberté de la personne, la solidarité planétaire, le souci de la planète et l'absence de tout pouvoir des uns sur les autres. Ils ne peuvent restreindre ce noyau et s'interprètent uniquement en sa faveur.
 
@@ -898,7 +898,7 @@ Délais: 21 jours de débat + 14 jours de vote.
 Ordre de financement de projets déjà approuvés lorsque les fonds du domaine sont insuffisants. Marque de soutien sans limitation du nombre de marques; financement par ordre décroissant du nombre de personnes ayant soutenu.
 
 **La mesure de la volonté commune (article 8 bis)**
-Elle n'est pas une décision et n'a pas de seuil: par elle, le peuple exprime une position, il ne statue pas. Les exigences sont établies à l'article 8 bis; les modalités sont pour le reste établies par une décision de l'Assemblée DAO.
+Elle n'est pas une décision et n'a pas de seuil: par elle, le peuple exprime une position, il ne statue pas. Les exigences sont prévues à l'article 8 bis; les modalités sont pour le reste établies par une décision de l'Assemblée DAO.
 
 **Le panel tiré au sort (article 8 ter)**
 Ce n'est pas une décision et il n'y a pas de seuil: le panel prépare la question à la mesure, il n'y répond pas. Tirage au sort dans le registre, participation volontaire, travail publié avec la question. Le panel n'est pas convoqué tant que le registre ne permet pas d'obtenir par tirage au sort une coupe du peuple.

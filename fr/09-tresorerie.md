@@ -172,7 +172,7 @@ La réputation est une mention de référence sur la participation de l'earthlin
 
 ## Article 14. La délégation
 
-Les Earthlings peuvent confier volontairement leur voix, sur un domaine déterminé, à un autre participant. Les règles sont établies par l'article 7 de la Charte et reproduites ici:
+Les Earthlings peuvent confier volontairement leur voix, sur un domaine déterminé, à un autre participant. Les règles sont prévues à l'article 7 de la Charte et reproduites ici:
 
 - **par domaine uniquement** - catégorie thématique ou cellule déterminée; la délégation pour toutes les questions à la fois est impossible;
 - **interdiction de l'auto-délégation** et **interdiction des chaînes** - vérifiées techniquement;
@@ -455,7 +455,7 @@ Les valeurs indiquées sont des repères d'appréciation et non des engagements 
 
 ## Article 38. La procédure
 
-Le document n'est modifié que par un vote de l'Assemblée DAO: tout earthling a le droit de déposer une proposition; entrée en vigueur 7 jours après l'approbation. Les délais de débat, le seuil et le quorum dépendent du type de modification et sont établis par l'article 39.
+Le document n'est modifié que par un vote de l'Assemblée DAO: tout earthling a le droit de déposer une proposition; entrée en vigueur 7 jours après l'approbation. Les délais de débat, le seuil et le quorum dépendent du type de modification et sont prévus à l'article 39.
 
 ## Article 39. Les types de modifications
 

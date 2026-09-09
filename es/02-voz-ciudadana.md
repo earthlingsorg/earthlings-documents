@@ -862,7 +862,7 @@ Afirmamos que Earthlings es verificable, y esa afirmación solo tiene sentido cu
 **No construido:**
 
 - **no se han realizado mediciones de fondo.** El canal de votación está desplegado y funciona técnicamente, pero votaciones de fondo todavía no ha habido en él;
-- **no existe un procedimiento detallado de formación de la pregunta.** Los requisitos sin los cuales la medición no se produce están establecidos en el artículo 8 bis de la Carta; el procedimiento en detalle queda encomendado a una decisión de la Asamblea y no está adoptado;
+- **no existe un procedimiento detallado de formación de la pregunta.** Los requisitos sin los cuales la medición no se produce se establecen en el artículo 8 bis de la Carta; el procedimiento en detalle queda encomendado a una decisión de la Asamblea y no está adoptado;
 - **no existen paneles por sorteo.** El esquema de dos capas de la sección 9 está establecido por el artículo 8 ter de la Carta, pero no se ha reunido ni un solo panel: el registro es todavía demasiado pequeño para un sorteo, y el artículo lo dice expresamente;
 - **no existe la crónica de las no respuestas.** No está abierta;
 - **no se ha realizado una auditoría de seguridad independiente.**
@@ -871,7 +871,7 @@ La lista completa de lo que se ha declarado como principio pero todavía no est�
 
 ## 22. Los indicadores por los que se nos debe juzgar
 
-Para que lo aquí descrito se pueda verificar y no haya que aceptarlo por fe, nombramos los indicadores por los que se nos debe juzgar. La obligación de publicar la participación sobre quienes tenían derecho a voto está establecida en el artículo 8 bis de la [Carta](https://earth-lings.org/documents/es/es05-carta.html); los demás indicadores el presente documento no los establece ni puede establecerlos - los propone como una medida que él mismo se aplica. Ninguno de ellos es publicitario, y en varios de ellos vamos a quedar mal a ciencia cierta en los primeros años.
+Para que lo aquí descrito se pueda verificar y no haya que aceptarlo por fe, nombramos los indicadores por los que se nos debe juzgar. La obligación de publicar la participación sobre quienes tenían derecho a voto se establece en el artículo 8 bis de la [Carta](https://earth-lings.org/documents/es/es05-carta.html); los demás indicadores el presente documento no los establece ni puede establecerlos - los propone como una medida que él mismo se aplica. Ninguno de ellos es publicitario, y en varios de ellos vamos a quedar mal a ciencia cierta en los primeros años.
 
 | Indicador | Por qué este |
 |---|---|

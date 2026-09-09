@@ -93,7 +93,7 @@ Les paramètres de l'unité ne sont modifiés que par des décisions de l'Assemb
 
 - les opérations critiques passent par un délai différé après une notification publique, afin que les participants aient le temps de réagir;
 - les droits administratifs sont réduits au minimum et répartis entre des multisigs dont l'Assemblée élit la composition;
-- les signataires exécutent les décisions de l'Assemblée et n'ont pas de pouvoirs propres; les seuils de signature et les modalités de révocation sont établis par les articles 2 et 3 de la Charte;
+- les signataires exécutent les décisions de l'Assemblée et n'ont pas de pouvoirs propres; les seuils de signature et les modalités de révocation sont prévus aux articles 2 et 3 de la Charte;
 - une suspension temporaire est prévue pour protéger le système, avec un rapport public obligatoire dans les 48 heures et une confirmation par l'Assemblée.
 
 Les exigences de divulgation d'informations sur les signataires sont déterminées par l'Assemblée lors de leur élection. Sont publiées en tout état de cause les adresses des portefeuilles et les déclarations de conflit d'intérêts.

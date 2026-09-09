@@ -93,7 +93,7 @@ Los parámetros de la unidad se modifican únicamente por decisiones de la Asamb
 
 - las operaciones críticas pasan por un retardo temporal tras un aviso público, para que los participantes tengan tiempo de reaccionar;
 - los derechos administrativos están reducidos al mínimo y repartidos entre firmas múltiples cuya composición elige la Asamblea;
-- los firmantes ejecutan las decisiones de la Asamblea y no tienen facultades propias; los umbrales de firmas y el modo de revocación están establecidos en los artículos 2 y 3 de la Carta;
+- los firmantes ejecutan las decisiones de la Asamblea y no tienen facultades propias; los umbrales de firmas y el modo de revocación se establecen en los artículos 2 y 3 de la Carta;
 - está prevista la posibilidad de una suspensión temporal para proteger el sistema, con informe público obligatorio en el plazo de 48 horas y confirmación de la Asamblea.
 
 Las exigencias de divulgación de datos sobre los firmantes las determina la Asamblea al elegirlos. En todo caso se publican las direcciones de los monederos y las declaraciones de conflicto de intereses.

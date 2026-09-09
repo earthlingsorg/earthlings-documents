@@ -181,4 +181,4 @@ A día de hoy el pueblo se desarrolla con los fondos de sus participantes: no se
 
 La Carta y el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html) prevén la posibilidad de aceptar subvenciones y donaciones de organizaciones externas, con publicación obligatoria de la fuente, sin condiciones contrarias a los principios del pueblo y con una prohibición expresa: el donante no obtiene ni voto ni influencia sobre las decisiones. La cuantía de una donación no da nada.
 
-Todas las decisiones de gasto se adoptan por votación de la Asamblea DAO y se publican; las áreas de gasto y sus proporciones están establecidas en el artículo 9 del documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html).
+Todas las decisiones de gasto se adoptan por votación de la Asamblea DAO y se publican; las áreas de gasto y sus proporciones se establecen en el artículo 9 del documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html).

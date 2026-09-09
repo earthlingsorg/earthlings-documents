@@ -172,7 +172,7 @@ La reputación es una anotación de referencia sobre la participación del earth
 
 ## Artículo 14. Delegación
 
-Los Earthlings pueden ceder voluntariamente su voto en un ámbito concreto a otro participante. Las reglas están establecidas en el artículo 7 de la Carta y se reproducen aquí:
+Los Earthlings pueden ceder voluntariamente su voto en un ámbito concreto a otro participante. Las reglas se establecen en el artículo 7 de la Carta y se reproducen aquí:
 
 - **solo por ámbitos**: una categoría temática o una célula concreta; no cabe delegar en todas las cuestiones a la vez;
 - **prohibición de la autodelegación** y **prohibición de las cadenas**: se comprueban técnicamente;
@@ -455,7 +455,7 @@ Los valores indicados son referencias para la evaluación, y no compromisos del 
 
 ## Artículo 38. Procedimiento
 
-El documento se modifica únicamente por votación de la Asamblea DAO: la propuesta puede presentarla cualquier earthling; la entrada en vigor se produce a los 7 días de la aprobación. Los plazos de debate, el umbral y el quórum dependen del tipo de modificación y están establecidos en el artículo 39.
+El documento se modifica únicamente por votación de la Asamblea DAO: la propuesta puede presentarla cualquier earthling; la entrada en vigor se produce a los 7 días de la aprobación. Los plazos de debate, el umbral y el quórum dependen del tipo de modificación y se establecen en el artículo 39.
 
 ## Artículo 39. Tipos de modificación
 

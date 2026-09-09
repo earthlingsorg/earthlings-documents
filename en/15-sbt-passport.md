@@ -181,4 +181,4 @@ As of today the people develops on participants' funds: no external funding has 
 
 The Charter and the document [Treasury](https://earth-lings.org/documents/en/en09-treasury.html) provide for the possibility of accepting grants and donations from external organizations - with mandatory publication of the source, the absence of conditions contrary to the people's principles, and an express prohibition: a donor receives neither a vote nor influence over decisions. The size of a donation gives nothing.
 
-All decisions on spending are taken by a vote of the DAO Assembly and published; the fields of expenditure and their shares are established by Article 9 of the document [Treasury](https://earth-lings.org/documents/en/en09-treasury.html).
+All decisions on spending are taken by a vote of the DAO Assembly and published; the fields of expenditure and their shares are set out in Article 9 of the document [Treasury](https://earth-lings.org/documents/en/en09-treasury.html).

@@ -209,7 +209,7 @@ The record of all proposals received and the replies to them is published on 3 F
 
 ## 4. What is not considered
 
-Proposals aimed at repealing or limiting the principles established by Articles 3, 4, and 5 of the Declaration and listed in its Article 11 are not considered. Proposals to refine the wording of these articles are considered on the same footing as the rest.
+Proposals aimed at repealing or limiting the principles set out in Articles 3, 4, and 5 of the Declaration and listed in its Article 11 are not considered. Proposals to refine the wording of these articles are considered on the same footing as the rest.
 
 Proposals to add to the unamendable core are considered on the same footing as the rest and are included only if they meet all four conditions of the test set out above.
 

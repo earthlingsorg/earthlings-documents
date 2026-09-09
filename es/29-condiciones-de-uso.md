@@ -216,7 +216,7 @@ Todo lo sustancial: la modificación de la Carta y de las reglas; la distribuci�
 
 - votar en todas las cuestiones;
 - presentar propuestas;
-- ceder el voto en un ámbito concreto a otro participante y **revocar la cesión en un solo paso**, sin explicar los motivos y sin su consentimiento; la cesión en todas las cuestiones a la vez es imposible, las cadenas están prohibidas, y el techo y la lista de cuestiones sin delegación están establecidos en el artículo 7 de la Carta;
+- ceder el voto en un ámbito concreto a otro participante y **revocar la cesión en un solo paso**, sin explicar los motivos y sin su consentimiento; la cesión en todas las cuestiones a la vez es imposible, las cadenas están prohibidas, y el techo y la lista de cuestiones sin delegación se establecen en el artículo 7 de la Carta;
 - consultar todo el historial de decisiones;
 - impugnar las decisiones que infrinjan el núcleo intangible de la Declaración.
 

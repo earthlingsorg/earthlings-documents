@@ -80,7 +80,7 @@ Rule by the people within the Earthlings people rests on three conditions, and n
 
 **No Power of Some Over Others.** No one in the Earthlings people holds a position from which to command another person. Powers within the Earthlings people are at all times limited, distributed, revocable and verifiable. A mandate to carry out any function does not become an office. No position places a person, an institution or a group above the collective will of the people.
 
-**Technology.** Any technology serves the person and serves life. No technology may be used for the concealed manipulation of people, for limiting their freedom, for creating distinctions of caste or hierarchy, for digital subordination, or for suppressing human autonomy. No algorithm, code or system of artificial intelligence may be the final source of a decision affecting the rights, the dignity or the position of a person. Every person has the right to protection of the privacy of their data. The requirements for infrastructure that secure these rights are established by Article 10.
+**Technology.** Any technology serves the person and serves life. No technology may be used for the concealed manipulation of people, for limiting their freedom, for creating distinctions of caste or hierarchy, for digital subordination, or for suppressing human autonomy. No algorithm, code or system of artificial intelligence may be the final source of a decision affecting the rights, the dignity or the position of a person. Every person has the right to protection of the privacy of their data. The requirements for infrastructure that secure these rights are set out in Article 10.
 
 ## Article 4. Guarantees to the Person
 
@@ -98,7 +98,7 @@ The list of these grounds is closed: it cannot be construed extensively, neither
 
 **The Right to Take Part.** Every earthling has the right to take part in the discussion and the taking of decisions on any question relating to the life of the people, to submit proposals and to raise questions. No one's prior approval is required for this.
 
-**The Right to Be Heard.** The Earthlings people restricts the rights of a particular person in two cases only: when the issuance of a passport is annulled, and when participation in voting is temporarily restricted. The grounds for this are established by Article 8, the list of them is closed, and there are no other grounds. But every decision concerning a particular person that is adverse to them, including the refusal of confirmation of identity and the revocation of a mandate, is taken only in this way: the person is guaranteed to learn the grounds in good time, to submit objections, to receive an answer on the consideration of them, and to appeal the decision in the manner established by the Earthlings Charter.
+**The Right to Be Heard.** The Earthlings people restricts the rights of a particular person in two cases only: when the issuance of a passport is annulled, and when participation in voting is temporarily restricted. The grounds for this are set out in Article 8, the list of them is closed, and there are no other grounds. But every decision concerning a particular person that is adverse to them, including the refusal of confirmation of identity and the revocation of a mandate, is taken only in this way: the person is guaranteed to learn the grounds in good time, to submit objections, to receive an answer on the consideration of them, and to appeal the decision in the manner established by the Earthlings Charter.
 
 **The Right to Leave the People Freely.** Everyone has the right to end their belonging to the Earthlings people at any time. Leaving requires no reasons, no permission and no one's consent. No one has the power to prevent it.
 
@@ -151,13 +151,13 @@ The Earthlings people advances no territorial claims.
 ---
 # Part II. Structure
 
-*This Part establishes how what Part I proclaims actually operates. It is amended in the manner established by Article 11, and in no circumstances does it lower the guarantees established by Part I.*
+*This Part establishes how what Part I proclaims actually operates. It is amended in the manner set out in Article 11, and in no circumstances does it lower the guarantees established by Part I.*
 
 *The manner of implementing what this Declaration establishes is determined by the Earthlings Charter. The Earthlings Charter sets out detail; it neither abolishes nor narrows any requirement of the Declaration and does not make it conditional on anything.*
 
 ## Article 8. Belonging to the People
 
-**How Belonging Arises.** Belonging to the Earthlings people is voluntary: it arises by the decision of the person themselves on the conditions named in this Article, and it ends only on the grounds established by Article 4.
+**How Belonging Arises.** Belonging to the Earthlings people is voluntary: it arises by the decision of the person themselves on the conditions named in this Article, and it ends only on the grounds set out in Article 4.
 
 Belonging arises no earlier than the age established by the Earthlings Charter. That age cannot be lower than 16 years, and no one has the power to lower it.
 
@@ -175,7 +175,7 @@ There is no decision on admission to the people: the people considers no applica
 
 **Belonging Adds, It Does Not Replace.** Belonging to the Earthlings people is added to what a person already has. It requires giving up no other belonging and does not affect the person's rights and duties towards their state.
 
-**Equality of earthlings.** From the moment a person signs the Declaration, they are equal to every other earthling. Neither the date of signing, nor participation in constituting the people, nor length of participation, nor the size of voluntary donations, nor any mandate carried out creates any advantage, privilege or special position. No language, no region and no culture holds any advantage within the people. The manner of construing divergences between the texts of this Declaration is established by Article 11 and creates no advantage for the speakers of any language.
+**Equality of earthlings.** From the moment a person signs the Declaration, they are equal to every other earthling. Neither the date of signing, nor participation in constituting the people, nor length of participation, nor the size of voluntary donations, nor any mandate carried out creates any advantage, privilege or special position. No language, no region and no culture holds any advantage within the people. The manner of construing divergences between the texts of this Declaration is set out in Article 11 and creates no advantage for the speakers of any language.
 
 There is no class of founders in the Earthlings people.
 

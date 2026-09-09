@@ -53,7 +53,7 @@ No existen otras personas ni estructuras con facultades técnicas sobre la plata
 
 En la etapa inicial la plataforma emplea modelos de inteligencia artificial ya existentes para analizar iniciativas, apoyar proyectos y automatizar tareas rutinarias. En perspectiva se contempla desarrollar un modelo propio adaptado a las tareas del pueblo.
 
-Los límites del uso de la IA están establecidos en el artículo 3 de la Declaración: ninguna arquitectura digital puede justificar la manipulación encubierta o la supresión de la autonomía humana. De ahí tres reglas estrictas que rigen con independencia del modelo que se emplee:
+Los límites del uso de la IA se establecen en el artículo 3 de la Declaración: ninguna arquitectura digital puede justificar la manipulación encubierta o la supresión de la autonomía humana. De ahí tres reglas estrictas que rigen con independencia del modelo que se emplee:
 
 - **La IA no decide nada.** Cualquier conclusión suya tiene carácter de recomendación y no es fundamento de denegación.
 - **Los fundamentos se revelan.** La persona cuya iniciativa haya marcado la IA recibe una exposición de los motivos en forma comprensible, y no una negativa sin explicación.

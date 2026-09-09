@@ -212,7 +212,7 @@ No se abona remuneración alguna por ocupar un puesto en el Consejo más allá d
 
 > **Umbrales de financiación.** Las cantidades de 10 000 EC y 100 000 EC que delimitan los tipos de votación las establece una decisión de la Asamblea DAO y se modifican sin reformar la Carta. Los valores aquí indicados rigen en el momento de la adopción de la Carta; en caso de discrepancia se aplica la decisión vigente de la Asamblea DAO.
 
-**La medición de la voluntad común no es una decisión** y no figura en la presente lista: con ella el pueblo expresa una posición, no adopta decisiones. Los requisitos de la medición están establecidos en el artículo 8 bis; el procedimiento en lo demás lo establece una decisión de la Asamblea DAO.
+**La medición de la voluntad común no es una decisión** y no figura en la presente lista: con ella el pueblo expresa una posición, no adopta decisiones. Los requisitos de la medición se establecen en el artículo 8 bis; el procedimiento en lo demás lo establece una decisión de la Asamblea DAO.
 
 ## Artículo 6. Procedimientos de votación
 
@@ -293,7 +293,7 @@ Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La 
 
 ## Artículo 8 bis. Medición de la voluntad común
 
-El pueblo Earthlings expresa la voluntad común sobre las cuestiones que afectan a todos, artículo 3 de la Declaración. Los límites de esa expresión están establecidos en los artículos 5 y 11 de la Declaración.
+El pueblo Earthlings expresa la voluntad común sobre las cuestiones que afectan a todos, artículo 3 de la Declaración. Los límites de esa expresión se establecen en los artículos 5 y 11 de la Declaración.
 
 La formulación de la pregunta no la aprueban ni quienes llevan la gestión operativa del pueblo ni quienes realizan la medición. La pregunta se publica antes de que se abra la votación y puede ser impugnada; una vez abierta la votación, la pregunta no se edita.
 
@@ -454,7 +454,7 @@ La pertenencia al pueblo Earthlings es inalienable. Nadie puede ser expulsado de
 
 **El derecho de voto no puede retirarse ni suspenderse por las opiniones de la persona, por el sentido de su voto, por el desacuerdo con las decisiones adoptadas o como medida general de responsabilidad por infringir las reglas.** El voto es el contenido de la pertenencia: retirarlo por tales fundamentos equivaldría a expulsar a la persona del pueblo dejándole el nombre. Las medidas limitativas previstas en el artículo 22 no afectan al derecho de voto.
 
-La única excepción admisible está establecida en el artículo 22 bis y se refiere a los actos dirigidos a socavar la integridad de la votación misma. La lista de fundamentos no es ampliable.
+La única excepción admisible, establecida en el artículo 22 bis, se refiere a los actos dirigidos a socavar la integridad de la votación misma. La lista de fundamentos no es ampliable.
 
 Este principio deriva de la Declaración Earthlings: la libertad corresponde a cada persona, y ninguna mayoría puede privar a alguien de la pertenencia a un pueblo al que se adhirió voluntariamente.
 
@@ -561,7 +561,7 @@ El pueblo Earthlings no está obligado a destinar los recursos comunes a quien l
 - **Retirada de la financiación de un proyecto**: el cese de los desembolsos correspondientes a las fases todavía no ejecutadas de un proyecto financiado por la Tesorería Earthlings
 - **Cese de la financiación de una célula**: el cese de los pagos a la célula con cargo a los fondos comunes
 - **Retirada del reconocimiento**: el cese de la presentación de un proyecto o de una célula en los canales y medios del pueblo Earthlings como proyecto o célula del pueblo
-- **Disolución de una célula**: la extinción de la célula como asociación formada en torno a un recurso común; los fundamentos y el procedimiento están establecidos en el artículo 25
+- **Disolución de una célula**: la extinción de la célula como asociación formada en torno a un recurso común; los fundamentos y el procedimiento se establecen en el artículo 25
 
 **Fundamentos de las medidas sobre los recursos comunes:**
 
@@ -898,7 +898,7 @@ Plazos: 21 días de debate + 14 días de votación.
 Orden de financiación de los proyectos ya aprobados cuando faltan fondos del área. Marca de apoyo sin límite en el número de marcas; financiación por orden decreciente del número de quienes apoyan.
 
 **Medición de la voluntad común (artículo 8 bis)**
-No es una decisión y no tiene umbral: con ella el pueblo expresa una posición, no adopta decisiones. Los requisitos están establecidos en el artículo 8 bis; el procedimiento en lo demás lo establece una decisión de la Asamblea DAO.
+No es una decisión y no tiene umbral: con ella el pueblo expresa una posición, no adopta decisiones. Los requisitos se establecen en el artículo 8 bis; el procedimiento en lo demás lo establece una decisión de la Asamblea DAO.
 
 **El panel elegido por sorteo (artículo 8 ter)**
 No es una decisión y no tiene umbral: el panel prepara la pregunta para la medición, no la responde. Elección por sorteo del registro, participación voluntaria, trabajo publicado junto con la pregunta. El panel no se convoca mientras el registro no permita obtener por sorteo un corte transversal del pueblo.

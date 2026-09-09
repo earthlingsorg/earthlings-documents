@@ -216,7 +216,7 @@ Tout ce qui est important: modification de la Charte et des règles; répartitio
 
 - voter sur toutes les questions;
 - déposer des propositions;
-- confier votre voix, sur un domaine déterminé, à un autre participant et **révoquer ce transfert en une seule étape**, sans avoir à vous expliquer et sans son accord; le transfert pour toutes les questions à la fois est impossible, les chaînes sont interdites, et le plafond ainsi que la liste des questions sans délégation sont établis par l'article 7 de la Charte;
+- confier votre voix, sur un domaine déterminé, à un autre participant et **révoquer ce transfert en une seule étape**, sans avoir à vous expliquer et sans son accord; le transfert pour toutes les questions à la fois est impossible, les chaînes sont interdites, et le plafond ainsi que la liste des questions sans délégation sont prévus à l'article 7 de la Charte;
 - consulter tout l'historique des décisions;
 - contester les décisions qui violent le noyau intangible de la Déclaration.
 

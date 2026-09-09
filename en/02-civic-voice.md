@@ -291,7 +291,7 @@ The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal
 
 # Part IV. How a measurement works
 
-The instrument is described above as a design. Here is how it has to work if it is not to turn into one more poll. The requirements without which a measurement does not take place are established by the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who may not approve the question, what is published together with the result, who finds a defect, and whose money a measurement is not conducted on. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today it has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
+The instrument is described above as a design. Here is how it has to work if it is not to turn into one more poll. The requirements without which a measurement does not take place are established by the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who is not entitled to approve the question, what is published together with the result, who finds a defect, and whose money a measurement is not conducted on. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today it has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
 
 ## 7. Who takes part
 
@@ -364,7 +364,7 @@ Here we answer the strongest objection to the whole undertaking: **polling milli
 
 The objection is just. Scale by itself confers no quality of judgment, and a large number of ill-considered answers is a large number of ill-considered answers.
 
-The answer to it is the two layers. What is described below is the order established by Article 8 ter of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); it cannot be applied today in any case - drawing lots from a registry of a few hundred people yields no cross-section of the people, and the article says so expressly. The order is arranged like this:
+The answer to it is the two layers. What is described below is the order set out in Article 8 ter of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); it cannot be applied today in any case - drawing lots from a registry of a few hundred people yields no cross-section of the people, and the article says so expressly. The order is arranged like this:
 
 **Layer one - the panel.** For each question a panel is selected by lot from the registry. Selection by lot has no opinion: it gives a cross-section of the people, not its active part, and that is fundamental - the active part is always skewed. The panel spends several weeks getting to grips with the question: it receives materials, hears specialists and representatives of the opposing positions, and discusses publicly. At the end the panel does not decide - it **formulates the options** and sets out the arguments for and against each, together with the points on which the participants did not agree.
 
@@ -423,7 +423,7 @@ An instrument with which everything can be measured will be used against someone
 
 **A particular person.** No collective position is taken with respect to a particular individual. The people speaks about phenomena, decisions and arrangements, but not about people. An instrument aimed at a person is a lynching with a procedure, and we shall not build one.
 
-**The principles of the unamendable core.** They are not a subject of voting - and this is not a question of a raised threshold but a question that is not put at all. The list of those principles is established by Article 11 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html); we do not reproduce it here, so that it keeps a single source. The core may be added to; it may not be weakened.
+**The principles of the unamendable core.** They are not a subject of voting - and this is not a question of a raised threshold but a question that is not put at all. The list of those principles is set out in Article 11 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html); we do not reproduce it here, so that it keeps a single source. The core may be added to; it may not be weakened.
 
 These three limits make the instrument less powerful. It is a deliberate trade: a tool with which no blow can be struck is far harder to take away.
 
@@ -862,8 +862,8 @@ We assert that Earthlings is verifiable, and that assertion has meaning only whe
 **Not built:**
 
 - **no substantive measurements have been conducted.** The voting channel is deployed and technically works, but there have been no votes on the merits in it yet;
-- **no procedure in detail for forming a question exists.** The requirements without which a measurement does not take place are established by Article 8 bis of the Charter; the order in detail is left to a decision of the Assembly and has not been adopted;
-- **no panels selected by lot exist.** The two-layer scheme from section 9 is established by Article 8 ter of the Charter, but not one panel has been assembled: the registry is still too small for a draw, and the article says so expressly;
+- **no procedure in detail for forming a question exists.** The requirements without which a measurement does not take place are set out in Article 8 bis of the Charter; the order in detail is left to a decision of the Assembly and has not been adopted;
+- **no panels selected by lot exist.** The two-layer scheme from section 9 is set out in Article 8 ter of the Charter, but not one panel has been assembled: the registry is still too small for a draw, and the article says so expressly;
 - **no chronicle of non-answers exists.** It has not been started;
 - **no independent security audit has been conducted.**
 
@@ -871,7 +871,7 @@ The full list of what is declared as a principle but not yet done - including th
 
 ## 22. The indicators by which we should be judged
 
-So that what is described here can be checked rather than taken on faith, we name the indicators by which we should be judged. The obligation to publish the share of those who voted out of those entitled to vote is established by Article 8 bis of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); the remaining indicators this document does not establish and cannot establish - it offers them as a measure that it turns upon itself. Not one of them is promotional, and on several of them we shall certainly look bad in the first years.
+So that what is described here can be checked rather than taken on faith, we name the indicators by which we should be judged. The obligation to publish the share of those who voted out of those entitled to vote is set out in Article 8 bis of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); the remaining indicators this document does not establish and cannot establish - it offers them as a measure that it turns upon itself. Not one of them is promotional, and on several of them we shall certainly look bad in the first years.
 
 | Indicator | Why it is there |
 |---|---|
@@ -892,7 +892,7 @@ So that what is described here can be checked rather than taken on faith, we nam
 
 **There are no probabilities here.** We do not know which of the rungs will be reached, or whether even one will be.
 
-**There is no promise of a result here.** What the people is bound by and what it is not bound by is established by Article 6 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and we do not reproduce it here, so that the norm keeps a single source. In short: recognition is not within its power, and the existence of the people does not depend on recognition.
+**There is no promise of a result here.** What the people is bound by and what it is not bound by is set out in Article 6 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and we do not reproduce it here, so that the norm keeps a single source. In short: recognition is not within its power, and the existence of the people does not depend on recognition.
 
 **And there is not a single assertion here on which anything depends today.** The infrastructure is built, the founding period is under way, the Declaration is being put to a vote. If not one of the rungs described here is climbed, that will annul nothing of what has already been done and will make meaningless nothing of what people chose one another for.
 

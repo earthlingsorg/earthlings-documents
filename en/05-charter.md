@@ -212,7 +212,7 @@ No remuneration for holding a seat on the Council is paid beyond such compensati
 
 > **Funding thresholds.** The amounts of 10,000 EC and 100,000 EC that separate the types of vote are set by a decision of the DAO Assembly and are changed without amending the Charter. The figures given here are those in force at the time the Charter is adopted; where they diverge, the decision of the DAO Assembly in force applies.
 
-**A measurement of the common will is not a decision** and is not included in the present list: by it the people expresses a position; it does not decide. The requirements for a measurement are established by Article 8 bis; in all other respects the order is established by a decision of the DAO Assembly.
+**A measurement of the common will is not a decision** and is not included in the present list: by it the people expresses a position; it does not decide. The requirements for a measurement are set out in Article 8 bis; in all other respects the order is established by a decision of the DAO Assembly.
 
 ## Article 6. Voting Procedures
 
@@ -293,7 +293,7 @@ An earthling may delegate their vote on a particular field to another earthling.
 
 ## Article 8 bis. Measurement of the Common Will
 
-The Earthlings people expresses a common will on questions that affect everyone - Article 3 of the Declaration. The limits of such expression are established by Articles 5 and 11 of the Declaration.
+The Earthlings people expresses a common will on questions that affect everyone - Article 3 of the Declaration. The limits of such expression are set out in Articles 5 and 11 of the Declaration.
 
 The wording of a question is approved neither by those who run the operational management of the people, nor by those who conduct the measurement. The question is published before voting opens and may be challenged; once voting has opened the question is not edited.
 
@@ -454,7 +454,7 @@ Belonging to the Earthlings people is inalienable. No one can be expelled from t
 
 **The right to vote cannot be taken away or suspended for a person's views, for the content of their vote, for disagreement with decisions taken, or as a general measure of liability for breaking rules.** The vote is the substance of belonging: to take it away on such grounds would be to expel a person from the people while leaving them the name. The restrictive measures provided for by Article 22 do not affect the right to vote.
 
-The only permissible exception is established by Article 22 bis and concerns acts directed at undermining the integrity of voting itself. The list of grounds is not subject to extension.
+The only permissible exception is set out in Article 22 bis and concerns acts directed at undermining the integrity of voting itself. The list of grounds is not subject to extension.
 
 This principle follows from the Earthlings Declaration: freedom belongs to everyone, and no majority has the power to deprive a person of belonging to a people they joined voluntarily.
 
@@ -512,7 +512,7 @@ The inactivity mechanism protects the system from an artificial inflation of quo
 
 As a general rule an SBT passport is burned only by the holder themselves (Article 18). This Article establishes **two and only two** exceptions to that rule.
 
-> **Why death is not on this list.** Belonging ends upon the death of a person - this is established by Article 4 of the Declaration and occurs of itself, without anyone's decision. A passport is not burned on that ground, and for the following reasons. The people has, and can have, no access to records of death across the world: such a ground would rest on information whose reliability there is no way to check, and it would become the cheapest way to remove a participant - without notice, without a period for objections and without appeal, since all of these presuppose the person's presence. Nor does burning provide protection against voting with someone else's key: it cannot outrun knowledge of the death. The practical side is covered by Article 20: whoever does not take part is deemed inactive, their vote is not counted towards the quorum, and the passport is retained. The system does not need to know why a person stopped taking part.
+> **Why death is not on this list.** Belonging ends upon the death of a person - this is set out in Article 4 of the Declaration and occurs of itself, without anyone's decision. A passport is not burned on that ground, and for the following reasons. The people has, and can have, no access to records of death across the world: such a ground would rest on information whose reliability there is no way to check, and it would become the cheapest way to remove a participant - without notice, without a period for objections and without appeal, since all of these presuppose the person's presence. Nor does burning provide protection against voting with someone else's key: it cannot outrun knowledge of the death. The practical side is covered by Article 20: whoever does not take part is deemed inactive, their vote is not counted towards the quorum, and the passport is retained. The system does not need to know why a person stopped taking part.
 
 ### 1. Annulment of an Invalid Issuance
 
@@ -541,7 +541,7 @@ A passport may be burned and immediately reissued to the same address or to a ne
 
 Where the rules and principles of the Earthlings people are breached, the Earthlings people may put the breach on the public record and dispose of what belongs to everyone: stop giving common money and withdraw their name. Neither of these restricts the rights of a person.
 
-**The limit of this Article.** A measure under this Article may concern common resources and must not concern the rights of a person. Neither belonging to the people, nor the right to vote, nor the right to take part in discussion, to submit proposals and to raise questions, nor the right to be heard, nor the right to leave freely is restricted under this Article - on no ground, by no majority, for no period. The rights of an individual person are restricted by the Earthlings people in only two cases, established by Article 4 of the Earthlings Declaration: annulment of an invalid issuance of a passport (Article 21) and suspension of the right to vote for undermining the integrity of voting itself (Article 22 bis). The list is closed, and this Article does not extend it.
+**The limit of this Article.** A measure under this Article may concern common resources and must not concern the rights of a person. Neither belonging to the people, nor the right to vote, nor the right to take part in discussion, to submit proposals and to raise questions, nor the right to be heard, nor the right to leave freely is restricted under this Article - on no ground, by no majority, for no period. The rights of an individual person are restricted by the Earthlings people in only two cases, set out in Article 4 of the Earthlings Declaration: annulment of an invalid issuance of a passport (Article 21) and suspension of the right to vote for undermining the integrity of voting itself (Article 22 bis). The list is closed, and this Article does not extend it.
 
 ### The Measure Addressed to a Person: a Warning
 
@@ -561,7 +561,7 @@ The Earthlings people are not obliged to give what is common to someone who spen
 - **Withdrawal of funding from a project** - ending payments for the unpaid milestones of a project funded by the Earthlings Treasury
 - **Ending the funding of a Cell** - ending payments to the Cell out of common funds
 - **Withdrawal of recognition** - ending the presentation of a project or a Cell on the resources of the Earthlings people as its project or its Cell
-- **Dissolution of a Cell** - ending the existence of the Cell itself as an association formed around a common resource; the grounds and procedure are established by Article 25
+- **Dissolution of a Cell** - ending the existence of the Cell itself as an association formed around a common resource; the grounds and procedure are set out in Article 25
 
 **Grounds for measures addressed to common resources:**
 
@@ -831,7 +831,7 @@ The following principles cannot be changed even by a qualified majority:
 - **Openness and transparency of decisions and finances.** All decisions of the DAO, the outcomes of votes, the financial transactions of the Fund and the actions of executive structures are public and verifiable. The personal and biometric data of participants is not public - it is protected by Article 13. Transparency extends to the actions of institutions, not to the personal data of people; the expression of will of a particular person is personal data and may be closed under Article 6
 - **Voluntariness.** Participation and departure are free; expulsion is impossible
 - **Revocability of every mandate.** A power that cannot be revoked immediately and at a threshold no higher than the threshold of its grant is not granted
-- **The threshold for amending this Charter.** The thresholds set by Article 36 cannot be lowered by a decision taken under that same Article; this is established by Article 9 of the Declaration
+- **The threshold for amending this Charter.** The thresholds set by Article 36 cannot be lowered by a decision taken under that same Article; this is set out in Article 9 of the Declaration
 
 > **Relation to the Declaration.** The principles listed are the operational expression of the unamendable core of the Earthlings Declaration - the life, dignity and freedom of the person, planetary solidarity, care for the planet and the absence of any power of some people over others. They cannot narrow that core and are construed only in its favour.
 
@@ -898,7 +898,7 @@ Timing: 21 days of discussion + 14 days of voting.
 The order of funding among projects already approved where the funds of a field are short. Marks of support without any limit on their number; funding in descending order of the number of supporters.
 
 **Measurement of the common will (Article 8 bis)**
-It is not a decision and has no threshold: by it the people expresses a position; it does not decide. The requirements are established by Article 8 bis; in all other respects the order is established by a decision of the DAO Assembly.
+It is not a decision and has no threshold: by it the people expresses a position; it does not decide. The requirements are set out in Article 8 bis; in all other respects the order is established by a decision of the DAO Assembly.
 
 **The panel selected by lot (Article 8 ter)**
 It is not a decision and has no threshold: the panel prepares the question for measurement, it does not answer it. Selection by lot from the registry, participation voluntary, the work published together with the question. A panel is not convened while the registry does not allow a cross-section of the people to be obtained by lot.

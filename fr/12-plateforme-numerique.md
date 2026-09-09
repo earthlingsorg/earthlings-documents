@@ -53,7 +53,7 @@ Il n'existe aucune autre personne ni structure dotée de pouvoirs techniques sur
 
 Au stade initial, la plateforme utilise des modèles d'intelligence artificielle existants pour analyser les initiatives, soutenir les projets et automatiser les tâches répétitives. À terme, le développement d'un modèle propre, adapté aux tâches du peuple, est envisagé.
 
-Les limites d'emploi de l'IA sont établies par l'article 3 de la Déclaration: aucune architecture numérique ne peut justifier une manipulation dissimulée ni l'étouffement de l'autonomie humaine. D'où trois règles strictes, valables quel que soit le modèle utilisé:
+Les limites d'emploi de l'IA sont prévues à l'article 3 de la Déclaration: aucune architecture numérique ne peut justifier une manipulation dissimulée ni l'étouffement de l'autonomie humaine. D'où trois règles strictes, valables quel que soit le modèle utilisé:
 
 - **L'IA ne décide de rien.** Toute conclusion qu'elle formule a un caractère consultatif et ne constitue pas un motif de refus.
 - **Les motifs sont divulgués.** La personne dont l'IA a marqué l'initiative reçoit un exposé des raisons sous une forme compréhensible, et non un refus sans explication.

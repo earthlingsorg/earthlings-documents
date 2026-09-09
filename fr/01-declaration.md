@@ -80,7 +80,7 @@ Au sein du peuple des Earthlings, le gouvernement du peuple repose sur trois con
 
 **Le pouvoir des uns sur les autres n'existe pas.** Nul, dans le peuple des Earthlings, n'est placé de manière à pouvoir disposer d'une autre personne. Les pouvoirs, dans le peuple des Earthlings, sont toujours limités, répartis, révocables et vérifiables. Une mission confiée pour accomplir une tâche quelconque ne devient pas une fonction. Aucune situation ne place une personne, une institution ou un groupe au-dessus de la volonté collective du peuple.
 
-**La technologie.** Toute technologie sert la personne et la vie. Aucune technologie ne peut être employée pour manipuler les gens de façon dissimulée, restreindre leur liberté, créer des distinctions de caste ou de hiérarchie, instaurer une sujétion numérique ou étouffer l'autonomie humaine. Aucun algorithme, aucun code et aucun système d'intelligence artificielle ne peut être la source ultime d'une décision touchant les droits, la dignité ou la situation d'une personne. Toute personne a droit à la protection de la confidentialité de ses données. Les exigences relatives à l'infrastructure, qui assurent ces droits, sont établies par l'article 10.
+**La technologie.** Toute technologie sert la personne et la vie. Aucune technologie ne peut être employée pour manipuler les gens de façon dissimulée, restreindre leur liberté, créer des distinctions de caste ou de hiérarchie, instaurer une sujétion numérique ou étouffer l'autonomie humaine. Aucun algorithme, aucun code et aucun système d'intelligence artificielle ne peut être la source ultime d'une décision touchant les droits, la dignité ou la situation d'une personne. Toute personne a droit à la protection de la confidentialité de ses données. Les exigences relatives à l'infrastructure, qui assurent ces droits, sont prévues à l'article 10.
 
 ## Article 4. Les garanties données à la personne
 
@@ -98,7 +98,7 @@ La liste de ces motifs est fermée: elle ne peut être interprétée extensiveme
 
 **Le droit de participer.** Tout earthling a le droit de prendre part au débat et aux décisions sur toute question relative à la vie du peuple, de faire des propositions et de soulever des questions. Aucune approbation préalable n'est requise à cette fin.
 
-**Le droit d'être entendu.** Le peuple des Earthlings ne restreint les droits d'une personne déterminée que dans deux cas: lorsque la délivrance d'un passeport est annulée et lorsque la participation au vote est restreinte temporairement. Les motifs en sont établis par l'article 8, leur liste est fermée, et il n'en existe pas d'autres. Mais toute décision concernant une personne déterminée qui lui est défavorable, y compris le refus de la vérification d'identité et la révocation d'une mission, n'est prise que de la manière suivante: il est garanti à la personne de connaître les motifs en temps utile, de présenter ses objections, de recevoir une réponse à l'issue de leur examen et de former un recours contre la décision selon la procédure établie par la Charte des Earthlings.
+**Le droit d'être entendu.** Le peuple des Earthlings ne restreint les droits d'une personne déterminée que dans deux cas: lorsque la délivrance d'un passeport est annulée et lorsque la participation au vote est restreinte temporairement. Les motifs en sont prévus à l'article 8, leur liste est fermée, et il n'en existe pas d'autres. Mais toute décision concernant une personne déterminée qui lui est défavorable, y compris le refus de la vérification d'identité et la révocation d'une mission, n'est prise que de la manière suivante: il est garanti à la personne de connaître les motifs en temps utile, de présenter ses objections, de recevoir une réponse à l'issue de leur examen et de former un recours contre la décision selon la procédure établie par la Charte des Earthlings.
 
 **Le droit de sortir librement du peuple.** Chacun a le droit de mettre fin à tout moment à son appartenance au peuple des Earthlings. La sortie n'exige ni explication, ni autorisation, ni l'accord de quiconque. Nul n'a le droit d'y faire obstacle.
 
@@ -151,13 +151,13 @@ Le peuple des Earthlings ne formule aucune revendication territoriale.
 ---
 # Partie II. L'agencement
 
-*La présente partie établit comment s'applique ce que proclame la Partie I. Elle est modifiée selon la procédure établie par l'article 11 et n'abaisse en aucune circonstance les garanties établies par la Partie I.*
+*La présente partie établit comment s'applique ce que proclame la Partie I. Elle est modifiée selon la procédure prévue à l'article 11 et n'abaisse en aucune circonstance les garanties établies par la Partie I.*
 
 *Les modalités de mise en œuvre de ce qu'établit la présente Déclaration sont déterminées par la Charte des Earthlings. La Charte apporte le détail; elle n'abroge ni ne restreint aucune exigence de la Déclaration et n'en subordonne aucune à des conditions.*
 
 ## Article 8. L'appartenance au peuple
 
-**Comment naît l'appartenance.** L'appartenance au peuple des Earthlings est volontaire: elle naît par la décision de la personne elle-même dans les conditions énoncées au présent article, et elle ne prend fin que pour les motifs établis par l'article 4.
+**Comment naît l'appartenance.** L'appartenance au peuple des Earthlings est volontaire: elle naît par la décision de la personne elle-même dans les conditions énoncées au présent article, et elle ne prend fin que pour les motifs prévus à l'article 4.
 
 L'appartenance ne naît pas avant l'âge établi par la Charte des Earthlings. Cet âge ne peut être inférieur à 16 ans, et nul n'a le droit de l'abaisser.
 
@@ -175,7 +175,7 @@ Il n'existe pas de décision d'admission dans le peuple: le peuple n'examine pas
 
 **L'appartenance s'ajoute, elle ne remplace pas.** L'appartenance au peuple des Earthlings s'ajoute à ce que la personne a déjà. Elle n'impose de renoncer à aucune autre appartenance et n'affecte pas les droits et les obligations de la personne envers son État.
 
-**L'égalité des earthlings.** Dès l'instant où une personne a signé la Déclaration, elle est l'égale de tout autre earthling. Ni la date de la signature, ni la participation à la constitution du peuple, ni la durée de la participation, ni le montant des dons volontaires, ni les missions exercées ne créent d'avantage, de privilège ou de situation particulière. Aucune langue, aucune région et aucune culture ne bénéficie d'un avantage dans le peuple. La manière d'interpréter les divergences entre les textes de la présente Déclaration est établie par l'article 11 et ne crée aucun avantage pour ceux qui parlent telle ou telle langue.
+**L'égalité des earthlings.** Dès l'instant où une personne a signé la Déclaration, elle est l'égale de tout autre earthling. Ni la date de la signature, ni la participation à la constitution du peuple, ni la durée de la participation, ni le montant des dons volontaires, ni les missions exercées ne créent d'avantage, de privilège ou de situation particulière. Aucune langue, aucune région et aucune culture ne bénéficie d'un avantage dans le peuple. La manière d'interpréter les divergences entre les textes de la présente Déclaration est prévue à l'article 11 et ne crée aucun avantage pour ceux qui parlent telle ou telle langue.
 
 Il n'existe pas de classe de fondateurs dans le peuple des Earthlings.
 

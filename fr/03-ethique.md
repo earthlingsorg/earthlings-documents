@@ -52,7 +52,7 @@ Si la médiation n'a pas abouti et que le différend touche les intérêts de la
 
 C'est une mesure de dernier recours. Elle convient lorsque le conflit porte sur l'interprétation des règles du peuple, lorsqu'une décision destinée à servir de modèle pour les cas futurs est nécessaire, ou lorsque l'une des parties agit systématiquement à l'encontre des principes adoptés par le peuple.
 
-L'examen se fait selon les procédures de la Charte. **L'Assemblée ne peut en aucune circonstance exclure une personne du peuple** (Déclaration, article 4); les mesures applicables et les modalités de leur application sont établies par l'article 22 de la Charte.
+L'examen se fait selon les procédures de la Charte. **L'Assemblée ne peut en aucune circonstance exclure une personne du peuple** (Déclaration, article 4); les mesures applicables et les modalités de leur application sont prévues à l'article 22 de la Charte.
 
 ## Ce qui ne relève pas de la médiation
 

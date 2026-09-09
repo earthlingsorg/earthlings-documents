@@ -76,7 +76,7 @@ Tout earthling peut recevoir des voix déléguées par d'autres participants sur
 
 > **La délégation n'est pas la représentation.** Elle est donnée par domaine et non pour une durée; elle est révoquée immédiatement, sans avoir à s'expliquer et sans l'accord de celui à qui la voix a été confiée; elle **ne crée pas de fonction** et ne donne au délégué aucun droit, hormis celui d'exprimer les voix qui lui ont été confiées. Un délégué peut à tout moment se retrouver sans une seule voix déléguée, et c'est le fonctionnement normal du mécanisme.
 
-Les limites établies par l'article 7 de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html) et vérifiées techniquement:
+Les limites prévues à l'article 7 de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html) et vérifiées techniquement:
 
 - **par domaine uniquement** - catégorie thématique ou cellule déterminée; il n'est pas possible de déléguer sa voix pour toutes les questions à la fois;
 - **interdiction de l'auto-délégation** - vérifiée à chaque opération;
