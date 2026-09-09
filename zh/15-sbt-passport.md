@@ -181,4 +181,4 @@ Earthlings 护照记录的就是它所记录的，而这并不少：一个具体
 
 宪章和[《司库》](https://earth-lings.org/documents/zh/zh09-treasury.html)文件规定了接受外部组织的资助和捐赠的可能——条件是必须公布来源，不得附有与人民原则相抵触的条件，并且有一项明确的禁止：捐赠人既不获得一票，也不获得对决定的影响。捐赠的数额不给予任何东西。
 
-一切关于支出的决定都由 DAO 全体大会投票作出并予以公布；支出的方向及其份额由[《司库》](https://earth-lings.org/documents/zh/zh09-treasury.html)文件第九条规定。
+一切关于支出的决定都由 DAO 全体大会投票作出并予以公布；[《司库》](https://earth-lings.org/documents/zh/zh09-treasury.html)文件第九条规定了支出的方向及其份额。
