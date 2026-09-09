@@ -2,7 +2,7 @@
 
 **Infrastructure of identity, participation, and projects for the Earthlings people**
 
-> This document describes the technical implementation of the rules laid down by the Earthlings Charter. Where they diverge, the Charter applies; where the Charter diverges from the Declaration, the Declaration applies. The platform does not establish rules: it executes them.
+> This document describes the technical implementation of the rules set out in the Earthlings Charter. Where they diverge, the Charter applies; where the Charter diverges from the Declaration, the Declaration applies. The platform does not establish rules: it executes them.
 
 ---
 
@@ -19,7 +19,7 @@ The platform is not a social network or one more blockchain system. It is the in
 
 The main task is to make participation practical, safe, and honest: from the first signing of the Declaration to the delivery of complex international projects.
 
-> **Limits of the platform.** The platform takes no decisions and cannot take them. Binding decisions are taken only by the DAO Assembly. The platform is the executive level: it provides the interface, records the outcome, and puts it into effect. No component of it, no automatic mechanism, and no person operating it is entitled to alter, revoke, or block a decision of the Assembly.
+> **Limits of the platform.** The platform takes no decisions and cannot take them. Binding decisions are taken only by the DAO Assembly. The platform is the executive level: it provides the interface, records the outcome, and puts it into effect. Neither any component of it, nor any automatic mechanism, nor any person operating it has power to alter, revoke, or block a decision of the Assembly.
 
 ---
 
@@ -82,7 +82,7 @@ The architecture requires that identity, the vote, and the economic trace not me
 
 As a general rule a passport is burned only by the holder themselves, with their own key, from their own wallet. The platform stores no participant keys and is technically unable either to perform the burning for them or to prevent it.
 
-The Charter (Article 21) establishes two and only two exceptions, which the platform is obliged to support and is not entitled to extend:
+The Charter (Article 21) establishes two and only two exceptions, which the platform must support and must not extend:
 
 1. **annulment of an invalid issuance** - where it is established that the passport was issued in breach of the conditions of issuance; only by decision of the Assembly with a sanction majority, by secret ballot, with a right of appeal;
 2. **technical reissue** - at the holder's own request on loss of access to a wallet or on migration of the contract; belonging is not interrupted.
@@ -110,7 +110,7 @@ The personal account is a person's principal point of contact with the ecosystem
 - participation in votes - to the extent set by the rules on openness and secrecy (section 06);
 - recognition marks received.
 
-> **Recognition marks affect nothing** and remain purely informational ([Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html)). The platform is not entitled to use reputational indicators as a condition of access to any function.
+> **Recognition marks affect nothing** and remain purely informational ([Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html)). The platform must not use reputational indicators as a condition of access to any function.
 
 ### What the account does not contain
 

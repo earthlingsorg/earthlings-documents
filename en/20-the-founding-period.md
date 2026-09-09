@@ -56,15 +56,15 @@ After adoption the principles of the core are never repealed, and the other prov
 
 The principal organizational document: the age of participation, voting thresholds, periods, the procedure for appeal, restriction of powers, the procedure for annulling the issuance of a passport.
 
-The Declaration entrusts the Charter with establishing almost everything that happens in practice, so the Charter takes effect together with it: without the Charter there would not be a single operative procedure on the first day. It is not adopted by a separate vote, but proposals to it are accepted on the same footing as proposals to the Declaration and are included in the text before the day of adoption.
+The Declaration entrusts the Charter with setting out almost everything that happens in practice, so the Charter takes effect together with it: without the Charter there would not be a single operative procedure on the first day. It is not adopted by a separate vote, but proposals to it are accepted on the same footing as proposals to the Declaration and are included in the text before the day of adoption.
 
-Thereafter the Charter is changed by the people itself - by decision of the Assembly, at any time and in the manner the Charter itself establishes. It cannot lower the requirements of the Declaration under any circumstances.
+Thereafter the Charter is changed by the people itself - by decision of the Assembly, at any time and in the manner the Charter itself sets out. It cannot lower the requirements of the Declaration under any circumstances.
 
 ### Design documents
 
 How the DAO, the Cells, the treasury, the EC unit of account, the Independent Council, the digital platform, the SBT passport, the earthling path, the roadmap, and ethics are arranged and work.
 
-These documents are not adopted by a vote: they describe mechanisms, and mechanisms must develop along with the people. Accepted proposals are entered into them at once, without waiting for 17 February. After the founding they are changed by the Assembly in the manner laid down by the Charter.
+These documents are not adopted by a vote: they describe mechanisms, and mechanisms must develop along with the people. Accepted proposals are entered into them at once, without waiting for 17 February. After the founding they are changed by the Assembly under the Charter.
 
 ### Documents for the outside world and reference documents
 
@@ -85,8 +85,8 @@ Everything that has force lies in the corpus and is open to proposals in full.
 | What | Adopted by the vote of 17 February | When an amendment takes effect | Who changes it afterwards |
 |---|---|---|---|
 | The Declaration | yes | from the day of adoption | the principles of the core - no one; the rest - the Assembly, two thirds |
-| The Charter | no, takes effect together with the Declaration | from the day of adoption | the Assembly in the manner laid down by the Charter |
-| Design documents | no | at once | the Assembly in the manner laid down by the Charter |
+| The Charter | no, takes effect together with the Declaration | from the day of adoption | the Assembly, under the Charter |
+| Design documents | no | at once | the Assembly, under the Charter |
 | External and reference | no | at once | the Assembly, except what is prescribed by law |
 
 ## 03. What is not up for discussion
@@ -155,7 +155,7 @@ By email to team@earth-lings.org. One word in the subject line is enough: object
 
 All proposals and the replies to them are kept in an open registry: <https://github.com/earthlingsorg/earthlings-documents>. Anyone can view it without registering; submitting proposals directly there is also possible, if that is more convenient for you. The registry holds the whole corpus, not the Declaration alone, and every change to any document is visible in it line by line and linked to the proposal that led to it.
 
-We answer everything and publish everything, including what does not favour us. Every argument known to us against our own construction we wrote ourselves, before asking others to do it.
+We answer everything and publish everything, including what does not favour us. Every argument known to us against our own scheme we wrote ourselves, before asking others to do it.
 
 # Part 2. Rules of the founding period
 
@@ -185,7 +185,7 @@ A proposal **on translation** points out that a translation conveys the meaning 
 
 Which kind a proposal belongs to is determined by its content, not by how it is labelled. If a proposal on translation reveals an ambiguity in the master text itself, it is also considered as a proposal on the merits.
 
-**Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where they diverge the construction giving the person the higher protection applies, and if that does not resolve the divergence, the meaning of the Russian text prevails.
+**Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where they diverge the interpretation giving the person the higher protection applies, and if that does not resolve the divergence, the meaning of the Russian text prevails.
 
 **Readiness of the translations.** The corpus in all nine languages is brought into line with the Russian master texts before proposals open on 22 October 2026. The final editions put to the vote are published in Russian and English on 3 February 2027, and the translations into the other seven languages by the same date. If any translation is not ready by that day, this is stated plainly, naming the language and the reason; we will not pass off an unfinished translation as a finished one.
 

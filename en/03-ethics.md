@@ -4,7 +4,7 @@
 
 > This document is derivative. Where it diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies.
 >
-> **This document establishes no grounds for any measures.** The closed list of such grounds is contained in Articles 22 and 22 bis of the Charter and is not subject to extension - neither by this document, nor by a decision, nor by settled practice.
+> **This document establishes no grounds for any measures.** The exhaustive list of such grounds is contained in Articles 22 and 22 bis of the Charter and is not subject to extension - neither by this document, nor by a decision, nor by settled practice.
 
 What is set out below falls into two parts, and the difference between them is material. The rules for resolving disputes describe a procedure the people adheres to. Everything else is what the people aims at and helps others learn; failing to match it never carries consequences.
 
@@ -138,7 +138,7 @@ Care for humanity and the planet, regard for the interests of future generations
 
 Participants' personal data are not used for commercial, political, or manipulative purposes. Consent to processing is informed and voluntary, and the volume of data is minimal. The details are in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
 
-Common funds are allocated under the rules laid down by the document [Treasury](https://earth-lings.org/documents/en/en09-treasury.html), openly and verifiably. This document establishes no allocation rules of its own.
+Common funds are allocated under the rules set out in the document [Treasury](https://earth-lings.org/documents/en/en09-treasury.html), openly and verifiably. This document establishes no allocation rules of its own.
 
 ---
 
@@ -164,7 +164,7 @@ Its composition, the procedure for its formation, the grounds for recall, and th
 
 # SECTION 10. Amending this document
 
-What is set out here is not dogma. Any earthling is entitled to propose changes, and they are made through open discussion in the manner laid down by the Charter.
+What is set out here is not dogma. Any earthling is entitled to propose changes, and they are made through open discussion in the manner set out in the Charter.
 
 The limits are unchanging: nothing in this document may contradict the Declaration, narrow the guarantees it gives, or create grounds for measures it does not provide for.
 

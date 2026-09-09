@@ -127,7 +127,7 @@ The heart of the whole model, and the point where most historical systems break.
 
 In an operating system the sovereign is the **user**. Processes exist to serve the user; when a process obstructs the user or hangs, it is terminated - a routine operation, not a tragedy. The deepest bug in almost every design of society is that it *inverts* this relation: the human being becomes a process serving the System - the economy, the nation, the state, the party, the "great cause". People are scheduled around the system's tasks rather than the other way round.
 
-> **First principle:** the human being is the user; institutions are processes. Not the reverse. An institution that has stopped serving people is subject to termination, like a hung process. A people, a state, a corporation, a party, a movement - these are daemons in the background: useful, they run; harmful, they are terminated. No process is entitled to declare itself the purpose for which the user exists.
+> **First principle:** the human being is the user; institutions are processes. Not the reverse. An institution that has stopped serving people is subject to termination, like a hung process. A people, a state, a corporation, a party, a movement - these are daemons in the background: useful, they run; harmful, they are terminated. No process may declare itself the purpose for which the user exists.
 
 III.3
 
@@ -187,7 +187,7 @@ A guaranteed minimum of resource below which the system does not let a person fa
 
 The human being is at once a **user** (sovereign over their own domain) and, collectively, the **sole source of the kernel's authority**. The kernel is legitimate exactly in so far as it is exercised on behalf of users. There is no "people above people", no "state above citizens" as a separate higher entity - there are people whose combined will is the only root. More precisely: root as an occupied position does not exist at all (Part IX); there is only a distributed source of authority that no one appropriates.
 
-### Duties (the price of the no-exit layer - without it the whole construction is utopian)
+### Duties (the price of the no-exit layer - without it the whole design is utopian)
 
 - **Do not corrupt shared memory.** Do not dump your costs into the biosphere and into someone else's life. Internalizing externalities is neither a tax nor a moral duty but a prohibition on memory corruption: you cannot write destruction into memory that everyone shares.
 - **Support the upkeep of the common.** Contribute to the kernel layer (safety, the commons, protection of the weak), from which one cannot exit - precisely because one cannot emigrate from its obligations. The only legitimate compulsion to contribute.
@@ -265,7 +265,7 @@ A pure plan fails on the knowledge problem (the centre does not know what a mark
 
 > What is not solved
 >
-> **Who pays for the no-exit kernel is the architecture's Achilles heel.** The kernel is a pure public good, and public goods invite free riding; historically that is why a coercive collector - the state - was needed. The whole voluntary, exit-based construction breaks here.
+> **Who pays for the no-exit kernel is the architecture's Achilles heel.** The kernel is a pure public good, and public goods invite free riding; historically that is why a coercive collector - the state - was needed. The whole voluntary, exit-based design breaks here.
 >
 > **The honest answer:** the kernel is the one place where compulsion to contribute is legitimate, precisely because one cannot exit it. One cannot not breathe the atmosphere - and so one cannot not pay for its protection. But this shifts the problem rather than removing it.
 >
@@ -339,7 +339,7 @@ A fast lethal pathogen. The kernel needs instant compulsion to a common measure,
 
 where it holds
 
-A pandemic is the canonical kernel case (planetary life support, no exit), so the legitimacy of compulsion here exists by construction.
+A pandemic is the canonical kernel case (planetary life support, no exit), so the legitimacy of compulsion here exists by design.
 
 where it breaks
 
@@ -363,7 +363,7 @@ A superpowerful AI is in the kernel. Whoever controls that process controls the 
 
 where it holds
 
-Least privilege, auditability, and the absence of root are aimed directly against this; an AI-in-the-kernel is by construction obliged to be maximally transparent and constrained.
+Least privilege, auditability, and the absence of root are aimed directly against this; an AI-in-the-kernel is by design obliged to be maximally transparent and constrained.
 
 where it breaks
 
@@ -397,7 +397,7 @@ The value of a model lies not in its answers but in the quality of the questions
 2. **Additive rather than gating personhood.** So that the absence of a login never takes away basic dignity. Protection against the chief risk - a class of digital non-persons.
 3. **Funding the no-exit kernel without a new tyrant-collector.** Rent on the common is a hypothesis; who collects it and how, without the treasury becoming root, is open.
 4. **Kernel speed versus protection against capture.** Give the kernel swiftness in a catastrophe without creating a machine for emergency regimes.
-5. **An arbiter stronger than the strongest but not a tyrant.** Perhaps the answer lies not in the arbiter's force but in a construction where breaking the rules is unprofitable for everyone at once - that has to be built and tested.
+5. **An arbiter stronger than the strongest but not a tyrant.** Perhaps the answer lies not in the arbiter's force but in a design where breaking the rules is unprofitable for everyone at once - that has to be built and tested.
 6. **Auditability of the incomprehensible.** Control over a superpowerful AI in the kernel when its code cannot be grasped by a human mind. Possibly the most important of all.
 7. **A floor and exit at the same time.** Combine the right to leave with the durability of the common, so that freedom to diverge does not kill solidarity.
 8. **Metrics without Goodhart.** Measure the success of policies without crushing the unmeasurable and without setting off a race to game thresholds.

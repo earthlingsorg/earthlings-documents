@@ -256,7 +256,7 @@ Only under a court decision in force or an equivalent lawful requirement - the p
 
 The Policy is updated as technology and legislation develop. Amendments are published with the date of entry into force.
 
-The procedure for amendment - notice by email no fewer than 30 days in advance, notice on the platform at the next login, publication of the list of changes, and the right to object - is laid down by the Privacy Policy.
+The procedure for amendment - notice by email no fewer than 30 days in advance, notice on the platform at the next login, publication of the list of changes, and the right to object - is set out in the Privacy Policy.
 
 ---
 

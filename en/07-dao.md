@@ -2,7 +2,7 @@
 
 **Principles, architecture, and governance in the decentralized system of the Earthlings people**
 
-> This document describes how collective decision-making is arranged. The rules, thresholds, quorums, and procedures are laid down by the Earthlings Charter; this document explains them and does not change them. Where they diverge, the Charter applies; where the Charter diverges from the Declaration, the Declaration applies.
+> This document describes how collective decision-making is arranged. The rules, thresholds, quorums, and procedures are set out in the Earthlings Charter; this document explains them and does not change them. Where they diverge, the Charter applies; where the Charter diverges from the Declaration, the Declaration applies.
 
 ---
 
@@ -118,7 +118,7 @@ Participation, contribution, and competence are recorded in inalienable marks ti
 
 **3. Analysis.** Working groups and the Independent Council are entitled to publish an opinion on the risks and soundness of a proposal. This is a right, not a condition: **the absence of an opinion does not prevent a question from being put to a vote**, and no structure can delay it by not publishing.
 
-**4. Voting.** Conducted according to the thresholds and quorums laid down by the Charter.
+**4. Voting.** Conducted according to the thresholds and quorums set by the Charter.
 
 ## Only the Charter sets thresholds
 
@@ -184,7 +184,7 @@ The model rests on two complementary traditions.
 
 **Deliberative democracy** stresses the importance of open discussion and argument. Hence the mandatory periods of discussion, the right to criticize, the inclusion of different groups, and the transparency of arguments.
 
-Together they yield a hybrid model in which decisions are both discussed and tested for quality. But the relation between them is fixed strictly and in one direction: **expertise influences arguments, not thresholds; persuasion, not arithmetic**. A specialist's opinion carries exactly the weight that participants themselves give it. Any other construction would turn an advisory body into a governing one.
+Together they yield a hybrid model in which decisions are both discussed and tested for quality. But the relation between them is fixed strictly and in one direction: **expertise influences arguments, not thresholds; persuasion, not arithmetic**. A specialist's opinion carries exactly the weight that participants themselves give it. Any other scheme would turn an advisory body into a governing one.
 
 To this are added the principles of separating functions and of mutual checks, adapted to a decentralized environment.
 

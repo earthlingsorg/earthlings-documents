@@ -16,7 +16,7 @@ Answers to technical, economic, and organizational questions are collected in th
 
 Where this diverges from the Declaration, the Declaration applies.
 
-**The stage at which all this is said.** A people defined by an adopted text does not yet exist. The Declaration exists as an initial edition and will be adopted by a vote on 17 February 2027; until that day entry is suspended, and those who have confirmed their identity are participants in the founding, not earthlings. The order is set out in the document "The Founding Period". Everywhere below where properties of the people are described, what is meant is the construction as built, not a state that has been reached.
+**The stage at which all this is said.** A people defined by an adopted text does not yet exist. The Declaration exists as an initial edition and will be adopted by a vote on 17 February 2027; until that day entry is suspended, and those who have confirmed their identity are participants in the founding, not earthlings. The order is set out in the document "The Founding Period". Everywhere below where properties of the people are described, what is meant is the scheme as built, not a state that has been reached.
 
 **The starting position to which all the answers converge:**
 
@@ -38,7 +38,7 @@ Network states aim at territory and statehood; Earthlings deliberately does not.
 
 ### This is concealed separatism: an "additional identity" today, a demand for territory tomorrow.
 
-Impossible by construction. The self-determination of Earthlings is by its design incapable of encroaching on territorial integrity - the object of encroachment, that is, a territorial claim, is absent. An earthling takes nothing from their state and adds one more belonging, a planetary one.
+Impossible by design. The self-determination of Earthlings is by its design incapable of encroaching on territorial integrity - the object of encroachment, that is, a territorial claim, is absent. An earthling takes nothing from their state and adds one more belonging, a planetary one.
 
 The Vienna Declaration of 1993 expressly stipulates that self-determination does not authorize the dismemberment of the territorial integrity of states that comply with the principle of equal rights and represent the whole population without discrimination. The renunciation of territorial claims is fixed in the unamendable part of the Earthlings Declaration and cannot be repealed by any majority.
 
@@ -46,7 +46,7 @@ The legal side of the question is in the Legal Basis, section 07.
 
 ### You undermine sovereignty: a parallel structure over the citizens of states.
 
-Additive self-determination rests on four properties of the construction. Belonging instead of jurisdiction: no territory, and no jurisdiction over space, resources, or the populations of states. The word instead of force: no armed or coercive structures. Position instead of authority: no taxation, no criminal jurisdiction, no regulation of economies. Addition instead of replacement: where applicable laws conflict, the mandatory norms of the national jurisdiction prevail.
+Additive self-determination rests on four properties of the scheme. Belonging instead of jurisdiction: no territory, and no jurisdiction over space, resources, or the populations of states. The word instead of force: no armed or coercive structures. Position instead of authority: no taxation, no criminal jurisdiction, no regulation of economies. Addition instead of replacement: where applicable laws conflict, the mandatory norms of the national jurisdiction prevail.
 
 A person keeps their citizenship, their taxes, and their jurisdiction - belonging to Earthlings is only added to them.
 
@@ -96,7 +96,7 @@ And two limitations that we name ourselves.
 
 The first: what is listed protects against known methods of capture, not against all of them. No one has yet built a design for which no way of breaking it could be devised.
 
-The second: our construction has not been tested at scale. We assert not that we have found the solution, but that the three causes of failure in previous attempts are named and that answers to those specific causes are built into the design. Only practice can confirm this, and until there is practice we will not appeal to it.
+The second: our scheme has not been tested at scale. We assert not that we have found the solution, but that the three causes of failure in previous attempts are named and that answers to those specific causes are built into the design. Only practice can confirm this, and until there is practice we will not appeal to it.
 
 ### A contribution on entry, and exit by a single action - that is a subscription to a service, not belonging to a people.
 
@@ -122,7 +122,7 @@ On burning, only a pseudonymous mark remains in the chain - there are no real pe
 
 For gross breaches of common rules there is one measure addressed to a person - a warning, and it takes nothing away: not belonging, not the vote, not the right to submit proposals, not participation in Cells, not access to services, nothing at all. The other measures under the Charter are addressed to a project or a Cell: they may concern common resources and must not concern the rights of a person.
 
-The only case in which a passport is burned against the holder's will is named exhaustively in the Charter and is not a measure of liability: annulment of an invalid issuance, where it is established that the passport was issued in breach of the conditions of issuance. The death of the holder is not such a ground: belonging ends of itself as a consequence of death, and the passport remains in the registry - a ground resting on unverifiable information about a death would become the cheapest way to remove a participant, since notice, a period for objection, and appeal presuppose the person's presence. Annulment of an invalid issuance is not an exception: it establishes only that the issuance never lawfully took place, and does not prevent the procedure from being gone through again.
+The only case in which a passport is burned against the holder's will is named exhaustively in the Charter and is not a measure of liability: annulment of an invalid issuance, where it is established that the passport was issued in breach of the conditions of issuance. The death of the holder is not such a ground: belonging ends of itself on death, and the passport remains in the registry - a ground resting on unverifiable information about a death would become the cheapest way to remove a participant, since notice, a period for objection, and appeal presuppose the person's presence. Annulment of an invalid issuance is not an exception: it establishes only that the issuance never lawfully took place, and does not prevent the procedure from being gone through again.
 
 The inalienability of belonging mirrors Article 15 of the Universal Declaration of Human Rights - "no one shall be arbitrarily deprived of his nationality" - and distinguishes a people from any service or club, which expel at their own discretion.
 
@@ -132,11 +132,11 @@ We make one qualification ourselves. The legal grounds for burning are exhaustiv
 
 **The core has not been adopted, and until adoption it binds no one.**
 
-The text is open to proposals from 22 October 2026 to 20 January 2027 - and not the Declaration alone, but the whole corpus, including the Legal Basis and this document. Any person may submit a proposal: entering, confirming identity, and agreeing with our conclusions are not required, and anonymous proposals are considered on the same footing as the rest. Each is published together with a reply - both those accepted and those rejected, with the reason for rejection given. On 3 February 2027 the record and the final editions are published. On 17 February 2027 the text is adopted by a vote of confirmed living human beings on the principle of one person, one vote, subject to a two-thirds threshold and a quorum. The whole order, including the limits of authority for the duration of the period, is set by the document "The Founding Period".
+The text is open to proposals from 22 October 2026 to 20 January 2027 - and not the Declaration alone, but the whole corpus, including the Legal Basis and this document. Any person may submit a proposal: entering, confirming identity, and agreeing with our conclusions are not required, and anonymous proposals are considered on the same footing as the rest. Each is published together with a reply - both those accepted and those rejected, with the reason for rejection given. On 3 February 2027 the record and the final editions are published. On 17 February 2027 the text is adopted by a vote of confirmed living human beings on the principle of one person, one vote, subject to a two-thirds threshold and a quorum. The whole order, including the limits of authority for the duration of the period, is set out in the document "The Founding Period".
 
 That is, the core becomes unamendable not because someone wrote it so, but because it was adopted by those whom it unites. Who held the pen before adoption has no legal significance: a text that was not adopted does not operate, and a text that was adopted operates regardless of who drafted it.
 
-Unamendable cores are a standard construction of self-determined peoples, not an anomaly of ours. The Basic Law of Germany (Article 79(3)) places human dignity and the democratic order permanently beyond the reach of any majority; the republican form of government cannot be revised in France (Article 89) or in Italy (Article 139); in India even a unanimous parliament cannot alter the basic structure of the constitution. No one infers from this that Germans or Indians are deprived of self-determination: the function of such norms is to protect an order from being abolished by its own democratic means.
+Unamendable cores are standard among self-determined peoples, not an anomaly of ours. The Basic Law of Germany (Article 79(3)) places human dignity and the democratic order permanently beyond the reach of any majority; the republican form of government cannot be revised in France (Article 89) or in Italy (Article 139); in India even a unanimous parliament cannot alter the basic structure of the constitution. No one infers from this that Germans or Indians are deprived of self-determination: the function of such norms is to protect an order from being abolished by its own democratic means.
 
 That a founding text is written before the subject it founds is a property of every foundation: the Constitution of the United States was written by fifty-five delegates before any ratification, and "the People of the United States" was constituted by the very act of adoption.
 
@@ -150,7 +150,7 @@ What remains unamendable is what protects the person from the power of the peopl
 
 ### Your institutions are working software, not working self-government. Legally you are a foundation's user base.
 
-Let us state the stage plainly: the founding text has not been adopted, there are no participants, and there is no practice of self-government. The infrastructure is built and deployed; filling it with practice begins with the adoption of the text. We assert that the construction works, not a scale that has been reached, and we do not pass one off as the other.
+Let us state the stage plainly: the founding text has not been adopted, there are no participants, and there is no practice of self-government. The infrastructure is built and deployed; filling it with practice begins with the adoption of the text. We assert that the scheme works, not a scale that has been reached, and we do not pass one off as the other.
 
 Effectiveness, moreover, is measured in proportion to the claim, and the law readily recognizes the capacity of small communities.
 
@@ -202,7 +202,7 @@ Humanity lacks a legal voice not because it is large or differs from no one, but
 
 A hypothetical people that included every human being would not coincide with humanity-as-aggregate - it would be humanity organized: with a registry, a will, and institutions. The difference in composition would disappear, the difference in constitution would remain, and the whole point lay in that.
 
-In practice the question does not arise: at any realistic scale those who have not joined number in the billions, and Earthlings speaks only for those who have. An objection that begins to work only at an unreachable limit confirms the construction across the whole real distance: no one treats it as an argument against French peoplehood that, on the hypothetical naturalization of all humanity, it would coincide with humanity.
+In practice the question does not arise: at any realistic scale those who have not joined number in the billions, and Earthlings speaks only for those who have. An objection that begins to work only at an unreachable limit confirms the scheme across the whole real distance: no one treats it as an argument against French peoplehood that, on the hypothetical naturalization of all humanity, it would coincide with humanity.
 
 ---
 
@@ -210,13 +210,13 @@ In practice the question does not arise: at any realistic scale those who have n
 
 Good faith requires that this be brought together in one place rather than dissolved across the answers. The legal objections are brought together in the Legal Basis; here are those that concern the design.
 
-**The construction has not been tested at scale.** Answers to the three causes of failure in previous attempts at self-government are built into the design, but only practice can confirm them, and there is no practice.
+**The scheme has not been tested at scale.** Answers to the three causes of failure in previous attempts at self-government are built into the design, but only practice can confirm them, and there is no practice.
 
 **Protection against capture is not complete.** The design closes the known methods, not all of them. To assert more would be untrue.
 
 **The unamendable core has no judicial protection.** There is verifiability and a right to branch; there is no enforcement.
 
-**Entry depends on an identity document.** A person without citizenship and without documents cannot enter today. This contradicts the logic of the rest of the construction and remains an open question.
+**Entry depends on an identity document.** A person without citizenship and without documents cannot enter today. This contradicts the logic of the rest of the scheme and remains an open question.
 
 **The founding text has not been adopted.** Until 17 February 2027 there are no participants, there is no practice, and no one can represent the people.
 

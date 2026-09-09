@@ -137,7 +137,7 @@ The passport documents what it documents, and that is no small thing: a particul
 
 The Charter (Article 21) establishes **two and only two** exceptions, and this list cannot be extended.
 
-> **On the death of the holder.** Belonging ends as a consequence of a person's death, but the passport is not burned. The people has no access to death records worldwide, so such a ground would rest on unverifiable information and would become the cheapest way to remove a participant. The passport remains in the registry; participation that no longer exists is handled by the inactivity mechanism (Charter, Article 20). The passport is not inherited and is not transferred under any circumstances.
+> **On the death of the holder.** Belonging ends on a person's death, but the passport is not burned. The people has no access to death records worldwide, so such a ground would rest on unverifiable information and would become the cheapest way to remove a participant. The passport remains in the registry; participation that no longer exists is handled by the inactivity mechanism (Charter, Article 20). The passport is not inherited and is not transferred under any circumstances.
 
 ### 1. Annulment of an invalid issuance
 

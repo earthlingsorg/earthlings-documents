@@ -8,7 +8,7 @@
 
 ## About this document
 
-This text sets out the legal basis for the principles and mechanisms laid down in the Earthlings Declaration. The Declaration states values and aims; this document examines whether the construction is legally admissible and how it might be classified in international law.
+This text presents the legal basis for the principles and mechanisms set out in the Earthlings Declaration. The Declaration states values and aims; this document examines whether the scheme is legally admissible and how it might be classified in international law.
 
 Where this document and the Declaration diverge, the Declaration applies.
 
@@ -99,7 +99,7 @@ Until the day of adoption, a person who has confirmed their identity is a **part
 
 **Two consequences for this document.**
 
-The first is unfavourable: wherever the features described below depend on numbers, composition, and accumulated practice, what is meant is the construction and its designed capacity, not a state that has been reached. There are no participants, there is no practice, and no founding act has been adopted.
+The first is unfavourable: wherever the features described below depend on numbers, composition, and accumulated practice, what is meant is the scheme and its designed capacity, not a state that has been reached. There are no participants, there is no practice, and no founding act has been adopted.
 
 The second is material to the legal assessment. Ordinarily the founding text of a community is written before the community appears, and joining amounts to agreeing to a finished document. Here the order is reversed: the text is put to a vote of people each of whom is confirmed as one living human being; proposals are accepted from anyone and published together with the replies. **The collective will is thereby neither presumed nor reconstructed - it is produced by a procedure and remains in a verifiable record.**
 
@@ -187,7 +187,7 @@ None of these elements proves that Earthlings is a people. Together they establi
 
 ## Three missing elements
 
-Correcting international law is the business of states. The Earthlings people does something else: it demonstrates in its own case what the category never had. Everything listed here is a property of the construction as built; filling these with content begins with the adoption of the founding text.
+Correcting international law is the business of states. The Earthlings people does something else: it demonstrates in its own case what the category never had. Everything listed here is a property of the scheme as built; filling these with content begins with the adoption of the founding text.
 
 **Composition.** It is known who belongs to the people: behind every participant stands one living human being, and this is confirmed. Not by census, not by custom, and not by someone else's law, but verifiably and at any time.
 
@@ -233,7 +233,7 @@ We make the qualification to the last line ourselves: the legal grounds for burn
 
 The precise statement runs as follows: documents of belonging to a people exist, but all of them certify a belonging derived from descent and recognized by a state. For the first time, belonging is certified by a document issued by the people itself, tied neither to territory nor to descent, arising by the decision of the person themselves, and verifiable by anyone.
 
-The assertion "issued by the people" does not rest on words alone: Article 9 of the Declaration establishes that the registry of participants, the confirmation of their identity and the data connected with it "are not the property of any legal entity and cannot be transferred, sold, pledged or otherwise disposed of", and that legal entities "are not the bearers of the people". Without that norm, the assertion would come down to a document issued by a commercial company.
+The assertion "issued by the people" does not rest on words alone: Article 9 of the Declaration establishes that the registry of participants, the confirmation of their identity and the data connected with it "are not the property of any legal entity and cannot be transferred, sold, pledged or otherwise disposed of", and that legal entities "do not embody the people". Without that norm, the assertion would come down to a document issued by a commercial company.
 
 The earthling passport does not replace state documents, and gives no citizenship, visas, right of entry, or consular protection. It certifies belonging to a people - which state documents do not certify at all.
 
@@ -245,7 +245,7 @@ In the Earthlings people, there is no such thing as a decision on admission. The
 
 The objection here is obvious: the recognized formula holds that a people determines its own membership, whereas here it is determined unilaterally by anyone who wishes. The answer: the people settled this question once and for all by establishing a rule - belonging attaches to everyone who meets the four conditions and has decided to belong. Collective self-determination is exercised at the level of the rule rather than of individual cases; deciding each case at discretion is neither the only way nor the safer one, since where there is discretion there is also arbitrariness.
 
-We name three qualifications ourselves. The annulment of an issuance obtained unlawfully ends belonging against the person's will - this is not a measure of liability but a finding that belonging never lawfully arose. Identity verification may fail; a refusal is not final, and the number of attempts is not limited. And verification rests on an identity document: **a person without citizenship and without documents cannot enter today** - this restriction contradicts the logic of the rest of the construction and is among the open questions.
+We name three qualifications ourselves. The annulment of an issuance obtained unlawfully ends belonging against the person's will - this is not a measure of liability but a finding that belonging never lawfully arose. Identity verification may fail; a refusal is not final, and the number of attempts is not limited. And verification rests on an identity document: **a person without citizenship and without documents cannot enter today** - this restriction contradicts the logic of the rest of the scheme and is among the open questions.
 
 Freedom of exit here differs sharply from citizenship. The right to change one's nationality is recognized (Article 15(2) of the Universal Declaration), the freedom to leave any country is protected by Article 12(2) of the Covenant on Civil and Political Rights, but exit is conditional: Article 7(1)(a) of the 1961 Convention on the Reduction of Statelessness provides that renunciation "shall not result in loss of nationality unless the person concerned possesses or acquires another nationality", and Article 8(1) prohibits deprivation of nationality that would render a person stateless. Hence the position: **citizenship is the only legal bond of an adult from which one cannot withdraw unilaterally.** This is not a prohibition on leaving but the absence of anywhere to leave to: the planet is divided without remainder, and no status of being "outside" is provided for.
 
@@ -377,7 +377,7 @@ What can be asserted while remaining within the facts. **A legal obstacle is pre
 
 **Besides the legal obstacle there was an evidentiary one, and this is our own observation.** Who speaks for the community, who belongs to it, whether that can be established rather than asserted - the claim of 2000 could not answer these questions: representation was contested, and membership in a dispersed population of millions could not be established in principle - and not through any fault of those making the claim - the means for it did not exist. Confirmed individual belonging, a permanent registry, and an unalterable record of decisions were not available in 2000.
 
-Let us weigh this honestly: we cannot say that "one of the reasons has fallen away", since no one formulated any reasons. It follows only that one of the difficulties of 2000 is removed in our construction, and that the legal obstacle remains.
+Let us weigh this honestly: we cannot say that "one of the reasons has fallen away", since no one formulated any reasons. It follows only that one of the difficulties of 2000 is removed in our scheme, and that the legal obstacle remains.
 
 ## The circle of subjects has widened: Reparation for Injuries (1949)
 
@@ -441,7 +441,7 @@ The European Court of Human Rights in *Sidiropoulos and Others v. Greece* (1998)
 
 ---
 
-# SECTION 07. Norms and the legal construction
+# SECTION 07. Norms and the legal scheme
 
 ## Base norms
 
@@ -467,7 +467,7 @@ The content of internal self-determination as recognized in law already includes
 
 ## Additive self-determination
 
-The self-determination of the Earthlings people is exercised by means that public authority does not use, and upon a subject-matter to which it lays no claim. The people establishes belonging, forms a verifiable collective position of its participants and conveys it by the word. Everything it does, it does by these means and by these alone. From that follows the compatibility examined below: not as a concession agreed upon with states, but as a property of the construction itself.
+The self-determination of the Earthlings people is exercised by means that public authority does not use, and upon a subject-matter to which it lays no claim. The people establishes belonging, forms a verifiable collective position of its participants and conveys it by the word. Everything it does, it does by these means and by these alone. From that follows the compatibility examined below: not as a concession agreed upon with states, but as a property of the scheme itself.
 
 **Belonging instead of jurisdiction** - the people binds only those who have entered it, and only in the matters of its own internal life. Neither territory nor jurisdiction over physical space, resources, or the populations of states does it have or claim.
 
@@ -483,7 +483,7 @@ No object of collision arises here, and not because the people has given somethi
 
 # SECTION 08. The evidentiary basis
 
-For most of history the existence of a people was established indirectly - through a common history, language, culture, descent, territory. No other means existed. The Earthlings construction makes a number of traditionally presumed characteristics directly observable. This is an advantage of the **evidentiary basis**, not an advantage of the community.
+For most of history the existence of a people was established indirectly - through a common history, language, culture, descent, territory. No other means existed. The Earthlings scheme makes a number of traditionally presumed characteristics directly observable. This is an advantage of the **evidentiary basis**, not an advantage of the community.
 
 **Observability of the collective will.** Ordinarily the text constituting a community is written before the community appears, and the collective will is judged by indirect signs - people do not object, do not leave, and behave as though they belong. Here it is presented directly: the founding text is adopted by a vote of people each of whom is confirmed as one living human being, with the threshold, quorum, and date announced in advance; proposals are accepted from any person and published together with the replies, including those rejected with the reason given. The question "does this text express the will of the community" is usually resolved by interpretation - here it is answered by a document.
 
@@ -576,8 +576,8 @@ What follows is not an attempt to prove that every formula of the Declaration is
 | Voluntariness and the right of exit | The right to take part in an association presupposes the right to end that participation without penalty from the community itself | Art. 20 UDHR; art. 22 ICCPR |
 | Technology strengthens the human being rather than replacing them | Technological infrastructure is admissible only as an instrument for protecting rights, accountability, and fair procedure | UNESCO Recommendation on the Ethics of Artificial Intelligence, 23 November 2021 |
 | One person, one vote | The equality of participants is a standard adopted independently, resting on the general principle of equality; there is no external norm prescribing it for associations, and we do not invent one | Art. 26 ICCPR; the founding act of the community itself |
-| Immutability of basic values | Fundamental principles are protected by an aggravated amendment procedure; the construction is known to constitutional law | Basic Law of Germany, art. 79(3); Constitution of France, art. 89; Constitution of Italy, art. 139 |
-| Subsidiarity | Action is admissible only where tasks are not solved at a lower level | The principle of subsidiarity in supranational constructions |
+| Immutability of basic values | Fundamental principles are protected by an aggravated amendment procedure; the scheme is known to constitutional law | Basic Law of Germany, art. 79(3); Constitution of France, art. 89; Constitution of Italy, art. 139 |
+| Subsidiarity | Action is admissible only where tasks are not solved at a lower level | The principle of subsidiarity in supranational systems |
 
 **Methodological conclusion.** The Earthlings people is not derived from a single source. The argument is built as a body of norms, decisions, and verifiable facts that together make the initiative legally discussable. That body does not replace the missing direct basis and is not passed off as one.
 

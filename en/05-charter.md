@@ -164,7 +164,7 @@ The Independent Council is an advisory organ. It carries out ethical audit of de
 - Number: 7-11 people (an odd number)
 - Election: vote of the DAO, qualified majority (67%, quorum 25%)
 - Term: 3 years
-- Requirements: recognized expertise in one of the Council's areas of competence; the list of areas is established by the document "The Earthlings Independent Council", is indicative and does not serve as a system of quotas; nomination is open to any earthling, including self-nomination
+- Requirements: recognized expertise in one of the Council's areas of competence; the list of areas is set out in the document "The Earthlings Independent Council", is indicative and does not serve as a system of quotas; nomination is open to any earthling, including self-nomination
 
 **Revocation of a member of the Council** is effected by a decision of the Assembly at a qualified majority (67%, quorum 25%) - the same threshold at which they were elected, and no higher.
 
@@ -385,7 +385,7 @@ There are no other conditions. Nationality, race, religion, sex, social position
 
 ## Article 12 bis. The Entry Contribution and Payment for Another
 
-Identity verification and the issuance of a passport are covered by a one-time contribution on joining. The contribution buys no belonging and creates no advantage of any kind (Declaration, Article 8). The purpose of the contribution and the procedure for spending it are established by the Earthlings Treasury (Article 9). The amount of the contribution is set by the Assembly; it may be increased only by a decision of the Assembly.
+Identity verification and the issuance of a passport are covered by a one-time contribution on joining. The contribution buys no belonging and creates no advantage of any kind (Declaration, Article 8). The purpose of the contribution and the procedure for spending it are set out in Article 9 (The Earthlings Treasury). The amount of the contribution is set by the Assembly; it may be increased only by a decision of the Assembly.
 
 There is no exemption from the contribution. The contribution is always paid in full; what differs is only who pays it.
 
@@ -454,9 +454,9 @@ Belonging to the Earthlings people is inalienable. No one can be expelled from t
 
 **The right to vote cannot be taken away or suspended for a person's views, for the content of their vote, for disagreement with decisions taken, or as a general measure of liability for breaking rules.** The vote is the substance of belonging: to take it away on such grounds would be to expel a person from the people while leaving them the name. The restrictive measures provided for by Article 22 do not affect the right to vote.
 
-The only permissible exception is set out in Article 22 bis and concerns acts directed at undermining the integrity of voting itself. The list of grounds is not subject to extension.
+The only permissible exception is set out in Article 22 bis and concerns acts aimed at undermining the integrity of voting itself. The list of grounds is not subject to extension.
 
-This principle follows from the Earthlings Declaration: freedom belongs to everyone, and no majority has the power to deprive a person of belonging to a people they joined voluntarily.
+This principle follows from the Earthlings Declaration: freedom belongs to everyone, and no majority has power to deprive a person of belonging to a people they joined voluntarily.
 
 ## Article 18. Voluntary Departure
 
@@ -512,13 +512,13 @@ The inactivity mechanism protects the system from an artificial inflation of quo
 
 As a general rule an SBT passport is burned only by the holder themselves (Article 18). This Article establishes **two and only two** exceptions to that rule.
 
-> **Why death is not on this list.** Belonging ends upon the death of a person - this is set out in Article 4 of the Declaration and occurs of itself, without anyone's decision. A passport is not burned on that ground, and for the following reasons. The people has, and can have, no access to records of death across the world: such a ground would rest on information whose reliability there is no way to check, and it would become the cheapest way to remove a participant - without notice, without a period for objections and without appeal, since all of these presuppose the person's presence. Nor does burning provide protection against voting with someone else's key: it cannot outrun knowledge of the death. The practical side is covered by Article 20: whoever does not take part is deemed inactive, their vote is not counted towards the quorum, and the passport is retained. The system does not need to know why a person stopped taking part.
+> **Why death is not on this list.** Belonging ends on the death of a person - this is set out in Article 4 of the Declaration and occurs of itself, without anyone's decision. A passport is not burned on that ground, and for the following reasons. The people has, and can have, no access to records of death across the world: such a ground would rest on information whose reliability there is no way to check, and it would become the cheapest way to remove a participant - without notice, without a period for objections and without appeal, since all of these presuppose the person's presence. Nor does burning provide protection against voting with someone else's key: it cannot outrun knowledge of the death. The practical side is covered by Article 20: whoever does not take part is deemed inactive, their vote is not counted towards the quorum, and the passport is retained. The system does not need to know why a person stopped taking part.
 
 ### 1. Annulment of an Invalid Issuance
 
-A passport may be annulled if it is established that it was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using false data or another person's identity, or the passport was issued to a person below the age established by this Charter. The list of grounds is closed and corresponds to Article 8 of the Declaration.
+A passport may be annulled if it is established that it was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using false data or another person's identity, or the passport was issued to a person below the age set by this Charter. The list of grounds is exhaustive and corresponds to Article 8 of the Declaration.
 
-If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. The person's belonging to the people is preserved. In the two other cases - false particulars or another person's identity, and failure to reach the established age - belonging itself likewise did not lawfully arise together with the issuance of the passport.
+If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. The person's belonging to the people is preserved. In the two other cases - false particulars or another person's identity, and failure to reach the age set by this Charter - belonging itself likewise did not lawfully arise together with the issuance of the passport.
 
 **Procedure:**
 - Initiation: a substantiated submission with evidence, made by any earthling or by Core Nodes following a technical check
@@ -527,7 +527,7 @@ If more than one valid passport has been issued to one person, the issuance of a
 - Vote: **sanction majority of 75% at a quorum of 25%, secret, without delegation**
 - Appeal within 30 days; a simple majority (51%, quorum 20%) is enough to overturn the decision
 
-An appeal goes to the Assembly. The guarantees owed to the person in such an examination are established by the Declaration; the Charter neither repeats them nor can lower them.
+An appeal goes to the Assembly. The guarantees owed to the person in such an examination are set out in the Declaration; the Charter neither repeats them nor can lower them.
 
 Annulment is not expulsion from the people and is not applied as a measure of liability for conduct. It establishes only that the issuance did not lawfully take place. A person whose passport has been annulled has the right to undergo verification again on general terms, once the impediment to lawful issuance has been removed.
 
@@ -541,13 +541,13 @@ A passport may be burned and immediately reissued to the same address or to a ne
 
 Where the rules and principles of the Earthlings people are breached, the Earthlings people may put the breach on the public record and dispose of what belongs to everyone: stop giving common money and withdraw their name. Neither of these restricts the rights of a person.
 
-**The limit of this Article.** A measure under this Article may concern common resources and must not concern the rights of a person. Neither belonging to the people, nor the right to vote, nor the right to take part in discussion, to submit proposals and to raise questions, nor the right to be heard, nor the right to leave freely is restricted under this Article - on no ground, by no majority, for no period. The rights of an individual person are restricted by the Earthlings people in only two cases, set out in Article 4 of the Earthlings Declaration: annulment of an invalid issuance of a passport (Article 21) and suspension of the right to vote for undermining the integrity of voting itself (Article 22 bis). The list is closed, and this Article does not extend it.
+**The limit of this Article.** A measure under this Article may concern common resources and must not concern the rights of a person. Neither belonging to the people, nor the right to vote, nor the right to take part in discussion, to submit proposals and to raise questions, nor the right to be heard, nor the right to leave freely is restricted under this Article - on no ground, by no majority, for no period. The rights of an individual person are restricted by the Earthlings people in only two cases, set out in Article 4 of the Earthlings Declaration: annulment of an invalid issuance of a passport (Article 21) and suspension of the right to vote for undermining the integrity of voting itself (Article 22 bis). The list is exhaustive, and this Article does not extend it.
 
 ### The Measure Addressed to a Person: a Warning
 
 **Warning.** A public record of the breach. It remains in the history and is taken into account when subsequent breaches are considered. A warning takes nothing away from a person: not the vote, not the right to submit proposals and raise questions, not the right to create Cells and to join them, not access to the platform and its services. This Article establishes no other measure addressed to a person, and no such measure may be introduced by a decision.
 
-**Grounds for a warning** - proven acts only; the list is closed and not subject to extension:
+**Grounds for a warning** - proven acts only; the list is exhaustive and not subject to extension:
 
 - deliberate concealment of a conflict of interest
 - abuse of DAO mechanisms: submitting proposals in a volume that impedes the work of the Assembly, or manipulating the order of voting
@@ -594,7 +594,7 @@ This Article establishes the **sole** case in which the right to vote may be sus
 
 ### The Ground
 
-Suspension is applied only for proven acts directed at undermining the integrity of voting itself:
+Suspension is applied only for proven acts aimed at undermining the integrity of voting itself:
 
 - collusion aimed at a coordinated distortion of the result;
 - buying or selling a vote, and equally offering or accepting any reward for voting in a particular way;
@@ -771,7 +771,7 @@ The deadlines of legal demands are often shorter than any voting procedure: a co
 
 - **Grant.** The DAO Assembly, by a simple majority (51%, quorum 20%), mandates one or two Earthlings with legal training to take protective actions in the legal sphere without a prior vote.
 - **Revocation.** The mandate is revoked at any time by a simple majority (51%, quorum 20%), without giving reasons. The threshold for revocation equals the threshold for the grant and cannot be raised.
-- **A closed list of permitted actions.** Answers to requests from state authorities and courts; recording the legal position of the people; retaining counsel; taking procedural steps where missing a deadline entails adverse consequences. No other actions are permitted.
+- **An exhaustive list of permitted actions.** Answers to requests from state authorities and courts; recording the legal position of the people; retaining counsel; taking procedural steps where missing a deadline entails adverse consequences. No other actions are permitted.
 - **Express prohibitions.** The mandate confers no right to admit claims on the merits, to dispose of or encumber assets, to assume obligations above 5,000 EC, to change the structure of the people, to conclude agreements binding the people for the future, or to act on behalf of the people on matters unrelated to the defence in a particular legal proceeding.
 - **Reporting.** A mandatory public report within 24 hours of each action.
 - **Annulment of what has been done.** The DAO may annul or adjust any action by a simple majority.
@@ -847,11 +847,11 @@ This Charter enters into force upon its publication on the website of the Earthl
 
 1. **The Earthlings Declaration** - the founding document, holding the highest force. A provision of any other document that contradicts the Declaration has no force from the moment of adoption and is not to be applied
 2. **This Charter** - the principal organizational document
-3. **Derivative documents** - where the Charter and a derivative document diverge, the Charter applies
+3. **Subordinate documents** - where the Charter and a subordinate document diverge, the Charter applies
 
 A contradiction of the Charter with the Declaration, once discovered, is removed by bringing the Charter into accordance with the Declaration, and not the other way round.
 
-**Division of subject matter.** The Declaration establishes principles, the guarantees to the person, and the limits of the people. The principles of its unamendable core are never abolished; the wording of those principles and its other provisions are changed only by the Assembly, in the manner provided by Article 11 of the Declaration and only so that no guarantee to the person becomes weaker. The Charter establishes mechanisms, thresholds, time limits and procedures; it is amended in the manner provided by Article 36. Numerical values, technical means and organizational detail are not carried over into the Declaration.
+**Division of subject matter.** The Declaration sets out principles, the guarantees to the person, and the limits of the people. The principles of its unamendable core are never abolished; the wording of those principles and its other provisions are changed only by the Assembly, under Article 11 of the Declaration and only so that no guarantee to the person becomes weaker. The Charter sets out mechanisms, thresholds, time limits and procedures; it is amended under Article 36. Numerical values, technical means and organizational detail are not carried over into the Declaration.
 
 ## Article 39. The Structure-Formation Stage
 
@@ -909,6 +909,6 @@ It is not a decision and has no threshold: the panel prepares the question for m
 
 **Emergency Multisig.** Emergency suspension of smart contracts where security is threatened, protective action during cyberattacks, emergency funding up to 5,000 EC. A mandatory report within 48 hours, retrospective ratification by the DAO within 7 days, revocation by simple majority at any time.
 
-**The protective legal mandate.** Protective actions in a particular legal proceeding, on a closed list. A report within 24 hours, automatic expiry after 30 days, revocation by simple majority at any time.
+**The protective legal mandate.** Protective actions in a particular legal proceeding, on an exhaustive list. A report within 24 hours, automatic expiry after 30 days, revocation by simple majority at any time.
 
 **The Independent Council.** Ethical audit, recommendations, public opinions. Advisory in character, with no right of veto. An annual public report, re-election every 3 years.

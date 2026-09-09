@@ -4,7 +4,7 @@
 
 > This page sets out the legal position of the people in condensed form - for state authorities, financial institutions, partners, and lawyers.
 >
-> **Stage.** The people is at the structure-formation stage. The infrastructure of self-government is built and deployed, and filling it with practice begins as the number of participants grows. What is set out below describes the legal construction and its limits, not a scale that has been reached.
+> **Stage.** The people is at the structure-formation stage. The infrastructure of self-government is built and deployed, and filling it with practice begins as the number of participants grows. What is set out below describes the legal scheme and its limits, not a scale that has been reached.
 >
 > The full reasoning is given in the document [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), and the arguments against our position in the document [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html). Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) and the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) apply.
 
@@ -39,13 +39,13 @@ For engagement with the existing legal, administrative, and financial infrastruc
 
 Such structures are **solely operational and replaceable means of external engagement**:
 
-- they are not bearers of the people;
+- they do not embody the people;
 - they hold no power and exercise no authority over the people;
 - they do not determine its existence;
 - they are not the source of its legitimacy;
 - they may be established, replaced, and wound up without affecting the existence, continuity, and identity of the people.
 
-Persons acting through these structures carry out a **mandate of the DAO Assembly, revocable at any time by a simple majority** (Charter, Article 33). A mandate creates no office, gives no exclusive right to act on behalf of the people, and is limited by a closed list of permitted actions. Decisions on behalf of the people are taken only by the Assembly.
+Persons acting through these structures carry out a **mandate of the DAO Assembly, revocable at any time by a simple majority** (Charter, Article 33). A mandate creates no office, gives no exclusive right to act on behalf of the people, and is limited to an exhaustive list of permitted actions. Decisions on behalf of the people are taken only by the Assembly.
 
 ## Limits on the activity of the legal structures
 

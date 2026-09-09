@@ -76,7 +76,7 @@ The difference is fundamental. If territory is the essence of a people, its abse
 
 International law, tellingly, contains no exhaustive definition of a people. That leaves the question open rather than decided in anyone's favour.
 
-It matters that the question has ceased to be speculative. The practice cited above shows that, faced with a real necessity, international law proved capable of separating status from territory. It did so in order to preserve a subject already recognized - but the very fact that the separation proved possible, and was fixed in a treaty, shows that the territorial link is not indispensable in this construction.
+It matters that the question has ceased to be speculative. The practice cited above shows that, faced with a real necessity, international law proved capable of separating status from territory. It did so in order to preserve a subject already recognized - but the very fact that the separation proved possible, and was fixed in a treaty, shows that the territorial link is not indispensable in this scheme.
 
 ---
 
@@ -148,7 +148,7 @@ The analogy is loose, but it helps convey the scale: where before only a fossil 
 
 This is exactly what was missing in the Roma case set out above: the claim was made, and material that could be produced and checked did not exist. For the law this is a qualitatively new kind of material, and it is precisely what makes it possible to pose a question that historical material could never sustain: not "what is a people" but "what stages does its becoming pass through".
 
-Let us state the limit as well. Observability is a property of the construction, not a result achieved: the evidentiary force of observation arises as time, the number of participants, and practice accumulate. The possibility of observing is a necessary condition, not a sufficient one.
+Let us state the limit as well. Observability is a property of the scheme, not a result achieved: the evidentiary force of observation arises as time, the number of participants, and practice accumulate. The possibility of observing is a necessary condition, not a sufficient one.
 
 ---
 

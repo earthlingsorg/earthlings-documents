@@ -88,7 +88,7 @@ The Council aims for a diversity of views, cultural perspectives, and geography 
 
 **Recall.** A member of the Council may be recalled by decision of the Assembly with a qualified majority - the same threshold by which they were elected, and no higher (Charter, Article 4).
 
-But the threshold is not the main thing here. The main thing is the **grounds**, and the list of them is closed:
+But the threshold is not the main thing here. The main thing is the **grounds**, and the list of them is exhaustive:
 
 - breach of the duty to declare a conflict of interest;
 - systematic non-participation in the work of the Council;

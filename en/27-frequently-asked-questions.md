@@ -148,7 +148,7 @@ Previous attempts broke on three things. One token, one vote: whoever has more f
 
 Here the vote is tied to a confirmed living human being and does not depend on a balance; the unit of account gives no votes, whatever the amount held; organizations cannot be participants; and belonging, the equal vote, the right to leave, and the values are placed beyond voting altogether.
 
-Has this construction been tested at scale - no. We say only that the causes of failure in earlier attempts are named and that answers to them are built into the design.
+Has this scheme been tested at scale - no. We say only that the causes of failure in earlier attempts are named and that answers to them are built into the design.
 
 → [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html)
 

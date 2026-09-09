@@ -204,7 +204,7 @@ The DAO Assembly is **the sole body that takes binding decisions**. All the othe
 
 1. **Proposal.** Any participant submits a proposal. No prior approval, collection of signatures, or threshold of support is required.
 2. **Discussion.** The proposal is discussed publicly, refined, and revised.
-3. **Voting.** Under the thresholds and quorums laid down by the Charter.
+3. **Voting.** Under the thresholds and quorums set by the Charter.
 4. **Execution.** Automatically through smart contracts or by the technical structures in execution of the decision.
 5. **Transparency.** The history of proposals, discussions, and outcomes is public.
 

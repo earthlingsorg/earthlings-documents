@@ -2,7 +2,7 @@
 
 **The decentralized financial mechanism of the Earthlings people**
 
-> This document sets out in detail section 03 of the [Charter](https://earth-lings.org/documents/en/en05-charter.html). Where they diverge, the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. Thresholds, quorums, and periods are laid down by the Charter; this document reproduces them and cannot change them.
+> This document sets out in detail section 03 of the [Charter](https://earth-lings.org/documents/en/en05-charter.html). Where they diverge, the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. Thresholds, quorums, and periods are set by the Charter; this document reproduces them and cannot change them.
 
 The Earthlings Treasury is the people's financial mechanism, governed through voting in the DAO Assembly and transparent procedures. It is the basis for delivering projects, developing the platform, running educational initiatives, and providing humanitarian aid.
 
@@ -24,7 +24,7 @@ The Earthlings Treasury is the people's financial mechanism, governed through vo
 
 ## Article 2. Purpose
 
-- **Funding projects** - support for initiatives directed at the people's aims
+- **Funding projects** - support for initiatives in furtherance of the people's aims
 - **Developing the platform** - technical infrastructure and its improvement
 - **Educational programmes** - opportunities for participants to learn and develop
 - **Humanitarian aid** - emergency support and social initiatives
@@ -133,7 +133,7 @@ When several projects have passed the threshold of approval but the category's f
 
 > **Why not quadratic voting.** It expresses the strength of a preference: a participant allocates a budget of credits and can put more weight into a project that matters to them than another participant does. Even with equal budgets this means that a vote can be **concentrated**.
 >
-> The whole construction of the people stands on the opposite: a vote is not accumulated, not spent, and not exchanged. A mechanism allowing one person to cast more weight in a single decision than another contradicts Article 37 of the Charter and Article 40 of this document, and is therefore not applied.
+> The whole scheme of the people stands on the opposite: a vote is not accumulated, not spent, and not exchanged. A mechanism allowing one person to cast more weight in a single decision than another contradicts Article 37 of the Charter and Article 40 of this document, and is therefore not applied.
 >
 > In allocation by support, priority is formed from **the number of people who supported a project**, not from who pressed harder.
 
@@ -202,7 +202,7 @@ The threshold amounts are set by decision of the DAO Assembly and are changed wi
 
 ## Article 16. Conflict of interest
 
-**Mandatory recusal.** An earthling does not take part in a vote on the allocation of funds if they have an interest in its outcome. The closed list of grounds for recusal and the procedure for declaring it are set out in the [Charter, Article 16](https://earth-lings.org/documents/en/en05-charter.html).
+**Mandatory recusal.** An earthling does not take part in a vote on the allocation of funds if they have an interest in its outcome. The exhaustive list of grounds for recusal and the procedure for declaring it are set out in the [Charter, Article 16](https://earth-lings.org/documents/en/en05-charter.html).
 
 No other grounds for excluding a vote exist: an earthling's vote is not excluded from the count by decision of a majority.
 
@@ -315,7 +315,7 @@ The Treasury's reserves are formed from external assets:
 
 Changing the proportions requires a qualified majority of the DAO Assembly.
 
-> **Why the people's unit of account is not part of the reserves.** The unit of account is an internal instrument of coordination and mutual aid, not a reserve asset. Including it in reserves would mean that the Treasury's stability depends on the value of what it issues itself - a construction that collapses exactly when reserves are needed most. Besides, the share of the people's own unit in reserves is measurable only if a market exists, and there is no market and no exchange trading in the unit of account.
+> **Why the people's unit of account is not part of the reserves.** The unit of account is an internal instrument of coordination and mutual aid, not a reserve asset. Including it in reserves would mean that the Treasury's stability depends on the value of what it issues itself - a design that collapses exactly when reserves are needed most. Besides, the share of the people's own unit in reserves is measurable only if a market exists, and there is no market and no exchange trading in the unit of account.
 >
 > Funds denominated in the unit of account are accounted for separately from the reserves - as internal turnover, not as backing.
 
