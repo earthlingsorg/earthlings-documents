@@ -6,7 +6,7 @@
 >
 > **Stage.** The people is at the structure-formation stage. The infrastructure of self-government is built and deployed, and filling it with practice begins as the number of participants grows. What is set out below describes the legal scheme and its limits, not a scale that has been reached.
 >
-> The full reasoning is given in the document [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), and the arguments against our position in the document [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html). Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) and the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) apply.
+> The full reasoning is given in the document [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), and the arguments against our position in the document [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html). Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) and the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) prevail.
 
 ---
 

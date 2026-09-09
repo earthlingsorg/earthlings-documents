@@ -2,7 +2,7 @@
 
 **In force from the moment of publication**
 
-> Where this Policy diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. The processing of biometric data is described separately, in the [Biometric Verification Policy](https://earth-lings.org/documents/en/en16-biometric-verification.html), and where they diverge on that subject it is that Policy which applies.
+> Where this Policy diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails. The processing of biometric data is described separately, in the [Biometric Verification Policy](https://earth-lings.org/documents/en/en16-biometric-verification.html), and where they diverge on that subject it is that Policy which prevails.
 
 ## Our principles
 

@@ -2,7 +2,7 @@
 
 **Principles, architecture, and governance in the decentralized system of the Earthlings people**
 
-> This document describes how collective decision-making is arranged. The rules, thresholds, quorums, and procedures are set out in the Earthlings Charter; this document explains them and does not change them. Where they diverge, the Charter applies; where the Charter diverges from the Declaration, the Declaration applies.
+> This document describes how collective decision-making is arranged. The rules, thresholds, quorums, and procedures are set out in the Earthlings Charter; this document explains them and does not change them. Where they diverge, the Charter prevails; where the Charter diverges from the Declaration, the Declaration prevails.
 
 ---
 

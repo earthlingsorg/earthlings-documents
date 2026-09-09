@@ -2,7 +2,7 @@
 
 **A digital certificate of belonging to the Earthlings people**
 
-> This document describes the design and legal significance of the passport. Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. The procedure for entering is described in the document [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html).
+> This document describes the design and legal significance of the passport. Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails. The procedure for entering is described in the document [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html).
 
 ---
 

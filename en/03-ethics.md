@@ -2,7 +2,7 @@
 
 **How the people works through disagreement and what manner of communication it holds to**
 
-> This document is derivative. Where it diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies.
+> This document is derivative. Where it diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails.
 >
 > **This document establishes no grounds for any measures.** The exhaustive list of such grounds is contained in Articles 22 and 22 bis of the Charter and is not subject to extension - neither by this document, nor by a decision, nor by settled practice.
 

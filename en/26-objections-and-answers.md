@@ -14,7 +14,7 @@ Objections about international law - about the concept of a people, territory, f
 
 Answers to technical, economic, and organizational questions are collected in the document "Frequently Asked Questions".
 
-Where this diverges from the Declaration, the Declaration applies.
+Where this diverges from the Declaration, the Declaration prevails.
 
 **The stage at which all this is said.** A people defined by an adopted text does not yet exist. The Declaration exists as an initial edition and will be adopted by a vote on 17 February 2027; until that day entry is suspended, and those who have confirmed their identity are participants in the founding, not earthlings. The order is set out in the document "The Founding Period". Everywhere below where properties of the people are described, what is meant is the scheme as built, not a state that has been reached.
 

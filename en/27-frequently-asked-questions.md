@@ -2,7 +2,7 @@
 
 **The practical questions of a person deciding whether to enter, or who has already entered**
 
-> **What this document is.** Short answers to what is asked most often, with a pointer to where the full answer is. It establishes nothing and creates no rules: the rules are in the [Charter](https://earth-lings.org/documents/en/en05-charter.html) and the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and on any divergence it is they that apply.
+> **What this document is.** Short answers to what is asked most often, with a pointer to where the full answer is. It establishes nothing and creates no rules: the rules are in the [Charter](https://earth-lings.org/documents/en/en05-charter.html) and the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and on any divergence it is they that prevail.
 >
 > Legal objections - about self-determination, legal personality, and recognition - are examined separately, in detail and with the arguments against us: [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
 

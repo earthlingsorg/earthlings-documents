@@ -2,7 +2,7 @@
 
 **Infrastructure of identity, participation, and projects for the Earthlings people**
 
-> This document describes the technical implementation of the rules set out in the Earthlings Charter. Where they diverge, the Charter applies; where the Charter diverges from the Declaration, the Declaration applies. The platform does not establish rules: it executes them.
+> This document describes the technical implementation of the rules set out in the Earthlings Charter. Where they diverge, the Charter prevails; where the Charter diverges from the Declaration, the Declaration prevails. The platform does not establish rules: it executes them.
 
 ---
 

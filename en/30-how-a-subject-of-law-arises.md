@@ -18,7 +18,7 @@ This is not a defence of the project. It is an attempt to name a gap precisely. 
 
 Not one thesis asserts that the law is out of date or was mistaken. Each asserts something more modest and more exact: the law has been faced with a question which, until now, could hardly ever be posed in a way that admits of an answer.
 
-Where this document diverges from the Earthlings Declaration, the Declaration applies.
+Where this document diverges from the Earthlings Declaration, the Declaration prevails.
 
 ---
 

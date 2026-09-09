@@ -288,7 +288,7 @@ Neither possession of the infrastructure, nor ownership of the code, nor control
 
 **Languages and Interpretation.** The term "people" is used in this Declaration in the sense that international law gives to the holder of the right to self-determination: the Charter of the United Nations, Article 1(2), and common Article 1 of the 1966 Covenants. Translations of this Declaration reproduce that sense. For languages in which authentic texts of the instruments named exist, the term is taken from those texts. For the remaining languages the term is taken from the official translation of the International Covenant on Civil and Political Rights, and, where there is none, a term conveying the sense stated is used, with an explanation on first use.
 
-This Declaration is adopted in Russian and in English. Both texts are authentic. Where they diverge, the interpretation that gives the person the higher protection applies. If that comparison does not resolve the divergence, the meaning of the Russian text applies. Translations into the remaining languages are official.
+This Declaration is adopted in Russian and in English. Both texts are authentic. Where they diverge, the interpretation that gives the person the higher protection prevails. If that comparison does not resolve the divergence, the meaning of the Russian text prevails. Translations into the remaining languages are official.
 
 ## Article 12. Adoption of the Declaration
 

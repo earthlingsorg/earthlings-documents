@@ -2,7 +2,7 @@
 
 **The system of small teams and project cooperation of the Earthlings people**
 
-> This document sets out in detail section 06 of the [Charter](https://earth-lings.org/documents/en/en05-charter.html). Where they diverge, the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies.
+> This document sets out in detail section 06 of the [Charter](https://earth-lings.org/documents/en/en05-charter.html). Where they diverge, the Charter prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails.
 
 ---
 

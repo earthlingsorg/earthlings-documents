@@ -10,7 +10,7 @@
 
 This text presents the legal basis for the principles and mechanisms set out in the Earthlings Declaration. The Declaration states values and aims; this document examines whether the scheme is legally admissible and how it might be classified in international law.
 
-Where this document and the Declaration diverge, the Declaration applies.
+Where this document and the Declaration diverge, the Declaration prevails.
 
 **Addressed to:** lawyers, analysts, scholars of international law, representatives of international organizations, and sceptical readers for whom consistent argument matters.
 

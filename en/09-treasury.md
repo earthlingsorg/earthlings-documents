@@ -2,7 +2,7 @@
 
 **The decentralized financial mechanism of the Earthlings people**
 
-> This document sets out in detail section 03 of the [Charter](https://earth-lings.org/documents/en/en05-charter.html). Where they diverge, the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. Thresholds, quorums, and periods are set by the Charter; this document reproduces them and cannot change them.
+> This document sets out in detail section 03 of the [Charter](https://earth-lings.org/documents/en/en05-charter.html). Where they diverge, the Charter prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails. Thresholds, quorums, and periods are set by the Charter; this document reproduces them and cannot change them.
 
 The Earthlings Treasury is the people's financial mechanism, governed through voting in the DAO Assembly and transparent procedures. It is the basis for delivering projects, developing the platform, running educational initiatives, and providing humanitarian aid.
 

@@ -2,7 +2,7 @@
 
 **A practical guide**
 
-> This document describes the procedure for entering and for changing status. Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies.
+> This document describes the procedure for entering and for changing status. Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails.
 
 ---
 

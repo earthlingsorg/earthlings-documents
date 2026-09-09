@@ -2,7 +2,7 @@
 
 **The people's institution of trust**
 
-> This document sets out in detail Article 4 of the Charter of the Earthlings people, which defines the status, powers, and formation of the Independent Council. Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies.
+> This document sets out in detail Article 4 of the Charter of the Earthlings people, which defines the status, powers, and formation of the Independent Council. Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails.
 >
 > **State as of today.** The Council is provided for by the founding documents and is formed as the people grows. Until it is formed, the stages of procedures that provide for its involvement are skipped, and the periods of public discussion of the questions concerned are doubled (Charter, Article 39). Forming the Council is one of the four conditions for completing the structure-formation stage.
 

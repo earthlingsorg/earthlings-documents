@@ -2,7 +2,7 @@
 
 **From founding to full decentralization: the principles, stages, and mechanisms by which the Earthlings people takes shape**
 
-> Where this document diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies.
+> Where this document diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails.
 
 ---
 

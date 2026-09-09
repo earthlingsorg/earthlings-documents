@@ -2,7 +2,7 @@
 
 **In force from the moment of publication**
 
-> Where this Policy diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. The general rules on processing personal data are in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
+> Where this Policy diverges from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails. The general rules on processing personal data are in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
 
 ## In brief
 

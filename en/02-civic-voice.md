@@ -20,7 +20,7 @@ The section stands first deliberately: it defines what this document is within t
 
 **It explains and it supposes.** All the other documents of the corpus describe what is, or establish what ought to be. This one also speaks of what does not yet exist: of rungs, not one of which has been climbed as of today, and of possibilities, not one of which is promised. Section 20 lists nine ways in which all of this may fail to come about, and section 21 states what has been built and what does not yet exist.
 
-**Binding force belongs to the Declaration and the Charter.** Where this document diverges from either of them, they apply. A divergence discovered is removed by correcting this document, not the Declaration and not the Charter. The interpretation of this document can neither lower a guarantee to the person nor extend the powers of the people or of any of its institutions.
+**Binding force belongs to the Declaration and the Charter.** Where this document diverges from either of them, they prevail. A divergence discovered is removed by correcting this document, not the Declaration and not the Charter. The interpretation of this document can neither lower a guarantee to the person nor extend the powers of the people or of any of its institutions.
 
 **It may be rewritten or withdrawn in its entirety, and nothing will change as a result.** If in ten or twenty years not one of the rungs described here turns out to have been climbed, this document is to be reworked or withdrawn - and the Declaration, the Charter, the registry, the order of voting and the belonging of people to one another will remain exactly the same. This property is not accidental and is preserved deliberately: a text that predicts must carry nothing that would collapse together with the prediction that failed.
 
@@ -104,7 +104,7 @@ This document establishes nothing. The rights of the person, the guarantees to t
 
 What follows here is the same thing in detail: what proves each assertion, how each procedure works, and what we do not guarantee.
 
-This section sets out the same thing as the rest of the document and is not a self-standing text. **Where the brief and the detailed accounts diverge, the detailed one applies:** the brief one exists for ease of reading, not as a second source.
+This section sets out the same thing as the rest of the document and is not a self-standing text. **Where the brief and the detailed accounts diverge, the detailed one prevails:** the brief one exists for ease of reading, not as a second source.
 
 ---
 

@@ -210,7 +210,7 @@ No remuneration for holding a seat on the Council is paid beyond such compensati
 
 **Allocation by support.** Applied to determine the order of funding among projects that have already passed their approval threshold, where their total request exceeds the limit for the field (Article 11).
 
-> **Funding thresholds.** The amounts of 10,000 EC and 100,000 EC that separate the types of vote are set by a decision of the DAO Assembly and may be changed without amending the Charter. The figures given here are those in force at the time the Charter is adopted; where they diverge, the decision of the DAO Assembly in force applies.
+> **Funding thresholds.** The amounts of 10,000 EC and 100,000 EC that separate the types of vote are set by a decision of the DAO Assembly and may be changed without amending the Charter. The figures given here are those in force at the time the Charter is adopted; where they diverge, the decision of the DAO Assembly in force prevails.
 
 **A measurement of the common will is not a decision** and is not included in the present list: by it the people expresses a position; it does not decide. The requirements for a measurement are set out in Article 8 bis; in all other respects the order is established by a decision of the DAO Assembly.
 
@@ -847,7 +847,7 @@ This Charter enters into force upon its publication on the website of the Earthl
 
 1. **The Earthlings Declaration** - the founding document, holding the highest force. A provision of any other document that contradicts the Declaration has no force from the moment of adoption and is not to be applied
 2. **This Charter** - the principal organizational document
-3. **Subordinate documents** - where the Charter and a subordinate document diverge, the Charter applies
+3. **Subordinate documents** - where the Charter and a subordinate document diverge, the Charter prevails
 
 A contradiction of the Charter with the Declaration, once discovered, is removed by bringing the Charter into conformity with the Declaration, and not the other way round.
 

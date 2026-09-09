@@ -2,7 +2,7 @@
 
 **The internal unit of account of the Earthlings people**
 
-> This document describes the purpose of the unit of account and the rules for handling it. Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. The procedure for managing common funds is set out in the document [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html) and is not repeated here.
+> This document describes the purpose of the unit of account and the rules for handling it. Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails. The procedure for managing common funds is set out in the document [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html) and is not repeated here.
 >
 > This document is not an offer, promises no listing or growth in value, and does not replace legal documents.
 

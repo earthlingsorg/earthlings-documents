@@ -185,7 +185,7 @@ A proposal **on translation** points out that a translation conveys the meaning 
 
 Which kind a proposal belongs to is determined by its content, not by how it is labelled. If a proposal on translation reveals an ambiguity in the master text itself, it is also considered as a proposal on the merits.
 
-**Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where they diverge the interpretation giving the person the higher protection applies, and if that does not resolve the divergence, the meaning of the Russian text prevails.
+**Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where they diverge the interpretation giving the person the higher protection prevails, and if that does not resolve the divergence, the meaning of the Russian text prevails.
 
 **Readiness of the translations.** The corpus in all nine languages is brought into line with the Russian master texts before proposals open on 22 October 2026. The final editions put to the vote are published in Russian and English on 3 February 2027, and the translations into the other seven languages by the same date. If any translation is not ready by that day, this is stated plainly, naming the language and the reason; we will not pass off an unfinished translation as a finished one.
 

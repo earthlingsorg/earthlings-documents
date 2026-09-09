@@ -2,7 +2,7 @@
 
 **In force from the moment of publication**
 
-> Where these Terms diverge from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter applies; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration applies. The processing of data is described in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
+> Where these Terms diverge from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails. The processing of data is described in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
 
 ## The substance in a few points
 
@@ -297,7 +297,7 @@ We are not responsible for keys you have lost, break-ins to your external wallet
 
 # SECTION 12. Applicable law and disputes
 
-These Terms neither replace nor limit the legislation of your country. Where the people's internal rules conflict with the mandatory norms of your jurisdiction, the mandatory norms apply.
+These Terms neither replace nor limit the legislation of your country. Where the people's internal rules conflict with the mandatory norms of your jurisdiction, the mandatory norms prevail.
 
 Internal disputes between participants are resolved by the procedures of the Charter: dialogue, mediation, the Independent Council, a vote of the Assembly.
 
