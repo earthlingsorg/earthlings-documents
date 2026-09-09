@@ -86,7 +86,7 @@ Renoncer au sarcasme et aux piques dans l'espace commun rend la conversation plu
 
 ## Où passe la limite
 
-Les menaces, la diffamation et la contrainte sont incompatibles avec l'appartenance au peuple. Si un tel comportement constitue un motif prévu par l'article 22 de la Charte, les mesures qu'il établit et sa procédure s'appliquent.
+Les menaces, la diffamation et la contrainte sont incompatibles avec l'appartenance au peuple. Si un tel comportement constitue un motif visé à l'article 22 de la Charte, les mesures qu'il établit et sa procédure s'appliquent.
 
 **La vivacité, l'ironie, le désaccord et la critique dérangeante n'entraînent jamais de conséquences** - ni directement ni sous couvert d'un autre motif (Déclaration, article 4).
 

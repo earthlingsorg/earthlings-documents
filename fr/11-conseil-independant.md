@@ -149,7 +149,7 @@ Les groupes de travail du Conseil seront ouverts à la participation de tout ear
 
 - Formuler des observations et des recommandations publiques
 - Ouvrir des débats publics sur des sujets sensibles
-- Publier les avis prévus par les articles 21 et 22 de la Charte
+- Publier les avis visés aux articles 21 et 22 de la Charte
 - Recommander à l'Assemblée de revoir la composition des Core Nodes, de l'Emergency Multisig ou d'autres structures de service
 - Proposer des candidats au Conseil
 

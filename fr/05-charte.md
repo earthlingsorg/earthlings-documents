@@ -452,7 +452,7 @@ La dissimulation intentionnelle d'un conflit d'intérêts peut entraîner un ave
 
 L'appartenance au peuple des Earthlings est inaliénable. Nul ne peut être exclu du peuple des Earthlings en aucune circonstance. Devenue earthling, une personne le reste tant qu'elle n'a pas elle-même décidé de sortir.
 
-**Le droit de vote ne peut être retiré ni suspendu en raison des opinions d'une personne, du contenu de son vote, d'un désaccord avec les décisions adoptées ou à titre de sanction générale pour manquement aux règles.** La voix est le contenu de l'appartenance: la retirer pour de tels motifs reviendrait à exclure la personne du peuple en lui en laissant le nom. Les mesures de restriction prévues à l'article 22 n'affectent pas le droit de vote.
+**Le droit de vote ne peut être retiré ni suspendu en raison des opinions d'une personne, du contenu de son vote, d'un désaccord avec les décisions adoptées ou à titre de sanction générale pour manquement aux règles.** La voix est le contenu de l'appartenance: la retirer pour de tels motifs reviendrait à exclure la personne du peuple en lui en laissant le nom. Les mesures de restriction visées à l'article 22 n'affectent pas le droit de vote.
 
 La seule exception admissible est prévue à l'article 22 bis et concerne les actes dirigés contre l'intégrité du vote lui-même. La liste des motifs n'est pas susceptible d'élargissement.
 
