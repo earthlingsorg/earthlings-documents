@@ -66,7 +66,7 @@ No. Your public name is a pseudonym you choose. The document data are checked on
 
 ### And if the data leak?
 
-The link between the real person and the pseudonym is not retained: only what one holds can be disclosed. What can be stolen are encrypted irreversible hashes, from which neither an image nor document data can be obtained. The stores are separated, encryption is AES-256, and notice of an incident is given within 72 hours.
+The link between the real identity and the pseudonym is not retained: only what one holds can be disclosed. What can be stolen are encrypted irreversible hashes, from which neither an image nor document data can be obtained. The stores are separated, encryption is AES-256, and notice of an incident is given within 72 hours.
 
 → [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html)
 

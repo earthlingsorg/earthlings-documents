@@ -70,7 +70,7 @@ What is set out in this section is what the people aims at. It creates no duties
 
 ## The foundation
 
-**Respect for the person.** Everyone has the right to their own opinion, faith, choices, and way of life. Discrimination, humiliation, and persecution are inadmissible in the Earthlings people.
+**Respect for the individual.** Everyone has the right to their own opinion, faith, choices, and way of life. Discrimination, humiliation, and persecution are inadmissible in the Earthlings people.
 
 **Criticism of ideas is separated from one's attitude to every person.** Discussion on the merits does not turn personal.
 

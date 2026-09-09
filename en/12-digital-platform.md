@@ -61,9 +61,9 @@ The limits on the use of AI are set out in Article 3 of the Declaration: no digi
 
 ---
 
-# SECTION 03. Identity: identity verification and the non-transferable passport
+# SECTION 03. Identity: verification and the non-transferable passport
 
-Identity is built around a non-transferable digital passport (SBT) linked to a confirmed person. A strict separation is observed:
+Identity is built around a non-transferable digital passport (SBT) linked to a person whose uniqueness has been confirmed. A strict separation is observed:
 
 - biometrics and documents are processed by the people's own identity-verification system in real time;
 - the platform receives only the fact that verification succeeded, not raw biometric data or scans;

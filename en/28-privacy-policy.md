@@ -200,7 +200,7 @@ Having become an earthling, a person remains one by their own choice. No decisio
 
 **An active account.** Data are held for the duration of participation in the people.
 
-**After exit.** The link between the data and the person is broken, and the processing of the account's personal data ceases. Irreversible hashes are retained in pseudonymized form solely so that one person cannot hold two valid passports; they do not limit the right to return.
+**After exit.** The link between the data and your identity is broken, and the processing of the account's personal data ceases. Irreversible hashes are retained in pseudonymized form solely so that one person cannot hold two valid passports; they do not limit the right to return.
 
 **Technical logs.** IP addresses and timestamps - up to 12 months, for security and incident investigation.
 

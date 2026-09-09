@@ -78,7 +78,7 @@ This provision runs through the whole document.
 
 ## Whom the Earthlings people represents
 
-The Earthlings people does not claim to represent humanity. It concerns only those who freely accede to the Declaration, have their uniqueness as a person confirmed, and knowingly take on an additional belonging. Until the founding period ends there are no such people at all, and no one can represent the Earthlings people today.
+The Earthlings people does not claim to represent humanity. It concerns only those who freely accede to the Declaration, have their uniqueness confirmed, and knowingly take on an additional belonging. Until the founding period ends there are no such people at all, and no one can represent the Earthlings people today.
 
 The task of the initiative is not to usurp the voice of humanity, but to create a legal mechanism capable of showing how the transnational will of people might find institutional expression.
 

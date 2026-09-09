@@ -34,7 +34,7 @@ Where this diverges from the Declaration, the Declaration prevails.
 
 Six distinctions, each verifiable against the founding documents: not a state (no territory and no coercive authority), not separatism (it changes no borders), not an abolition of citizenship, not a parallel jurisdiction (it neither judges nor coerces), not tax avoidance, not digital anarchism.
 
-Network states aim at territory and statehood; Earthlings deliberately does not. This is a different step: the self-determination of the person and of their belonging, not the building of a state.
+Network states aim at territory and statehood; Earthlings deliberately does not. This is a different step: the self-determination of the human being and of their belonging, not the building of a state.
 
 ### This is concealed separatism: an "additional identity" today, a demand for territory tomorrow.
 
@@ -100,7 +100,7 @@ The second: our scheme has not been tested at scale. We assert not that we have 
 
 ### A contribution on entry, and exit by a single action - that is a subscription to a service, not belonging to a people.
 
-Belonging is constituted by a free act - signing the Declaration. The contribution covers the cost of the procedure - confirming that the person is unique and issuing the passport - and sustains the people's infrastructure: it goes into the common treasury and is allocated in published shares. We note separately that identity verification **is free during the founding period**: before the text is adopted, no one pays anything.
+Belonging is constituted by a free act - signing the Declaration. The contribution covers the cost of the procedure - confirming a person's uniqueness and issuing the passport - and sustains the people's infrastructure: it goes into the common treasury and is allocated in published shares. We note separately that identity verification **is free during the founding period**: before the text is adopted, no one pays anything.
 
 Entry into any people by legal act is arranged in exactly this way: naturalization in every country carries a state fee of several hundred dollars or the equivalent, and citizens by birth pay for their passports in every country in the world. A fee pays for the procedure; it does not buy belonging.
 

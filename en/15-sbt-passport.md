@@ -12,7 +12,7 @@ The earthling SBT passport is a non-transferable digital token (a Soulbound Toke
 
 Unlike state passports, which are tied to a territory and confirm citizenship, this passport confirms belonging to a people united by shared values. It cannot be transferred to another person, sold, or alienated.
 
-**Non-transferability.** The passport is tied to your wallet, and transfer is blocked in the contract itself, not by a rule that can be worked around. The uniqueness of the person is confirmed at issuance.
+**Non-transferability.** The passport is tied to your wallet, and transfer is blocked in the contract itself, not by a rule that can be worked around. Your uniqueness is confirmed at issuance.
 
 **Cryptographic protection.** The record is held on a distributed network and cannot be forged or altered unnoticed.
 

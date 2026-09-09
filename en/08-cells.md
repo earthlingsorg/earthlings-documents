@@ -269,7 +269,7 @@ Within the system of Cells, indicators of the quality of work may be used.
 
 ## Basic principles
 
-- respect for the person of every participant;
+- respect for every participant as a human being;
 - a preference for dialogue and mediation;
 - transparent rules of entry, work, and exit;
 - the impossibility of usurping a Cell.
@@ -317,6 +317,6 @@ The system of Cells is not fixed forever in one form. It will change together wi
 - technical tools may change;
 - every significant change of the rules is discussed and approved in the DAO.
 
-What remains unchanged are the principles fixed in the unamendable core of the Declaration and in Article 37 of the Charter: human scale, freedom of participation, an equal and inalienable vote, respect for the person. Neither this document nor a decision of the Assembly changes them.
+What remains unchanged are the principles fixed in the unamendable core of the Declaration and in Article 37 of the Charter: human scale, freedom of participation, an equal and inalienable vote, respect for the individual. Neither this document nor a decision of the Assembly changes them.
 
 Earthlings Cells are not an ideal model on paper but a working instrument, and it will become more exact as people try, err, correct, and try again.

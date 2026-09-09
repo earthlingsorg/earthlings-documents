@@ -21,7 +21,7 @@
 
 They serve one purpose: to confirm that behind every vote stands one living, unique human being. This is the foundation of trust between strangers - and nothing more. The system is designed so that it cannot be used for surveillance.
 
-## The person, not the documents
+## The individual, not the documents
 
 The human being matters more than documents. Your belonging to the people is determined by your free choice, not by a passport or citizenship. The task of verification is not recognition from outside but the confirmation of a simple fact: you are you, and there is only one of you.
 
@@ -217,7 +217,7 @@ The registry follows the principle of data minimization in accordance with the G
 
 Photographs and scans are deleted immediately after verification, but its result remains valid and verifiable - much as a state does not permanently store biometric samples when issuing a passport, although the fact of issuance remains valid.
 
-> **The link between the real person and the pseudonym is not retained.** The document data are processed only at the moment of verification. What remains in the registry are the pseudonym, the verification status, and cryptographic confirmation of uniqueness. This architecture rules out disclosure of a participant's identity - to other participants, to administrators, and to third parties - because there is nothing to disclose.
+> **The link between the real identity and the pseudonym is not retained.** The document data are processed only at the moment of verification. What remains in the registry are the pseudonym, the verification status, and cryptographic confirmation of uniqueness. This architecture rules out disclosure of a participant's identity - to other participants, to administrators, and to third parties - because there is nothing to disclose.
 
 ---
 
