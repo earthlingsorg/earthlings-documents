@@ -158,7 +158,7 @@ The Council helps the community with difficult ethical questions through public 
 
 Its opinions are advisory and are published in full. The Assembly is entitled to disagree with them, and this entails no consequences. The Council does not block decisions, has no right of veto, and takes no part in managing funds.
 
-Its composition, the procedure for its formation, the grounds for recall, and the conditions of its work are laid down by the [Charter, Article 4](https://earth-lings.org/documents/en/en05-charter.html) and by the document [The Earthlings Independent Council](https://earth-lings.org/documents/en/en11-independent-council.html).
+Its composition, the procedure for its formation, the grounds for recall, and the conditions of its work are set out in the [Charter, Article 4](https://earth-lings.org/documents/en/en05-charter.html) and in the document [The Earthlings Independent Council](https://earth-lings.org/documents/en/en11-independent-council.html).
 
 ---
 

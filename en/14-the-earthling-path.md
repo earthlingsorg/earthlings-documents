@@ -44,7 +44,7 @@ No other conditions exist. Nationality, race, religion, sex, social position, ci
 
 **You cannot be expelled.** No procedure for expulsion from the Earthlings people exists under any circumstances or for any majority. Belonging ends only by your own decision.
 
-**Your vote cannot be taken away for how you think and how you vote.** Not for your views, not for how you voted, not for disagreement with decisions, and not as a general measure of liability. The single exception is a proven attack on the voting mechanism itself; the procedure and periods are laid down by the [Charter, Article 22 bis](https://earth-lings.org/documents/en/en05-charter.html).
+**Your vote cannot be taken away for how you think and how you vote.** Not for your views, not for how you voted, not for disagreement with decisions, and not as a general measure of liability. The single exception is a proven attack on the voting mechanism itself; the procedure and periods are set out in the [Charter, Article 22 bis](https://earth-lings.org/documents/en/en05-charter.html).
 
 **Your vote equals any other.** It depends neither on money, nor on reputation, nor on length of participation, nor on the number of units of account in your wallet.
 
@@ -99,7 +99,7 @@ As a general rule you alone burn your passport. The Charter (Article 21) establi
 
 **1. Annulment of an invalid issuance.** It applies where it is established that more than one valid passport has been issued to one person, or that verification was passed using falsified data or another person's identity.
 
-This is not a measure of liability for conduct and not expulsion from the people: what is established is only that the issuance never lawfully took place. The procedure protects you at every step - notice, a period for objection, an opinion of the Independent Council, a secret ballot with a higher majority, a right of appeal; the periods and thresholds are laid down by the [Charter, Article 21](https://earth-lings.org/documents/en/en05-charter.html). If the obstacle to lawful issuance is removed, you are entitled to undergo verification again on general terms.
+This is not a measure of liability for conduct and not expulsion from the people: what is established is only that the issuance never lawfully took place. The procedure protects you at every step - notice, a period for objection, an opinion of the Independent Council, a secret ballot with a higher majority, a right of appeal; the periods and thresholds are set out in the [Charter, Article 21](https://earth-lings.org/documents/en/en05-charter.html). If the obstacle to lawful issuance is removed, you are entitled to undergo verification again on general terms.
 
 **2. Technical reissue.** At **your own request** on loss of access to your wallet or on migration of the contract. The passport is burned and immediately issued anew; **belonging is not interrupted**, and no vote is required.
 

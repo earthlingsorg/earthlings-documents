@@ -168,7 +168,7 @@ Reputation is a reference note on an earthling's participation in the work of th
 
 **Use:** reference information when choosing a delegate; a chronological feed of proposals, in which the author's reputation does not affect a proposal's place in the feed, and filtering by reputation is available as a viewing mode each person switches on for themselves.
 
-> **What reputation does not do:** the list is laid down exhaustively in the [Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html). Applied to funding, this means that the order of funding is determined by the number of supporters, not by the applicant's reputation.
+> **What reputation does not do:** the list is set out exhaustively in the [Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html). Applied to funding, this means that the order of funding is determined by the number of supporters, not by the applicant's reputation.
 
 ## Article 14. Delegation
 
@@ -202,7 +202,7 @@ The threshold amounts are set by decision of the DAO Assembly and are changed wi
 
 ## Article 16. Conflict of interest
 
-**Mandatory recusal.** An earthling does not take part in a vote on the allocation of funds if they have an interest in its outcome. The closed list of grounds for recusal and the procedure for declaring it are laid down by the [Charter, Article 16](https://earth-lings.org/documents/en/en05-charter.html).
+**Mandatory recusal.** An earthling does not take part in a vote on the allocation of funds if they have an interest in its outcome. The closed list of grounds for recusal and the procedure for declaring it are set out in the [Charter, Article 16](https://earth-lings.org/documents/en/en05-charter.html).
 
 No other grounds for excluding a vote exist: an earthling's vote is not excluded from the count by decision of a majority.
 

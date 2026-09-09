@@ -291,7 +291,7 @@ The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal
 
 # Part IV. How a measurement works
 
-The instrument is described above as a design. Here is how it has to work if it is not to turn into one more poll. The requirements without which a measurement does not take place are established by the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who is not entitled to approve the question, what is published together with the result, who finds a defect, and whose money a measurement is not conducted on. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today it has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
+The instrument is described above as a design. Here is how it has to work if it is not to turn into one more poll. The requirements without which a measurement does not take place are set out in the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who is not entitled to approve the question, what is published together with the result, who finds a defect, and whose money a measurement is not conducted on. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today it has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
 
 ## 7. Who takes part
 
@@ -565,7 +565,7 @@ So far as we know, an artefact of that kind exists neither with states, nor with
 
 In Part I it was said that the injured side - those who do not yet vote and those who are not yet born - has no representation. Usually the conversation ends there: naming the harm is easy, and there is nothing to repair it with.
 
-Here there is something. It follows not from our good intention but from the construction of the text. Article 5 of the Declaration says: **"No decision of the Earthlings people is to shift negative consequences onto future generations."** Article 5 belongs to the unamendable core (Article 11), and the principles of the core are not put to a vote at all - this is not a question of a raised threshold, it is a question that is not asked. A decision that contradicts the core is void from the moment it is taken and is cured neither by time nor by execution.
+Here there is something. It follows not from our good intention but from the construction of the text. Article 5 of the Declaration says: **"No decision of the Earthlings people is to shift adverse consequences onto future generations."** Article 5 belongs to the unamendable core (Article 11), and the principles of the core are not put to a vote at all - this is not a question of a raised threshold, it is a question that is not asked. A decision that contradicts the core is void from the moment it is taken and is cured neither by time nor by execution.
 
 Out of this norm a standing procedure may grow: an assessment of every significant decision for its effect on those who come after - with a published opinion and the right of any participant to demand it. No such procedure exists today in any state or in any international organization. Nor do we have one yet: we have the norm from which it follows, and those are different things (section 21).
 

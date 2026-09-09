@@ -130,13 +130,13 @@ A published expert opinion is an argument in the discussion, carrying the weight
 
 As a general rule votes are open: the fact of participation and the expression of will are available for verification. Openness is the way to be sure the count is honest.
 
-But there are questions where openness of a person's expression of will does not protect them but exposes them to risk. For these, **a secret ballot with a verifiable count** applies; the list of such questions and the procedure are laid down by the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
+But there are questions where openness of a person's expression of will does not protect them but exposes them to risk. For these, **a secret ballot with a verifiable count** applies; the list of such questions and the procedure are set out in the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
 
 A secret ballot is mandatory when a restriction of powers is under consideration and on the annulment of an invalid issuance of a passport, and by decision of the Assembly for particular questions or categories, in particular those touching the people's position on the acts of states.
 
 ## The measurement of the common will is not a decision
 
-The present section describes how the people takes decisions about its own life. An expression of the people's position on questions that affect everyone (Article 3 of the Declaration) is not a decision: the people does not decide by it, it speaks. The order for measurement, the requirements for forming a question, what is published and the order where a measurement is defective are established by the [Charter, Article 8 bis](https://earth-lings.org/documents/en/en05-charter.html); in all other respects the order is established by a decision of the Assembly.
+The present section describes how the people takes decisions about its own life. An expression of the people's position on questions that affect everyone (Article 3 of the Declaration) is not a decision: the people does not decide by it, it speaks. The order for measurement, the requirements for forming a question, what is published and the order where a measurement is defective are set out in the [Charter, Article 8 bis](https://earth-lings.org/documents/en/en05-charter.html); in all other respects the order is established by a decision of the Assembly.
 
 ## The feed of proposals
 
