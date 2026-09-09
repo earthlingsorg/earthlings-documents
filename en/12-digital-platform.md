@@ -144,7 +144,7 @@ The platform supports the full cycle: from the appearance of an idea to the comp
 
 Every participant holding a passport and having signed the Declaration has one vote. The vote is not strengthened by a quantity of units of account, by standing within Cells, or by reputation. Economic weight and the right to vote are separated architecturally, not declaratively.
 
-**The right to vote cannot be restricted for a person's views, for how they voted, or as a general measure of liability** (Declaration, Article 4; Charter, Articles 17 and 37). There is one measure addressed to a person under Article 22 of the Charter - a warning, and it takes nothing away: not the vote, not access to votes themselves, not the right to submit proposals, not participation in Cells, not access to services. The other measures are addressed to a project or a Cell and do not concern the rights of a person.
+**The right to vote cannot be restricted for a person's views, for how they voted, or as a general measure of liability** (Declaration, Article 4; Charter, Articles 17 and 37). There is one measure addressed to a person under Article 22 of the Charter - a warning, and it takes nothing away: not the vote, not access to votes themselves, not the right to submit proposals, not participation in Cells, not access to services, nothing at all. The other measures are addressed to a project or a Cell and do not concern the rights of a person.
 
 The only case in which the platform executes a suspension of the vote is a decision of the Assembly under Article 22 bis of the Charter for proven undermining of the integrity of voting, for a period of no more than 6 months. The platform executes such a decision and can neither initiate it, nor apply it on any other ground, nor extend it.
 

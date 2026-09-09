@@ -92,7 +92,7 @@ The link between the data and your identity is broken, and the processing of per
 
 No. No procedure of expulsion exists under any circumstances or for any majority.
 
-**And your vote cannot be taken away for your views.** Not for how you vote, not for disagreement with decisions, and not as a general punishment for breaking rules. There is one measure addressed to a person - a warning, and it takes nothing away: not the vote, not belonging, not the right to submit proposals, not participation in Cells (the small working groups), not access to services. The other measures are addressed to a project or a Cell, not to a person.
+**And your vote cannot be taken away for your views.** Not for how you vote, not for disagreement with decisions, and not as a general punishment for breaking rules. There is one measure addressed to a person - a warning, and it takes nothing away: not the vote, not belonging, not the right to submit proposals, not participation in Cells (the small working groups), not access to services, nothing at all. The other measures are addressed to a project or a Cell, not to a person.
 
 The single exception is a proven attack on the voting mechanism itself: collusion, buying or selling a vote, coercing others, an attempt to obtain a second passport. Then the vote is suspended for up to 6 months by a decision at 75 per cent, secret, with a right of defence and appeal. Opinions are never a ground.
 

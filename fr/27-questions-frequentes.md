@@ -92,7 +92,7 @@ Le lien entre les données et l'identité est rompu, le traitement des données 
 
 Non. Il n'existe pas de procédure d'exclusion, en aucune circonstance et pour aucune majorité.
 
-**Et l'on ne peut pas vous retirer votre voix pour vos opinions.** Ni pour la manière dont vous votez, ni pour votre désaccord avec les décisions, ni comme sanction générale d'un manquement aux règles. Une seule mesure s'adresse à la personne - l'avertissement, et il ne retire rien: ni la voix, ni l'appartenance, ni le droit de faire des propositions, ni la participation aux cellules (petites équipes de travail), ni l'accès aux services. Les autres mesures s'adressent à un projet ou à une cellule, et non à une personne.
+**Et l'on ne peut pas vous retirer votre voix pour vos opinions.** Ni pour la manière dont vous votez, ni pour votre désaccord avec les décisions, ni comme sanction générale d'un manquement aux règles. Une seule mesure s'adresse à la personne - l'avertissement, et il ne retire rien: ni la voix, ni l'appartenance, ni le droit de faire des propositions, ni la participation aux cellules (petites équipes de travail), ni l'accès aux services, ni quoi que ce soit d'autre. Les autres mesures s'adressent à un projet ou à une cellule, et non à une personne.
 
 La seule exception est une attaque établie contre le mécanisme de vote lui-même: entente, achat ou vente d'une voix, contrainte exercée sur d'autres, tentative d'obtenir un second passeport. La voix est alors suspendue pour six mois au plus, par une décision à 75 pour cent, au scrutin secret, avec droit de se défendre et recours. Les opinions n'en sont jamais un motif.
 

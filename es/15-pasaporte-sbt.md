@@ -163,7 +163,7 @@ A **solicitud del propio titular** en caso de pérdida de acceso al monedero o d
 
 Nadie puede ser privado por la fuerza de la pertenencia al pueblo. No existe procedimiento de expulsión.
 
-Al aplicarse medidas por infracciones graves de las reglas comunes, el pasaporte se conserva y **el derecho de voto se conserva íntegramente**. Sobre la persona recae una sola medida, la advertencia, y no le quita ni el voto, ni el derecho a presentar propuestas, ni la participación en las células, ni el acceso a los servicios; las demás recaen sobre un proyecto o una célula y no afectan a los derechos de una persona, por el procedimiento del artículo 22 de la Carta, con derecho de defensa, voto secreto y recurso.
+Al aplicarse medidas por infracciones graves de las reglas comunes, el pasaporte se conserva y **el derecho de voto se conserva íntegramente**. Sobre la persona recae una sola medida, la advertencia, y no le quita nada, ni el voto, ni el derecho a presentar propuestas, ni la participación en las células, ni el acceso a los servicios, ni otra cosa alguna. Las demás medidas recaen sobre un proyecto o una célula y no afectan a los derechos de una persona, por el procedimiento del artículo 22 de la Carta, con derecho de defensa, voto secreto y recurso.
 
 ### Qué ocurre técnicamente
 

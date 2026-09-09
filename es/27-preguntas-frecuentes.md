@@ -92,7 +92,7 @@ El vínculo de los datos con la identidad se rompe y el tratamiento de los datos
 
 No. No existe procedimiento de expulsión en ninguna circunstancia y para ninguna mayoría.
 
-**Y el voto tampoco se puede retirar por sus opiniones.** Ni por cómo vote, ni por el desacuerdo con las decisiones, ni como castigo general por infringir las reglas. Sobre la persona recae una sola medida, la advertencia, y no le quita nada, ni el voto, ni la pertenencia, ni el derecho a presentar propuestas, ni la participación en las células (grupos pequeños de trabajo), ni el acceso a los servicios. Las demás recaen sobre un proyecto o una célula, y no sobre una persona.
+**Y el voto tampoco se puede retirar por sus opiniones.** Ni por cómo vote, ni por el desacuerdo con las decisiones, ni como castigo general por infringir las reglas. Sobre la persona recae una sola medida, la advertencia, y no le quita nada, ni el voto, ni la pertenencia, ni el derecho a presentar propuestas, ni la participación en las células (grupos pequeños de trabajo), ni el acceso a los servicios, ni otra cosa alguna. Las demás recaen sobre un proyecto o una célula, y no sobre una persona.
 
 La única excepción es un ataque probado al mecanismo mismo de la votación: concierto, compra o venta de un voto, coacción a otros, intento de obtener un segundo pasaporte. Entonces el voto se suspende hasta 6 meses por una decisión del 75 por ciento, en secreto, con derecho de defensa y recurso. Las opiniones no son fundamento nunca.
 

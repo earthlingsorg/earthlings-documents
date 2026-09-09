@@ -75,7 +75,7 @@ Innerhalb des Volkes gibt der Pass alles: eine gleiche Stimme, die Teilnahme an 
 - redlich an Abstimmungen teilzunehmen;
 - bei der Durchführung von Projekten durchsichtig zu sein und über die Verwendung gemeinsamer Mittel Rechenschaft abzulegen.
 
-Das sind Pflichten und keine Voraussetzungen für den Erhalt des Status: Ihre Verletzung zieht weder einen Ausschluss noch den Verlust der Stimme nach sich. Für grobe Verstöße sieht die Charta gegenüber einer Person nur eine Maßnahme vor - die Verwarnung, und sie entzieht nichts: weder die Stimme noch das Recht, Vorschläge einzubringen, noch die Teilnahme an Zellen, noch den Zugang zu Diensten. Die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle: Das Volk kann kein gemeinsames Geld mehr geben und die Nutzung seines Namens untersagen, und das berührt die Rechte einer Person nicht ([Charta, Artikel 22](https://earth-lings.org/documents/de/de05-charta.html)).
+Das sind Pflichten und keine Voraussetzungen für den Erhalt des Status: Ihre Verletzung zieht weder einen Ausschluss noch den Verlust der Stimme nach sich. Für grobe Verstöße sieht die Charta gegenüber einer Person nur eine Maßnahme vor - die Verwarnung, und sie entzieht nichts: weder die Stimme noch das Recht, Vorschläge einzubringen, noch die Teilnahme an Zellen, noch den Zugang zu Diensten, noch sonst irgendetwas. Die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle: Das Volk kann kein gemeinsames Geld mehr geben und die Nutzung seines Namens untersagen, und das berührt die Rechte einer Person nicht ([Charta, Artikel 22](https://earth-lings.org/documents/de/de05-charta.html)).
 
 ---
 

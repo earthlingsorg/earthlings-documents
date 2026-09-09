@@ -75,7 +75,7 @@ Dentro del pueblo el pasaporte lo da todo: voto igual, participación en las dec
 - participar de buena fe en las votaciones;
 - actuar con transparencia en la realización de los proyectos y rendir cuentas del uso de los fondos comunes.
 
-Son deberes, y no condiciones para conservar su condición de earthling: infringirlos no acarrea ni expulsión ni pérdida del voto. Por infracciones graves hay una sola medida que recae sobre la persona: la advertencia, y no le quita nada, ni el voto, ni el derecho a presentar propuestas, ni la participación en las células, ni el acceso a los servicios. Las demás recaen sobre un proyecto o una célula: el pueblo puede dejar de destinar los fondos comunes y retirar su nombre, y eso no afecta a los derechos de una persona ([Carta, artículo 22](https://earth-lings.org/documents/es/es05-carta.html)).
+Son deberes, y no condiciones para conservar su condición de earthling: infringirlos no acarrea ni expulsión ni pérdida del voto. Por infracciones graves hay una sola medida que recae sobre la persona: la advertencia, y no le quita nada, ni el voto, ni el derecho a presentar propuestas, ni la participación en las células, ni el acceso a los servicios, ni otra cosa alguna. Las demás recaen sobre un proyecto o una célula: el pueblo puede dejar de destinar los fondos comunes y retirar su nombre, y eso no afecta a los derechos de una persona ([Carta, artículo 22](https://earth-lings.org/documents/es/es05-carta.html)).
 
 ---
 
