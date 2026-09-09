@@ -101,11 +101,11 @@ The ground must be named and substantiated in the proposal for recall itself. A 
 >
 > This, and not a higher threshold, is the real protection of independence. Constitutional courts, ombudsmen, and auditors general are built this way: what protects them is not the difficulty of removal but the fact that they can be removed only for a named reason and by a procedure. A body that can be removed for an inconvenient opinion ceases to be an observer that same day, even if it formally retains its powers.
 >
-> Recall applies to an individual person. Terminating the powers of the whole membership at once is equivalent to abolishing the institution and requires amending the Charter.
+> Recall applies to an individual person. Terminating the powers of the whole Council at once is equivalent to abolishing the institution and requires amending the Charter.
 
-**Resignation.** A member of the Council is entitled to leave the body by their own decision at any time and without giving reasons.
+**Resignation.** A member of the Council is entitled to leave the Council by their own decision at any time and without giving reasons.
 
-> **A safeguard against self-reproduction.** A body that selects its own successors ceases over time to be independent of itself. The Council therefore conducts no selection of candidates, rejects no nominations, and holds no rights in the formation of its own membership beyond those held by any earthling.
+> **A safeguard against self-reproduction.** A body that selects its own successors ceases over time to be independent of itself. The Council therefore conducts no selection of candidates, rejects no nominations, and holds no rights over its own composition beyond those held by any earthling.
 
 ---
 
@@ -127,10 +127,10 @@ Compensation for time is therefore permitted. But it is framed so as not to crea
 
 - **the amount is set in advance** by decision of the Assembly and published;
 - **the amount is the same for all** members of the Council and cannot be differentiated;
-- **payment does not depend on the content of opinions** and cannot be reduced, suspended, or cancelled for the sitting membership - a change in the amount takes effect only for the next one;
+- **payment does not depend on the content of opinions** and cannot be reduced, suspended, or cancelled for the Council now sitting - a change in the amount takes effect only for the next convocation;
 - **a member of the Council is entitled to decline** the compensation in whole or in part.
 
-> Dependence is created not by payment but by **discretion**: the ability to pay more or less depending on what a person said. A fixed sum, equal for all and unchangeable for the sitting membership, gives no such lever. This does not remove the question entirely - someone who needs a full income still cannot serve on the Council.
+> Dependence is created not by payment but by **discretion**: the ability to pay more or less depending on what a person said. A fixed sum, equal for all and unchangeable for the Council now sitting, gives no such lever. This does not remove the question entirely - someone who needs a full income still cannot serve on the Council.
 
 ---
 
@@ -150,7 +150,7 @@ The Council's working groups are open to the participation of any earthling and 
 - To issue public observations and recommendations
 - To initiate public discussion of difficult subjects
 - To publish the opinions provided for by Articles 21 and 22 of the Charter
-- To recommend to the Assembly a review of the membership of the Core Nodes, the Emergency Multisig, or other service structures
+- To recommend to the Assembly a review of the composition of the Core Nodes, the Emergency Multisig, or other service structures
 - To propose candidates for membership of the Council
 
 All the rights listed are exercised in the form of a public statement. None of them creates an obligation for the Assembly, suspends any procedure, or affects voting thresholds.
@@ -168,7 +168,7 @@ All the rights listed are exercised in the form of a public statement. None of t
 
 # SECTION 07. Securing independence
 
-Independence is secured by mandatory declaration of conflicts of interest, by recusal where there is a personal interest under Article 16 of the Charter, by turnover of the membership, and by public disclosure of all opinions.
+Independence is secured by mandatory declaration of conflicts of interest, by recusal where there is a personal interest under Article 16 of the Charter, by turnover of its members, and by public disclosure of all opinions.
 
 Where an opinion concerns a member of the Council personally, or persons connected with them, that member declares this before the work begins and takes no part in preparing the opinion.
 

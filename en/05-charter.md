@@ -177,7 +177,7 @@ Recall is possible **only on one of the following grounds**, named and substanti
 
 > **Disagreement with the content of an opinion is not a ground for recall.** Neither a published position of a member of the Council, nor their dissenting opinion, nor criticism of decisions of the Assembly may serve as a reason for recall, whether directly or under the guise of another ground. An organ that can be removed for what it has said stops being independent that same day.
 >
-> Recall applies to an individual person. Terminating the powers of the entire composition at once is equivalent to abolishing the institution and requires an amendment to this Charter.
+> Recall applies to an individual person. Terminating the powers of the whole Council at once is equivalent to abolishing the institution and requires an amendment to this Charter.
 
 A member of the Council may resign by their own decision at any time, without giving reasons.
 
@@ -187,7 +187,7 @@ A member of the Council may resign by their own decision at any time, without gi
 
 - the amount is set by a decision of the Assembly in advance and is published;
 - the amount is the same for all members of the Council and cannot be differentiated;
-- payment does not depend on the content of opinions and cannot be reduced, suspended or cancelled for the sitting composition: a change in the amount takes effect only for the next composition;
+- payment does not depend on the content of opinions and cannot be reduced, suspended or cancelled for the Council now sitting: a change in the amount takes effect only for the next convocation;
 - a member of the Council may decline the compensation in whole or in part.
 
 No remuneration for holding a seat on the Council is paid beyond such compensation.
