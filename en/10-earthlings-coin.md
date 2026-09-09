@@ -93,7 +93,7 @@ The parameters of the unit are changed only by decisions of the DAO Assembly, pu
 
 - critical operations pass through a time delay after public notice, so that participants have time to react;
 - administrative rights are minimized and distributed among multisignatures whose composition the Assembly elects;
-- signatories execute decisions of the Assembly and have no powers of their own; signature thresholds and the procedure for recall are laid down by Articles 2 and 3 of the Charter;
+- signatories execute decisions of the Assembly and have no powers of their own; signature thresholds and the procedure for recall are set out in Articles 2 and 3 of the Charter;
 - a temporary suspension to protect the system is provided for - with a mandatory public report within 48 hours and confirmation by the Assembly.
 
 Requirements for disclosing information about signatories are determined by the Assembly when they are elected. Wallet addresses and declarations of conflict of interest are published in any event.

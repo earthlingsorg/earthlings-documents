@@ -53,7 +53,7 @@ No other persons or structures with technical powers over the platform exist.
 
 At the initial stage the platform uses existing artificial-intelligence models to analyse initiatives, support projects, and automate routine work. In the longer term, developing an in-house model adapted to the people's tasks is under consideration.
 
-The limits on the use of AI are set by Article 3 of the Declaration: no digital architecture can justify hidden manipulation or the suppression of human autonomy. Hence three strict rules that apply whichever model is used:
+The limits on the use of AI are set out in Article 3 of the Declaration: no digital architecture can justify hidden manipulation or the suppression of human autonomy. Hence three strict rules that apply whichever model is used:
 
 - **AI decides nothing.** Any output it produces is advisory and is not a ground for refusal.
 - **Reasons are disclosed.** A person whose initiative AI has flagged receives a statement of the reasons in intelligible form, not a refusal without explanation.

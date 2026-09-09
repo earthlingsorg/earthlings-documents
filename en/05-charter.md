@@ -586,7 +586,7 @@ The Earthlings people are not obliged to give what is common to someone who spen
 
 **Appeal.** A decision may be appealed within 30 days. The appeal is considered by the DAO Assembly. A simple majority (51%, quorum 20%) is enough to overturn the decision.
 
-> Suspension of the right to vote is not among the measures listed and cannot be. None of the grounds in this Article - neither a breach of ethical rules, nor spam, nor reputational damage - affects the right to vote. The sole ground for suspending a vote is established separately, by Article 22 bis, and does not concern a participant's conduct outside the voting mechanism.
+> Suspension of the right to vote is not among the measures listed and cannot be. None of the grounds in this Article - neither a breach of ethical rules, nor spam, nor reputational damage - affects the right to vote. The sole ground for suspending a vote is set out separately in Article 22 bis, and does not concern a participant's conduct outside the voting mechanism.
 
 ## Article 22 bis. Suspension of the Right to Vote
 
@@ -831,7 +831,7 @@ The following principles cannot be changed even by a qualified majority:
 - **Openness and transparency of decisions and finances.** All decisions of the DAO, the outcomes of votes, the financial transactions of the Fund and the actions of executive structures are public and verifiable. The personal and biometric data of participants is not public - it is protected by Article 13. Transparency extends to the actions of institutions, not to the personal data of people; the expression of will of a particular person is personal data and may be closed under Article 6
 - **Voluntariness.** Participation and departure are free; expulsion is impossible
 - **Revocability of every mandate.** A power that cannot be revoked immediately and at a threshold no higher than the threshold of its grant is not granted
-- **The threshold for amending this Charter.** The thresholds set by Article 36 cannot be lowered by a decision taken under that same Article; this is set out in Article 9 of the Declaration
+- **The threshold for amending this Charter.** The thresholds set out in Article 36 cannot be lowered by a decision taken under that same Article; this is set out in Article 9 of the Declaration
 
 > **Relation to the Declaration.** The principles listed are the operational expression of the unamendable core of the Earthlings Declaration - the life, dignity and freedom of the person, planetary solidarity, care for the planet and the absence of any power of some people over others. They cannot narrow that core and are construed only in its favour.
 

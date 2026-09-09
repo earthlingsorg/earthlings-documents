@@ -181,4 +181,4 @@ En cas de mesures prises pour manquements graves aux règles communes, le passep
 
 La Charte et le document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html) prévoient la possibilité de recevoir des subventions et des dons d'organisations extérieures, à condition que la source soit obligatoirement publiée, qu'il n'y ait pas de conditions contraires aux principes du peuple, et avec une interdiction expresse: le donateur n'obtient ni voix ni influence sur les décisions. Le montant d'un don ne donne rien.
 
-Toutes les décisions de dépense sont prises par un vote de l'Assemblée DAO et publiées; les postes de dépense et leurs parts sont fixés par l'article 9 du document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).
+Toutes les décisions de dépense sont prises par un vote de l'Assemblée DAO et publiées; les postes de dépense et leurs parts sont prévus à l'article 9 du document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).

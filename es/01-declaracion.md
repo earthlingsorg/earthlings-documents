@@ -151,7 +151,7 @@ El pueblo Earthlings no formula reivindicaciones territoriales.
 ---
 # Parte II. La estructura
 
-*La presente parte establece cómo actúa lo que la parte I proclama. Se modifica en la forma establecida por el artículo 11 y en ninguna circunstancia rebaja las garantías establecidas por la parte I.*
+*La presente parte establece cómo actúa lo que la parte I proclama. Se modifica en la forma establecida en el artículo 11 y en ninguna circunstancia rebaja las garantías establecidas por la parte I.*
 
 *El modo de aplicar lo que la presente Declaración establece lo determina la Carta. La Carta detalla, pero no deroga ni restringe ninguno de los requisitos de la Declaración ni los hace depender de condición alguna.*
 

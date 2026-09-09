@@ -172,7 +172,7 @@ Reputation is a reference note on an earthling's participation in the work of th
 
 ## Article 14. Delegation
 
-Earthlings may voluntarily transfer their vote in a particular area to another participant. The rules are laid down by Article 7 of the Charter and are reproduced here:
+Earthlings may voluntarily transfer their vote in a particular area to another participant. The rules are set out in Article 7 of the Charter and are reproduced here:
 
 - **by area only** - a subject category or a particular Cell; delegating across all questions at once is impossible;
 - **no self-delegation** and **no chains** - checked technically;

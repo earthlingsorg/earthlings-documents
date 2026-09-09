@@ -586,7 +586,7 @@ Le peuple des Earthlings n'est pas tenu de donner le bien commun à qui le dépe
 
 **Recours.** La décision peut faire l'objet d'un recours dans les 30 jours. L'appel est examiné par l'Assemblée DAO. La majorité simple (51%, quorum 20%) suffit pour annuler la décision.
 
-> La suspension du droit de vote ne figure pas parmi ces mesures et ne le peut pas. Aucun des motifs du présent article - ni le manquement aux normes éthiques, ni le spam, ni l'atteinte à la réputation - n'affecte le droit de vote. Le seul motif de suspension de la voix est établi à part, à l'article 22 bis, et ne concerne pas le comportement d'un participant en dehors du mécanisme de vote.
+> La suspension du droit de vote ne figure pas parmi ces mesures et ne le peut pas. Aucun des motifs du présent article - ni le manquement aux normes éthiques, ni le spam, ni l'atteinte à la réputation - n'affecte le droit de vote. Le seul motif de suspension de la voix est prévu à part, à l'article 22 bis, et ne concerne pas le comportement d'un participant en dehors du mécanisme de vote.
 
 ## Article 22 bis. La suspension du droit de vote
 

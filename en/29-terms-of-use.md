@@ -216,7 +216,7 @@ Everything material: amending the Charter and the rules; allocation of common fu
 
 - to vote on every question;
 - to submit proposals;
-- to transfer your vote in a particular area to another participant and **to revoke the transfer in one step**, without giving reasons and without their consent; transfer across all questions at once is impossible, chains are prohibited, and the ceiling and the list of questions with no delegation are laid down by Article 7 of the Charter;
+- to transfer your vote in a particular area to another participant and **to revoke the transfer in one step**, without giving reasons and without their consent; transfer across all questions at once is impossible, chains are prohibited, and the ceiling and the list of questions with no delegation are set out in Article 7 of the Charter;
 - to view the whole history of decisions;
 - to challenge decisions breaching the unamendable core of the Declaration.
 

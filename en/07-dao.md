@@ -76,7 +76,7 @@ Any earthling may receive delegated votes from other participants in a particula
 
 > **Delegation is not representation.** It is given by area, not for a term; it is revoked immediately, without giving reasons and without the consent of the person the vote was given to; it **creates no office** and gives the delegate no rights beyond casting the votes transferred to them. A delegate may at any time be left without a single delegated vote, and that is the mechanism working normally.
 
-The restrictions laid down by Article 7 of the [Charter](https://earth-lings.org/documents/en/en05-charter.html) and checked technically:
+The restrictions set out in Article 7 of the [Charter](https://earth-lings.org/documents/en/en05-charter.html) and checked technically:
 
 - **by area only** - a subject category or a particular Cell; a vote cannot be delegated across all questions at once;
 - **no self-delegation** - checked on every operation;

@@ -541,7 +541,7 @@ Un pasaporte puede destruirse y reemitirse de inmediato en la misma dirección o
 
 En caso de infracción de las reglas y los principios comunes, el pueblo Earthlings podrá constatarla públicamente y disponer de lo que a todos pertenece: dejar de destinar los fondos comunes y retirar el nombre del pueblo. Ninguna de las dos medidas limita los derechos de una persona.
 
-**El límite del presente artículo.** Una medida adoptada conforme al presente artículo puede referirse a los recursos comunes y no puede referirse a los derechos de una persona. Conforme al presente artículo no se limitan la pertenencia al pueblo, ni el derecho de voto, ni el derecho a participar en el debate, a presentar propuestas y a plantear cuestiones, ni el derecho a ser oído, ni el derecho a la salida libre, por fundamento alguno, por ninguna mayoría ni por plazo alguno. El pueblo Earthlings solo limita los derechos de una persona concreta en dos casos, previstos en el artículo 4 de la Declaración Earthlings: la anulación de un pasaporte expedido indebidamente (artículo 21) y la suspensión del derecho de voto por menoscabo de la integridad de la propia votación (artículo 22 bis). La enumeración es taxativa y el presente artículo no admite ampliarla.
+**El límite del presente artículo.** Una medida adoptada conforme al presente artículo puede referirse a los recursos comunes y no puede referirse a los derechos de una persona. Conforme al presente artículo no se limitan la pertenencia al pueblo, ni el derecho de voto, ni el derecho a participar en el debate, a presentar propuestas y a plantear cuestiones, ni el derecho a ser oído, ni el derecho a la salida libre, por fundamento alguno, por ninguna mayoría ni por plazo alguno. El pueblo Earthlings solo limita los derechos de una persona concreta en dos casos, establecidos en el artículo 4 de la Declaración Earthlings: la anulación de un pasaporte expedido indebidamente (artículo 21) y la suspensión del derecho de voto por menoscabo de la integridad de la propia votación (artículo 22 bis). La enumeración es taxativa y el presente artículo no admite ampliarla.
 
 ### La medida que recae sobre la persona: la advertencia
 
@@ -586,7 +586,7 @@ El pueblo Earthlings no está obligado a destinar los recursos comunes a quien l
 
 **Recurso.** La decisión puede recurrirse en el plazo de 30 días. La apelación la examina la Asamblea DAO. Para anular la decisión basta la mayoría simple (51%, quórum 20%).
 
-> Entre las medidas enumeradas no figura la suspensión del derecho de voto, ni puede figurar. Ninguno de los fundamentos del presente artículo - ni la infracción de las normas éticas, ni el spam, ni el daño reputacional - afecta al derecho de voto. El único fundamento de suspensión del voto está establecido aparte, en el artículo 22 bis, y no se refiere a la conducta del participante fuera del mecanismo de votación.
+> Entre las medidas enumeradas no figura la suspensión del derecho de voto, ni puede figurar. Ninguno de los fundamentos del presente artículo - ni la infracción de las normas éticas, ni el spam, ni el daño reputacional - afecta al derecho de voto. El único fundamento de suspensión del voto se establece aparte, en el artículo 22 bis, y no se refiere a la conducta del participante fuera del mecanismo de votación.
 
 ## Artículo 22 bis. Suspensión del derecho de voto
 
