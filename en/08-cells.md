@@ -292,7 +292,7 @@ The DAO intervenes in the affairs of a Cell only on the grounds expressly listed
 
 No other grounds exist. Decisions are taken by a qualified majority after an independent investigation, not by individual people.
 
-> **Sanctions against a Cell do not affect its participants as Earthlings.** Dissolving a Cell entails neither expulsion from the people, which is impossible in principle, nor a restriction of the right to vote: a conflict in a working team is no ground for that, whatever the outcome. A measure under Article 22 of the Charter may concern common resources and must not concern the rights of a person; the procedure for applying it carries a right of defence, a secret ballot, and appeal.
+> **Sanctions against a Cell do not affect its participants as Earthlings.** Dissolving a Cell entails neither expulsion from the people, which is impossible in principle, nor a restriction of the right to vote: a conflict in a working team is no ground for that, whatever the outcome. A measure under Article 22 of the Charter may concern common resources and cannot concern the rights of a person; the procedure for applying it carries a right of defence, a secret ballot, and appeal.
 
 ## Leaving a Cell and belonging to the people
 

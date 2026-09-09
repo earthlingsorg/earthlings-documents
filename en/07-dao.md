@@ -232,7 +232,7 @@ Every Cell is autonomous, but uses the DAO as common infrastructure for bringing
 
 The autonomy of Cells and the common architecture are in a relation of complementarity, not subordination: Cells are independent in the substance of their activity, while the DAO secures consistency in decisions affecting the whole people.
 
-Sanctions against a Cell provided for by Article 25 of the Charter do not entail restrictions on the rights of its participants as Earthlings: a measure under Article 22 may concern common resources and must not concern the rights of a person.
+Sanctions against a Cell provided for by Article 25 of the Charter do not entail restrictions on the rights of its participants as Earthlings: a measure under Article 22 may concern common resources and cannot concern the rights of a person.
 
 ---
 
