@@ -223,7 +223,7 @@ Les moyens techniques ne sont employés que là où, sans eux, il est impossible
 
 **L'unicité de l'appartenance.** À une seule personne vivante correspond une et une seule appartenance au peuple, et cela est attesté sans que son identité soit divulguée.
 
-**L'inaliénabilité de la voix.** Le droit de participer appartient à la personne elle-même et ne peut être ni acheté, ni vendu, ni approprié, ni transmis de façon irrévocable.
+**L'inaliénabilité du droit de participer.** Le droit de participer appartient à la personne elle-même et ne peut être ni acheté, ni vendu, ni approprié, ni transmis de façon irrévocable.
 
 **La vérifiabilité des décisions.** Chacun peut s'assurer des résultats des votes, indépendamment de son appartenance au peuple des Earthlings. La certitude est établie par des données ouvertes, et non par la confiance envers un administrateur. La vérification est aménagée de manière à ne divulguer ni information sur les earthlings, ni contenu de leurs votes.
 

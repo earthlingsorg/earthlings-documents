@@ -223,7 +223,7 @@ Los medios técnicos se emplean solo allí donde sin ellos es imposible cumplir 
 
 **Unicidad de la pertenencia.** A una sola persona viva le corresponde una y solo una pertenencia al pueblo, y ello se confirma sin revelar su identidad.
 
-**Inalienabilidad del voto.** El derecho a participar corresponde a la persona misma y no puede comprarse, venderse, apropiarse ni cederse de manera irrevocable.
+**Inalienabilidad del derecho a participar.** El derecho a participar corresponde a la persona misma y no puede comprarse, venderse, apropiarse ni cederse de manera irrevocable.
 
 **Verificabilidad de las decisiones.** Cualquiera puede cerciorarse de los resultados de las votaciones, con independencia de su pertenencia al pueblo Earthlings. La fiabilidad se confirma con datos abiertos y no con la confianza en un administrador. La verificación se dispone de modo que no revele ni datos sobre los earthlings ni el contenido de sus votos.
 

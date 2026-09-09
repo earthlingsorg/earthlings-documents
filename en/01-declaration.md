@@ -223,7 +223,7 @@ Technology is used only where the three conditions named in Article 2 cannot be 
 
 **Uniqueness of Belonging.** Each living person has one, and only one, belonging to the people, and this is confirmed without disclosing their identity.
 
-**Inalienability of the Vote.** The right to participate belongs to the person themselves and cannot be bought, sold, appropriated or transferred irrevocably.
+**Inalienability of the Right to Participate.** The right to participate belongs to the person themselves and cannot be bought, sold, appropriated or transferred irrevocably.
 
 **Verifiability of Decisions.** Anyone can satisfy themselves as to the results of votes, whether or not they belong to the Earthlings people. Reliability is confirmed by open data, not by trust in an administrator. Verification is arranged so that it discloses neither information about earthlings nor the content of their votes.
 

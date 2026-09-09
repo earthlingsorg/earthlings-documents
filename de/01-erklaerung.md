@@ -223,7 +223,7 @@ Technische Mittel werden nur dort eingesetzt, wo sich ohne sie die drei in Artik
 
 **Die Einmaligkeit der Zugehörigkeit.** Einem lebenden Menschen entspricht eine und nur eine Zugehörigkeit zum Volk, und das wird nachgewiesen, ohne seine Identität offenzulegen.
 
-**Die Unveräußerlichkeit der Stimme.** Das Recht auf Teilnahme steht dem Menschen selbst zu und kann weder gekauft noch verkauft noch angeeignet noch unwiderruflich übertragen werden.
+**Die Unveräußerlichkeit des Rechts auf Teilnahme.** Das Recht auf Teilnahme steht dem Menschen selbst zu und kann weder gekauft noch verkauft noch angeeignet noch unwiderruflich übertragen werden.
 
 **Die Überprüfbarkeit der Beschlüsse.** Von den Ergebnissen der Abstimmungen kann sich jeder überzeugen, unabhängig von der Zugehörigkeit zum Volk der Earthlings. Die Verlässlichkeit wird durch offene Daten bestätigt und nicht durch Vertrauen in einen Verwalter. Die Überprüfung wird so eingerichtet, dass sie weder Angaben über die Earthlings noch den Inhalt ihrer Stimmen offenlegt.
 

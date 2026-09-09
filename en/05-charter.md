@@ -104,7 +104,7 @@ Core Nodes are technical coordinators. They keep the platform and the technical 
 - **Recall: simple majority (51%, quorum 20%), at any time, without giving reasons**
 - Reporting: monthly, public
 
-> **Symmetry of thresholds.** Removing someone from a mandate cannot be harder than appointing them to it. The threshold for recalling Core Nodes and the Emergency Multisig equals the threshold for their election. The reverse asymmetry would protect the holder of an office from the people, rather than the people from a concentration of power.
+> **Symmetry of thresholds.** Removing someone from a mandate cannot be harder than appointing them to it. The threshold for recalling Core Nodes and the Emergency Multisig is no higher than the threshold for their election, and at present equals it. The reverse asymmetry would protect the holder of an office from the people, rather than the people from a concentration of power.
 
 ## Article 3. The Emergency Multisig (Rapid Response)
 

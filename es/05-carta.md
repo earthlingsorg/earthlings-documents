@@ -104,7 +104,7 @@ Los Core Nodes son coordinadores técnicos. Aseguran el funcionamiento de la pla
 - **Revocación: mayoría simple (51%, quórum 20%), en cualquier momento, sin explicar los motivos**
 - Rendición de cuentas: mensual y pública
 
-> **Simetría de los umbrales.** Retirar un encargo no puede ser más difícil que otorgarlo. El umbral de revocación de los Core Nodes y del Emergency Multisig es igual al de su elección. La asimetría inversa protegería a quien ocupa el cargo frente al pueblo, y no al pueblo frente a la concentración del poder.
+> **Simetría de los umbrales.** Retirar un encargo no puede ser más difícil que otorgarlo. El umbral de revocación de los Core Nodes y del Emergency Multisig no es superior al de su elección y actualmente es igual a él. La asimetría inversa protegería a quien ocupa el cargo frente al pueblo, y no al pueblo frente a la concentración del poder.
 
 ## Artículo 3. Emergency Multisig (respuesta operativa)
 

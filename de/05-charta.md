@@ -104,7 +104,7 @@ Core Nodes sind technische Koordinatoren. Sie sichern den Betrieb der Plattform 
 - **Widerruf: einfache Mehrheit (51 %, Quorum 20 %), jederzeit, ohne Angabe von Gründen**
 - Rechenschaft: monatlich, öffentlich
 
-> **Die Symmetrie der Schwellen.** Jemanden von einem Auftrag zu entbinden darf nicht schwerer sein, als ihn dazu zu bestellen. Die Schwelle für den Widerruf von Core Nodes und Emergency Multisig ist gleich der Schwelle ihrer Wahl. Die umgekehrte Asymmetrie schützte den Amtsinhaber vor dem Volk und nicht das Volk vor der Anhäufung von Macht.
+> **Die Symmetrie der Schwellen.** Jemanden von einem Auftrag zu entbinden darf nicht schwerer sein, als ihn dazu zu bestellen. Die Schwelle für den Widerruf von Core Nodes und Emergency Multisig ist nicht höher als die Schwelle ihrer Wahl und ihr derzeit gleich. Die umgekehrte Asymmetrie schützte den Amtsinhaber vor dem Volk und nicht das Volk vor der Anhäufung von Macht.
 
 ## Artikel 3. Emergency Multisig (die schnelle Reaktion)
 

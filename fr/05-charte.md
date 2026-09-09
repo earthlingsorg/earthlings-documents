@@ -104,7 +104,7 @@ Les Core Nodes sont des coordinateurs techniques. Ils assurent le fonctionnement
 - **Révocation: majorité simple (51%, quorum 20%), à tout moment, sans avoir à s'expliquer**
 - Reddition de comptes: mensuelle et publique
 
-> **Symétrie des seuils.** Retirer une mission ne peut pas être plus difficile que la confier. Le seuil de révocation des Core Nodes et de l'Emergency Multisig est égal au seuil de leur élection. L'asymétrie inverse protégerait celui qui occupe une place contre le peuple, et non le peuple contre la concentration du pouvoir.
+> **Symétrie des seuils.** Retirer une mission ne peut pas être plus difficile que la confier. Le seuil de révocation des Core Nodes et de l'Emergency Multisig n'excède pas le seuil de leur élection et lui est aujourd'hui égal. L'asymétrie inverse protégerait celui qui occupe une place contre le peuple, et non le peuple contre la concentration du pouvoir.
 
 ## Article 3. Emergency Multisig (réaction opérationnelle)
 
