@@ -15,7 +15,7 @@ The Earthlings digital platform is the core in which four levels of the people c
 - **projects and Cells** - initiating, forming, coordinating, carrying out, and recording results;
 - **the economy of participation** - the unit of account, the common fund, reward for contribution.
 
-The platform is not a social network or one more blockchain system. It is the instrument through which the Earthlings people can exist: with infrastructure that is transparent and at the same time protective of the person.
+The platform is not a social network or one more blockchain system. It is the instrument through which the Earthlings people can exist: with infrastructure that is transparent and at the same time protective of every person.
 
 The main task is to make participation practical, safe, and honest: from the first signing of the Declaration to the delivery of complex international projects.
 
@@ -257,7 +257,7 @@ Particular technologies - blockchains, databases, languages, frameworks - may ch
 - **recovery** - backup copying, a recovery plan for critical failures, protocols for action when keys are compromised;
 - **auditability** - the possibility of external technical and legal audit of key components.
 
-The platform is not tied forever to a single technology stack. Through any migration the principles are preserved: non-transferable identity, an equal inalienable vote, verifiability of processes, and protection of the person.
+The platform is not tied forever to a single technology stack. Through any migration the principles are preserved: non-transferable identity, an equal inalienable vote, verifiability of processes, and protection of every person.
 
 > **The ability to exist without an operator.** The registry of passports is kept on a distributed network, not on the platform's servers. This means that the composition of the people does not depend on who operates the platform today, and is preserved through a change of operator, through a migration of infrastructure, and through a re-founding recognized by the Roadmap as a legitimate continuation.
 

@@ -64,7 +64,7 @@ Rule by the people within the Earthlings people rests on three conditions, and n
 
 ## Article 3. The Values of the People
 
-**Life.** Life and care for the person are the highest value within the Earthlings people. No aim, no decision of a majority, no emergency and no other circumstance justifies disregard for human life. This care extends to life in all its forms. The Earthlings people establishes no beliefs about the beginning, the end or the boundaries of life, and does not settle these questions on anyone's behalf.
+**Life.** Life and care for every person are the highest value within the Earthlings people. No aim, no decision of a majority, no emergency and no other circumstance justifies disregard for human life. This care extends to life in all its forms. The Earthlings people establishes no beliefs about the beginning, the end or the boundaries of life, and does not settle these questions on anyone's behalf.
 
 **Freedom.** Freedom, as the Earthlings people understands it, is the absence of domination and of the supremacy of one person or group of people over others: no one can hold power over another person, whether by money, by merit or by position.
 
@@ -76,15 +76,15 @@ Rule by the people within the Earthlings people rests on three conditions, and n
 
 **Care for the Planet.** The preservation of the environment, of biological diversity and of the stability of ecosystems is a duty of the present generation towards those to come. No human activity justifies destroying the conditions for the existence of life.
 
-**Transparency.** Institutions are transparent; the person is not. No verification procedure may require disclosure of how a person voted, what they believe, or what convictions they hold.
+**Transparency.** Institutions are transparent; a person is not. No verification procedure may require disclosure of how a person voted, what they believe, or what convictions they hold.
 
 **No Power of Some Over Others.** No one in the Earthlings people holds a position from which to command another person. Powers within the Earthlings people are at all times limited, distributed, revocable and verifiable. A mandate to carry out any function does not become an office. No position places a person, an institution or a group above the collective will of the people.
 
-**Technology.** Any technology serves the person and serves life. No technology may be used to manipulate people covertly, to limit their freedom, to create distinctions of caste or hierarchy, to subordinate people by digital means, or to suppress human autonomy. No algorithm, code or artificial-intelligence system may be the final source of a decision affecting the rights, the dignity or the position of a person. Every person has the right to protection of the privacy of their data. The requirements for infrastructure that secure these rights are set out in Article 10.
+**Technology.** Any technology serves every person and serves life. No technology may be used to manipulate people covertly, to limit their freedom, to create distinctions of caste or hierarchy, to subordinate people by digital means, or to suppress human autonomy. No algorithm, code or artificial-intelligence system may be the final source of a decision affecting the rights, the dignity or the position of a person. Every person has the right to protection of the privacy of their data. The requirements for infrastructure that secure these rights are set out in Article 10.
 
 ## Article 4. Guarantees to the Person
 
-The unamendable core exists to protect the person from the power of the Earthlings people itself. Neither a majority, nor the Assembly, nor any institution of the people has power to go beyond the limits it sets.
+The unamendable core exists to protect every person from the power of the Earthlings people itself. Neither a majority, nor the Assembly, nor any institution of the people has power to go beyond the limits it sets.
 
 What is listed here belongs to every earthling from the moment of signing this Declaration. These guarantees cannot be abolished, narrowed or made conditional on anything.
 
@@ -169,11 +169,11 @@ There is no decision on admission to the people: the people considers no applica
 
 **The Contribution.** On joining, a contribution is paid that covers identity verification, the issuance of the passport and the upkeep of the infrastructure. The contribution is not a condition of belonging: it buys no belonging and creates no advantage of any kind. Being unable to pay the contribution oneself does not bar entry to the people: another person may pay it on one's behalf, or it may be paid out of the common treasury.
 
-**There Are No Insurmountable Requirements.** No requirement for joining or for participation may be one that a person cannot satisfy for reasons beyond their control. Lack of documents, lack of access to communications, state of health, remoteness of residence and other such circumstances bar neither entry to the people nor participation in its decisions. Inability to satisfy a requirement is not held against the person and is not a ground for refusing confirmation of identity.
+**There Are No Insurmountable Requirements.** No requirement for joining or for participation may be one that a person cannot satisfy for reasons beyond their control. Lack of documents, lack of access to communications, state of health, remoteness of residence and other such circumstances bar neither entry to the people nor participation in its decisions. Inability to satisfy a requirement is not held against any person and is not a ground for refusing confirmation of identity.
 
 **What the People Does Not Require.** The Earthlings people requires of an earthling neither service nor agreement with the decisions of the majority. It expects two things: that one living person stands behind the signature, and that an earthling acknowledges for every other person the freedom they claim for themselves.
 
-**Belonging Adds, It Does Not Replace.** Belonging to the Earthlings people is added to what a person already has. It does not require a person to give up any other belonging, and it does not affect the person's rights and duties towards their state.
+**Belonging Adds, It Does Not Replace.** Belonging to the Earthlings people is added to what a person already has. It does not require a person to give up any other belonging, and it does not affect their rights and duties towards their state.
 
 **Equality of earthlings.** From the moment a person signs the Declaration, they are equal to every other earthling. Neither the date of signing, nor participation in constituting the people, nor length of participation, nor the size of voluntary donations, nor any mandate held creates any advantage, privilege or special position. No language, region or culture holds any advantage within the people. The manner of construing divergences between the texts of this Declaration is set out in Article 11 and creates no advantage for the speakers of any language.
 
@@ -181,7 +181,7 @@ There is no class of founders in the Earthlings people.
 
 **Private Life.** The Earthlings people does not interfere in a person's private life. Faith, worldview, political views, participation in other communities and way of life are not a condition of belonging to the people.
 
-**Annulment of Passport Issuance.** The issuance of a passport is annulled in three cases, and the list of them is exhaustive. In none of them does annulment end the person's belonging to the people:
+**Annulment of Passport Issuance.** The issuance of a passport is annulled in three cases, and the list of them is exhaustive. In none of them does annulment end any person's belonging to the people:
 
 1. more than one valid passport has been issued to one person - in that case the issuance of all passports but the first is annulled;
 2. identity verification was obtained using false information or another person's identity;
@@ -256,7 +256,7 @@ This Declaration is the founding document of the Earthlings people and holds the
 
 None of these principles can be abolished, narrowed, suspended or circumvented - whether by a decision of the majority, by the Earthlings Charter, by interpretation, or by a change of the technical basis. They are not suspended under any circumstances - not in a crisis, not under a state of emergency, not under external pressure, not under technical attack.
 
-The wording in which these principles are set out may change. A change of wording is permissible only if two conditions are both satisfied: it neither abolishes nor narrows any of the principles, and it lowers no guarantee to the person. Where there is doubt whether a change lowers a guarantee, it is deemed to lower it and is not adopted.
+The wording in which these principles are set out may change. A change of wording is permissible only if two conditions are both satisfied: it neither abolishes nor narrows any of the principles, and it lowers no guarantee to any person. Where there is doubt whether a change lowers a guarantee, it is deemed to lower it and is not adopted.
 
 A new principle may be added to the core. An existing one may not be weakened or removed.
 
@@ -266,7 +266,7 @@ A decision that contradicts Part I is void from the moment it is taken. Neither 
 
 **What Is Amendable.** Part II of this Declaration may be changed, supplemented or shortened by a decision of the Assembly taken by not less than two thirds of the votes cast, subject to a quorum set by the Earthlings Charter, which quorum cannot be lower than the ratio of votes cast to the number of confirmed people recorded in Article 12.
 
-A change cannot lower any guarantee to the person set out in this Declaration. A change adopted in breach of these conditions is void from the moment it is taken.
+A change cannot lower any guarantee to a person set out in this Declaration. A change adopted in breach of these conditions is void from the moment it is taken.
 
 Every edition of this Declaration is published in such a way that earlier editions and all differences between them remain available to any person. Replacing the text without preserving the previous one is not a change of the Declaration.
 
@@ -288,7 +288,7 @@ Neither possession of the infrastructure, nor ownership of the code, nor control
 
 **Languages and Interpretation.** The term "people" is used in this Declaration in the sense that international law gives to the holder of the right to self-determination: the Charter of the United Nations, Article 1(2), and common Article 1 of the 1966 Covenants. Translations of this Declaration reproduce that sense. For languages in which authentic texts of the instruments named exist, the term is taken from those texts. For the remaining languages the term is taken from the official translation of the International Covenant on Civil and Political Rights, and, where there is none, a term conveying the sense stated is used, with an explanation on first use.
 
-This Declaration is adopted in Russian and in English. Both texts are authentic. Where they diverge, the interpretation that gives the person the higher protection prevails. If that comparison does not resolve the divergence, the meaning of the Russian text prevails. Translations into the remaining languages are official.
+This Declaration is adopted in Russian and in English. Both texts are authentic. Where they diverge, the interpretation that gives every person the higher protection prevails. If that comparison does not resolve the divergence, the meaning of the Russian text prevails. Translations into the remaining languages are official.
 
 ## Article 12. Adoption of the Declaration
 

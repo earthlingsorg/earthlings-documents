@@ -527,7 +527,7 @@ If more than one valid passport has been issued to one person, the issuance of a
 - Vote: **sanction majority of 75% at a quorum of 25%, secret, without delegation**
 - Appeal within 30 days; a simple majority (51%, quorum 20%) is enough to overturn the decision
 
-An appeal goes to the Assembly. The guarantees owed to the person in such proceedings are set out in the Declaration; the Charter does not repeat them and cannot lower them.
+An appeal goes to the Assembly. The guarantees owed to every person in such proceedings are set out in the Declaration; the Charter does not repeat them and cannot lower them.
 
 Annulment is not expulsion from the people and is not applied as a measure of liability for conduct. It establishes only that the issuance did not lawfully take place. A person whose passport has been annulled has the right to undergo verification again on the same terms as anyone else, once the impediment to lawful issuance has been removed.
 
@@ -833,7 +833,7 @@ The following principles cannot be changed even by a qualified majority:
 - **Revocability of every mandate.** A power that cannot be revoked immediately and at a threshold no higher than the threshold of its grant is not granted
 - **The threshold for amending this Charter.** The thresholds set out in Article 36 cannot be lowered by a decision taken under that same Article; this is set out in Article 9 of the Declaration
 
-> **Relation to the Declaration.** The principles listed are the operational expression of the unamendable core of the Earthlings Declaration - the life, dignity and freedom of the person, planetary solidarity, care for the planet and the absence of any power of some people over others. They cannot narrow that core and are construed only in its favour.
+> **Relation to the Declaration.** The principles listed are the operational expression of the unamendable core of the Earthlings Declaration - the life, dignity and freedom of every person, planetary solidarity, care for the planet and the absence of any power of some people over others. They cannot narrow that core and are construed only in its favour.
 
 ---
 
@@ -851,7 +851,7 @@ This Charter enters into force upon its publication on the website of the Earthl
 
 A contradiction of the Charter with the Declaration, once discovered, is removed by bringing the Charter into conformity with the Declaration, and not the other way round.
 
-**Division of subject matter.** The Declaration sets out principles, the guarantees to the person, and the limits of the people. The principles of its unamendable core are never abolished; the wording of those principles and its other provisions are changed only by the Assembly, under Article 11 of the Declaration and only in such a way that no guarantee to the person becomes weaker. The Charter sets out mechanisms, thresholds, time limits and procedures; it is amended under Article 36. Numerical values, technical means and organizational detail are not carried over into the Declaration.
+**Division of subject matter.** The Declaration sets out principles, the guarantees to every person, and the limits of the people. The principles of its unamendable core are never abolished; the wording of those principles and its other provisions are changed only by the Assembly, under Article 11 of the Declaration and only in such a way that no guarantee to any person becomes weaker. The Charter sets out mechanisms, thresholds, time limits and procedures; it is amended under Article 36. Numerical values, technical means and organizational detail are not carried over into the Declaration.
 
 ## Article 39. The Structure-Formation Stage
 

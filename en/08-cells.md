@@ -101,7 +101,7 @@ An objection based on personal preference - "I don't like it", "I would have don
 
 If a reasoned objection is raised, the Cell is obliged to examine it: to take it into account, to remove it by amendment, or to refute it with argument.
 
-- objections on the grounds of **breach of principles or coercion** are binding: the decision cannot be taken until they are removed. This protects the person and the foundations of the people, and it is not overcome by a vote;
+- objections on the grounds of **breach of principles or coercion** are binding: the decision cannot be taken until they are removed. This protects every person and the foundations of the people, and it is not overcome by a vote;
 - objections on the grounds of **harm or unworkability** start a round of resolution; if after a good-faith attempt they are not removed, the question is decided by an ordinary vote of the Cell, and the risk raised is placed on record;
 - a dispute not resolved within the Cell passes to the procedure described in section 10.
 

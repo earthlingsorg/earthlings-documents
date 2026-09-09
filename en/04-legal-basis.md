@@ -477,7 +477,7 @@ The self-determination of the Earthlings people is exercised by means that publi
 
 **Addition instead of replacement** - belonging to the people is added to what a person already has, and does not affect their citizenship, their tax obligations, or their jurisdiction. Where applicable laws conflict, the mandatory norms of the relevant national jurisdiction prevail.
 
-No object of collision arises here, and not because the people has given something up under pressure, but because a claim and a guarantee are here of different natures. The renunciation of violence in Article 5 of the Declaration is an obligation of the people towards itself and towards the person, not a concession to states: it would hold even in the absence of any dispute about territorial integrity.
+No object of collision arises here, and not because the people has given something up under pressure, but because a claim and a guarantee are here of different natures. The renunciation of violence in Article 5 of the Declaration is an obligation of the people towards itself and towards every person, not a concession to states: it would hold even in the absence of any dispute about territorial integrity.
 
 ---
 

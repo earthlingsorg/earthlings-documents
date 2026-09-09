@@ -32,7 +32,7 @@ This is how we want Earthlings to be created: not for people, but **by people th
 
 **Current state.** The infrastructure of the Earthlings people is built and working: identity verification, the passport, the registry, voting, the public treasury. What has not been adopted is the founding text.
 
-From 22 October 2026 to 20 January 2027 the whole corpus is open to proposals - the Declaration, the Charter, and the other twenty-three documents. Any person may submit proposals. On 17 February 2027 the text is approved by a vote of those who have confirmed their identity. From that day the five principles of the unamendable core are never repealed, and the rest of the text is changed only by the people itself and only in the direction of greater protection of the person.
+From 22 October 2026 to 20 January 2027 the whole corpus is open to proposals - the Declaration, the Charter, and the other twenty-three documents. Any person may submit proposals. On 17 February 2027 the text is approved by a vote of those who have confirmed their identity. From that day the five principles of the unamendable core are never repealed, and the rest of the text is changed only by the people itself and only in the direction of greater protection of every person.
 
 ## 01. Why we do it this way
 
@@ -50,7 +50,7 @@ The founding document. Adopted by a vote on 17 February 2027.
 
 The wording is open in its entirety. The composition of the unamendable core is open too - proposals to add to it are considered on the same footing as the rest if they pass the test in section 04. The only proposals not considered are those to repeal or limit the principles of the core themselves; refining their wording may be proposed.
 
-After adoption the principles of the core are never repealed, and the other provisions the people changes itself - by two thirds of the votes and only so that no guarantee to the person becomes weaker.
+After adoption the principles of the core are never repealed, and the other provisions the people changes itself - by two thirds of the votes and only so that no guarantee to any person becomes weaker.
 
 ### The Charter
 
@@ -101,13 +101,13 @@ Five provisions are not up for discussion under any circumstances. A people from
 
 All five are written into Articles 3, 4, and 5 of the Declaration, listed in Article 11, and constitute the unamendable core. Proposals aimed at repealing or limiting these principles are not considered. Proposals to refine the wording and to add to the core are considered on the same footing as all the others.
 
-What is unamendable are the principles themselves, not the letter in which they are written. The wording may be refined if the refinement does not narrow the principle and lowers no guarantee to the person; where there is doubt it is deemed to lower it and is not accepted. The rest of the text of the Declaration the people is entitled to change, add to, and shorten - by two thirds of the votes and only so that no guarantee becomes weaker.
+What is unamendable are the principles themselves, not the letter in which they are written. The wording may be refined if the refinement does not narrow the principle and lowers no guarantee to any person; where there is doubt it is deemed to lower it and is not accepted. The rest of the text of the Declaration the people is entitled to change, add to, and shorten - by two thirds of the votes and only so that no guarantee becomes weaker.
 
 ## 04. A test for the unamendable core
 
 A principle that has entered the unamendable core can never be repealed. A proposal is therefore included in the core only if it meets all four conditions at once:
 
-1. it protects the person from the power of the people itself, rather than describing what the people does;
+1. it protects every person from the power of the people itself, rather than describing what the people does;
 2. it is formulated as a prohibition, not as a task;
 3. it is verifiable: it can be established whether it has been breached or not;
 4. it remains true even if we were wrong in our assessment of circumstances.
@@ -185,7 +185,7 @@ A proposal **on translation** points out that a translation conveys the meaning 
 
 Which kind a proposal belongs to is determined by its content, not by how it is labelled. If a proposal on translation reveals an ambiguity in the master text itself, it is also considered as a proposal on the merits.
 
-**Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where they diverge the interpretation giving the person the higher protection prevails, and if that does not resolve the divergence, the meaning of the Russian text prevails.
+**Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where they diverge the interpretation giving every person the higher protection prevails, and if that does not resolve the divergence, the meaning of the Russian text prevails.
 
 **Readiness of the translations.** The corpus in all nine languages is brought into line with the Russian master texts before proposals open on 22 October 2026. The final editions put to the vote are published in Russian and English on 3 February 2027, and the translations into the other seven languages by the same date. If any translation is not ready by that day, this is stated plainly, naming the language and the reason; we will not pass off an unfinished translation as a finished one.
 

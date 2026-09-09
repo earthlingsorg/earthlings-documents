@@ -72,7 +72,7 @@ What is set out in this section is what the people aims at. It creates no duties
 
 **Respect for the person.** Everyone has the right to their own opinion, faith, choices, and way of life. Discrimination, humiliation, and persecution are inadmissible in the Earthlings people.
 
-**Criticism of ideas is separated from one's attitude to the person.** Discussion on the merits does not turn personal.
+**Criticism of ideas is separated from one's attitude to every person.** Discussion on the merits does not turn personal.
 
 **Honesty.** Everyone is entitled to ask questions and to receive clear answers. Using the people for manipulation or personal gain at the expense of the common good is inadmissible.
 

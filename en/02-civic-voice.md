@@ -20,7 +20,7 @@ The section stands first deliberately: it defines what this document is within t
 
 **It explains and it supposes.** All the other documents of the corpus describe what is, or establish what ought to be. This one also speaks of what does not yet exist: of rungs, not one of which has been climbed as of today, and of possibilities, not one of which is promised. Section 20 lists nine ways in which all of this may fail to come about, and section 21 states what has been built and what does not yet exist.
 
-**Binding force belongs to the Declaration and the Charter.** Where this document diverges from either of them, they prevail. A divergence discovered is removed by correcting this document, not the Declaration and not the Charter. The interpretation of this document can neither lower a guarantee to the person nor extend the powers of the people or of any of its institutions.
+**Binding force belongs to the Declaration and the Charter.** Where this document diverges from either of them, they prevail. A divergence discovered is removed by correcting this document, not the Declaration and not the Charter. The interpretation of this document can neither lower a guarantee to any person nor extend the powers of the people or of any of its institutions.
 
 **It may be rewritten or withdrawn in its entirety, and nothing will change as a result.** If in ten or twenty years not one of the rungs described here turns out to have been climbed, this document is to be reworked or withdrawn - and the Declaration, the Charter, the registry, the order of voting and the belonging of people to one another will remain exactly the same. This property is not accidental and is preserved deliberately: a text that predicts must carry nothing that would collapse together with the prediction that failed.
 
@@ -50,7 +50,7 @@ How serious this is can be seen from a single case. In the mandatory public comm
 
 Not one more way of speaking out, but **an order in which confirmed people answer a question once each, and in which the count can be rechecked by anyone at all** - including the person the result does not suit.
 
-The caveat without which this sounds dangerous: **the instrument is a procedure, not people.** It is not the person who is measured; the person answers or does not answer, of their own will. What we call the instrument is the order in which answers are collected and verified: the question, the deadline, the registry, the signature, the publication.
+The caveat without which this sounds dangerous: **the instrument is a procedure, not people.** It is not a person who is measured; every person answers or does not answer, of their own will. What we call the instrument is the order in which answers are collected and verified: the question, the deadline, the registry, the signature, the publication.
 
 ### How it works
 
@@ -58,7 +58,7 @@ A holder of a non-transferable passport takes part - a person who has been throu
 
 The question is not composed by those who run the operational management of the people. It is published in advance and goes through an adversarial stage, where it is attacked by the party whom the expected answer does not suit. Once voting has opened the question is not corrected: a defect discovered means the measurement is cancelled, not corrected on the fly.
 
-Questions come in two streams. Internal ones - what the treasury is spent on, which projects to support, how the rules change: here the consequence follows at once and for certain. And planetary ones - those that no state resolves on its own; they are put at the point where the consequence falls on the person, and not where institutions negotiate about it.
+Questions come in two streams. Internal ones - what the treasury is spent on, which projects to support, how the rules change: here the consequence follows at once and for certain. And planetary ones - those that no state resolves on its own; they are put at the point where the consequence falls on every person, and not where institutions negotiate about it.
 
 So that scale does not turn into shallowness, two layers work: a panel selected by lot spends several weeks getting to grips with the question and formulates the options, and the whole people votes on what has been prepared.
 
@@ -100,7 +100,7 @@ Section 21 states what of what is described has already been built and what has 
 
 ### And where to go next
 
-This document establishes nothing. The rights of the person, the guarantees to them and the limits of the power of the people itself are written in the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): it is the text of the corpus holding the highest force, and the only one put to a vote. **If one document is to be read out of the whole corpus, it must be that one.**
+This document establishes nothing. The rights of every person, the guarantees to them and the limits of the power of the people itself are written in the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): it is the text of the corpus holding the highest force, and the only one put to a vote. **If one document is to be read out of the whole corpus, it must be that one.**
 
 What follows here is the same thing in detail: what proves each assertion, how each procedure works, and what we do not guarantee.
 
@@ -217,7 +217,7 @@ From this comes the formula that is perhaps the only thing in the whole document
 
 Anyone can be heard today. No one can be counted.
 
-And at once the caveat without which this word is dangerous. **The instrument is a procedure, not people.** It is not the person who is measured: the person answers or does not answer, of their own will, and the answer belongs to them. What we call the instrument is the order by which answers are collected and verified - the question, the deadline, the registry, the signature, the publication. The people is an instrument for no one, itself included: an instrument is what it builds, not what it is. Anything else would contradict Article 3 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), where the dignity of the person is called inviolable, and the person is called not a means.
+And at once the caveat without which this word is dangerous. **The instrument is a procedure, not people.** It is not a person who is measured: every person answers or does not answer, of their own will, and the answer belongs to them. What we call the instrument is the order by which answers are collected and verified - the question, the deadline, the registry, the signature, the publication. The people is an instrument for no one, itself included: an instrument is what it builds, not what it is. Anything else would contradict Article 3 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), where the dignity of every person is called inviolable, and every person is called not a means.
 
 ## 5. Five properties of a tool that cannot be ignored
 
@@ -320,7 +320,7 @@ The order for forming a question is therefore bound to meet five requirements:
 2. **Publication in advance.** The question is published before voting begins, with a stated period during which it can be challenged.
 3. **An adversarial stage.** The wording passes through the objections of the party whom the expected answer does not suit. The objections and the replies to them are published together with the question - as the IPCC does with its reviews.
 4. **No change after the start.** From the moment voting opens the question is not edited. A defect of wording discovered means the measurement is cancelled and a new one held, not corrected on the fly.
-5. **A connection with the participant's life.** The question is put where the consequence falls on the person, and not where institutions negotiate about it. This requirement is not about courtesy to the reader: it determines whether a measurement takes place at all, and it is explained separately below.
+5. **A connection with the participant's life.** The question is put where the consequence falls on every person, and not where institutions negotiate about it. This requirement is not about courtesy to the reader: it determines whether a measurement takes place at all, and it is explained separately below.
 
 The subject matter of a question is limited by the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) from two sides. Article 3 draws the circle: the people speaks about what affects everyone. Article 5 sets the exception: the internal life of a particular state is not a subject of the people's decisions, that being a matter for its citizens.
 
@@ -330,7 +330,7 @@ The boundary itself is closed; the list of questions is not. Falling under it ar
 
 This is the answer to the most likely cause of failure - low turnout, of which section 20 speaks separately. It is cured not by reminders and not by appeals, but by the question. **If the questions do not touch the real life, interests and difficulties of people, the sense of voting disappears entirely: there is no point in asking, and no point in answering.**
 
-There is a genuine contradiction here, and we name it rather than go round it. The boundary selects planetary questions - those that affect everyone. And the planetary sounds far from the person: between "agreeing a rate of tax on transnational profit" and the cares of a particular day the distance seems unbridgeable.
+There is a genuine contradiction here, and we name it rather than go round it. The boundary selects planetary questions - those that affect everyone. And the planetary sounds far from every person: between "agreeing a rate of tax on transnational profit" and the cares of a particular day the distance seems unbridgeable.
 
 It seems so. A planetary question **always lands somewhere** - otherwise it would not be planetary: what affects everyone affects each person. So the question has to be put at the point of landing, not at the point of negotiation. Compare:
 
@@ -344,7 +344,7 @@ On the right and on the left is one and the same question. The wording on the ri
 
 **And immediately the boundary, because from this technique it is one step to disaster.** Wording for the sake of a response is the door next to wording for the sake of the answer wanted, and the latter is already directly forbidden by requirement 3. We draw the distinction thus: **a wording is admissible if it names where the consequence falls, and inadmissible if it prompts how to feel about the consequence.** "Whether a company should be able to pay tax nowhere" names. "Is it fair that corporations profit off you without paying taxes" prompts. Both touch life; the second is not a measurement. The adversarial stage exists among other things to sift such wordings out, and the objection "the question is worded for the sake of the answer wanted" is considered on the same footing as the rest.
 
-The second boundary is Article 5. The questions closest to a person are almost always questions of domestic politics, and that is exactly why they are closed. A suitable question lies at the intersection of two conditions: **it touches the life of the person and at the same time has no national address.** That intersection is not empty: the taxation of transnational profit, the rules for the systems people speak with every day, the fate of data about a person, the price of medicines, resilience to pandemics, who pays for damage to the planet. Each of these has a point of landing in the life of any person, and there is not a single parliament that would resolve it entirely.
+The second boundary is Article 5. The questions closest to a person are almost always questions of domestic politics, and that is exactly why they are closed. A suitable question lies at the intersection of two conditions: **it touches the life of every person and at the same time has no national address.** That intersection is not empty: the taxation of transnational profit, the rules for the systems people speak with every day, the fate of data about a person, the price of medicines, resilience to pandemics, who pays for damage to the planet. Each of these has a point of landing in the life of any person, and there is not a single parliament that would resolve it entirely.
 
 ### Two streams of questions, and both are needed
 
@@ -615,7 +615,7 @@ So the question has to be put more precisely. Not "what would become harder with
 
 For a service the denominator is "registered users". This is not a natural quantity: it is set by where the service advertised itself, where it is available, whom it let in and whom it did not. "Sixty per cent of our users think so" is a fact about marketing, not about the world. And the main thing: **the operator can move the denominator**, recruiting some and not recruiting others. This is not a flaw of execution, it is the nature of a user base.
 
-Hence: membership is needed - a boundary drawn by the act of the person, not by the act of the operator.
+Hence: membership is needed - a boundary drawn by a person's own act, not by the act of the operator.
 
 *A people is not needed yet. An association has membership too.*
 
@@ -780,7 +780,7 @@ We put it third, but by significance it is first.
 
 **Why this is the most dangerous of all.** A measurement with low turnout is **worse than no measurement at all**: it adds no proof but undermines what has already been accumulated.
 
-**Where it is actually cured.** Not in reminders and not in appeals - **in the question.** A person answers when the question touches their life and when something depends on the answer. Hence the two requirements set out in section 8: a planetary question is put at the point where the consequence falls on the person, and not where institutions negotiate about it; and no period consists of planetary questions alone - alongside them there always run questions of the internal life of the people, whose consequence arrives at once and for certain.
+**Where it is actually cured.** Not in reminders and not in appeals - **in the question.** A person answers when the question touches their life and when something depends on the answer. Hence the two requirements set out in section 8: a planetary question is put at the point where the consequence falls on every person, and not where institutions negotiate about it; and no period consists of planetary questions alone - alongside them there always run questions of the internal life of the people, whose consequence arrives at once and for certain.
 
 Let us say the reverse too, because it is of the same order: **if the questions cease to touch the real life, interests and difficulties of people, the sense of voting will disappear entirely** - and low turnout will be the participants' correct answer, not their fault.
 
@@ -788,7 +788,7 @@ Let us say the reverse too, because it is of the same order: **if the questions 
 
 **What follows from this for ourselves.** **The share of those who answer is the chief vital indicator of the project, more important than the number of participants.** A people of ten million with a turnout of forty per cent weighs incomparably more than a people of a hundred million with a turnout of four per cent. We say this in advance, so that one indicator cannot later be substituted for the other.
 
-**What we do not guarantee.** That a suitable question will always be found. The boundary is narrow deliberately, and questions that are at once planetary and close to the person are fewer than one would like. We shall not widen it for the sake of turnout: a people that has started asking about anything and everything in order to be listened to better has ceased to be what it was created for.
+**What we do not guarantee.** That a suitable question will always be found. The boundary is narrow deliberately, and questions that are at once planetary and close to every person are fewer than one would like. We shall not widen it for the sake of turnout: a people that has started asking about anything and everything in order to be listened to better has ceased to be what it was created for.
 
 ### 4. Shallowness
 

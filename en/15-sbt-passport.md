@@ -143,7 +143,7 @@ The Charter (Article 21) establishes **two and only two** exceptions, and this l
 
 It applies where it is established that a passport was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using falsified data or another person's identity.
 
-**This is not a measure of liability and not expulsion from the people.** What is established is only that the issuance never lawfully took place. No automatic reissue follows: if the obstacle to lawful issuance is removed, the person is entitled to undergo verification again on general terms.
+**This is not a measure of liability and not expulsion from the people.** What is established is only that the issuance never lawfully took place. No automatic reissue follows: if the obstacle to lawful issuance is removed, a person is entitled to undergo verification again on general terms.
 
 **The procedure** is a decision of the Assembly, not an act of the operator:
 
