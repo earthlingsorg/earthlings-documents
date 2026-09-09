@@ -22,7 +22,7 @@ Cada voto es igual, cada decisión es transparente, cada acto es verificable.
 
 **Ética = orientación.** El Consejo Independiente formula recomendaciones, pero no gobierna.
 
-**Todo encargo es revocable.** Una facultad que no pueda revocarse de inmediato y con un umbral inferior no se otorga en el pueblo Earthlings. Ningún encargo constituye un cargo ni confiere el derecho exclusivo de actuar. La falta de rendición de cuentas es por sí sola motivo de revocación del encargo.
+**Todo encargo es revocable.** Una facultad que no pueda revocarse de inmediato y con un umbral no superior al de su otorgamiento no se otorga en el pueblo Earthlings. Ningún encargo constituye un cargo ni confiere el derecho exclusivo de actuar. La falta de rendición de cuentas es por sí sola motivo de revocación del encargo.
 
 ---
 

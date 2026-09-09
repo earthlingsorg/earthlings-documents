@@ -22,7 +22,7 @@ Chaque voix est égale, chaque décision est transparente, chaque acte est véri
 
 **Éthique = repère.** Le Conseil indépendant formulera des recommandations, sans gouverner.
 
-**Toute mission est révocable.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil inférieur n'est pas confié dans le peuple des Earthlings. Aucune mission ne crée de fonction ni ne donne le droit exclusif d'agir. Le défaut de compte rendu est en lui-même un motif de révocation de la mission.
+**Toute mission est révocable.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil qui n'excède pas celui de son octroi n'est pas confié dans le peuple des Earthlings. Aucune mission ne crée de fonction ni ne donne le droit exclusif d'agir. Le défaut de compte rendu est en lui-même un motif de révocation de la mission.
 
 ---
 

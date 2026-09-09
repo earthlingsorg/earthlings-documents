@@ -221,7 +221,7 @@ Die Technik ist im Volk der Earthlings nur ein Mittel. Sie schafft das Volk nich
 
 Technische Mittel werden nur dort eingesetzt, wo sich ohne sie die drei in Artikel 2 genannten Voraussetzungen nicht erfüllen lassen.
 
-**Die Einmaligkeit der Teilnahme.** Einem lebenden Menschen entspricht eine und nur eine Zugehörigkeit zum Volk, und das wird nachgewiesen, ohne seine Identität offenzulegen.
+**Die Einmaligkeit der Zugehörigkeit.** Einem lebenden Menschen entspricht eine und nur eine Zugehörigkeit zum Volk, und das wird nachgewiesen, ohne seine Identität offenzulegen.
 
 **Die Unveräußerlichkeit der Stimme.** Das Recht auf Teilnahme steht dem Menschen selbst zu und kann weder gekauft noch verkauft noch angeeignet noch unwiderruflich übertragen werden.
 

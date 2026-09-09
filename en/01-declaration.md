@@ -221,7 +221,7 @@ Technology within the Earthlings people is a means and only a means. It does not
 
 Technology is used only where the three conditions named in Article 2 cannot be satisfied without it.
 
-**Uniqueness of Participation.** Each living person has one, and only one, belonging to the people, and this is confirmed without disclosing their identity.
+**Uniqueness of Belonging.** Each living person has one, and only one, belonging to the people, and this is confirmed without disclosing their identity.
 
 **Inalienability of the Vote.** The right to participate belongs to the person themselves and cannot be bought, sold, appropriated or transferred irrevocably.
 

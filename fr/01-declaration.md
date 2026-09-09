@@ -221,7 +221,7 @@ La technologie, dans le peuple des Earthlings, n'est qu'un moyen. Elle ne crée 
 
 Les moyens techniques ne sont employés que là où, sans eux, il est impossible de remplir les trois conditions énoncées à l'article 2.
 
-**L'unicité de la participation.** À une seule personne vivante correspond une et une seule appartenance au peuple, et cela est attesté sans que son identité soit divulguée.
+**L'unicité de l'appartenance.** À une seule personne vivante correspond une et une seule appartenance au peuple, et cela est attesté sans que son identité soit divulguée.
 
 **L'inaliénabilité de la voix.** Le droit de participer appartient à la personne elle-même et ne peut être ni acheté, ni vendu, ni approprié, ni transmis de façon irrévocable.
 

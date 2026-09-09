@@ -22,7 +22,7 @@ Jede Stimme ist gleich, jeder Beschluss ist durchsichtig, jede Handlung überpr�
 
 **Ethik = Richtschnur.** Der Unabhängige Rat gibt Empfehlungen, verwaltet aber nicht.
 
-**Jeder Auftrag ist widerruflich.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle widerrufen lässt, wird im Volk der Earthlings nicht erteilt. Kein Auftrag begründet ein Amt und gibt kein ausschließliches Recht zu handeln. Das Ausbleiben der Rechenschaft ist für sich genommen ein Grund, den Auftrag zu widerrufen.
+**Jeder Auftrag ist widerruflich.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle als der ihrer Erteilung widerrufen lässt, wird im Volk der Earthlings nicht erteilt. Kein Auftrag begründet ein Amt und gibt kein ausschließliches Recht zu handeln. Das Ausbleiben der Rechenschaft ist für sich genommen ein Grund, den Auftrag zu widerrufen.
 
 ---
 

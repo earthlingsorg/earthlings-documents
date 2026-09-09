@@ -221,7 +221,7 @@ La tecnología en el pueblo Earthlings es solo un medio. No crea el pueblo, no e
 
 Los medios técnicos se emplean solo allí donde sin ellos es imposible cumplir las tres condiciones enunciadas en el artículo 2.
 
-**Unicidad de la participación.** A una sola persona viva le corresponde una y solo una pertenencia al pueblo, y ello se confirma sin revelar su identidad.
+**Unicidad de la pertenencia.** A una sola persona viva le corresponde una y solo una pertenencia al pueblo, y ello se confirma sin revelar su identidad.
 
 **Inalienabilidad del voto.** El derecho a participar corresponde a la persona misma y no puede comprarse, venderse, apropiarse ni cederse de manera irrevocable.
 

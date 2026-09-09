@@ -22,7 +22,7 @@ Every vote is equal, every decision is transparent, every action is verifiable.
 
 **Ethics = a reference point.** The Independent Council makes recommendations but does not govern.
 
-**Every mandate is revocable.** No power is granted in the Earthlings people that cannot be revoked immediately and by a lower threshold. No mandate constitutes an office and none confers an exclusive right to act. Failure to submit a report is in itself a ground for revoking the mandate.
+**Every mandate is revocable.** No power is granted in the Earthlings people that cannot be revoked immediately and at a threshold no higher than the threshold of its grant. No mandate constitutes an office and none confers an exclusive right to act. Failure to submit a report is in itself a ground for revoking the mandate.
 
 ---
 
