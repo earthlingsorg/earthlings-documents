@@ -4,9 +4,9 @@
 
 > This document unfolds one provision of the Declaration. Article 6 states that the Earthlings people forms a verifiable collective position of its earthlings and conveys it to states and international organizations, and that the force of that position is determined not by the powers of the people but by the free participation of persons, the transparency of the procedures, and the ability to verify the result.
 >
-> What that means in practice is explained here: why a civic voice can be left unheard today without being rejected on the merits; what exactly we are building instead; why this required constituting a people rather than building a single tool; by what rungs such a voice gains weight; and how the whole thing may end badly.
+> What that means in practice is explained here: why a civic voice can be left unheard today without being rejected on the merits; what exactly we are building instead; why this required constituting a people rather than building a single tool; by what rungs such a voice gains weight; and how all of this may end badly.
 >
-> The document follows four rules. Every possibility has its mechanism named, not only its outcome. Every mechanism has its condition named. Alongside the possibilities stands what may go wrong - in the same measure. And it is stated separately what of all this has already been built and what does not yet exist.
+> The document follows four rules. For every possibility the mechanism is named, not only the outcome. For every mechanism the condition is named. Alongside the possibilities stands what may go wrong - in equal measure. And it is stated separately which of all this has already been built and which does not yet exist.
 >
 > **Nothing written here is a promise.** The people exists because people constituted it, not because possibilities lie ahead.
 
@@ -14,19 +14,19 @@
 
 ## The Status of This Document
 
-The section stands first deliberately: it defines what this document is within the corpus, and what it is not under any circumstances.
+This section stands first deliberately: it defines what this document is within the corpus, and what it is not under any circumstances.
 
 **This document establishes nothing.** It creates no rights and imposes no duties, confers no powers and limits none, permits nothing and forbids nothing. Nothing enforceable follows from it. No provision of any other document of the corpus rests on it or can rest on it.
 
-**It explains and it supposes.** All the other documents of the corpus describe what is, or establish what ought to be. This one also speaks of what does not yet exist: of rungs, not one of which has been climbed as of today, and of possibilities, not one of which is promised. Section 20 lists nine ways in which all of this may fail to come about, and section 21 states what has been built and what does not yet exist.
+**It explains and it supposes.** All the other documents of the corpus describe what is, or establish what ought to be. This one also speaks of what does not yet exist: of rungs, not one of which has been climbed to date, and of possibilities, not one of which is promised. Section 20 lists nine ways in which all of this may fail to come about, and section 21 states what has been built and what does not yet exist.
 
-**Binding force belongs to the Declaration and the Charter.** Where this document diverges from either of them, they prevail. A divergence discovered is removed by correcting this document, not the Declaration and not the Charter. The interpretation of this document can neither lower a guarantee to any person nor extend the powers of the people or of any of its institutions.
+**Binding force belongs to the Declaration and the Charter.** Where this document diverges from either of them, they prevail. Any divergence discovered is removed by correcting this document, not the Declaration and not the Charter. The interpretation of this document can neither lower a guarantee to any person nor extend the powers of the people or of any of its institutions.
 
-**It may be rewritten or withdrawn in its entirety, and nothing will change as a result.** If in ten or twenty years not one of the rungs described here turns out to have been climbed, this document is to be reworked or withdrawn - and the Declaration, the Charter, the registry, the order of voting and the belonging of people to one another will remain exactly the same. This property is not accidental and is preserved deliberately: a text that predicts must carry nothing that would collapse together with the prediction that failed.
+**It may be rewritten or withdrawn in its entirety, and nothing will change as a result.** If in ten or twenty years it turns out that not one of the rungs described here has been climbed, this document is to be reworked or withdrawn - and the Declaration, the Charter, the registry, the order of voting and the belonging of people to one another will remain exactly the same. This property is not accidental and is preserved deliberately: a text that predicts must carry nothing that would collapse along with the failed prediction.
 
 **It stands second in reading order, not in force.** It should be read straight after the Declaration, because it explains what the rest is written for. In legal force within the corpus it stands below every document that establishes anything - and that is the right place for it.
 
-**Proposals to it are accepted on the same footing as all others.** The procedure is in the document [The Founding Period](https://earth-lings.org/documents/en/en20-the-founding-period.html). Joining, identity verification and agreement with what is set out here are not required in order to submit a proposal.
+**Proposals concerning it are accepted on the same footing as all others.** The procedure is in the document [The Founding Period](https://earth-lings.org/documents/en/en20-the-founding-period.html). Joining, identity verification and agreement with what is set out here are not required in order to submit a proposal.
 
 ---
 
@@ -40,35 +40,35 @@ This section answers in full. It can be read and the document closed: what follo
 
 ### What is broken
 
-There are more ways to speak out today than at any time in history. What is short is not the channel but the proof.
+There are more ways to speak out today than at any time in history. What is missing is not the channel but the proof.
 
-Signatures under a petition can be drawn. A poll can be commissioned. Comments can be manufactured by machine in any quantity. That is why any utterance of society is rejected **without argument on the merits**: it is enough to doubt that living people stand behind it. The addressee is not rejecting the opinion - they are doubting the proof, and doubt looks like caution rather than contempt.
+Signatures on a petition can be faked. A poll can be commissioned. Comments can be manufactured by machine in any quantity. That is why any statement by society is rejected **without argument on the merits**: it is enough to doubt that living people stand behind it. The addressee is not rejecting the opinion - they are doubting the proof, and doubt looks like caution rather than contempt.
 
-How serious this is can be seen from a single case. In the mandatory public comment procedure conducted by the US Federal Communications Commission in 2017, out of more than twenty-two million comments almost eighteen million turned out to be fake - as established by an investigation of the New York State Attorney General. It was not the fakes that lost their value. All twenty-two million lost it, the genuine ones included.
+How serious this is can be seen from a single case. In the mandatory public comment procedure conducted by the US Federal Communications Commission in 2017, out of more than twenty-two million comments almost eighteen million turned out to be fake - as the investigation by the New York State Attorney General established. It was not the fakes that lost their value. All twenty-two million lost it, the genuine ones included.
 
 ### What we are building
 
 Not one more way of speaking out, but **an order in which confirmed people answer a question once each, and in which the count can be rechecked by anyone at all** - including the person the result does not suit.
 
-The caveat without which this sounds dangerous: **the instrument is a procedure, not people.** It is not a person who is measured; every person answers or does not answer, of their own will. What we call the instrument is the order in which answers are collected and verified: the question, the deadline, the registry, the signature, the publication.
+The caveat without which this sounds dangerous: **the instrument is a procedure, not people.** It is not a person who is measured; every person answers or does not answer, of their own free will. What we call the instrument is the order in which answers are collected and verified: the question, the deadline, the registry, the signature, the publication.
 
 ### How it works
 
-A holder of a non-transferable passport takes part - a person who has been through identity verification. Verifying uniqueness does not require disclosing identity: it is known that one living person stands behind the record, and it is not known who they are.
+A holder of a non-transferable passport takes part - a person who has completed identity verification. Verifying uniqueness does not require disclosing identity: it is known that one living person stands behind the record, and it is not known who they are.
 
-The question is not composed by those who run the operational management of the people. It is published in advance and goes through an adversarial stage, where it is attacked by the party whom the expected answer does not suit. Once voting has opened the question is not corrected: a defect discovered means the measurement is cancelled, not corrected on the fly.
+The question is not composed by those who run the operational management of the people. It is published in advance and goes through an adversarial stage, where it is attacked by the party whom the expected answer does not suit. Once voting has opened the question is not corrected: any defect discovered means the measurement is cancelled, not corrected on the fly.
 
-Questions come in two streams. Internal ones - what the treasury is spent on, which projects to support, how the rules change: here the consequence follows at once and for certain. And planetary ones - those that no state resolves on its own; they are put at the point where the consequence falls on every person, and not where institutions negotiate about it.
+Questions come in two streams. Internal ones - what the treasury is spent on, which projects to support, how the rules change: here the consequence follows at once and without fail. And planetary ones - those that no state resolves on its own; they are put at the point where the consequence falls on every person, and not where institutions negotiate about it.
 
-So that scale does not turn into shallowness, two layers work: a panel selected by lot spends several weeks getting to grips with the question and formulates the options, and the whole people votes on what has been prepared.
+So that scale does not turn into shallowness, two layers are at work: a panel selected by lot spends several weeks working through the question and formulates the options, and the whole people votes on what has been prepared.
 
 Together with the result there is published everything by which it is checked: the verbatim wording of the question, the deadlines, the objections submitted, the number of those entitled to vote, **the share of those who voted** and the way to recount the result yourself, without trusting us.
 
 ### Where the people comes into this
 
-The people is not added to the instrument from outside. It comes out from within.
+The people is not added to the instrument from outside. It arises from within.
 
-A measurement needs a defined composition - otherwise it is not known what the share is a share of. The operator must not be able to change that composition - which means the participants have rights against the operator, and that is a founding text, not a user agreement. The instrument must not be purchasable - which means it has no owner, and the participants own it. It must be fit for all sides - which means it belongs to no state. And, publishing the result, it says "we", and not "so many users of a service".
+A measurement needs a defined composition - otherwise it is not known what the share is a share of. The operator must not be able to change that composition - which means the participants have rights against the operator, and that is a founding text, not a user agreement. The instrument must not be purchasable - which means it has no owner, and the participants own it. It must be fit for use by all sides - which means it belongs to no state. And when it publishes the result it says "we", and not "so many users of a service".
 
 A body with those properties is what we propose to regard as a people. This is our position, not a generally recognized legal test.
 
@@ -80,7 +80,7 @@ The decisive threshold is not one of size. It comes on the day when the opposing
 
 ### What it does not do
 
-Not power: decisions are binding only within the people. It replaces neither citizenship, nor elections, nor laws. Not a party: the people puts forward no candidates and takes no part in the internal politics of states - at any size. It does not compel.
+Not power: decisions are binding only within the people. It replaces neither citizenship, nor elections, nor laws. Not a party: the people puts forward no candidates and takes no part in the internal politics of states - whatever its size. It does not compel.
 
 And a sober point. Even full recognition of the people as a subject of international law would give no ability to change the law of any country: no subject possesses such an ability with respect to another.
 
@@ -94,13 +94,13 @@ At tens of millions - a counted position of the confirmed people of the planet o
 
 ### What may fail
 
-Much. Section 20 lists nine ways, and the chief of them is low turnout: a measurement in which three per cent answered is **worse than no measurement at all**, because it undermines what has already been accumulated. That is why the chief vital indicator is named as the share of those who answer, and not the size of the people, and it is published always.
+Much. Section 20 lists nine ways, and the chief of them is low turnout: a measurement in which three per cent answered is **worse than no measurement at all**, because it undermines what has already been accumulated. That is why the chief vital indicator is named as the share of those who answer, and not the size of the people, and it is always published.
 
-Section 21 states what of what is described has already been built and what has not. Not one substantive measurement has been conducted so far.
+Section 21 states which of what is described has already been built and which has not. Not one substantive measurement has been conducted so far.
 
 ### And where to go next
 
-This document establishes nothing. The rights of every person, the guarantees to them and the limits of the power of the people itself are written in the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): it is the text of the corpus holding the highest force, and the only one put to a vote. **If one document is to be read out of the whole corpus, it must be that one.**
+This document establishes nothing. The rights of every person, the guarantees to them and the limits of the power of the people itself are written in the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): it is the text that holds the highest force in the corpus, and the only one that is put to a vote. **If out of the whole corpus one document is to be read, it must be that one.**
 
 What follows here is the same thing in detail: what proves each assertion, how each procedure works, and what we do not guarantee.
 
@@ -112,38 +112,38 @@ This section sets out the same thing as the rest of the document and is not a se
 
 ## 1. Many channels, no count
 
-It is customary to say that people have no way of being heard. That is inaccurate, and the inaccuracy gets in the way of seeing the real problem.
+It is commonly said that people have no way of being heard. That is inaccurate, and the inaccuracy gets in the way of seeing the real problem.
 
-There are more ways to pass an opinion upwards today than at any time in history. A petition is gathered in an evening. A letter to a representative goes off in a minute. Public hearings are open. In most countries a procedure for public comment on draft acts is in force. Social networks carry anything at all to anyone at all. Polling companies measure moods weekly. A rally remains lawful almost everywhere.
+There are more ways to pass an opinion upwards today than at any time in history. A petition is gathered in an evening. A letter to a representative takes a minute to send. Public hearings are open. Most countries have a procedure for public comment on draft acts. Social networks carry anything at all to anyone at all. Polling companies measure the public mood weekly. A rally remains lawful almost everywhere.
 
-There is a surplus of channels. What is short is not the channel.
+There is a surplus of channels. What is missing is not the channel.
 
-What is short is **the proof**. Everything that travels through those channels breaks against one and the same question, and that question is legitimate:
+What is missing is **the proof**. Everything that travels through those channels breaks against one and the same question, and that question is legitimate:
 
 - "A million signatures" - how many of them were put there by living people? How many people signed twice? How many signatures were sold, generated, or put there in someone else's name?
 - "The poll showed 70 per cent" - who was asked, how many of them were there, how did the question read word for word, who commissioned and paid for the poll?
 - "Two million comments came in" - from people?
-- "A hundred thousand people came out" - who counted them, and on whose behalf did they come out besides their own?
+- "A hundred thousand people turned out" - who counted them, and on whose behalf did they turn out besides their own?
 
 Note how this objection is built. It **does not argue on the merits**. It does not say "you are wrong". It says "it is not known whether you exist". And that is enough to make no reply without losing face: the addressee has not rejected the opinion of people, they have doubted the proof, and doubt looks like caution rather than contempt.
 
-That is why a civic voice can be ignored. Not because those in power are wicked, but because **the count is broken**, and broken in earnest.
+That is why a civic voice can be ignored. Not because those in power are evil, but because **the count is broken**, and truly broken.
 
-How much in earnest is shown by a case worth knowing in full.
+How truly it is broken is shown by a case worth knowing in full.
 
 In 2017 the US Federal Communications Commission was conducting the mandatory public comment procedure on repealing the net neutrality rules. That procedure is not decorative: it is built into the American Administrative Procedure Act, and the agency is obliged to consider the objections received. More than twenty-two million comments came in - an unheard-of number, a triumph of civic participation, one might think.
 
-The investigation by the New York State Attorney General, published on 6 May 2021, established: **almost eighteen million of them were fake.** A large part were submitted in the names of real people without their knowledge, using their genuine names and addresses.
+The investigation by the New York State Attorney General, published on 6 May 2021, established: **almost eighteen million of them were fake.** A large proportion of them were submitted in the names of real people without their knowledge, using their genuine names and addresses.
 
-Both sides of the dispute forged, and that matters more than the numbers themselves. The industry association of communications providers spent 4.2 million dollars and obtained more than 8.5 million fake comments in favour of repeal. From the opposite side, one nineteen-year-old submitted more than 7.7 million comments in favour of keeping the rules. Half a million fake letters went to Congress on top of that.
+Both sides of the dispute forged comments, and that matters more than the numbers themselves. The trade association of communications providers spent 4.2 million dollars and obtained more than 8.5 million fake comments in favour of repeal. On the other side, one nineteen-year-old submitted more than 7.7 million comments in favour of keeping the rules. Half a million fake letters went to Congress on top of that.
 
-Stay with those two numbers. The industry campaign cost millions of dollars - and one person with ordinary programming skill did almost as much for nothing. That was the price of forgery then. It has only fallen since.
+Stay with those two numbers. The industry campaign cost millions of dollars - and one person with ordinary programming skills did almost as much for nothing. That was the price of forgery then. It has only fallen since.
 
-The upshot of this story is heavier than it looks at first glance. It was not the eighteen million fake comments that lost their value. **All twenty-two million** lost it, the four million genuine ones included. After a case like that, any agency in any country obtains a legitimate ground for not believing public input at all - and it has that ground now for good.
+The upshot of this story is heavier than it looks at first glance. It was not the eighteen million fake comments that lost their value. **All twenty-two million** lost it, the four million genuine ones included. After a case like that, any agency in any country gains a legitimate ground for not believing public input at all - and it has that ground now for good.
 
-It will get worse from here, for a reason that depends on no one's ill will. Producing plausible human text in any quantity has become cheap and will become cheaper still. Telling what a person wrote from what a machine wrote, by the text itself, will soon be impossible in principle. The only thing that will remain distinguishable is **not the text but its source**: whether a living, single, willingly speaking person is confirmed behind the utterance.
+It will get worse from here, for a reason that depends on no one's ill will. Producing plausible human text in any quantity has become cheap and will become cheaper still. Telling what a person wrote from what a machine wrote, by the text itself, will soon be impossible in principle. The only thing that will remain distinguishable is **not the text but its source**: whether a single living person, speaking of their own will, is confirmed behind the utterance.
 
-That is exactly what the Earthlings people is able to do. How, is explained below.
+That is exactly what the Earthlings people is able to do. How it does so is explained below.
 
 ## 2. Five faults
 
@@ -153,15 +153,15 @@ Saying "politics has degraded" is easy but useless: it is unclear what to repair
 
 Elections compress the whole variety of a person's views into a single choice once every few years.
 
-Imagine a voter who agrees with party A on health care, with party B on taxes, with no one on foreign policy, and who holds a sharp opinion on a question that appears in no programme at all. What can he express with his vote? One of two or three ready-made combinations, each of which suits him a third of the way.
+Imagine a voter who agrees with party A on health care, with party B on taxes, with no one on foreign policy, and who holds a strong opinion on a question that appears in no programme at all. What can they express with their vote? One of two or three ready-made combinations, each of which suits them a third of the way.
 
-The consequence matters more than it seems. The position of society on a **particular** question, in this system, is not merely measured badly - it **has no representation at all**. There is nowhere to take it from. Referendums are rare, expensive, and in most countries are held by decision of those in power, not by decision of people.
+The consequence matters more than it seems. The position of society on a **particular** question, in this system, is not merely measured badly - it **has no representation at all**. There is nowhere to get it from. Referendums are rare, expensive, and in most countries are held by decision of those in power, not by decision of people.
 
 ### The second fault: the horizon
 
 Decisions whose consequences will arrive in thirty years are taken by people whose horizon is bounded by the next election. This is not a defect of character but the design of the incentives: a politician who sacrifices today's well-being for a result a generation away will not survive in office to see that result.
 
-The injured side - those who do not yet vote and those who are not yet born - has no representation in any political system in the world. Their interest by construction has no bearer.
+The injured party - those who do not yet vote and those who are not yet born - has no representation in any political system in the world. Their interest by construction has no bearer.
 
 ### The third fault: territory
 
@@ -177,19 +177,19 @@ This is what was discussed above. Telling genuine public input from manufactured
 
 This fault is the deepest and the least known, although it was described long ago - by the economist Mancur Olson in his 1965 work "The Logic of Collective Action".
 
-It comes to this. Take a decision that brings twenty companies a hundred million each and costs twenty million citizens a hundred dollars each. The companies' total gain is two billion. The citizens' total loss is two billion. The forces are equal, one might think.
+It comes to this. Take a decision that brings twenty companies a hundred million each and costs twenty million citizens a hundred roubles each. The companies' total gain is two billion. The citizens' total loss is two billion. The forces are equal, one might think.
 
-They are not equal. Twenty companies find it easy to organize: there are few of them, each knows the others, each has a hundred million at stake, and the outlay on defending the interest pays back hundreds of times over. Twenty million citizens find it impossible to organize: they do not know one another, each has a hundred dollars at stake, and spending even an hour of one's own time defending those hundred dollars is unprofitable for each separately, though profitable for all together.
+They are not equal. Twenty companies find it easy to organize: there are few of them, each knows the others, each has a hundred million at stake, and the outlay on defending the interest pays back hundreds of times over. Twenty million citizens find it impossible to organize: they do not know one another, each has a hundred roubles at stake, and spending even an hour of one's own time defending those hundred roubles is unprofitable for each separately, though profitable for all together.
 
 That is why **a concentrated interest defeats a dispersed one almost always** - regardless of who is right, regardless of the honesty of politicians, and regardless of the form of government. This is not a flaw of democracy but the arithmetic of organization, and it works the same way under any regime.
 
-From this comes an important conclusion: **a dispersed majority loses not because it is few or because it is wrong, but because gathering is expensive for it.** Anything that radically cheapens gathering changes the outcome.
+From this comes an important conclusion: **a dispersed majority loses not because it is small or because it is wrong, but because gathering is expensive for it.** Anything that makes gathering radically cheaper changes the outcome.
 
 ## 3. It is the design, not a conspiracy
 
 Not one of the five faults was created by ill intent.
 
-Representation was invented when there was no other way: millions of people physically could not discuss common matters and take decisions without intermediaries, and there was no way of counting their votes honestly. Choosing those who would decide for us was the only way out, and everything was built on it - from the local council to the United Nations.
+Representation was invented when there was no other way: millions of people could not physically discuss common matters and take decisions without intermediaries, and there was no way of counting their votes honestly. Choosing those who would decide for us was the only way out, and everything was built on it - from the local council to the United Nations.
 
 That worked, and achieved a great deal. One thing it did not do: it gave people no way of expressing a common will themselves.
 
@@ -209,7 +209,7 @@ From Part I follows a simple thing worth saying plainly, because it sets everyth
 
 **We are not building one more way of speaking out. We are building a measuring instrument.**
 
-The difference is fundamental. A channel delivers a message; there are dozens of them today, and one more will change nothing. An instrument establishes a fact: so many confirmed unique people answered thus and so to such and such a question, and this can be rechecked.
+The difference is fundamental. A channel delivers a message; there are dozens of them today, and one more will change nothing. An instrument establishes a fact: so many confirmed unique people gave such and such an answer to such and such a question, and this can be rechecked.
 
 From this comes the formula that is perhaps the only thing in the whole document worth remembering:
 
@@ -221,9 +221,9 @@ And at once the caveat without which this word is dangerous. **The instrument is
 
 ## 5. Five properties of a tool that cannot be ignored
 
-The task of "making it impossible not to notice us" has been solved in the world many times, and the solutions are known. From an examination of the successful and unsuccessful cases (they are examined in Part III) five properties follow. A tool that has all five is expensive to ignore; a tool that is short of even one is ignored for free.
+The task of "making it impossible not to notice us" has been solved in the world many times, and the solutions are known. From an examination of the successful and unsuccessful cases (they are examined in Part III) five properties follow. A tool that has all five is expensive to ignore; a tool missing even one is ignored for free.
 
-**Property one. It produces what is needed and what is not obtainable anywhere else.** Not an "important opinion" but data or a procedure whose absence stops someone from working.
+**Property one. It produces what is needed and what is not obtainable anywhere else.** Not an "important opinion" but data or a procedure whose absence gets in the way of someone's work.
 
 **Property two. The procedure is visible in full.** Not only the result but how it was obtained: who asked, how the question read, who could answer, how many answered, how to check the count. There is nothing to contest when everything is visible.
 
@@ -237,7 +237,7 @@ Now honestly about where we stand.
 
 **The fifth property we have and, so far as we know, no one else does.** Not a polling company, not a petition platform, not a civic organization, not a social network, not a state outside its own elections. Confirming uniqueness without disclosing identity is what the passport and the registry were built for, and it is the one thing in the design that cannot be repeated without building the same thing.
 
-**The first four properties we do not have yet.** They are not invented - they are observed. This is a matter of discipline, and that discipline can be checked from outside, which is what is required.
+**The first four properties we do not have yet.** They are not invented - they are adhered to. This is a matter of discipline, and that discipline can be checked from outside, which is what is required.
 
 ---
 
@@ -253,7 +253,7 @@ The Corruption Perceptions Index, published by Transparency International since 
 
 ### The death of one ranking
 
-The World Bank published the Doing Business ranking, which assessed the conditions for doing business in a hundred and ninety economies. Its influence was enormous: states rewrote legislation in order to rise in it. After irregularities in the 2018 and 2020 reports were reported inside the bank in June 2020, publication was suspended and the review was entrusted to an outside law firm. The investigation established that pressure had been put on the team preparing the index to alter the indicators for particular countries. **On 16 September 2021 the bank announced the discontinuation of the ranking.** Not a suspension - a discontinuation. No attempt was made to restore it: there was nothing left to restore.
+The World Bank published the Doing Business ranking, which assessed the conditions for doing business in a hundred and ninety economies. Its influence was enormous: states rewrote legislation in order to rise in it. After irregularities in the 2018 and 2020 reports were reported inside the bank in June 2020, publication was suspended and the review was entrusted to an outside law firm. The investigation established that pressure had been put on the team that prepared the index to alter the indicators for particular countries. **On 16 September 2021 the bank announced the discontinuation of the ranking.** Not a suspension - a discontinuation. No attempt was made to restore it: there was nothing left to restore.
 
 **The lesson, the reverse of the first and more important.** The whole capital of such a tool is trust in the procedure. It is not spent gradually; it is lost entirely and at one stroke.
 
@@ -275,9 +275,9 @@ The standards on which the internet runs are set by the IETF and the W3C - assoc
 
 Ireland twice changed its constitution as a result of the work of bodies that held no powers whatever.
 
-The Constitutional Convention of 2012-2014 recommended allowing same-sex marriage - at the referendum of 22 May 2015 this was adopted by 62 per cent of those voting. The Citizens' Assembly, constituted by parliament in July 2016 and concluding its work in the spring of 2018, recommended repealing the Eighth Amendment - at the referendum of 25 May 2018, 66.4 per cent voted for repeal on a turnout of 64.1 per cent.
+The Constitutional Convention of 2012-2014 recommended allowing same-sex marriage - at the referendum of 22 May 2015 this was adopted by 62 per cent of those voting. The Citizens' Assembly, which parliament constituted in July 2016 and which concluded its work in the spring of 2018, recommended repealing the Eighth Amendment - at the referendum of 25 May 2018, 66.4 per cent voted for repeal on a turnout of 64.1 per cent.
 
-The compositions were selected differently, and the difference is instructive. Of the hundred members of the Convention, sixty-six were citizens chosen by lot, thirty-three were serving politicians, and the hundredth was an appointed chairman. The Citizens' Assembly went further: its ninety-nine participants were selected by lot every one of them, there were no politicians in the composition at all, and the chair was appointed separately. In both cases the participants studied the question for several months, listened to specialists and to both sides, discussed publicly and voted.
+The compositions were selected differently, and the difference is instructive. Of the hundred members of the Convention, sixty-six were citizens chosen by lot, thirty-three were serving politicians, and the hundredth was an appointed chairman. The Citizens' Assembly went further: its ninety-nine participants were selected by lot, every one of them, there were no politicians in the composition at all, and the chair was appointed separately. In both cases the participants studied the question for several months, listened to specialists and to both sides, discussed publicly and voted.
 
 **The lesson.** Legitimacy is conferred not by election but by a transparent procedure of selection and open discussion. People selected at random, having got to grips with the question, turned out to be more convincing to society than elected politicians.
 
@@ -291,46 +291,46 @@ The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal
 
 # Part IV. How a measurement works
 
-The instrument is described above as a design. Here is how it has to work if it is not to turn into one more poll. The requirements without which a measurement does not take place are set out in the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who has no power to approve the question, what is published together with the result, who finds a defect, and whose money a measurement is not conducted on. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today it has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
+The instrument is described above as a design. Here is how it has to work if it is not to turn into just another poll. The requirements without which a measurement does not take place are set out in the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who has no power to approve the question, what is published together with the result, who finds a defect, and on whose money a measurement is not conducted. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today that order has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
 
 ## 7. Who takes part
 
-A holder of an earthling passport may take part - that is, a person who has been through identity verification and has received a non-transferable record in the registry.
+A holder of an earthling passport may take part - that is, a person who has completed identity verification and has received a non-transferable record in the registry.
 
 What this gives the measurement:
 
 - **one person, one vote**, because there is one passport per person and it cannot be transferred;
 - **a vote cannot be bought**, because the passport is non-transferable and inalienable;
 - **a vote cannot be accumulated**, because property is separated from the vote by the unamendable core of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), Article 11;
-- **anyone at all can check**, because the registry lives in a blockchain and not on our servers, and is read directly from an open smart contract.
+- **anyone at all can check**, because the registry lives on a blockchain and not on our servers, and is read directly from an open smart contract.
 
-How identity verification works, and why it does not turn into surveillance, is described in the documents [Biometric Verification](https://earth-lings.org/documents/en/en16-biometric-verification.html) and [SBT passport](https://earth-lings.org/documents/en/en15-sbt-passport.html). What exactly in this infrastructure is open, what is closed, and where today one has to take our word for it, is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html).
+How identity verification works, and why it does not turn into surveillance, is described in the documents [Biometric Verification](https://earth-lings.org/documents/en/en16-biometric-verification.html) and [SBT passport](https://earth-lings.org/documents/en/en15-sbt-passport.html). What exactly in this infrastructure is open, what is closed, and where today one has to take our word for it, is set out in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html).
 
 What matters is this: **verifying uniqueness does not require disclosing identity.** The instrument knows that one living person stands behind the record, and does not know who they are. For a measurement that is enough; for surveillance it is not.
 
 ## 8. Where the question comes from
 
-This is the most vulnerable place in any measurement, and therefore the strictest.
+This is the most vulnerable point in any measurement, and therefore the strictest.
 
 Whoever formulates the question determines half the answer. "Do you agree to pay more for electricity for the sake of the climate?" and "Do you agree that the polluter should pay for the damage?" are one and the same question, put in such a way that the answers will be opposite. A single leading wording, discovered publicly, is enough to devalue not only that measurement but all past and future ones.
 
-The order for forming a question is therefore bound to meet five requirements:
+The order for forming a question must therefore meet five requirements:
 
 1. **Separation.** The wording is not approved by those who run the operational management of the people. These are different hands.
 2. **Publication in advance.** The question is published before voting begins, with a stated period during which it can be challenged.
-3. **An adversarial stage.** The wording passes through the objections of the party whom the expected answer does not suit. The objections and the replies to them are published together with the question - as the IPCC does with its reviews.
-4. **No change after the start.** From the moment voting opens the question is not edited. A defect of wording discovered means the measurement is cancelled and a new one held, not corrected on the fly.
+3. **An adversarial stage.** The wording passes through the objections of the party that the expected answer does not favour. The objections and the replies to them are published together with the question - as the IPCC does with its reviews.
+4. **No change after the start.** From the moment voting opens the question is not edited. A defect of wording that is discovered means the measurement is cancelled and a new one held, not corrected on the fly.
 5. **A connection with the participant's life.** The question is put where the consequence falls on every person, and not where institutions negotiate about it. This requirement is not about courtesy to the reader: it determines whether a measurement takes place at all, and it is explained separately below.
 
-The subject matter of a question is limited by the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) from two sides. Article 3 draws the circle: the people speaks about what affects everyone. Article 5 sets the exception: the internal life of a particular state is not a subject of the people's decisions, that being a matter for its citizens.
+The subject matter of a question is limited by the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) on two sides. Article 3 draws the circle: the people speaks about what affects everyone. Article 5 sets the exception: the internal life of a particular state is not a subject of the people's decisions, that being a matter for its citizens.
 
 The boundary itself is closed; the list of questions is not. Falling under it are, for instance, the taxation of transnational profit, the rules for artificial intelligence systems, the fate of the atmosphere and the ocean, resilience to pandemics, responsibility towards future generations. Nothing from the internal politics of a particular state falls under it - on which see section 11 separately.
 
-### The question is bound to touch the life of the person being asked
+### The question must touch the life of the person being asked
 
-This is the answer to the most likely cause of failure - low turnout, of which section 20 speaks separately. It is cured not by reminders and not by appeals, but by the question. **If the questions do not touch the real life, interests and difficulties of people, the sense of voting disappears entirely: there is no point in asking, and no point in answering.**
+This is the answer to the most likely cause of failure - low turnout, which section 20 deals with separately. It is cured not by reminders and not by appeals, but by the question. **If the questions do not touch the real life, interests and difficulties of people, the point of voting disappears entirely: there is no point in asking, and no point in answering.**
 
-There is a genuine contradiction here, and we name it rather than go round it. The boundary selects planetary questions - those that affect everyone. And the planetary sounds far from every person: between "agreeing a rate of tax on transnational profit" and the cares of a particular day the distance seems unbridgeable.
+There is a genuine contradiction here, and we name it rather than go round it. The boundary selects planetary questions - those that affect everyone. And the planetary sounds remote from every person: the distance between "agreeing a rate of tax on transnational profit" and the cares of a particular day seems unbridgeable.
 
 It seems so. A planetary question **always lands somewhere** - otherwise it would not be planetary: what affects everyone affects each person. So the question has to be put at the point of landing, not at the point of negotiation. Compare:
 
@@ -342,7 +342,7 @@ It seems so. A planetary question **always lands somewhere** - otherwise it woul
 
 On the right and on the left is one and the same question. The wording on the right is not a simplification and not a lure: it is more precise, because it names the place where the consequence actually arrives.
 
-**And immediately the boundary, because from this technique it is one step to disaster.** Wording for the sake of a response is the door next to wording for the sake of the answer wanted, and the latter is already directly forbidden by requirement 3. We draw the distinction thus: **a wording is admissible if it names where the consequence falls, and inadmissible if it prompts how to feel about the consequence.** "Whether a company should be able to pay tax nowhere" names. "Is it fair that corporations profit off you without paying taxes" prompts. Both touch life; the second is not a measurement. The adversarial stage exists among other things to sift such wordings out, and the objection "the question is worded for the sake of the answer wanted" is considered on the same footing as the rest.
+**And here at once is the boundary, because this technique is one step away from disaster.** Wording for the sake of a response is next door to wording for the sake of the answer wanted, and the latter is already directly forbidden by requirement 3. We draw the distinction thus: **a wording is admissible if it names where the consequence falls, and inadmissible if it prompts how to feel about the consequence.** "Whether a company should be able to pay tax nowhere" names. "Is it fair that corporations profit off you without paying taxes" prompts. Both touch life; the second is not a measurement. The adversarial stage exists, among other things, to sift such wordings out, and the objection "the question is worded for the sake of the answer wanted" is considered on the same footing as the rest.
 
 The second boundary is Article 5. The questions closest to a person are almost always questions of domestic politics, and that is exactly why they are closed. A suitable question lies at the intersection of two conditions: **it touches the life of every person and at the same time has no national address.** That intersection is not empty: the taxation of transnational profit, the rules for the systems people speak with every day, the fate of data about a person, the price of medicines, resilience to pandemics, who pays for damage to the planet. Each of these has a point of landing in the life of any person, and there is not a single parliament that would resolve it entirely.
 
@@ -352,21 +352,21 @@ There is a second and simpler reason why people answer: **the answer does someth
 
 The questions of the people therefore come in two streams, and one cannot be substituted for the other.
 
-**Questions of the internal life of the people** - what the treasury is spent on, what the contribution amounts to, which projects to support, how the rules change, what to do about mandates. Here the consequence follows always and at once: the money really is spent, the rules really do change. It is these votes that create the habit of answering, and habit is the only thing that holds turnout up over a long distance. Their subject matter is limited not by Article 6 but by Article 9 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): these are questions of the life of the people, not of the position of the people towards the outside.
+**Questions of the internal life of the people** - what the treasury is spent on, what the contribution amounts to, which projects to support, how the rules change, what to do about mandates. Here the consequence follows always and at once: the money really is spent, the rules really do change. It is these votes that create the habit of answering, and habit is the only thing that holds turnout up over the long run. Their subject matter is limited not by Article 6 but by Article 9 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html): these are questions of the life of the people, not of the position of the people towards the outside.
 
-**Planetary questions** are those discussed above. Their consequence is not guaranteed: we can measure and publish, but we cannot promise that anyone will answer. That is their weakness, and it is not removable on the first rungs of the ladder.
+**Planetary questions** are those discussed above. Their consequence is not guaranteed: we can measure and publish, but we cannot promise that anyone will answer. That is their weakness, and it cannot be removed on the first rungs of the ladder.
 
 From this comes an intention that we record here so that we can be held to it: **no period consists of planetary questions alone.** A people that votes for years only on things no one answers stops voting - and will be right to.
 
 ## 9. Two layers: the panel and the people
 
-Here we answer the strongest objection to the whole undertaking: **polling millions of unprepared people on a complex question is no better than polling a thousand unprepared people, it is merely larger.**
+Here we answer the strongest objection to the whole undertaking: **polling millions of unprepared people on a complex question is no better than polling a thousand unprepared people; it is merely larger.**
 
-The objection is just. Scale by itself confers no quality of judgment, and a large number of ill-considered answers is a large number of ill-considered answers.
+The objection is fair. Scale by itself confers no quality of judgment, and a large number of ill-considered answers is a large number of ill-considered answers.
 
-The answer to it is the two layers. What is described below is the order set out in Article 8 ter of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); it cannot be applied today in any case - drawing lots from a registry of a few hundred people yields no cross-section of the people, and the article says so expressly. The order is arranged like this:
+The answer to it is the two layers. What is described below is the order set out in Article 8 ter of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); that order cannot be applied today in any case - drawing lots from a registry of a few hundred people yields no cross-section of the people, and the article says so expressly. The order is arranged like this:
 
-**Layer one - the panel.** For each question a panel is selected by lot from the registry. Selection by lot has no opinion: it gives a cross-section of the people, not its active part, and that is fundamental - the active part is always skewed. The panel spends several weeks getting to grips with the question: it receives materials, hears specialists and representatives of the opposing positions, and discusses publicly. At the end the panel does not decide - it **formulates the options** and sets out the arguments for and against each, together with the points on which the participants did not agree.
+**Layer one - the panel.** For each question a panel is selected by lot from the registry. Selection by lot has no opinion: it gives a cross-section of the people, not its active part, and that is fundamental - the active part is always skewed. The panel spends several weeks working through the question: it receives materials, hears specialists and representatives of the opposing positions, and discusses publicly. At the end the panel does not decide - it **formulates the options** and sets out the arguments for and against each, together with the points on which the participants did not agree.
 
 **Layer two - the people.** The whole people votes on the prepared options, with the work of the panel before it.
 
@@ -374,11 +374,11 @@ We know of no system in which such a combination has been achieved in full.
 
 The closest to it is the deliberative polling that James Fishkin has conducted with Stanford University since 1988: a random sample, the study of vetted materials, discussion in small groups, questions to specialists of opposing views, and a repeat measurement. More than a hundred and fifty such exercises have been carried out in over fifty jurisdictions. There is selection by lot there, and preparation, and measurement before and after. Two things are missing: scale and a verifiable composition.
 
-The second closest case is the Global Assembly of 2021: a hundred people selected by lot from across the world so that the composition matched the population of the planet by age, sex, origin and income; sixty-eight hours of work over eleven weeks; the final declaration read out at the climate conference in Glasgow. This is, by all appearances, the upper limit of depth reached to date - and it runs up against a hundred people.
+The second closest case is the Global Assembly of 2021: a hundred people selected by lot from across the world so that the composition matched the population of the planet by age, sex, origin and income; sixty-eight hours of work over eleven weeks; the final declaration read out at the climate conference in Glasgow. This is, by all appearances, the upper limit of depth reached to date - and it stops at a hundred people.
 
-Citizens' assemblies have depth without scale: a hundred people have got to grips with the question, but they cannot speak on behalf of society. Referendums have scale without depth: millions have voted without getting to grips, often on a wording composed by those in power. What prevented joining the one to the other was exactly what we have already resolved: **the impossibility of selecting people honestly and counting them honestly at a distance.**
+Citizens' assemblies have depth without scale: a hundred people have got to grips with the question, but they cannot speak on behalf of society. Referendums have scale without depth: millions have voted without getting to grips with the question, often on a wording composed by those in power. What prevented the one from being joined to the other was exactly what we have already resolved: **the impossibility of selecting people honestly and counting them honestly at a distance.**
 
-Here too lies the practical value of the registry for others: **a pool for selection by lot.** The weakest place in any citizens' assembly is where to get a list from whose randomness of sampling no one will contest. A registry of confirmed unique people closes that task, and closes it neutrally: selection by lot has no position and is equally fit for any side.
+Here too lies the practical value of the registry for others: **a pool for selection by lot.** The weakest place in any citizens' assembly is where to get a list such that no one will contest the randomness of sampling from it. A registry of confirmed unique people solves that problem, and solves it neutrally: selection by lot has no position and is equally fit for any side.
 
 ## 10. What is published together with the result
 
@@ -388,32 +388,32 @@ A result without a trail is an assertion. A result with a trail is a fact. Every
 - the date the question was published, the dates voting opened and closed;
 - the objections submitted at the adversarial stage and the replies to them;
 - the materials of the panel: its composition by method of selection, the documents studied, the sides heard, the arguments set out, the disagreements recorded;
-- the number of those entitled to vote at the moment of opening;
-- the number of those who voted and **the share of those entitled** - published always, including the cases where it is low;
+- the number of those entitled to vote at the moment voting opened;
+- the number of those who voted and **the share of those entitled** - published always, including the cases where the share is low;
 - the distribution of answers;
 - the distribution of participation by country and region, broken down in a way that does not allow a person to be identified;
-- the way in which any person can recount the result themselves: where the signatures lie, where the registry lies, by what query each vote is checked.
+- the way in which any person can recount the result themselves: where the signatures are held, where the registry is held, by what query each vote is checked.
 
 The last point is the chief one. **Verification must not require trust in us.** Votes are signed by the wallets of those voting, the addresses of those who voted are public, and the presence of a passport at each address is read straight from the smart contract. We can neither add a vote nor forge someone else's, and this is checked not by our word but by someone else's query to the blockchain.
 
-One place where today one has to trust us we name ourselves: at the moment of voting the right to vote is confirmed by our server. After the vote this no longer matters - all addresses are public and each is rechecked in the contract, and a divergence would become visible. The same is said just as plainly in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html), and the second such place is named there too.
+There is one place where today one has to trust us, and we name it ourselves: at the moment of voting the right to vote is confirmed by our server. After the vote this no longer matters - all addresses are public and each is rechecked in the contract, and a divergence would become visible. The same is said just as plainly in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html), and the second such place is named there too.
 
 ### If a measurement turns out to be defective
 
-Elections have the recount; scientific journals have the retraction. An instrument that has no order, announced in advance, for acknowledging its own error loses everything at the very first error, and an error there will be: there will be hundreds of measurements, and at least one will turn out to be spoiled.
+Elections have the recount; scientific journals have the retraction. An instrument with no order announced in advance for acknowledging its own error loses everything at the very first error, and an error there will be: there will be hundreds of measurements, and at least one will turn out to be spoiled.
 
-A defect of a measurement means: a leading or ambiguous wording of the question discovered after voting has begun; a malfunction because of which part of those entitled could not vote or voted twice; a breach of the order for forming the question; and any divergence between the published result and what is read from the registry.
+A defect of a measurement means: a leading or ambiguous wording of the question, discovered after voting has begun; a malfunction because of which some of those entitled could not vote or voted twice; a breach of the order for forming the question; and any divergence between the published result and what is read from the registry.
 
 The order is then as follows:
 
-1. **Any person may make the claim**, not only a participant and not only us. The claim is published together with the date it was received.
+1. **Any person may make a claim**, not only a participant and not only us. The claim is published together with the date it was received.
 2. **The defect is found by someone other than whoever conducted the measurement.** If the decision is taken by those who conducted it, an error will never be acknowledged - this is known in advance, and that is why it is not done that way.
-3. **The cancellation is published in the same place and with the same prominence as the result**, not as a footnote. At the same time it is published what exactly the defect consisted in.
+3. **The cancellation is published in the same place and with the same prominence as the result**, not as a footnote. At the same time, exactly what the defect consisted in is published.
 4. **A cancelled measurement does not vanish from the chronicle.** It remains, marked as cancelled. An instrument whose past can be cleaned up is no better than an instrument whose present can be touched up.
 5. **A repeat measurement is conducted afresh and from the beginning**, including a new adversarial stage. Correction on the fly is not permitted under any circumstances.
 6. **The number of cancelled measurements is published in the common row of indicators.** A zero in that column over many years is not grounds for pride but grounds for a question.
 
-We prefer to describe this in advance, while not a single measurement has been conducted and the order cannot be suspected of having been written for a particular inconvenient case.
+We prefer to describe this in advance, while not a single measurement has yet been conducted and the order cannot be suspected of having been written for a particular inconvenient case.
 
 ## 11. What is never measured
 
@@ -423,7 +423,7 @@ An instrument with which everything can be measured will be used against someone
 
 **A particular person.** No collective position is taken with respect to a particular individual. The people speaks about phenomena, decisions and arrangements, but not about people. An instrument aimed at a person is a lynching with a procedure, and we shall not build one.
 
-**The principles of the unamendable core.** They are not a subject of voting - and this is not a question of a raised threshold but a question that is not put at all. The list of those principles is set out in Article 11 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html); we do not reproduce it here, so that it keeps a single source. The core may be added to; it may not be weakened.
+**The principles of the unamendable core.** They are not a subject of voting - and this is not a question of a raised threshold but a question that is not put at all. The list of those principles is set out in Article 11 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html); we do not reproduce it here, so that it retains a single source. The core may be added to; it may not be weakened.
 
 These three limits make the instrument less powerful. It is a deliberate trade: a tool with which no blow can be struck is far harder to take away.
 
@@ -431,15 +431,15 @@ These three limits make the instrument less powerful. It is a deliberate trade: 
 
 After the question "who authorized you" there always comes a second, and it is no less dangerous: **who pays for the measurement.**
 
-History knows how a wrong answer ends. A rating agency paid by the party it assesses loses its credibility regardless of the honesty of its staff: the staff may be beyond reproach, yet the arrangement of the relations still produces a favourable assessment. This is destroyed not by ill intent but by the very direction of the flow of money, and therefore it too is cured only by design.
+History knows how a wrong answer ends. A rating agency paid by the party it assesses loses its credibility regardless of the honesty of its staff: the staff may be beyond reproach, yet the structure of the relationship still produces a favourable assessment. Credibility is destroyed not by ill intent but by the very direction of the flow of money, and therefore it too is cured only by structure.
 
 The rule is therefore recorded not here but where compliance with it is mandatory: Article 8 bis of the [Charter](https://earth-lings.org/documents/en/en05-charter.html) and Article 31 bis of [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html). What follows is the same thing with an explanation of why it exists.
 
-**The instrument is maintained by the treasury of the people.** There are no periodic payments for taking part in measurements, and none are provided for: a person is charged once a contribution on joining, covering the cost price of identity verification and the issuance of a passport, and after receiving the passport there are no annual or monthly payments. The sources of the treasury, the shares of distribution and the order of spending are set out in the document [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html); what a person is to do if the contribution is beyond their means is described there and in the document [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html).
+**The instrument is maintained by the treasury of the people.** There are no periodic payments for taking part in measurements, and none are provided for: a person is charged a contribution once, on joining, covering the cost price of identity verification and the issuance of a passport, and after receiving the passport there are no annual or monthly payments. The sources of the treasury, the shares of distribution and the order of spending are set out in the document [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html); what a person is to do if the contribution is beyond their means is described there and in the document [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html).
 
-Note the consequence that follows from this by itself: **paying in order to take part in a measurement is never necessary.** The vote is tied to no payment, neither once nor repeatedly, and a person whose contribution was made by another holds exactly the same vote as everyone.
+Note the consequence that follows from this by itself: **paying in order to take part in a measurement is never necessary.** The vote is tied to no payment, whether one-off or recurring, and a person whose contribution was made by another holds exactly the same vote as everyone else.
 
-**The people never conducts a measurement for a client's fee.** Not for a state, not for a company, not for a foundation, not for any other association. No commissioned questions, no priority in the queue for money, no paid-for wording. The offer "we will pay for a poll on our subject" will certainly be received, and the answer to it is one and the same regardless of the sum and of how sympathetic the subject is.
+**The people never conducts a measurement for a client's fee.** Not for a state, not for a company, not for a foundation, not for any other association. No commissioned questions, no priority in the queue in return for money, no paid-for wording. The offer "we will pay for a poll on our subject" will certainly be received, and the answer to it is one and the same regardless of the sum and of how appealing the subject is.
 
 **Earmarked funding of measurements themselves is not accepted.** Even a gift without conditions, received for a particular question, creates the same distortion: the next question is chosen with an eye to whoever gave money for the previous one. Donations coming to the people go into the common treasury and are not tied to a particular measurement.
 
