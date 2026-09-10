@@ -2589,7 +2589,11 @@ def write_sitemap_v2(titles, dry=False):
     corpus_date = dict((c, _dated(_master_paths(c, CHAIN))) for c in built)
     addr_date = dict((c, _dated(_master_paths(c, [], address=True)))
                      for c in built)
-    home_date = dict((c, max(corpus_date[c], addr_date[c])) for c in built)
+    # Анонсы полос лежат своими файлами (_announce/) и правятся без документов:
+    # правка одного анонса обязана сдвинуть дату главной сама.
+    ann_date = dict((c, _dated(['_announce/%s-announce.md' % c])) for c in built)
+    home_date = dict((c, max(corpus_date[c], addr_date[c], ann_date[c]))
+                     for c in built)
     assert home_date, u'ни для одного языка не вычислена дата мастеров'
     root_date = max(home_date.values())
 

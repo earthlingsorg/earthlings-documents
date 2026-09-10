@@ -16,9 +16,10 @@ u"""Языковая главная нового сайта: чередован�
 между Декларацией и путём earthling, и её голубой фон достался пути earthling
 вместо тёмно-синего.
 
-Текст не сочиняется. Лид каждой полосы - первые абзацы соответствующего мастера
-слово в слово. Заголовок - его H1. Отсебятины на главной быть не должно: это
-самая читаемая страница сайта, и голос на ней должен быть тот же, что в корпусе.
+Текст полосы берётся из одного из двух мест. Написан анонс полосы
+(_announce/<язык>-announce.md) - стоит анонс. Анонса нет - лидом идут
+выбранные абзацы соответствующего мастера слово в слово. Заголовок полосы - H1
+мастера в обоих случаях.
 
 Собирается два файла на язык:
   _v2/<язык>/index.html     - полосы
@@ -42,6 +43,9 @@ from build_site_docs import (SITE, REPO, ORIGIN, ROOT, doc_href, has_doc,
                              HEAD_ICONS, OG_LOCALE, UMAMI,
                              ALL_LANGS, md_dir, corpus_file, SLUGS)  # noqa: E402
 import site_guard as guard                                 # noqa: E402
+# Словарь запрещённых знаков и родная пунктуация языков - из одного места с
+# проверкой переводов: вторая копия словаря разошлась бы с первой.
+from check_translation import FORBIDDEN, ALLOWED_BY_LANG   # noqa: E402
 
 ADDRESS_DIR = os.path.join(REPO, '_address')
 OUT = os.path.join(SITE, '_v2')
@@ -193,52 +197,41 @@ LEGAL_DOCS = ['30', '04', '05', '26']
 # чём всё стоит, без служебных оговорок про соотношение документов.
 LEGAL_LEAD_DOC = '30'
 
+# Анонсы полос главной: _announce/<язык>-announce.md, по файлу на язык.
+#
+# Анонс - свой короткий текст полосы, а не отрывок документа. Решение Артура
+# 2026-09-10: анонсы живут своей жизнью. Правка документа их не трогает, правка
+# анонса не трогает документ, и поменять текст полосы можно в любой момент, не
+# касаясь кода.
+#
+# Поэтому якоря на блоки мастера у анонса нет, хотя у отрывков он есть: якорь
+# краснел бы на каждой правке документа, а анонс от документа не зависит по
+# замыслу. Цена названа: сверять анонс с документами по смыслу - дело того, кто
+# его пишет.
+#
+# Раздела полосы в файлах нет - полоса собирается, как собиралась: отрывком
+# мастера по номерам из BANDS. Файлы без разделов дают ровно прежнюю главную.
+#
+# **Раздел полосы стоит во всех девяти языках или ни в одном, и состав у него
+# одинаковый.** Анонс на одном языке при прежнем отрывке на восьми разводит
+# главные по смыслу. Правило действовало и тогда, когда анонс Обращения лежал
+# здесь таблицей (до 2026-09-10); теперь его проверяет load_announces(), и
+# сборка останавливается раньше, чем запишет хоть одну страницу.
+#
+# Имена разделов - по-русски во всех девяти файлах: это ключи, а не текст
+# страницы, и переводить их нельзя.
+ANNOUNCE_DIR = os.path.join(REPO, '_announce')
+ANNOUNCE_KEYS = [
+    ('address',    u'Обращение'),
+    ('doc:01',     u'Декларация'),
+    ('doc:20',     u'Учредительный период'),
+    ('platform',   u'Платформа'),
+    ('objections', u'Возражения'),
+    ('join',       u'Вступить'),
+]
+
 # Подпись под Обращением. Подписывают его авторы, а не народ (Учредительный
 # период, раздел 02), поэтому здесь команда, а не «Earthlings».
-# Анонс Обращения на главной. Решение Артура: на главной стоит не отрывок из
-# текста, а короткий анонс с кнопкой «Зачем мы это делаем»; сам текст
-# открывается по ней.
-#
-# **Переезд возможен только всеми девятью языками разом, и это не осторожность,
-# а устройство.** Отрывок на главную берётся из мастера Обращения по номерам
-# блоков (BANDS), а номера сверяются с РУССКИМ мастером блок в блок - переводы
-# зеркалят его. Пока новый русский текст не переведён, любой промежуточный шаг
-# ломается об эту сверку: подмена русского мастера в одиночку делает восемь
-# главных несобираемыми, а анонс на одном языке при старом тексте за кнопкой -
-# это кнопка не про то, что за ней.
-#
-# Поэтому таблица либо пуста, либо заполнена на девять языков. Заполняется она
-# в той же сессии, которая ставит новые мастера, - одним заходом.
-ANNOUNCE = {
-    'ru': [u'«Международные организации». Между народами - вот как это читается.',
-            u'Но народов там нет. Есть государства, которые говорят за них.',
-            u'Мы учреждаем народ, который будет говорить сам.'],
-    'en': [u'"International organizations". Between nations - that is how it reads.',
-            u'But the peoples are not there. There are states that speak for them.',
-            u'We are founding a people that will speak for itself.'],
-    'de': [u'„Internationale Organisationen“. Zwischen den Nationen - so liest es sich.',
-            u'Doch die Völker sind dort nicht. Es sind Staaten, die für sie sprechen.',
-            u'Wir gründen ein Volk, das selbst sprechen wird.'],
-    'fr': [u'« Organisations internationales ». Entre les nations - voilà ce que cela dit.',
-            u'Mais les peuples n\'y sont pas. Il y a des États qui parlent pour eux.',
-            u'Nous fondons un peuple qui parlera lui-même.'],
-    'es': [u'«Organizaciones internacionales». Entre las naciones: así se lee.',
-            u'Pero los pueblos no están allí. Están los Estados, que hablan por ellos.',
-            u'Fundamos un pueblo que hablará por sí mismo.'],
-    'ka': [u'«საერთაშორისო ორგანიზაციები». ხალხთა შორის - ასე იკითხება.',
-            u'მაგრამ ხალხები იქ არ არიან. არიან სახელმწიფოები, რომლებიც მათ ნაცვლად ლაპარაკობენ.',
-            u'ჩვენ ვაარსებთ ხალხს, რომელიც თავად ილაპარაკებს.'],
-    'zh': [u'“国际组织”。国与国之间——这个词就是这么读的。',
-            u'但那里没有人民。有的是代他们说话的国家。',
-            u'我们正在创立一个自己说话的人民。'],
-    'ar': [u'«المنظمات الدولية». بين الأمم - هكذا تُقرأ.',
-            u'لكن الشعوب ليست هناك. هناك دول تتكلم عنها.',
-            u'نحن نؤسس شعباً يتكلم بنفسه.'],
-    'hi': [u'«अंतरराष्ट्रीय संगठन»। राष्ट्रों के बीच - यह इसी तरह पढ़ा जाता है।',
-            u'पर वहाँ जन नहीं हैं। वहाँ राज्य हैं, जो उनकी ओर से बोलते हैं।',
-            u'हम ऐसा जन स्थापित कर रहे हैं, जो स्वयं बोलेगा।'],
-}
-
 SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
         'de': u'Das Earthlings-Team', 'fr': u"L'équipe Earthlings",
         'es': u'El equipo Earthlings', 'ka': u'Earthlings-ის გუნდი',
@@ -498,6 +491,178 @@ def load(what, lang):
     if what == 'address':
         return read_master(os.path.join(ADDRESS_DIR, '%s-address.md' % lang))
     return doc_master(what, lang)
+
+
+class AnnounceError(Exception):
+    u"""Файлы анонсов не годятся для сборки. Текст - для человека, не для
+    разработчика: правит эти файлы автор текста."""
+
+
+def _shape(s):
+    return (u'крупная строка и абзацев %d' if s[0] else u'абзацев %d') % s[1]
+
+
+def parse_announce(text, lang):
+    u"""Разделы одного файла: {полоса: {'line': str или None, 'body': [...]}}.
+
+    Всё до первого заголовка раздела - пояснение для того, кто правит файл, и
+    на страницу не идёт.
+    """
+    names = dict((name, what) for what, name in ANNOUNCE_KEYS)
+    shown = set(row[1] for row in BANDS)
+    f = u'%s-announce.md' % lang
+    raw, cur = {}, None
+    for ln in text.split('\n'):
+        m = re.match(r'^##\s+(.+?)\s*$', ln)
+        if m:
+            name = m.group(1)
+            if name not in names:
+                raise AnnounceError(
+                    u'%s: раздел «%s» - такой полосы нет. Разделы называются '
+                    u'так: %s.' % (f, name, u', '.join(n for _, n in ANNOUNCE_KEYS)))
+            cur = names[name]
+            if cur in raw:
+                raise AnnounceError(u'%s: раздел «%s» написан дважды.' % (f, name))
+            if cur not in shown:
+                raise AnnounceError(
+                    u'%s: полосы «%s» сейчас нет на главной, анонс некуда '
+                    u'поставить.' % (f, name))
+            raw[cur] = []
+        elif ln.startswith('##'):
+            # «##Декларация» без пробела или «### Декларация» молча ушли бы в
+            # текст соседнего раздела или в пояснение - и анонс не встал бы.
+            raise AnnounceError(
+                u'%s: строка %r похожа на заголовок раздела, но записана не так. '
+                u'Нужно: два знака # и пробел, например «## Декларация».'
+                % (f, ln[:40]))
+        elif cur is not None:
+            raw[cur].append(ln)
+
+    allowed = ALLOWED_BY_LANG.get(lang, ())
+    label = dict(ANNOUNCE_KEYS)
+    out = {}
+    for what, lines in raw.items():
+        where = u'%s, раздел «%s»' % (f, label[what])
+        text = u'\n'.join(lines)
+        # Знаки проверяются ДО схлопывания пробелов: \s съедает неразрывный
+        # пробел, и после схлопывания проверка его уже не увидела бы. Так и
+        # вышло в первом прогоне тестов.
+        for para in re.split(r'\n[ \t]*\n', text):
+            bad = sorted(set(u'U+%04X %s' % (ord(c), FORBIDDEN[ord(c)])
+                             for c in para
+                             if ord(c) in FORBIDDEN and ord(c) not in allowed))
+            if bad:
+                raise AnnounceError(
+                    u'%s: в абзаце «%s» знаки, которых на сайте быть не должно: '
+                    u'%s.' % (where, para.strip()[:40], u', '.join(bad)))
+        bs = [re.sub(r'\s+', ' ', b.strip())
+              for b in re.split(r'\n\s*\n', text) if b.strip()]
+        if not bs:
+            raise AnnounceError(
+                u'%s: раздел пуст. Если анонс не нужен, уберите и заголовок - '
+                u'полоса покажет отрывок документа.' % where)
+        line = None
+        if bs[0].startswith('>'):
+            if what != 'address':
+                raise AnnounceError(
+                    u'%s: абзац со знаком «>» - это крупная строка, а она бывает '
+                    u'только у Обращения.' % where)
+            line = re.sub(r'^>\s*', '', bs.pop(0)).strip()
+            if not line:
+                raise AnnounceError(u'%s: крупная строка пуста.' % where)
+        for b in ([line] if line else []) + bs:
+            if b is not line and b.startswith('>'):
+                raise AnnounceError(
+                    u'%s: знак «>» стоит не в первом абзаце. Крупная строка одна '
+                    u'и идёт первой.' % where)
+            if (b[0] in '#|' or re.match(r'^([-*]|\d+\.)\s', b)
+                    or re.match(r'^-{3,}$', b)):
+                raise AnnounceError(
+                    u'%s: «%s» - не обычный абзац. В анонсе только абзацы: без '
+                    u'заголовков, списков, таблиц и линий.' % (where, b[:40]))
+            if b.count('**') % 2:
+                raise AnnounceError(
+                    u'%s: в абзаце «%s» не закрыто жирное - знаков ** нечётное '
+                    u'число.' % (where, b[:40]))
+        out[what] = {'line': line, 'body': bs}
+    return out
+
+
+_ANNOUNCES = {}
+
+
+def load_announces(d=None):
+    u"""Анонсы девяти языков, сверенные друг с другом. Один раз за прогон.
+
+    Проверка идёт по всем девяти файлам всегда, даже когда собирается один
+    язык: полоса переходит на анонс только всеми девятью разом, и узнать, что
+    перевод отстал, можно, только прочитав все девять.
+    """
+    d = d or ANNOUNCE_DIR
+    if d in _ANNOUNCES:
+        return _ANNOUNCES[d]
+    if not os.path.isdir(d):
+        raise AnnounceError(
+            u'нет папки анонсов %s. Она часть репозитория: без неё не видно, '
+            u'какие полосы стоят на анонсе.' % d)
+    got = {}
+    for lang in ALL_LANGS:
+        p = os.path.join(d, '%s-announce.md' % lang)
+        if not os.path.isfile(p):
+            raise AnnounceError(
+                u'нет файла %s-announce.md. Файлов девять, по одному на язык; '
+                u'файл без разделов законен, отсутствие файла - нет.' % lang)
+        got[lang] = parse_announce(io.open(p, encoding='utf-8').read(), lang)
+    extra = sorted(x for x in os.listdir(d) if not re.match(
+        r'^(%s)-announce\.md$' % '|'.join(ALL_LANGS), x))
+    if extra:
+        raise AnnounceError(
+            u'в папке анонсов лишние файлы: %s. Сборка их не читает, и правка в '
+            u'них на сайт не попала бы.' % u', '.join(extra))
+    for what, name in ANNOUNCE_KEYS:
+        have = [l for l in ALL_LANGS if what in got[l]]
+        if not have:
+            continue
+        if len(have) != len(ALL_LANGS):
+            raise AnnounceError(
+                u'анонс полосы «%s» есть в %s, но нет в %s. Полоса переходит на '
+                u'новый текст всеми девятью языками разом: допишите перевод или '
+                u'уберите раздел везде.' % (name, u', '.join(have), u', '.join(
+                    l for l in ALL_LANGS if l not in have)))
+        shape = dict((l, (got[l][what]['line'] is not None,
+                          len(got[l][what]['body']))) for l in ALL_LANGS)
+        off = [l for l in ALL_LANGS if shape[l] != shape['ru']]
+        if off:
+            raise AnnounceError(
+                u'анонс полосы «%s» по составу разный: в ru %s, а в %s. Перевод '
+                u'повторяет русский абзац в абзац.' % (name, _shape(shape['ru']),
+                u'; '.join(u'%s - %s' % (l, _shape(shape[l])) for l in off)))
+    # Раздел Обращения обязателен. Запасного отрывка у первой полосы нет:
+    # номера в BANDS указывали на абзацы прежнего текста Обращения, а текст с
+    # тех пор переписан - на месте блока 5 теперь заголовок раздела, и отрывок
+    # не собрался бы. Выбрать новый отрывок - решение о тексте, а не о коде;
+    # до такого решения полоса стоит только на анонсе.
+    no = [l for l in ALL_LANGS if not (got[l].get('address') or {}).get('body')]
+    if no:
+        raise AnnounceError(
+            u'раздела «Обращение» нет или в нём одна крупная строка без абзацев '
+            u'(%s). Этот раздел обязателен: запасного отрывка у первой полосы '
+            u'нет. Текст можно менять, раздел убирать нельзя.' % u', '.join(no))
+    _ANNOUNCES[d] = got
+    return got
+
+
+def announced(ann, what):
+    u"""Абзацы анонса полосы или None, если анонса у полосы нет."""
+    a = ann.get(what)
+    return a['body'] if a and a['body'] else None
+
+
+def home_line(ann, lang):
+    u"""Крупная строка первого экрана: из анонса, если она там написана,
+    иначе цитата из документа 02."""
+    a = ann.get('address')
+    return a['line'] if a and a['line'] else poster_line(lang)
 
 
 # ------------------------------------------------------------------ страница
@@ -780,7 +945,7 @@ def ladder(lang):
     return u'\n'.join(o)
 
 
-def objections(theme, lang):
+def objections(theme, lang, ann=None):
     u"""Полоса «Возражения и ответы»: три возражения и ответы на них.
 
     Возражения набраны вопросами, ответы - абзацами под ними. Разметка
@@ -822,16 +987,20 @@ def objections(theme, lang):
         % (md_inline(q), u''.join(u'<p>%s</p>' % md_inline(p) for p in ps))
         for q, ps in items)
 
-    return u'\n'.join([
+    return u'\n'.join(x for x in [
         u'<section class="band band--%s band--objections">' % theme,
         u'<div class="band-in">',
         u'<h2 class="band-title">%s</h2>'
         % C.esc(title_of(doc_master('26', lang))),
+        # Анонс встаёт между заголовком и возражениями. Сами возражения и ответы
+        # остаются дословными: пересказ ослабил бы их (см. докстринг).
+        (u'<div class="band-lead">%s</div>'
+         % u''.join(u'<p>%s</p>' % md_inline(p) for p in ann)) if ann else None,
         u'<dl class="objections">%s</dl>' % li,
         u'<a class="band-more" href="%s">%s</a>'
         % (C.esc(doc_href('26', lang)), C.esc(C.x(lang, 'all_objections'))),
         u'</div></section>',
-    ])
+    ] if x is not None)
 
 
 def state(theme, lang):
@@ -855,7 +1024,7 @@ def state(theme, lang):
                       doc_href(STATE_CHECK_DOC, lang)))
 
 
-def join(theme, lang):
+def join(theme, lang, ann=None):
     u"""Последняя полоса: одна строка и одна кнопка.
 
     Ни заголовка, ни ссылки «читать целиком» здесь нет намеренно. Всё, что
@@ -873,11 +1042,17 @@ def join(theme, lang):
     #
     # Кнопка - та же band-cta, что во всех прочих полосах. Второго синего не
     # заводится: у сайта один цвет действия.
-    parts = C.x(lang, 'join_line')
-    assert isinstance(parts, list) and len(parts) == 2, (
-        u'строка последней полосы (%s) хранится не двумя частями. Перенос в '
-        u'ней задан Артуром и ставится разметкой, а не переносом по ширине: '
-        u'по ширине он попал бы в разное место на разных экранах.' % lang)
+    if ann:
+        # Анонс: каждый абзац раздела - строка фразы. Перенос по-прежнему
+        # задаёт автор, только теперь пустой строкой в файле анонсов.
+        line = u'<br>'.join(md_inline(p) for p in ann)
+    else:
+        parts = C.x(lang, 'join_line')
+        assert isinstance(parts, list) and len(parts) == 2, (
+            u'строка последней полосы (%s) хранится не двумя частями. Перенос в '
+            u'ней задан Артуром и ставится разметкой, а не переносом по ширине: '
+            u'по ширине он попал бы в разное место на разных экранах.' % lang)
+        line = u'%s<br>%s' % (C.esc(parts[0]), C.esc(parts[1]))
 
     return u'\n'.join([
         u'<section class="band band--%s band--join">' % theme,
@@ -888,8 +1063,7 @@ def join(theme, lang):
         # и действие под ними читаются закрывающим утверждением, а текст с
         # кнопкой сбоку - объявлением.
         u'<div class="join-card">',
-        u'<p class="join-line">%s<br>%s</p>'
-        % (C.esc(parts[0]), C.esc(parts[1])),
+        u'<p class="join-line">%s</p>' % line,
         u'<a class="band-cta" href="%s">%s</a>'
         % (C.esc(C.CTA_URL % lang), C.esc(C.t(lang, 'nav.become_earthling'))),
         u'</div>',
@@ -1325,6 +1499,7 @@ DOC_LINK = {'01': 'read_declaration', '14': 'what_passport_gives',
 
 def build_index(lang):
     address = read_master(os.path.join(ADDRESS_DIR, '%s-address.md' % lang))
+    ann = load_announces()[lang]
     bands = []
 
     for i, (theme, what, nums, anchor) in enumerate(BANDS):
@@ -1333,11 +1508,11 @@ def build_index(lang):
         elif what == 'awakened':
             bands.append(awakened(theme, lang))
         elif what == 'objections':
-            bands.append(objections(theme, lang))
+            bands.append(objections(theme, lang, announced(ann, what)))
         elif what == 'state':
             bands.append(state(theme, lang))
         elif what == 'join':
-            bands.append(join(theme, lang))
+            bands.append(join(theme, lang, announced(ann, what)))
         elif what == 'steps':
             assert has_doc('14', lang), u'документа 14 нет на языке %s' % lang
             bands.append(steps(theme, lang,
@@ -1345,19 +1520,16 @@ def build_index(lang):
         elif what == 'platform':
             assert has_doc('12', lang), u'документа 12 нет на языке %s' % lang
             bands.append(platform(theme, lang, title_of(doc_master('12', lang)),
-                                  lead(load, '12', nums, anchor, lang)))
+                                  announced(ann, what)
+                                  or lead(load, '12', nums, anchor, lang)))
         elif what == 'address':
-            # Либо все девять на анонсе, либо все девять на отрывке. Переезд
-            # наполовину разводит главные девяти языков по смыслу - см.
-            # комментарий к ANNOUNCE.
-            assert len(ANNOUNCE) in (0, len(ALL_LANGS)), (
-                u'анонс написан на %d языках из %d. Полоса Обращения на главной '
-                u'переезжает всеми девятью разом.' % (len(ANNOUNCE), len(ALL_LANGS)))
-            ann = ANNOUNCE.get(lang)
+            # Все девять на анонсе или все девять на отрывке - это уже
+            # проверено в load_announces(), до первой собранной страницы.
+            body = announced(ann, what)
             bands.append(poster(
-                theme, title_of(address), poster_line(lang),
-                ann if ann else lead(load, 'address', nums, anchor, lang),
-                (C.x(lang, 'why_we_do_this' if ann else 'read_addresso'),
+                theme, title_of(address), home_line(ann, lang),
+                body or lead(load, 'address', nums, anchor, lang),
+                (C.x(lang, 'why_we_do_this' if body else 'read_addresso'),
                  '/%s/address.html' % lang)))
         elif what == 'legal':
             items = [(title_of(doc_master(d, lang)), doc_href(d, lang))
@@ -1376,7 +1548,8 @@ def build_index(lang):
             # одного выхода, а документ - недостижимым из тела главной.
             # Поэтому ссылка возвращается: у каждой полосы ровно один выход.
             bands.append(band(theme, title_of(md),
-                              lead(load, num, nums, anchor, lang),
+                              announced(ann, what)
+                              or lead(load, num, nums, anchor, lang),
                               more=(C.x(lang, DOC_LINK[num]),
                                     doc_href(num, lang)),
                               extra=(langlist(lang) if num == '01' else
@@ -1393,10 +1566,10 @@ def build_index(lang):
     #
     # Берётся анонс: он написан для главной, стоит на ней первым и говорит
     # ровно то, что странице нужно сказать поиску - кто мы и что учреждаем.
-    # Анонса нет (таблица ANNOUNCE пуста) - берём крупную строку плаката,
+    # Анонса Обращения нет - берём крупную строку плаката,
     # цитату из документа 02: она тоже с этой страницы и в мастере Обращения
     # не встречается, так что дубль не вернётся и в этом случае.
-    home_lead = ANNOUNCE.get(lang) or [poster_line(lang)]
+    home_lead = announced(ann, 'address') or [home_line(ann, lang)]
     desc = re.sub(r'\s+', ' ', ' '.join(home_lead)).strip()[:300]
     assert desc, u'описание главной (%s) вышло пустым' % lang
     inner = '<main id="main">%s</main>' % '\n'.join(bands)
@@ -1680,14 +1853,19 @@ def main():
         os.path.join(ADDRESS_DIR, '%s-address.md' % l))]
     assert langs, u'нет ни одного мастера Обращения'
 
-    # Анонс заполнен - значит, главные переезжают на него. Переезд обязан
-    # случиться со всеми девятью в один прогон: собрать главную одного языка
-    # значит оставить восемь на прежнем отрывке и прежней кнопке. Проверено на
-    # себе: одиночный прогон `build_home_v2.py ru` ровно это и сделал.
-    if ANNOUNCE and not only_address:
+    # Анонсы читаются и сверяются до первой записанной страницы: остановка
+    # посреди прогона оставила бы часть главных на новом тексте, часть на
+    # прежнем.
+    #
+    # Анонсы есть - главные переходят на них в один прогон: собрать главную
+    # одного языка значит оставить восемь на прежнем тексте и прежней кнопке.
+    # Проверено на себе: одиночный прогон `build_home_v2.py ru` ровно это и
+    # сделал.
+    ann = load_announces()
+    if any(ann[l] for l in ALL_LANGS) and not only_address:
         assert len(langs) == len(ALL_LANGS), (
-            u'анонс заполнен, а прогон охватывает %d язык(ов) из %d. Главные '
-            u'переезжают на анонс все разом: соберите без имени языка либо '
+            u'анонсы есть, а прогон охватывает %d язык(ов) из %d. Главные '
+            u'переходят на анонс все разом: соберите без имени языка либо '
             u'добавьте --address, если нужны только страницы Обращения.'
             % (len(langs), len(ALL_LANGS)))
 
@@ -1791,3 +1969,12 @@ if __name__ == '__main__':
         sys.exit(main())
     except guard.LegacyWriteRefused as e:
         sys.exit(guard.die(e))
+    except AnnounceError as e:
+        # Файлы анонсов правит автор текста, и отказ адресован ему: что не так
+        # и в каком файле, без трассировки.
+        msg = u'ОСТАНОВЛЕНО: анонсы главной не собраны.\n\n  %s\n' % e
+        try:
+            sys.stderr.write(msg)
+        except UnicodeEncodeError:
+            sys.stderr.buffer.write(msg.encode('utf-8'))
+        sys.exit(2)
