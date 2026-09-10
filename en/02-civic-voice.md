@@ -76,17 +76,17 @@ A body with those properties is what we propose to regard as a people. This is o
 
 By rungs, and some of them require no one's permission: the first incontestable measurement, the opponent using the same instrument, a public chronicle of non-answers. After that comes what no longer depends on us alone: citation by third parties, a position being asked for instead of materials being submitted, embedding in other people's procedures, and one day a norm.
 
-The decisive threshold is not one of size. It comes on the day when the opposing side cites a measurement because it supports their own argument: from that moment the instrument stops being ours and becomes common.
+The decisive threshold is not one of size. It comes on the day when the opposing side cites a measurement because it supports their own argument: from that moment the instrument stops being ours and becomes shared.
 
 ### What it does not do
 
 Not power: decisions are binding only within the people. It replaces neither citizenship, nor elections, nor laws. Not a party: the people puts forward no candidates and takes no part in the internal politics of states - whatever its size. It does not compel.
 
-And a sober point. Even full recognition of the people as a subject of international law would give no ability to change the law of any country: no subject possesses such an ability with respect to another.
+And a sober point. Even full recognition of the people as a subject of international law would give no ability to change the law of any country: no subject possesses such an ability with respect to another subject.
 
 ### What it gives a person
 
-Today - a confirmable "I am a living person, I am one, and anyone can check it", an equal vote in all decisions of the people, and taking part in the first measurements.
+Today - a confirmable "I am a living person, there is only one of me, and anyone can check it", an equal vote in all decisions of the people, and taking part in the first measurements.
 
 At millions - measurements that cannot be written off as marginal; work and payment independent of access to banking services; the resolution of disputes by a procedure that does not depend on a jurisdiction.
 
@@ -94,7 +94,7 @@ At tens of millions - a counted position of the confirmed people of the planet o
 
 ### What may fail
 
-Much. Section 20 lists nine ways, and the chief of them is low turnout: a measurement in which three per cent answered is **worse than no measurement at all**, because it undermines what has already been accumulated. That is why the chief vital indicator is named as the share of those who answer, and not the size of the people, and it is always published.
+Much. Section 20 lists nine ways, and the chief of them is low turnout: a measurement in which three per cent answered is **worse than no measurement at all**, because it undermines what has already been accumulated. That is why the chief indicator of vitality is named as the share of those who answer, and not the size of the people, and it is always published.
 
 Section 21 states which of what is described has already been built and which has not. Not one substantive measurement has been conducted so far.
 
@@ -364,7 +364,7 @@ Here we answer the strongest objection to the whole undertaking: **polling milli
 
 The objection is fair. Scale by itself confers no quality of judgment, and a large number of ill-considered answers is a large number of ill-considered answers.
 
-The answer to it is the two layers. What is described below is the order set out in Article 8 ter of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); that order cannot be applied today in any case - drawing lots from a registry of a few hundred people yields no cross-section of the people, and the article says so expressly. The order is arranged like this:
+The answer to it is the two layers. What is described below is the order set out in Article 8 ter of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); that order cannot be applied today in any case - drawing lots from a registry of a few hundred people yields no cross-section of the people, and the article expressly allows for this. The order is arranged like this:
 
 **Layer one - the panel.** For each question a panel is selected by lot from the registry. Selection by lot has no opinion: it gives a cross-section of the people, not its active part, and that is fundamental - the active part is always skewed. The panel spends several weeks working through the question: it receives materials, hears specialists and representatives of the opposing positions, and discusses publicly. At the end the panel does not decide - it **formulates the options** and sets out the arguments for and against each, together with the points on which the participants did not agree.
 
@@ -455,65 +455,65 @@ And a caveat about what we do not guarantee. The funds of the treasury are money
 
 ## 13. Seven rungs
 
-Weight is not issued and not announced. It is gained, and gained rung by rung. Below is each rung with its mechanism, its condition and a statement of whether it depends on someone else's will.
+Weight is neither issued nor announced. It is gained, and gained one rung at a time. Below, each rung is given with its mechanism, its condition and an indication of whether it depends on anyone else's will.
 
 ### Rung 1. The first measurement that cannot be contested
 
-One question put to the people, counted and published together with the full trail under section 10.
+One question put to the people, counted and published together with the full trail described in section 10.
 
-*What is required:* a working instrument and participants who will answer. *Whom it depends on:* only on us. *What it gives:* an artefact of a new type appears. Not "a poll showed" but "so many confirmed unique people answered thus, and here is how to check it".
+*What is required:* a working instrument and participants who will answer. *Depends on:* us alone. *What it yields:* a new kind of artefact. Not "a poll showed" but "this many confirmed unique people gave this answer, and here is how to check it".
 
 ### Rung 2. Citation by third parties
 
 An academic paper, a report by a human rights organization, a piece of journalism cites the measurement - because no other source of that kind exists.
 
-*What is required:* that the measurement be on a question someone needs, and that the method withstand a professional eye. *Whom it depends on:* half on us. Citation cannot be compelled; grounds for it can be given. *What it gives:* the number begins to live without us. This is the first real event of legal and public cognizability.
+*What is required:* that the measurement concern a question someone has a use for, and that the method stand up to professional scrutiny. *Depends on:* us, but only by half. No one can be made to cite it, but grounds for citing it can be given. *What it yields:* the number begins to circulate without us. This is the first real event of legal and public cognizability.
 
 ### Rung 3. The opponent uses the same instrument
 
 The decisive threshold, and it is not about size.
 
-While the instrument is used by one side of a dispute, it remains that side's weapon, and it is rejected along with that side. **On the day when the opposing side cites our measurement because it supports their argument, the instrument stops being ours and becomes common.** From that moment it cannot be rejected without rejecting one's own argument.
+As long as only one side of a dispute uses the instrument, it remains that side's weapon, and it is rejected along with that side. **On the day when the opposing side cites our measurement because it supports their argument, the instrument stops being ours and becomes shared.** From that moment it cannot be rejected without rejecting one's own argument.
 
-*What is required:* flawless neutrality of questions and a readiness to publish results that we ourselves find unwelcome. *Whom it depends on:* on our discipline above all. *What it gives:* the shift from "we can be left unnoticed" to "we cannot be left unnoticed".
+*What is required:* flawlessly neutral questions and a readiness to publish results that we ourselves find unwelcome. *Depends on:* our discipline, above all. *What it yields:* the shift from "we can be overlooked" to "we cannot be overlooked".
 
 ### Rung 4. A request instead of a submission
 
-The difference between "we sent in materials" and "our position was requested" is cognizability in its pure form. A committee, a city, an agency, a commission asks the people to measure a question.
+The difference between "we submitted materials" and "our position was requested" is cognizability in its purest form. A committee, a city, an agency or a commission asks the people to take a measurement on a question.
 
-*What is required:* several years of presence and the reputation of a party that speaks to the point. *Whom it depends on:* on others. *What it gives:* the channel stops being pressure on authority and becomes a service to it. That position is sturdier than an oppositional one: a service is not abolished, people grow used to it.
+*What is required:* several years of presence and a reputation for speaking to the point. *Depends on:* others. *What it yields:* the channel stops being pressure on the authorities and becomes a service to them. That position is sturdier than an oppositional one: no one abolishes a service; one gets used to it.
 
 ### Rung 5. The chronicle of non-answers
 
-A public registry: the question was put on such a date, the addressee was such and such, an answer was or was not received, and this is what the answer said.
+A public registry: the date on which the question was put, the addressee, whether an answer was received, and what the answer said.
 
-The tool is cheap and underrated. Being ignored costs nothing in itself, because it is not an event. Being ignored where it is entered in a publicly available list with a date, and where the list grows year by year, does cost - because others cite that list, and because silence stops being an absence and becomes a fact.
+The tool is cheap and underrated. Ignoring someone costs nothing in itself, because it is not an event. Once it is entered, with a date, in a publicly available list and keeps piling up year after year, it does cost - because others cite that list, and because silence stops being an absence and becomes a fact.
 
-*What is required:* only the discipline of keeping the record, including the duty to record the answers we find unwelcome. *Whom it depends on:* only on us.
+*What is required:* only the discipline of keeping the record, including the duty to record the answers we find unwelcome. *Depends on:* us alone.
 
 ### Rung 6. Embedding in someone else's procedure
 
-A regulator accepts confirmed-unique comments in a public comment procedure. A city takes our registry as the pool for selecting a citizens' assembly by lot. An international body includes a measurement in its order of consultations.
+In a public comment process, a regulator accepts comments from people whose uniqueness has been confirmed. A city takes our registry as the pool for selecting a citizens' assembly by lot. An international body includes a measurement in its consultation procedure.
 
-*What is required:* rungs 1 to 4 climbed, and technical reliability confirmed by independent audit. *Whom it depends on:* on others entirely. *What it gives:* ignoring becomes not politically awkward but **procedurally impossible**: by breaching its own rules, a body puts its own decision at risk. This is the sturdiest form of influence in existence, and it requires not a gram of power.
+*What is required:* rungs 1 to 4 climbed, and technical reliability confirmed by an independent audit. *Depends on:* others entirely. *What it yields:* ignoring becomes **procedurally impossible** rather than politically awkward: by breaching its own rules, a body puts its own decision at risk. This is the sturdiest form of influence in existence, and it does not require an ounce of power.
 
 ### Rung 7. A norm
 
-Consultation becomes first expected, then owed.
+Consultation first becomes expected, then owed.
 
-That this is not a fantasy is shown by the history of the duty to consult indigenous peoples: from complete absence to an article of Convention No. 169 of the International Labour Organization in 1989 and the UN Declaration on the Rights of Indigenous Peoples in 2007 - within one generation. It began not with a norm and not with recognition, but with persistence and accumulated cases.
+The history of the duty to consult indigenous peoples shows that this is not a fantasy: within one generation it went from complete absence to an article of Convention No. 169 of the International Labour Organization in 1989 and to the UN Declaration on the Rights of Indigenous Peoples in 2007. It began not with a norm or with recognition, but with persistence and accumulated cases.
 
-*Whom it depends on:* on others entirely, and over a horizon we do not control.
+*Depends on:* others entirely, and on a timescale we do not control.
 
 ## 14. What depends on us and what does not
 
-Add the rungs together and you see the main thing:
+Put the rungs together and the main point becomes clear:
 
 **Rungs 1, 3 and 5 depend only on us.** The first measurement, the neutrality of the instrument and the chronicle of non-answers require no one's permission and are attainable with a relatively small number of participants. This is what we can promise - because we are the ones who do it.
 
 **Rung 2 depends half on us.**
 
-**Rungs 4, 6 and 7 depend on others.** Those we do not promise and will not promise.
+**Rungs 4, 6 and 7 depend on others.** Those we do not and will not promise.
 
 From this comes a formulation we consider honest:
 
@@ -525,21 +525,21 @@ From this comes a formulation we consider honest:
 
 ## 15. What this voice does not do
 
-The section exists so that a person joining does not build up expectations we shall not meet.
+This section exists so that a person who joins does not form expectations we will not meet.
 
-**This is not power.** The Earthlings people takes no decisions for states and exercises no public authority. Its decisions are binding only within itself and only on those who belong to it.
+**This is not power.** The Earthlings people takes no decisions in place of states and exercises no public authority. Its decisions are binding only within the people and only on those who belong to it.
 
-**This does not replace citizenship, elections and laws.** An earthling remains a citizen of their country, votes in its elections, obeys its laws and pays its taxes. The people does not require and cannot require otherwise: belonging adds to, it does not replace - Article 8 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html).
+**This does not replace citizenship, elections and laws.** An earthling remains a citizen of their country, votes in its elections, obeys its laws and pays its taxes. The people does not and cannot require otherwise: belonging adds, it does not replace - Article 8 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html).
 
-**This is not a party and not participation in a domestic struggle.** The people puts forward no candidates, supports none and funds none. At any size. This limit is not tactical but constitutive, and it cannot be lifted by a vote.
+**This is not a party and not participation in a domestic struggle.** The people does not put forward, support or fund candidates. Whatever its size. This limit is not tactical but constitutive, and it cannot be lifted by a vote.
 
-Here it is worth saying the non-obvious: **this limit is not a weakness but a condition of existence.** A transnational community of tens of millions of people that interfered in the domestic politics of countries would be banned in its very first year, and banned justly. A community that supplies a tool used alike by both sides of a dispute is hard to call interference.
+Here it is worth saying something that is not obvious: **this limit is not a weakness but a condition of existence.** A transnational community of tens of millions of people that interfered in the domestic politics of countries would be banned in its very first year, and rightly so. When a community supplies a tool that both sides of a dispute use alike, it is hard to call that interference.
 
-**This is not compulsion.** The people speaks but does not compel - violence is excluded without exception. From the result of a measurement follow no sanctions, boycotts or punishments announced on behalf of the people. What to do with their knowledge, each person decides for themselves.
+**This is not compulsion.** The people speaks but does not compel - violence is excluded without exception. No sanctions, boycotts or punishments announced on behalf of the people follow from the result of a measurement. Each person decides for themselves what to do with their knowledge.
 
-**This does not annul anyone's rights.** The existence of the people diminishes no rights of those who have not entered it, and lays claim neither to territory, nor to power, nor to the right to speak for the whole of humanity. The people speaks on behalf of those who made this choice, and in exactly that measure.
+**This does not abolish anyone's rights.** The existence of the people diminishes no rights of those who have not joined it, and the people lays claim neither to territory, nor to power, nor to the right to speak for the whole of humanity. The people speaks on behalf of those who made this choice, and to exactly that extent.
 
-**And the most important thing for sobriety.** Even full recognition of the people as a subject of international law would give it no ability to change the law of any country. No subject of international law possesses such an ability with respect to another. International legal personality gives **the right to speak where subjects speak** - that is, a place at the table, not power over someone else's parliament. Whoever promises otherwise promises the impossible.
+**And the most important point for a sober view.** Even full recognition of the people as a subject of international law would give it no ability to change the law of any country. No subject of international law possesses such an ability with respect to another subject. International legal personality gives **the right to speak where subjects speak** - that is, a place at the table, not power over someone else's parliament. Whoever promises otherwise promises the impossible.
 
 ---
 
@@ -547,41 +547,41 @@ Here it is worth saying the non-obvious: **this limit is not a weakness but a co
 
 ## 16. Today, as it grows, at scale
 
-**Today**, with tens of thousands of participants, a person receives little, and we shall not exaggerate it: a confirmable "I am a living person, I am one, and anyone can check it", one equal vote in all decisions of the people, and the chance to take part in the first measurements - that is, to be among those who create the precedent rather than those who use it.
+**Today**, with tens of thousands of participants, a person receives little, and we shall not overstate it: a confirmable "I am a living person, there is only one of me, and anyone can check it", one equal vote in all decisions of the people, and the chance to take part in the first measurements - that is, to be among those who create the precedent rather than those who use it.
 
-Let us say separately who needs this most already now. Not the comfortable resident of a country with working institutions - he has all of it.
+Let us single out who needs this most today. Not the comfortable resident of a country with working institutions - they have all of this.
 
-According to the Office of the United Nations High Commissioner for Refugees, at the end of 2025 about 118 million people in the world were forcibly displaced, and registered stateless persons numbered about 4.5 million; their actual number is higher, because no one counts the unregistered. The number changes every year, and we give it with its date so that the reader can see how fresh it is.
+According to the Office of the United Nations High Commissioner for Refugees, at the end of 2025 about 118 million people in the world were forcibly displaced, and registered stateless persons numbered about 4.5 million; their actual number is higher, because no one counts the unregistered. The figure changes every year, and we give it with its date so that the reader can see how current it is.
 
-For these people, a confirmable "I exist, I am one, and this is verified outside the state that does not recognize me" is not an abstraction but the thing they do not have.
+For these people, a confirmable "I exist, there is only one of me, and this is verified outside the state that does not recognize me" is not an abstraction but what they lack.
 
-**As it grows**, when participants number in the millions, what requires number appears: measurements that cannot be written off as marginal; an economy in which one can work and be paid independently of access to banking services; the resolution of disputes by a procedure that does not depend on a jurisdiction; help that does not cross borders, because it is already on both sides of them.
+**As it grows**, when participants number in the millions, things appear that require numbers: measurements that cannot be written off as marginal; an economy in which one can work and be paid independently of access to banking services; the resolution of disputes by a procedure that does not depend on a jurisdiction; help that does not cross borders, because it is already on both sides of them.
 
 **At scale**, when participants number in the tens and hundreds of millions, what no one can do today becomes possible: a counted position of the confirmed people of the planet on a question that concerns everyone. Not a sample with a margin of error, not a vote in which one person can cast a thousand votes, but an established and verifiable fact.
 
-So far as we know, an artefact of that kind exists neither with states, nor with international organizations, nor with polling companies. It is impossible without verification of uniqueness and impossible without number. And it is quite likely that it, and not any recognition, will be the first thing to make the people something to reckon with: **people begin to reckon not with whoever has status but with whoever has what no one else has.**
+So far as we know, neither states, nor international organizations, nor polling companies have an artefact of that kind. It is impossible without verification of uniqueness and impossible without numbers. And it is quite likely that this artefact, and not any recognition, will be the first thing to make the people something to reckon with: **it is not whoever has status that begins to be reckoned with, but whoever has what no one else has.**
 
 ## 17. What this gives to those not yet born
 
-In Part I it was said that the injured side - those who do not yet vote and those who are not yet born - has no representation. Usually the conversation ends there: naming the harm is easy, and there is nothing to repair it with.
+Part I noted that the injured party - those who do not yet vote and those who are not yet born - has no representation. Usually the conversation ends there: naming the harm is easy, but there is nothing to repair it with.
 
-Here there is something. It follows not from our good intention but from the structure of the text. Article 5 of the Declaration says: **"No decision of the Earthlings people is to shift adverse consequences onto future generations."** Article 5 belongs to the unamendable core (Article 11), and the principles of the core are not put to a vote at all - this is not a question of a raised threshold, it is a question that is not asked. A decision that contradicts the core is void from the moment it is taken and is cured neither by time nor by execution.
+Here there is something to repair it with. It follows not from our good intentions but from the structure of the text. Article 5 of the Declaration says: **"No decision of the Earthlings people is to shift adverse consequences onto future generations."** Article 5 belongs to the unamendable core (Article 11), and the principles of the core are not put to a vote at all - this is not a question of a raised threshold, it is a question that is not asked. A decision that contradicts the core is void from the moment it is taken, and neither the passage of time nor its implementation cures it.
 
-Out of this norm a standing procedure may grow: an assessment of every significant decision for its effect on those who come after - with a published opinion and the right of any participant to demand it. No such procedure exists today in any state or in any international organization. Nor do we have one yet: we have the norm from which it follows, and those are different things (section 21).
+Out of this norm a standing procedure may grow: an assessment of the effect of every significant decision on those who come after - with a published opinion and the right of any participant to demand such an assessment. No such procedure exists today in any state or in any international organization. Nor do we have one yet: we have the norm from which it follows, and those are different things (section 21).
 
-And one more thing has to be said, or the picture comes out prettier than the truth. **There is no court behind this prohibition.** The Earthlings people has no constitutional court, and we do not pretend otherwise; there is no one to compel performance. The force of the norm lies elsewhere: a breach is visible to everyone, it is cured neither by time nor by execution, and in any case of doubt the provisions of the core are construed in favour of the person. Such protection is weaker than a court's in compulsion and stronger in verifiability.
+And one more thing has to be said, or the picture will look prettier than the truth. **There is no court behind this prohibition.** The Earthlings people has no constitutional court, and we do not pretend otherwise; there is no one to enforce compliance. The force of the norm lies elsewhere: a breach is visible to everyone, neither the passage of time nor implementation cures it, and in any case of doubt the provisions of the core are construed in favour of the person. Such protection has less power of compulsion than a court's but is easier to verify.
 
-Even so, the position remains singular. If the people ever acquires a voice anywhere outside, it will be the only party at the table whose founding rule expressly forbids it to win at the expense of the generations that follow. Not because we are kinder than others, but because we are forbidden it by the very text by which we are constituted.
+Even so, the position remains singular. If the people ever acquires a voice anywhere outside itself, it will be the only party at the table whose founding rule expressly forbids it to win at the expense of the generations that follow. Not because we are kinder than others, but because the very text that constitutes us forbids it.
 
 ## 18. An honest asymmetry
 
-We are bound to say one thing plainly to a person joining, because it makes the picture honest.
+There is one thing we are obliged to say plainly to a person who joins, because without it the picture would not be honest.
 
-**The value of everything described is non-linear in the number of participants.** At tens of thousands the instrument is a curious experiment. At tens of millions it is infrastructure that cannot be walked past. The difference is created by those who came in between, and their input is worth incomparably more than the input of those who join once everything is already working.
+**The value of everything described is non-linear in the number of participants.** At tens of thousands the instrument is a curious experiment. At tens of millions it is infrastructure that no one can ignore. The difference is made by those who joined in between, and their input is worth incomparably more than the input of those who join once everything is already working.
 
-The reverse follows from this too, and it also has to be said: **an early participant takes on the risk that it will not work out.** They pay the contribution, spend time on identity verification and take part in votes whose result may interest no one. We do not know how it will end, and section 20 lists what it may fail on.
+The other side of this follows too, and it has to be said as well: **an early participant takes on the risk that it will not work out.** They pay the contribution, spend time on identity verification and take part in votes whose result may interest no one. We do not know how it will end, and section 20 lists the ways it may fail.
 
-The only thing we can set against that risk is its size. Joining is reversible on any day without giving reasons. It requires giving up neither citizenship, nor country, nor language, nor faith, nor anything else. It obliges no action against the law of one's own country. If it does not work out, little will have been lost. If it does work out, the participant will be among those who did it.
+The only thing we can set against that risk is its size. Joining is reversible on any day without giving reasons. It requires giving up neither citizenship, nor country, nor language, nor faith, nor anything else. It creates no obligation to take any action against the law of one's own country. If it does not work out, little will have been lost. If it does work out, the participant will be among those who did it.
 
 ---
 
@@ -589,158 +589,158 @@ The only thing we can set against that risk is its size. Joining is reversible o
 
 ## 19. Where the people comes from
 
-Up to now the subject has been the instrument. Now about where the people comes from in this design and why it is not decoration in it.
+So far the subject has been the instrument. Now to where the people comes from in this design, and why it is not there for decoration.
 
-**The people is not added to the instrument from outside. It comes out from within, if the requirements on the instrument are met honestly to the end.** The easiest way to show this is by a derivation in steps.
+**The people is not added to the instrument from outside. It emerges from within, if the requirements placed on the instrument are met honestly and in full.** The easiest way to show this is to derive it step by step.
 
 ### What this path does not require
 
-It is worth beginning with what a people is not needed for at all - otherwise the derivation will look like a thing fitted to a conclusion.
+It is worth beginning with what a people is not needed for at all - otherwise the derivation will look as though it had been tailored to its conclusion.
 
-Most of the instrument really is built without any people at all.
+Most of the instrument really is built without a people at all.
 
-Confirming the uniqueness of a person without disclosing identity does not require a people - such systems exist and work. Verifiable voting by wallet signatures does not require a people. A pool for selection by lot is an ordinary statistical task. Deliberative panels are run by states, universities and non-profit organizations, and have been for a long time and well.
+Confirming the uniqueness of a person without disclosing identity does not require a people - such systems exist and work. Verifiable voting by wallet signatures does not require a people. A pool for selection by lot is an ordinary statistical task. Deliberative panels are run by states, universities and non-profit organizations, and have been run well for a long time.
 
-Moreover: **a foundation would have built such an instrument faster, more cheaply and against less resistance.** It would not have had to answer the question of the status of a people, to tie its own hands with a ban on positions, and to explain to states that it lays no claim to their sovereignty. And it would have grown faster, because "register with a service" is a far lighter proposal than "join a people".
+What is more, **a foundation would have built such an instrument faster, more cheaply and with less resistance.** It would not have had to answer the question of the status of a people, tie its own hands with a ban on taking positions, or explain to states that it lays no claim to their sovereignty. And it would have grown faster, because "register with a service" is a far lighter proposal than "join a people".
 
 So the question has to be put more precisely. Not "what would become harder without a people", but **what would become impossible**.
 
 ### Six steps
 
-**Step one.** A measurement is needed whose count an opponent will verify. Hence: verifiable uniqueness of the participant and an open registry.
+**Step one.** What is needed is a measurement whose count an opponent will verify. Hence the need for verifiable uniqueness of the participant and an open registry.
 
 *A people is not needed yet. A company can do this.*
 
 **Step two.** Every measurement is a fraction. The numerator is who answered, the denominator is who could have answered. Without a defined denominator the number means nothing.
 
-For a service the denominator is "registered users". This is not a natural quantity: it is set by where the service advertised itself, where it is available, whom it let in and whom it did not. "Sixty per cent of our users think so" is a fact about marketing, not about the world. And the main thing: **the operator can move the denominator**, recruiting some and not recruiting others. This is not a flaw of execution, it is the nature of a user base.
+For a service the denominator is "registered users". This is not a natural quantity: it is set by where the service advertised itself, where it is available, whom it let in and whom it did not. "Sixty per cent of our users think so" is a fact about marketing, not about the world. Most important of all, **the operator can move the denominator** by recruiting some and not others. This is not a flaw in execution; it is the nature of a user base.
 
-Hence: membership is needed - a boundary drawn by a person's own act, not by the act of the operator.
+Hence the need for membership - a boundary drawn by a person's own act, not by the act of the operator.
 
 *A people is not needed yet. An association has membership too.*
 
-**Step three.** The operator must have no ability to influence the result. Which means it cannot include a person in the composition, exclude a person from the composition, change the rules along the way, change the question, or leave an inconvenient answer unpublished.
+**Step three.** The operator must have no ability to influence the result. That means it cannot include a person in the composition, exclude a person from the composition, change the rules along the way, change the question, or leave an inconvenient answer unpublished.
 
 But that is exactly what it means to say that **the participants have rights against the operator**. And rights against the operator exist only where there is a document the operator cannot rewrite.
 
-Hence: a founding text is needed, not a user agreement.
+Hence the need for a founding text, not a user agreement.
 
-*An association is no longer enough: its own governing body amends its statute.*
+*An association is no longer enough: its own governing body amends its constitution.*
 
-**Step four.** The instrument must outlive its owner and must not be purchasable. What can be bought is bought sooner or later, and the buyer inherits the right to measure. Institutions whose capital is trust rarely survive a change of owner with that trust intact.
+**Step four.** The instrument must outlive its owner and must not be purchasable. What can be bought will be bought sooner or later, and the buyer inherits the right to measure. Institutions whose capital is trust rarely survive a change of owner with that trust intact.
 
-Hence: the instrument must have no owner. Which means the participants must own it. Which means self-governance.
+Hence the instrument must have no owner. That means the participants must own it, and that means self-governance.
 
-**Step five.** The instrument must be equally fit for all sides and must not be a national player - otherwise it is used by one side, and it turns into a weapon.
+**Step five.** The instrument must be equally usable by all sides and must not be a national player - otherwise only one side uses it, and it turns into a weapon.
 
-Hence: it cannot belong to one jurisdiction and cannot be subordinate to any state.
+Hence it cannot belong to a single jurisdiction and cannot be subordinate to any state.
 
-**Step six.** And the last, the decisive one. In publishing a result, the instrument says one of two things:
+**Step six.** The last step, and the decisive one. When it publishes a result, the instrument says one of two things:
 
 > "So many users of a service answered thus."
 >
 > "We, the Earthlings people, hold to this."
 
-The first is data. The second is will. It is the second that has to be answered.
+The first is data. The second is will. An answer is owed to the second.
 
-Now add the steps together. A body that has a verifiable voluntary composition, a founding text beyond the reach of its own operators, self-governance instead of an owner, non-belonging to any state, and the ability to say "we" - is what **we propose to regard as a people.**
+Now put the steps together. A body that has a verifiable voluntary composition, a founding text beyond the reach of its own operators, self-governance instead of an owner, belonging to no state, and the ability to say "we" is what **we propose to regard as a people.**
 
 This is our position, not a generally recognized legal test. International law does not establish that the combination of these features constitutes a people, and we do not pass off our own reasoning as a norm.
 
-We assert only what is visible from the derivation itself: **these five features were obtained not from a wish to be called a people but from the requirements on the instrument.** We went from what has to work and arrived at something that has a name - not the other way round. A category is defined to fit oneself by starting from the name; here the order is the reverse, and it is visible from the steps set out above.
+We assert only what is visible from the derivation itself: **these five features were derived not from a wish to be called a people but from the requirements placed on the instrument.** We started from what has to work and arrived at something that has a name - not the other way round. Whoever tailors a category to fit themselves starts from the name; here the order is reversed, as the steps set out above show.
 
-**A people is not a decision taken before the instrument. It is what the instrument runs up against, if it is built properly.**
+**A people is not a decision taken before the instrument. It is where the instrument is bound to arrive, if it is built properly.**
 
 ### And why not a social movement
 
-The same conclusion is seen more briefly in a comparison with the nearest familiar form.
+A comparison with the nearest familiar form shows the same conclusion more briefly.
 
 | | A social movement | A people |
 |---|---|---|
 | Composition | declared support, unverifiable by nature | mutual recognition, which is two-sided and therefore countable |
-| Term | until its own question is resolved; exhausted by victory or defeat | not exhausted by a question, cannot be waited out |
+| Lifespan | until the question it exists for is resolved; exhausted by victory or defeat | not exhausted by a question, cannot be waited out |
 | Geography | national; international as a network of national ones | in all jurisdictions at once and in none of them separately |
-| Legal quality | is not a bearer of the right to self-determination | a bearer, if the features are established; the question is open |
+| Legal character | is not a bearer of the right to self-determination | a bearer, if the features are established; the question is open |
 
-What is meant here is a social movement. National liberation movements are a different legal category: their position took shape in decolonization, and they were recognized precisely as speaking on behalf of peoples exercising self-determination. The three upper rows do not depend on how the fourth turns out.
+The comparison here is with a social movement. National liberation movements are a different legal category: their position took shape during decolonization, and they were recognized precisely as speaking on behalf of peoples exercising self-determination. The top three rows do not depend on how the fourth turns out.
 
-### Five reasons, each of its own kind
+### Five reasons, each of a different kind
 
 The derivation above is one argument. Below are five independent ones: if the derivation is mistaken, they still stand.
 
 **The first. Will cannot be measured - it can only be produced.**
 
-A thermometer is accurate regardless of who holds it, because temperature exists on its own. With will it is otherwise: there is no "what humanity wants" lying somewhere and waiting to be gauged. There is only what a defined community, by a known procedure, having discussed the matter, has decided. That is exactly why elections do not discover the will of the voters but create it: before the count it exists nowhere, after the count it exists.
+A thermometer is accurate regardless of who holds it, because temperature exists on its own. Will is different: there is no "what humanity wants" lying somewhere and waiting to be gauged. There is only what a defined community has decided, by a known procedure, after discussing the matter. That is exactly why elections do not discover the will of the voters but create it: before the count it exists nowhere, after the count it exists.
 
-Hence: a procedure that produces will requires the one whose will it is. A polling company can assess the distribution of opinions, and no one forbids it that. It cannot produce will, because there is no bearer.
+Hence a procedure that produces will requires someone whose will it is. A polling company can assess the distribution of opinions, and no one forbids it to do so. It cannot produce will, because there is no bearer of that will.
 
-An opinion can be measured without a people. **Will cannot be produced without a people.** And an opinion is ignored; a will is answered.
+An opinion can be measured without a people. **Will cannot be produced without a people.** And an opinion gets ignored; a will gets an answer.
 
 **The second. The question "who authorized you to ask".**
 
-It will sound on the very first day, as soon as a measurement begins to mean something. Look at the available answers. A state answers: the law. A company answers: no one, and it lays no claim to significance. A foundation answers: the board of directors - and the next question, "and who elected the board", ends the conversation. A people answers: its participants, by a procedure that anyone can check.
+It will be asked on the very first day that a measurement begins to mean something. Look at the available answers. A state answers: the law. A company answers: no one, and it lays no claim to significance. A foundation answers: the board of directors - and the next question, "and who elected the board", ends the conversation. A people answers: its participants, by a procedure that anyone can check.
 
-**Only two answers withstand the second question.** A foundation building such an instrument is forever open to the retort "you are a private group of unelected people deciding what to ask humanity about". For a foundation that retort is unanswerable. For a people it is answerable in full, and the answer can be checked.
+**Only two answers stand up to that second question.** A foundation building such an instrument is forever open to the retort "you are a private group of unelected people deciding what to ask humanity about". For a foundation that retort is unanswerable. For a people it is answerable in full, and the answer can be checked.
 
-**The third. The unamendable core is not only ethics, it is protection of the instrument against capture.**
+**The third. The unamendable core is not only ethics; it protects the instrument against capture.**
 
 The five principles of the core read as values. Look at them as a technical specification.
 
-"A vote cannot be bought, sold, accumulated or transferred irrevocably" is a requirement that the result of a measurement cannot be acquired. "Property is separated from the vote" is so that weight in a measurement cannot be bought with money. "Power does not accumulate, a mandate does not become an office" is so that the instrument is not captured from within by those who service it. "Leaving is free, and expulsion does not exist" is so that the denominator cannot be cleared of the inconvenient. "The people speaks but does not compel" is so that the instrument cannot be turned into a weapon, and therefore so that both sides use it.
+"A vote cannot be bought, sold, accumulated or transferred irrevocably" is a requirement that the result of a measurement cannot be acquired. "Property is separated from the vote" is there so that weight in a measurement cannot be bought with money. "Power does not accumulate, a mandate does not become an office" is there so that the instrument is not captured from within by those who maintain it. "Leaving is free, and expulsion does not exist" is there so that the denominator cannot be cleared of those who are inconvenient. "The people speaks but does not compel" is there so that the instrument cannot be turned into a weapon, and therefore so that both sides would use it.
 
-Now ask: what protects from capture an instrument belonging to a foundation? The good faith of its board. That is not inherited, is not verifiable from outside, and does not survive a change of composition.
+Now ask: what protects an instrument belonging to a foundation from capture? The good faith of its board. Good faith is not inherited, is not verifiable from outside, and does not survive a change of board members.
 
-The core is the only design known to us in which the attack "buy it" has no object: there is nothing to buy, because the vote is inalienable. But for such principles to exist, a document standing above the management is needed - that is, the same step three.
+The core is the only design known to us in which the "buy it" attack has nothing to target: there is nothing to buy, because the vote is inalienable. But for such principles to exist, a document standing above the management is needed - that is, step three again.
 
-And here there is a live test of the whole argument, which is more honest to name outright than to skirt with a hint.
+And here there is a live test of the whole argument, which it is more honest to name outright than to hint at.
 
-The largest project of confirming the uniqueness of a person built **without a people** is World, formerly Worldcoin, created by the company Tools for Humanity. It is arranged as a product: confirmation of uniqueness by the iris of the eye, its own token, a reward for passing the check. Technically the task is solved, and solved in earnest - this is not amateur work.
+The largest project for confirming the uniqueness of a person built **without a people** is World, formerly Worldcoin, created by the company Tools for Humanity. It is set up as a product: confirmation of uniqueness by iris scan, its own token, a reward for passing the check. Technically the problem has been solved, and solved seriously - this is not amateur work.
 
-Then begins what we cite this case for. Regulators saw not a civic institution but a commercial collection of biometrics, and in three jurisdictions this was set down in decisions that can be read.
+Then comes the part we cite this case for. Regulators saw not a civic institution but a commercial collection of biometrics, and in three jurisdictions this was set down in decisions anyone can read.
 
-- **Spain.** On 6 March 2024 the Data Protection Agency, by a precautionary measure, ordered the company Tools for Humanity to stop collecting and processing personal data in the country and to block what had already been collected. The company challenged the measure, and the Audiencia Nacional upheld it.
-- **Brazil.** In January 2025 the National Data Protection Authority prohibited offering cryptocurrency or any other reward for the collection of biometrics, and by a decision of its Board of Directors of 25 March 2025 rejected the appeal, keeping in force a fine of 50,000 reais for each day of resumed processing. The ground was precisely the payment: consent bought for money is not recognized as consent by Brazilian law.
-- **Kenya.** The High Court, by a decision of 5 May 2025, established a breach of the Data Protection Act of 2019 - the mandatory impact assessment had not been carried out - and ordered the irreversible deletion of all biometric data of Kenyans within seven days.
+- **Spain.** On 6 March 2024 the Data Protection Agency ordered the company Tools for Humanity, as a precautionary measure, to stop collecting and processing personal data in the country and to block what had already been collected. The company challenged the measure, and the Audiencia Nacional upheld it.
+- **Brazil.** In January 2025 the National Data Protection Authority prohibited offering cryptocurrency or any other reward for the collection of biometrics, and on 25 March 2025, by a decision of its Board of Directors, rejected the appeal, keeping in force a fine of 50,000 reais for each day of resumed processing. The ground for the decision was precisely the payment: Brazilian law does not recognize consent bought with money as consent.
+- **Kenya.** The High Court, in a decision of 5 May 2025, found a breach of the Data Protection Act of 2019 - the mandatory impact assessment had not been carried out - and ordered the irreversible deletion of all Kenyans' biometric data within seven days.
 
-And not one body in any country treats that registry as a source of socially significant measurements.
+And not one body in any country treats that registry as a source of measurements of public significance.
 
-The instrument there works. Its readings carry no weight.
+There, the instrument works. Its readings carry no weight.
 
-We do not consider that project to be in bad faith and do not dispute its technical side; much in it is done better than in ours. We point to something else: **the same instrument, built without a people, met exactly the fate that steps three and four predict.** It has an owner - which means it can be bought. It has no composition but users - which means the company sets the denominator. And to the question "who authorized you to ask" it has nothing to answer with.
+We do not consider that project to be acting in bad faith and do not dispute its technical side, much of which is done better than ours. We point to something else: **the same instrument, built without a people, met exactly the fate that steps three and four predict.** It has an owner - which means it can be bought. It has no composition but users - which means the company sets the denominator. And to the question "who authorized you to ask" it has no answer.
 
 **The fourth. Who will answer the fortieth question.**
 
 The instrument needs answers regularly and for years. Ask yourself what will make a person answer the fortieth question in the twelfth year, if the previous thirty-nine changed nothing visible.
 
-Benefit? The return on a single answer is near zero - that is the same Olson from section 2, only now he strikes at the working of the instrument itself. Money? A paid answer devalues the measurement, and paying hundreds of millions for ever is impossible. Compulsion? Excluded by the core, and rightly excluded.
+Benefit? The return on a single answer is near zero - that is Olson's problem from section 2 again, only now it strikes at the working of the instrument itself. Money? A paid answer devalues the measurement, and paying hundreds of millions of people for ever is impossible. Compulsion? Excluded by the core, and rightly excluded.
 
-What remains is belonging. People come to elections although one vote almost never decides anything and taking part is individually irrational. They come because it is their own, and because not coming means dropping out of "we".
+What remains is belonging. People turn out to vote although one vote almost never decides anything and taking part is individually irrational. They turn out because it is theirs, and because not turning out means dropping out of the "we".
 
-A user base does not produce that. A people does. **An instrument running on voluntary participation for decades requires not motivation but belonging** - and the reason for that is an engineering one, not a poetic one. How this is connected with the choice of questions is stated in section 8.
+A user base does not produce that. A people does. **An instrument running on voluntary participation for decades requires not motivation but belonging** - and the reason for that is an engineering one, not a poetic one. Section 8 sets out how this is connected with the choice of questions.
 
-**The fifth, the legal one.** The upper rungs of the ladder of weight - embedding in someone else's procedure and turning practice into a norm - are open to one who is someone, not to something that is something. The instrument of a company is at best cited as a source; a party it will never become, because parties in international law are subjects, while the right to self-determination is attached to peoples. We repeat the caveat at once rather than a page later: whether it applies to a voluntarily constituted non-territorial people is not established by international law, and we do not assert that it does. But a foundation has no chance at all, while for a people the question is not closed.
+**The fifth, the legal one.** The upper rungs of the ladder of weight - embedding in someone else's procedure and turning practice into a norm - are open to a someone, not to a something. The instrument of a company is at best cited as a source; it will never become a party, because parties in international law are subjects, while the right to self-determination is vested in peoples. We repeat the caveat at once rather than a page later: whether that right applies to a voluntarily constituted non-territorial people is not established by international law, and we do not assert that it does. But a foundation has no chance at all, while a people's chance has not been ruled out.
 
 ### What a people costs
 
 Since we are being honest, let us name the price too. It is not small.
 
-Slower growth: joining a people is harder than registering. A proposal harder to explain. An open legal question that the opponent makes use of. The wariness of states, which a foundation would not have met. And voluntary limits - no positions on domestic politics, no compulsion - which a foundation would not have taken on.
+Slower growth: joining a people is harder than registering. A proposal that is harder to explain. An open legal question that the opponent makes use of. The wariness of states, which a foundation would not have faced. And voluntary limits - no positions on domestic politics, no compulsion - which a foundation would not have taken on.
 
-All of this is paid for the five features above. The trade is deliberate, and it may turn out to be a bad one.
+All of this is the price of the five features above. The trade is deliberate, and it may turn out to be a bad one.
 
 ### How to check that we are wrong
 
-In the spirit of the rest of the document, let us name the condition of our own error. If in ten years a verifiable poll by some foundation or company is regularly cited by treaty bodies and states, and no one asks "who authorized you" - then the people was superfluous, and we chose an expensive road where a cheap one would have served.
+In the spirit of the rest of the document, let us name the condition under which we would be wrong. If in ten years a verifiable poll by some foundation or company is regularly cited by treaty bodies and states, and no one asks "who authorized you" - then the people was superfluous, and we chose an expensive road where a cheap one would have served.
 
 ### And the reverse question
 
 It is worth putting that one too. What does a people need an instrument for?
 
-A people without an instrument is a statement of intent that has no way of expressing a common will. That is exactly what we complain of ourselves: the right is recognized, the procedure does not exist, and a recognized right that no one can assert remains a norm without application. A people without a procedure would repeat the complaint instead of removing it.
+A people without an instrument is a statement of intent that has no way of expressing a common will. That is exactly what we ourselves complain of: the right is recognized, the procedure does not exist, and a recognized right that no one can assert remains a norm without application. A people without a procedure would repeat the complaint instead of removing it.
 
-An instrument without a people is data that there is no one to present on anyone's behalf.
+An instrument without a people is data with no one to present it on anyone's behalf.
 
-**These are not two things one of which can be discarded. They are two halves of one.** Verifiability without mutual recognition gives statistics. Mutual recognition without verifiability gives a petition. Together they give what has not existed until now.
+**These are not two things of which one can be discarded. They are two halves of a single whole.** Verifiability without mutual recognition yields statistics. Mutual recognition without verifiability yields a petition. Together they yield what has not existed until now.
 
 It may seem that without powers one cannot have influence. That is untrue, and practice refutes it. Below are six cases - five successful and one instructively unsuccessful. We cite them not as proof that we are right but as a source of requirements on ourselves.
 
@@ -748,47 +748,47 @@ It may seem that without powers one cannot have influence. That is untrue, and p
 
 # Part IX. What may go wrong
 
-## 20. Nine ways in which this does not come about
+## 20. Nine ways in which this fails to come about
 
-The section is not there for balance. Every one of the outcomes listed is possible, some are likelier than the good ones, and for each it is stated what we do and what we do not guarantee.
+This section is not here for the sake of balance. Every one of the outcomes listed is possible, some are likelier than the good ones, and for each we state what is being done and what we do not guarantee.
 
-### 1. Taking a party side
+### 1. Taking sides in party politics
 
-**What happens.** The people - or a noticeable part of it, or its leadership - publicly takes one of the sides in someone's domestic political split. From that day the instrument is, for half of society, the enemy's weapon, and its readings are rejected along with it.
+**What happens.** The people - or a noticeable part of it, or its leadership - publicly takes one of the sides in some country's domestic political divide. From that day the instrument is, for half of society, the enemy's weapon, and its readings are rejected along with it.
 
-**Why this is fatal.** A tool of this type cannot be restored: the example of Doing Business in section 6 shows that trust is lost entirely and at one stroke.
+**Why this is fatal.** A tool of this type cannot be restored: the example of Doing Business in section 6 shows that trust is lost completely and for good.
 
-**What is being done.** The ban on positions on the domestic politics of states stands in the Declaration, not in a set of rules. The people has no opinion about parties, candidates and elections anywhere and ever.
+**What is being done.** The ban on taking positions on the domestic politics of states is written into the Declaration, not into a set of rules. The people has no opinion about parties, candidates or elections, anywhere, ever.
 
 **What we do not guarantee.** We cannot prevent participants from speaking on their own behalf, and we must not do so. The risk that someone else's statements will be attributed to the people remains.
 
 ### 2. A question composed to fit the answer
 
-**What happens.** The wording of one question turns out to be leading - by design or by carelessness. It is discovered.
+**What happens.** The wording of one question turns out to be leading - by design or through carelessness - and this comes to light.
 
 **Why this is grave.** What is devalued is not one measurement but the method: all past and all future ones fall under suspicion.
 
-**What is being done.** Separating those who formulate from those who manage; publishing the question in advance; the adversarial stage with publication of objections; the ban on correction after voting begins.
+**What is being done.** Separating those who formulate from those who manage; publishing the question in advance; the adversarial stage with publication of objections; the ban on edits after voting begins.
 
-**What we do not guarantee.** That the procedure will withstand pressure if the answer turns out to matter very much to someone very strong.
+**What we do not guarantee.** That the procedure will withstand pressure if the answer turns out to matter very much to someone very powerful.
 
 ### 3. Low turnout
 
-We put it third, but by significance it is first.
+We put it third, but in importance it comes first.
 
-**What happens.** The people has a hundred million participants, and three per cent take part in a measurement. The opponent gets the perfect reply, and that reply is just: "you speak for a hundred million, and you asked three in a hundred".
+**What happens.** The people has a hundred million participants, and three per cent take part in a measurement. The opponent gets the perfect reply, and a fair one: "you speak for a hundred million, and you asked three in a hundred".
 
 **Why this is the most dangerous of all.** A measurement with low turnout is **worse than no measurement at all**: it adds no proof but undermines what has already been accumulated.
 
-**Where it is actually cured.** Not in reminders and not in appeals - **in the question.** A person answers when the question touches their life and when something depends on the answer. Hence the two requirements set out in section 8: a planetary question is put at the point where the consequence falls on every person, and not where institutions negotiate about it; and no period consists of planetary questions alone - alongside them there always run questions of the internal life of the people, whose consequence arrives at once and for certain.
+**Where the real cure lies.** Not in reminders or appeals - **in the question.** A person answers when the question touches their life and when something depends on the answer. Hence the two requirements set out in section 8: a planetary question is put at the point where the consequence falls on every person, and not where institutions negotiate about it; and no period consists of planetary questions alone - they are always accompanied by questions of the internal life of the people, whose consequence follows at once and for certain.
 
-Let us say the reverse too, because it is of the same order: **if the questions cease to touch the real life, interests and difficulties of people, the sense of voting will disappear entirely** - and low turnout will be the participants' correct answer, not their fault.
+The other side of this has to be said too, because it matters just as much: **if the questions cease to touch people's real lives, interests and difficulties, the point of voting will disappear entirely** - and low turnout will be the participants' correct answer, not their fault.
 
-**What else is being done.** The share of those who voted is published always and first of all, including the cases where it is low. We shall not hide turnout behind absolute numbers.
+**What else is being done.** The share of those who voted is always published, and published first, including when it is low. We shall not hide turnout behind absolute numbers.
 
-**What follows from this for ourselves.** **The share of those who answer is the chief vital indicator of the project, more important than the number of participants.** A people of ten million with a turnout of forty per cent weighs incomparably more than a people of a hundred million with a turnout of four per cent. We say this in advance, so that one indicator cannot later be substituted for the other.
+**What this means for us.** **The share of those who answer is the chief indicator of the project's vitality, more important than the number of participants.** A people of ten million with a turnout of forty per cent weighs incomparably more than a people of a hundred million with a turnout of four per cent. We say this in advance, so that one indicator cannot later be substituted for the other.
 
-**What we do not guarantee.** That a suitable question will always be found. The boundary is narrow deliberately, and questions that are at once planetary and close to every person are fewer than one would like. We shall not widen it for the sake of turnout: a people that has started asking about anything and everything in order to be listened to better has ceased to be what it was created for.
+**What we do not guarantee.** That a suitable question will always be found. The boundary is deliberately narrow, and questions that are at once planetary and close to every person are fewer than one would like. We shall not widen it for the sake of turnout: a people that has started asking about anything and everything in order to get a better hearing has ceased to be what it was created for.
 
 ### 4. Shallowness
 
@@ -796,7 +796,7 @@ Let us say the reverse too, because it is of the same order: **if the questions 
 
 **Why this is bad.** Such a result is no better than an ordinary poll and deserves no greater trust. Scale without deliberation is not the voice of a people but a sum of reactions.
 
-**What is being done.** The two layers from section 9: the panel gets to grips and formulates, the people votes on the prepared options.
+**What is being done.** The two layers from section 9: the panel gets to grips with the question and formulates the options, and the people votes on the prepared options.
 
 **What we do not guarantee.** That panels can be assembled, that people will agree to spend weeks on the examination, and that the prepared options will be read.
 
@@ -804,15 +804,15 @@ Let us say the reverse too, because it is of the same order: **if the questions 
 
 **What happens.** A transnational community of tens of millions of people is declared an instrument of someone else's influence. Taking part in it is restricted by law.
 
-**Why this is likely.** It is an expected reaction, and it has its own logic: an organized transnational presence always raises the question of whose interests it acts in.
+**Why this is likely.** It is an expected reaction, and it has its own logic: an organized transnational presence always raises the question of whose interests it serves.
 
-**What is being done.** The people holds no positions on the internal questions of states, funds nobody's politics and supplies a tool, not an opinion. Everything the people does is public and in its own name.
+**What is being done.** The people holds no positions on the internal affairs of states, funds nobody's politics and supplies a tool, not an opinion. Everything the people does is public and in its own name.
 
 **What we do not guarantee.** Nothing. That decision is not ours to take.
 
 ### 6. The registry seen as a threat rather than a resource
 
-**What happens.** A verified base of millions of unique people is perceived as a security problem rather than a public good. Precedents for restricting similar uniqueness-verification projects in particular jurisdictions exist.
+**What happens.** A verified database of millions of unique people is perceived as a security problem rather than a public good. There are precedents for restricting similar uniqueness-verification projects in particular jurisdictions.
 
 **What is being done.** Raw biometrics are not retained, identifying data are not held in the registry, there is no reward for passing the check. The architecture answers the known objections of that kind.
 
@@ -820,15 +820,15 @@ Let us say the reverse too, because it is of the same order: **if the questions 
 
 ### 7. Capture of the instrument from within
 
-**What happens.** Control of the instrument concentrates in the hands of those to whom the result matters: the choice of questions, the timing, the interpretation. Formally everything is honest; in fact the instrument serves one group.
+**What happens.** Control of the instrument - the choice of questions, the timing, the interpretation - becomes concentrated in the hands of those to whom the result matters. Formally everything is honest; in fact the instrument serves one group.
 
-**What is being done.** Separation of those who formulate from those who manage, selection by lot instead of appointment, revocability of mandates, publication of the whole trail. The design of the people resists this more strongly than is usual: the core is outside voting, a mandate does not become an office, leaving is always possible.
+**What is being done.** Separation of those who formulate from those who manage, selection by lot instead of appointment, revocability of mandates, publication of the whole trail. The design of the people resists this more strongly than is usual: the core is not put to a vote, a mandate does not become an office, leaving is always possible.
 
-**What we do not guarantee.** That it is protected absolutely. It is not.
+**What we do not guarantee.** That the protection is absolute. It is not.
 
 ### 8. Success that corrupts
 
-**What happens.** The instrument becomes influential. The influence begins to seem too valuable to risk for the sake of neutrality. There appears a temptation, just once, not to publish an unwelcome result, just once not to ask about what would split the composition, just once to touch up a wording.
+**What happens.** The instrument becomes influential. The influence begins to seem too valuable to risk for the sake of neutrality. The temptation arises, just once, not to publish an unwelcome result, just once not to ask about what would split the composition, just once to touch up a wording.
 
 **Why this is worth recording in advance.** Because it happens not to bad people but to those who value what has been achieved, and it is always recognized after the fact.
 
@@ -836,11 +836,11 @@ Let us say the reverse too, because it is of the same order: **if the questions 
 
 ### 9. No one will ask
 
-**What happens.** The instrument is built, works flawlessly, publishes measurement after measurement - and no one uses them. No citations, no requests, no embedding. Rungs 2, 4 and 6 never arrive.
+**What happens.** The instrument is built, works flawlessly, publishes measurement after measurement - and no one uses them. No citations, no requests, no embedding. Rungs 2, 4 and 6 are never reached.
 
 **Why this is the most likely of the bad outcomes.** It requires no one's hostility. Indifference is enough.
 
-**What is being done.** The chronicle of non-answers is the only answer to indifference that we have: it turns silence into a recorded fact. It works slowly and may not work at all.
+**What is being done.** The chronicle of non-answers is the only answer to indifference that we have: it turns silence into a recorded fact. It works slowly and may fail.
 
 **What we do not guarantee.** Nothing. Use cannot be compelled.
 
@@ -848,53 +848,53 @@ Let us say the reverse too, because it is of the same order: **if the questions 
 
 # Part X. Verifiability
 
-## 21. What of what is described already exists and what does not
+## 21. Which parts of what is described already exist and which do not
 
-We assert that Earthlings is verifiable, and that assertion has meaning only when it is stated exactly what has already been built and what is so far a description of a design.
+We assert that Earthlings is verifiable, and that assertion means something only if we state exactly what has already been built and what is so far a description of a design.
 
 **Built and working:**
 
 - identity verification and the issuance of a non-transferable passport;
-- a registry of passports in a blockchain, read directly from an open smart contract;
-- a public channel for votes, where every vote is signed by the wallet of the voter;
+- a registry of passports on a blockchain, read directly from an open smart contract;
+- a public channel for votes, where every vote is signed by the voter's wallet;
 - an on-chain treasury, every transaction of which is available for public audit.
 
 **Not built:**
 
-- **no substantive measurements have been conducted.** The voting channel is deployed and technically works, but there have been no votes on the merits in it yet;
+- **no substantive measurements have been conducted.** The voting channel is deployed and technically works, but no votes on the substance have yet been held on it;
 - **no procedure in detail for forming a question exists.** The requirements without which a measurement does not take place are set out in Article 8 bis of the Charter; the order in detail is left to a decision of the Assembly and has not been adopted;
-- **no panels selected by lot exist.** The two-layer scheme from section 9 is set out in Article 8 ter of the Charter, but not one panel has been assembled: the registry is still too small for a draw, and the article says so expressly;
+- **no panels selected by lot exist.** The two-layer scheme from section 9 is set out in Article 8 ter of the Charter, but not one panel has been assembled: the registry is still too small for a draw, and the article expressly allows for this;
 - **no chronicle of non-answers exists.** It has not been started;
 - **no independent security audit has been conducted.**
 
-The full list of what is declared as a principle but not yet done - including the unfinished verification of the contract, the undivided owner rights and the absence of a multisig on the treasury wallet - is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html). We prefer to name these places ourselves rather than leave them as a find for an inspector.
+The full list of what is declared as a principle but not yet done - including the unfinished verification of the smart contract, the owner rights that have not been divided and the absence of a multisig on the treasury wallet - is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html). We prefer to name these gaps ourselves rather than leave them to be found by whoever checks.
 
 ## 22. The indicators by which we should be judged
 
-So that what is described here can be checked rather than taken on faith, we name the indicators by which we should be judged. The obligation to publish the share of those who voted out of those entitled to vote is set out in Article 8 bis of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); the remaining indicators this document does not establish and cannot establish - it offers them as a measure that it turns upon itself. Not one of them is promotional, and on several of them we shall certainly look bad in the first years.
+So that what is described here can be checked rather than taken on faith, we name the indicators by which we should be judged. The obligation to publish the share of those who voted out of those entitled to vote is set out in Article 8 bis of the [Charter](https://earth-lings.org/documents/en/en05-charter.html); this document does not and cannot establish the remaining indicators - it offers them as a measure it applies to itself. Not one of them is promotional, and on several of them we will certainly look bad in the early years.
 
 | Indicator | Why it is there |
 |---|---|
-| The share of those entitled who voted, for each measurement | The chief indicator. Published always, low values included |
-| The distribution of participation by country and region | A people consisting of one country is not planetary |
+| The share of those who voted out of those entitled to vote, for each measurement | The chief indicator. Always published, low values included |
+| The distribution of participation by country and region | A people drawn from one country is not planetary |
 | The share of questions that went through the adversarial stage, and the number of objections submitted | Shows whether the protection against a question fitted to an answer works |
 | The number of measurements whose result turned out to be the opposite of what the authors of the question expected | An instrument that always confirms expectations is broken |
-| The share of votes whose result changed something inside the people | Shows whether questions with a consequence that arrives for certain run alongside the planetary ones |
+| The share of votes whose result changed something inside the people | Shows whether questions whose consequence follows for certain run alongside the planetary ones |
 | The chronicle of non-answers: asked, answered, not answered | Turns silence into a fact |
-| The number of citations by third parties and their composition | Whether rung 2 has arrived or not |
-| The number of cases where a measurement was cited by a side to whose benefit it runs contrary to our position | The only indicator of rung 3 |
+| The number of citations by third parties and their composition | Whether rung 2 has been reached or not |
+| The number of cases where a measurement was cited by a side that it supports against our own position | The only indicator of rung 3 |
 
 ---
 
 ## What is not here
 
-**There are no dates here.** Not one rung has "in three years" written against it, because that would be an invention: the speed is set by the number of participants, by accumulated practice and by other people's decisions, not by our plan.
+**There are no timelines here.** Not one rung has "in three years" written against it, because that would be an invention: the speed is set by the number of participants, by accumulated practice and by other people's decisions, not by our plan.
 
 **There are no probabilities here.** We do not know which of the rungs will be reached, or whether even one will be.
 
-**There is no promise of a result here.** What the people is bound by and what it is not bound by is set out in Article 6 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and we do not reproduce it here, so that the norm keeps a single source. In short: recognition is not within its power, and the existence of the people does not depend on recognition.
+**There is no promise of a result here.** What the people is bound by and what it is not bound by is set out in Article 6 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and we do not reproduce it here, so that the norm has a single source. In short: recognition is not within its power, and the existence of the people does not depend on recognition.
 
-**And there is not a single assertion here on which anything depends today.** The infrastructure is built, the founding period is under way, the Declaration is being put to a vote. If not one of the rungs described here is climbed, that will annul nothing of what has already been done and will make meaningless nothing of what people chose one another for.
+**And there is not a single assertion here on which anything depends today.** The infrastructure is built, the founding period is under way, the Declaration is being put to a vote. If not one of the rungs described here is climbed, that will not undo anything already done, nor render meaningless anything people chose one another for.
 
 ---
 
@@ -910,24 +910,24 @@ The norms the document relies on:
 
 The facts given in the text:
 
-- The investigation by the New York State Attorney General into fake comments in the procedure of the US Federal Communications Commission, 6 May 2021 - [report](https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing). All the numbers are taken from it: more than 22 million comments, almost 18 million fake, 8.5 million for 4.2 million dollars from the industry association, 7.7 million from one person
+- The investigation by the New York State Attorney General into fake comments in a proceeding of the US Federal Communications Commission, 6 May 2021 - [report](https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing). All the numbers are taken from it: more than 22 million comments, almost 18 million fake, 8.5 million from the trade association for 4.2 million dollars, 7.7 million from one person
 - The discontinuation of the Doing Business ranking by the World Bank, September 2021 - [statement](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
 - The procedure for preparing and approving the reports of the Intergovernmental Panel on Climate Change - [IPCC procedures](https://www.ipcc.ch/about/procedures/)
 - The working principles of the Internet Engineering Task Force, including the formula "rough consensus and running code" - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
-- The Citizens' Assembly of Ireland of 2016-2018 - [assembly materials](https://citizensassembly.ie/); the Constitutional Convention of 2012-2014 - [convention archive](https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/). Dates and results of the referendums: 22 May 2015 (same-sex marriage), 25 May 2018 (the Thirty-sixth Amendment, by which the Eighth was repealed, 66.4 per cent on a turnout of 64.1)
+- The Citizens' Assembly of Ireland of 2016-2018 - [assembly materials](https://citizensassembly.ie/); the Constitutional Convention of 2012-2014 - [convention archive](https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/). Dates and results of the referendums: 22 May 2015 (same-sex marriage), 25 May 2018 (the Thirty-sixth Amendment, by which the Eighth was repealed, 66.4 per cent on a turnout of 64.1 per cent)
 - Data on the forcibly displaced and on stateless persons at the end of 2025 - [UNHCR statistics](https://www.unhcr.org/refugee-statistics/)
 - The precautionary measure of the Spanish Data Protection Agency with respect to Tools for Humanity, 6 March 2024 - [AEPD announcement](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - Decision PR/ANPD No. 18/2025 of the National Data Protection Authority of Brazil of 25 March 2025 rejecting the appeal and maintaining the prohibition - [ANPD website](https://www.gov.br/anpd/)
-- The decision of the High Court of Kenya of 5 May 2025 in the case on the activity of Worldcoin - [analysis by the Centre for Intellectual Property and Information Technology Law, Strathmore University](https://cipit.strathmore.edu/kenya-high-courts-worldcoin-determination-upholding-consent-accountability-and-data-sovereignty-in-biometric-data-processing/)
+- The decision of the High Court of Kenya of 5 May 2025 in the case concerning Worldcoin's activities - [analysis by the Centre for Intellectual Property and Information Technology Law, Strathmore University](https://cipit.strathmore.edu/kenya-high-courts-worldcoin-determination-upholding-consent-accountability-and-data-sovereignty-in-biometric-data-processing/)
 - The Corruption Perceptions Index of Transparency International - [methodology](https://www.transparency.org/en/cpi)
 
-The work on which the examination of the fifth fault relies:
+The work on which the discussion of the fifth fault relies:
 
 - Mancur Olson. The Logic of Collective Action: Public Goods and the Theory of Groups. Harvard University Press, 1965.
 
-This is a doctrinal source, not a norm. We cite it because the mechanism described in it is verifiable and observable, not because anyone's opinion obliges anyone.
+This is a doctrinal source, not a norm. We cite it because the mechanism described in it is verifiable and observable, not because anyone's opinion binds anyone.
 
-Documents of the corpus to which this one refers:
+Documents in the corpus to which this one refers:
 
 - [The Earthlings Declaration](https://earth-lings.org/documents/en/en01-declaration.html) - Articles 3, 5, 6, 8, 9, 10 and 11
 - [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html)
