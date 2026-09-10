@@ -1451,6 +1451,38 @@ def build_address(lang):
                 [])
 
 
+# Скрипт корня. Встроен в <head>, чтобы переброс срабатывал до отрисовки.
+#
+# ПЕРЕБРОС - только по сохранённому ВЫБОРУ человека (ключ пишет chrome.js по
+# нажатию в переключателе языка или в списке на корне). У краулера хранилище
+# пустое, и он всегда видит страницу выбора - x-default остаётся живым.
+#
+# Не перебрасывает, если человек пришёл на корень со своего же сайта: значит,
+# он нажал на логотип или ссылку на корень и хочет увидеть выбор, а не
+# вернуться туда, откуда пришёл.
+#
+# ЯЗЫК БРАУЗЕРА - только подсветка, НИКОГДА не переброс. Googlebot выполняет
+# скрипты с английской локалью: переброс по языку браузера превратил бы корень
+# для него в переброс на /en/, и x-default снова умер бы - ровно то, из-за чего
+# 2026-09-06 сняли серверный переброс по Accept-Language. Подсветка корень не
+# меняет: девять ссылок те же, для всех, только совпавший пункт встаёт первым.
+#
+# IP не используется вовсе. Страна - плохая подсказка к языку, и для народа, не
+# привязанного к территории, угадывать язык по государству - спор с основанием.
+ROOT_LANG_JS = (
+    u"(function(){var L=['ru','en','de','es','fr','zh','ar','hi','ka'],s=null,own=false;"
+    u"try{s=localStorage.getItem('earthlings-language')}catch(e){}"
+    u"try{own=!!document.referrer&&new URL(document.referrer).origin===location.origin}catch(e){}"
+    u"if(s&&L.indexOf(s)>=0&&!own){location.replace('/'+s+'/');return}"
+    u"document.addEventListener('DOMContentLoaded',function(){"
+    u"var n=navigator.languages&&navigator.languages.length?navigator.languages:[navigator.language||''],p=null,i,c;"
+    u"for(i=0;i<n.length&&!p;i++){c=String(n[i]).toLowerCase().split('-')[0];if(L.indexOf(c)>=0)p=c}"
+    u"if(!p)return;var a=document.querySelector('.langlist a[lang=\"'+p+'\"]');if(!a)return;"
+    u"var li=a.parentNode;li.setAttribute('data-suggested','');"
+    u"li.parentNode.insertBefore(li,li.parentNode.firstChild)})})();"
+)
+
+
 def build_root():
     u"""Корневая страница сайта - выбор языка.
 
@@ -1494,8 +1526,10 @@ def build_root():
     return wrap(lang, '\n'.join(o), ORIGIN + '/',
                 'Earthlings in nine languages - choose one', lead[:300],
                 lambda c: '/%s/' % c,
-                # Корню нужен только список языков - полос у него нет.
-                ['<link rel="stylesheet" href="/css/langlist.css">'])
+                # Корню нужен только список языков - полос у него нет. Скрипт
+                # языка - см. ROOT_LANG_JS над функцией.
+                ['<link rel="stylesheet" href="/css/langlist.css">',
+                 '<script>%s</script>' % ROOT_LANG_JS])
 
 
 def check_essay_typography():
