@@ -68,7 +68,7 @@ Together with the result there is published everything by which it is checked: t
 
 The people is not added to the instrument from outside. It arises from within.
 
-A measurement needs a defined composition - otherwise it is not known what the share is a share of. The operator must not be able to change that composition - which means the participants have rights against the operator, and that is a founding text, not a user agreement. The instrument must not be purchasable - which means it has no owner, and the participants own it. It must be fit for use by all sides - which means it belongs to no state. And when it publishes the result it says "we", and not "so many users of a service".
+A measurement needs a defined composition - otherwise it is not known what the share is a share of. The operator must not be able to change that composition - which means the participants have rights against the operator, and that is a founding text, not a user agreement. The instrument must not be purchasable - which means it has no separate owner, and the participants own it together. It must be fit for use by all sides - which means it belongs to no state. And when it publishes the result it says "we", and not "so many users of a service".
 
 A body with those properties is what we propose to regard as a people. This is our position, not a generally recognized legal test.
 
@@ -244,6 +244,8 @@ Now honestly about where we stand.
 # Part III. Lessons from those who hold no power
 
 ## 6. Six examples and six lessons
+
+It may seem that without powers one cannot have influence. That is untrue, and practice refutes it. Below are six cases - five successful and one instructively unsuccessful. We cite them not as proof that we are right but as a source of requirements on ourselves.
 
 ### Indices and rankings
 
@@ -567,7 +569,7 @@ Part I noted that the injured party - those who do not yet vote and those who ar
 
 Here there is something to repair it with. It follows not from our good intentions but from the structure of the text. Article 5 of the Declaration says: **"No decision of the Earthlings people is to shift adverse consequences onto future generations."** Article 5 belongs to the unamendable core (Article 11), and the principles of the core are not put to a vote at all - this is not a question of a raised threshold, it is a question that is not asked. A decision that contradicts the core is void from the moment it is taken, and neither the passage of time nor its implementation cures it.
 
-Out of this norm a standing procedure may grow: an assessment of the effect of every significant decision on those who come after - with a published opinion and the right of any participant to demand such an assessment. No such procedure exists today in any state or in any international organization. Nor do we have one yet: we have the norm from which it follows, and those are different things (section 21).
+Out of this norm a standing procedure may grow: an assessment of the effect of every significant decision on those who come after - with a published opinion and the right of any participant to demand such an assessment. So far as we know, no such procedure exists today in any state or in any international organization. Nor do we have one yet: we have the norm from which it follows, and those are different things (section 21).
 
 And one more thing has to be said, or the picture will look prettier than the truth. **There is no court behind this prohibition.** The Earthlings people has no constitutional court, and we do not pretend otherwise; there is no one to enforce compliance. The force of the norm lies elsewhere: a breach is visible to everyone, neither the passage of time nor implementation cures it, and in any case of doubt the provisions of the core are construed in favour of the person. Such protection has less power of compulsion than a court's but is easier to verify.
 
@@ -629,7 +631,7 @@ Hence the need for a founding text, not a user agreement.
 
 **Step four.** The instrument must outlive its owner and must not be purchasable. What can be bought will be bought sooner or later, and the buyer inherits the right to measure. Institutions whose capital is trust rarely survive a change of owner with that trust intact.
 
-Hence the instrument must have no owner. That means the participants must own it, and that means self-governance.
+Hence the instrument must have no separate owner. That means the participants must own it together, and that means self-governance.
 
 **Step five.** The instrument must be equally usable by all sides and must not be a national player - otherwise only one side uses it, and it turns into a weapon.
 
@@ -742,8 +744,6 @@ An instrument without a people is data with no one to present it on anyone's beh
 
 **These are not two things of which one can be discarded. They are two halves of a single whole.** Verifiability without mutual recognition yields statistics. Mutual recognition without verifiability yields a petition. Together they yield what has not existed until now.
 
-It may seem that without powers one cannot have influence. That is untrue, and practice refutes it. Below are six cases - five successful and one instructively unsuccessful. We cite them not as proof that we are right but as a source of requirements on ourselves.
-
 ---
 
 # Part IX. What may go wrong
@@ -756,7 +756,7 @@ This section is not here for the sake of balance. Every one of the outcomes list
 
 **What happens.** The people - or a noticeable part of it, or its leadership - publicly takes one of the sides in some country's domestic political divide. From that day the instrument is, for half of society, the enemy's weapon, and its readings are rejected along with it.
 
-**Why this is fatal.** A tool of this type cannot be restored: the example of Doing Business in section 6 shows that trust is lost completely and for good.
+**Why this is fatal.** A tool of this type cannot be restored: the example of Doing Business in section 6 shows that trust is lost entirely and at one stroke.
 
 **What is being done.** The ban on taking positions on the domestic politics of states is written into the Declaration, not into a set of rules. The people has no opinion about parties, candidates or elections, anywhere, ever.
 

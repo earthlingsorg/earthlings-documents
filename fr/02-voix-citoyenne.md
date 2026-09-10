@@ -68,7 +68,7 @@ Avec le résultat est publié tout ce qui sert à le vérifier: le libellé exac
 
 Le peuple n'est pas ajouté de l'extérieur à l'instrument de mesure. Il en sort de l'intérieur.
 
-La mesure a besoin d'une composition déterminée - sinon on ignore de quoi la part annoncée est une part. L'opérateur ne doit pas pouvoir modifier cette composition - donc les participants ont des droits contre l'opérateur, et cela suppose un texte constitutif, non des conditions d'utilisation. L'instrument ne doit pas être achetable - donc il n'a pas de propriétaire et ce sont les participants qui le détiennent. Il doit convenir à toutes les parties - donc il n'appartient à aucun État. Et, en publiant le résultat, il dit « nous », et non « tant d'utilisateurs du service ».
+La mesure a besoin d'une composition déterminée - sinon on ignore de quoi la part annoncée est une part. L'opérateur ne doit pas pouvoir modifier cette composition - donc les participants ont des droits contre l'opérateur, et cela suppose un texte constitutif, non des conditions d'utilisation. L'instrument ne doit pas être achetable - donc il n'a pas de propriétaire distinct et ce sont les participants qui le détiennent ensemble. Il doit convenir à toutes les parties - donc il n'appartient à aucun État. Et, en publiant le résultat, il dit « nous », et non « tant d'utilisateurs du service ».
 
 Une entité dotée de telles propriétés, nous proposons de la tenir pour un peuple. C'est notre position, non un critère juridique généralement reconnu.
 
@@ -244,6 +244,8 @@ Maintenant, honnêtement, où nous en sommes.
 # Partie III. Les leçons de ceux qui n'ont pas de pouvoir
 
 ## 6. Six exemples et six leçons
+
+Il peut sembler que, sans pouvoirs, on ne puisse pas influer. C'est faux, et la pratique le réfute. Ci-dessous six cas: cinq réussis et un instructivement manqué. Nous les citons non comme preuve que nous avons raison, mais comme source d'exigences envers nous-mêmes.
 
 ### Indices et classements
 
@@ -567,7 +569,7 @@ Dans la partie I, il a été dit que la partie lésée - ceux qui ne votent pas 
 
 Ici il y a de quoi, et non par bonne intention de notre part, mais par construction du texte. L'article 5 de la Déclaration dit: **« Aucune décision du peuple des Earthlings ne doit faire peser de conséquences négatives sur les générations futures. »** L'article 5 relève du noyau intangible (article 11), et les principes du noyau ne sont pas mis aux voix du tout: ce ne sont pas des questions à seuil renforcé, ce sont des questions qui ne se posent pas. Une décision contraire au noyau est nulle dès son adoption et n'est couverte ni par le temps ni par l'exécution.
 
-De cette norme peut naître une procédure permanente: l'évaluation de chaque décision d'importance quant à son effet sur ceux qui viendront après, avec un avis publié et le droit de tout participant de l'exiger. Une telle procédure n'existe aujourd'hui dans aucun État ni dans aucune organisation internationale. Nous ne l'avons pas non plus encore: nous avons la norme dont elle découle, et ce sont deux choses différentes (section 21).
+De cette norme peut naître une procédure permanente: l'évaluation de chaque décision d'importance quant à son effet sur ceux qui viendront après, avec un avis publié et le droit de tout participant de l'exiger. Une telle procédure n'existe aujourd'hui, à notre connaissance, dans aucun État ni dans aucune organisation internationale. Nous ne l'avons pas non plus encore: nous avons la norme dont elle découle, et ce sont deux choses différentes (section 21).
 
 Et il faut dire encore une chose, sans quoi le tableau serait plus beau que la vérité. **Derrière cette interdiction, il n'y a pas de tribunal.** Le peuple des Earthlings n'a pas de cour constitutionnelle, et nous n'en imitons pas une; personne n'est là pour contraindre à l'exécution. La force de la norme est ailleurs: le manquement est visible de tous, il n'est couvert ni par le temps ni par l'exécution, et au moindre doute les dispositions du noyau s'interprètent en faveur de la personne. Une telle protection est plus faible que la protection juridictionnelle sur le terrain de la contrainte, et plus forte sur celui de la vérifiabilité.
 
@@ -629,7 +631,7 @@ D'où: il faut un texte constitutif, non des conditions d'utilisation.
 
 **Quatrième étape.** L'instrument doit survivre à son propriétaire et ne pas être achetable. Ce qui peut s'acheter finit tôt ou tard par être acheté, et l'acheteur hérite du droit de mesurer. Les institutions dont le capital est la confiance survivent rarement à un changement de propriétaire en conservant cette confiance.
 
-D'où: l'instrument ne doit pas avoir de propriétaire. Donc ce sont les participants qui doivent le détenir. Donc c'est un autogouvernement.
+D'où: l'instrument ne doit pas avoir de propriétaire distinct. Donc ce sont les participants qui doivent le détenir ensemble. Donc c'est un autogouvernement.
 
 **Cinquième étape.** L'instrument doit convenir également à toutes les parties et ne pas être un acteur national - sinon une seule partie s'en sert, et il se change en arme.
 
@@ -742,8 +744,6 @@ Un instrument sans peuple, ce sont des données que personne ne peut produire au
 
 **Ce ne sont pas deux choses dont on pourrait écarter l'une. Ce sont les deux moitiés d'une seule.** La vérifiabilité sans reconnaissance mutuelle donne de la statistique. La reconnaissance mutuelle sans vérifiabilité donne une pétition. Ensemble, elles donnent ce qui n'existait pas jusqu'ici.
 
-Il peut sembler que, sans pouvoirs, on ne puisse pas influer. C'est faux, et la pratique le réfute. Ci-dessous six cas: cinq réussis et un instructivement manqué. Nous les citons non comme preuve que nous avons raison, mais comme source d'exigences envers nous-mêmes.
-
 ---
 
 # Partie IX. Ce qui peut mal tourner
@@ -756,7 +756,7 @@ Cette section n'est pas là pour faire contrepoids. Chacune des issues énumér�
 
 **Ce qui se passe.** Le peuple - ou une part notable de lui, ou sa direction - se range publiquement du côté de l'un des camps d'une fracture politique intérieure. À partir de ce jour, l'instrument est, pour la moitié de la société, l'arme de l'adversaire, et ses relevés sont rejetés avec lui.
 
-**Pourquoi c'est mortel.** Un outil de ce type ne se rétablit pas: l'exemple de Doing Business de la section 6 montre que la confiance se perd en entier et une seule fois.
+**Pourquoi c'est mortel.** Un outil de ce type ne se rétablit pas: l'exemple de Doing Business de la section 6 montre que la confiance se perd en entier et d'un seul coup.
 
 **Ce qui est fait.** L'interdiction de prendre position sur la politique intérieure des États figure dans la Déclaration, non dans un règlement. Le peuple n'a d'opinion sur les partis, les candidats et les élections nulle part et jamais.
 

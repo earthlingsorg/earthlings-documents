@@ -68,7 +68,7 @@ Zusammen mit dem Ergebnis wird alles veröffentlicht, womit es überprüft wird:
 
 Das Volk ist dem Messinstrument nicht von außen hinzugefügt. Es ergibt sich von innen.
 
-Eine Messung braucht einen bestimmten Bestand - sonst ist unbekannt, wovon der genannte Anteil ein Anteil ist. Der Betreiber darf diesen Bestand nicht ändern können - also haben die Teilnehmer Rechte gegen den Betreiber, und das ist ein Gründungstext und keine Nutzungsbedingungen. Das Messinstrument darf nicht käuflich sein - also hat es keinen Eigentümer, und es gehört den Teilnehmern. Es muss allen Seiten taugen - also gehört es keinem einzigen Staat. Und wenn es das Ergebnis veröffentlicht, sagt es „wir“ und nicht „so und so viele Nutzer eines Dienstes“.
+Eine Messung braucht einen bestimmten Bestand - sonst ist unbekannt, wovon der genannte Anteil ein Anteil ist. Der Betreiber darf diesen Bestand nicht ändern können - also haben die Teilnehmer Rechte gegen den Betreiber, und das ist ein Gründungstext und keine Nutzungsbedingungen. Das Messinstrument darf nicht käuflich sein - also hat es keinen gesonderten Eigentümer, und es gehört den Teilnehmern gemeinsam. Es muss allen Seiten taugen - also gehört es keinem einzigen Staat. Und wenn es das Ergebnis veröffentlicht, sagt es „wir“ und nicht „so und so viele Nutzer eines Dienstes“.
 
 Ein Gebilde mit diesen Eigenschaften, so schlagen wir vor, ist als Volk zu betrachten. Das ist unsere Position und kein allgemein anerkannter rechtlicher Prüfmaßstab.
 
@@ -244,6 +244,8 @@ Nun ehrlich dazu, wo wir stehen.
 # Teil III. Lehren derer, die keine Macht haben
 
 ## 6. Sechs Beispiele und sechs Lehren
+
+Es mag scheinen, dass man ohne Befugnisse nichts bewirken kann. Das ist falsch und wird durch die Praxis widerlegt. Unten stehen sechs Fälle - fünf geglückte und ein lehrreich missglückter. Wir führen sie nicht als Beweis unserer Richtigkeit an, sondern als Quelle von Anforderungen an uns selbst.
 
 ### Indizes und Ratings
 
@@ -567,7 +569,7 @@ In Teil I hieß es, die geschädigte Seite - diejenigen, die noch nicht wählen,
 
 Hier ist er mit etwas zu beheben - nicht wegen unserer guten Absicht, sondern wegen des Baus des Textes. Artikel 5 der Erklärung sagt: **„Kein Beschluss des Volkes der Earthlings darf nachteilige Folgen auf künftige Generationen abwälzen.“** Artikel 5 gehört zum unabänderlichen Kern (Artikel 11), und die Grundsätze des Kerns werden überhaupt nicht zur Abstimmung gestellt - es ist keine Frage einer erhöhten Schwelle, es ist eine Frage, die nicht gestellt wird. Ein Beschluss, der dem Kern widerspricht, ist von Anfang an nichtig und wird weder durch Zeit noch durch Ausführung geheilt.
 
-Aus dieser Norm kann ein ständiges Verfahren erwachsen: die Beurteilung jeder erheblichen Entscheidung nach ihrer Wirkung auf die, die nach uns kommen - mit einer veröffentlichten Stellungnahme und dem Recht jedes Teilnehmers, sie zu verlangen. Ein solches Verfahren gibt es heute in keinem Staat und in keiner internationalen Organisation. Bei uns besteht es ebenfalls noch nicht: Es gibt die Norm, aus der es folgt, und das ist zweierlei (Abschnitt 21).
+Aus dieser Norm kann ein ständiges Verfahren erwachsen: die Beurteilung jeder erheblichen Entscheidung nach ihrer Wirkung auf die, die nach uns kommen - mit einer veröffentlichten Stellungnahme und dem Recht jedes Teilnehmers, sie zu verlangen. Ein solches Verfahren gibt es heute, soweit wir wissen, in keinem Staat und in keiner internationalen Organisation. Bei uns besteht es ebenfalls noch nicht: Es gibt die Norm, aus der es folgt, und das ist zweierlei (Abschnitt 21).
 
 Und eines muss noch gesagt werden, sonst gerät das Bild schöner als die Wahrheit. **Hinter diesem Verbot steht kein Gericht.** Das Volk der Earthlings hat kein Verfassungsgericht, und wir geben keines vor; es gibt niemanden, der die Erfüllung erzwingt. Die Kraft der Norm liegt anderswo: Ein Verstoß ist für alle sichtbar, er wird weder durch Zeit noch durch Ausführung geheilt, und im Zweifel werden die Bestimmungen des Kerns zugunsten des Menschen ausgelegt. Ein solcher Schutz ist schwächer als der eines Gerichts im Zwang und stärker in der Überprüfbarkeit.
 
@@ -629,7 +631,7 @@ Daraus: Es wird ein Gründungstext gebraucht und keine Nutzungsbedingungen.
 
 **Vierter Schritt.** Das Messinstrument muss seinen Eigentümer überdauern und darf nicht käuflich sein. Was sich kaufen lässt, wird früher oder später gekauft, und der Käufer erbt das Recht zu messen. Einrichtungen, deren Kapital das Vertrauen ist, überstehen einen Eigentümerwechsel nur selten, ohne dieses Vertrauen einzubüßen.
 
-Daraus: Das Messinstrument darf keinen Eigentümer haben. Also müssen die Teilnehmer es besitzen. Also ist es Selbstverwaltung.
+Daraus: Das Messinstrument darf keinen gesonderten Eigentümer haben. Also muss es den Teilnehmern gemeinsam gehören. Also ist es Selbstverwaltung.
 
 **Fünfter Schritt.** Das Messinstrument muss allen Seiten gleichermaßen taugen und darf kein nationaler Akteur sein - sonst benutzt es nur eine Seite, und es verwandelt sich in eine Waffe.
 
@@ -742,8 +744,6 @@ Ein Messinstrument ohne Volk sind Daten, die niemand im Namen von irgendwem vorl
 
 **Das sind nicht zwei Dinge, von denen sich eines verwerfen ließe. Das sind zwei Hälften eines Ganzen.** Überprüfbarkeit ohne wechselseitige Anerkennung ergibt Statistik. Wechselseitige Anerkennung ohne Überprüfbarkeit ergibt eine Petition. Zusammen ergeben sie das, was es bisher nicht gab.
 
-Es mag scheinen, dass man ohne Befugnisse nichts bewirken kann. Das ist falsch und wird durch die Praxis widerlegt. Unten stehen sechs Fälle - fünf geglückte und ein lehrreich missglückter. Wir führen sie nicht als Beweis unserer Richtigkeit an, sondern als Quelle von Anforderungen an uns selbst.
-
 ---
 
 # Teil IX. Was schiefgehen kann
@@ -756,7 +756,7 @@ Der Abschnitt steht nicht des Gleichgewichts wegen hier. Jeder der aufgezählten
 
 **Was geschieht.** Das Volk - oder ein spürbarer Teil von ihm oder seine Leitung - stellt sich öffentlich auf eine der Seiten einer fremden innenpolitischen Spaltung. Von diesem Tag an ist das Messinstrument für die halbe Gesellschaft die Waffe des Gegners, und seine Anzeigen werden zusammen mit ihm zurückgewiesen.
 
-**Warum das tödlich ist.** Ein Werkzeug dieser Art lässt sich nicht wiederherstellen: Das Beispiel Doing Business aus Abschnitt 6 zeigt, dass Vertrauen ganz und ein einziges Mal verloren geht.
+**Warum das tödlich ist.** Ein Werkzeug dieser Art lässt sich nicht wiederherstellen: Das Beispiel Doing Business aus Abschnitt 6 zeigt, dass Vertrauen ganz und auf einmal verloren geht.
 
 **Was getan wird.** Das Verbot von Positionen zur Innenpolitik der Staaten steht in der Erklärung und nicht in einer Geschäftsordnung. Das Volk hat nirgends und niemals eine Meinung über Parteien, Kandidaten und Wahlen.
 

@@ -68,7 +68,7 @@ Junto con el resultado se publica todo aquello con lo que se verifica: la formul
 
 El pueblo no se le añade al instrumento desde fuera. Sale de dentro.
 
-La medición necesita una composición determinada; de otro modo no se sabe de qué se ha nombrado la proporción. El operador no debe poder cambiar esa composición, y eso significa que los participantes tienen derechos frente al operador, y eso ya es un texto constitutivo y no unas condiciones de uso. El instrumento no debe ser comprable, y eso significa que no tiene dueño y que lo poseen los participantes. Debe servir por igual a todas las partes, y eso significa que no pertenece a ningún Estado. Y, al publicar el resultado, dice «nosotros» y no «tantos usuarios del servicio».
+La medición necesita una composición determinada; de otro modo no se sabe de qué se ha nombrado la proporción. El operador no debe poder cambiar esa composición, y eso significa que los participantes tienen derechos frente al operador, y eso ya es un texto constitutivo y no unas condiciones de uso. El instrumento no debe ser comprable, y eso significa que no tiene un dueño aparte y que lo poseen los participantes juntos. Debe servir por igual a todas las partes, y eso significa que no pertenece a ningún Estado. Y, al publicar el resultado, dice «nosotros» y no «tantos usuarios del servicio».
 
 Una formación con esas propiedades proponemos considerarla un pueblo. Es nuestra posición, no un criterio jurídico comúnmente aceptado.
 
@@ -244,6 +244,8 @@ Ahora, con honradez, sobre dónde estamos.
 # Parte III. Lecciones de quienes no tienen poder
 
 ## 6. Seis ejemplos y seis lecciones
+
+Puede parecer que sin facultades no se puede influir. Es falso, y lo desmiente la práctica. Abajo hay seis casos: cinco logrados y uno instructivamente fallido. Los traemos no como prueba de que tenemos razón, sino como fuente de requisitos para nosotros mismos.
 
 ### Índices y clasificaciones
 
@@ -567,7 +569,7 @@ En la parte I se dijo que la parte perjudicada - quienes todavía no votan y qui
 
 Aquí sí lo hay, y no por nuestra buena intención, sino por la construcción del texto. El artículo 5 de la Declaración dice: **«Ninguna decisión del pueblo Earthlings debe trasladar consecuencias negativas a las generaciones futuras».** El artículo 5 forma parte del núcleo intangible (artículo 11), y los principios del núcleo no se someten a votación en absoluto: no son cuestiones sujetas a un umbral reforzado, son cuestiones que no se plantean. Una decisión contraria al núcleo es nula de pleno derecho desde su adopción y no la convalidan ni el tiempo ni la ejecución.
 
-De esta norma puede crecer un procedimiento permanente: la evaluación de cada decisión de peso por su efecto sobre quienes vengan después, con un dictamen publicado y el derecho de cualquier participante a exigirla. Tal procedimiento no existe hoy en ningún Estado ni en ninguna organización internacional. Tampoco lo tenemos aún nosotros: tenemos la norma de la que se sigue, y son cosas distintas (sección 21).
+De esta norma puede crecer un procedimiento permanente: la evaluación de cada decisión de peso por su efecto sobre quienes vengan después, con un dictamen publicado y el derecho de cualquier participante a exigirla. Tal procedimiento, que sepamos, no existe hoy en ningún Estado ni en ninguna organización internacional. Tampoco lo tenemos aún nosotros: tenemos la norma de la que se sigue, y son cosas distintas (sección 21).
 
 Y hay que decir una cosa más, o el cuadro saldrá más bonito que la verdad. **Detrás de esa prohibición no hay tribunal.** El pueblo Earthlings no tiene tribunal constitucional, y no lo fingimos; no hay quien fuerce el cumplimiento. La fuerza de la norma está en otra parte: el incumplimiento es visible para todos, no lo convalidan ni el tiempo ni la ejecución, y ante cualquier duda las disposiciones del núcleo se interpretan a favor de la persona. Esa protección es más débil que la judicial en coacción y más fuerte en verificabilidad.
 
@@ -629,7 +631,7 @@ De ahí: hace falta un texto constitutivo, y no unas condiciones de uso.
 
 **Paso cuarto.** El instrumento debe sobrevivir a su dueño y no ser comprable. Lo que se puede comprar se compra tarde o temprano, y el comprador hereda el derecho a medir. Las instituciones cuyo capital es la confianza rara vez sobreviven a un cambio de propietario conservando esa confianza.
 
-De ahí: el instrumento no debe tener dueño. Es decir, deben poseerlo los participantes. Es decir, es autogobierno.
+De ahí: el instrumento no debe tener un dueño aparte. Es decir, deben poseerlo los participantes juntos. Es decir, es autogobierno.
 
 **Paso quinto.** El instrumento debe servir por igual a todas las partes y no ser un actor nacional; de otro modo lo usa una sola parte y se convierte en un arma.
 
@@ -742,8 +744,6 @@ Un instrumento sin pueblo son datos que nadie puede presentar en nombre de nadie
 
 **No son dos cosas de las que se pueda descartar una. Son dos mitades de una sola.** La verificabilidad sin reconocimiento mutuo da estadística. El reconocimiento mutuo sin verificabilidad da una petición. Juntos dan aquello que hasta ahora no existía.
 
-Puede parecer que sin facultades no se puede influir. Es falso, y lo desmiente la práctica. Abajo hay seis casos: cinco logrados y uno instructivamente fallido. Los traemos no como prueba de que tenemos razón, sino como fuente de requisitos para nosotros mismos.
-
 ---
 
 # Parte IX. Qué puede salir mal
@@ -756,7 +756,7 @@ La sección no está para equilibrar. Cada uno de los desenlaces enumerados es p
 
 **Qué ocurre.** El pueblo - o una parte notable de él, o su dirección - se pone públicamente de uno de los lados de la fractura política interna de alguien. Desde ese día el instrumento es, para media sociedad, el arma del adversario, y sus lecturas se rechazan junto con él.
 
-**Por qué es mortal.** Una herramienta de ese tipo no se puede restablecer: el ejemplo de Doing Business de la sección 6 muestra que la confianza se pierde entera y de una sola vez.
+**Por qué es mortal.** Una herramienta de ese tipo no se puede restablecer: el ejemplo de Doing Business de la sección 6 muestra que la confianza se pierde entera y de una vez.
 
 **Qué se hace.** La prohibición de tomar posición sobre la política interna de los Estados está en la Declaración y no en un reglamento. El pueblo no tiene opinión sobre partidos, candidatos ni elecciones en ninguna parte y nunca.
 
