@@ -68,7 +68,7 @@ Together with the result there is published everything by which it is checked: t
 
 The people is not added to the instrument from outside. It arises from within.
 
-A measurement needs a defined composition - otherwise it is not known what the share is a share of. The operator must not be able to change that composition - which means the participants have rights against the operator, and that is a founding text, not a user agreement. The instrument must not be purchasable - which means it has no separate owner, and the participants own it together. It must be fit for use by all sides - which means it belongs to no state. And when it publishes the result it says "we", and not "so many users of a service".
+A measurement needs a defined composition - otherwise it is not known what the share is a share of. The operator must not be able to change that composition - which means the participants have rights against the operator, and that is a founding text, not a user agreement. The instrument must not be purchasable - which means it has no owner, and the participants govern it. It must be fit for use by all sides - which means it belongs to no state. And when it publishes the result it says "we", and not "so many users of a service".
 
 A body with those properties is what we propose to regard as a people. This is our position, not a generally recognized legal test.
 
@@ -245,7 +245,7 @@ Now honestly about where we stand.
 
 ## 6. Six examples and six lessons
 
-It may seem that without powers one cannot have influence. That is untrue, and practice refutes it. Below are six cases - five successful and one instructively unsuccessful. We cite them not as proof that we are right but as a source of requirements on ourselves.
+It may seem that without powers one cannot have influence. That is untrue, and practice refutes it. Below are six cases - four successful and two instructively unsuccessful. We cite them not as proof that we are right but as a source of requirements on ourselves.
 
 ### Indices and rankings
 
@@ -255,7 +255,7 @@ The Corruption Perceptions Index, published by Transparency International since 
 
 ### The death of one ranking
 
-The World Bank published the Doing Business ranking, which assessed the conditions for doing business in a hundred and ninety economies. Its influence was enormous: states rewrote legislation in order to rise in it. After irregularities in the 2018 and 2020 reports were reported inside the bank in June 2020, publication was suspended and the review was entrusted to an outside law firm. The investigation established that pressure had been put on the team that prepared the index to alter the indicators for particular countries. **On 16 September 2021 the bank announced the discontinuation of the ranking.** Not a suspension - a discontinuation. No attempt was made to restore it: there was nothing left to restore.
+The World Bank published the Doing Business ranking, which assessed the conditions for doing business in a hundred and ninety economies. Its influence was enormous: states rewrote legislation in order to rise in it. After irregularities in the 2018 and 2020 reports were reported inside the bank in June 2020, publication was suspended and the review was entrusted to an outside law firm. The investigation established that pressure had been put on the team that prepared the index to alter the indicators for particular countries. **On 16 September 2021 the bank announced the discontinuation of the ranking.** Not a suspension - a discontinuation. The bank did not restore it: its successor, B-READY, was built anew, under a different name and with a different methodology.
 
 **The lesson, the reverse of the first and more important.** The whole capital of such a tool is trust in the procedure. It is not spent gradually; it is lost entirely and at one stroke.
 
@@ -285,7 +285,7 @@ The compositions were selected differently, and the difference is instructive. O
 
 ### And the counter-example that has to be known
 
-The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal established twelve years later delivered carefully prepared findings on the gravest questions. Their composition was self-appointed, their representativeness in no way established, their powers absent. Morally they are respected. Politically they are ignored completely, and have been for sixty years now.
+The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal established twelve years later delivered carefully prepared findings on the gravest questions. Their composition was self-appointed, their representativeness in no way established, their powers absent. Morally they are respected. Politically they are ignored completely, and have been for decades.
 
 **The lesson.** Without a verifiable composition, any procedure, even a flawless one, remains the private opinion of a group of respected people. That is exactly the place where we differ - and exactly what we shall lose if the composition ceases to be verifiable.
 
@@ -569,11 +569,11 @@ Part I noted that the injured party - those who do not yet vote and those who ar
 
 Here there is something to repair it with. It follows not from our good intentions but from the structure of the text. Article 5 of the Declaration says: **"No decision of the Earthlings people is to shift adverse consequences onto future generations."** Article 5 belongs to the unamendable core (Article 11), and the principles of the core are not put to a vote at all - this is not a question of a raised threshold, it is a question that is not asked. A decision that contradicts the core is void from the moment it is taken, and neither the passage of time nor its implementation cures it.
 
-Out of this norm a standing procedure may grow: an assessment of the effect of every significant decision on those who come after - with a published opinion and the right of any participant to demand such an assessment. So far as we know, no such procedure exists today in any state or in any international organization. Nor do we have one yet: we have the norm from which it follows, and those are different things (section 21).
+Out of this norm a standing procedure may grow: an assessment of the effect of every significant decision on those who come after - with a published opinion and the right of any participant to demand such an assessment. So far as we know, no such procedure exists today in any state or in any international organization. The closest to it are the Future Generations Commissioner for Wales and the Committee for the Future in the Parliament of Finland, but neither assesses every significant decision or gives any participant the right to demand such an assessment. Nor do we have one yet: we have the norm from which it follows, and those are different things (section 21).
 
 And one more thing has to be said, or the picture will look prettier than the truth. **There is no court behind this prohibition.** The Earthlings people has no constitutional court, and we do not pretend otherwise; there is no one to enforce compliance. The force of the norm lies elsewhere: a breach is visible to everyone, neither the passage of time nor implementation cures it, and in any case of doubt the provisions of the core are construed in favour of the person. Such protection has less power of compulsion than a court's but is easier to verify.
 
-Even so, the position remains singular. If the people ever acquires a voice anywhere outside itself, it will be the only party at the table whose founding rule expressly forbids it to win at the expense of the generations that follow. Not because we are kinder than others, but because the very text that constitutes us forbids it.
+Even so, the position remains singular. If the people ever acquires a voice anywhere outside itself, it will be, so far as we know, the only party at the table whose founding rule expressly forbids it to win at the expense of the generations that follow. Not because we are kinder than others, but because the very text that constitutes us forbids it.
 
 ## 18. An honest asymmetry
 
@@ -627,11 +627,11 @@ But that is exactly what it means to say that **the participants have rights aga
 
 Hence the need for a founding text, not a user agreement.
 
-*An association is no longer enough: its own governing body amends its constitution.*
+*An association is no longer enough: a majority of its own members can rewrite its constitution.*
 
-**Step four.** The instrument must outlive its owner and must not be purchasable. What can be bought will be bought sooner or later, and the buyer inherits the right to measure. Institutions whose capital is trust rarely survive a change of owner with that trust intact.
+**Step four.** The instrument must outlive those who built it and must not be purchasable. What can be bought will be bought sooner or later, and the buyer inherits the right to measure. Institutions whose capital is trust rarely survive a change of owner with that trust intact.
 
-Hence the instrument must have no separate owner. That means the participants must own it together, and that means self-governance.
+Hence the instrument must have no owner. That means the participants must govern it, and that means self-governance.
 
 **Step five.** The instrument must be equally usable by all sides and must not be a national player - otherwise only one side uses it, and it turns into a weapon.
 
@@ -912,10 +912,13 @@ The facts given in the text:
 
 - The investigation by the New York State Attorney General into fake comments in a proceeding of the US Federal Communications Commission, 6 May 2021 - [report](https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing). All the numbers are taken from it: more than 22 million comments, almost 18 million fake, 8.5 million from the trade association for 4.2 million dollars, 7.7 million from one person
 - The discontinuation of the Doing Business ranking by the World Bank, September 2021 - [statement](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
+- Business Ready (B-READY), the successor to Doing Business with a new methodology, first report 3 October 2024 - [World Bank press release](https://www.worldbank.org/en/news/press-release/2024/10/01/implementation-gaps-hinder-business-climate-in-50-economies); [B-READY FAQ](https://www.worldbank.org/en/businessready/about-us/faq)
 - The procedure for preparing and approving the reports of the Intergovernmental Panel on Climate Change - [IPCC procedures](https://www.ipcc.ch/about/procedures/)
 - The working principles of the Internet Engineering Task Force, including the formula "rough consensus and running code" - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
 - The Citizens' Assembly of Ireland of 2016-2018 - [assembly materials](https://citizensassembly.ie/); the Constitutional Convention of 2012-2014 - [convention archive](https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/). Dates and results of the referendums: 22 May 2015 (same-sex marriage), 25 May 2018 (the Thirty-sixth Amendment, by which the Eighth was repealed, 66.4 per cent on a turnout of 64.1 per cent)
 - Data on the forcibly displaced and on stateless persons at the end of 2025 - [UNHCR statistics](https://www.unhcr.org/refugee-statistics/)
+- The Well-being of Future Generations (Wales) Act 2015, Part 3 on the Future Generations Commissioner - [text of the Act](https://www.legislation.gov.uk/anaw/2015/2/part/3); [what the Commissioner can and cannot do](https://futuregenerations.wales/do/get-in-touch/faqs/)
+- The Committee for the Future of the Parliament of Finland, established in 1993 - [committee page](https://www.eduskunta.fi/en/members-and-parliamentary-bodies/committees/committee-for-the-future); the Parliament's Rules of Procedure 40/2000, listing the standing committees - [text](https://www.finlex.fi/fi/lainsaadanto/2000/40)
 - The precautionary measure of the Spanish Data Protection Agency with respect to Tools for Humanity, 6 March 2024 - [AEPD announcement](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - Decision PR/ANPD No. 18/2025 of the National Data Protection Authority of Brazil of 25 March 2025 rejecting the appeal and maintaining the prohibition - [ANPD website](https://www.gov.br/anpd/)
 - The decision of the High Court of Kenya of 5 May 2025 in the case concerning Worldcoin's activities - [analysis by the Centre for Intellectual Property and Information Technology Law, Strathmore University](https://cipit.strathmore.edu/kenya-high-courts-worldcoin-determination-upholding-consent-accountability-and-data-sovereignty-in-biometric-data-processing/)

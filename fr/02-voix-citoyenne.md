@@ -68,7 +68,7 @@ Avec le résultat est publié tout ce qui sert à le vérifier: le libellé exac
 
 Le peuple n'est pas ajouté de l'extérieur à l'instrument de mesure. Il en sort de l'intérieur.
 
-La mesure a besoin d'une composition déterminée - sinon on ignore de quoi la part annoncée est une part. L'opérateur ne doit pas pouvoir modifier cette composition - donc les participants ont des droits contre l'opérateur, et cela suppose un texte constitutif, non des conditions d'utilisation. L'instrument ne doit pas être achetable - donc il n'a pas de propriétaire distinct et ce sont les participants qui le détiennent ensemble. Il doit convenir à toutes les parties - donc il n'appartient à aucun État. Et, en publiant le résultat, il dit « nous », et non « tant d'utilisateurs du service ».
+La mesure a besoin d'une composition déterminée - sinon on ignore de quoi la part annoncée est une part. L'opérateur ne doit pas pouvoir modifier cette composition - donc les participants ont des droits contre l'opérateur, et cela suppose un texte constitutif, non des conditions d'utilisation. L'instrument ne doit pas être achetable - donc il n'a pas de propriétaire et ce sont les participants qui le gouvernent. Il doit convenir à toutes les parties - donc il n'appartient à aucun État. Et, en publiant le résultat, il dit « nous », et non « tant d'utilisateurs du service ».
 
 Une entité dotée de telles propriétés, nous proposons de la tenir pour un peuple. C'est notre position, non un critère juridique généralement reconnu.
 
@@ -245,7 +245,7 @@ Maintenant, honnêtement, où nous en sommes.
 
 ## 6. Six exemples et six leçons
 
-Il peut sembler que, sans pouvoirs, on ne puisse pas influer. C'est faux, et la pratique le réfute. Ci-dessous six cas: cinq réussis et un instructivement manqué. Nous les citons non comme preuve que nous avons raison, mais comme source d'exigences envers nous-mêmes.
+Il peut sembler que, sans pouvoirs, on ne puisse pas influer. C'est faux, et la pratique le réfute. Ci-dessous six cas: quatre réussis et deux instructivement manqués. Nous les citons non comme preuve que nous avons raison, mais comme source d'exigences envers nous-mêmes.
 
 ### Indices et classements
 
@@ -255,7 +255,7 @@ L'Indice de perception de la corruption, publié par l'organisation Transparency
 
 ### La mort d'un classement
 
-La Banque mondiale publiait le classement Doing Business, qui évaluait les conditions d'activité des entreprises dans cent quatre-vingt-dix économies. Son influence était énorme: des États réécrivaient leur législation pour y monter. Après que des irrégularités dans les rapports de 2018 et de 2020 eurent été signalées à l'intérieur de la banque en juin 2020, la publication fut suspendue et la vérification confiée à un cabinet juridique extérieur. L'enquête a établi que l'équipe qui préparait l'indice avait subi des pressions visant à modifier les indicateurs de certains pays. **Le 16 septembre 2021, la banque a annoncé l'arrêt du classement.** Non pas une suspension: un arrêt. On n'a pas tenté de le rétablir: il n'y avait plus rien à rétablir.
+La Banque mondiale publiait le classement Doing Business, qui évaluait les conditions d'activité des entreprises dans cent quatre-vingt-dix économies. Son influence était énorme: des États réécrivaient leur législation pour y monter. Après que des irrégularités dans les rapports de 2018 et de 2020 eurent été signalées à l'intérieur de la banque en juin 2020, la publication fut suspendue et la vérification confiée à un cabinet juridique extérieur. L'enquête a établi que l'équipe qui préparait l'indice avait subi des pressions visant à modifier les indicateurs de certains pays. **Le 16 septembre 2021, la banque a annoncé l'arrêt du classement.** Non pas une suspension: un arrêt. On ne l'a pas rétabli: son successeur, B-READY, a été construit sur de nouvelles bases, sous un autre nom et selon une autre méthodologie.
 
 **Leçon inverse de la première, et plus importante.** Tout le capital d'un tel outil, c'est la confiance dans la procédure. Il ne se dépense pas peu à peu, il se perd en entier et d'un seul coup.
 
@@ -285,7 +285,7 @@ Les compositions ont été constituées différemment, et la différence est ins
 
 ### Et le contre-exemple qu'il faut connaître
 
-Le Tribunal Russell sur le Vietnam de 1966-1967 et le Tribunal permanent des peuples institué douze ans plus tard ont rendu des conclusions soigneusement préparées sur les questions les plus graves. Leur composition était auto-désignée, leur représentativité n'était établie d'aucune manière, leurs pouvoirs étaient inexistants. Moralement, on les respecte. Politiquement, on les ignore entièrement, et cela dure depuis soixante ans.
+Le Tribunal Russell sur le Vietnam de 1966-1967 et le Tribunal permanent des peuples institué douze ans plus tard ont rendu des conclusions soigneusement préparées sur les questions les plus graves. Leur composition était auto-désignée, leur représentativité n'était établie d'aucune manière, leurs pouvoirs étaient inexistants. Moralement, on les respecte. Politiquement, on les ignore entièrement, et cela dure depuis des décennies.
 
 **Leçon.** Sans composition vérifiable, toute procédure, même irréprochable, reste l'opinion privée d'un groupe de personnes respectées. C'est exactement là que nous différons - et exactement ce que nous perdrons si la composition cesse d'être vérifiable.
 
@@ -569,11 +569,11 @@ Dans la partie I, il a été dit que la partie lésée - ceux qui ne votent pas 
 
 Ici il y a de quoi, et non par bonne intention de notre part, mais par construction du texte. L'article 5 de la Déclaration dit: **« Aucune décision du peuple des Earthlings ne doit faire peser de conséquences négatives sur les générations futures. »** L'article 5 relève du noyau intangible (article 11), et les principes du noyau ne sont pas mis aux voix du tout: ce ne sont pas des questions à seuil renforcé, ce sont des questions qui ne se posent pas. Une décision contraire au noyau est nulle dès son adoption et n'est couverte ni par le temps ni par l'exécution.
 
-De cette norme peut naître une procédure permanente: l'évaluation de chaque décision d'importance quant à son effet sur ceux qui viendront après, avec un avis publié et le droit de tout participant de l'exiger. Une telle procédure n'existe aujourd'hui, à notre connaissance, dans aucun État ni dans aucune organisation internationale. Nous ne l'avons pas non plus encore: nous avons la norme dont elle découle, et ce sont deux choses différentes (section 21).
+De cette norme peut naître une procédure permanente: l'évaluation de chaque décision d'importance quant à son effet sur ceux qui viendront après, avec un avis publié et le droit de tout participant de l'exiger. Une telle procédure n'existe aujourd'hui, à notre connaissance, dans aucun État ni dans aucune organisation internationale. Ce qui s'en rapproche le plus, ce sont le commissaire aux générations futures du pays de Galles et la Commission de l'avenir du Parlement finlandais, mais ni l'un ni l'autre n'évalue chaque décision d'importance ni ne donne à tout participant le droit d'exiger une telle évaluation. Nous ne l'avons pas non plus encore: nous avons la norme dont elle découle, et ce sont deux choses différentes (section 21).
 
 Et il faut dire encore une chose, sans quoi le tableau serait plus beau que la vérité. **Derrière cette interdiction, il n'y a pas de tribunal.** Le peuple des Earthlings n'a pas de cour constitutionnelle, et nous n'en imitons pas une; personne n'est là pour contraindre à l'exécution. La force de la norme est ailleurs: le manquement est visible de tous, il n'est couvert ni par le temps ni par l'exécution, et au moindre doute les dispositions du noyau s'interprètent en faveur de la personne. Une telle protection est plus faible que la protection juridictionnelle sur le terrain de la contrainte, et plus forte sur celui de la vérifiabilité.
 
-Et même ainsi, la position reste singulière. Si le peuple obtient un jour une voix quelque part à l'extérieur, ce sera la seule partie à la table dont la règle constitutive interdit expressément de l'emporter aux dépens des générations suivantes. Non parce que nous serions meilleurs que les autres, mais parce que le texte même par lequel nous sommes constitués nous l'interdit.
+Et même ainsi, la position reste singulière. Si le peuple obtient un jour une voix quelque part à l'extérieur, ce sera, à notre connaissance, la seule partie à la table dont la règle constitutive interdit expressément de l'emporter aux dépens des générations suivantes. Non parce que nous serions meilleurs que les autres, mais parce que le texte même par lequel nous sommes constitués nous l'interdit.
 
 ## 18. L'asymétrie honnête
 
@@ -627,11 +627,11 @@ Mais cela signifie exactement que **les participants ont des droits contre l'op�
 
 D'où: il faut un texte constitutif, non des conditions d'utilisation.
 
-*L'association ne suffit déjà plus: ses statuts sont modifiés par sa propre direction.*
+*L'association ne suffit déjà plus: une majorité de ses propres membres peut réécrire ses statuts.*
 
-**Quatrième étape.** L'instrument doit survivre à son propriétaire et ne pas être achetable. Ce qui peut s'acheter finit tôt ou tard par être acheté, et l'acheteur hérite du droit de mesurer. Les institutions dont le capital est la confiance survivent rarement à un changement de propriétaire en conservant cette confiance.
+**Quatrième étape.** L'instrument doit survivre à ceux qui l'ont construit et ne pas être achetable. Ce qui peut s'acheter finit tôt ou tard par être acheté, et l'acheteur hérite du droit de mesurer. Les institutions dont le capital est la confiance survivent rarement à un changement de propriétaire en conservant cette confiance.
 
-D'où: l'instrument ne doit pas avoir de propriétaire distinct. Donc ce sont les participants qui doivent le détenir ensemble. Donc c'est un autogouvernement.
+D'où: l'instrument ne doit pas avoir de propriétaire. Donc ce sont les participants qui doivent le gouverner. Donc c'est un autogouvernement.
 
 **Cinquième étape.** L'instrument doit convenir également à toutes les parties et ne pas être un acteur national - sinon une seule partie s'en sert, et il se change en arme.
 
@@ -912,10 +912,13 @@ Les faits cités dans le texte:
 
 - Enquête du procureur général de l'État de New York sur les faux commentaires dans la procédure de la Commission fédérale des communications des États-Unis, 6 mai 2021 - [rapport](https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing). Tous les chiffres en proviennent: plus de 22 millions de commentaires, près de 18 millions de faux, 8,5 millions pour 4,2 millions de dollars provenant d'un groupement professionnel, 7,7 millions d'une seule personne
 - Arrêt de la publication du classement Doing Business par la Banque mondiale, septembre 2021 - [déclaration](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
+- Business Ready (B-READY), successeur de Doing Business fondé sur une nouvelle méthodologie, premier rapport le 3 octobre 2024 - [communiqué de la Banque mondiale](https://www.worldbank.org/en/news/press-release/2024/10/01/implementation-gaps-hinder-business-climate-in-50-economies); [questions fréquentes sur B-READY](https://www.worldbank.org/en/businessready/about-us/faq)
 - Modalités de préparation et d'approbation des rapports du Groupe d'experts intergouvernemental sur l'évolution du climat - [procédures du GIEC](https://www.ipcc.ch/about/procedures/)
 - Principes de travail de l'Internet Engineering Task Force, y compris la formule « un consensus approximatif et du code qui fonctionne » - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
 - Assemblée citoyenne d'Irlande de 2016-2018 - [documents de l'assemblée](https://citizensassembly.ie/); Convention constitutionnelle de 2012-2014 - [archives de la convention](https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/). Dates et résultats des référendums: 22 mai 2015 (mariage entre personnes de même sexe), 25 mai 2018 (trente-sixième amendement, par lequel le huitième a été abrogé, 66,4 pour cent avec un taux de participation de 64,1)
 - Données sur les personnes déplacées de force et les apatrides à la fin de 2025 - [statistiques du HCR](https://www.unhcr.org/refugee-statistics/)
+- Loi de 2015 sur le bien-être des générations futures (pays de Galles), partie 3 sur le commissaire aux générations futures - [texte de la loi](https://www.legislation.gov.uk/anaw/2015/2/part/3); [ce que le commissaire peut faire et ne peut pas faire](https://futuregenerations.wales/do/get-in-touch/faqs/)
+- Commission de l'avenir du Parlement finlandais, créée en 1993 - [page de la commission](https://www.eduskunta.fi/en/members-and-parliamentary-bodies/committees/committee-for-the-future); règlement du Parlement 40/2000, avec la liste des commissions permanentes - [texte](https://www.finlex.fi/fi/lainsaadanto/2000/40)
 - Mesure conservatoire de l'Agence espagnole de protection des données à l'égard de Tools for Humanity, 6 mars 2024 - [communiqué de l'AEPD](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - Décision de l'Autorité nationale de protection des données du Brésil PR/ANPD n° 18/2025 du 25 mars 2025 rejetant l'appel et maintenant l'interdiction - [site de l'ANPD](https://www.gov.br/anpd/)
 - Décision de la Haute Cour du Kenya du 5 mai 2025 dans l'affaire relative à l'activité de Worldcoin - [analyse du Centre de la propriété intellectuelle et des technologies de l'information, Strathmore University](https://cipit.strathmore.edu/kenya-high-courts-worldcoin-determination-upholding-consent-accountability-and-data-sovereignty-in-biometric-data-processing/)

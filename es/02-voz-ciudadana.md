@@ -68,7 +68,7 @@ Junto con el resultado se publica todo aquello con lo que se verifica: la formul
 
 El pueblo no se le añade al instrumento desde fuera. Sale de dentro.
 
-La medición necesita una composición determinada; de otro modo no se sabe de qué se ha nombrado la proporción. El operador no debe poder cambiar esa composición, y eso significa que los participantes tienen derechos frente al operador, y eso ya es un texto constitutivo y no unas condiciones de uso. El instrumento no debe ser comprable, y eso significa que no tiene un dueño aparte y que lo poseen los participantes juntos. Debe servir por igual a todas las partes, y eso significa que no pertenece a ningún Estado. Y, al publicar el resultado, dice «nosotros» y no «tantos usuarios del servicio».
+La medición necesita una composición determinada; de otro modo no se sabe de qué se ha nombrado la proporción. El operador no debe poder cambiar esa composición, y eso significa que los participantes tienen derechos frente al operador, y eso ya es un texto constitutivo y no unas condiciones de uso. El instrumento no debe ser comprable, y eso significa que no tiene dueño y que lo gobiernan los participantes. Debe servir por igual a todas las partes, y eso significa que no pertenece a ningún Estado. Y, al publicar el resultado, dice «nosotros» y no «tantos usuarios del servicio».
 
 Una formación con esas propiedades proponemos considerarla un pueblo. Es nuestra posición, no un criterio jurídico comúnmente aceptado.
 
@@ -245,7 +245,7 @@ Ahora, con honradez, sobre dónde estamos.
 
 ## 6. Seis ejemplos y seis lecciones
 
-Puede parecer que sin facultades no se puede influir. Es falso, y lo desmiente la práctica. Abajo hay seis casos: cinco logrados y uno instructivamente fallido. Los traemos no como prueba de que tenemos razón, sino como fuente de requisitos para nosotros mismos.
+Puede parecer que sin facultades no se puede influir. Es falso, y lo desmiente la práctica. Abajo hay seis casos: cuatro logrados y dos instructivamente fallidos. Los traemos no como prueba de que tenemos razón, sino como fuente de requisitos para nosotros mismos.
 
 ### Índices y clasificaciones
 
@@ -255,7 +255,7 @@ El Índice de Percepción de la Corrupción, que publica la organización Transp
 
 ### La muerte de una clasificación
 
-El Banco Mundial publicaba la clasificación Doing Business, que evaluaba las condiciones para hacer negocios en ciento noventa economías. Su influencia era enorme: los Estados reescribían su legislación para subir en ella. Después de que en junio de 2020 se comunicaran dentro del banco irregularidades en los informes de 2018 y de 2020, la publicación se suspendió y la revisión se encargó a un despacho jurídico externo. La investigación acreditó que sobre el equipo que preparaba el índice se ejerció presión para alterar los indicadores de algunos países. **El 16 de septiembre de 2021 el banco anunció el cese de la clasificación.** No su suspensión: su cese. No se intentó restablecerla: no quedaba nada que restablecer.
+El Banco Mundial publicaba la clasificación Doing Business, que evaluaba las condiciones para hacer negocios en ciento noventa economías. Su influencia era enorme: los Estados reescribían su legislación para subir en ella. Después de que en junio de 2020 se comunicaran dentro del banco irregularidades en los informes de 2018 y de 2020, la publicación se suspendió y la revisión se encargó a un despacho jurídico externo. La investigación acreditó que sobre el equipo que preparaba el índice se ejerció presión para alterar los indicadores de algunos países. **El 16 de septiembre de 2021 el banco anunció el cese de la clasificación.** No su suspensión: su cese. No se restableció: su sucesor, B-READY, se construyó sobre bases nuevas, con otro nombre y con otra metodología.
 
 **Lección contraria a la primera y más importante que ella.** Todo el capital de una herramienta así es la confianza en el procedimiento. No se gasta poco a poco: se pierde entera y de una vez.
 
@@ -285,7 +285,7 @@ Las composiciones se eligieron de modo distinto, y la diferencia es instructiva.
 
 ### Y un contraejemplo que conviene conocer
 
-El Tribunal Russell sobre Vietnam de 1966-1967 y el Tribunal Permanente de los Pueblos, instituido doce años más tarde, dictaron dictámenes cuidadosamente preparados sobre las cuestiones más graves. Su composición era autodesignada, su representatividad no estaba acreditada de ningún modo y sus facultades no existían. Moralmente se los respeta. Políticamente se los ignora por completo, y así llevan sesenta años.
+El Tribunal Russell sobre Vietnam de 1966-1967 y el Tribunal Permanente de los Pueblos, instituido doce años más tarde, dictaron dictámenes cuidadosamente preparados sobre las cuestiones más graves. Su composición era autodesignada, su representatividad no estaba acreditada de ningún modo y sus facultades no existían. Moralmente se los respeta. Políticamente se los ignora por completo, y así llevan décadas.
 
 **Lección.** Sin una composición verificable, cualquier procedimiento, incluso impecable, sigue siendo la opinión particular de un grupo de personas respetables. Ese es exactamente el punto en que nos diferenciamos, y exactamente lo que perderemos si la composición deja de ser verificable.
 
@@ -569,11 +569,11 @@ En la parte I se dijo que la parte perjudicada - quienes todavía no votan y qui
 
 Aquí sí lo hay, y no por nuestra buena intención, sino por la construcción del texto. El artículo 5 de la Declaración dice: **«Ninguna decisión del pueblo Earthlings debe trasladar consecuencias negativas a las generaciones futuras».** El artículo 5 forma parte del núcleo intangible (artículo 11), y los principios del núcleo no se someten a votación en absoluto: no son cuestiones sujetas a un umbral reforzado, son cuestiones que no se plantean. Una decisión contraria al núcleo es nula de pleno derecho desde su adopción y no la convalidan ni el tiempo ni la ejecución.
 
-De esta norma puede crecer un procedimiento permanente: la evaluación de cada decisión de peso por su efecto sobre quienes vengan después, con un dictamen publicado y el derecho de cualquier participante a exigirla. Tal procedimiento, que sepamos, no existe hoy en ningún Estado ni en ninguna organización internacional. Tampoco lo tenemos aún nosotros: tenemos la norma de la que se sigue, y son cosas distintas (sección 21).
+De esta norma puede crecer un procedimiento permanente: la evaluación de cada decisión de peso por su efecto sobre quienes vengan después, con un dictamen publicado y el derecho de cualquier participante a exigirla. Tal procedimiento, que sepamos, no existe hoy en ningún Estado ni en ninguna organización internacional. Lo más cercano son el Comisionado para las Generaciones Futuras de Gales y la Comisión del Futuro del Parlamento de Finlandia, pero ninguno de los dos evalúa cada decisión de peso ni da a todo participante el derecho a exigir tal evaluación. Tampoco lo tenemos aún nosotros: tenemos la norma de la que se sigue, y son cosas distintas (sección 21).
 
 Y hay que decir una cosa más, o el cuadro saldrá más bonito que la verdad. **Detrás de esa prohibición no hay tribunal.** El pueblo Earthlings no tiene tribunal constitucional, y no lo fingimos; no hay quien fuerce el cumplimiento. La fuerza de la norma está en otra parte: el incumplimiento es visible para todos, no lo convalidan ni el tiempo ni la ejecución, y ante cualquier duda las disposiciones del núcleo se interpretan a favor de la persona. Esa protección es más débil que la judicial en coacción y más fuerte en verificabilidad.
 
-Aun así, la posición sigue siendo singular. Si el pueblo llega a tener voz en algún foro externo, será la única parte en la mesa cuya regla constitutiva le prohíbe expresamente ganar a costa de las generaciones siguientes. No porque seamos más bondadosos que los demás, sino porque nos lo prohíbe el mismo texto que nos constituye.
+Aun así, la posición sigue siendo singular. Si el pueblo llega a tener voz en algún foro externo, será, que sepamos, la única parte en la mesa cuya regla constitutiva le prohíbe expresamente ganar a costa de las generaciones siguientes. No porque seamos más bondadosos que los demás, sino porque nos lo prohíbe el mismo texto que nos constituye.
 
 ## 18. Una asimetría honrada
 
@@ -627,11 +627,11 @@ Pero eso significa exactamente que **los participantes tienen derechos frente al
 
 De ahí: hace falta un texto constitutivo, y no unas condiciones de uso.
 
-*Una asociación ya no basta: sus estatutos los cambia su propia dirección.*
+*Una asociación ya no basta: una mayoría de sus propios socios puede reescribir sus estatutos.*
 
-**Paso cuarto.** El instrumento debe sobrevivir a su dueño y no ser comprable. Lo que se puede comprar se compra tarde o temprano, y el comprador hereda el derecho a medir. Las instituciones cuyo capital es la confianza rara vez sobreviven a un cambio de propietario conservando esa confianza.
+**Paso cuarto.** El instrumento debe sobrevivir a quienes lo construyeron y no ser comprable. Lo que se puede comprar se compra tarde o temprano, y el comprador hereda el derecho a medir. Las instituciones cuyo capital es la confianza rara vez sobreviven a un cambio de propietario conservando esa confianza.
 
-De ahí: el instrumento no debe tener un dueño aparte. Es decir, deben poseerlo los participantes juntos. Es decir, es autogobierno.
+De ahí: el instrumento no debe tener dueño. Es decir, deben gobernarlo los participantes. Es decir, es autogobierno.
 
 **Paso quinto.** El instrumento debe servir por igual a todas las partes y no ser un actor nacional; de otro modo lo usa una sola parte y se convierte en un arma.
 
@@ -912,10 +912,13 @@ Los hechos citados en el texto:
 
 - Investigación de la Fiscalía General del Estado de Nueva York sobre los comentarios falsos en el trámite de la Comisión Federal de Comunicaciones de los Estados Unidos, 6 de mayo de 2021 - [informe](https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing). De ahí están tomadas todas las cifras: más de 22 millones de comentarios, casi 18 millones falsos, 8,5 millones por 4,2 millones de dólares de la asociación sectorial, 7,7 millones de una sola persona
 - Cese de la publicación de la clasificación Doing Business por el Banco Mundial, septiembre de 2021 - [comunicado](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
+- Business Ready (B-READY), sucesor de Doing Business con una metodología nueva, primer informe el 3 de octubre de 2024 - [comunicado del Banco Mundial](https://www.worldbank.org/en/news/press-release/2024/10/01/implementation-gaps-hinder-business-climate-in-50-economies); [preguntas frecuentes sobre B-READY](https://www.worldbank.org/en/businessready/about-us/faq)
 - Procedimiento de preparación y aprobación de los informes del Grupo Intergubernamental de Expertos sobre el Cambio Climático - [procedimientos del IPCC](https://www.ipcc.ch/about/procedures/)
 - Principios de trabajo del Grupo de Trabajo de Ingeniería de Internet, incluida la fórmula «consenso aproximado y código que funciona» - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
 - La Asamblea Ciudadana de Irlanda de 2016-2018 - [materiales de la asamblea](https://citizensassembly.ie/); la Convención Constitucional de 2012-2014 - [archivo de la convención](https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/). Fechas y resultados de los referendos: 22 de mayo de 2015 (matrimonio entre personas del mismo sexo), 25 de mayo de 2018 (trigésima sexta enmienda, por la que se derogó la octava, 66,4 por ciento con una participación del 64,1)
 - Datos sobre personas desplazadas por la fuerza y apátridas a finales de 2025 - [estadísticas del ACNUR](https://www.unhcr.org/refugee-statistics/)
+- Ley de Bienestar de las Generaciones Futuras (Gales) de 2015, parte 3 sobre el Comisionado para las Generaciones Futuras - [texto de la ley](https://www.legislation.gov.uk/anaw/2015/2/part/3); [qué puede y qué no puede hacer el Comisionado](https://futuregenerations.wales/do/get-in-touch/faqs/)
+- Comisión del Futuro del Parlamento de Finlandia, creada en 1993 - [página de la comisión](https://www.eduskunta.fi/en/members-and-parliamentary-bodies/committees/committee-for-the-future); Reglamento del Parlamento 40/2000, con la lista de comisiones permanentes - [texto](https://www.finlex.fi/fi/lainsaadanto/2000/40)
 - Medida cautelar de la Agencia Española de Protección de Datos respecto de Tools for Humanity, 6 de marzo de 2024 - [nota de la AEPD](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - Resolución de la Autoridad Nacional de Protección de Datos de Brasil PR/ANPD núm. 18/2025, de 25 de marzo de 2025, por la que se desestima el recurso y se mantiene la prohibición - [sitio de la ANPD](https://www.gov.br/anpd/)
 - Sentencia del Tribunal Superior de Kenia de 5 de mayo de 2025 en el asunto sobre la actividad de Worldcoin - [análisis del Centro de Propiedad Intelectual y Derecho de las Tecnologías de la Información, Strathmore University](https://cipit.strathmore.edu/kenya-high-courts-worldcoin-determination-upholding-consent-accountability-and-data-sovereignty-in-biometric-data-processing/)

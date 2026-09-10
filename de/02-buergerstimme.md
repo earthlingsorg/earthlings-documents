@@ -68,7 +68,7 @@ Zusammen mit dem Ergebnis wird alles veröffentlicht, womit es überprüft wird:
 
 Das Volk ist dem Messinstrument nicht von außen hinzugefügt. Es ergibt sich von innen.
 
-Eine Messung braucht einen bestimmten Bestand - sonst ist unbekannt, wovon der genannte Anteil ein Anteil ist. Der Betreiber darf diesen Bestand nicht ändern können - also haben die Teilnehmer Rechte gegen den Betreiber, und das ist ein Gründungstext und keine Nutzungsbedingungen. Das Messinstrument darf nicht käuflich sein - also hat es keinen gesonderten Eigentümer, und es gehört den Teilnehmern gemeinsam. Es muss allen Seiten taugen - also gehört es keinem einzigen Staat. Und wenn es das Ergebnis veröffentlicht, sagt es „wir“ und nicht „so und so viele Nutzer eines Dienstes“.
+Eine Messung braucht einen bestimmten Bestand - sonst ist unbekannt, wovon der genannte Anteil ein Anteil ist. Der Betreiber darf diesen Bestand nicht ändern können - also haben die Teilnehmer Rechte gegen den Betreiber, und das ist ein Gründungstext und keine Nutzungsbedingungen. Das Messinstrument darf nicht käuflich sein - also hat es keinen Eigentümer, und die Teilnehmer verwalten es. Es muss allen Seiten taugen - also gehört es keinem einzigen Staat. Und wenn es das Ergebnis veröffentlicht, sagt es „wir“ und nicht „so und so viele Nutzer eines Dienstes“.
 
 Ein Gebilde mit diesen Eigenschaften, so schlagen wir vor, ist als Volk zu betrachten. Das ist unsere Position und kein allgemein anerkannter rechtlicher Prüfmaßstab.
 
@@ -245,7 +245,7 @@ Nun ehrlich dazu, wo wir stehen.
 
 ## 6. Sechs Beispiele und sechs Lehren
 
-Es mag scheinen, dass man ohne Befugnisse nichts bewirken kann. Das ist falsch und wird durch die Praxis widerlegt. Unten stehen sechs Fälle - fünf geglückte und ein lehrreich missglückter. Wir führen sie nicht als Beweis unserer Richtigkeit an, sondern als Quelle von Anforderungen an uns selbst.
+Es mag scheinen, dass man ohne Befugnisse nichts bewirken kann. Das ist falsch und wird durch die Praxis widerlegt. Unten stehen sechs Fälle - vier geglückte und zwei lehrreich missglückte. Wir führen sie nicht als Beweis unserer Richtigkeit an, sondern als Quelle von Anforderungen an uns selbst.
 
 ### Indizes und Ratings
 
@@ -255,7 +255,7 @@ Der Korruptionswahrnehmungsindex, den die Organisation Transparency Internationa
 
 ### Der Tod eines Rankings
 
-Die Weltbank veröffentlichte das Ranking Doing Business, das die Bedingungen unternehmerischen Handelns in einhundertneunzig Volkswirtschaften bewertete. Sein Einfluss war gewaltig: Staaten schrieben ihre Gesetzgebung um, um in ihm aufzusteigen. Nachdem im Juni 2020 innerhalb der Bank Verstöße in den Berichten von 2018 und 2020 gemeldet worden waren, wurde die Herausgabe ausgesetzt und die Prüfung einer externen Anwaltskanzlei übertragen. Die Untersuchung stellte fest, dass auf das Team, das den Index erstellte, Druck ausgeübt worden war, um die Kennzahlen einzelner Länder zu ändern. **Am 16. September 2021 gab die Bank die Einstellung des Rankings bekannt.** Nicht die Aussetzung - die Einstellung. Es wurde nicht versucht, es wiederherzustellen: Es gab nichts wiederherzustellen.
+Die Weltbank veröffentlichte das Ranking Doing Business, das die Bedingungen unternehmerischen Handelns in einhundertneunzig Volkswirtschaften bewertete. Sein Einfluss war gewaltig: Staaten schrieben ihre Gesetzgebung um, um in ihm aufzusteigen. Nachdem im Juni 2020 innerhalb der Bank Verstöße in den Berichten von 2018 und 2020 gemeldet worden waren, wurde die Herausgabe ausgesetzt und die Prüfung einer externen Anwaltskanzlei übertragen. Die Untersuchung stellte fest, dass auf das Team, das den Index erstellte, Druck ausgeübt worden war, um die Kennzahlen einzelner Länder zu ändern. **Am 16. September 2021 gab die Bank die Einstellung des Rankings bekannt.** Nicht die Aussetzung - die Einstellung. Wiederhergestellt hat man es nicht: Den Nachfolger, B-READY, baute man neu auf, unter einem anderen Namen und nach einer anderen Methodik.
 
 **Die Lehre, die der ersten entgegengesetzt und wichtiger ist.** Das ganze Kapital eines solchen Werkzeugs ist das Vertrauen in das Verfahren. Es wird nicht allmählich verbraucht, es geht ganz und auf einmal verloren.
 
@@ -285,7 +285,7 @@ Die Zusammensetzungen wurden auf verschiedene Weise ausgewählt, und der Untersc
 
 ### Und das Gegenbeispiel, das man kennen muss
 
-Das Russell-Tribunal zu Vietnam von 1966 bis 1967 und das zwölf Jahre später eingerichtete Ständige Tribunal der Völker legten sorgfältig vorbereitete Gutachten zu schwersten Fragen vor. Ihre Zusammensetzung war selbst ernannt, ihre Repräsentativität in keiner Weise festgestellt, ihre Befugnisse nicht vorhanden. Moralisch werden sie geachtet. Politisch werden sie vollständig übergangen, und das seit sechzig Jahren.
+Das Russell-Tribunal zu Vietnam von 1966 bis 1967 und das zwölf Jahre später eingerichtete Ständige Tribunal der Völker legten sorgfältig vorbereitete Gutachten zu schwersten Fragen vor. Ihre Zusammensetzung war selbst ernannt, ihre Repräsentativität in keiner Weise festgestellt, ihre Befugnisse nicht vorhanden. Moralisch werden sie geachtet. Politisch werden sie vollständig übergangen, und das seit Jahrzehnten.
 
 **Die Lehre.** Ohne überprüfbaren Bestand bleibt jedes, auch das makelloseste Verfahren die private Meinung einer Gruppe angesehener Menschen. Genau darin unterscheiden wir uns - und genau das verlieren wir, wenn der Bestand aufhört, überprüfbar zu sein.
 
@@ -569,11 +569,11 @@ In Teil I hieß es, die geschädigte Seite - diejenigen, die noch nicht wählen,
 
 Hier ist er mit etwas zu beheben - nicht wegen unserer guten Absicht, sondern wegen des Baus des Textes. Artikel 5 der Erklärung sagt: **„Kein Beschluss des Volkes der Earthlings darf nachteilige Folgen auf künftige Generationen abwälzen.“** Artikel 5 gehört zum unabänderlichen Kern (Artikel 11), und die Grundsätze des Kerns werden überhaupt nicht zur Abstimmung gestellt - es ist keine Frage einer erhöhten Schwelle, es ist eine Frage, die nicht gestellt wird. Ein Beschluss, der dem Kern widerspricht, ist von Anfang an nichtig und wird weder durch Zeit noch durch Ausführung geheilt.
 
-Aus dieser Norm kann ein ständiges Verfahren erwachsen: die Beurteilung jeder erheblichen Entscheidung nach ihrer Wirkung auf die, die nach uns kommen - mit einer veröffentlichten Stellungnahme und dem Recht jedes Teilnehmers, sie zu verlangen. Ein solches Verfahren gibt es heute, soweit wir wissen, in keinem Staat und in keiner internationalen Organisation. Bei uns besteht es ebenfalls noch nicht: Es gibt die Norm, aus der es folgt, und das ist zweierlei (Abschnitt 21).
+Aus dieser Norm kann ein ständiges Verfahren erwachsen: die Beurteilung jeder erheblichen Entscheidung nach ihrer Wirkung auf die, die nach uns kommen - mit einer veröffentlichten Stellungnahme und dem Recht jedes Teilnehmers, sie zu verlangen. Ein solches Verfahren gibt es heute, soweit wir wissen, in keinem Staat und in keiner internationalen Organisation. Am nächsten kommen ihm der Beauftragte für künftige Generationen in Wales und der Zukunftsausschuss des finnischen Parlaments, doch keiner der beiden beurteilt jede erhebliche Entscheidung oder gibt jedem Teilnehmer das Recht, eine solche Beurteilung zu verlangen. Bei uns besteht es ebenfalls noch nicht: Es gibt die Norm, aus der es folgt, und das ist zweierlei (Abschnitt 21).
 
 Und eines muss noch gesagt werden, sonst gerät das Bild schöner als die Wahrheit. **Hinter diesem Verbot steht kein Gericht.** Das Volk der Earthlings hat kein Verfassungsgericht, und wir geben keines vor; es gibt niemanden, der die Erfüllung erzwingt. Die Kraft der Norm liegt anderswo: Ein Verstoß ist für alle sichtbar, er wird weder durch Zeit noch durch Ausführung geheilt, und im Zweifel werden die Bestimmungen des Kerns zugunsten des Menschen ausgelegt. Ein solcher Schutz ist schwächer als der eines Gerichts im Zwang und stärker in der Überprüfbarkeit.
 
-Und auch so bleibt die Lage besonders. Wenn das Volk irgendwo nach außen eine Stimme erhält, wird es die einzige Seite am Tisch sein, deren konstituierende Regel es ihr ausdrücklich verbietet, auf Kosten der folgenden Generationen zu gewinnen. Nicht weil wir gütiger wären als andere, sondern weil es uns eben jener Text verbietet, durch den wir konstituiert sind.
+Und auch so bleibt die Lage besonders. Wenn das Volk irgendwo nach außen eine Stimme erhält, wird es, soweit wir wissen, die einzige Seite am Tisch sein, deren konstituierende Regel es ihr ausdrücklich verbietet, auf Kosten der folgenden Generationen zu gewinnen. Nicht weil wir gütiger wären als andere, sondern weil es uns eben jener Text verbietet, durch den wir konstituiert sind.
 
 ## 18. Die ehrliche Asymmetrie
 
@@ -627,11 +627,11 @@ Aber genau das bedeutet, dass **die Teilnehmer Rechte gegen den Betreiber haben*
 
 Daraus: Es wird ein Gründungstext gebraucht und keine Nutzungsbedingungen.
 
-*Ein Verein genügt bereits nicht mehr: Seine Satzung ändert seine eigene Leitung.*
+*Ein Verein genügt bereits nicht mehr: Eine Mehrheit seiner eigenen Mitglieder kann seine Satzung umschreiben.*
 
-**Vierter Schritt.** Das Messinstrument muss seinen Eigentümer überdauern und darf nicht käuflich sein. Was sich kaufen lässt, wird früher oder später gekauft, und der Käufer erbt das Recht zu messen. Einrichtungen, deren Kapital das Vertrauen ist, überstehen einen Eigentümerwechsel nur selten, ohne dieses Vertrauen einzubüßen.
+**Vierter Schritt.** Das Messinstrument muss diejenigen überdauern, die es gebaut haben, und darf nicht käuflich sein. Was sich kaufen lässt, wird früher oder später gekauft, und der Käufer erbt das Recht zu messen. Einrichtungen, deren Kapital das Vertrauen ist, überstehen einen Eigentümerwechsel nur selten, ohne dieses Vertrauen einzubüßen.
 
-Daraus: Das Messinstrument darf keinen gesonderten Eigentümer haben. Also muss es den Teilnehmern gemeinsam gehören. Also ist es Selbstverwaltung.
+Daraus: Das Messinstrument darf keinen Eigentümer haben. Also müssen die Teilnehmer es verwalten. Also ist es Selbstverwaltung.
 
 **Fünfter Schritt.** Das Messinstrument muss allen Seiten gleichermaßen taugen und darf kein nationaler Akteur sein - sonst benutzt es nur eine Seite, und es verwandelt sich in eine Waffe.
 
@@ -912,10 +912,13 @@ Tatsachen, die im Text angeführt sind:
 
 - Untersuchung der Generalstaatsanwaltschaft des Bundesstaates New York über gefälschte Kommentare im Verfahren der Federal Communications Commission der USA, 6. Mai 2021 - [Bericht](https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing). Von dort stammen alle Zahlen: mehr als 22 Millionen Kommentare, fast 18 Millionen gefälschte, 8,5 Millionen für 4,2 Millionen Dollar von einem Branchenverband, 7,7 Millionen von einem einzigen Menschen
 - Einstellung der Veröffentlichung des Rankings Doing Business durch die Weltbank, September 2021 - [Mitteilung](https://www.worldbank.org/en/news/statement/2021/09/16/world-bank-group-to-discontinue-doing-business-report)
+- Business Ready (B-READY), Nachfolger von Doing Business mit neuer Methodik, erster Bericht am 3. Oktober 2024 - [Pressemitteilung der Weltbank](https://www.worldbank.org/en/news/press-release/2024/10/01/implementation-gaps-hinder-business-climate-in-50-economies); [FAQ zu B-READY](https://www.worldbank.org/en/businessready/about-us/faq)
 - Wie die Berichte des Zwischenstaatlichen Ausschusses für Klimaänderungen erstellt und abgestimmt werden - [Verfahren des IPCC](https://www.ipcc.ch/about/procedures/)
 - Arbeitsgrundsätze der Internet Engineering Task Force, einschließlich der Formel „ungefährer Konsens und lauffähiger Code“ - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282)
 - Die Bürgerversammlung Irlands von 2016 bis 2018 - [Materialien der Versammlung](https://citizensassembly.ie/); der Verfassungskonvent von 2012 bis 2014 - [Archiv des Konvents](https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/). Daten und Ergebnisse der Referenden: 22. Mai 2015 (gleichgeschlechtliche Ehe), 25. Mai 2018 (sechsunddreißigster Zusatzartikel, mit dem der achte aufgehoben wurde, 66,4 Prozent bei einer Beteiligung von 64,1)
 - Angaben zu gewaltsam Vertriebenen und zu Staatenlosen zum Ende des Jahres 2025 - [Statistik des UNHCR](https://www.unhcr.org/refugee-statistics/)
+- Well-being of Future Generations (Wales) Act 2015, Teil 3 über den Beauftragten für künftige Generationen - [Gesetzestext](https://www.legislation.gov.uk/anaw/2015/2/part/3); [was der Beauftragte kann und was nicht](https://futuregenerations.wales/do/get-in-touch/faqs/)
+- Zukunftsausschuss des finnischen Parlaments, eingerichtet 1993 - [Seite des Ausschusses](https://www.eduskunta.fi/en/members-and-parliamentary-bodies/committees/committee-for-the-future); Geschäftsordnung des Parlaments 40/2000 mit der Liste der ständigen Ausschüsse - [Text](https://www.finlex.fi/fi/lainsaadanto/2000/40)
 - Einstweilige Maßnahme der spanischen Datenschutzbehörde gegenüber Tools for Humanity, 6. März 2024 - [Mitteilung der AEPD](https://www.aepd.es/en/press-and-communication/press-releases/agency-orders-precautionary-measure-which-prevents-Worldcoin-from-continuing-toprocess-personal-data-in-spain)
 - Beschluss der nationalen Datenschutzbehörde Brasiliens PR/ANPD Nr. 18/2025 vom 25. März 2025 über die Zurückweisung der Beschwerde und die Aufrechterhaltung des Verbots - [Website der ANPD](https://www.gov.br/anpd/)
 - Entscheidung des kenianischen High Court vom 5. Mai 2025 in der Sache über die Tätigkeit von Worldcoin - [Erörterung des Centre for Intellectual Property and Information Technology Law, Strathmore University](https://cipit.strathmore.edu/kenya-high-courts-worldcoin-determination-upholding-consent-accountability-and-data-sovereignty-in-biometric-data-processing/)
