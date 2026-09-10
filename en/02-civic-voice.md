@@ -2,7 +2,7 @@
 
 **Why it can be left unheard today, what we are doing about it, and what it may grow into**
 
-> This document unfolds one provision of the Declaration. Article 6 states that the Earthlings people forms a verifiable collective position of its participants and conveys it to states and international organizations, and that the force of that position is determined not by the powers of the people but by the free participation of persons, the transparency of the procedures, and the ability to verify the result.
+> This document unfolds one provision of the Declaration. Article 6 states that the Earthlings people forms a verifiable collective position of its earthlings and conveys it to states and international organizations, and that the force of that position is determined not by the powers of the people but by the free participation of persons, the transparency of the procedures, and the ability to verify the result.
 >
 > What that means in practice is explained here: why a civic voice can be left unheard today without being rejected on the merits; what exactly we are building instead; why this required constituting a people rather than building a single tool; by what rungs such a voice gains weight; and how the whole thing may end badly.
 >
@@ -529,7 +529,7 @@ The section exists so that a person joining does not build up expectations we sh
 
 **This is not power.** The Earthlings people takes no decisions for states and exercises no public authority. Its decisions are binding only within itself and only on those who belong to it.
 
-**This does not replace citizenship, elections and laws.** A participant remains a citizen of their country, votes in its elections, obeys its laws and pays its taxes. The people does not require and cannot require otherwise: belonging adds to, it does not replace - Article 8 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html).
+**This does not replace citizenship, elections and laws.** An earthling remains a citizen of their country, votes in its elections, obeys its laws and pays its taxes. The people does not require and cannot require otherwise: belonging adds to, it does not replace - Article 8 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html).
 
 **This is not a party and not participation in a domestic struggle.** The people puts forward no candidates, supports none and funds none. At any size. This limit is not tactical but constitutive, and it cannot be lifted by a vote.
 
