@@ -293,7 +293,7 @@ The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal
 
 # Part IV. How a measurement works
 
-The instrument is described above as a design. Here is how it has to work if it is not to turn into just another poll. The requirements without which a measurement does not take place are set out in the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who has no power to approve the question, what is published together with the result, who finds a defect, and on whose money a measurement is not conducted. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today that order has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
+The instrument is described above as a design. Here is how it has to work if it is not to turn into just another poll. The requirements without which a measurement does not take place are set out in the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who has no power to approve the question, what is published together with the result, who determines that a measurement is defective, and on whose money a measurement is not conducted. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today that order has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
 
 ## 7. Who takes part
 
@@ -409,7 +409,7 @@ A defect of a measurement means: a leading or ambiguous wording of the question,
 The order is then as follows:
 
 1. **Any person may make a claim**, not only a participant and not only us. The claim is published together with the date it was received.
-2. **The defect is found by someone other than whoever conducted the measurement.** If the decision is taken by those who conducted it, an error will never be acknowledged - this is known in advance, and that is why it is not done that way.
+2. **A measurement is determined to be defective by someone other than whoever conducted it.** If the decision is taken by those who conducted it, an error will never be acknowledged - this is known in advance, and that is why it is not done that way.
 3. **The cancellation is published in the same place and with the same prominence as the result**, not as a footnote. At the same time, exactly what the defect consisted in is published.
 4. **A cancelled measurement does not vanish from the chronicle.** It remains, marked as cancelled. An instrument whose past can be cleaned up is no better than an instrument whose present can be touched up.
 5. **A repeat measurement is conducted afresh and from the beginning**, including a new adversarial stage. Correction on the fly is not permitted under any circumstances.

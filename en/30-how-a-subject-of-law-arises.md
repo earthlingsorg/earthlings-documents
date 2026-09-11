@@ -26,7 +26,7 @@ Where this document diverges from the Earthlings Declaration, the Declaration pr
 
 ### Existence is described, becoming is not
 
-International law knows how to establish that a collective subject exists, and knows how to describe the rights of peoples already formed. But it has scarcely worked out a general theory of how a collective subject arises by the free choice of individuals.
+International law knows how to ascertain that a collective subject exists, and knows how to describe the rights of peoples already formed. But it has scarcely worked out a general theory of how a collective subject arises by the free choice of individuals.
 
 **Existence is described. Becoming is not.**
 

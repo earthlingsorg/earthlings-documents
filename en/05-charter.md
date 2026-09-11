@@ -300,7 +300,7 @@ The wording of a question is approved neither by those who run the operational m
 
 The result is published together with everything an outside person needs in order to recount it themselves, including the share of those who voted out of those entitled to vote - including where that share is low. A publication that does not allow a recount is not a measurement.
 
-A defect of a measurement is found by someone other than whoever conducted it. A cancelled measurement is not deleted and is kept with a mark of cancellation; in its place a measurement is conducted afresh, in full and from the beginning.
+A measurement is determined to be defective by someone other than whoever conducted it. A cancelled measurement is not deleted and is kept with a mark of cancellation; in its place a measurement is conducted afresh, in full and from the beginning.
 
 A measurement is not conducted for a client's fee; earmarked funding for a particular question is not accepted.
 

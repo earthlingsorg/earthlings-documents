@@ -20,7 +20,7 @@ The four propositions come first so that the reader can see from the outset what
 
 **First.** The norms we rely on are in force today: freedom of association (Article 20 of the Universal Declaration of Human Rights, Article 22 of the International Covenant on Civil and Political Rights, Article 11 of the European Convention) and the right of peoples to self-determination (Article 1(2) of the UN Charter, common Article 1 of the 1966 Covenants). The treaties in which they are established are binding on the states parties to them. None of these norms has been invented or proposed "for the future".
 
-**Second.** **No binding norm contains a requirement of territory as a condition of a people's existence.** Not the UN Charter, not common Article 1 of the Covenants, not a single convention. What is more, no definition of a people exists at all, and this has been stated in an official document of the United Nations.
+**Second.** **No binding norm contains a requirement of territory as a condition of a people's existence.** Not the UN Charter, not common Article 1 of the Covenants, not a single convention. What is more, no definition of a people exists at all, and this has been recorded in an official document of the United Nations.
 
 **Third.** **The whole body of practice rejecting the claims of groups on the merits concerns secession** - the Aaland Islands, Badinter, Katanga, Cameroon. The Earthlings people seeks no secession, changes no borders, and claims no territory. The precedents strike at a claim we do not make and are silent on the one we do.
 
@@ -307,7 +307,7 @@ Our position is different: the law does not found peoples and keeps no register 
 
 **The answer proceeds in four steps, none of which relies on anyone's opinion.**
 
-**First. No binding norm contains such a requirement.** The UN Charter does not require a people to have territory, common Article 1 of the Covenants does not require it, and no convention requires it. Nor can the requirement be derived from a definition, since no definition exists - and this has been stated officially.
+**First. No binding norm contains such a requirement.** The UN Charter does not require a people to have territory, common Article 1 of the Covenants does not require it, and no convention requires it. Nor can the requirement be derived from a definition, since no definition exists - and this has been officially recorded.
 
 **Second. Where territory appears in the texts, it answers a different question** - resolution 1541 (XV) classifies a territory, not a group; the safeguard clause of resolution 2625 (XXV) describes the conditions for protecting territorial integrity. Neither defines a people.
 
@@ -411,7 +411,7 @@ The Truman Proclamation on the continental shelf (Proclamation 2667 of 28 Septem
 
 The International Court of Justice in the North Sea Continental Shelf cases (judgment of 20 February 1969) assessed the proclamation in exactly these terms: it "soon came to be regarded as **the starting point of the positive law on the subject**", and the doctrine it advanced, of the original and exclusive right of the coastal state, prevailed over the others and was reflected in the 1958 Convention (paragraph 47). The exclusive economic zone followed a similar path within a single decade and was established by the 1982 UN Convention on the Law of the Sea.
 
-The pattern "claim - practice - legal recognition" is a documented way in which international law changes.
+The pattern "claim - practice - legal ascertainment" is a documented way in which international law changes.
 
 > **Limit of the analogy.** Those were claims by states. Earthlings relies on the mechanism by which claims mature, not on being the same kind of claimant.
 
@@ -521,7 +521,7 @@ In international law the same acts carry different meanings depending on the cap
 
 An openly declared claim is therefore not rhetoric but what legally characterizes the practice being accumulated: self-government exercised and documented in the capacity of a people matures into evidence of peoplehood, whereas the same years of practice without a declared capacity would mature only into a well-established association. Hence the requirements placed on the practice - openness, consistency, documentation: the registry, the public votes, and the founding acts are a means of producing evidence, not a showcase.
 
-## Distributed finding instead of a single examination
+## Distributed ascertainment instead of a single examination
 
 No status in international law is confirmed for everyone at once by the decision of a single body: no court has ever certified any state. Statuses consolidate in a distributed fashion, through many small doors.
 
@@ -597,7 +597,7 @@ What is established by norms and decisions rather than by opinion:
 
 **Legal personality without territory is known to the law** and confirmed, among other things, by a judicial decision.
 
-**The path "private initiative - practice - formalization by states" has been travelled and documented**; the path "unilateral claim - practice - norm" has been recorded by the International Court of Justice.
+**The path "private initiative - practice - formalization by states" has been travelled and documented**; the path "unilateral claim - practice - norm" has been placed on record by the International Court of Justice.
 
 **Peoplehood is established on the basis of criteria when a specific question arises**, and there is no prior registration of peoples for anyone.
 
@@ -649,7 +649,7 @@ All the propositions in this document rest on what is listed below: treaties, re
 - Resolution 9.1 of the thirty-sixth session of the UNESCO General Conference of 31 October 2011; UNESCO Recommendation on the Ethics of Artificial Intelligence, 23 November 2021.
 - Pacific Islands Forum Declaration on the Continuity of Statehood, 9 November 2023; AOSIS Declaration on Sea-Level Rise and Statehood, 23 September 2024.
 - UN International Law Commission, final report of the Study Group on sea-level rise (2025), paragraphs 35 and 37.
-- Study on the right to self-determination, UN Doc. E/CN.4/Sub.2/404/Rev.1 (1981), paragraphs 269 and 279 - cited exclusively as an official statement that the concept of a "people" has no definition.
+- Study on the right to self-determination, UN Doc. E/CN.4/Sub.2/404/Rev.1 (1981), paragraphs 269 and 279 - cited exclusively as officially recording that the concept of a "people" has no definition.
 
 **Judicial and quasi-judicial practice**
 
