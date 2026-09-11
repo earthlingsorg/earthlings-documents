@@ -141,7 +141,7 @@ Good faith requires that we ourselves point out where in General Assembly resolu
 
 **General Assembly resolution 1541 (XV) of 15 December 1960** establishes in Principle IV that the obligation to transmit information exists prima facie in respect of a territory "which is geographically separate and is distinct ethnically and/or culturally from the country administering it".
 
-**Resolution 2625 (XXV) of 24 October 1970**, in its safeguard clause, speaks of states "possessed of a government representing the whole people **belonging to** the territory without distinction as to race, creed or colour". The authentic Russian text is weaker here: "the whole people residing in that territory". Both texts are authentic, and we cite both rather than the one that suits us.
+**Resolution 2625 (XXV) of 24 October 1970**, in its safeguard clause, speaks of states "possessed of a government representing the whole people **belonging to** the territory without distinction as to race, creed or colour". The Russian text is weaker here: "the whole people residing in that territory". Both texts are official, and we cite both rather than the one that suits us.
 
 Here is what follows from this, and what does not.
 
@@ -531,7 +531,7 @@ The path of Palestine is instructive: admission to UNESCO as a member state on 3
 
 The first doors exist even for an initiative of this kind: written submissions to the universal periodic review and to the UN special procedures are open to any civil society actor; consultative status with ECOSOC is attainable through a legal entity acting as its bearer, as the Saami Council participates while listed on the Roster, even though no one considers the Sami people a non-governmental organization; then come multilateral venues and observer statuses.
 
-That the end point is attainable is strongly confirmed: the duty of states to consult indigenous peoples went, within the memory of a single generation, from a mere requirement to seek their collaboration (ILO Convention No. 107, 1957, Article 5) to a written norm (ILO Convention No. 169, Article 6; UN Declaration on the Rights of Indigenous Peoples, Articles 18-19; *Saramaka People v. Suriname*, 2007).
+That the end point is attainable is strongly confirmed: the duty of states to consult indigenous peoples went, within the memory of a single generation, from a mere requirement to seek their collaboration (ILO Convention No. 107, 1957, Article 5) to a written obligation to consult (ILO Convention No. 169, Article 6; UN Declaration on the Rights of Indigenous Peoples, Articles 18-19; *Saramaka People v. Suriname*, 2007).
 
 ## The public chronicle and the conditions of legitimation
 

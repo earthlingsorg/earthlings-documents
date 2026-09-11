@@ -141,7 +141,7 @@ La buena fe exige nombrar nosotros mismos el lugar en el que el territorio apare
 
 **La resolución 1541 (XV) de la Asamblea General, de 15 de diciembre de 1960**, establece en su principio IV que existe prima facie la obligación de transmitir información respecto de un territorio «que está separado geográficamente del país que lo administra y es distinto de éste en sus aspectos étnicos o culturales».
 
-**La resolución 2625 (XXV), de 24 de octubre de 1970**, en su cláusula de salvaguardia habla de Estados «dotados así de un gobierno que represente a la totalidad del pueblo perteneciente al territorio, sin distinción por motivo de raza, credo o color». El español es aquí uno de los textos auténticos y dice **perteneciente al territorio**, igual que el texto inglés auténtico: «the whole people belonging to the territory». Citamos el texto tal como es, y no el que nos convendría.
+**La resolución 2625 (XXV), de 24 de octubre de 1970**, en su cláusula de salvaguardia habla de Estados «dotados de un gobierno que represente a la totalidad del pueblo perteneciente al territorio, sin distinción por motivos de raza, credo o color». El texto español, que es uno de los textos oficiales, dice aquí **perteneciente al territorio**, igual que el texto inglés: «the whole people belonging to the territory». Citamos el texto tal como es, y no el que nos convendría.
 
 Qué se sigue de ello y qué no.
 
@@ -331,7 +331,7 @@ En 2025 la Comisión de Derecho Internacional de las Naciones Unidas aprobó el 
 
 > «Aunque todos los pueblos tienen el derecho a la libre determinación y a establecer libremente su condición política... como se estipula en el artículo 1 del Pacto, **no corresponde que el Comité aborde, con arreglo al Protocolo Facultativo del Pacto, la cuestión de si la Agrupación del Lago Lubicon constituye un "pueblo"**. El Protocolo Facultativo establece un procedimiento mediante el cual los individuos pueden alegar que se han violado sus derechos individuales».
 
-La Observación general núm. 23 (1994) traza la misma delimitación: «El Pacto distingue entre el derecho a la libre determinación y los derechos protegidos por el artículo 27... La libre determinación no es un derecho que pueda invocarse con arreglo al Protocolo Facultativo» (párrafo 3.1).
+La Observación general núm. 23 (1994) traza la misma delimitación: «El Pacto hace una diferenciación entre el derecho a la libre determinación y el derecho amparado en virtud del artículo 27». Como dice el texto inglés de la observación, la libre determinación no es un derecho que pueda examinarse con arreglo al Protocolo Facultativo (párrafo 3.1).
 
 Dos asuntos vecinos conviene exponerlos con exactitud, puesto que cada uno cierra la puerta por su propio fundamento. En el asunto *Kitok v. Sweden* (comunicación núm. 197/1985, dictamen de 27 de julio de 1988, párrafo 6.3) el Comité señaló que «el autor, como persona, no podía alegar haber sido víctima de una violación del derecho a la libre determinación consagrado en el artículo 1 del Pacto»; el fundamento es aquí el carácter individual del procedimiento. En el asunto *Mikmaq Tribal Society v. Canada* (comunicación núm. 78/1980, decisión de 29 de julio de 1984) la comunicación se declaró inadmisible porque el autor no acreditó su facultad de actuar en nombre de la comunidad; a la cuestión de la condición de pueblo ese asunto no se refiere en absoluto.
 
@@ -531,7 +531,7 @@ Es ilustrativo el camino de Palestina: admisión en la UNESCO como Estado miembr
 
 Las primeras puertas existen también para una iniciativa de este tipo: las contribuciones escritas al examen periódico universal y a los procedimientos especiales de las Naciones Unidas están abiertas a cualquier sociedad civil; la condición consultiva ante el ECOSOC es alcanzable a través de una persona jurídica soporte, como participa el Consejo Saami, inscrito en la Lista (Roster), pese a que a nadie se le ocurre considerar al pueblo saami una organización no gubernamental; y más allá, los foros multilaterales y las condiciones de observador.
 
-La accesibilidad del punto final está confirmada en forma fuerte: la obligación de los Estados de consultar a los pueblos indígenas recorrió, en la memoria de una sola generación, el camino desde la mera exigencia de buscar su colaboración (Convenio núm. 107 de la OIT, 1957, artículo 5) hasta la norma escrita (Convenio núm. 169 de la OIT, artículo 6; Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas, artículos 18 y 19; *Pueblo Saramaka c. Surinam*, 2007).
+La posibilidad de alcanzar el punto final está confirmada de forma contundente: la obligación de los Estados de consultar a los pueblos indígenas recorrió, en la memoria de una sola generación, el camino desde la mera exigencia de buscar su colaboración (Convenio núm. 107 de la OIT, 1957, artículo 5) hasta la obligación escrita de consultar (Convenio núm. 169 de la OIT, artículo 6; Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas, artículos 18 y 19; *Pueblo Saramaka c. Surinam*, 2007).
 
 ## La crónica pública y las condiciones de legitimación
 
