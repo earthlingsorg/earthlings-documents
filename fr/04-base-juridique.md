@@ -18,11 +18,11 @@ En cas de divergence entre le présent document et la Déclaration, la Déclarat
 
 Pour que le lecteur voie dès le début ce qui est affirmé et ce qui ne l'est pas.
 
-**Premièrement.** Les normes sur lesquelles nous nous appuyons sont en vigueur aujourd'hui et s'imposent aux États: la liberté d'association (article 20 de la Déclaration universelle des droits de l'homme, article 22 du Pacte international relatif aux droits civils et politiques, article 11 de la Convention européenne) et le droit des peuples à disposer d'eux-mêmes (article 1(2) de la Charte des Nations Unies, article premier commun aux Pactes de 1966). Aucune n'est inventée ni proposée « pour l'avenir ».
+**Premièrement.** Les normes sur lesquelles nous nous appuyons sont en vigueur aujourd'hui: la liberté d'association (article 20 de la Déclaration universelle des droits de l'homme, article 22 du Pacte international relatif aux droits civils et politiques, article 11 de la Convention européenne) et le droit des peuples à disposer d'eux-mêmes (article 1(2) de la Charte des Nations Unies, article premier commun aux Pactes de 1966). Les traités qui les consacrent lient les États qui y sont parties. Aucune de ces normes n'est inventée ni proposée « pour l'avenir ».
 
-**Deuxièmement.** **Aucune norme obligatoire ne contient l'exigence d'un territoire comme condition d'existence d'un peuple.** Ni la Charte, ni l'article premier commun aux Pactes, ni aucune convention. Bien plus, il n'existe aucune définition du peuple, et cela a été officiellement constaté par l'Organisation des Nations Unies elle-même.
+**Deuxièmement.** **Aucune norme obligatoire ne contient l'exigence d'un territoire comme condition d'existence d'un peuple.** Ni la Charte, ni l'article premier commun aux Pactes, ni aucune convention. Bien plus, il n'existe aucune définition du peuple, et cela a été constaté dans un document officiel de l'Organisation des Nations Unies.
 
-**Troisièmement.** **Toute la pratique qui a rejeté des prétentions de groupes porte sur la sécession** - îles d'Åland, Badinter, Katanga, Cameroun. Le peuple des Earthlings n'exige pas de sécession, ne modifie aucune frontière et ne revendique aucun territoire. Les précédents frappent une prétention que nous ne formulons pas et se taisent sur celle que nous formulons.
+**Troisièmement.** **Toute la pratique qui, statuant sur le fond, a rejeté des prétentions de groupes porte sur la sécession** - îles d'Åland, Badinter, Katanga, Cameroun. Le peuple des Earthlings n'exige pas de sécession, ne modifie aucune frontière et ne revendique aucun territoire. Les précédents frappent une prétention que nous ne formulons pas et se taisent sur celle que nous formulons.
 
 **Quatrièmement.** Il n'en découle pas que la question soit tranchée en notre faveur. Il en découle qu'elle **n'est pas tranchée**: l'application des normes en vigueur à un peuple non territorial volontairement constitué n'est pas déterminée par le droit international. De telles questions se sont toujours réglées de la même manière: par l'accumulation d'une pratique vérifiable. C'est pourquoi nous proposons de tenir pour objet de l'appréciation non la force d'une auto-désignation, mais la pratique, et nous la soumettons à vérification.
 
@@ -48,7 +48,7 @@ Il n'existe pas de niveau horizontal stable: un lien juridiquement établi entre
 
 **La lacune juridique tient à ce que l'appartenance de fait de chacun à une même planète et la dépendance à l'égard de risques communs ne s'accompagnent d'aucun mécanisme juridique comparable d'expression collective de la volonté au niveau transnational.**
 
-Cela se voit le plus nettement là où les décisions ont des conséquences planétaires et où ceux qu'elles atteignent n'ont pas de voix: les risques biologiques et les pandémies, où la coordination civile transnationale est peu développée; l'intelligence artificielle, dont les décisions sont prises par un cercle restreint d'États et d'entreprises; le climat et les générations futures, qui n'ont aucune représentation procédurale.
+Cela se voit le plus nettement là où les décisions ont des conséquences planétaires et où ceux qu'elles atteignent n'ont pas de voix: les risques biologiques et les pandémies, où la coordination civile transnationale est peu développée; l'intelligence artificielle, dont les décisions sont prises par un cercle restreint d'États et d'entreprises; le climat et les générations futures, qui n'ont aucune représentation procédurale au niveau international.
 
 Les sujets actuels du droit international demeurent nécessaires, mais ils ne sont pas toujours suffisants pour représenter les intérêts de long terme et transnationaux des gens en tant que communauté planétaire commune.
 
@@ -64,7 +64,7 @@ Dans les débats sur la personnalité juridique, on confond constamment trois qu
 
 **La communauté existe-t-elle?** C'est une question de fait. Une communauté de gens s'est formée ou non, et le consentement de quiconque n'est ici pas requis.
 
-**Sa naissance et son activité sont-elles licites?** C'est une question de normes en vigueur, et elle est close par la liberté d'association.
+**Sa naissance est-elle licite?** C'est une question de normes en vigueur, et elle est close par la liberté d'association.
 
 **Possède-t-elle la personnalité juridique internationale**, c'est-à-dire la capacité reconnue d'être titulaire de droits et d'obligations propres au niveau international? Elle ne s'acquiert que par les actes des États et des organes internationaux.
 
@@ -115,17 +115,17 @@ C'est l'une des rares dispositions reconnues comme obligation à l'égard de tou
 
 **Aucun de ces textes ne définit ce qu'est un peuple. Aucun autre traité ne le définit non plus.**
 
-Ce n'est pas l'observation d'une partie intéressée, mais un constat de l'Organisation elle-même. L'étude préparée à la demande de la Sous-Commission des Nations Unies et publiée comme document officiel (E/CN.4/Sub.2/404/Rev.1, 1981) formule l'état des choses ainsi:
+Ce n'est pas l'observation d'une partie intéressée. L'étude préparée à la demande de la Sous-Commission des Nations Unies et publiée comme document officiel (E/CN.4/Sub.2/404/Rev.1, 1981) formule l'état des choses ainsi:
 
-> « On constatera qu'il n'existe pas de définition admise du mot "peuple" ni de moyen permettant de le définir avec certitude. La Charte n'apporte que peu d'éléments sur ce point parce qu'elle ne contient pas de détails ni d'explications relatives au concept du mot "peuples". Il n'existe ni texte, ni définition reconnue permettant de déterminer ce qu'est un "peuple" bénéficiaire de ce droit » (paragraphe 269).
+> « Mais si on met à part l'explication donnée à ce terme dans le mémoire élaboré par le Secrétariat de la Conférence de San Francisco, on constatera qu'il n'existe pas de définition admise du mot "peuple" ni de moyen permettant de le définir avec certitude. La Charte n'apporte que peu d'éléments sur ce point parce qu'elle ne contient pas de détails ni d'explications relatives au concept du mot "peuples". Il n'existe ni texte, ni définition reconnue permettant de déterminer ce qu'est un "peuple" bénéficiaire de ce droit » (paragraphe 269).
 
-Et sur la raison pour laquelle la définition n'est pas venue: « en raison du fait qu'une telle définition n'a pas été formulée, l'Organisation des Nations Unies a manifesté de la prudence dans les cas d'autodétermination politique... Il serait donc prématuré et même présomptueux de chercher à établir maintenant une définition qui puisse être utilisée dans toutes les parties du monde et qui convienne à toutes les situations » (paragraphe 279).
+Et sur la raison pour laquelle la définition n'est pas venue: « Ainsi, en raison du fait qu'une telle définition n'a pas été formulée, l'Organisation des Nations Unies a manifesté de la prudence dans les cas d'autodétermination politique, bien qu'elle ait agi avec fermeté dans le domaine de la liquidation du colonialisme... Il serait donc prématuré et même présomptueux de chercher à établir maintenant une définition qui puisse être utilisée dans toutes les parties du monde et qui convienne à toutes les situations » (paragraphe 279). Le même paragraphe poursuit: « on ne peut et on ne doit pas ignorer les éléments de définition qui se sont dégagés au cours des discussions qui ont eu lieu à ce sujet au sein de l'Organisation des Nations Unies », et le deuxième de ces éléments est la relation avec un territoire, « même si le peuple en question en avait été injustement expulsé et artificiellement remplacé par une autre population ».
 
 ## Trois choses que le droit n'a pas établies
 
 L'absence de définition n'est pas la seule lacune de la catégorie.
 
-**La composition.** Aucun traité ne détermine qui fait partie d'un peuple ni comment l'établir. Il n'existe pas de registre des peuples. Il n'existe pas d'organe qui reconnaisse les peuples. Il n'existe pas de procédure d'enregistrement, et aucun peuple dans l'histoire ne l'a suivie. Aucun être humain sur la Terre ne peut produire un document attestant son appartenance à un peuple: ni un Français, ni un Japonais, ni un Kurde, ni un Saami.
+**La composition.** Aucun traité ne détermine qui fait partie d'un peuple ni comment l'établir. Il n'existe pas de registre des peuples. Il n'existe pas d'organe qui reconnaisse les peuples. Il n'existe pas de procédure d'enregistrement, et aucun peuple dans l'histoire ne l'a suivie. Rares sont ceux qui possèdent un document d'appartenance à un peuple, et ce document est délivré dans un cadre fixé par un État (section 04); un Français, un Japonais ou un Kurde n'a aucun document de ce genre.
 
 **La procédure d'expression de la volonté.** Par quel acte la volonté de gens devient la volonté d'un peuple n'est dit nulle part. Il n'y a ni procédure, ni seuil, ni moyen de vérifier le résultat. Les référendums de la période de décolonisation étaient organisés par des États et des organes internationaux, c'est-à-dire par des tiers extérieurs au peuple lui-même.
 
@@ -133,19 +133,19 @@ L'absence de définition n'est pas la seule lacune de la catégorie.
 
 L'indétermination ne s'est pas maintenue par négligence. Définir le peuple revenait à donner un droit à des groupes situés à l'intérieur d'États existants, et la trace de cette décision figure dans les documents eux-mêmes: la Déclaration sur l'octroi de l'indépendance aux pays et aux peuples coloniaux (résolution 1514 (XV) du 14 décembre 1960), après avoir proclamé au paragraphe 2 le droit des peuples à disposer d'eux-mêmes, précise aussitôt au paragraphe 6 que « toute tentative visant à détruire partiellement ou totalement l'unité nationale et l'intégrité territoriale d'un pays est incompatible avec les buts et les principes de la Charte des Nations Unies ». Le droit a été fait large par sa formulation et étroit par son application.
 
-**La conséquence pratique de ces lacunes est la suivante.** Le droit des peuples à disposer d'eux-mêmes est exerçable par les peuples qui ont déjà leur État: l'État connaît la composition de ses nationaux, dispose d'une procédure de vote et est admis dans tous les organes internationaux; il comble à lui seul les trois éléments manquants. Un peuple sans État ne peut ni établir sa composition, ni exprimer sa volonté, ni la porter où que ce soit. Ceux qui ont ce droit de fait n'en ont presque pas besoin; ceux qui en ont besoin n'y ont pas accès.
+**La conséquence pratique de ces lacunes est la suivante.** Les peuples qui ont déjà leur État peuvent exercer par leurs propres moyens le droit des peuples à disposer d'eux-mêmes: l'État connaît la composition de ses nationaux, dispose d'une procédure de vote et est admis dans les organes internationaux; il comble à lui seul les trois éléments manquants. Un peuple sans État ne peut par lui-même ni établir sa composition, ni exprimer sa volonté, ni la porter là où l'on est tenu de la prendre en compte comme volonté d'un peuple. Ceux qui ont ce droit de fait n'en ont presque pas besoin; ceux qui en ont besoin ne peuvent pas l'exercer par leurs propres moyens.
 
 ## Le territoire: où il est effectivement inscrit
 
-La bonne foi exige de nommer nous-mêmes l'endroit où le territoire est lié au peuple dans les textes obligatoires.
+La bonne foi exige de nommer nous-mêmes l'endroit où le territoire est lié au peuple dans les résolutions de l'Assemblée générale.
 
-**La résolution 1541 (XV) de l'Assemblée générale, du 15 décembre 1960**, établit en son principe IV que l'obligation de communiquer des renseignements existe à première vue à l'égard d'un territoire « qui est géographiquement séparé et ethniquement ou culturellement distinct du pays qui l'administre ».
+**La résolution 1541 (XV) de l'Assemblée générale, du 15 décembre 1960**, établit en son principe IV que l'obligation de communiquer des renseignements existe à première vue à l'égard d'un territoire « géographiquement séparé et ethniquement ou culturellement distinct du pays qui l'administre ».
 
 **La résolution 2625 (XXV) du 24 octobre 1970**, dans sa clause de sauvegarde, parle d'États « dotés ainsi d'un gouvernement représentant l'ensemble du peuple appartenant au territoire sans distinction de race, de croyance ou de couleur ». Le français est ici l'un des textes authentiques et dit **appartenant au territoire**, comme le texte anglais authentique: « the whole people belonging to the territory ». Nous citons le texte tel qu'il est, et non celui qui nous arrangerait.
 
 Ce qui en découle et ce qui n'en découle pas.
 
-**Aucune des deux résolutions ne contient de définition du peuple.** La résolution 1541 qualifie un territoire, non un groupe: son objet est de savoir quand la Puissance administrante est tenue de rendre compte. La résolution 2625 décrit à quelles conditions l'intégrité territoriale d'un État est protégée. Ni l'une ni l'autre ne répond à la question de savoir qui est un peuple, et cette question ne leur était pas posée. Toutes deux s'adressent à la décolonisation: la classe de situations où une communauté naît d'une décision volontaire de personnes et ne revendique aucun territoire ne se posait pas à leurs rédacteurs.
+**Aucune des deux résolutions ne contient de définition du peuple.** La résolution 1541 qualifie un territoire, non un groupe: son objet est de savoir quand la Puissance administrante est tenue de rendre compte. La résolution 2625 décrit à quelles conditions l'intégrité territoriale d'un État est protégée. Ni l'une ni l'autre ne répond à la question de savoir qui est un peuple, et cette question ne leur était pas posée. La résolution 1541 porte sur la décolonisation, la résolution 2625 énonce des principes du droit international qui s'adressent à tous les États; la classe de situations où une communauté naît d'une décision volontaire de personnes et ne revendique aucun territoire ne se posait aux rédacteurs ni de l'une ni de l'autre.
 
 **Mais le rattachement textuel existe**, et affirmer que le territoire ne vivrait sur cette question que dans les opinions de spécialistes serait inexact.
 
@@ -157,21 +157,21 @@ Les normes écrites en vigueur connaissent des cas où l'auto-identification est
 
 **La Convention n° 169 de l'OIT** (adoptée le 27 juin 1989, entrée en vigueur le 5 septembre 1991), article 1(2): « Le sentiment d'appartenance indigène ou tribale doit être considéré comme un critère fondamental pour déterminer les groupes auxquels s'appliquent les dispositions de la présente convention. »
 
-**La Déclaration des Nations Unies sur les droits des peuples autochtones** (résolution 61/295 du 13 septembre 2007), article 33(1): les peuples ont le droit « de décider de leur propre identité ou appartenance conformément à leurs coutumes et traditions ».
+**La Déclaration des Nations Unies sur les droits des peuples autochtones** (résolution 61/295 du 13 septembre 2007), article 33(1): les peuples autochtones ont le droit « de décider de leur propre identité ou appartenance conformément à leurs coutumes et traditions ».
 
 > **Les limites de ces normes, et elles sont étroites.** L'article 1(3) de cette même Convention n° 169 dispose: « L'emploi du terme peuples dans la présente convention ne peut en aucune manière être interprété comme ayant des implications de quelque nature que ce soit quant aux droits qui peuvent s'attacher à ce terme en vertu du droit international. » La Convention refuse elle-même de transposer son vocabulaire au droit international général, et nous reproduisons ce refus au lieu de le contourner.
 >
 > Les deux normes jouent à l'intérieur d'une catégorie déjà définie et ne créent pas de catégories: la Convention n° 169 délimite elle-même le cercle des peuples auxquels elle s'applique, et l'article 33 parle du droit d'un peuple de décider de sa propre appartenance, non de la naissance d'un peuple. Les utiliser comme preuve que l'auto-identification **constitue** un peuple serait une substitution. Elles confirment seulement quelque chose de plus modeste: le droit connaît des statuts pour lesquels, dans la détermination de l'appartenance, la volonté l'emporte sur l'origine.
 >
-> Le texte français de l'article 1(2) de la Convention n° 169 dit « le sentiment d'appartenance », là où le texte anglais dit « self-identification »: la formule française insiste sur le sentiment éprouvé, l'anglaise sur l'acte d'identification. Nous nous appuyons sur les textes authentiques et signalons l'écart.
+> Le texte français de l'article 1(2) de la Convention n° 169 dit « le sentiment d'appartenance », là où le texte anglais dit « self-identification »: la formule française insiste sur le sentiment éprouvé, l'anglaise sur l'acte d'identification. Le texte anglais de l'article 33(1) de la Déclaration parle d'« identity or membership »; le texte russe de la même résolution, tout aussi officiel, rend cela par « se déterminer eux-mêmes ou déterminer leur appartenance ethnique », et la qualité de membre, que désigne « membership », y fait place à l'appartenance ethnique. Nous nous appuyons sur les textes authentiques de la Convention et sur les textes anglais et français de la Déclaration, qui concordent, et signalons ces écarts.
 
 ## Comment la qualité de peuple s'établit en pratique
 
 La question de savoir si un groupe donné est un peuple n'est pas une abstraction que nul ne pourrait trancher. Elle est tranchée par les organes qui appliquent le droit, lorsque le groupe apporte une prétention concrète, et elle est tranchée d'après des critères.
 
-**La Commission africaine des droits de l'homme et des peuples**, dans l'affaire de la communauté endorois (communication 276/2003, décision de 2010): « La Commission africaine est convaincue que les Endorois sont un "peuple", statut qui leur donne le droit de bénéficier des dispositions de la Charte africaine protégeant les droits collectifs » (paragraphe 162). Les caractères appliqués (paragraphe 150): l'occupation et l'usage d'un territoire déterminé; le maintien volontaire d'une spécificité culturelle; l'auto-identification comme communauté distincte et la reconnaissance par d'autres groupes; l'expérience de la sujétion, de la marginalisation, de l'exclusion ou de la discrimination.
+**La Commission africaine des droits de l'homme et des peuples**, dans l'affaire de la communauté endorois (communication 276/2003, décision adoptée en novembre 2009): « La Commission africaine est convaincue que les Endorois sont un "peuple", statut qui leur donne le droit de bénéficier des dispositions de la Charte africaine protégeant les droits collectifs » (paragraphe 162). La Commission s'est appuyée sur les critères d'identification des peuples autochtones élaborés par son Groupe de travail d'experts (paragraphe 150): l'occupation et l'usage d'un territoire déterminé; le maintien volontaire d'une spécificité culturelle; l'auto-identification comme communauté distincte et la reconnaissance par d'autres groupes; l'expérience de la sujétion, de la marginalisation, de la dépossession, de l'exclusion ou de la discrimination. La Commission énumère séparément les caractéristiques d'un peuple (paragraphe 151).
 
-**La Cour africaine des droits de l'homme et des peuples**, dans l'affaire du peuple ogiek (requête 006/2012, arrêt du 26 mai 2017), a procédé autrement, et la différence doit être nommée exactement: la Cour a reconnu les Ogiek comme **population autochtone** (paragraphe 112), au lieu de les déclarer peuple sous la même forme déclarative, et n'a appliqué qu'ensuite les articles 21 et 22 de la Charte, en indiquant que les droits des peuples peuvent être reconnus « précisément aux groupes ethniques et communautés qui composent la population d'un État » (paragraphe 199).
+**La Cour africaine des droits de l'homme et des peuples**, dans l'affaire du peuple ogiek (requête 006/2012, arrêt du 26 mai 2017), a procédé autrement, et la différence doit être nommée exactement: la Cour a reconnu les Ogiek comme **population autochtone** (paragraphe 112), au lieu de les déclarer peuple sous la même forme déclarative, et n'a appliqué qu'ensuite les articles 21 et 22 de la Charte, en indiquant que les droits des peuples peuvent être reconnus « si nécessaire, précisément aux groupes ethniques et communautés qui composent la population d'un État » (paragraphe 199), à condition qu'ils ne remettent pas en cause la souveraineté et l'intégrité territoriale de l'État sans son consentement, et à l'exception du droit à l'autodétermination et à l'indépendance au titre de l'article 20(1), qui ne leur est pas automatiquement reconnu.
 
 > **La portée exacte de cette pratique.** Les deux communautés sont territoriales et autochtones, et le territoire figure en premier dans la liste des critères; la catégorie « peuples » y relève d'un traité régional, et la formule de la Cour suppose expressément que l'on se trouve à l'intérieur d'un État. Le précédent ne prouve pas l'issue de notre cause, mais l'existence de la pratique elle-même: **la qualité de peuple est établie par celui qui applique le droit, lorsque naît une question concrète, d'après des critères, et il n'existe pour personne d'enregistrement préalable des peuples.**
 
@@ -215,7 +215,7 @@ Des documents d'appartenance à un peuple existent, et il faut en exposer exacte
 
 **États-Unis.** Les tribus reconnues par le gouvernement fédéral déterminent elles-mêmes la composition de leurs membres et délivrent des cartes de membre. Le droit d'une tribu de fixer les critères d'appartenance a été confirmé par la Cour suprême des États-Unis dans l'affaire *Santa Clara Pueblo v. Martinez*, 436 U.S. 49 (1978). Les cartes avec photographie des tribus reconnues au niveau fédéral, dont l'Enhanced Tribal Card, sont acceptées par la Transportation Security Administration des États-Unis comme documents d'identité.
 
-**Pays nordiques.** Les registres électoraux saamis sont tenus par les parlements saamis, institués par des lois d'État: Norvège - loi sur les Saamis du 12 juin 1987; Suède - Sametingslag (SFS 1992:1433); Finlande - loi sur le Parlement saami (974/1995). Le fondement de l'inscription conjugue un critère subjectif et un critère objectif: selon la section 3 de la loi finlandaise, est inscrit celui qui se considère lui-même comme saami et qui satisfait en outre à l'une des conditions objectives - le saami est sa langue maternelle, celle d'un parent ou d'un grand-parent, ou il descend d'une personne figurant dans les registres historiques.
+**Pays nordiques.** Les registres électoraux saamis sont tenus par les parlements saamis, institués par des lois d'État: Norvège - loi sur les Saamis du 12 juin 1987; Suède - Sametingslag (SFS 1992:1433); Finlande - loi sur le Parlement saami (974/1995). Le fondement de l'inscription conjugue un critère subjectif et un critère objectif: selon la section 3 de la loi finlandaise (dans sa rédaction issue de la loi 414/2025, en vigueur depuis le 1er août 2025), a le droit d'être inscrit au registre celui qui se considère lui-même comme saami et qui satisfait en outre à l'une des conditions objectives: le saami a été la première langue de cette personne ou de l'un de ses parents, grands-parents ou arrière-grands-parents; ou l'un de ses parents a été inscrit au registre électoral pour des élections au Parlement saami tenues le 1er janvier 2027 ou après cette date.
 
 **Nouvelle-Zélande.** Le registre maori est tenu non par le peuple, mais par l'État: la Commission électorale, sur le fondement de l'Electoral Act 1993. La condition est la descendance (section 3), mais le choix entre le registre général et le registre maori appartient à la personne, et la descendance est déclarée sans preuve.
 
@@ -229,25 +229,25 @@ L'affirmation « pour la première fois dans l'histoire est délivré un documen
 | Qui peut vérifier | L'organe qui tient le registre | N'importe qui |
 | Peut-il être retiré | Oui, par décision d'un organe | En droit, non; les motifs et la procédure sont limités de façon exhaustive |
 
-Une réserve à la dernière ligne, que nous faisons nous-mêmes: les motifs juridiques de destruction du passeport contre la volonté de son titulaire sont limités à un seul cas - l'annulation d'une délivrance non valide, avec notification, délai d'objection et recours -, mais dans la version déployée du contrat la possibilité technique de détruire un passeport subsiste entre les mains du détenteur des clés du propriétaire - la limite de l'article 21 de la Charte joue pour l'instant en procédure et non en technique. La séparation des droits d'émission et de destruction est inscrite à la feuille de route.
+Une réserve à la dernière ligne, que nous faisons nous-mêmes: les motifs juridiques de destruction du passeport contre la volonté de son titulaire se réduisent à un seul - l'annulation d'une délivrance non valide dans les cas dont la liste limitative figure à l'article 8 de la Déclaration, avec notification, délai d'objection et recours -, mais dans la version déployée du contrat la possibilité technique de détruire un passeport subsiste entre les mains du détenteur des clés du propriétaire - la limite de l'article 21 de la Charte joue pour l'instant en procédure et non en technique. La séparation des droits d'émission et de destruction est inscrite à la feuille de route.
 
-L'affirmation exacte est la suivante: des documents d'appartenance à un peuple existent, mais tous attestent une appartenance déduite de la descendance et reconnue par un État. Pour la première fois, une appartenance est attestée par un document délivré par le peuple lui-même, sans lien ni avec un territoire ni avec une descendance, qui naît de la décision de la personne et que n'importe qui peut vérifier.
+L'affirmation exacte est la suivante: des documents d'appartenance à un peuple existent, mais tous attestent une appartenance déduite de la descendance et reconnue par un État. Pour la première fois, une appartenance sera attestée par un document délivré par le peuple lui-même, sans lien ni avec un territoire ni avec une descendance, qui naît de la décision de la personne et que n'importe qui peut vérifier.
 
 L'affirmation « délivré par le peuple » ne tient pas à des mots: l'article 9 de la Déclaration établit que le registre des earthlings et la vérification de leur identité « ne sont pas des biens de la personne morale, ne peuvent être cédés, vendus, donnés en gage ni aliénés d'aucune autre manière », et que les personnes morales « n'incarnent pas le peuple ». Sans cette norme, l'affirmation reviendrait à dire que le document a été délivré par une société commerciale.
 
-Le passeport earthling ne remplace pas les documents d'État, ne donne ni nationalité, ni visa, ni droit d'entrée, ni protection consulaire. Il atteste l'appartenance à un peuple, ce que les documents d'État n'attestent aucunement.
+Le passeport earthling ne remplace pas les documents d'État, ne donne ni nationalité, ni visa, ni droit d'entrée, ni protection consulaire. Il atteste l'appartenance à un peuple, une appartenance née de la décision de la personne elle-même, ce que les documents d'État n'attestent aucunement.
 
 ## L'admission qui n'existe pas, et la sortie qui est libre
 
-Aucune association ne se passe d'une décision d'admission: les États accordent leur nationalité de façon discrétionnaire, les associations décident par leur conseil, et même dans les registres des peuples autochtones la décision appartient à un comité.
+Aucune association ne se passe d'une décision d'admission: les États accordent leur nationalité de façon discrétionnaire, les associations décident par leur conseil, et même dans les registres que tiennent les peuples autochtones eux-mêmes, la décision appartient à leur propre organe.
 
 Dans le peuple des Earthlings, la décision d'admission n'existe pas comme catégorie. Il y a quatre conditions, et elles sont d'application automatique: c'est la procédure qui les vérifie sur des faits, non un organe qui apprécie. Jointes à l'interdiction d'exclure, elles donnent une situation qui n'existe nulle part ailleurs: **le peuple n'a de pouvoir sur l'appartenance ni à l'entrée ni à la sortie; seule la personne elle-même en dispose.**
 
-L'objection est ici évidente: la formule reconnue veut qu'un peuple détermine lui-même son appartenance, alors qu'ici c'est chaque candidat qui la détermine unilatéralement. Réponse: le peuple a tranché cette question une fois pour toutes, en posant une règle - appartient quiconque satisfait aux quatre conditions et a décidé d'appartenir. L'autodétermination collective est réalisée au niveau de la règle et non des cas particuliers; examiner chaque cas de façon discrétionnaire n'est ni le seul moyen ni le mieux protégé, car là où il y a appréciation discrétionnaire, il y a arbitraire.
+L'objection est ici évidente: la formule reconnue veut qu'un peuple détermine lui-même son appartenance, alors qu'ici c'est chaque candidat qui la détermine unilatéralement. Réponse: la question se tranche une seule fois, au niveau d'une règle que pose la Déclaration - appartient quiconque satisfait aux quatre conditions et a décidé d'appartenir; avec l'adoption de la Déclaration, cette règle deviendra une décision du peuple. L'autodétermination collective est réalisée au niveau de la règle et non des cas particuliers; examiner chaque cas de façon discrétionnaire n'est ni le seul moyen ni le mieux protégé, car là où il y a appréciation discrétionnaire, il y a arbitraire.
 
-Trois réserves, que nous nommons nous-mêmes. L'annulation d'une délivrance obtenue irrégulièrement met fin à l'appartenance contre la volonté de la personne: ce n'est pas une sanction, mais le constat que l'appartenance n'est pas régulièrement née. La vérification d'identité peut ne pas aboutir; le refus n'est pas définitif et le nombre de demandes n'est pas limité. Et la vérification repose sur un document d'identité: **un apatride sans documents ne peut pas entrer aujourd'hui**; cette limite contredit la logique du reste de la construction et figure parmi les questions ouvertes.
+Trois réserves, que nous nommons nous-mêmes. L'annulation d'une délivrance de passeport obtenue irrégulièrement intervient contre la volonté de la personne, mais ne met pas fin à l'appartenance: ce n'est pas une sanction, mais le constat que la délivrance n'a pas eu lieu régulièrement. La vérification d'identité peut ne pas aboutir; le refus n'est pas définitif et le nombre de demandes n'est pas limité. Et la vérification repose sur un document d'identité: **un apatride sans documents ne peut pas entrer aujourd'hui**; cette limite contredit la logique du reste de la construction et figure parmi les questions ouvertes.
 
-La liberté de sortie se distingue ici nettement de la nationalité. Le droit de changer de nationalité est reconnu (article 15(2) de la Déclaration universelle), la liberté de quitter n'importe quel pays est protégée par l'article 12(2) du Pacte relatif aux droits civils et politiques, mais la sortie est conditionnée: la Convention sur la réduction des cas d'apatridie de 1961 prévoit en son article 7(1)(a) que la répudiation n'entraîne la perte de la nationalité que si l'intéressé possède ou acquiert une autre nationalité, et son article 8(1) interdit la privation de nationalité qui rendrait une personne apatride. D'où cette situation: **la nationalité est le seul lien juridique d'un adulte dont il ne peut sortir unilatéralement.** Ce n'est pas une interdiction de partir, c'est l'absence d'un lieu où aller: la planète est partagée sans reste, et aucun statut « hors » n'est prévu.
+La liberté de sortie se distingue ici nettement de la nationalité. Le droit de changer de nationalité est reconnu (article 15(2) de la Déclaration universelle), la liberté de quitter n'importe quel pays est protégée par l'article 12(2) du Pacte relatif aux droits civils et politiques, mais la sortie est conditionnée: la Convention sur la réduction des cas d'apatridie de 1961 dispose en son article 7(1)(a) que la répudiation « n'entraîne pour un individu la perte de sa nationalité que s'il en possède ou en acquiert une autre », et son article 8(1) interdit la privation de nationalité qui rendrait une personne apatride. D'où cette situation: **la nationalité est le seul lien juridique d'un adulte dont il ne peut sortir unilatéralement.** Ce n'est pas une interdiction de partir, c'est l'absence d'un lieu où aller: la planète est partagée sans reste, et aucun statut « hors » n'est prévu.
 
 La limite est née comme une protection: l'expérience des années trente a montré que celui qui est privé de nationalité conserve formellement les droits de l'homme sans que personne soit tenu de les assurer; de là la Convention relative au statut des apatrides de 1954, qui a défini l'apatride comme une personne « qu'aucun État ne considère comme son ressortissant par application de sa législation » (article 1(1)). Le prix de cette protection est qu'un adulte ne peut pas disposer de sa propre appartenance.
 
@@ -277,7 +277,7 @@ Le droit fournit une forme à chaque échelle d'association: le mariage, la soci
 
 L'humanité n'est présente dans le droit que comme objet: le patrimoine commun de l'humanité, les crimes contre l'humanité, la préoccupation commune s'agissant du climat, les intérêts des générations futures. Elle est tantôt celle en faveur de qui, tantôt celle contre qui, tantôt celle à propos de qui, et jamais celle qui.
 
-La raison n'est pas seulement une négligence. L'humanité ne peut pas recevoir de forme juridique volontaire: personne n'y a adhéré, elle est involontaire par définition, et quiconque se déclarera l'humanité se mettra à parler pour ceux qui ne l'ont pas choisi. Le peuple des Earthlings n'est pas une forme de l'humanité et ne le deviendra à aucun effectif: il est une forme accessible à quiconque et obligatoire pour personne, et il ne parle qu'au nom de ceux qui sont entrés.
+La raison n'est pas seulement une négligence. L'humanité ne peut pas recevoir de forme juridique volontaire: personne n'y a adhéré, elle est involontaire par définition, et quiconque se déclarera l'humanité se mettra à parler pour ceux qui ne l'ont pas choisi. Le peuple des Earthlings n'est pas une forme de l'humanité et ne le deviendra à aucun effectif: il est une forme qui, selon la Déclaration, est ouverte à quiconque et n'est obligatoire pour personne, et il ne parle qu'au nom de ceux qui sont entrés.
 
 ---
 
@@ -311,29 +311,29 @@ Notre position est autre: le droit ne constitue pas les peuples et n'en tient pa
 
 **Deuxièmement. Là où le territoire apparaît dans les textes, il règle une autre question:** la résolution 1541 (XV) qualifie un territoire, non un groupe; la clause de sauvegarde de la résolution 2625 (XXV) décrit les conditions de la protection de l'intégrité territoriale. Ni l'une ni l'autre ne définit le peuple.
 
-**Troisièmement, et c'est décisif en pratique. Toute la ligne des décisions qui ont rejeté des prétentions de groupes porte sur la sécession.** Les rapports de la Commission de juristes et de la Commission de rapporteurs de la Société des Nations sur les îles d'Åland (1920-1921) établissent que le droit international positif ne reconnaît pas aux groupes nationaux le droit de se séparer de l'État dont ils font partie. La Commission d'arbitrage de la Conférence pour la paix en Yougoslavie, dans son avis n° 2 (11 janvier 1992), a indiqué que la population serbe de Croatie et de Bosnie bénéficie de droits de minorité, mais non d'un droit à l'autodétermination modifiant les frontières. La Commission africaine des droits de l'homme et des peuples, dans les affaires *Katangese Peoples' Congress v. Zaire* (1995) et *Kevin Mgwanga Gunme et al. v. Cameroon* (2009), a conclu que l'autodétermination s'exerce sous des formes compatibles avec la souveraineté et l'intégrité territoriale.
+**Troisièmement, et c'est décisif en pratique. Toute la ligne des décisions qui, statuant sur le fond, ont rejeté des prétentions de groupes porte sur la sécession.** Les rapports de la Commission de juristes et de la Commission de rapporteurs de la Société des Nations sur les îles d'Åland (1920-1921) établissent que le droit international positif ne reconnaît pas aux groupes nationaux le droit de se séparer de l'État dont ils font partie. La Commission d'arbitrage de la Conférence pour la paix en Yougoslavie, dans son avis n° 2 (11 janvier 1992), a indiqué que la population serbe de Croatie et de Bosnie bénéficie de droits de minorité, mais non d'un droit à l'autodétermination modifiant les frontières. La Commission africaine des droits de l'homme et des peuples, dans les affaires *Katangese Peoples' Congress v. Zaire* (1995) et *Kevin Mgwanga Gunme et al. v. Cameroon* (2009), a conclu que l'autodétermination s'exerce sous des formes compatibles avec la souveraineté et l'intégrité territoriale.
 
 Cette ligne est cohérente, et nous la citons nous-mêmes. Mais elle établit exactement ce qui y est dit: **c'est le droit de sécession qui est rejeté.** Aucune de ces décisions n'a examiné la constitution volontaire d'une communauté non territoriale qui ne revendique ni territoire ni modification des frontières. Une telle affaire n'a pas existé. Les précédents frappent une prétention que nous ne formulons pas et se taisent sur celle que nous formulons.
 
 **Quatrièmement. La pratique de ces dernières années a séparé le statut du territoire dans une autre direction.** Le 9 novembre 2023, l'Australie et Tuvalu ont signé le Traité d'union Falepili (entré en vigueur le 28 août 2024); son article 2 consacre la reconnaissance par les parties du fait que la qualité d'État et la souveraineté de Tuvalu subsisteront malgré les effets de l'élévation du niveau de la mer. Le même jour, le Forum des Îles du Pacifique a adopté une Déclaration sur la continuité de la qualité d'État; l'Alliance des petits États insulaires a adopté la sienne le 23 septembre 2024.
 
-En 2025, la Commission du droit international des Nations Unies a approuvé le rapport final de son Groupe d'étude sur l'élévation du niveau de la mer: « s'agissant des États particulièrement touchés par l'élévation du niveau de la mer liée aux changements climatiques, il existe parmi les États un appui résolu à la continuité de la qualité d'État et de la souveraineté ainsi qu'au maintien de la personnalité juridique internationale et de la qualité de membre des organisations internationales » (paragraphe 35). Il est relevé à part que l'article 1 de la Convention de Montevideo de 1933, « dont les critères sont généralement admis aux fins de la définition de l'État comme personne ou sujet de droit international, ne règle pas la question de la continuité de la qualité d'État dans ce contexte » (paragraphe 37).
+En 2025, la Commission du droit international des Nations Unies a approuvé le rapport final de son Groupe d'étude sur l'élévation du niveau de la mer: « en ce qui concerne les États particulièrement touchés par l'élévation du niveau de la mer liée aux changements climatiques, les États soutiennent fermement la continuité de la condition étatique et de la souveraineté et la préservation de la personnalité juridique internationale et de la qualité de membre des organisations internationales » (paragraphe 35). Il est relevé à part que l'article 1 de la Convention de Montevideo de 1933, « dont les éléments sont généralement acceptés comme permettant d'identifier un État en tant que personne ou sujet de droit international, ne permet pas de répondre à la question de la continuité de la condition étatique dans le contexte de l'élévation du niveau de la mer liée aux changements climatiques » (paragraphe 37).
 
 > **La portée exacte de cet argument, et elle est étroite.** Il s'agit de **continuité**, non de naissance. La présomption de continuité joue parce que le sujet existe déjà: il a été reconnu, il possédait un territoire et l'a perdu. Une communauté qui n'a jamais possédé de territoire n'a rien à conserver. Cela montre que le territoire n'est pas ce qui maintient un statut en existence, et ne montre pas qu'un statut puisse s'acquérir sans lui.
 
-**Conclusion sur la deuxième objection.** L'exigence d'un territoire ne figure pas dans les normes obligatoires, ne découle pas d'une définition faute de définition, et n'est pas établie par la pratique, puisque toute la pratique adverse porte sur la sécession. La question demeure ouverte, mais ouverte, non tranchée contre nous.
+**Conclusion sur la deuxième objection.** L'exigence d'un territoire ne figure pas dans les normes obligatoires, ne découle pas d'une définition faute de définition, et n'est pas établie par la pratique, puisque toute la pratique qui, statuant sur le fond, a rejeté des prétentions porte sur la sécession. La question demeure ouverte, mais ouverte, non tranchée contre nous.
 
 ## Troisième objection: il n'existe pas de forum
 
 **Thèse.** Même si la question de la qualité de peuple pouvait être posée, il n'y a nulle part où la poser. La pratique s'accumule dans un vide procédural.
 
-**Réponse: l'objection est exacte et acceptée intégralement.** Le Comité des droits de l'homme, dans l'affaire *Chief Bernard Ominayak and the Lubicon Lake Band c. Canada* (communication n° 167/1984, constatations du 26 mars 1990, UN Doc. CCPR/C/38/D/167/1984, paragraphe 32.1):
+**Réponse: pour la question de la qualité de peuple en tant que telle, l'objection est exacte et acceptée intégralement.** Le Comité des droits de l'homme, dans l'affaire *Chief Bernard Ominayak and the Lubicon Lake Band c. Canada* (communication n° 167/1984, constatations du 26 mars 1990, UN Doc. CCPR/C/38/D/167/1984, paragraphe 32.1):
 
-> « Bien que tous les peuples aient le droit de disposer d'eux-mêmes et le droit de déterminer librement leur statut politique... comme le prévoit l'article premier du Pacte, **la question de savoir si la bande du lac Lubicon constitue un "peuple" n'est pas une question qu'il appartienne au Comité de trancher au titre du Protocole facultatif se rapportant au Pacte**. Le Protocole facultatif institue une procédure permettant à des particuliers d'alléguer la violation de leurs droits individuels. »
+> « Tous les peuples ont le droit de disposer d'eux-mêmes, de déterminer librement leur statut politique... comme le stipule l'article premier du Pacte, mais **la question de savoir si la bande du lac Lubicon constitue un "peuple" n'est pas de celles que le Comité puisse traiter dans le cadre du Protocole facultatif concernant le Pacte**. Ce Protocole offre à des particuliers le moyen de se faire entendre lorsqu'ils estiment que leurs droits individuels ont été violés. »
 
 L'Observation générale n° 23 (1994) opère la même distinction: « Le Pacte fait une distinction entre le droit à disposer de soi-même et les droits protégés par l'article 27... Le droit à disposer de soi-même n'est pas un droit dont la violation puisse être invoquée au titre du Protocole facultatif » (paragraphe 3.1).
 
-Deux affaires voisines doivent être citées avec exactitude, car chacune ferme la porte pour un motif qui lui est propre. Dans l'affaire *Kitok c. Suède* (communication n° 197/1985, constatations du 27 juillet 1988, paragraphe 6.3), le Comité a indiqué que « l'auteur, en tant qu'individu, ne peut prétendre être victime d'une violation du droit à l'autodétermination consacré à l'article premier »: le motif est ici le caractère individuel de la procédure. Dans l'affaire *Mikmaq Tribal Society c. Canada* (communication n° 78/1980, décision du 29 juillet 1984), la communication a été déclarée irrecevable parce que l'auteur n'avait pas établi son pouvoir d'agir au nom de la communauté; cette affaire ne concerne aucunement la question de la qualité de peuple.
+Deux affaires voisines doivent être citées avec exactitude, car chacune ferme la porte pour un motif qui lui est propre. Dans l'affaire *Kitok c. Suède* (communication n° 197/1985, constatations du 27 juillet 1988, paragraphe 6.3), le Comité a indiqué que « l'auteur ne pouvait, en tant qu'individu, prétendre être victime d'une violation du droit des peuples à disposer d'eux-mêmes, tel que ce droit est proclamé à l'article premier du Pacte »: le motif est ici le caractère individuel de la procédure. Dans l'affaire *Mikmaq Tribal Society c. Canada* (communication n° 78/1980, décision du 29 juillet 1984), la communication a été déclarée irrecevable parce que l'auteur n'avait pas établi son pouvoir d'agir au nom de la communauté; cette affaire ne concerne aucunement la question de la qualité de peuple.
 
 L'objection a trois propriétés qu'il faut relever exactement.
 
@@ -351,7 +351,7 @@ D'où cette conclusion: le statut se consolide de façon distribuée, ou ne se c
 
 **Cette objection, nous la tenons pour non réfutée, et c'est la plus sérieuse de celles qui nous sont adressées.** Nous n'avons rien à y répondre, sinon deux observations dont aucune ne la lève.
 
-La première: le mécanisme de conversion n'a pas manqué qu'à nous. Les peuples autochtones n'avaient, avant les années 1960, ni voix, ni organe, ni obligation pour quiconque de compter avec eux, et pourtant une pratique organisée a conduit à des normes écrites: l'obligation de consulter (Convention n° 169 de l'OIT, article 6), le droit de participer à la prise de décisions et le principe du consentement préalable, libre et éclairé (Déclaration des Nations Unies sur les droits des peuples autochtones, articles 18 et 19), la protection juridictionnelle de ces obligations (Cour interaméricaine des droits de l'homme, *Peuple Saramaka c. Suriname*, 2007). Le mécanisme n'a pas précédé la pratique, il en est né.
+La première: le mécanisme de conversion n'a pas manqué qu'à nous. Les peuples autochtones n'avaient, avant les années 1960, ni voix, ni organe, tandis que la Convention n° 107 de l'OIT (1957) n'obligeait les gouvernements qu'à rechercher leur collaboration, et pourtant une pratique organisée a conduit à des normes écrites: l'obligation de consulter (Convention n° 169 de l'OIT, article 6), le droit de participer à la prise de décisions et le principe du consentement préalable, libre et éclairé (Déclaration des Nations Unies sur les droits des peuples autochtones, articles 18 et 19), la protection juridictionnelle de ces obligations (Cour interaméricaine des droits de l'homme, *Peuple Saramaka c. Suriname*, 2007). Le mécanisme n'a pas précédé la pratique, il en est né.
 
 La seconde: le problème des États peut apparaître. Les questions qui n'ont aujourd'hui aucun titulaire d'intérêt - déplacements liés au climat, population des États en voie de disparition, apatrides, générations futures - s'aggravent, et l'absence d'une partie capable de parler pour les gens concernés devient un problème pour les États eux-mêmes.
 
@@ -361,7 +361,7 @@ Nous consignons cette objection comme valant toujours.
 
 # SECTION 06. La pratique: ce dont le droit international dispose déjà
 
-Cette section ne contient pas d'opinions: des décisions d'organes qui appliquent le droit, des traités et des faits établis, dont un fait qui joue contre nous, et il est cité en premier.
+Cette section ne contient pas d'opinions de la doctrine: des décisions d'organes qui appliquent le droit, des traités et des faits établis, dont un fait qui joue contre nous, et il est cité en premier.
 
 ## Une tentative directe et son résultat: la Déclaration de la nation rom (2000)
 
@@ -383,7 +383,7 @@ Pesons honnêtement: nous ne pouvons pas dire qu'« une des causes a disparu »,
 
 Dans son avis consultatif du 11 avril 1949, la Cour internationale de Justice a établi que la personnalité juridique internationale ne se limite pas aux États: l'ONU a été reconnue comme sujet de droit international, capable de présenter des réclamations sans être un État. Le même avis formule un principe plus général: **« Les sujets de droit, dans un système juridique, ne sont pas nécessairement identiques quant à leur nature ou à l'étendue de leurs droits; et leur nature dépend des besoins de la communauté. »**
 
-Le cercle des sujets s'est élargi du vivant des générations actuelles: d'abord les organisations internationales, puis l'être humain, qui après Nuremberg porte une responsabilité internationale et jouit de droits protégés au plan international. Chaque fois, l'élargissement a suivi une fonction et un besoin, non un territoire.
+Le cercle des sujets s'est élargi du vivant des générations actuelles: les organisations internationales et l'être humain, qui après Nuremberg porte une responsabilité internationale et jouit de droits protégés au plan international. Chaque fois, l'élargissement a suivi une fonction et un besoin, non un territoire.
 
 > **Limite de l'analogie.** La Cour a déduit la personnalité juridique de l'ONU de la volonté des États qui l'ont créée. Les Earthlings sont constitués par la volonté d'individus et s'appuient non sur une délégation d'États, mais sur la liberté d'association et l'accumulation d'une confiance extérieure.
 
@@ -393,7 +393,7 @@ L'Ordre souverain de Malte ne possède pas de territoire depuis 1798, mais entre
 
 Cela est confirmé par la pratique des États et par une décision de justice: dans l'affaire *Nanni and Others v. Pace and the Sovereign Order of Malta*, la Cour de cassation italienne (Annual Digest, 1935-1937, affaire n° 2) a reconnu que l'Ordre, en tant qu'entité internationale, possède une personnalité juridique propre et n'a pas besoin de l'autorisation d'un État pour ses actes.
 
-> **Limite de l'analogie, et elle est importante.** Les deux sujets possédaient la personnalité juridique **avant** la perte du territoire: il s'agit de son maintien, non de son acquisition. Ils prouvent que le territoire ne crée pas et ne maintient pas la personnalité juridique, et ne prouvent pas qu'elle puisse s'acquérir sans avoir jamais possédé de territoire.
+> **Limite de l'analogie, et elle est importante.** Les deux sujets possédaient la personnalité juridique **avant** la perte du territoire: il s'agit de son maintien, non de son acquisition. Ils prouvent que le territoire ne maintient pas la personnalité juridique, et ne prouvent pas qu'elle puisse s'acquérir sans avoir jamais possédé de territoire.
 
 ## Un acte constitutif unilatéral n'est pas un fait illicite: Kosovo (2010)
 
@@ -417,7 +417,7 @@ Le schéma « prétention - pratique - constatation juridique » est un mode doc
 
 ## Une personnalité juridique née d'une initiative privée: le CICR
 
-En 1863, cinq particuliers de Genève ont institué un comité de secours aux blessés: ni un État, ni un ordre au passé souverain, ni la création d'un traité, mais une auto-organisation privée. Un an plus tard, à leur initiative, une conférence diplomatique était convoquée et la première Convention de Genève (1864) adoptée, qui a intégré le comité dans le droit international.
+En 1863, cinq particuliers de Genève ont institué un comité de secours aux blessés: ni un État, ni un ordre au passé souverain, ni la création d'un traité, mais une auto-organisation privée. Un an et demi plus tard, à leur initiative, une conférence diplomatique était convoquée et la première Convention de Genève (1864) adoptée; le comité lui-même n'a été nommé dans un texte conventionnel que plus tard, dans la Convention de Genève de 1929.
 
 Aujourd'hui, le CICR est titulaire d'une personnalité juridique internationale fonctionnelle: mandats conventionnels, accords de siège avec des dizaines d'États, statut d'observateur auprès de l'Assemblée générale des Nations Unies (résolution 45/6 du 16 octobre 1990), et il demeure pourtant, par sa forme, une association privée de droit civil suisse. L'ordre des événements est décisif: le consentement des États n'a pas précédé la naissance, il a consacré une pratique utile déjà établie.
 
@@ -431,7 +431,7 @@ La Cour européenne des droits de l'homme, dans les affaires *Sidiropoulos et au
 
 ## Autres formes confirmées
 
-**Le patrimoine commun de l'humanité** est consacré pour les espaces situés au-delà de la juridiction nationale: « La Zone et ses ressources sont le patrimoine commun de l'humanité » (article 136 de la Convention des Nations Unies sur le droit de la mer de 1982); l'article 11 de l'Accord sur la Lune de 1979 déclare la même chose de la Lune et de ses ressources. Ces régimes admettent un intérêt de l'humanité prise comme un tout, mais ne créent pas de titulaire capable de le faire valoir.
+**Le patrimoine commun de l'humanité** est consacré pour les espaces situés au-delà de la juridiction nationale: « La Zone et ses ressources sont le patrimoine commun de l'humanité » (article 136 de la Convention des Nations Unies sur le droit de la mer de 1982); l'article 11 de l'Accord sur la Lune de 1979 déclare la même chose de la Lune et de ses ressources. Ces régimes admettent un intérêt de l'humanité prise comme un tout, mais ne créent pas de titulaire formé des êtres humains eux-mêmes: dans la Zone, c'est l'Autorité, dont les membres sont les États Parties à la Convention, qui agit pour le compte de l'humanité (articles 137(2) et 156).
 
 **Une appartenance supranationale supplémentaire** est consacrée par une norme: selon l'article 20(1) du Traité sur le fonctionnement de l'Union européenne, « la citoyenneté de l'Union s'ajoute à la citoyenneté nationale et ne la remplace pas ».
 
@@ -455,7 +455,7 @@ La Cour européenne des droits de l'homme, dans les affaires *Sidiropoulos et au
 
 ## Autodétermination interne et externe
 
-L'article premier commun consacre deux branches: le peuple « détermine librement son statut politique » - branche externe, modification des frontières ou du statut d'un territoire - et « assure librement son développement économique, social et culturel » - branche interne. Ce n'est pas le lieu de l'exercice qui les distingue, mais la conséquence: l'externe modifie la configuration des États, l'interne ne modifie rien dans les États.
+Selon l'article premier commun, les peuples « déterminent librement leur statut politique et assurent librement leur développement économique, social et culturel »; dans l'exercice de ce droit, on distingue deux branches - la branche externe, modification des frontières ou du statut d'un territoire, et la branche interne. Ce n'est pas le lieu de l'exercice qui les distingue, mais la conséquence: l'externe modifie la configuration des États, l'interne ne la modifie pas.
 
 La Cour suprême du Canada, dans le *Renvoi relatif à la sécession du Québec*, [1998] 2 R.C.S. 217, a consacré la primauté de l'autodétermination interne: en règle générale, le droit s'exerce sans porter atteinte à l'intégrité territoriale, la forme externe étant une exception réservée aux cas extrêmes. C'est cette distinction, et elle seule, que nous retenons de cette décision.
 
@@ -523,15 +523,15 @@ C'est pourquoi une prétention ouvertement affirmée n'est pas une rhétorique, 
 
 ## Un constat distribué au lieu d'un examen unique
 
-Aucun statut, en droit international, n'est confirmé par la décision d'un seul organe: aucune juridiction n'a jamais certifié aucun État. Les statuts se consolident de façon distribuée, par une multitude de petites portes.
+Aucun statut, en droit international, n'est confirmé pour tous à la fois par la décision d'un seul organe: aucune juridiction n'a jamais certifié aucun État. Les statuts se consolident de façon distribuée, par une multitude de petites portes.
 
 De là le terme par lequel les documents du peuple désignent ce qui est recherché. **La discernabilité juridique** est le fait d'être traité comme un peuple là où naît une question concrète: l'accès à une enceinte, l'obligation de consulter, la qualification dans une affaire déterminée. Elle ne se délivre pas par un acte et ne s'atteste pas par un registre, et elle se mesure donc non à la date d'une décision, mais au nombre de portes qui se sont ouvertes.
 
-Le parcours de la Palestine est significatif: admission à l'UNESCO en qualité d'État membre le 31 octobre 2011; statut d'État observateur - résolution 67/19 de l'Assemblée générale du 29 novembre 2012; traitement comme État partie aux fins du Statut de Rome - décision de la Chambre préliminaire I de la Cour pénale internationale du 5 février 2021.
+Le parcours de la Palestine est significatif: admission à l'UNESCO en qualité d'État membre le 31 octobre 2011; statut d'État non membre observateur - résolution 67/19 de l'Assemblée générale du 29 novembre 2012; qualité d'État partie au Statut de Rome depuis le 1er avril 2015 et décision de la Chambre préliminaire I de la Cour pénale internationale du 5 février 2021 reconnaissant la Palestine comme l'État sur le territoire duquel le comportement en cause s'est produit, aux fins de l'article 12(2)(a) du Statut.
 
 Les premières portes existent aussi pour une initiative de ce genre: les contributions écrites à l'Examen périodique universel et aux procédures spéciales des Nations Unies sont ouvertes à toute la société civile; le statut consultatif auprès de l'ECOSOC est accessible par une personne morale-support, comme y participe le Conseil saami, inscrit sur la Liste, alors que nul ne tient le peuple saami pour une organisation non gouvernementale; viennent ensuite les enceintes multilatérales et les statuts d'observateur.
 
-Que le point d'arrivée soit atteignable est confirmé sous une forme forte: l'obligation pour les États de consulter les peuples qui n'ont pas d'État a parcouru, en une génération, le chemin de l'absence totale à la norme écrite (Convention n° 169 de l'OIT, article 6; Déclaration des Nations Unies sur les droits des peuples autochtones, articles 18 et 19; *Peuple Saramaka c. Suriname*, 2007).
+Que le point d'arrivée soit atteignable est confirmé sous une forme forte: l'obligation pour les États de consulter les peuples autochtones a parcouru, en une génération, le chemin de la seule exigence de rechercher leur collaboration (Convention n° 107 de l'OIT, 1957, article 5) à la norme écrite (Convention n° 169 de l'OIT, article 6; Déclaration des Nations Unies sur les droits des peuples autochtones, articles 18 et 19; *Peuple Saramaka c. Suriname*, 2007).
 
 ## La chronique publique et les conditions de légitimation
 
@@ -576,7 +576,7 @@ Ce qui suit n'est pas une tentative de prouver que chaque formule de la Déclara
 | Caractère volontaire et droit de sortie | Le droit de participer à une association suppose le droit d'y mettre fin sans sanction de la part de la communauté elle-même | Art. 20 DUDH; art. 22 PIDCP |
 | Les technologies renforcent l'être humain, elles ne le remplacent pas | Une infrastructure technologique n'est admissible que comme instrument de protection des droits, de reddition de comptes et de procédure équitable | Recommandation de l'UNESCO sur l'éthique de l'intelligence artificielle, 23 novembre 2021 |
 | Une personne, une voix | L'égalité des participants est une norme adoptée de façon autonome, appuyée sur le principe général d'égalité; il n'existe pas de norme extérieure l'imposant aux associations, et nous ne l'inventons pas | Art. 26 PIDCP; acte constitutif de la communauté elle-même |
-| Intangibilité des valeurs de base | Les principes fondamentaux sont protégés par une procédure de révision aggravée; la construction est connue du droit constitutionnel | Loi fondamentale allemande, art. 79(3); Constitution française, art. 89; Constitution italienne, art. 139 |
+| Intangibilité des valeurs de base | Les principes fondamentaux sont soustraits à la révision constitutionnelle; la construction est connue du droit constitutionnel | Loi fondamentale allemande, art. 79(3); Constitution française, art. 89; Constitution italienne, art. 139 |
 | Subsidiarité | L'action n'est admissible que là où les tâches ne se règlent pas à un niveau inférieur | Principe de subsidiarité dans les constructions supranationales |
 
 **Conclusion méthodologique.** Le peuple des Earthlings ne se déduit pas d'une source unique. L'argumentation se construit comme un ensemble de normes, de décisions et de faits vérifiables qui, réunis, rendent l'initiative juridiquement discutable. Cet ensemble ne remplace pas le fondement direct qui manque et n'est pas présenté comme tel.
@@ -593,7 +593,7 @@ Ce qui est établi par des normes et des décisions, et non par des jugements de
 
 **Il n'existe pas de définition du peuple, et cela est officiellement établi.** L'absence de définition ne nous inclut pas automatiquement, mais ne nous exclut pas non plus.
 
-**Toute la pratique adverse porte sur la sécession**, prétention que nous ne formulons pas.
+**Toute la pratique qui, statuant sur le fond, a rejeté des prétentions de groupes porte sur la sécession**, prétention que nous ne formulons pas.
 
 **Le droit connaît la personnalité juridique sans territoire**, et cela est confirmé y compris par une décision de justice.
 
@@ -603,7 +603,7 @@ Ce qui est établi par des normes et des décisions, et non par des jugements de
 
 **Le territoire a cessé d'être ce qui maintient un statut en existence**: cela est consacré par un traité, par des déclarations de groupements régionaux et par le rapport final de la Commission du droit international.
 
-**La volonté collective est produite par une procédure, non par une interprétation.**
+**La volonté collective est produite par une procédure, non par une interprétation** - c'est une propriété de notre construction et non une conclusion tirée des normes, et la procédure n'a pas encore été appliquée.
 
 Ce qui demeure non réfuté contre nous:
 
@@ -611,7 +611,7 @@ Ce qui demeure non réfuté contre nous:
 
 **La territorialité est inscrite dans les textes** - au principe IV de la résolution 1541 (XV) et dans la clause de sauvegarde de la résolution 2625 (XXV) - bien qu'aucune des deux ne contienne de définition du peuple.
 
-**Il n'existe pas de forum pour la question** (*Ominayak*, 1990), et cette limite vaut pour tous sans exception.
+**Il n'existe pas de forum pour la question de la qualité de peuple en tant que telle** (*Ominayak*, 1990): les organes régionaux ne la tranchent qu'incidemment, dans des litiges portant sur des droits déterminés, et cette limite vaut pour tous sans exception.
 
 **Le mécanisme de conversion de la pratique en reconnaissance est absent.** Il naît lorsqu'une communauté résout un problème qui se pose aux États; un peuple non territorial ne résout pas aujourd'hui un tel problème.
 
@@ -627,12 +627,11 @@ La présente base juridique ne remplace ni les mémoires juridiques à venir, ni
 
 # LISTE DES SOURCES
 
-Toutes les dispositions du document s'appuient sur ce qui est énuméré ci-dessous: normes obligatoires, décisions d'organes qui appliquent le droit et faits vérifiables. Les opinions de la doctrine ne sont pas utilisées comme fondements - les raisons en sont exposées dans l'introduction.
+Toutes les dispositions du document s'appuient sur ce qui est énuméré ci-dessous: traités, résolutions et documents d'organes internationaux, décisions d'organes qui appliquent le droit et faits vérifiables. Les opinions de la doctrine ne sont pas utilisées comme fondements - les raisons en sont exposées dans l'introduction. Les citations de documents qui n'ont pas de texte officiel en langue française sont données dans notre traduction.
 
 **Traités et actes constitutifs**
 
 - Charte des Nations Unies, 26 juin 1945, article 1(2). Statut de la Cour internationale de Justice, articles 34(1) et 38(1).
-- Déclaration universelle des droits de l'homme, résolution 217 A (III) du 10 décembre 1948, articles 6, 15, 20.
 - Pactes relatifs aux droits, résolution 2200 A (XXI) du 16 décembre 1966: article premier commun; PIDCP, articles 12, 16, 22, 26, 27.
 - Convention concernant les droits et devoirs des États (Montevideo), 26 décembre 1933, articles 1 et 3.
 - Convention relative au statut des apatrides, 28 septembre 1954 (en vigueur depuis le 6 juin 1960), article 1(1); Convention sur la réduction des cas d'apatridie, 30 août 1961, articles 7(1)(a) et 8(1).
@@ -644,6 +643,7 @@ Toutes les dispositions du document s'appuient sur ce qui est énuméré ci-dess
 
 **Résolutions, déclarations et actes d'organes internationaux**
 
+- Déclaration universelle des droits de l'homme, résolution 217 A (III) du 10 décembre 1948, articles 6, 15, 20.
 - Résolutions de l'Assemblée générale: 1514 (XV) du 14 décembre 1960, paragraphes 2 et 6; 1541 (XV) du 15 décembre 1960, principe IV; 2625 (XXV) du 24 octobre 1970; 2758 (XXVI) du 25 octobre 1971; 41/128 du 4 décembre 1986; 45/6 du 16 octobre 1990; 48/265 (1994); 61/295 du 13 septembre 2007 (articles 3, 4, 18, 19, 33, 46); 67/19 du 29 novembre 2012.
 - Déclaration et Programme d'action de Vienne, 25 juin 1993, partie I, paragraphe 2.
 - Résolution 9.1 de la trente-sixième session de la Conférence générale de l'UNESCO du 31 octobre 2011; Recommandation de l'UNESCO sur l'éthique de l'intelligence artificielle, 23 novembre 2021.
@@ -656,7 +656,7 @@ Toutes les dispositions du document s'appuient sur ce qui est énuméré ci-dess
 - Cour internationale de Justice: *Réparation des dommages subis au service des Nations Unies* (11 avril 1949, C.I.J. Recueil 1949, p. 174); *Sahara occidental* (1975); *Plateau continental de la mer du Nord* (20 février 1969, paragraphe 47); *Timor oriental* (30 juin 1995, C.I.J. Recueil 1995, p. 90, paragraphe 29); avis consultatifs sur le mur (2004) et sur l'archipel des Chagos (2019); Kosovo (22 juillet 2010).
 - Rapports de la Commission de juristes et de la Commission de rapporteurs de la Société des Nations sur les îles d'Åland, 1920-1921; Commission d'arbitrage de la Conférence pour la paix en Yougoslavie, avis n° 2, 11 janvier 1992.
 - Comité des droits de l'homme: *Ominayak and the Lubicon Lake Band c. Canada*, n° 167/1984 (26 mars 1990), paragraphes 13.3 et 32.1; *Kitok c. Suède*, n° 197/1985 (27 juillet 1988), paragraphe 6.3; *Mikmaq Tribal Society c. Canada*, n° 78/1980 (29 juillet 1984); *Apirana Mahuika et al. c. Nouvelle-Zélande*, n° 547/1993 (27 octobre 2000); Observation générale n° 23 (1994), paragraphe 3.1.
-- Commission africaine des droits de l'homme et des peuples: communication 276/2003 (Endorois), paragraphes 150, 157, 162; *Katangese Peoples' Congress v. Zaire* (1995); *Kevin Mgwanga Gunme et al. v. Cameroon* (2009). Cour africaine: requête 006/2012 (Ogiek, 26 mai 2017), paragraphes 112 et 199.
+- Commission africaine des droits de l'homme et des peuples: communication 276/2003 (Endorois), décision de la quarante-sixième session (novembre 2009), paragraphes 150, 151, 157, 162; *Katangese Peoples' Congress v. Zaire* (1995); *Kevin Mgwanga Gunme et al. v. Cameroon* (2009). Cour africaine: requête 006/2012 (Ogiek, 26 mai 2017), paragraphes 112 et 199.
 - Cour interaméricaine des droits de l'homme, *Peuple Saramaka c. Suriname* (2007).
 - Cour européenne des droits de l'homme: *Sidiropoulos et autres c. Grèce* (1998); *Stankov et Organisation macédonienne unie Ilinden c. Bulgarie* (2001).
 - Cour pénale internationale, Chambre préliminaire I, décision du 5 février 2021 (ICC-01/18).
@@ -666,7 +666,7 @@ Toutes les dispositions du document s'appuient sur ce qui est énuméré ci-dess
 
 - Code civil allemand (BGB), paragraphe 1. Loi fondamentale allemande, article 79(3); Constitution française, article 89; Constitution italienne, article 139.
 - Burma Citizenship Law, Pyithu Hluttaw Law No. 4 of 1982 (15 octobre 1982), article 3.
-- Norvège: loi sur les Saamis du 12 juin 1987. Suède: Sametingslag (SFS 1992:1433). Finlande: loi sur le Parlement saami (974/1995), section 3.
+- Norvège: loi sur les Saamis du 12 juin 1987. Suède: Sametingslag (SFS 1992:1433). Finlande: loi sur le Parlement saami (974/1995), section 3, dans sa rédaction issue de la loi 414/2025.
 - Nouvelle-Zélande: Electoral Act 1993, sections 3, 76 à 79; Te Urewera Act 2014, section 11; Te Awa Tupua Act 2017, section 14.
 - Constitution de la République de l'Équateur de 2008, articles 71 à 74. Proclamation du Président des États-Unis n° 2667 du 28 septembre 1945.
 

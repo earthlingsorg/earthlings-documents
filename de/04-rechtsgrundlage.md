@@ -18,11 +18,11 @@ Bei einer Abweichung zwischen diesem Dokument und der Erklärung gilt die Erklä
 
 Damit der Leser von Anfang an sieht, was behauptet wird und was nicht.
 
-**Erstens.** Die Normen, auf die wir uns stützen, gelten heute und sind für die Staaten verbindlich: die Vereinigungsfreiheit (Artikel 20 der Allgemeinen Erklärung der Menschenrechte, Artikel 22 des Internationalen Paktes über bürgerliche und politische Rechte, Artikel 11 der Europäischen Konvention) und das Selbstbestimmungsrecht der Völker (Artikel 1 Ziffer 2 der Charta der Vereinten Nationen, gemeinsamer Artikel 1 der Pakte von 1966). Keine von ihnen ist erfunden oder „für die Zukunft“ vorgeschlagen.
+**Erstens.** Die Normen, auf die wir uns stützen, gelten heute: die Vereinigungsfreiheit (Artikel 20 der Allgemeinen Erklärung der Menschenrechte, Artikel 22 des Internationalen Paktes über bürgerliche und politische Rechte, Artikel 11 der Europäischen Konvention) und das Selbstbestimmungsrecht der Völker (Artikel 1 Ziffer 2 der Charta der Vereinten Nationen, gemeinsamer Artikel 1 der Pakte von 1966). Die Verträge, die sie verankern, sind für die Vertragsstaaten verbindlich. Keine dieser Normen ist erfunden oder „für die Zukunft“ vorgeschlagen.
 
-**Zweitens.** **Ein Erfordernis des Gebiets als Voraussetzung für das Bestehen eines Volkes enthält keine einzige verbindliche Norm.** Weder die Charta noch der gemeinsame Artikel 1 der Pakte noch irgendein Übereinkommen. Mehr noch: Eine Begriffsbestimmung des Volkes gibt es überhaupt nicht, und das ist von den Vereinten Nationen selbst amtlich festgestellt.
+**Zweitens.** **Ein Erfordernis des Gebiets als Voraussetzung für das Bestehen eines Volkes enthält keine einzige verbindliche Norm.** Weder die Charta noch der gemeinsame Artikel 1 der Pakte noch irgendein Übereinkommen. Mehr noch: Eine Begriffsbestimmung des Volkes gibt es überhaupt nicht, und das ist in einem amtlichen Dokument der Vereinten Nationen festgestellt.
 
-**Drittens.** **Die gesamte Praxis, die Ansprüche von Gruppen zurückgewiesen hat, betrifft die Abtrennung** - Ålandinseln, Badinter, Katanga, Kamerun. Das Volk der Earthlings verlangt keine Abtrennung, ändert keine Grenzen und beansprucht kein Gebiet. Die Präzedenzfälle treffen einen Anspruch, den wir nicht erheben, und schweigen zu dem, den wir erheben.
+**Drittens.** **Die gesamte Praxis, die Ansprüche von Gruppen in der Sache zurückgewiesen hat, betrifft die Abtrennung** - Ålandinseln, Badinter, Katanga, Kamerun. Das Volk der Earthlings verlangt keine Abtrennung, ändert keine Grenzen und beansprucht kein Gebiet. Die Präzedenzfälle treffen einen Anspruch, den wir nicht erheben, und schweigen zu dem, den wir erheben.
 
 **Viertens.** Daraus folgt nicht, dass die Frage zu unseren Gunsten entschieden ist. Daraus folgt, dass sie **nicht entschieden** ist: Die Anwendung der geltenden Normen auf ein freiwillig konstituiertes nichtterritoriales Volk ist vom Völkerrecht nicht bestimmt. Solche Fragen wurden stets auf dieselbe Weise entschieden - durch die Ansammlung überprüfbarer Praxis. Deshalb schlagen wir vor, nicht die Kraft einer Selbstbezeichnung zum Gegenstand der Beurteilung zu machen, sondern die Praxis, und wir legen sie zur Prüfung vor.
 
@@ -48,7 +48,7 @@ Eine dauerhafte waagerechte Ebene fehlt - eine rechtlich ausgestaltete Verbindun
 
 **Die rechtliche Lücke besteht darin, dass der tatsächlichen Zugehörigkeit des Menschen zu einem einzigen Planeten und seiner Abhängigkeit von gemeinsamen Risiken kein vergleichbarer rechtlicher Mechanismus kollektiver Willensbekundung auf transnationaler Ebene entspricht.**
 
-Am deutlichsten ist das dort zu sehen, wo Entscheidungen planetare Folgen haben und die Betroffenen keine Stimme haben: bei den biologischen Risiken und Pandemien, wo die transnationale zivilgesellschaftliche Abstimmung schwach entwickelt ist; bei der künstlichen Intelligenz, über die ein begrenzter Kreis von Staaten und Unternehmen entscheidet; beim Klima und bei den künftigen Generationen, die über gar keine verfahrensmäßige Vertretung verfügen.
+Am deutlichsten ist das dort zu sehen, wo Entscheidungen planetare Folgen haben und die Betroffenen keine Stimme haben: bei den biologischen Risiken und Pandemien, wo die transnationale zivilgesellschaftliche Abstimmung schwach entwickelt ist; bei der künstlichen Intelligenz, über die ein begrenzter Kreis von Staaten und Unternehmen entscheidet; beim Klima und bei den künftigen Generationen, die über keine verfahrensmäßige Vertretung auf internationaler Ebene verfügen.
 
 Die bestehenden Völkerrechtssubjekte bleiben notwendig, sind aber nicht immer hinreichend, um die langfristigen und transnationalen Interessen der Menschen als einer gemeinsamen planetaren Gemeinschaft zu vertreten.
 
@@ -64,7 +64,7 @@ In Streitigkeiten über die Rechtspersönlichkeit werden fortwährend drei versc
 
 **Besteht eine Gemeinschaft** - eine Tatsachenfrage. Eine Gemeinschaft von Menschen hat sich entweder gebildet oder nicht, und niemandes Zustimmung ist dafür erforderlich.
 
-**Sind ihre Entstehung und ihre Tätigkeit rechtmäßig** - eine Frage der geltenden Normen, und sie ist durch die Vereinigungsfreiheit geschlossen.
+**Ist ihre Entstehung rechtmäßig** - eine Frage der geltenden Normen, und sie ist durch die Vereinigungsfreiheit geschlossen.
 
 **Besitzt sie Völkerrechtspersönlichkeit** - die anerkannte Fähigkeit, auf internationaler Ebene selbständig Rechte und Pflichten zu tragen. Sie sammelt sich allein durch Akte von Staaten und internationalen Organen an.
 
@@ -115,29 +115,29 @@ Das ist eine der wenigen Bestimmungen, die als Verpflichtung gegenüber allen an
 
 **Keiner dieser Texte bestimmt, was ein Volk ist. Kein anderer Vertrag bestimmt es ebenso wenig.**
 
-Das ist keine Feststellung einer beteiligten Seite, sondern eine Feststellung der Organisation selbst. Eine im Auftrag der Unterkommission der Vereinten Nationen erstellte und als amtliches Dokument veröffentlichte Studie (E/CN.4/Sub.2/404/Rev.1, 1981) beschreibt die Lage so:
+Das ist keine Feststellung einer beteiligten Seite. Eine im Auftrag der Unterkommission der Vereinten Nationen erstellte und als amtliches Dokument veröffentlichte Studie (E/CN.4/Sub.2/404/Rev.1, 1981) beschreibt die Lage so:
 
-> „Es gibt keine anerkannte Begriffsbestimmung des Wortes 'Volk' und keine Weise, es mit Sicherheit zu bestimmen. Die Charta hilft in dieser Frage wenig, da sie weder Einzelheiten noch eine Erläuterung des Begriffs 'Völker' gibt. Es gibt keinen Text und keine anerkannte Begriffsbestimmung, aus der sich feststellen ließe, was ein 'Volk' ist, dem dieses Recht zusteht“ (Ziffer 269).
+> „Abgesehen von der Erläuterung, die dieser Begriff in der vom Sekretariat der Konferenz von San Francisco erstellten Aufzeichnung erhalten hat, ist festzustellen, dass es weder eine anerkannte Begriffsbestimmung des Wortes 'Volk' noch eine Weise gibt, es mit Sicherheit zu bestimmen. Die Charta hilft in dieser Frage wenig, da sie weder Einzelheiten noch eine Erläuterung des Begriffs 'Völker' gibt. Es gibt keinen Text und keine anerkannte Begriffsbestimmung, aus der sich feststellen ließe, was ein 'Volk' ist, dem dieses Recht zusteht“ (Ziffer 269).
 
-Und zum Grund, aus dem eine Begriffsbestimmung nicht entstanden ist: „Da eine Begriffsbestimmung nicht formuliert wurde, sind die Vereinten Nationen in Fällen politischer Selbstbestimmung vorsichtig vorgegangen... Es wäre verfrüht und sogar anmaßend, hier und jetzt eine Begriffsbestimmung aufstellen zu wollen, die in allen Teilen der Welt anwendbar wäre und alle Sachverhalte erfasste“ (Ziffer 279).
+Und zum Grund, aus dem eine Begriffsbestimmung nicht entstanden ist: „Da eine Begriffsbestimmung nicht formuliert wurde, sind die Vereinten Nationen in Fällen politischer Selbstbestimmung vorsichtig vorgegangen, obwohl sie in der Frage der Beseitigung des Kolonialismus entschlossen gehandelt haben... Es wäre daher verfrüht und sogar anmaßend, hier und jetzt eine Begriffsbestimmung aufstellen zu wollen, die in allen Teilen der Welt anwendbar wäre und alle Sachverhalte erfasste“ (Ziffer 279). In derselben Ziffer heißt es weiter: Die Elemente einer Begriffsbestimmung, die sich in den Erörterungen in den Vereinten Nationen herausgebildet haben, „können und sollten nicht außer Acht gelassen werden“, und das zweite von ihnen ist die Verbindung mit einem Gebiet, „selbst wenn das betreffende Volk zu Unrecht daraus vertrieben und künstlich durch eine andere Bevölkerung ersetzt worden ist“.
 
 ## Drei Dinge hat das Recht nicht festgelegt
 
 Das Fehlen einer Begriffsbestimmung ist nicht die einzige Lücke der Kategorie.
 
-**Den Bestand.** Kein Vertrag bestimmt, wer zu einem Volk gehört und wie sich das feststellen lässt. Ein Register der Völker gibt es nicht. Ein Organ, das Völker anerkennt, gibt es nicht. Ein Verfahren der Eintragung gibt es nicht, und kein Volk der Geschichte hat es durchlaufen. Kein Mensch auf der Erde kann eine Urkunde vorlegen, die seine Zugehörigkeit zu einem Volk bescheinigt - weder ein Franzose noch ein Japaner noch ein Kurde noch ein Sami.
+**Den Bestand.** Kein Vertrag bestimmt, wer zu einem Volk gehört und wie sich das feststellen lässt. Ein Register der Völker gibt es nicht. Ein Organ, das Völker anerkennt, gibt es nicht. Ein Verfahren der Eintragung gibt es nicht, und kein Volk der Geschichte hat es durchlaufen. Eine Urkunde über die Zugehörigkeit zu einem Volk haben nur wenige, und sie wird in einem vom Staat festgelegten Rahmen ausgestellt (Abschnitt 04); ein Franzose, ein Japaner oder ein Kurde hat keine solche Urkunde.
 
 **Das Verfahren der Willensbekundung.** Durch welche Handlung der Wille von Menschen zum Willen eines Volkes wird, steht nirgends. Es gibt weder ein Verfahren noch eine Schwelle noch eine Weise, das Ergebnis zu überprüfen. Die Volksabstimmungen der Zeit der Entkolonialisierung richteten Staaten und internationale Organe aus, also dem Volk selbst äußere Stellen.
 
 **Ein Forum.** Artikel 34 Absatz 1 des Statuts des Internationalen Gerichtshofs: „Nur Staaten können Parteien in Rechtssachen vor dem Gerichtshof sein.“ Ein Volk kann nicht als Partei auftreten.
 
-Die Unbestimmtheit blieb nicht aus Nachlässigkeit bestehen. Ein Volk zu bestimmen hätte bedeutet, Gruppen innerhalb bestehender Staaten ein Recht zu geben, und die Spuren dieser Entscheidung sind in den Dokumenten selbst festgehalten: Die Erklärung über die Gewährung der Unabhängigkeit an koloniale Länder und Völker (Resolution 1514 (XV) vom 14. Dezember 1960) verkündete in Ziffer 2 das Selbstbestimmungsrecht der Völker und stellte in Ziffer 6 sogleich klar, dass „jeder Versuch, der darauf gerichtet ist, die nationale Einheit und die territoriale Unversehrtheit eines Landes teilweise oder vollständig zu zerstören, mit den Zielen und Grundsätzen der Charta unvereinbar ist“. Das Recht wurde in der Formulierung weit und in der Anwendung eng gemacht.
+Die Unbestimmtheit blieb nicht aus Nachlässigkeit bestehen. Ein Volk zu bestimmen hätte bedeutet, Gruppen innerhalb bestehender Staaten ein Recht zu geben, und die Spuren dieser Entscheidung sind in den Dokumenten selbst festgehalten: Die Erklärung über die Gewährung der Unabhängigkeit an koloniale Länder und Völker (Resolution 1514 (XV) vom 14. Dezember 1960) verkündete in Ziffer 2 das Selbstbestimmungsrecht der Völker und stellte in Ziffer 6 sogleich klar, dass „jeder Versuch, der darauf gerichtet ist, die nationale Einheit und die territoriale Unversehrtheit eines Landes teilweise oder vollständig zu zerstören, mit den Zielen und Grundsätzen der Charta der Vereinten Nationen unvereinbar ist“. Das Recht wurde in der Formulierung weit und in der Anwendung eng gemacht.
 
-**Die praktische Folge dieser Lücken lautet so.** Das Selbstbestimmungsrecht der Völker ist bei den Völkern durchführbar, die bereits einen eigenen Staat haben: Der Staat kennt den Bestand seiner Bürger, verfügt über ein Abstimmungsverfahren und ist zu allen internationalen Organen zugelassen - er deckt alle drei fehlenden Bestandteile ab. Ein Volk ohne Staat kann weder seinen Bestand feststellen noch einen Willen bekunden noch mit ihm irgendwohin kommen. Wer das Recht tatsächlich hat, braucht es kaum; wer es braucht, dem ist es unzugänglich.
+**Die praktische Folge dieser Lücken lautet so.** Das Selbstbestimmungsrecht der Völker können diejenigen Völker aus eigener Kraft verwirklichen, die bereits einen eigenen Staat haben: Der Staat kennt den Bestand seiner Bürger, verfügt über ein Abstimmungsverfahren und ist zu internationalen Organen zugelassen - er deckt alle drei fehlenden Bestandteile ab. Ein Volk ohne Staat kann von sich aus weder seinen Bestand feststellen noch einen Willen bekunden noch mit diesem Willen dorthin gelangen, wo er als Wille eines Volkes berücksichtigt werden muss. Wer das Recht tatsächlich hat, braucht es kaum; wer es braucht, kann es aus eigener Kraft nicht verwirklichen.
 
 ## Das Gebiet: wo es tatsächlich verankert ist
 
-Die Redlichkeit verlangt, die Stelle selbst zu benennen, an der das Gebiet in verbindlichen Texten mit dem Volk verbunden ist.
+Die Redlichkeit verlangt, die Stelle selbst zu benennen, an der das Gebiet in Resolutionen der Generalversammlung mit dem Volk verbunden ist.
 
 **Die Resolution 1541 (XV) der Generalversammlung vom 15. Dezember 1960** legt im Grundsatz IV fest, dass die Pflicht zur Übermittlung von Angaben prima facie hinsichtlich eines Gebiets besteht, „das geografisch abgesondert und ethnisch und/oder kulturell von dem es verwaltenden Land verschieden ist“.
 
@@ -145,7 +145,7 @@ Die Redlichkeit verlangt, die Stelle selbst zu benennen, an der das Gebiet in ve
 
 Was daraus folgt und was nicht.
 
-**Keine der beiden Resolutionen enthält eine Begriffsbestimmung des Volkes.** Die Resolution 1541 stuft ein Gebiet ein und keine Gruppe: Ihr Gegenstand ist, wann ein verwaltender Staat zur Rechenschaft verpflichtet ist. Die Resolution 2625 beschreibt, unter welchen Voraussetzungen die territoriale Unversehrtheit eines Staates geschützt ist. Weder die eine noch die andere beantwortet die Frage, wer ein Volk ist, und keiner von beiden wurde diese Frage gestellt. Beide sind an die Entkolonialisierung gerichtet: Die Klasse von Sachverhalten, in der eine Gemeinschaft durch freiwillige Entscheidung von Menschen entsteht und kein Gebiet beansprucht, stand ihren Verfassern nicht vor Augen.
+**Keine der beiden Resolutionen enthält eine Begriffsbestimmung des Volkes.** Die Resolution 1541 stuft ein Gebiet ein und keine Gruppe: Ihr Gegenstand ist, wann ein verwaltender Staat zur Rechenschaft verpflichtet ist. Die Resolution 2625 beschreibt, unter welchen Voraussetzungen die territoriale Unversehrtheit eines Staates geschützt ist. Weder die eine noch die andere beantwortet die Frage, wer ein Volk ist, und keiner von beiden wurde diese Frage gestellt. Die Resolution 1541 ist an die Entkolonialisierung gerichtet, die Resolution 2625 legt Grundsätze des Völkerrechts dar, die sich an alle Staaten richten; die Klasse von Sachverhalten, in der eine Gemeinschaft durch freiwillige Entscheidung von Menschen entsteht und kein Gebiet beansprucht, stand weder den Verfassern der einen noch denen der anderen vor Augen.
 
 **Doch eine textliche Anbindung besteht**, und zu behaupten, das Gebiet lebe in dieser Frage nur in den Meinungen von Fachleuten, wäre ungenau.
 
@@ -157,21 +157,21 @@ Die geltenden geschriebenen Normen kennen Fälle, in denen die Selbstzuordnung a
 
 **Das Übereinkommen Nr. 169 der Internationalen Arbeitsorganisation** (angenommen am 27. Juni 1989, in Kraft seit dem 5. September 1991), Artikel 1 Absatz 2: „Das Gefühl der Zugehörigkeit zu einem indigenen oder in Stämmen lebenden Volk ist als ein grundlegendes Kriterium für die Bestimmung der Gruppen anzusehen, auf die die Bestimmungen dieses Übereinkommens Anwendung finden.“
 
-**Die Erklärung der Vereinten Nationen über die Rechte indigener Völker** (Resolution 61/295 vom 13. September 2007), Artikel 33 Absatz 1: Völker sind befugt, „ihre eigene Identität oder Zugehörigkeit im Einklang mit ihren Bräuchen und Überlieferungen zu bestimmen“.
+**Die Erklärung der Vereinten Nationen über die Rechte indigener Völker** (Resolution 61/295 vom 13. September 2007), Artikel 33 Absatz 1: Nach dem englischen Wortlaut haben indigene Völker das Recht, „ihre eigene Identität oder Zugehörigkeit im Einklang mit ihren Bräuchen und Überlieferungen zu bestimmen“.
 
 > **Die Grenzen dieser Normen, und sie sind eng.** Artikel 1 Absatz 3 desselben Übereinkommens Nr. 169 lautet: „Die Verwendung des Ausdrucks 'Völker' in diesem Übereinkommen ist nicht so auszulegen, als hätte sie Auswirkungen auf die Rechte, die mit diesem Ausdruck nach dem Völkerrecht verbunden sein können.“ Das Übereinkommen verzichtet selbst auf die Übertragung seines Sprachgebrauchs auf das allgemeine Völkerrecht, und wir geben diesen Verzicht wieder, statt ihn zu umgehen.
 >
 > Beide Normen wirken innerhalb einer bereits bestimmten Kategorie und schaffen keine Kategorien: Das Übereinkommen Nr. 169 umreißt selbst den Kreis der Völker, auf die es Anwendung findet, und Artikel 33 spricht vom Recht eines Volkes, die eigene Zugehörigkeit zu bestimmen, und nicht von der Entstehung eines Volkes. Sie als Beweis dafür zu verwenden, dass die Selbstzuordnung ein Volk **begründet**, wäre eine Unterschiebung. Sie bestätigen nur das Bescheidenere: Das Recht kennt Status, bei denen für die Bestimmung der Zugehörigkeit der Wille über der Abstammung steht.
 >
-> Der authentische englische Wortlaut des Artikels 33 Absatz 1 spricht von „identity or membership“; die amtliche russische Übersetzung gibt das als „sich selbst oder die eigene ethnische Zugehörigkeit bestimmen“ wieder, und das Wort „Zugehörigkeit“ im Sinne von Mitgliedschaft verschwindet darin. Wir stützen uns auf den authentischen Wortlaut und halten die Abweichung fest.
+> Der englische Wortlaut des Artikels 33 Absatz 1 spricht von „identity or membership“; der russische Wortlaut derselben Resolution, der ebenso amtlich ist, gibt das als „sich selbst oder die eigene ethnische Zugehörigkeit bestimmen“ wieder, und das Wort „Zugehörigkeit“ im Sinne von Mitgliedschaft verschwindet darin. Wir stützen uns auf den englischen Wortlaut und halten die Abweichung fest.
 
 ## Wie das Volkssein in der Praxis festgestellt wird
 
 Die Frage, ob eine bestimmte Gruppe ein Volk ist, ist keine Abstraktion, die niemand entscheiden könnte. Sie wird von rechtsanwendenden Organen entschieden, wenn eine Gruppe einen bestimmten Anspruch vorbringt - und sie wird nach Merkmalen entschieden.
 
-**Die Afrikanische Kommission für die Rechte der Menschen und Völker** im Fall der Gemeinschaft der Endorois (Mitteilung 276/2003, Entscheidung von 2010): „Die Afrikanische Kommission ist überzeugt, dass die Endorois ein 'Volk' sind - ein Status, der ihnen das Recht gibt, sich auf die Bestimmungen der Afrikanischen Charta zu berufen, die kollektive Rechte schützen“ (Ziffer 162). Die angewandten Merkmale (Ziffer 150): Besetzung und Nutzung eines bestimmten Gebiets; freiwillige Bewahrung der kulturellen Eigenart; Selbstzuordnung als gesonderte Gemeinschaft und Anerkennung durch andere Gruppen; die Erfahrung von Unterwerfung, Ausgrenzung, Ausschluss oder Diskriminierung.
+**Die Afrikanische Kommission für die Rechte der Menschen und Völker** im Fall der Gemeinschaft der Endorois (Mitteilung 276/2003, Entscheidung vom November 2009): „Die Afrikanische Kommission ist überzeugt, dass die Endorois ein 'Volk' sind - ein Status, der ihnen das Recht gibt, sich auf die Bestimmungen der Afrikanischen Charta zu berufen, die kollektive Rechte schützen“ (Ziffer 162). Gestützt hat sich die Kommission auf die Kriterien zur Identifizierung indigener Völker, die ihre Arbeitsgruppe von Sachverständigen erarbeitet hat (Ziffer 150): Besetzung und Nutzung eines bestimmten Gebiets; freiwillige Bewahrung der kulturellen Eigenart; Selbstzuordnung als gesonderte Gemeinschaft und Anerkennung durch andere Gruppen; die Erfahrung von Unterwerfung, Ausgrenzung, Enteignung, Ausschluss oder Diskriminierung. Die Merkmale eines Volkes zählt die Kommission gesondert auf (Ziffer 151).
 
-**Der Afrikanische Gerichtshof für die Rechte der Menschen und Völker** ging im Fall des Volkes der Ogiek (Antrag 006/2012, Urteil vom 26. Mai 2017) anders vor, und der Unterschied ist genau zu benennen: Der Gerichtshof erkannte die Ogiek als **indigene Bevölkerung** an (Ziffer 112) und erklärte sie nicht in derselben feststellenden Form zum Volk, und erst danach wandte er die Artikel 21 und 22 der Charta auf sie an mit dem Hinweis, dass Rechte der Völker „gerade den ethnischen Gruppen und Gemeinschaften zuerkannt werden können, welche die Bevölkerung eines Staates ausmachen“ (Ziffer 199).
+**Der Afrikanische Gerichtshof für die Rechte der Menschen und Völker** ging im Fall des Volkes der Ogiek (Antrag 006/2012, Urteil vom 26. Mai 2017) anders vor, und der Unterschied ist genau zu benennen: Der Gerichtshof erkannte die Ogiek als **indigene Bevölkerung** an (Ziffer 112) und erklärte sie nicht in derselben feststellenden Form zum Volk, und erst danach wandte er die Artikel 21 und 22 der Charta auf sie an mit dem Hinweis, dass Rechte der Völker „gegebenenfalls gerade den ethnischen Gruppen und Gemeinschaften zuerkannt werden können, welche die Bevölkerung eines Staates ausmachen“ (Ziffer 199), sofern diese die Souveränität und die territoriale Unversehrtheit des Staates nicht ohne dessen Zustimmung infrage stellen, und mit Ausnahme des Rechts auf Selbstbestimmung und Unabhängigkeit nach Artikel 20 Absatz 1, das ihnen nicht automatisch zuerkannt wird.
 
 > **Der genaue Umfang dieser Praxis.** Beide Gemeinschaften sind territorial und indigen, wobei das Gebiet in der Aufzählung der Merkmale an erster Stelle steht; die Kategorie „Völker“ gehört dort einem regionalen Vertrag an, und die Formel des Gerichtshofs setzt ausdrücklich die Lage innerhalb eines Staates voraus. Der Präzedenzfall beweist nicht den Ausgang unserer Sache, sondern das Bestehen der Praxis selbst: **Das Volkssein wird vom Rechtsanwender festgestellt, wenn eine bestimmte Frage entsteht, und zwar nach Merkmalen, und eine vorherige Eintragung von Völkern gibt es für niemanden.**
 
@@ -215,7 +215,7 @@ Urkunden über die Zugehörigkeit zu einem Volk gibt es, und die Ordnung ihrer F
 
 **Vereinigte Staaten.** Bundesstaatlich anerkannte Stämme bestimmen den Bestand ihrer Mitglieder selbst und geben Mitgliedsausweise aus. Das Recht eines Stammes, die Maßstäbe der Mitgliedschaft festzulegen, ist vom Obersten Gerichtshof der Vereinigten Staaten im Fall *Santa Clara Pueblo v. Martinez*, 436 U.S. 49 (1978), bestätigt. Lichtbildausweise bundesstaatlich anerkannter Stämme, darunter die Enhanced Tribal Card, werden von der Transportsicherheitsbehörde der Vereinigten Staaten als Ausweise zur Feststellung der Identität anerkannt.
 
-**Die nordeuropäischen Länder.** Die Wählerverzeichnisse der Sami werden von den Sami-Parlamenten geführt, die durch staatliche Gesetze errichtet wurden: Norwegen - Sami-Gesetz vom 12. Juni 1987, Schweden - Sametingslag (SFS 1992:1433), Finnland - Gesetz über das Sami-Parlament (974/1995). Die Grundlage der Eintragung verbindet einen subjektiven und einen objektiven Maßstab: Nach Abschnitt 3 des finnischen Gesetzes wird eingetragen, wer sich selbst für einen Sami hält und dabei eine der objektiven Voraussetzungen erfüllt - die Muttersprache bei ihm, einem Elternteil oder einem Großelternteil oder die Abstammung von einer Person in den geschichtlichen Verzeichnissen.
+**Die nordeuropäischen Länder.** Die Wählerverzeichnisse der Sami werden von den Sami-Parlamenten geführt, die durch staatliche Gesetze errichtet wurden: Norwegen - Sami-Gesetz vom 12. Juni 1987, Schweden - Sametingslag (SFS 1992:1433), Finnland - Gesetz über das Sami-Parlament (974/1995). Die Grundlage der Eintragung verbindet einen subjektiven und einen objektiven Maßstab: Nach Abschnitt 3 des finnischen Gesetzes (in der Fassung des Gesetzes 414/2025, in Kraft seit dem 1. August 2025) hat das Recht auf Eintragung in das Verzeichnis, wer sich selbst für einen Sami hält und dabei eine der objektiven Voraussetzungen erfüllt: Samisch war die erste Sprache der Person selbst oder eines ihrer Eltern, Großeltern oder Urgroßeltern; oder ein Elternteil ist bei einer am 1. Januar 2027 oder später abgehaltenen Wahl zum Sami-Parlament in das Wählerverzeichnis eingetragen worden.
 
 **Neuseeland.** Das Verzeichnis der Maori führt nicht das Volk, sondern der Staat - die Wahlkommission auf der Grundlage des Electoral Act 1993. Voraussetzung ist die Abstammung (Abschnitt 3), doch die Wahl zwischen dem allgemeinen und dem Maori-Verzeichnis steht dem Menschen zu, und die Abstammung wird ohne Nachweise erklärt.
 
@@ -229,23 +229,23 @@ Die Behauptung, „zum ersten Mal in der Geschichte wird eine Urkunde über die 
 | Wer kann überprüfen | Das Organ, das das Verzeichnis führt | Jeder |
 | Kann sie entzogen werden | Ja, durch Entscheidung eines Organs | Rechtlich nein; Gründe und Verfahren sind erschöpfend begrenzt |
 
-Den Vorbehalt zur letzten Zeile machen wir selbst: Die rechtlichen Gründe für die Entwertung eines Passes gegen den Willen des Inhabers sind auf einen einzigen Fall begrenzt - die Aufhebung einer unwirksamen Ausgabe, mit Benachrichtigung, Frist für Einwendungen und Beschwerde -, doch in der ausgerollten Fassung des Vertrags bleibt die technische Möglichkeit bestehen, dass der Inhaber der Eigentümerschlüssel einen Pass entwertet - die Beschränkung des Artikels 21 der Charta der Earthlings wirkt bislang verfahrensmäßig und nicht technisch. Die Trennung der Rechte zur Ausgabe und zur Entwertung ist in den Fahrplan aufgenommen.
+Den Vorbehalt zur letzten Zeile machen wir selbst: Die rechtlichen Gründe für die Entwertung eines Passes gegen den Willen des Inhabers beschränken sich auf einen einzigen - die Aufhebung einer unwirksamen Ausgabe in den Fällen, die Artikel 8 der Erklärung abschließend aufzählt, mit Benachrichtigung, Frist für Einwendungen und Beschwerde -, doch in der ausgerollten Fassung des Vertrags bleibt die technische Möglichkeit bestehen, dass der Inhaber der Eigentümerschlüssel einen Pass entwertet - die Beschränkung des Artikels 21 der Charta der Earthlings wirkt bislang verfahrensmäßig und nicht technisch. Die Trennung der Rechte zur Ausgabe und zur Entwertung ist in den Fahrplan aufgenommen.
 
-Die genaue Behauptung lautet so: Urkunden über die Zugehörigkeit zu einem Volk gibt es, doch alle bescheinigen sie eine Zugehörigkeit, die aus der Abstammung abgeleitet und vom Staat anerkannt ist. Zum ersten Mal wird eine Zugehörigkeit durch eine Urkunde bescheinigt, die vom Volk selbst ausgegeben ist, weder mit einem Gebiet noch mit einer Abstammung verbunden ist, durch die Entscheidung des Menschen selbst entsteht und von jedermann überprüft werden kann.
+Die genaue Behauptung lautet so: Urkunden über die Zugehörigkeit zu einem Volk gibt es, doch alle bescheinigen sie eine Zugehörigkeit, die aus der Abstammung abgeleitet und vom Staat anerkannt ist. Zum ersten Mal wird eine Zugehörigkeit durch eine Urkunde bescheinigt werden, die vom Volk selbst ausgegeben wird, weder mit einem Gebiet noch mit einer Abstammung verbunden ist, durch die Entscheidung des Menschen selbst entsteht und von jedermann überprüft werden kann.
 
 Die Behauptung „vom Volk ausgegeben“ beruht nicht auf Worten. Artikel 9 der Erklärung legt fest: „Das Register der Earthlings, die Prüfung ihrer Identität und die damit verbundenen Daten sind kein Vermögen einer juristischen Person und können nicht übertragen, verkauft, verpfändet oder auf andere Weise veräußert werden.“ Über die juristischen Personen selbst sagt derselbe Artikel: „Solche juristischen Personen sind nicht die Träger des Volkes“. Ohne diese Norm liefe die Behauptung darauf hinaus, dass eine Handelsgesellschaft die Urkunde ausgegeben hat.
 
-Der Earthling-Pass ersetzt dabei keine staatlichen Urkunden, verleiht keine Staatsangehörigkeit, keine Visa, kein Einreiserecht und keinen konsularischen Schutz. Er bescheinigt die Zugehörigkeit zu einem Volk - das, was staatliche Urkunden überhaupt nicht bescheinigen.
+Der Earthling-Pass ersetzt dabei keine staatlichen Urkunden, verleiht keine Staatsangehörigkeit, keine Visa, kein Einreiserecht und keinen konsularischen Schutz. Er bescheinigt die Zugehörigkeit zu einem Volk, die durch die Entscheidung des Menschen selbst entstanden ist - das, was staatliche Urkunden überhaupt nicht bescheinigen.
 
 ## Eine Aufnahme, die es nicht gibt, und ein Austritt, der frei ist
 
-Keine Vereinigung kommt ohne eine Entscheidung über die Aufnahme aus: Staaten nehmen nach Ermessen in die Staatsangehörigkeit auf, Vereinigungen durch Beschluss des Vorstands, und selbst in den Verzeichnissen indigener Völker entscheidet ein Ausschuss.
+Keine Vereinigung kommt ohne eine Entscheidung über die Aufnahme aus: Staaten nehmen nach Ermessen in die Staatsangehörigkeit auf, Vereinigungen durch Beschluss des Vorstands, und sogar in den Verzeichnissen, die indigene Völker selbst führen, entscheidet ihr eigenes Organ.
 
 Im Volk der Earthlings gibt es eine Entscheidung über die Aufnahme als Gattung nicht. Es gibt vier Voraussetzungen, und sie vollziehen sich selbst: Sie prüft ein Verfahren nach Tatsachen und kein Organ nach Ermessen. Zusammen mit dem Verbot des Ausschlusses ergibt das eine Lage, die es sonst nirgends gibt: **Das Volk hat über die Zugehörigkeit weder beim Eintritt noch beim Austritt Macht; über sie verfügt allein der Mensch selbst.**
 
-Der Einwand liegt hier auf der Hand: Die anerkannte Formel besagt, dass ein Volk seine Mitgliedschaft selbst bestimmt, hier aber bestimmt sie jeder Willige einseitig. Die Antwort: Das Volk hat diese Frage ein für alle Mal entschieden, indem es die Regel aufgestellt hat - es gehört jeder dazu, der vier Voraussetzungen erfüllt und dazugehören will. Die kollektive Selbstbestimmung ist auf der Ebene der Regel verwirklicht und nicht in Einzelfällen; jeden Fall nach Ermessen zu behandeln ist weder die einzige noch die geschütztere Weise, denn wo Ermessen ist, ist auch Willkür.
+Der Einwand liegt hier auf der Hand: Die anerkannte Formel besagt, dass ein Volk seine Mitgliedschaft selbst bestimmt, hier aber bestimmt sie jeder Willige einseitig. Die Antwort: Die Frage wird ein einziges Mal entschieden, auf der Ebene der Regel, die in der Erklärung festgelegt ist - es gehört jeder dazu, der vier Voraussetzungen erfüllt und sich entschieden hat dazuzugehören; mit der Annahme der Erklärung wird diese Regel zu einer Entscheidung des Volkes werden. Die kollektive Selbstbestimmung ist auf der Ebene der Regel verwirklicht und nicht in Einzelfällen; jeden Fall nach Ermessen zu behandeln ist weder die einzige noch die geschütztere Weise, denn wo Ermessen ist, ist auch Willkür.
 
-Drei Vorbehalte benennen wir selbst. Die Aufhebung einer unrechtmäßig erlangten Ausgabe beendet die Zugehörigkeit gegen den Willen des Menschen - das ist keine Sanktion, sondern die Feststellung, dass die Zugehörigkeit rechtmäßig nicht entstanden ist. Die Identitätsprüfung kann scheitern; eine Ablehnung ist nicht endgültig, die Zahl der Anträge ist nicht begrenzt. Und die Prüfung stützt sich auf ein Ausweispapier: **Wer staatenlos und ohne Papiere ist, kann heute nicht eintreten** - diese Beschränkung widerspricht der Logik der übrigen Konstruktion und gehört zu den offenen Fragen.
+Drei Vorbehalte benennen wir selbst. Die Aufhebung einer unrechtmäßig erlangten Ausgabe des Earthling-Passes geschieht gegen den Willen des Menschen, beendet aber die Zugehörigkeit nicht - das ist keine Sanktion, sondern die Feststellung, dass eine rechtmäßige Ausgabe nicht stattgefunden hat. Die Identitätsprüfung kann scheitern; eine Ablehnung ist nicht endgültig, die Zahl der Anträge ist nicht begrenzt. Und die Prüfung stützt sich auf ein Ausweispapier: **Wer staatenlos und ohne Papiere ist, kann heute nicht eintreten** - diese Beschränkung widerspricht der Logik der übrigen Konstruktion und gehört zu den offenen Fragen.
 
 Die Freiheit des Austritts unterscheidet sich hier scharf von der Staatsangehörigkeit. Das Recht, die Staatsangehörigkeit zu wechseln, ist anerkannt (Artikel 15 Absatz 2 der Allgemeinen Erklärung), die Freiheit, jedes Land zu verlassen, ist durch Artikel 12 Absatz 2 des Paktes über bürgerliche und politische Rechte geschützt, doch der Austritt ist an Bedingungen geknüpft: Das Übereinkommen zur Verminderung der Staatenlosigkeit von 1961 sieht in Artikel 7 Absatz 1 Buchstabe a vor, dass ein Verzicht „den Verlust der Staatsangehörigkeit nicht bewirkt, sofern die betreffende Person nicht eine andere Staatsangehörigkeit besitzt oder erwirbt“, und Artikel 8 Absatz 1 verbietet eine Entziehung der Staatsangehörigkeit, die einen Menschen staatenlos macht. Daraus die Lage: **Die Staatsangehörigkeit ist die einzige rechtliche Bindung eines erwachsenen Menschen, aus der man nicht einseitig austreten kann.** Das ist kein Verbot zu gehen, sondern das Fehlen eines Ortes, wohin man gehen könnte: Der Planet ist restlos aufgeteilt, ein Status „außerhalb“ ist nicht vorgesehen.
 
@@ -277,7 +277,7 @@ Das Recht stellt jedem Maßstab des Zusammenschlusses eine Form bereit: Ehe, Ges
 
 Die Menschheit ist im Recht ausschließlich als Objekt anwesend: das gemeinsame Erbe der Menschheit, Verbrechen gegen die Menschlichkeit, die gemeinsame Sorge beim Klima, die Interessen künftiger Generationen. Sie ist bisweilen die, für die etwas geschieht, die, gegen die es geschieht, und die, über die gesprochen wird - und kein einziges Mal die, die handelt.
 
-Der Grund liegt nicht nur in einer Nachlässigkeit. Die Menschheit kann keine freiwillige Rechtsform erhalten: In sie ist niemand eingetreten, sie ist ihrem Begriff nach unfreiwillig, und wer sich zur Menschheit erklärt, beginnt für die zu sprechen, die ihn nicht gewählt haben. Das Volk der Earthlings ist keine Form der Menschheit und wird es bei keiner Zahl werden: Es ist eine Form, die jedem offensteht und für niemanden verbindlich ist, und es spricht nur im Namen der Eingetretenen.
+Der Grund liegt nicht nur in einer Nachlässigkeit. Die Menschheit kann keine freiwillige Rechtsform erhalten: In sie ist niemand eingetreten, sie ist ihrem Begriff nach unfreiwillig, und wer sich zur Menschheit erklärt, beginnt für die zu sprechen, die ihn nicht gewählt haben. Das Volk der Earthlings ist keine Form der Menschheit und wird es bei keiner Zahl werden: Es ist eine Form, die nach der Erklärung jedem offensteht und für niemanden verbindlich ist, und es spricht nur im Namen der Eingetretenen.
 
 ---
 
@@ -311,23 +311,23 @@ Unsere Position besteht in etwas anderem: Das Recht konstituiert keine Völker u
 
 **Zweitens. Wo das Gebiet in den Texten auftaucht, löst es eine andere Aufgabe** - die Resolution 1541 (XV) stuft ein Gebiet ein und keine Gruppe; die Schutzklausel der Resolution 2625 (XXV) beschreibt die Voraussetzungen des Schutzes der territorialen Unversehrtheit. Weder die eine noch die andere bestimmt den Begriff des Volkes.
 
-**Drittens, für die Praxis entscheidend. Die gesamte Reihe von Entscheidungen, die Ansprüche von Gruppen zurückgewiesen hat, betrifft die Abtrennung.** Die Berichte des Juristenausschusses und des Berichterstatterausschusses des Völkerbundes zu den Ålandinseln (1920-1921) stellen fest, dass das geltende Völkerrecht kein Recht nationaler Gruppen anerkennt, sich von dem Staat abzutrennen, dem sie angehören. Die Schiedskommission der Jugoslawien-Konferenz hat in ihrer Stellungnahme Nr. 2 (11. Januar 1992) darauf hingewiesen, dass die serbische Bevölkerung in Kroatien und Bosnien Minderheitenrechte besitzt, nicht aber ein grenzveränderndes Selbstbestimmungsrecht. Die Afrikanische Kommission für die Rechte der Menschen und Völker gelangte in den Fällen *Katangese Peoples' Congress v. Zaire* (1995) und *Kevin Mgwanga Gunme et al. v. Cameroon* (2009) zu dem Schluss, dass die Selbstbestimmung in Formen verwirklicht wird, die mit Souveränität und territorialer Unversehrtheit vereinbar sind.
+**Drittens, für die Praxis entscheidend. Die gesamte Reihe von Entscheidungen, die Ansprüche von Gruppen in der Sache zurückgewiesen hat, betrifft die Abtrennung.** Die Berichte des Juristenausschusses und des Berichterstatterausschusses des Völkerbundes zu den Ålandinseln (1920-1921) stellen fest, dass das geltende Völkerrecht kein Recht nationaler Gruppen anerkennt, sich von dem Staat abzutrennen, dem sie angehören. Die Schiedskommission der Jugoslawien-Konferenz hat in ihrer Stellungnahme Nr. 2 (11. Januar 1992) darauf hingewiesen, dass die serbische Bevölkerung in Kroatien und Bosnien Minderheitenrechte besitzt, nicht aber ein grenzveränderndes Selbstbestimmungsrecht. Die Afrikanische Kommission für die Rechte der Menschen und Völker gelangte in den Fällen *Katangese Peoples' Congress v. Zaire* (1995) und *Kevin Mgwanga Gunme et al. v. Cameroon* (2009) zu dem Schluss, dass die Selbstbestimmung in Formen verwirklicht wird, die mit Souveränität und territorialer Unversehrtheit vereinbar sind.
 
 Diese Reihe ist folgerichtig, und wir führen sie selbst an. Doch sie stellt genau das fest, was in ihr gesagt ist: **Zurückgewiesen ist ein Recht auf Abtrennung.** Keine dieser Entscheidungen hat die freiwillige Konstituierung einer nichtterritorialen Gemeinschaft behandelt, die weder ein Gebiet noch eine Änderung von Grenzen beansprucht. Einen solchen Fall gab es nicht. Die Präzedenzfälle treffen einen Anspruch, den wir nicht erheben, und schweigen zu dem, den wir erheben.
 
 **Viertens. Die Praxis der letzten Jahre hat den Status in einer anderen Richtung vom Gebiet getrennt.** Am 9. November 2023 haben Australien und Tuvalu den Falepili-Unionsvertrag unterzeichnet (in Kraft seit dem 28. August 2024); Artikel 2 hält die Anerkennung der Parteien fest, dass Staatlichkeit und Souveränität Tuvalus trotz der Folgen des Meeresspiegelanstiegs fortbestehen werden. Am selben Tag hat das Pazifische Inselforum eine Erklärung über die Fortdauer der Staatlichkeit angenommen; die Allianz der kleinen Inselstaaten hat am 23. September 2024 eine eigene angenommen.
 
-Im Jahr 2025 hat die Völkerrechtskommission der Vereinten Nationen den Abschlussbericht der Studiengruppe zum Meeresspiegelanstieg gebilligt: „Hinsichtlich der Staaten, die vom klimabedingten Meeresspiegelanstieg besonders betroffen sind, besteht unter den Staaten entschiedene Unterstützung für die Fortdauer der Staatlichkeit und der Souveränität und für die Erhaltung der Völkerrechtspersönlichkeit und der Mitgliedschaft in internationalen Organisationen“ (Ziffer 35). Gesondert wurde festgehalten, dass Artikel 1 des Übereinkommens von Montevideo von 1933, „dessen Kriterien allgemein für die Bestimmung eines Staates als Person oder Subjekt des Völkerrechts anerkannt sind, die Frage der Fortdauer der Staatlichkeit in diesem Zusammenhang nicht löst“ (Ziffer 37).
+Im Jahr 2025 hat die Völkerrechtskommission der Vereinten Nationen den Abschlussbericht der Studiengruppe zum Meeresspiegelanstieg gebilligt: „Hinsichtlich der Staaten, die vom klimabedingten Meeresspiegelanstieg besonders betroffen sind, besteht unter den Staaten entschiedene Unterstützung für die Fortdauer der Staatlichkeit und der Souveränität und für die Erhaltung der Völkerrechtspersönlichkeit und der Mitgliedschaft in internationalen Organisationen“ (Ziffer 35). Gesondert wurde festgehalten, dass Artikel 1 des Übereinkommens von Montevideo von 1933, „dessen Kriterien allgemein für die Bestimmung eines Staates als Person oder Subjekt des Völkerrechts anerkannt sind, die Frage der Fortdauer der Staatlichkeit im Zusammenhang mit dem klimabedingten Meeresspiegelanstieg nicht behandelt“ (Ziffer 37).
 
 > **Der genaue Umfang dieses Arguments, und er ist eng.** Die Rede ist von der **Fortdauer** und nicht von der Entstehung. Die Vermutung der Fortdauer wirkt, weil das Subjekt bereits besteht: Es war anerkannt, besaß ein Gebiet und hat es verloren. Eine Gemeinschaft, die nie ein Gebiet besessen hat, hat nichts zu bewahren. Das zeigt, dass das Gebiet nicht das ist, was einen Status im Bestehen hält, und es zeigt nicht, dass sich ein Status ohne Gebiet erwerben lässt.
 
-**Ergebnis zum zweiten Einwand.** Das Erfordernis eines Gebiets steht nicht in verbindlichen Normen, folgt mangels einer solchen nicht aus einer Begriffsbestimmung und ist durch die Praxis nicht festgestellt, da die gesamte gegenläufige Praxis der Abtrennung gewidmet ist. Die Frage bleibt offen - aber offen und nicht gegen uns entschieden.
+**Ergebnis zum zweiten Einwand.** Das Erfordernis eines Gebiets steht nicht in verbindlichen Normen, folgt mangels einer solchen nicht aus einer Begriffsbestimmung und ist durch die Praxis nicht festgestellt, da die gesamte Praxis, die Ansprüche in der Sache zurückgewiesen hat, der Abtrennung gewidmet ist. Die Frage bleibt offen - aber offen und nicht gegen uns entschieden.
 
 ## Dritter Einwand: Ein Forum gibt es nicht
 
 **Der Satz.** Selbst wenn die Frage des Volksseins gestellt werden könnte, gibt es keinen Ort, sie zu stellen. Die Praxis sammelt sich in eine verfahrensmäßige Leere.
 
-**Antwort: Der Einwand trifft zu und wird vollständig angenommen.** Der Menschenrechtsausschuss im Fall *Chief Bernard Ominayak and the Lubicon Lake Band v. Canada* (Mitteilung Nr. 167/1984, Auffassungen vom 26. März 1990, UN Doc. CCPR/C/38/D/167/1984, Ziffer 32.1):
+**Antwort: Für die Frage des Volksseins als solche trifft der Einwand zu und wird vollständig angenommen.** Der Menschenrechtsausschuss im Fall *Chief Bernard Ominayak and the Lubicon Lake Band v. Canada* (Mitteilung Nr. 167/1984, Auffassungen vom 26. März 1990, UN Doc. CCPR/C/38/D/167/1984, Ziffer 32.1):
 
 > „Obwohl alle Völker das Recht auf Selbstbestimmung und das Recht haben, frei über ihren politischen Status zu entscheiden... wie es Artikel 1 des Paktes vorsieht, **gehört die Frage, ob die Gemeinschaft des Lubicon Lake ein 'Volk' bildet, nicht zu den Fragen, die der Ausschuss nach dem Fakultativprotokoll zum Pakt zu behandeln hat**. Das Fakultativprotokoll begründet ein Verfahren, in dessen Rahmen Einzelpersonen eine Verletzung ihrer individuellen Rechte geltend machen können.“
 
@@ -351,7 +351,7 @@ Daraus der Schluss: Ein Status festigt sich verteilt oder er festigt sich überh
 
 **Diesen Einwand halten wir für unwiderlegt, und er ist der ernsthafteste der an uns gerichteten.** Zu antworten ist nichts außer zwei Beobachtungen, von denen keine ihn ausräumt.
 
-Die erste: Ein Mechanismus der Umwandlung fehlte nicht nur uns. Die indigenen Völker hatten bis in die 1960er Jahre weder eine Stimme noch ein Organ noch irgendjemandes Pflicht, mit ihnen zu rechnen - und dennoch führte eine geordnete Praxis zu geschriebenen Normen: die Pflicht zur Konsultation (Übereinkommen Nr. 169 der Internationalen Arbeitsorganisation, Artikel 6), das Recht auf Teilnahme an Entscheidungen und der Grundsatz der freien, vorherigen und in Kenntnis der Sachlage erteilten Zustimmung (Erklärung der Vereinten Nationen über die Rechte indigener Völker, Artikel 18-19), der gerichtliche Schutz dieser Pflichten (Interamerikanischer Gerichtshof für Menschenrechte, *Saramaka People v. Suriname*, 2007). Der Mechanismus ging der Praxis nicht voraus, er entstand aus ihr.
+Die erste: Ein Mechanismus der Umwandlung fehlte nicht nur uns. Die indigenen Völker hatten bis in die 1960er Jahre weder eine Stimme noch ein Organ, und das Übereinkommen Nr. 107 der Internationalen Arbeitsorganisation (1957) verpflichtete die Regierungen lediglich, sich um die Mitarbeit dieser Völker zu bemühen - und dennoch führte eine geordnete Praxis zu geschriebenen Normen: die Pflicht zur Konsultation (Übereinkommen Nr. 169 der Internationalen Arbeitsorganisation, Artikel 6), das Recht auf Teilnahme an Entscheidungen und der Grundsatz der freien, vorherigen und in Kenntnis der Sachlage erteilten Zustimmung (Erklärung der Vereinten Nationen über die Rechte indigener Völker, Artikel 18-19), der gerichtliche Schutz dieser Pflichten (Interamerikanischer Gerichtshof für Menschenrechte, *Saramaka People v. Suriname*, 2007). Der Mechanismus ging der Praxis nicht voraus, er entstand aus ihr.
 
 Die zweite: Eine Aufgabe der Staaten kann entstehen. Fragen, für die es heute keinen Träger eines Interesses gibt - klimabedingte Vertreibung, die Bevölkerung verschwindender Staaten, Staatenlose, künftige Generationen -, verschärfen sich, und das Fehlen einer Seite, die für die betroffenen Menschen sprechen kann, wird auch für die Staaten zu einem Problem.
 
@@ -361,7 +361,7 @@ Wir halten den Einwand als wirkend fest.
 
 # ABSCHNITT 06. Die Praxis: worüber das Völkerrecht bereits verfügt
 
-In diesem Abschnitt stehen keine Meinungen: Entscheidungen rechtsanwendender Organe, Verträge und eingetretene Tatsachen - darunter eine Tatsache, die gegen uns wirkt, und sie steht an erster Stelle.
+In diesem Abschnitt stehen keine Lehrmeinungen: Entscheidungen rechtsanwendender Organe, Verträge und eingetretene Tatsachen - darunter eine Tatsache, die gegen uns wirkt, und sie steht an erster Stelle.
 
 ## Ein unmittelbarer Versuch und sein Ergebnis: die Erklärung der Nation der Roma (2000)
 
@@ -383,7 +383,7 @@ Wägen wir redlich ab: Wir können nicht sagen, „einer der Gründe ist entfall
 
 Im Gutachten vom 11. April 1949 stellte der Internationale Gerichtshof fest, dass die Völkerrechtspersönlichkeit nicht auf Staaten beschränkt ist: Die Vereinten Nationen wurden als Völkerrechtssubjekt anerkannt, das Ansprüche erheben kann, ohne ein Staat zu sein. Im selben Gutachten ist ein allgemeinerer Grundsatz formuliert: **„Die Rechtssubjekte sind in einer Rechtsordnung nicht notwendig gleich in ihrer Natur oder im Umfang ihrer Rechte, und ihre Natur hängt von den Bedürfnissen der Gemeinschaft ab.“**
 
-Der Kreis der Subjekte wurde zu Lebzeiten der Heutigen weiter: zuerst die internationalen Organisationen, dann der Mensch, der nach Nürnberg internationale Verantwortung trägt und über international geschützte Rechte verfügt. Jedes Mal folgte die Erweiterung einer Funktion und einem Bedürfnis und nicht einem Gebiet.
+Der Kreis der Subjekte wurde zu Lebzeiten der Heutigen weiter: die internationalen Organisationen und der Mensch, der nach Nürnberg internationale Verantwortung trägt und über international geschützte Rechte verfügt. Jedes Mal folgte die Erweiterung einer Funktion und einem Bedürfnis und nicht einem Gebiet.
 
 > **Die Grenze der Entsprechung.** Die Rechtspersönlichkeit der Vereinten Nationen leitete der Gerichtshof aus dem Willen der Staaten ab, die sie geschaffen hatten. Die Earthlings werden durch den Willen von Einzelnen konstituiert und stützen sich nicht auf eine Übertragung durch Staaten, sondern auf die Vereinigungsfreiheit und die Ansammlung äußeren Vertrauens.
 
@@ -393,7 +393,7 @@ Der Souveräne Malteserorden besitzt seit 1798 kein Gebiet, unterhält aber dipl
 
 Das ist nicht nur durch die Praxis der Staaten bestätigt, sondern auch durch eine gerichtliche Entscheidung: Im Fall *Nanni and Others v. Pace and the Sovereign Order of Malta* erkannte der italienische Kassationsgerichtshof (Annual Digest, 1935-1937, Fall Nr. 2) an, dass der Orden als internationales Gebilde eine eigene Rechtspersönlichkeit besitzt und für seine Akte keiner Erlaubnis eines Staates bedarf.
 
-> **Die Grenze der Entsprechung, und sie ist wesentlich.** Beide Subjekte besaßen die Rechtspersönlichkeit **vor** dem Verlust des Gebiets: Die Rede ist von ihrer Bewahrung und nicht von ihrem Erwerb. Sie beweisen, dass ein Gebiet die Rechtspersönlichkeit weder begründet noch im Bestehen hält, und sie beweisen nicht, dass sie sich erwerben lässt, ohne je ein Gebiet besessen zu haben.
+> **Die Grenze der Entsprechung, und sie ist wesentlich.** Beide Subjekte besaßen die Rechtspersönlichkeit **vor** dem Verlust des Gebiets: Die Rede ist von ihrer Bewahrung und nicht von ihrem Erwerb. Sie beweisen, dass ein Gebiet die Rechtspersönlichkeit nicht im Bestehen hält, und sie beweisen nicht, dass sie sich erwerben lässt, ohne je ein Gebiet besessen zu haben.
 
 ## Ein einseitiger konstituierender Akt ist kein Rechtsverstoß: Kosovo (2010)
 
@@ -417,7 +417,7 @@ Das Schema „Anspruch - Praxis - rechtliche Feststellung“ ist eine belegte We
 
 ## Subjektstellung, die aus einer privaten Initiative erwuchs: das IKRK
 
-Im Jahr 1863 gründeten fünf Privatleute aus Genf ein Komitee zur Hilfe für Verwundete: kein Staat, kein Orden mit souveräner Vergangenheit, kein Geschöpf eines Vertrags, sondern eine private Selbstorganisation. Schon ein Jahr später wurde auf ihre Anregung eine diplomatische Konferenz einberufen und das erste Genfer Abkommen (1864) angenommen, das das Komitee in das Völkerrecht einfügte.
+Im Jahr 1863 gründeten fünf Privatleute aus Genf ein Komitee zur Hilfe für Verwundete: kein Staat, kein Orden mit souveräner Vergangenheit, kein Geschöpf eines Vertrags, sondern eine private Selbstorganisation. Anderthalb Jahre später wurde auf ihre Anregung eine diplomatische Konferenz einberufen und das erste Genfer Abkommen (1864) angenommen; beim Namen genannt hat ein Vertragstext das Komitee selbst erst später, im Genfer Abkommen von 1929.
 
 Heute ist das Internationale Komitee vom Roten Kreuz Träger einer funktionalen Völkerrechtspersönlichkeit: vertragliche Aufträge, Sitzabkommen mit Dutzenden Staaten, Beobachterstatus bei der Generalversammlung der Vereinten Nationen (Resolution 45/6 vom 16. Oktober 1990) - und dabei bleibt es der Form nach eine private Vereinigung nach schweizerischem Zivilrecht. Die Reihenfolge der Ereignisse ist entscheidend: Die Zustimmung der Staaten ging der Entstehung nicht voraus, sie hat eine eingetretene nützliche Praxis ausgestaltet.
 
@@ -431,7 +431,7 @@ Der Europäische Gerichtshof für Menschenrechte hat in den Fällen *Sidiropoulo
 
 ## Weitere bestätigte Formen
 
-**Das gemeinsame Erbe der Menschheit** ist für Bereiche außerhalb nationaler Hoheitsbefugnisse verankert: „Das Gebiet und seine Ressourcen sind das gemeinsame Erbe der Menschheit“ (Artikel 136 des Seerechtsübereinkommens der Vereinten Nationen von 1982); Artikel 11 des Mondabkommens von 1979 erklärt den Mond und seine Ressourcen zu demselben. Diese Ordnungen lassen ein Interesse der Menschheit als Ganzer zu, schaffen aber keinen Träger, der es geltend machen könnte.
+**Das gemeinsame Erbe der Menschheit** ist für Bereiche außerhalb nationaler Hoheitsbefugnisse verankert: „Das Gebiet und seine Ressourcen sind das gemeinsame Erbe der Menschheit“ (Artikel 136 des Seerechtsübereinkommens der Vereinten Nationen von 1982); Artikel 11 des Mondabkommens von 1979 erklärt den Mond und seine Ressourcen zu demselben. Diese Ordnungen lassen ein Interesse der Menschheit als Ganzer zu, schaffen aber keinen Träger, der aus den Menschen selbst bestünde: Im Namen der Menschheit handelt im Gebiet die Internationale Meeresbodenbehörde, deren Mitglieder die Vertragsstaaten des Übereinkommens sind (Artikel 137 Absatz 2 und 156).
 
 **Eine überstaatliche zusätzliche Zugehörigkeit** ist durch eine Norm verankert: Nach Artikel 20 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union „tritt die Unionsbürgerschaft zur nationalen Staatsbürgerschaft hinzu, ersetzt sie aber nicht“.
 
@@ -455,7 +455,7 @@ Der Europäische Gerichtshof für Menschenrechte hat in den Fällen *Sidiropoulo
 
 ## Innere und äußere Selbstbestimmung
 
-Der gemeinsame Artikel 1 verankert zwei Zweige: Ein Volk „entscheidet frei über seinen politischen Status“ - der äußere Zweig, die Änderung von Grenzen oder des Status eines Gebiets - und „gestaltet in Freiheit seine wirtschaftliche, soziale und kulturelle Entwicklung“ - der innere. Nicht der Ort der Verwirklichung unterscheidet sie, sondern die Folge: Die äußere ändert die Anordnung der Staaten, die innere ändert in den Staaten nichts.
+Nach dem gemeinsamen Artikel 1 entscheiden die Völker „frei über ihren politischen Status und gestalten in Freiheit ihre wirtschaftliche, soziale und kulturelle Entwicklung“; bei der Ausübung dieses Rechts unterscheidet man zwei Zweige - den äußeren, die Änderung von Grenzen oder des Status eines Gebiets, und den inneren. Nicht der Ort der Verwirklichung unterscheidet sie, sondern die Folge: Der äußere ändert die Anordnung der Staaten, der innere ändert sie nicht.
 
 Der Oberste Gerichtshof Kanadas hat im Gutachten zur Sezession Quebecs (*Reference re Secession of Quebec*, [1998] 2 S.C.R. 217) den Vorrang der inneren Selbstbestimmung festgeschrieben: In der Regel wird das Recht ohne Antastung der territorialen Unversehrtheit verwirklicht, die äußere Form ist eine Ausnahme für äußerste Fälle. Genau diese Unterscheidung und nur sie nehmen wir aus der Entscheidung.
 
@@ -523,15 +523,15 @@ Deshalb ist ein offen erhobener Anspruch keine Rhetorik, sondern ein rechtlicher
 
 ## Verteilte Feststellung statt einer einzigen Prüfung
 
-Kein Status im Völkerrecht wird durch die Entscheidung eines einzigen Organs bestätigt: Kein Gericht hat je einen Staat bescheinigt. Status festigen sich verteilt, durch viele kleine Türen.
+Kein Status im Völkerrecht wird für alle zugleich durch die Entscheidung eines einzigen Organs bestätigt: Kein Gericht hat je einen Staat bescheinigt. Status festigen sich verteilt, durch viele kleine Türen.
 
 Daher der Ausdruck, mit dem in den Dokumenten des Volkes das Gesuchte bezeichnet wird. **Die rechtliche Erkennbarkeit** ist die Behandlung einer Gemeinschaft als Volk dort, wo eine bestimmte Frage entsteht: die Zulassung zu einer Bühne, die Pflicht zur Konsultation, die Einordnung in einem einzelnen Fall. Sie wird nicht durch einen Akt verliehen und nicht durch ein Register bescheinigt und misst sich deshalb nicht am Datum einer Entscheidung, sondern an der Zahl der geöffneten Türen.
 
-Bezeichnend ist der Weg Palästinas: die Aufnahme in die UNESCO als Mitgliedstaat am 31. Oktober 2011; der Status eines Beobachterstaates - Resolution 67/19 der Generalversammlung vom 29. November 2012; die Behandlung als Vertragsstaat für die Zwecke des Römischen Statuts - Entscheidung der Vorverfahrenskammer I des Internationalen Strafgerichtshofs vom 5. Februar 2021.
+Bezeichnend ist der Weg Palästinas: die Aufnahme in die UNESCO als Mitgliedstaat am 31. Oktober 2011; der Status eines Beobachterstaates ohne Mitgliedschaft - Resolution 67/19 der Generalversammlung vom 29. November 2012; die Stellung als Vertragsstaat des Römischen Statuts seit dem 1. April 2015 und die Entscheidung der Vorverfahrenskammer I des Internationalen Strafgerichtshofs vom 5. Februar 2021, die Palästina für die Zwecke des Artikels 12 Absatz 2 Buchstabe a des Statuts als den Staat einstufte, in dessen Hoheitsgebiet das fragliche Verhalten stattgefunden hat.
 
 Erste Türen bestehen auch für eine Initiative dieser Art: schriftliche Beiträge zur allgemeinen regelmäßigen Überprüfung und an die Sonderverfahren der Vereinten Nationen stehen jeder Zivilgesellschaft offen; der beratende Status beim Wirtschafts- und Sozialrat ist über eine juristische Person als Träger erreichbar, so wie der Rat der Sami teilnimmt, der in der Liste (Roster) geführt wird, obwohl niemand das Volk der Sami für eine nichtstaatliche Organisation hält; weiter folgen mehrseitige Bühnen und Beobachterstatus.
 
-Die Erreichbarkeit des Endpunkts ist in starker Form bestätigt: Die Pflicht der Staaten, sich mit Völkern ohne Staat zu beraten, hat innerhalb einer Generation den Weg vom völligen Fehlen bis zu einer geschriebenen Norm zurückgelegt (Übereinkommen Nr. 169 der Internationalen Arbeitsorganisation, Artikel 6; Erklärung der Vereinten Nationen über die Rechte indigener Völker, Artikel 18-19; *Saramaka People v. Suriname*, 2007).
+Die Erreichbarkeit des Endpunkts ist in starker Form bestätigt: Die Pflicht der Staaten, sich mit indigenen Völkern zu beraten, hat innerhalb einer Generation den Weg von der bloßen Anforderung, sich um ihre Mitarbeit zu bemühen (Übereinkommen Nr. 107 der Internationalen Arbeitsorganisation, 1957, Artikel 5), bis zu einer geschriebenen Norm zurückgelegt (Übereinkommen Nr. 169 der Internationalen Arbeitsorganisation, Artikel 6; Erklärung der Vereinten Nationen über die Rechte indigener Völker, Artikel 18-19; *Saramaka People v. Suriname*, 2007).
 
 ## Öffentliche Chronik und Voraussetzungen der Legitimierung
 
@@ -576,7 +576,7 @@ Im Folgenden wird nicht versucht zu beweisen, dass jede Formel der Erklärung im
 | Freiwilligkeit und Recht auf Austritt | Das Recht auf Teilnahme an einem Zusammenschluss setzt das Recht voraus, die Teilnahme ohne Sanktion seitens der Gemeinschaft selbst zu beenden | Art. 20 AEMR; Art. 22 IPbpR |
 | Technik stärkt den Menschen und ersetzt ihn nicht | Eine technische Infrastruktur ist nur als Werkzeug zum Schutz von Rechten, Rechenschaft und einem fairen Verfahren zulässig | UNESCO-Empfehlung zur Ethik der künstlichen Intelligenz, 23. November 2021 |
 | Ein Mensch - eine Stimme | Die Gleichheit der Teilnehmer ist ein selbst angenommener Maßstab, der sich auf den allgemeinen Gleichheitsgrundsatz stützt; eine äußere Norm, die ihn Vereinigungen vorschreibt, gibt es nicht, und wir erfinden sie nicht | Art. 26 IPbpR; der konstituierende Akt der Gemeinschaft selbst |
-| Unabänderlichkeit der Grundwerte | Grundlegende Grundsätze sind durch ein erschwertes Änderungsverfahren geschützt; die Konstruktion ist dem Verfassungsrecht bekannt | Grundgesetz der Bundesrepublik Deutschland, Art. 79 Abs. 3; Verfassung Frankreichs, Art. 89; Verfassung Italiens, Art. 139 |
+| Unabänderlichkeit der Grundwerte | Grundlegende Grundsätze sind der Verfassungsänderung entzogen; die Konstruktion ist dem Verfassungsrecht bekannt | Grundgesetz der Bundesrepublik Deutschland, Art. 79 Abs. 3; Verfassung Frankreichs, Art. 89; Verfassung Italiens, Art. 139 |
 | Subsidiarität | Ein Handeln ist nur dort zulässig, wo Aufgaben auf einer niedrigeren Ebene nicht gelöst werden | Der Grundsatz der Subsidiarität in überstaatlichen Konstruktionen |
 
 **Methodischer Schluss.** Das Volk der Earthlings wird nicht aus einer einzigen Quelle abgeleitet. Die Beweisführung ist als Gesamtheit von Normen, Entscheidungen und überprüfbaren Tatsachen aufgebaut, die die Initiative zusammen rechtlich erörterbar machen. Die Gesamtheit ersetzt keine fehlende unmittelbare Grundlage und wird nicht für eine solche ausgegeben.
@@ -593,7 +593,7 @@ Was durch Normen und Entscheidungen festgestellt ist und nicht durch Meinungen:
 
 **Eine Begriffsbestimmung des Volkes gibt es nicht, und das ist amtlich festgestellt.** Das Fehlen einer Begriffsbestimmung schließt uns nicht selbsttätig ein - schließt uns aber auch nicht aus.
 
-**Die gesamte gegenläufige Praxis betrifft die Abtrennung** - einen Anspruch, den wir nicht erheben.
+**Die gesamte Praxis, die Ansprüche von Gruppen in der Sache zurückgewiesen hat, betrifft die Abtrennung** - einen Anspruch, den wir nicht erheben.
 
 **Eine Rechtspersönlichkeit ohne Gebiet ist dem Recht bekannt** und unter anderem durch eine gerichtliche Entscheidung bestätigt.
 
@@ -603,7 +603,7 @@ Was durch Normen und Entscheidungen festgestellt ist und nicht durch Meinungen:
 
 **Das Gebiet hat aufgehört, das zu sein, was einen Status im Bestehen hält** - das ist durch einen Vertrag, durch Erklärungen regionaler Zusammenschlüsse und durch den Abschlussbericht der Völkerrechtskommission festgehalten.
 
-**Der kollektive Wille wird durch ein Verfahren vorgelegt und nicht durch Auslegung.**
+**Der kollektive Wille wird durch ein Verfahren vorgelegt und nicht durch Auslegung** - das ist eine Eigenschaft unserer Konstruktion und keine Folgerung aus Normen, und das Verfahren ist noch nicht angewandt worden.
 
 Was gegen uns unwiderlegt bleibt:
 
@@ -611,7 +611,7 @@ Was gegen uns unwiderlegt bleibt:
 
 **Die Territorialität ist textlich verankert** - im Grundsatz IV der Resolution 1541 (XV) und in der Schutzklausel der Resolution 2625 (XXV) -, obwohl keine von beiden eine Begriffsbestimmung des Volkes enthält.
 
-**Ein Forum für die Frage gibt es nicht** (*Ominayak*, 1990), und diese Beschränkung wirkt ausnahmslos für alle.
+**Ein Forum für die Frage des Volksseins als solche gibt es nicht** (*Ominayak*, 1990): Regionale Organe entscheiden sie nur beiläufig, im Streit um bestimmte Rechte - und diese Beschränkung wirkt ausnahmslos für alle.
 
 **Ein Mechanismus, Praxis in Anerkennung zu verwandeln, fehlt.** Er entsteht dann, wenn eine Gemeinschaft eine Aufgabe löst, die vor den Staaten steht; eine solche Aufgabe löst ein nichtterritoriales Volk heute nicht.
 
@@ -627,12 +627,11 @@ Diese Rechtsgrundlage ersetzt keine künftigen rechtlichen Denkschriften, Verfah
 
 # QUELLENVERZEICHNIS
 
-Alle Bestimmungen des Dokuments stützen sich auf das Folgende: verbindliche Normen, Entscheidungen rechtsanwendender Organe und überprüfbare Tatsachen. Lehrmeinungen werden als Grundlagen nicht verwendet - die Gründe sind in der Einleitung dargelegt.
+Alle Bestimmungen des Dokuments stützen sich auf das Folgende: Verträge, Resolutionen und Dokumente internationaler Organe, Entscheidungen rechtsanwendender Organe und überprüfbare Tatsachen. Lehrmeinungen werden als Grundlagen nicht verwendet - die Gründe sind in der Einleitung dargelegt. Zitate aus Dokumenten, für die es keinen amtlichen deutschen Text gibt, werden in unserer Übersetzung wiedergegeben.
 
 **Verträge und Gründungsakte**
 
 - Charta der Vereinten Nationen, 26. Juni 1945, Artikel 1 Ziffer 2. Statut des Internationalen Gerichtshofs, Artikel 34 Absatz 1 und 38 Absatz 1.
-- Allgemeine Erklärung der Menschenrechte, Resolution 217 A (III) vom 10. Dezember 1948, Artikel 6, 15, 20.
 - Menschenrechtspakte, Resolution 2200 A (XXI) vom 16. Dezember 1966: gemeinsamer Artikel 1; IPbpR, Artikel 12, 16, 22, 26, 27.
 - Übereinkommen über die Rechte und Pflichten der Staaten (Montevideo), 26. Dezember 1933, Artikel 1 und 3.
 - Übereinkommen über die Rechtsstellung der Staatenlosen, 28. September 1954 (in Kraft seit dem 6. Juni 1960), Artikel 1 Absatz 1; Übereinkommen zur Verminderung der Staatenlosigkeit, 30. August 1961, Artikel 7 Absatz 1 Buchstabe a und 8 Absatz 1.
@@ -644,6 +643,7 @@ Alle Bestimmungen des Dokuments stützen sich auf das Folgende: verbindliche Nor
 
 **Resolutionen, Erklärungen und Akte internationaler Organe**
 
+- Allgemeine Erklärung der Menschenrechte, Resolution 217 A (III) vom 10. Dezember 1948, Artikel 6, 15, 20.
 - Resolutionen der Generalversammlung: 1514 (XV) vom 14. Dezember 1960, Ziffern 2 und 6; 1541 (XV) vom 15. Dezember 1960, Grundsatz IV; 2625 (XXV) vom 24. Oktober 1970; 2758 (XXVI) vom 25. Oktober 1971; 41/128 vom 4. Dezember 1986; 45/6 vom 16. Oktober 1990; 48/265 (1994); 61/295 vom 13. September 2007 (Artikel 3, 4, 18, 19, 33, 46); 67/19 vom 29. November 2012.
 - Wiener Erklärung und Aktionsprogramm, 25. Juni 1993, Teil I, Ziffer 2.
 - Resolution 9.1 der sechsunddreißigsten Tagung der Generalkonferenz der UNESCO vom 31. Oktober 2011; UNESCO-Empfehlung zur Ethik der künstlichen Intelligenz, 23. November 2021.
@@ -656,7 +656,7 @@ Alle Bestimmungen des Dokuments stützen sich auf das Folgende: verbindliche Nor
 - Internationaler Gerichtshof: *Reparation for Injuries* (11. April 1949, I.C.J. Reports 1949, S. 174); *Western Sahara* (1975); *North Sea Continental Shelf* (20. Februar 1969, Ziffer 47); *East Timor* (30. Juni 1995, I.C.J. Reports 1995, S. 90, Ziffer 29); Gutachten zur Mauer (2004) und zum Chagos-Archipel (2019); Kosovo (22. Juli 2010).
 - Berichte des Juristenausschusses und des Berichterstatterausschusses des Völkerbundes zu den Ålandinseln, 1920-1921; Schiedskommission der Jugoslawien-Konferenz, Stellungnahme Nr. 2, 11. Januar 1992.
 - Menschenrechtsausschuss: *Ominayak and the Lubicon Lake Band v. Canada*, Nr. 167/1984 (26. März 1990), Ziffern 13.3 und 32.1; *Kitok v. Sweden*, Nr. 197/1985 (27. Juli 1988), Ziffer 6.3; *Mikmaq Tribal Society v. Canada*, Nr. 78/1980 (29. Juli 1984); *Apirana Mahuika et al. v. New Zealand*, Nr. 547/1993 (27. Oktober 2000); Allgemeine Bemerkung Nr. 23 (1994), Ziffer 3.1.
-- Afrikanische Kommission für die Rechte der Menschen und Völker: Mitteilung 276/2003 (Endorois), Ziffern 150, 157' 162; *Katangese Peoples' Congress v. Zaire* (1995); *Kevin Mgwanga Gunme et al. v. Cameroon* (2009). Afrikanischer Gerichtshof: Antrag 006/2012 (Ogiek, 26. Mai 2017), Ziffern 112 und 199.
+- Afrikanische Kommission für die Rechte der Menschen und Völker: Mitteilung 276/2003 (Endorois), Entscheidung der 46. Tagung (November 2009), Ziffern 150, 151, 157, 162; *Katangese Peoples' Congress v. Zaire* (1995); *Kevin Mgwanga Gunme et al. v. Cameroon* (2009). Afrikanischer Gerichtshof: Antrag 006/2012 (Ogiek, 26. Mai 2017), Ziffern 112 und 199.
 - Interamerikanischer Gerichtshof für Menschenrechte, *Saramaka People v. Suriname* (2007).
 - Europäischer Gerichtshof für Menschenrechte: *Sidiropoulos and Others v. Greece* (1998); *Stankov and the United Macedonian Organisation Ilinden v. Bulgaria* (2001).
 - Internationaler Strafgerichtshof, Vorverfahrenskammer I, Entscheidung vom 5. Februar 2021 (ICC-01/18).
@@ -666,7 +666,7 @@ Alle Bestimmungen des Dokuments stützen sich auf das Folgende: verbindliche Nor
 
 - Bürgerliches Gesetzbuch (BGB), § 1. Grundgesetz der Bundesrepublik Deutschland, Artikel 79 Absatz 3; Verfassung Frankreichs, Artikel 89; Verfassung Italiens, Artikel 139.
 - Burma Citizenship Law, Pyithu Hluttaw Law No. 4 of 1982 (15. Oktober 1982), Artikel 3.
-- Norwegen: Sami-Gesetz vom 12. Juni 1987. Schweden: Sametingslag (SFS 1992:1433). Finnland: Gesetz über das Sami-Parlament (974/1995), Abschnitt 3.
+- Norwegen: Sami-Gesetz vom 12. Juni 1987. Schweden: Sametingslag (SFS 1992:1433). Finnland: Gesetz über das Sami-Parlament (974/1995), Abschnitt 3, in der Fassung des Gesetzes 414/2025.
 - Neuseeland: Electoral Act 1993, Abschnitte 3, 76-79; Te Urewera Act 2014, Abschnitt 11; Te Awa Tupua Act 2017, Abschnitt 14.
 - Verfassung der Republik Ecuador von 2008, Artikel 71-74. Proklamation des Präsidenten der Vereinigten Staaten Nr. 2667 vom 28. September 1945.
 
