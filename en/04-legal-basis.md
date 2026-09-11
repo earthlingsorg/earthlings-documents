@@ -18,7 +18,7 @@ Where this document and the Declaration diverge, the Declaration prevails.
 
 The four propositions come first so that the reader can see from the outset what exactly is being asserted and what is not.
 
-**First.** The norms we rely on are in force today: freedom of association (Article 20 of the Universal Declaration of Human Rights, Article 22 of the International Covenant on Civil and Political Rights, Article 11 of the European Convention) and the right of peoples to self-determination (Article 1(2) of the UN Charter, common Article 1 of the 1966 Covenants). The treaties in which they are established are binding on the states parties to them. None of these norms has been invented or proposed "for the future".
+**First.** The norms we rely on are in force today: freedom of association (Article 20 of the Universal Declaration of Human Rights, Article 22 of the International Covenant on Civil and Political Rights, Article 11 of the European Convention) and the right of peoples to self-determination (Article 1(2) of the UN Charter, common Article 1 of the 1966 Covenants). The treaties in which they are enshrined are binding on the states parties to them. None of these norms has been invented or proposed "for the future".
 
 **Second.** **No binding norm contains a requirement of territory as a condition of a people's existence.** Not the UN Charter, not common Article 1 of the Covenants, not a single convention. What is more, no definition of a people exists at all, and this has been recorded in an official document of the United Nations.
 
@@ -287,7 +287,7 @@ Here the argument faces the most serious objections. We state them ourselves, wi
 
 ## What freedom of association protects
 
-Freedom of association is established as a universal right of every person: Article 20 of the Universal Declaration of Human Rights, Article 22 of the International Covenant on Civil and Political Rights, Article 11 of the European Convention, paragraph 9.3 of the Document of the Copenhagen Meeting of the CSCE, Article 8 of the Covenant on Economic, Social and Cultural Rights with respect to trade unions, and Article 15 of the Convention on the Rights of the Child.
+Freedom of association is enshrined as a universal right of every person in Article 20 of the Universal Declaration of Human Rights, Article 22 of the International Covenant on Civil and Political Rights, Article 11 of the European Convention, paragraph 9.3 of the Document of the Copenhagen Meeting of the CSCE, Article 8 of the Covenant on Economic, Social and Cultural Rights with respect to trade unions, and Article 15 of the Convention on the Rights of the Child.
 
 International norms construe association broadly, as any voluntary community of individuals formed to express and protect common interests jointly; protection does not depend on state registration and extends to informal associations as well. None of the instruments cited sets out an exhaustive list of permissible forms or purposes.
 
@@ -431,7 +431,7 @@ The European Court of Human Rights in *Sidiropoulos and Others v. Greece* (1998)
 
 ## Other confirmed forms
 
-**The common heritage of mankind** is established for areas beyond national jurisdiction: "The Area and its resources are the common heritage of mankind" (Article 136 of the 1982 UN Convention on the Law of the Sea); Article 11 of the 1979 Moon Agreement declares the same of the Moon and its resources. These regimes allow for an interest of humanity as a whole, but create no bearer made up of human beings themselves: in the Area, the Authority, whose members are the States Parties to the Convention, acts on behalf of mankind (Articles 137(2) and 156).
+**The common heritage of mankind** is enshrined in law for areas beyond national jurisdiction: "The Area and its resources are the common heritage of mankind" (Article 136 of the 1982 UN Convention on the Law of the Sea); Article 11 of the 1979 Moon Agreement declares the same of the Moon and its resources. These regimes allow for an interest of humanity as a whole, but create no bearer made up of human beings themselves: in the Area, the Authority, whose members are the States Parties to the Convention, acts on behalf of mankind (Articles 137(2) and 156).
 
 **Supranational additional belonging** is established by a norm: under Article 20(1) of the Treaty on the Functioning of the European Union, citizenship of the Union "shall be additional to and not replace national citizenship".
 
@@ -554,7 +554,7 @@ The Earthlings people does not assert that the mere fact of its emergence gives 
 
 # SECTION 11. Legal personality and representation
 
-Territory and population are criteria for a **state** (Convention on the Rights and Duties of States, Montevideo, 26 December 1933, Article 1), not for legal personality as such. Article 3 of the same Convention establishes the declaratory approach: the political existence of a state is independent of recognition by other states. To demand recognition before practice is to make the process its own precondition.
+Territory and population are criteria for a **state** (Convention on the Rights and Duties of States, Montevideo, 26 December 1933, Article 1), not for legal personality as such. Article 3 of the same Convention enshrines the declaratory approach: the political existence of a state is independent of recognition by other states. To demand recognition before practice is to make the process its own precondition.
 
 The representation of the Earthlings people is **voluntary** - no one is included automatically; **additional** - it abolishes neither national citizenship nor any other belonging; and **limited** - it claims no universal mandate.
 
@@ -587,7 +587,7 @@ What follows is not an attempt to prove that every formulation of the Declaratio
 
 What is established by norms and decisions rather than by opinion:
 
-**The founding act is lawful.** Freedom of association is established by treaties binding on states, sets out no exhaustive list of permissible forms and purposes, and requires no registration.
+**The founding act is lawful.** Freedom of association is enshrined in treaties binding on states, sets out no exhaustive list of permissible forms and purposes, and requires no registration.
 
 **Binding norms contain no requirement of territory.** Where territory appears in the texts, it serves the purpose of delimiting states and colonial territories.
 

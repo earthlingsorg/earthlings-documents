@@ -130,7 +130,7 @@ The Earthlings people does not wait to be recognized and does not ask permission
 
 ## Article 7. The Legal Basis
 
-1. Freedom of association is a right every person holds today. It is established by Article 20 of the Universal Declaration of Human Rights and Article 22 of the International Covenant on Civil and Political Rights, and it is not made conditional on citizenship, on territory, or on anyone's permission. The Earthlings people associates and takes common decisions within the scope of that right.
+1. Freedom of association is a right every person holds today. It is enshrined in Article 20 of the Universal Declaration of Human Rights and Article 22 of the International Covenant on Civil and Political Rights, and it is not made conditional on citizenship, on territory, or on anyone's permission. The Earthlings people associates and takes common decisions within the scope of that right.
 
 2. The right to self-determination belongs to peoples as collective subjects: the Charter of the United Nations, Article 1(2), and common Article 1 of the 1966 Covenants.
 
@@ -138,7 +138,7 @@ The Earthlings people brings the exercise of these two rights together in a sing
 
 The lawfulness of what the Earthlings people does rests on freedom of association, and therefore does not depend on how international institutions resolve the question of its classification.
 
-What makes it a people is not common descent, territory or existing citizenship, but a durable community: a common identity, belonging, values, a verifiable common will and its own institutions of self-governance. The common identity is established by this Declaration. The common will is expressed by voluntary accession and by the equal participation of everyone. The institutions of self-governance are constituted by this Declaration and operate in the manner it sets out.
+What makes it a people is not common descent, territory or existing citizenship, but a durable community: a common identity, belonging, values, a verifiable common will and its own institutions of self-governance. The common identity is enshrined in this Declaration. The common will is expressed by voluntary accession and by the equal participation of everyone. The institutions of self-governance are constituted by this Declaration and operate in the manner it sets out.
 
 The Earthlings people offers a procedure that allows individuals to exercise jointly rights that are already recognized, where earlier procedures no longer suffice.
 

@@ -193,7 +193,7 @@ Representation was invented when there was no other way: millions of people coul
 
 That worked, and achieved a great deal. One thing it did not do: it gave people no way of expressing a common will themselves.
 
-The Universal Declaration of Human Rights of 1948 says in Article 21: the will of the people shall be the basis of the authority of government. The International Covenant on Civil and Political Rights, in Article 25, secures the right of everyone to take part in the conduct of public affairs. The UN Charter opens with the words "We the peoples of the United Nations".
+The Universal Declaration of Human Rights of 1948 says in Article 21: the will of the people shall be the basis of the authority of government. The International Covenant on Civil and Political Rights, in Article 25, enshrines the right of everyone to take part in the conduct of public affairs. The UN Charter opens with the words "We the peoples of the United Nations".
 
 The right is recognized. A procedure by which that right would be exercised directly does not exist. A recognized right that no one can assert remains a norm without application.
 

@@ -34,7 +34,7 @@ These three axes are deliberately separated. Identity does not depend on economi
 
 This is the most important section of the document.
 
-**It does not buy a vote.** Holding any quantity of EC does not increase a participant's weight in decisions. Voting is built on the principle of "one person, one vote", tied to the passport and not to a balance. This is fixed as an unamendable principle in Article 37 of the Charter and is repealed by no majority.
+**It does not buy a vote.** Holding any quantity of EC does not increase a participant's weight in decisions. Voting is built on the principle of "one person, one vote", tied to the passport and not to a balance. This is enshrined as an unamendable principle in Article 37 of the Charter and is repealed by no majority.
 
 **It does not open access to participation.** Neither the right to vote, nor the right to submit proposals, nor participation in Cells, nor the resolution of a dispute requires holding EC, locking it, or pledging it. Having no EC restricts a participant in no way.
 

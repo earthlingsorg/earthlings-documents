@@ -40,7 +40,7 @@ Network states aim at territory and statehood; Earthlings deliberately does not.
 
 Impossible by design. The self-determination of Earthlings is by its design incapable of encroaching on territorial integrity - the object of encroachment, that is, a territorial claim, is absent. An earthling takes nothing from their state and adds one more belonging, a planetary one.
 
-The Vienna Declaration of 1993 expressly stipulates that self-determination does not authorize the dismemberment of the territorial integrity of states that comply with the principle of equal rights and represent the whole population without discrimination. The renunciation of territorial claims is fixed in the unamendable part of the Earthlings Declaration and cannot be repealed by any majority.
+The Vienna Declaration of 1993 expressly stipulates that self-determination does not authorize the dismemberment of the territorial integrity of states that comply with the principle of equal rights and represent the whole population without discrimination. The renunciation of territorial claims is enshrined in the unamendable part of the Earthlings Declaration and cannot be repealed by any majority.
 
 The legal side of the question is in the Legal Basis, section 07.
 
@@ -194,7 +194,7 @@ Expressly rejected: Earthlings builds a discipline of responsibility, not a pyra
 
 What is established is a right to be heard in the discussion, not power in the decision. The competences of states are not abolished.
 
-The support is the doctrine of the common heritage of mankind, already fixed for the seabed (Article 136 of the UN Convention on the Law of the Sea) and for the Moon (Article 11 of the 1979 Agreement): it admits an interest of humanity as a whole, but vests no one with power over those spheres.
+The support is the doctrine of the common heritage of mankind, already enshrined in law for the seabed (Article 136 of the UN Convention on the Law of the Sea) and for the Moon (Article 11 of the 1979 Agreement): it admits an interest of humanity as a whole, but vests no one with power over those spheres.
 
 ### If everyone joins, you will coincide with humanity - and humanity, by your own admission, has no legal voice. Success will dissolve your peoplehood.
 

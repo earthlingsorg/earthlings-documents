@@ -121,7 +121,7 @@ The ground must be named and substantiated in the proposal for recall itself. A 
 
 ## Compensation for time
 
-Entirely unpaid work in an expert body is available only to those who can afford not to earn during that time. This would contradict the universality of participation fixed by Article 8 of the Declaration: a seat on the Council would in fact be closed to a person without means, and no formal openness of nomination would remedy that.
+Entirely unpaid work in an expert body is available only to those who can afford not to earn during that time. This would contradict the universality of participation enshrined in Article 8 of the Declaration: a seat on the Council would in fact be closed to a person without means, and no formal openness of nomination would remedy that.
 
 Compensation for time is therefore permitted. But it is framed so as not to create dependence (Charter, Article 4):
 
