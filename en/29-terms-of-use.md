@@ -37,7 +37,7 @@ If something is unclear or unacceptable - write to us. Proposals to amend these 
 
 Earthlings is a self-determined transnational people existing as a matter of fact on the basis of the Earthlings Declaration. What unites us is shared values, not territory or descent.
 
-The people exists and develops with its own infrastructure, governance, and identity regardless of how international law comes to classify it in time: no body that recognizes peoples exists for anyone. Legal cognizability - being treated as a people where a specific question arises - accumulates through practice, time, and the number of participants. How this is arranged and what is said against us: [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
+The people exists and develops with its own infrastructure, governance, and identity regardless of how international law comes to classify it in time: no body that recognizes peoples exists for anyone. Legal visibility - being treated as a people where a specific question arises - accumulates through practice, time, and the number of participants. How this is arranged and what is said against us: [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
 
 > **Belonging to the people is additional, not a replacement.** It does not cancel your citizenship and does not require you to renounce it.
 

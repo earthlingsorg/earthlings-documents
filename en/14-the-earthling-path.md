@@ -64,7 +64,7 @@ This is important to know before paying, not after.
 - **it does not affect citizenship, taxes, or jurisdiction** - all of that stays as it was;
 - **it gives no income** and is not a financial investment.
 
-Inside the people the passport gives everything: an equal vote, participation in decisions, inalienable belonging. Beyond it, the people's legal cognizability is only accumulating - through practice, time, and the number of participants.
+Inside the people the passport gives everything: an equal vote, participation in decisions, inalienable belonging. Beyond it, the people's legal visibility is only accumulating - through practice, time, and the number of participants.
 
 ---
 

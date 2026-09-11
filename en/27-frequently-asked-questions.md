@@ -162,7 +162,7 @@ No. Supporting tools help with the initial screening of applications and with an
 
 There is nothing to wait for and no one to wait on: no body that recognizes peoples exists for anyone. There is no register of peoples, and no people - not the Kurds, not the Palestinians, not the Sami - has ever gone through a procedure confirming its existence.
 
-There is something else. Legal cognizability - when a people is treated as a people where a specific question arises: at venues, in consultations, in proceedings. It accumulates through practice, time, the number of participants, and legal work, and all four depend on us rather than on someone else's authority. Whether this is fast or slow, no one promises; the arguments against us are examined without softening.
+There is something else. Legal visibility - when a people is treated as a people where a specific question arises: at venues, in consultations, in proceedings. It accumulates through practice, time, the number of participants, and legal work, and all four depend on us rather than on someone else's authority. Whether this is fast or slow, no one promises; the arguments against us are examined without softening.
 
 → [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html)
 

@@ -469,7 +469,7 @@ One question put to the people, counted and published together with the full tra
 
 An academic paper, a report by a human rights organization, a piece of journalism cites the measurement - because no other source of that kind exists.
 
-*What is required:* that the measurement concern a question someone has a use for, and that the method stand up to professional scrutiny. *Depends on:* us, but only by half. No one can be made to cite it, but grounds for citing it can be given. *What it yields:* the number begins to circulate without us. This is the first real event of legal and public cognizability.
+*What is required:* that the measurement concern a question someone has a use for, and that the method stand up to professional scrutiny. *Depends on:* us, but only by half. No one can be made to cite it, but grounds for citing it can be given. *What it yields:* the number begins to circulate without us. This is the first real event of legal and public visibility.
 
 ### Rung 3. The opponent uses the same instrument
 
@@ -481,7 +481,7 @@ As long as only one side of a dispute uses the instrument, it remains that side'
 
 ### Rung 4. A request instead of a submission
 
-The difference between "we submitted materials" and "our position was requested" is cognizability in its purest form. A committee, a city, an agency or a commission asks the people to take a measurement on a question.
+The difference between "we submitted materials" and "our position was requested" is visibility in its purest form. A committee, a city, an agency or a commission asks the people to take a measurement on a question.
 
 *What is required:* several years of presence and a reputation for speaking to the point. *Depends on:* others. *What it yields:* the channel stops being pressure on the authorities and becomes a service to them. That position is sturdier than an oppositional one: no one abolishes a service; one gets used to it.
 

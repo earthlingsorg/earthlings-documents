@@ -525,7 +525,7 @@ An openly declared claim is therefore not rhetoric but what legally characterize
 
 No status in international law is confirmed for everyone at once by the decision of a single body: no court has ever certified any state. Statuses consolidate in a distributed fashion, through many small doors.
 
-Hence the term the people's documents use for what is sought. **Legal cognizability** means being treated as a people where a specific question arises: admission to a venue, a duty to consult, a classification in a particular case. It is neither granted by an act nor certified by a register, and it is therefore measured not by the date of a decision but by the number of doors that have opened.
+Hence the term the people's documents use for what is sought. **Legal visibility** means being treated as a people where a specific question arises: admission to a venue, a duty to consult, a classification in a particular case. It is neither granted by an act nor certified by a register, and it is therefore measured not by the date of a decision but by the number of doors that have opened.
 
 The path of Palestine is instructive: admission to UNESCO as a member state on 31 October 2011; non-member observer State status - General Assembly resolution 67/19 of 29 November 2012; being a party to the Rome Statute since 1 April 2015 and the decision of Pre-Trial Chamber I of the International Criminal Court of 5 February 2021 finding that Palestine qualifies as "[t]he State on the territory of which the conduct in question occurred" for the purposes of article 12(2)(a) of the Statute.
 

@@ -801,9 +801,9 @@ The Earthlings people does not interfere in the internal affairs of states and t
 
 ## Article 35. Legal Personality
 
-The Earthlings people works towards legal cognizability: towards being treated as a people wherever a specific question arises. No organ that recognizes peoples exists for anyone, so cognizability accumulates through practice, time and the number of participants, and is not issued by decision. Law has not yet posed the question of the acquisition of international legal personality by a community that has never held territory.
+The Earthlings people works towards legal visibility: towards being treated as a people wherever a specific question arises. No organ that recognizes peoples exists for anyone, so visibility accumulates through practice, time and the number of participants, and is not issued by decision. Law has not yet posed the question of the acquisition of international legal personality by a community that has never held territory.
 
-Until legal cognizability has accumulated, the people operates in its external dealings through legally registered structures - replaceable legal interfaces - in the relevant jurisdictions. The legal strategy is described in the document [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html).
+Until legal visibility has accumulated, the people operates in its external dealings through legally registered structures - replaceable legal interfaces - in the relevant jurisdictions. The legal strategy is described in the document [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html).
 
 ---
 
