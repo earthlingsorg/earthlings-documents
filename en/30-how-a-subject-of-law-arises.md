@@ -60,7 +60,7 @@ The two cases set out above outline the unoccupied area from two sides. Tuvalu s
 
 A gap in doctrine does not make the emergence of a people unlawful: the lawfulness of an act rests not on the existence of a special theory but on a norm in force - freedom of association, already binding on states today.
 
-The absence of a worked-out theory has never meant unlawfulness: otherwise the first instance of any legal form would be outside the law, and the continental shelf, claimed in 1945 despite the complete silence of the norms, would have been a wrong rather than a future norm. For private persons exercising a recognized freedom, the principle "what is not prohibited is permitted" applies.
+The absence of a worked-out theory has never meant unlawfulness: otherwise the first instance of any legal form would be outside the law, and the continental shelf, claimed in 1945 despite the complete silence of the norms, would have been a wrongful act rather than a future norm. For private persons exercising a recognized freedom, the principle "what is not prohibited is permitted" applies.
 
 > **And just as plainly - what the gap does not mean in the other direction.** Permissive silence concerns the **act**: people may associate and may declare what they consider themselves to be. It does not confer a status on the result. A gap is the law's unfinished work, not a ready answer in anyone's favour.
 

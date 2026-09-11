@@ -395,13 +395,13 @@ This is confirmed not only by the practice of states but also by a judicial deci
 
 > **Limit of the analogy, and a material one.** Both subjects possessed legal personality **before** losing territory: the question is one of retaining it, not of acquiring it. They prove that territory does not sustain legal personality; they do not prove that it can be acquired by an entity that never held territory.
 
-## A unilateral founding act is not a wrong: Kosovo (2010)
+## A unilateral founding act is not a wrongful act: Kosovo (2010)
 
 In its advisory opinion of 22 July 2010 the International Court of Justice held by ten votes to four that the declaration of independence of Kosovo of 17 February 2008 did not violate international law, since "general international law contains no applicable prohibition of declarations of independence". The Court deliberately expressed no view either on the statehood of Kosovo or on the right of self-determination outside the colonial context.
 
 Taiwan has functioned stably outside UN membership since 1971, when General Assembly resolution 2758 (XXVI) of 25 October 1971 removed the representatives of the former authorities from their seat in the Organization.
 
-> **Limit of the analogy.** Both entities are territorial. Kosovo proves something narrow but material: the international order is capable of accepting a unilateral founding act without treating it as a wrong. Taiwan proves that the order tolerates participants beyond the binary of "sovereign state or no status".
+> **Limit of the analogy.** Both entities are territorial. Kosovo proves something narrow but material: the international order is capable of accepting a unilateral founding act without treating it as a wrongful act. Taiwan proves that the order tolerates participants beyond the binary of "sovereign state or no status".
 
 ## The mechanism by which claims mature: the continental shelf and the EEZ
 
@@ -562,7 +562,7 @@ Legitimation has three levels: primary - signing the Declaration and confirming 
 
 The legal structures used by Earthlings do not carry on commercial activity, financial intermediation, payment services, banking or investment activity, custody of third-party funds, trade in cryptocurrency, or the issuance of means of payment or securities. These restrictions relate to the structures used for interaction with the outside world and do not concern the internal economy of the people; the full wording is given in the document "Legal Information".
 
-The Earthlings people is not an already recognized subject of international law. It regards itself as a sui generis collectivity in the process of formation, claiming functional legitimacy within the limits of its own voluntarily adopted aims and procedures.
+The Earthlings people is not an already recognized subject of international law. This document treats it as a sui generis collectivity in the process of formation that claims functional legitimacy within the limits of its own voluntarily adopted aims and procedures.
 
 ---
 
