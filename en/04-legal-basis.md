@@ -18,11 +18,11 @@ Where this document and the Declaration diverge, the Declaration prevails.
 
 The four propositions come first so that the reader can see from the outset what exactly is being asserted and what is not.
 
-**First.** The norms we rely on are in force today and binding on states: freedom of association (Article 20 of the Universal Declaration of Human Rights, Article 22 of the International Covenant on Civil and Political Rights, Article 11 of the European Convention) and the right of peoples to self-determination (Article 1(2) of the UN Charter, common Article 1 of the 1966 Covenants). None of them has been invented or proposed "for the future".
+**First.** The norms we rely on are in force today: freedom of association (Article 20 of the Universal Declaration of Human Rights, Article 22 of the International Covenant on Civil and Political Rights, Article 11 of the European Convention) and the right of peoples to self-determination (Article 1(2) of the UN Charter, common Article 1 of the 1966 Covenants). The treaties in which they are established are binding on the states parties to them. None of these norms has been invented or proposed "for the future".
 
-**Second.** **No binding norm contains a requirement of territory as a condition of a people's existence.** Not the UN Charter, not common Article 1 of the Covenants, not a single convention. What is more, no definition of a people exists at all, and this has been stated officially by the United Nations itself.
+**Second.** **No binding norm contains a requirement of territory as a condition of a people's existence.** Not the UN Charter, not common Article 1 of the Covenants, not a single convention. What is more, no definition of a people exists at all, and this has been stated in an official document of the United Nations.
 
-**Third.** **The whole body of practice rejecting the claims of groups concerns secession** - the Aaland Islands, Badinter, Katanga, Cameroon. The Earthlings people seeks no secession, changes no borders, and claims no territory. The precedents strike at a claim we do not make and are silent on the one we do.
+**Third.** **The whole body of practice rejecting the claims of groups on the merits concerns secession** - the Aaland Islands, Badinter, Katanga, Cameroon. The Earthlings people seeks no secession, changes no borders, and claims no territory. The precedents strike at a claim we do not make and are silent on the one we do.
 
 **Fourth.** It does not follow from this that the question is settled in our favour. It follows that it is **not settled**: international law has not determined how existing norms apply to a voluntarily founded non-territorial people. Such questions have always been resolved the same way - by the accumulation of verifiable practice. We therefore propose that what should be assessed is not the force of a self-designation but the practice - and we submit that practice for examination.
 
@@ -48,7 +48,7 @@ There is no durable horizontal level - no legally constituted bond that joins pe
 
 **The legal gap is this: a person's de facto belonging to one planet and their exposure to shared risks are not matched by any comparable legal mechanism for expressing will collectively at the transnational level.**
 
-This is clearest where decisions have planetary consequences and those affected have no voice: biological risks and pandemics, where transnational civic coordination is weak; artificial intelligence, where decisions are taken by a small circle of states and corporations; climate and future generations, with no procedural representation at all.
+This is clearest where decisions have planetary consequences and those affected have no voice: biological risks and pandemics, where transnational civic coordination is weak; artificial intelligence, where decisions are taken by a small circle of states and corporations; climate and future generations, with no procedural representation at the international level.
 
 The existing subjects of international law remain necessary, but are not always sufficient to represent the long-term and transnational interests of people as a common planetary community.
 
@@ -64,7 +64,7 @@ Disputes about legal personality constantly confuse three different questions, a
 
 **Whether the community exists** - a question of fact. Either a community of people has formed or it has not, and no one's consent is required here.
 
-**Whether its emergence and activity are lawful** - a question of the norms in force, and it is settled by freedom of association.
+**Whether its emergence is lawful** - a question of the norms in force, and it is settled by freedom of association.
 
 **Whether it possesses international legal personality** - a recognized capacity to bear rights and obligations in its own name at the international level. It is built up only through the acts of states and international bodies.
 
@@ -115,17 +115,17 @@ This is one of the few provisions recognized as an obligation owed to all: its e
 
 **None of these texts defines what a people is. Nor does any other treaty.**
 
-This is not the observation of an interested party but a statement by the Organization itself. A study prepared at the request of the UN Sub-Commission and published as an official document (E/CN.4/Sub.2/404/Rev.1, 1981) puts the position as follows:
+This is not the observation of an interested party. A study prepared at the request of the UN Sub-Commission and published as an official document (E/CN.4/Sub.2/404/Rev.1, 1981) puts the position as follows:
 
-> "[T]here is no accepted definition of the word 'people' and no way of defining it with certainty. The Charter is of little help on this point because it gives no details or explanations of the concept of 'peoples'. There is no text or recognized definition from which to determine what is a 'people' possessing the right in question" (paragraph 269).
+> "[A]part from the explanation given for this term in the memorandum prepared by the secretariat of the San Francisco Conference, it will be found that there is no accepted definition of the word 'people' and no way of defining it with certainty. The Charter is of little help on this point because it gives no details or explanations of the concept of 'peoples'. There is no text or recognized definition from which to determine what is a 'people' possessing the right in question" (paragraph 269).
 
-And on why no definition emerged: "[B]ecause no definition has been formulated, the United Nations has proceeded with caution in cases of political self-determination... It would therefore be premature and even presumptuous to try to lay down here and now a definition which could be used in all parts of the world and which would cover all situations" (paragraph 279).
+And on why no definition emerged: "[B]ecause no definition has been formulated, the United Nations has proceeded with caution in cases of political self-determination, although it has acted firmly in the matter of the elimination of colonialism... It would therefore be premature and even presumptuous to try to lay down here and now a definition which could be used in all parts of the world and which would cover all situations" (paragraph 279). The same paragraph continues that the elements of a definition which have emerged from discussions on this subject in the United Nations "cannot and should not be ignored", and the second of them is that a people "implies a relationship with a territory, even if the people in question has been wrongfully expelled from it and artificially replaced by another population".
 
 ## Three things the law has not established
 
 The absence of a definition is not the category's only gap.
 
-**Composition.** No treaty determines who belongs to a people or how that is to be established. There is no register of peoples. There is no body that recognizes peoples. There is no registration procedure, and no people in history has ever gone through one. Not a single person on Earth can produce a document certifying their belonging to a people - no French, Japanese, Kurdish or Sami person can.
+**Composition.** No treaty determines who belongs to a people or how that is to be established. There is no register of peoples. There is no body that recognizes peoples. There is no registration procedure, and no people in history has ever gone through one. Few have a document of belonging to a people, and it is issued within a framework established by a state (Section 04); a French, Japanese or Kurdish person has no such document.
 
 **A procedure for expressing will.** Nowhere is it stated by what act the will of people becomes the will of a people. There is no set procedure, no threshold, and no way to verify the result. The referendums of the decolonization period were organized by states and international bodies, that is, by bodies external to the people itself.
 
@@ -133,11 +133,11 @@ The absence of a definition is not the category's only gap.
 
 It was not through negligence that the indeterminacy persisted. Defining a people meant giving a right to groups inside existing states, and the traces of that decision are recorded in the documents themselves: the Declaration on the Granting of Independence to Colonial Countries and Peoples (resolution 1514 (XV) of 14 December 1960), after proclaiming the right of peoples to self-determination in paragraph 2, immediately stipulated in paragraph 6 that "any attempt aimed at the partial or total disruption of the national unity and the territorial integrity of a country is incompatible with the purposes and principles of the Charter of the United Nations". The right was made broad in wording and narrow in application.
 
-**The practical consequence of these gaps is this.** The right of peoples to self-determination is exercisable by those peoples that already have a state of their own: the state knows the composition of its citizens, has a voting procedure, and is admitted to every international body - it supplies all three missing elements on its own. A people without a state can neither establish its composition, nor express a will, nor take that will anywhere. Those who have the right de facto hardly need it; those who need it have no access to it.
+**The practical consequence of these gaps is this.** Those peoples that already have a state of their own can exercise the right of peoples to self-determination by their own means: the state knows the composition of its citizens, has a voting procedure, and is admitted to international bodies - it supplies all three missing elements on its own. A people without a state cannot by itself establish its composition, express a will, or take that will to a place where it must be reckoned with as the will of a people. Those who have the right de facto hardly need it; those who need it cannot exercise it by their own means.
 
 ## Territory: where it is actually anchored
 
-Good faith requires that we ourselves point out where in the binding texts territory is tied to a people.
+Good faith requires that we ourselves point out where in General Assembly resolutions territory is tied to a people.
 
 **General Assembly resolution 1541 (XV) of 15 December 1960** establishes in Principle IV that the obligation to transmit information exists prima facie in respect of a territory "which is geographically separate and is distinct ethnically and/or culturally from the country administering it".
 
@@ -145,7 +145,7 @@ Good faith requires that we ourselves point out where in the binding texts terri
 
 Here is what follows from this, and what does not.
 
-**Neither resolution contains a definition of a people.** Resolution 1541 classifies a territory, not a group: its subject is the question of when an administering state is obliged to report. Resolution 2625 describes the conditions under which the territorial integrity of a state is protected. Neither answers the question "who is a people" and neither was asked that question. Both concern decolonization: their drafters were never confronted with the class of situations in which a community arises by the voluntary decision of people and claims no territory.
+**Neither resolution contains a definition of a people.** Resolution 1541 classifies a territory, not a group: its subject is the question of when an administering state is obliged to report. Resolution 2625 describes the conditions under which the territorial integrity of a state is protected. Neither answers the question "who is a people" and neither was asked that question. Resolution 1541 concerns decolonization, while resolution 2625 sets out principles of international law addressed to all states; the drafters of neither were confronted with the class of situations in which a community arises by the voluntary decision of people and claims no territory.
 
 **But a textual link does exist**, and it would be inaccurate to assert that territory figures in this question only in the opinions of specialists.
 
@@ -157,21 +157,21 @@ There are written norms in force in which self-identification is expressly made 
 
 **ILO Convention No. 169** (adopted 27 June 1989, in force 5 September 1991), Article 1(2): "Self-identification as indigenous or tribal shall be regarded as a fundamental criterion for determining the groups to which the provisions of this Convention apply."
 
-**The UN Declaration on the Rights of Indigenous Peoples** (resolution 61/295 of 13 September 2007), Article 33(1): peoples have the right "to determine their own identity or membership in accordance with their customs and traditions".
+**The UN Declaration on the Rights of Indigenous Peoples** (resolution 61/295 of 13 September 2007), Article 33(1): indigenous peoples have the right "to determine their own identity or membership in accordance with their customs and traditions".
 
 > **The limits of these norms, and they are narrow.** Article 1(3) of that same Convention No. 169 provides: "The use of the term peoples in this Convention shall not be construed as having any implications as regards the rights which may attach to the term under international law." The Convention itself declines to carry its own usage over into general international law, and we make the same refusal ourselves rather than work around it.
 >
 > Both norms operate within an already defined category and create no categories: Convention No. 169 itself marks out the circle of peoples to which it applies, and Article 33 speaks of a people's right to determine its own membership, not of a people coming into being. To use them as proof that self-identification **founds** a people would be to substitute one claim for another. They confirm only something more modest: there are statuses known to the law in which will ranks above descent in determining who belongs to them.
 >
-> The authentic English text of Article 33(1) speaks of "identity or membership"; the official Russian translation renders this as "to determine themselves or their ethnic belonging", and the word "membership" disappears from it. We rely on the authentic text and note the divergence.
+> The English text of Article 33(1) speaks of "identity or membership"; the Russian text of the same resolution, equally official, renders this as "to determine themselves or their ethnic belonging", and the word "membership" disappears from it. We rely on the English text and note the divergence.
 
 ## How peoplehood is established in practice
 
 The question "is this group a people" is not an abstract question with no one to resolve it. It is resolved by bodies applying the law when a group brings a specific claim - and it is resolved on the basis of criteria.
 
-**The African Commission on Human and Peoples' Rights** in the Endorois case (communication 276/2003, decision of 2010): "The African Commission is satisfied that the Endorois are a 'people', a status that entitles them to benefit from provisions of the African Charter that protect collective rights" (paragraph 162). The criteria applied (paragraph 150): occupation and use of a specific territory; the voluntary perpetuation of cultural distinctiveness; self-identification as a distinct collectivity and recognition by other groups; an experience of subjugation, marginalization, exclusion, or discrimination.
+**The African Commission on Human and Peoples' Rights** in the Endorois case (communication 276/2003, decision adopted in November 2009): "The African Commission is satisfied that the Endorois are a 'people', a status that entitles them to benefit from provisions of the African Charter that protect collective rights" (paragraph 162). The Commission relied on the criteria for identifying indigenous peoples set out by the Commission's Working Group of Experts (paragraph 150): occupation and use of a specific territory; the voluntary perpetuation of cultural distinctiveness; self-identification as a distinct collectivity and recognition by other groups; an experience of subjugation, marginalization, dispossession, exclusion, or discrimination. It lists the features of a people separately (paragraph 151).
 
-**The African Court on Human and Peoples' Rights** in the Ogiek case (application 006/2012, judgment of 26 May 2017) proceeded differently, and the difference should be stated precisely: the Court recognized the Ogiek as an **indigenous population** (paragraph 112) rather than declaring them a people in the same declaratory form, and only then applied Articles 21 and 22 of the African Charter to them, noting that peoples' rights may be recognized "specifically for the ethnic groups and communities that constitute the population of a State" (paragraph 199).
+**The African Court on Human and Peoples' Rights** in the Ogiek case (application 006/2012, judgment of 26 May 2017) proceeded differently, and the difference should be stated precisely: the Court recognized the Ogiek as an **indigenous population** (paragraph 112) rather than declaring them a people in the same declaratory form, and only then applied Articles 21 and 22 of the African Charter to them, noting that peoples' rights may be recognized "where necessary, specifically for the ethnic groups and communities that constitute the population of a State" (paragraph 199), provided that they do not call into question the sovereignty and territorial integrity of the State without its consent, and with the exception of the right to self-determination and independence under Article 20(1), which is not automatically recognized for them.
 
 > **The exact reach of this practice.** Both communities are territorial and indigenous, and territory comes first in the list of criteria; the category "peoples" there belongs to a regional treaty, and the Court's formula expressly presupposes that the group is inside a state. What the precedent proves is not the outcome of our case but the existence of the practice itself: **peoplehood is established by whichever body applies the law, on the basis of criteria, when a specific question arises, and there is no prior registration of any people.**
 
@@ -215,7 +215,7 @@ Documents of belonging to a people do exist, and how they are kept should be des
 
 **United States.** Federally recognized tribes determine the composition of their own membership and issue membership cards. A tribe's right to set membership criteria was confirmed by the US Supreme Court in *Santa Clara Pueblo v. Martinez*, 436 U.S. 49 (1978). Photo identification issued by federally recognized tribes, including the Enhanced Tribal Card, is accepted by the US Transportation Security Administration as proof of identity.
 
-**Northern Europe.** Sami electoral rolls are kept by Sami parliaments established by national statutes: Norway - the Sami Act of 12 June 1987, Sweden - the Sametingslag (SFS 1992:1433), Finland - the Act on the Sami Parliament (974/1995). The ground of entry combines a subjective and an objective criterion: under section 3 of the Finnish Act, a person is entered on the roll if they consider themselves Sami and also meet one of the objective conditions - that Sami is the first language of that person, of a parent, or of a grandparent, or that they are descended from a person listed in the historical rolls.
+**Northern Europe.** Sami electoral rolls are kept by Sami parliaments established by national statutes: Norway - the Sami Act of 12 June 1987, Sweden - the Sametingslag (SFS 1992:1433), Finland - the Act on the Sami Parliament (974/1995). The ground of entry combines a subjective and an objective criterion: under section 3 of the Finnish Act (as amended by Act 414/2025, in force since 1 August 2025), a person has the right to be entered on the roll if they consider themselves Sami and also meet one of the objective conditions: that Sami was the first language of that person or of one of their parents, grandparents, or great-grandparents; or that one of their parents has been entered on the roll for elections to the Sami Parliament held on or after 1 January 2027.
 
 **New Zealand.** The Maori roll is kept not by the people but by the state - by the Electoral Commission under the Electoral Act 1993. The condition is descent (section 3), but the choice between the general roll and the Maori roll rests with the person, and descent is declared without proof.
 
@@ -229,23 +229,23 @@ The assertion "for the first time in history a document of belonging to a people
 | Who can verify | The body keeping the roll | Anyone |
 | Can it be taken away | Yes, by decision of a body | In law, no; the grounds and procedure are exhaustively defined |
 
-We qualify the last row ourselves: the legal grounds for burning a passport against the holder's will are limited to a single case - annulment of an invalid issuance, with notice, a period for objection, and appeal - but in the deployed version of the contract the technical ability to burn a passport remains with the holder of the owner keys. For now, the restriction in Article 21 of the Earthlings Charter operates procedurally, not technically. Separating the rights of issuance and burning has been added to the roadmap.
+We qualify the last row ourselves: the legal grounds for burning a passport against the holder's will come down to one - annulment of an invalid issuance in the cases exhaustively listed in Article 8 of the Declaration, with notice, a period for objection, and appeal - but in the deployed version of the contract the technical ability to burn a passport remains with the holder of the owner keys. For now, the restriction in Article 21 of the Earthlings Charter operates procedurally, not technically. Separating the rights of issuance and burning has been added to the roadmap.
 
-Stated precisely: documents of belonging to a people exist, but all of them certify a belonging derived from descent and recognized by a state. For the first time, belonging is certified by a document issued by the people itself, tied neither to territory nor to descent, arising from the decision of the person themselves, and verifiable by anyone.
+Stated precisely: documents of belonging to a people exist, but all of them certify a belonging derived from descent and recognized by a state. For the first time, belonging will be certified by a document issued by the people itself, tied neither to territory nor to descent, arising from the decision of the person themselves, and verifiable by anyone.
 
 The assertion "issued by the people" does not rest on words alone: Article 9 of the Declaration establishes that the registry of earthlings and the confirmation of their identity "are not the property of any legal entity and cannot be transferred, sold, pledged or otherwise disposed of", and that legal entities "do not embody the people". Without that norm, the assertion would amount to saying that the document was issued by a commercial company.
 
-The earthling passport does not replace state documents, and confers no citizenship, visas, right of entry, or consular protection. It certifies belonging to a people - which state documents do not certify at all.
+The earthling passport does not replace state documents, and confers no citizenship, visas, right of entry, or consular protection. It certifies belonging to a people, a belonging that arose from the decision of the person themselves - which state documents do not certify at all.
 
 ## No decision on admission, and a free exit
 
-No association does without a decision on admission: states naturalize at their discretion, associations decide by resolution of a board, and even for indigenous rolls the decision is taken by a committee.
+No association does without a decision on admission: states naturalize at their discretion, associations decide by resolution of a board, and even in the rolls kept by indigenous peoples themselves the decision is taken by their own body.
 
 In the Earthlings people, there is no such thing as a decision on admission. There are four conditions, and they are self-executing: they are checked by a procedure against facts, not by a body at its discretion. Together with the prohibition of expulsion this yields a position found nowhere else: **the people has no power over belonging either at entry or at exit; only the person themselves has control over it.**
 
-The objection here is obvious: the recognized formula holds that a people determines its own membership, whereas here anyone who wishes determines it unilaterally. The answer: the people settled this question once and for all by establishing a rule - belonging attaches to everyone who meets the four conditions and has decided to belong. Collective self-determination is exercised at the level of the rule rather than of individual cases; deciding each case on a discretionary basis is neither the only way nor the safer one, since where there is discretion there is also arbitrariness.
+The objection here is obvious: the recognized formula holds that a people determines its own membership, whereas here anyone who wishes determines it unilaterally. The answer: the question is settled once, at the level of a rule set out in the Declaration - belonging attaches to everyone who meets the four conditions and has decided to belong; with the adoption of the Declaration this rule will become a decision of the people. Collective self-determination is exercised at the level of the rule rather than of individual cases; deciding each case on a discretionary basis is neither the only way nor the safer one, since where there is discretion there is also arbitrariness.
 
-We ourselves point out three qualifications. The annulment of an issuance obtained unlawfully ends belonging against the person's will - this is not a measure of liability but a finding that belonging never lawfully arose. Identity verification may fail; a refusal is not final, and there is no limit on the number of attempts. And verification rests on an identity document: **a person without citizenship and without documents cannot enter today** - this restriction contradicts the logic of the rest of the scheme and is among the open questions.
+We ourselves point out three qualifications. The annulment of a passport issuance obtained unlawfully takes place irrespective of the person's will but does not end belonging - this is not a measure of liability but a finding that the issuance never lawfully took place. Identity verification may fail; a refusal is not final, and there is no limit on the number of attempts. And verification rests on an identity document: **a person without citizenship and without documents cannot enter today** - this restriction contradicts the logic of the rest of the scheme and is among the open questions.
 
 Here freedom of exit contrasts sharply with citizenship. The right to change one's nationality is recognized (Article 15(2) of the Universal Declaration), the freedom to leave any country is protected by Article 12(2) of the Covenant on Civil and Political Rights, but exit is conditional: Article 7(1)(a) of the 1961 Convention on the Reduction of Statelessness provides that renunciation "shall not result in loss of nationality unless the person concerned possesses or acquires another nationality", and Article 8(1) prohibits deprivation of nationality that would render a person stateless. Hence the position: **citizenship is the only legal bond of an adult from which one cannot withdraw unilaterally.** This is not a prohibition on leaving but the absence of anywhere to go: the planet is divided up with nothing left over, and no status of being "outside" is provided for.
 
@@ -277,7 +277,7 @@ The law provides a form for every scale of association: marriage, partnership, c
 
 Humanity is present in the law only as an object: the common heritage of mankind, crimes against humanity, a common concern with respect to climate, the interests of future generations. It is the one for whose sake, against whom, and about whom things are done - and never the one who acts.
 
-Negligence is not the only reason. Humanity cannot be given a voluntary legal form: no one has joined it, it is involuntary by definition, and anyone who declares themselves humanity begins to speak for those who did not choose them. The Earthlings people is not a form of humanity and will not become one however large it grows: it is a form open to anyone and compulsory for no one, and it speaks only on behalf of those who have entered.
+Negligence is not the only reason. Humanity cannot be given a voluntary legal form: no one has joined it, it is involuntary by definition, and anyone who declares themselves humanity begins to speak for those who did not choose them. The Earthlings people is not a form of humanity and will not become one however large it grows: it is a form that, under the Declaration, is open to anyone and compulsory for no one, and it speaks only on behalf of those who have entered.
 
 ---
 
@@ -311,7 +311,7 @@ Our position is different: the law does not found peoples and keeps no register 
 
 **Second. Where territory appears in the texts, it answers a different question** - resolution 1541 (XV) classifies a territory, not a group; the safeguard clause of resolution 2625 (XXV) describes the conditions for protecting territorial integrity. Neither defines a people.
 
-**Third, and decisive for practice. The entire line of decisions rejecting the claims of groups concerns secession.** The reports of the Commission of Jurists and the Commission of Rapporteurs of the League of Nations on the Aaland Islands (1920-1921) establish that positive international law does not recognize a right of national groups to separate from the state of which they form part. The Arbitration Commission of the Conference on Yugoslavia in Opinion No. 2 (11 January 1992) held that the Serbian population in Croatia and Bosnia possesses the rights of a minority but not a right of self-determination entailing a change of borders. The African Commission on Human and Peoples' Rights in *Katangese Peoples' Congress v. Zaire* (1995) and *Kevin Mgwanga Gunme et al. v. Cameroon* (2009) concluded that self-determination is exercised in forms compatible with sovereignty and territorial integrity.
+**Third, and decisive for practice. The entire line of decisions rejecting the claims of groups on the merits concerns secession.** The reports of the Commission of Jurists and the Commission of Rapporteurs of the League of Nations on the Aaland Islands (1920-1921) establish that positive international law does not recognize a right of national groups to separate from the state of which they form part. The Arbitration Commission of the Conference on Yugoslavia in Opinion No. 2 (11 January 1992) held that the Serbian population in Croatia and Bosnia possesses the rights of a minority but not a right of self-determination entailing a change of borders. The African Commission on Human and Peoples' Rights in *Katangese Peoples' Congress v. Zaire* (1995) and *Kevin Mgwanga Gunme et al. v. Cameroon* (2009) concluded that self-determination is exercised in forms compatible with sovereignty and territorial integrity.
 
 This line of decisions is consistent, and we cite it ourselves. But it establishes exactly what it says: **a right of secession has been rejected.** Not one of these decisions considered the voluntary founding of a non-territorial community claiming neither territory nor any change of borders. No such case has been brought. The precedents strike at a claim we do not make and are silent on the one we do.
 
@@ -321,13 +321,13 @@ In 2025 the UN International Law Commission approved the final report of the Stu
 
 > **The exact reach of this argument, and a narrow one.** It concerns **continuity**, not emergence. The presumption of continuity operates because the subject already exists: it was recognized, held territory, and lost it. A community that never held territory has nothing to preserve. This shows that territory is not what keeps a status in existence; it does not show that a status can be acquired without it.
 
-**Conclusion on the second objection.** Binding norms contain no requirement of territory; none follows from a definition, since no definition exists; and practice has not established one, since the whole of the adverse practice concerns secession. The question remains open - but open, not decided against us.
+**Conclusion on the second objection.** Binding norms contain no requirement of territory; none follows from a definition, since no definition exists; and practice has not established one, since the whole of the practice rejecting claims on the merits concerns secession. The question remains open - but open, not decided against us.
 
 ## Objection three: there is no forum
 
 **Proposition.** Even if the question of peoplehood could be raised, there is nowhere to raise it. Practice accumulates in a procedural void.
 
-**Answer: the objection is correct and is accepted in full.** The Human Rights Committee stated in *Chief Bernard Ominayak and the Lubicon Lake Band v. Canada* (communication No. 167/1984, views of 26 March 1990, UN Doc. CCPR/C/38/D/167/1984, paragraph 32.1):
+**Answer: as regards the question of peoplehood as such, the objection is correct and is accepted in full.** The Human Rights Committee stated in *Chief Bernard Ominayak and the Lubicon Lake Band v. Canada* (communication No. 167/1984, views of 26 March 1990, UN Doc. CCPR/C/38/D/167/1984, paragraph 32.1):
 
 > "While all peoples have the right of self-determination and the right freely to determine their political status... as stipulated in article 1 of the Covenant, **the question whether the Lubicon Lake Band constitutes a 'people' is not an issue for the Committee to address under the Optional Protocol to the Covenant**. The Optional Protocol provides a procedure under which individuals can claim that their individual rights have been violated."
 
@@ -351,7 +351,7 @@ Hence the conclusion: a status consolidates in a distributed fashion, or it does
 
 **We regard this objection as unrefuted; it is the most serious of those raised against us.** We can answer it only with two observations, neither of which disposes of it.
 
-First, we are not the only ones for whom the mechanism of conversion was missing. Indigenous peoples before the 1960s had neither a voice nor a body, nor was anyone under any obligation to reckon with them - and yet organized practice led to written norms: the duty to consult (ILO Convention No. 169, Article 6), the right to participate in decision-making and the principle of free, prior and informed consent (UN Declaration on the Rights of Indigenous Peoples, Articles 18-19), and judicial enforcement of these duties (Inter-American Court of Human Rights, *Saramaka People v. Suriname*, 2007). The mechanism did not precede the practice; it arose out of it.
+First, we are not the only ones for whom the mechanism of conversion was missing. Indigenous peoples before the 1960s had neither a voice nor a body, and ILO Convention No. 107 (1957) required governments only to seek their collaboration - and yet organized practice led to written norms: the duty to consult (ILO Convention No. 169, Article 6), the right to participate in decision-making and the principle of free, prior and informed consent (UN Declaration on the Rights of Indigenous Peoples, Articles 18-19), and judicial enforcement of these duties (Inter-American Court of Human Rights, *Saramaka People v. Suriname*, 2007). The mechanism did not precede the practice; it arose out of it.
 
 Second, the problem for states may yet arise. Questions in which the interest at stake has no bearer today - climate displacement, the populations of disappearing states, stateless persons, future generations - are becoming more acute, and the absence of a party able to speak for those affected is becoming a problem for states as well.
 
@@ -361,7 +361,7 @@ We record the objection as standing.
 
 # SECTION 06. Practice: what international law already holds
 
-This section contains no opinions, only decisions of bodies applying the law, treaties, and established facts - including one fact that works against us, which is given first.
+This section contains no doctrinal opinions, only decisions of bodies applying the law, treaties, and established facts - including one fact that works against us, which is given first.
 
 ## A direct attempt and its outcome: the Declaration of the Roma Nation (2000)
 
@@ -383,7 +383,7 @@ Let us weigh this honestly: we cannot say that "one of the reasons has fallen aw
 
 In its advisory opinion of 11 April 1949 the International Court of Justice held that international legal personality is not confined to states: the UN was recognized as a subject of international law capable of bringing claims without being a state. The same opinion stated a more general principle: **"The subjects of law in any legal system are not necessarily identical in their nature or in the extent of their rights, and their nature depends upon the needs of the community."**
 
-The range of subjects has widened within living memory: first international organizations, then the human being, who since Nuremberg bears international responsibility and holds internationally protected rights. Each time the widening followed function and need, not territory.
+The range of subjects has widened within living memory: international organizations and the human being, who since Nuremberg bears international responsibility and holds internationally protected rights. Each time the widening followed function and need, not territory.
 
 > **Limit of the analogy.** The Court derived the legal personality of the UN from the will of the states that created it. Earthlings is being founded by the will of individuals and rests not on delegation by states but on freedom of association and the accumulation of trust from outside.
 
@@ -393,7 +393,7 @@ The Sovereign Military Order of Malta has held no territory since 1798, yet main
 
 This is confirmed not only by the practice of states but also by a judicial decision: in *Nanni and Others v. Pace and the Sovereign Order of Malta* the Court of Cassation of Italy (Annual Digest, 1935-1937, case No. 2) held that the Order, as an international entity, possesses its own legal personality and needs no state authorization for its acts.
 
-> **Limit of the analogy, and a material one.** Both subjects possessed legal personality **before** losing territory: the question is one of retaining it, not of acquiring it. They prove that territory neither constitutes nor sustains legal personality; they do not prove that it can be acquired by an entity that never held territory.
+> **Limit of the analogy, and a material one.** Both subjects possessed legal personality **before** losing territory: the question is one of retaining it, not of acquiring it. They prove that territory does not sustain legal personality; they do not prove that it can be acquired by an entity that never held territory.
 
 ## A unilateral founding act is not a wrong: Kosovo (2010)
 
@@ -417,7 +417,7 @@ The pattern "claim - practice - legal recognition" is a documented way in which 
 
 ## Subjecthood that grew out of a private initiative: the ICRC
 
-In 1863 five private citizens of Geneva founded a committee for relief to the wounded: not a state, not an order with a sovereign past, not the creature of a treaty, but a private act of self-organization. Within a year, on their initiative, a diplomatic conference was convened and the first Geneva Convention (1864) was adopted, embedding the committee in international law.
+In 1863 five private citizens of Geneva founded a committee for relief to the wounded: not a state, not an order with a sovereign past, not the creature of a treaty, but a private act of self-organization. A year and a half later, on their initiative, a diplomatic conference was convened and the first Geneva Convention (1864) was adopted; the committee itself was named in a treaty text only later, in the Geneva Convention of 1929.
 
 Today the ICRC is a bearer of functional international legal personality: treaty mandates, headquarters agreements with dozens of states, observer status at the UN General Assembly (resolution 45/6 of 16 October 1990) - and yet in form it remains a private association under Swiss civil law. The sequence of events is crucial: the consent of states did not precede its emergence; that consent formalized a useful practice that had already taken shape.
 
@@ -431,7 +431,7 @@ The European Court of Human Rights in *Sidiropoulos and Others v. Greece* (1998)
 
 ## Other confirmed forms
 
-**The common heritage of mankind** is established for areas beyond national jurisdiction: "The Area and its resources are the common heritage of mankind" (Article 136 of the 1982 UN Convention on the Law of the Sea); Article 11 of the 1979 Moon Agreement declares the same of the Moon and its resources. These regimes allow for an interest of humanity as a whole, but create no bearer able to assert it.
+**The common heritage of mankind** is established for areas beyond national jurisdiction: "The Area and its resources are the common heritage of mankind" (Article 136 of the 1982 UN Convention on the Law of the Sea); Article 11 of the 1979 Moon Agreement declares the same of the Moon and its resources. These regimes allow for an interest of humanity as a whole, but create no bearer made up of human beings themselves: in the Area, the Authority, whose members are the States Parties to the Convention, acts on behalf of mankind (Articles 137(2) and 156).
 
 **Supranational additional belonging** is established by a norm: under Article 20(1) of the Treaty on the Functioning of the European Union, citizenship of the Union "shall be additional to and not replace national citizenship".
 
@@ -455,7 +455,7 @@ The European Court of Human Rights in *Sidiropoulos and Others v. Greece* (1998)
 
 ## Internal and external self-determination
 
-Common Article 1 establishes two dimensions: peoples "freely determine their political status" - the external dimension, a change of borders or of the status of a territory - and "freely pursue their economic, social and cultural development" - the internal dimension. What separates them is not the place of exercise but the consequence: the external one changes the configuration of states; the internal one changes nothing in any state.
+Under common Article 1, peoples "freely determine their political status and freely pursue their economic, social and cultural development"; in the exercise of this right two dimensions are distinguished - the external, a change of borders or of the status of a territory, and the internal. What separates them is not the place of exercise but the consequence: the external one changes the configuration of states; the internal one does not change it.
 
 The Supreme Court of Canada in the Quebec secession reference (*Reference re Secession of Quebec*, [1998] 2 S.C.R. 217) established the primacy of internal self-determination: as a general rule the right is exercised without encroaching on territorial integrity, and the external form is an exception for extreme cases. It is this distinction, and only this, that we take from the decision.
 
@@ -523,15 +523,15 @@ An openly declared claim is therefore not rhetoric but what legally characterize
 
 ## Distributed finding instead of a single examination
 
-No status in international law is confirmed by the decision of a single body: no court has ever certified any state. Statuses consolidate in a distributed fashion, through many small doors.
+No status in international law is confirmed for everyone at once by the decision of a single body: no court has ever certified any state. Statuses consolidate in a distributed fashion, through many small doors.
 
 Hence the term the people's documents use for what is sought. **Legal cognizability** means being treated as a people where a specific question arises: admission to a venue, a duty to consult, a classification in a particular case. It is neither granted by an act nor certified by a register, and it is therefore measured not by the date of a decision but by the number of doors that have opened.
 
-The path of Palestine is instructive: admission to UNESCO as a member state on 31 October 2011; non-member observer State status - General Assembly resolution 67/19 of 29 November 2012; treatment as a state party for the purposes of the Rome Statute - decision of Pre-Trial Chamber I of the International Criminal Court of 5 February 2021.
+The path of Palestine is instructive: admission to UNESCO as a member state on 31 October 2011; non-member observer State status - General Assembly resolution 67/19 of 29 November 2012; being a party to the Rome Statute since 1 April 2015 and the decision of Pre-Trial Chamber I of the International Criminal Court of 5 February 2021 finding that Palestine qualifies as "[t]he State on the territory of which the conduct in question occurred" for the purposes of article 12(2)(a) of the Statute.
 
 The first doors exist even for an initiative of this kind: written submissions to the universal periodic review and to the UN special procedures are open to any civil society actor; consultative status with ECOSOC is attainable through a legal entity acting as its bearer, as the Saami Council participates while listed on the Roster, even though no one considers the Sami people a non-governmental organization; then come multilateral venues and observer statuses.
 
-That the end point is attainable is strongly confirmed: the duty of states to consult peoples that have no state went, within the memory of a single generation, from non-existence to a written norm (ILO Convention No. 169, Article 6; UN Declaration on the Rights of Indigenous Peoples, Articles 18-19; *Saramaka People v. Suriname*, 2007).
+That the end point is attainable is strongly confirmed: the duty of states to consult indigenous peoples went, within the memory of a single generation, from a mere requirement to seek their collaboration (ILO Convention No. 107, 1957, Article 5) to a written norm (ILO Convention No. 169, Article 6; UN Declaration on the Rights of Indigenous Peoples, Articles 18-19; *Saramaka People v. Suriname*, 2007).
 
 ## The public chronicle and the conditions of legitimation
 
@@ -576,7 +576,7 @@ What follows is not an attempt to prove that every formulation of the Declaratio
 | Voluntariness and the right of exit | The right to take part in an association presupposes the right to end that participation without penalty imposed by the community itself | Art. 20 UDHR; art. 22 ICCPR |
 | Technology strengthens rather than replaces the human being | Technological infrastructure is permissible only as an instrument for protecting rights, accountability, and fair procedure | UNESCO Recommendation on the Ethics of Artificial Intelligence, 23 November 2021 |
 | One person, one vote | The equality of participants is a standard adopted independently, resting on the general principle of equality; there is no external norm prescribing it for associations, and we do not invent one | Art. 26 ICCPR; the founding act of the community itself |
-| Immutability of basic values | Fundamental principles are protected by an aggravated amendment procedure; the scheme is known to constitutional law | Basic Law of Germany, art. 79(3); Constitution of France, art. 89; Constitution of Italy, art. 139 |
+| Immutability of basic values | Fundamental principles are placed beyond constitutional revision; the scheme is known to constitutional law | Basic Law of Germany, art. 79(3); Constitution of France, art. 89; Constitution of Italy, art. 139 |
 | Subsidiarity | Action is permissible only where tasks are not accomplished at a lower level | The principle of subsidiarity in supranational systems |
 
 **Methodological conclusion.** The Earthlings people is not derived from a single source. The argument takes the form of a body of norms, decisions, and verifiable facts that together make the initiative a matter for legal discussion. That body does not substitute for the missing direct basis and is not passed off as one.
@@ -593,7 +593,7 @@ What is established by norms and decisions rather than by opinion:
 
 **No definition of a people exists, and this has been officially established.** The absence of a definition does not include us automatically - but neither does it exclude us.
 
-**The whole of the adverse practice concerns secession** - a claim we do not make.
+**The whole of the practice rejecting the claims of groups on the merits concerns secession** - a claim we do not make.
 
 **Legal personality without territory is known to the law** and confirmed, among other things, by a judicial decision.
 
@@ -603,7 +603,7 @@ What is established by norms and decisions rather than by opinion:
 
 **Territory has ceased to be what keeps a status in existence** - this is recorded in a treaty, in declarations of regional associations, and in the final report of the International Law Commission.
 
-**The collective will is presented through procedure, not through interpretation.**
+**The collective will is presented through procedure, not through interpretation** - this is a feature of our scheme rather than a conclusion drawn from norms, and the procedure has not yet been applied.
 
 What still stands against us, unrefuted:
 
@@ -611,7 +611,7 @@ What still stands against us, unrefuted:
 
 **Territoriality is written into the texts** - in Principle IV of resolution 1541 (XV) and in the safeguard clause of resolution 2625 (XXV) - although neither contains a definition of a people.
 
-**There is no forum for the question** (*Ominayak*, 1990), and this limitation applies to everyone without exception.
+**There is no forum for the question of peoplehood as such** (*Ominayak*, 1990): regional bodies decide it only incidentally, in disputes over specific rights - and this limitation applies to everyone without exception.
 
 **There is no mechanism for converting practice into recognition.** Such a mechanism arises when a community solves a problem that states face; a non-territorial people solves no such problem today.
 
@@ -627,12 +627,11 @@ This legal basis is no substitute for future legal memoranda, procedural submiss
 
 # LIST OF SOURCES
 
-All the propositions in this document rest on what is listed below: binding norms, decisions of bodies applying the law, and verifiable facts. Doctrinal opinions are not used as grounds - the reasons are set out in the introduction.
+All the propositions in this document rest on what is listed below: treaties, resolutions and documents of international bodies, decisions of bodies applying the law, and verifiable facts. Doctrinal opinions are not used as grounds - the reasons are set out in the introduction. Quotations from documents that have no official text in English are given in our translation.
 
 **Treaties and constituent instruments**
 
 - Charter of the United Nations, 26 June 1945, Article 1(2). Statute of the International Court of Justice, Articles 34(1) and 38(1).
-- Universal Declaration of Human Rights, resolution 217 A (III) of 10 December 1948, Articles 6, 15, 20.
 - International Covenants on Human Rights, resolution 2200 A (XXI) of 16 December 1966: common Article 1; ICCPR, Articles 12, 16, 22, 26, 27.
 - Convention on the Rights and Duties of States (Montevideo), 26 December 1933, Articles 1 and 3.
 - Convention relating to the Status of Stateless Persons, 28 September 1954 (in force 6 June 1960), Article 1(1); Convention on the Reduction of Statelessness, 30 August 1961, Articles 7(1)(a) and 8(1).
@@ -644,6 +643,7 @@ All the propositions in this document rest on what is listed below: binding norm
 
 **Resolutions, declarations, and acts of international bodies**
 
+- Universal Declaration of Human Rights, resolution 217 A (III) of 10 December 1948, Articles 6, 15, 20.
 - General Assembly resolutions: 1514 (XV) of 14 December 1960, paragraphs 2 and 6; 1541 (XV) of 15 December 1960, Principle IV; 2625 (XXV) of 24 October 1970; 2758 (XXVI) of 25 October 1971; 41/128 of 4 December 1986; 45/6 of 16 October 1990; 48/265 (1994); 61/295 of 13 September 2007 (Articles 3, 4, 18, 19, 33, 46); 67/19 of 29 November 2012.
 - Vienna Declaration and Programme of Action, 25 June 1993, part I, paragraph 2.
 - Resolution 9.1 of the thirty-sixth session of the UNESCO General Conference of 31 October 2011; UNESCO Recommendation on the Ethics of Artificial Intelligence, 23 November 2021.
@@ -656,7 +656,7 @@ All the propositions in this document rest on what is listed below: binding norm
 - International Court of Justice: *Reparation for Injuries* (11 April 1949, I.C.J. Reports 1949, p. 174); *Western Sahara* (1975); *North Sea Continental Shelf* (20 February 1969, paragraph 47); *East Timor* (30 June 1995, I.C.J. Reports 1995, p. 90, paragraph 29); advisory opinions on the Wall (2004) and on the Chagos Archipelago (2019); Kosovo (22 July 2010).
 - Reports of the Commission of Jurists and the Commission of Rapporteurs of the League of Nations on the Aaland Islands, 1920-1921; Arbitration Commission of the Conference on Yugoslavia, Opinion No. 2, 11 January 1992.
 - Human Rights Committee: *Ominayak and the Lubicon Lake Band v. Canada*, No. 167/1984 (26 March 1990), paragraphs 13.3 and 32.1; *Kitok v. Sweden*, No. 197/1985 (27 July 1988), paragraph 6.3; *Mikmaq Tribal Society v. Canada*, No. 78/1980 (29 July 1984); *Apirana Mahuika et al. v. New Zealand*, No. 547/1993 (27 October 2000); General Comment No. 23 (1994), paragraph 3.1.
-- African Commission on Human and Peoples' Rights: communication 276/2003 (Endorois), paragraphs 150, 157, 162; *Katangese Peoples' Congress v. Zaire* (1995); *Kevin Mgwanga Gunme et al. v. Cameroon* (2009). African Court: application 006/2012 (Ogiek, 26 May 2017), paragraphs 112 and 199.
+- African Commission on Human and Peoples' Rights: communication 276/2003 (Endorois), decision of the 46th session (November 2009), paragraphs 150, 151, 157, 162; *Katangese Peoples' Congress v. Zaire* (1995); *Kevin Mgwanga Gunme et al. v. Cameroon* (2009). African Court: application 006/2012 (Ogiek, 26 May 2017), paragraphs 112 and 199.
 - Inter-American Court of Human Rights, *Saramaka People v. Suriname* (2007).
 - European Court of Human Rights: *Sidiropoulos and Others v. Greece* (1998); *Stankov and the United Macedonian Organisation Ilinden v. Bulgaria* (2001).
 - International Criminal Court, Pre-Trial Chamber I, decision of 5 February 2021 (ICC-01/18).
@@ -666,7 +666,7 @@ All the propositions in this document rest on what is listed below: binding norm
 
 - German Civil Code (BGB), section 1. Basic Law of Germany, Article 79(3); Constitution of France, Article 89; Constitution of Italy, Article 139.
 - Burma Citizenship Law, Pyithu Hluttaw Law No. 4 of 1982 (15 October 1982), section 3.
-- Norway: Sami Act of 12 June 1987. Sweden: Sametingslag (SFS 1992:1433). Finland: Act on the Sami Parliament (974/1995), section 3.
+- Norway: Sami Act of 12 June 1987. Sweden: Sametingslag (SFS 1992:1433). Finland: Act on the Sami Parliament (974/1995), section 3, as amended by Act 414/2025.
 - New Zealand: Electoral Act 1993, sections 3, 76-79; Te Urewera Act 2014, section 11; Te Awa Tupua Act 2017, section 14.
 - Constitution of the Republic of Ecuador 2008, Articles 71-74. Proclamation of the President of the United States No. 2667 of 28 September 1945.
 
