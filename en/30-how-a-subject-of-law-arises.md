@@ -26,7 +26,7 @@ Where this document diverges from the Earthlings Declaration, the Declaration pr
 
 ### Existence is described, becoming is not
 
-International law knows how to establish that a collective subject exists, and knows how to describe the rights of peoples already formed. But it has scarcely worked out a general theory of how a collective subject arises by the free choice of people.
+International law knows how to establish that a collective subject exists, and knows how to describe the rights of peoples already formed. But it has scarcely worked out a general theory of how a collective subject arises by the free choice of individuals.
 
 **Existence is described. Becoming is not.**
 
@@ -168,7 +168,7 @@ It has yet to be built - rigorously, on the basis of the logic of law, instituti
 
 These theses are not an academic exercise. Behind them stands a practical question that must be split in two, since taken as one it breeds misunderstanding.
 
-**The first question: is the act itself lawful?** May people from different states voluntarily associate, declare themselves a people, and build institutions of self-government without violating international law?
+**The first question: is the act itself lawful?** May individuals from different states voluntarily associate, declare themselves a people, and build institutions of self-government without violating international law?
 
 To this question the Legal Basis answers in the affirmative, relying on freedom of association - a norm already binding on states today and limiting neither the purposes nor the forms of association. International law contains no prohibition of such an act.
 

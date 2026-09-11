@@ -2,7 +2,7 @@
 
 **Why it can be left unheard today, what we are doing about it, and what it may grow into**
 
-> This document unfolds one provision of the Declaration. Article 6 states that the Earthlings people forms a verifiable collective position of its earthlings and conveys it to states and international organizations, and that the force of that position is determined not by the powers of the people but by the free participation of persons, the transparency of the procedures, and the ability to verify the result.
+> This document unfolds one provision of the Declaration. Article 6 states that the Earthlings people forms a verifiable collective position of its earthlings and conveys it to states and international organizations, and that the force of that position is determined not by the powers of the people but by the free participation of individuals, the transparency of the procedures, and the ability to verify the result.
 >
 > What that means in practice is explained here: why a civic voice can be left unheard today without being rejected on the merits; what exactly we are building instead; why this required constituting a people rather than building a single tool; by what rungs such a voice gains weight; and how all of this may end badly.
 >
@@ -50,7 +50,7 @@ How serious this is can be seen from a single case. In the mandatory public comm
 
 Not one more way of speaking out, but **an order in which confirmed people answer a question once each, and in which the count can be rechecked by anyone at all** - including the person the result does not suit.
 
-The caveat without which this sounds dangerous: **the instrument is a procedure, not people.** It is not a person who is measured; every person answers or does not answer, of their own free will. What we call the instrument is the order in which answers are collected and verified: the question, the deadline, the registry, the signature, the publication.
+The caveat without which this sounds dangerous: **the instrument is a procedure, not human beings.** It is not a person who is measured; every person answers or does not answer, of their own free will. What we call the instrument is the order in which answers are collected and verified: the question, the deadline, the registry, the signature, the publication.
 
 ### How it works
 
@@ -90,7 +90,7 @@ Today - a confirmable "I am a living person, there is only one of me, and anyone
 
 At millions - measurements that cannot be written off as marginal; work and payment independent of access to banking services; the resolution of disputes by a procedure that does not depend on a jurisdiction.
 
-At tens of millions - a counted position of the confirmed people of the planet on a question that concerns everyone. So far as we know, no one holds an artefact of that kind.
+At tens of millions - a counted position of confirmed individuals across the planet on a question that concerns everyone. So far as we know, no one holds an artefact of that kind.
 
 ### What may fail
 
@@ -213,11 +213,11 @@ The difference is fundamental. A channel delivers a message; there are dozens of
 
 From this comes the formula that is perhaps the only thing in the whole document worth remembering:
 
-> A movement works to get people **heard**. The Earthlings people works to get people **counted** - in a way that even the person who dislikes the result will verify.
+> A movement works to get people **heard**. The Earthlings people works to get them **counted** - in a way that even the person who dislikes the result will verify.
 
 Anyone can be heard today. No one can be counted.
 
-And at once the caveat without which this word is dangerous. **The instrument is a procedure, not people.** It is not a person who is measured: every person answers or does not answer, of their own will, and the answer belongs to them. What we call the instrument is the order by which answers are collected and verified - the question, the deadline, the registry, the signature, the publication. The people is an instrument for no one, itself included: an instrument is what it builds, not what it is. Anything else would contradict Article 3 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), where the dignity of every person is called inviolable, and every person is called not a means.
+And at once the caveat without which this word is dangerous. **The instrument is a procedure, not human beings.** It is not a person who is measured: every person answers or does not answer, of their own will, and the answer belongs to them. What we call the instrument is the order by which answers are collected and verified - the question, the deadline, the registry, the signature, the publication. The people is an instrument for no one, itself included: an instrument is what it builds, not what it is. Anything else would contradict Article 3 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), where the dignity of every person is called inviolable, and every person is called not a means.
 
 ## 5. Five properties of a tool that cannot be ignored
 
@@ -559,7 +559,7 @@ For these people, a confirmable "I exist, there is only one of me, and this is v
 
 **As it grows**, when participants number in the millions, things appear that require numbers: measurements that cannot be written off as marginal; an economy in which one can work and be paid independently of access to banking services; the resolution of disputes by a procedure that does not depend on a jurisdiction; help that does not cross borders, because it is already on both sides of them.
 
-**At scale**, when participants number in the tens and hundreds of millions, what no one can do today becomes possible: a counted position of the confirmed people of the planet on a question that concerns everyone. Not a sample with a margin of error, not a vote in which one person can cast a thousand votes, but an established and verifiable fact.
+**At scale**, when participants number in the tens and hundreds of millions, what no one can do today becomes possible: a counted position of confirmed individuals across the planet on a question that concerns everyone. Not a sample with a margin of error, not a vote in which one person can cast a thousand votes, but an established and verifiable fact.
 
 So far as we know, neither states, nor international organizations, nor polling companies have an artefact of that kind. It is impossible without verification of uniqueness and impossible without numbers. And it is quite likely that this artefact, and not any recognition, will be the first thing to make the people something to reckon with: **it is not whoever has status that begins to be reckoned with, but whoever has what no one else has.**
 

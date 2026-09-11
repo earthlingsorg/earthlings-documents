@@ -38,7 +38,7 @@ From 22 October 2026 to 20 January 2027 the whole corpus is open to proposals - 
 
 After adoption the Declaration will be unamendable because it will have been adopted by those whom it unites.
 
-There is a second reason. A people built on shared participation cannot come to people ready-made. Until the texts are adopted, everyone has the opportunity to influence them - and that opportunity is real, not decorative: what goes into the Declaration will apply without a time limit, and what goes into the other documents will apply at once.
+There is a second reason. A people built on shared participation cannot come to anyone ready-made. Until the texts are adopted, everyone has the opportunity to influence them - and that opportunity is real, not decorative: what goes into the Declaration will apply without a time limit, and what goes into the other documents will apply at once.
 
 ## 02. What is open to proposals
 
@@ -76,7 +76,7 @@ Proposals to them are accepted and published with a reply just as to all the oth
 
 The Address to Everyone, placed on the main page, is not part of the corpus. Proposals to it are not accepted, and it is not put to a vote.
 
-The reason is not that it is more important or more untouchable than the rest. On the contrary, it establishes nothing. It creates neither rights nor duties, nothing follows from it, and it is not what the people adopts. It is an address to people from those who started all this - and it is signed by its authors, not by the people. Voting on an address is as odd as voting on someone else's letter.
+The reason is not that it is more important or more untouchable than the rest. On the contrary, it establishes nothing. It creates neither rights nor duties, nothing follows from it, and it is not what the people adopts. It is an address to everyone from those who started all this - and it is signed by its authors, not by the people. Voting on an address is as odd as voting on someone else's letter.
 
 Everything that has force lies in the corpus and is open to proposals in full.
 

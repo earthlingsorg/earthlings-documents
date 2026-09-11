@@ -19,7 +19,7 @@ Cells are the basic organizational units of the Earthlings people. Through them 
 
 In the Charter, Cells are treated as the basic bearers of action: it is through them that contribution is made, and that contribution is then reflected in the economy of participation and in the decisions of the DAO.
 
-> **A Cell has no vote.** Only people vote. No Cell has a collective vote, speaks on behalf of its participants, or represents them in the decisions of the people (Charter, Article 37).
+> **A Cell has no vote.** Only individuals vote. No Cell has a collective vote, speaks on behalf of its participants, or represents them in the decisions of the people (Charter, Article 37).
 
 ---
 

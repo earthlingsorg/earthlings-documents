@@ -44,13 +44,13 @@ Two consequences follow. We do not cite doctrinal formulations as obstacles: the
 
 The modern international system is organized vertically: the individual is represented through the state, states are represented in international organizations, and organizations act through the will of member states.
 
-There is no durable horizontal level - no legally constituted bond that joins people of different states in a single voluntary community capable of expressing a common will on planetary questions and bearing institutional accountability for it.
+There is no durable horizontal level - no legally constituted bond that joins individuals from different states in a single voluntary community capable of expressing a common will on planetary questions and bearing institutional accountability for it.
 
 **The legal gap is this: a person's de facto belonging to one planet and their exposure to shared risks are not matched by any comparable legal mechanism for expressing will collectively at the transnational level.**
 
 This is clearest where decisions have planetary consequences and those affected have no voice: biological risks and pandemics, where transnational civic coordination is weak; artificial intelligence, where decisions are taken by a small circle of states and corporations; climate and future generations, with no procedural representation at the international level.
 
-The existing subjects of international law remain necessary, but are not always sufficient to represent the long-term and transnational interests of people as a common planetary community.
+The existing subjects of international law remain necessary, but are not always sufficient to represent the long-term and transnational interests of human beings as a common planetary community.
 
 ---
 
@@ -78,9 +78,9 @@ This provision runs through the whole document.
 
 ## Whom the Earthlings people represents
 
-The Earthlings people does not claim to represent humanity. It concerns only those who freely accede to the Declaration, have their uniqueness confirmed, and knowingly take on an additional belonging. Until the founding period ends there are no such people at all, and no one can represent the Earthlings people today.
+The Earthlings people does not claim to represent humanity. It concerns only those who freely accede to the Declaration, have their uniqueness confirmed, and knowingly take on an additional belonging. Until the founding period ends there are no such individuals at all, and no one can represent the Earthlings people today.
 
-The aim of the initiative is not to usurp the voice of humanity, but to create a legal mechanism capable of showing how the transnational will of people might find institutional expression.
+The aim of the initiative is not to usurp the voice of humanity, but to create a legal mechanism capable of showing how the transnational will of individuals might find institutional expression.
 
 ## Current stage: the founding period
 
@@ -127,7 +127,7 @@ The absence of a definition is not the category's only gap.
 
 **Composition.** No treaty determines who belongs to a people or how that is to be established. There is no register of peoples. There is no body that recognizes peoples. There is no registration procedure, and no people in history has ever gone through one. Few have a document of belonging to a people, and it is issued within a framework established by a state (Section 04); a French, Japanese or Kurdish person has no such document.
 
-**A procedure for expressing will.** Nowhere is it stated by what act the will of people becomes the will of a people. There is no set procedure, no threshold, and no way to verify the result. The referendums of the decolonization period were organized by states and international bodies, that is, by bodies external to the people itself.
+**A procedure for expressing will.** Nowhere is it stated by what act the will of individuals becomes the will of a people. There is no set procedure, no threshold, and no way to verify the result. The referendums of the decolonization period were organized by states and international bodies, that is, by bodies external to the people itself.
 
 **A forum.** Article 34(1) of the Statute of the International Court of Justice provides: "Only states may be parties in cases before the Court." A people cannot appear as a party.
 
@@ -145,7 +145,7 @@ Good faith requires that we ourselves point out where in General Assembly resolu
 
 Here is what follows from this, and what does not.
 
-**Neither resolution contains a definition of a people.** Resolution 1541 classifies a territory, not a group: its subject is the question of when an administering state is obliged to report. Resolution 2625 describes the conditions under which the territorial integrity of a state is protected. Neither answers the question "who is a people" and neither was asked that question. Resolution 1541 concerns decolonization, while resolution 2625 sets out principles of international law addressed to all states; the drafters of neither were confronted with the class of situations in which a community arises by the voluntary decision of people and claims no territory.
+**Neither resolution contains a definition of a people.** Resolution 1541 classifies a territory, not a group: its subject is the question of when an administering state is obliged to report. Resolution 2625 describes the conditions under which the territorial integrity of a state is protected. Neither answers the question "who is a people" and neither was asked that question. Resolution 1541 concerns decolonization, while resolution 2625 sets out principles of international law addressed to all states; the drafters of neither were confronted with the class of situations in which a community arises by the voluntary decision of individuals and claims no territory.
 
 **But a textual link does exist**, and it would be inaccurate to assert that territory figures in this question only in the opinions of specialists.
 
@@ -273,7 +273,7 @@ Here political theory has an unsolved problem: if all those affected are to deci
 
 ## The law has created no form for humanity
 
-The law provides a form for every scale of association: marriage, partnership, community, association, municipality, people, state, international organization - but the last is a form for states, not for people. At the level of humanity there is no form.
+The law provides a form for every scale of association: marriage, partnership, community, association, municipality, people, state, international organization - but the last is a form for states, not for individuals. At the level of humanity there is no form.
 
 Humanity is present in the law only as an object: the common heritage of mankind, crimes against humanity, a common concern with respect to climate, the interests of future generations. It is the one for whose sake, against whom, and about whom things are done - and never the one who acts.
 
@@ -289,7 +289,7 @@ Here the argument faces the most serious objections. We state them ourselves, wi
 
 Freedom of association is established as a universal right of every person: Article 20 of the Universal Declaration of Human Rights, Article 22 of the International Covenant on Civil and Political Rights, Article 11 of the European Convention, paragraph 9.3 of the Document of the Copenhagen Meeting of the CSCE, Article 8 of the Covenant on Economic, Social and Cultural Rights with respect to trade unions, and Article 15 of the Convention on the Rights of the Child.
 
-International norms construe association broadly, as any voluntary community of people formed to express and protect common interests jointly; protection does not depend on state registration and extends to informal associations as well. None of the instruments cited sets out an exhaustive list of permissible forms or purposes.
+International norms construe association broadly, as any voluntary community of individuals formed to express and protect common interests jointly; protection does not depend on state registration and extends to informal associations as well. None of the instruments cited sets out an exhaustive list of permissible forms or purposes.
 
 **One thing follows from this, and one thing only: the founding act itself is lawful.** International law contains no prohibition of such an act.
 

@@ -38,7 +38,7 @@ The Earthlings people is constituted by this Declaration.
 
 It comes into being through the free expression of will by people who have decided to unite around shared values.
 
-Everyone who signs this Declaration constitutes and joins the Earthlings people. A signatory is called an earthling, in the plural earthlings. The people exists for as long as there are people who have voluntarily confirmed their belonging to it.
+Everyone who signs this Declaration constitutes and joins the Earthlings people. A signatory is called an earthling, in the plural earthlings. The people exists for as long as there are individuals who have voluntarily confirmed their belonging to it.
 
 This act requires no approval or recognition from states or international organizations.
 
@@ -46,11 +46,11 @@ This act requires no approval or recognition from states or international organi
 
 The Earthlings people is a voluntary, non-violent and non-territorial form of collective self-determination.
 
-The Earthlings people is a community of people who have chosen, of their own accord, to belong to one another and who mutually acknowledge that belonging.
+The Earthlings people is a community of human beings who have chosen, of their own accord, to belong to one another and who mutually acknowledge that belonging.
 
 Entry into the people is open to every person.
 
-Earthlings are a people, not a civic organization, a union or an association. A people unites people as a durable form of collective belonging, with its own values, its own institutions of self-governance, its own rules and its own continuity.
+Earthlings are a people, not a civic organization, a union or an association. A people unites individuals as a durable form of collective belonging, with its own values, its own institutions of self-governance, its own rules and its own continuity.
 
 The name Earthlings expresses the basis of our unity: we were all born on the same planet. What holds the Earthlings people together is a shared bond with the Earth and the voluntary choice to be one people.
 
@@ -134,13 +134,13 @@ The Earthlings people does not wait to be recognized and does not ask permission
 
 2. The right to self-determination belongs to peoples as collective subjects: the Charter of the United Nations, Article 1(2), and common Article 1 of the 1966 Covenants.
 
-The Earthlings people brings the exercise of these two rights together in a single scheme: associating freely, people constitute themselves as a people - and, as a people, exercise the right to self-determination that belongs to peoples.
+The Earthlings people brings the exercise of these two rights together in a single scheme: associating freely, individuals constitute themselves as a people - and, as a people, exercise the right to self-determination that belongs to peoples.
 
 The lawfulness of what the Earthlings people does rests on freedom of association, and therefore does not depend on how international institutions resolve the question of its classification.
 
 What makes it a people is not common descent, territory or existing citizenship, but a durable community: a common identity, belonging, values, a verifiable common will and its own institutions of self-governance. The common identity is established by this Declaration. The common will is expressed by voluntary accession and by the equal participation of everyone. The institutions of self-governance are constituted by this Declaration and operate in the manner it sets out.
 
-The Earthlings people offers a procedure that allows people to exercise jointly rights that are already recognized, where earlier procedures no longer suffice.
+The Earthlings people offers a procedure that allows individuals to exercise jointly rights that are already recognized, where earlier procedures no longer suffice.
 
 The existence of the Earthlings people is determined by the will of the people who belong to it. It is not created by the recognition of states and does not cease in the absence of such recognition. This Declaration and the institutions of the Earthlings people are built so that the characteristics of a people can be verified at any moment.
 

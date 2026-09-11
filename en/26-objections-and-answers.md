@@ -164,7 +164,7 @@ The residual centralization of the structure-formation stage we disclosed oursel
 
 ### You chose the category "people" for its legal advantages. A self-awareness constructed for advantage is a fiction.
 
-The motive is published in our own documents: a people is the only category in which the law allows ordinary people to build up collective legal personality, and that is why it was chosen.
+The motive is published in our own documents: a people is the only category in which the law allows private individuals to build up collective legal personality, and that is why it was chosen.
 
 But a fiction in law is always two elements together: a divergence between the declared form and the actual content, and the concealment of that divergence. Here there is neither: the behaviour matches the label - confirmed living human beings sign up to values, vote with an equal vote, and run a common fund - and the motive is declared on the first page. Openly declared instrumentality cannot be deceit: deceit is what gets concealed.
 
