@@ -58,7 +58,7 @@ A holder of a non-transferable passport takes part - a person who has completed 
 
 The question is not composed by those who run the operational management of the people. It is published in advance and goes through an adversarial stage, where it is attacked by the party whom the expected answer does not suit. Once voting has opened the question is not corrected: any defect discovered means the measurement is cancelled, not corrected on the fly.
 
-Questions come in two streams. Internal ones - what the treasury is spent on, which projects to support, how the rules change: here the consequence follows at once and without fail. And planetary ones - those that no state resolves on its own; they are put at the point where the consequence falls on every person, and not where institutions negotiate about it.
+Questions come in two streams. Internal ones - what the treasury is spent on, which projects to support, how the rules change: here the consequence follows at once and without fail. And planetary ones - those that no state resolves on its own; they are put at the point where the consequence lands in individual lives, and not where institutions negotiate about it.
 
 So that scale does not turn into shallowness, two layers are at work: a panel selected by lot spends several weeks working through the question and formulates the options, and the whole people votes on what has been prepared.
 
@@ -322,7 +322,7 @@ The order for forming a question must therefore meet five requirements:
 2. **Publication in advance.** The question is published before voting begins, with a stated period during which it can be challenged.
 3. **An adversarial stage.** The wording passes through the objections of the party that the expected answer does not favour. The objections and the replies to them are published together with the question - as the IPCC does with its reviews.
 4. **No change after the start.** From the moment voting opens the question is not edited. A defect of wording that is discovered means the measurement is cancelled and a new one held, not corrected on the fly.
-5. **A connection with the participant's life.** The question is put where the consequence falls on every person, and not where institutions negotiate about it. This requirement is not about courtesy to the reader: it determines whether a measurement takes place at all, and it is explained separately below.
+5. **A connection with the participant's life.** The question is put where the consequence lands in individual lives, and not where institutions negotiate about it. This requirement is not about courtesy to the reader: it determines whether a measurement takes place at all, and it is explained separately below.
 
 The subject matter of a question is limited by the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) on two sides. Article 3 draws the circle: the people speaks about what affects everyone. Article 5 sets the exception: the internal life of a particular state is not a subject of the people's decisions, that being a matter for its citizens.
 
@@ -332,7 +332,7 @@ The boundary itself is closed; the list of questions is not. Falling under it ar
 
 This is the answer to the most likely cause of failure - low turnout, which section 20 deals with separately. It is cured not by reminders and not by appeals, but by the question. **If the questions do not touch the real life, interests and difficulties of people, the point of voting disappears entirely: there is no point in asking, and no point in answering.**
 
-There is a genuine contradiction here, and we name it rather than go round it. The boundary selects planetary questions - those that affect everyone. And the planetary sounds remote from every person: the distance between "agreeing a rate of tax on transnational profit" and the cares of a particular day seems unbridgeable.
+There is a genuine contradiction here, and we name it rather than go round it. The boundary selects planetary questions - those that affect everyone. And the planetary sounds remote from individual lives: the distance between "agreeing a rate of tax on transnational profit" and the cares of a particular day seems unbridgeable.
 
 It seems so. A planetary question **always lands somewhere** - otherwise it would not be planetary: what affects everyone affects each person. So the question has to be put at the point of landing, not at the point of negotiation. Compare:
 
@@ -346,7 +346,7 @@ On the right and on the left is one and the same question. The wording on the ri
 
 **And here at once is the boundary, because this technique is one step away from disaster.** Wording for the sake of a response is next door to wording for the sake of the answer wanted, and the latter is already directly forbidden by requirement 3. We draw the distinction thus: **a wording is admissible if it names where the consequence falls, and inadmissible if it prompts how to feel about the consequence.** "Whether a company should be able to pay tax nowhere" names. "Is it fair that corporations profit off you without paying taxes" prompts. Both touch life; the second is not a measurement. The adversarial stage exists, among other things, to sift such wordings out, and the objection "the question is worded for the sake of the answer wanted" is considered on the same footing as the rest.
 
-The second boundary is Article 5. The questions closest to a person are almost always questions of domestic politics, and that is exactly why they are closed. A suitable question lies at the intersection of two conditions: **it touches the life of every person and at the same time has no national address.** That intersection is not empty: the taxation of transnational profit, the rules for the systems people speak with every day, the fate of data about a person, the price of medicines, resilience to pandemics, who pays for damage to the planet. Each of these has a point of landing in the life of any person, and there is not a single parliament that would resolve it entirely.
+The second boundary is Article 5. The questions closest to a person are almost always questions of domestic politics, and that is exactly why they are closed. A suitable question lies at the intersection of two conditions: **it touches individual lives and at the same time has no national address.** That intersection is not empty: the taxation of transnational profit, the rules for the systems people speak with every day, the fate of data about a person, the price of medicines, resilience to pandemics, who pays for damage to the planet. Each of these has a point of landing in the life of any person, and there is not a single parliament that would resolve it entirely.
 
 ### Two streams of questions, and both are needed
 
@@ -780,7 +780,7 @@ We put it third, but in importance it comes first.
 
 **Why this is the most dangerous of all.** A measurement with low turnout is **worse than no measurement at all**: it adds no proof but undermines what has already been accumulated.
 
-**Where the real cure lies.** Not in reminders or appeals - **in the question.** A person answers when the question touches their life and when something depends on the answer. Hence the two requirements set out in section 8: a planetary question is put at the point where the consequence falls on every person, and not where institutions negotiate about it; and no period consists of planetary questions alone - they are always accompanied by questions of the internal life of the people, whose consequence follows at once and for certain.
+**Where the real cure lies.** Not in reminders or appeals - **in the question.** A person answers when the question touches their life and when something depends on the answer. Hence the two requirements set out in section 8: a planetary question is put at the point where the consequence lands in individual lives, and not where institutions negotiate about it; and no period consists of planetary questions alone - they are always accompanied by questions of the internal life of the people, whose consequence follows at once and for certain.
 
 The other side of this has to be said too, because it matters just as much: **if the questions cease to touch people's real lives, interests and difficulties, the point of voting will disappear entirely** - and low turnout will be the participants' correct answer, not their fault.
 
@@ -788,7 +788,7 @@ The other side of this has to be said too, because it matters just as much: **if
 
 **What this means for us.** **The share of those who answer is the chief indicator of the project's vitality, more important than the number of participants.** A people of ten million with a turnout of forty per cent weighs incomparably more than a people of a hundred million with a turnout of four per cent. We say this in advance, so that one indicator cannot later be substituted for the other.
 
-**What we do not guarantee.** That a suitable question will always be found. The boundary is deliberately narrow, and questions that are at once planetary and close to every person are fewer than one would like. We shall not widen it for the sake of turnout: a people that has started asking about anything and everything in order to get a better hearing has ceased to be what it was created for.
+**What we do not guarantee.** That a suitable question will always be found. The boundary is deliberately narrow, and questions that are at once planetary and close to individual lives are fewer than one would like. We shall not widen it for the sake of turnout: a people that has started asking about anything and everything in order to get a better hearing has ceased to be what it was created for.
 
 ### 4. Shallowness
 
