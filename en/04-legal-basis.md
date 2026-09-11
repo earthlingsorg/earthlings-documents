@@ -99,7 +99,7 @@ Until the day of adoption, a person who has confirmed their identity is a **part
 
 **This has two consequences for this document.**
 
-The first counts against us: wherever the features described below depend on numbers, composition, and accumulated practice, what is meant is the scheme and its designed capacity, not a state of affairs already achieved. There are no participants, there is no practice, and no founding act has been adopted.
+The first counts against us: wherever the features described below depend on numbers, on who makes up the people, and on accumulated practice, what is meant is the scheme and its designed capacity, not a state of affairs already achieved. There are no participants, there is no practice, and no founding act has been adopted.
 
 The second is material to the legal assessment. Ordinarily the founding text of a community is written before the community appears, and joining amounts to agreeing to a finished document. Here the order is reversed: the text is put to a vote of people each of whom is confirmed as one living human being; proposals are accepted from anyone and published together with the replies. **The collective will is thereby neither presumed nor reconstructed - it is produced by a procedure and is preserved in a verifiable record.**
 
@@ -125,7 +125,7 @@ And on why no definition emerged: "[B]ecause no definition has been formulated, 
 
 The absence of a definition is not the category's only gap.
 
-**Composition.** No treaty determines who belongs to a people or how that is to be established. There is no register of peoples. There is no body that recognizes peoples. There is no registration procedure, and no people in history has ever gone through one. Few have a document of belonging to a people, and it is issued within a framework established by a state (Section 04); a French, Japanese or Kurdish person has no such document.
+**Who makes up a people.** No treaty determines who makes up a people or how that is to be established. There is no register of peoples. There is no body that recognizes peoples. There is no registration procedure, and no people in history has ever gone through one. Few have a document of belonging to a people, and it is issued within a framework established by a state (Section 04); a French, Japanese or Kurdish person has no such document.
 
 **A procedure for expressing will.** Nowhere is it stated by what act the will of individuals becomes the will of a people. There is no set procedure, no threshold, and no way to verify the result. The referendums of the decolonization period were organized by states and international bodies, that is, by bodies external to the people itself.
 
@@ -133,7 +133,7 @@ The absence of a definition is not the category's only gap.
 
 It was not through negligence that the indeterminacy persisted. Defining a people meant giving a right to groups inside existing states, and the traces of that decision are recorded in the documents themselves: the Declaration on the Granting of Independence to Colonial Countries and Peoples (resolution 1514 (XV) of 14 December 1960), after proclaiming the right of peoples to self-determination in paragraph 2, immediately stipulated in paragraph 6 that "any attempt aimed at the partial or total disruption of the national unity and the territorial integrity of a country is incompatible with the purposes and principles of the Charter of the United Nations". The right was made broad in wording and narrow in application.
 
-**The practical consequence of these gaps is this.** Those peoples that already have a state of their own can exercise the right of peoples to self-determination by their own means: the state knows the composition of its citizens, has a voting procedure, and is admitted to international bodies - it supplies all three missing elements on its own. A people without a state cannot by itself establish its composition, express a will, or take that will to a place where it must be reckoned with as the will of a people. Those who have the right de facto hardly need it; those who need it cannot exercise it by their own means.
+**The practical consequence of these gaps is this.** Those peoples that already have a state of their own can exercise the right of peoples to self-determination by their own means: the state knows who its citizens are, has a voting procedure, and is admitted to international bodies - it supplies all three missing elements on its own. A people without a state cannot by itself establish who makes it up, express a will, or take that will to a place where it must be reckoned with as the will of a people. Those who have the right de facto hardly need it; those who need it cannot exercise it by their own means.
 
 ## Territory: where it is actually anchored
 
@@ -189,23 +189,23 @@ None of these elements proves that Earthlings is a people. Together they establi
 
 Correcting international law is the business of states. The Earthlings people does something else: it demonstrates in its own case what the category never had. Everything listed here is a property of the scheme as built; giving these properties substance begins with the adoption of the founding text.
 
-**Composition.** It is known who belongs to the people: behind every participant stands one living human being, and this is confirmed. Not by census, not by custom, and not by someone else's law, but verifiably and at any time.
+**Who makes up the people.** It is known: behind every participant stands one living human being, and this is confirmed. Not by census, not by custom, and not by someone else's law, but verifiably and at any time.
 
 **Procedure.** There is a way in which a will becomes a common will: a vote on the principle of one person, one vote, in which a vote cannot be bought, accumulated, or irrevocably transferred. The first application of this procedure will be the adoption of the founding text itself.
 
-**Record.** The composition and the results of votes are open to verification by any person, without having to trust the operator of the infrastructure.
+**Record.** Any person can verify the results of votes and who makes up the people, without having to trust the operator of the infrastructure.
 
 And all of this without any claim to territory. The conflict that makes the law cautious about the emergence of new peoples does not arise here: one cannot encroach on what one does not claim.
 
 This does not prove that Earthlings is a people within the meaning of common Article 1 of the Covenants. It proves something else: the three missing elements are supplied in practice, which was not always possible, because the means did not exist.
 
-## Why citizenship does not stand in for composition
+## Why citizenship does not answer who makes up a people
 
-In practice, citizenship has taken the place of the missing answer to the question of a people's composition. "The people of France" in fact means "the citizens of France": that is how constitutions are structured, how statistics count, and how courts reason.
+In practice, citizenship has taken the place of the missing answer to the question of who makes up a people. "The people of France" in fact means "the citizens of France": that is how constitutions are structured, how statistics count, and how courts reason.
 
 The substitution breaks down in four directions at once. **One people, several citizenships:** the Kurds live in four states, everyone calls them a people, yet they cannot express a common will. **One citizenship, several communities:** the Constitution of Russia speaks expressly of a multinational people. **A people without citizenship:** the Rohingya were deprived of Myanmar citizenship by the Burma Citizenship Law of 1982 (Pyithu Hluttaw Law No. 4 of 1982, promulgated 15 October 1982), which based citizenship on belonging to "national races" settled in the country before 1823 (section 3); they did not cease to be a people, but in the legal system no one speaks for them. **One person, two citizenships:** by the logic of the substitution they belong to two peoples at once, which is meaningless within that logic.
 
-Four breaks in different directions mean that citizenship is not a criterion but a habit of those who apply the law. Hence the circularity: constitutions call the people the source of authority, while the composition of the people is determined by citizenship law, that is, by the state itself. The founder is defined by the founded.
+Four breaks in different directions mean that citizenship is not a criterion but a habit of those who apply the law. Hence the circularity: constitutions call the people the source of authority, while citizenship law, that is, the state itself, determines who makes up the people. The founder is defined by the founded.
 
 The consequences are concrete. A people divided by borders has the right but lacks the means to exercise it. A people deprived of citizenship remains a people yet ceases to be anyone at all in the eyes of the legal system. Peoples inside states speak in international forums through the voice of the very state with which they are most often in dispute. On planetary questions - climate, the environment, future generations - the law has recognized interests that have no bearer.
 
@@ -213,7 +213,7 @@ The consequences are concrete. A people divided by borders has the right but lac
 
 Documents of belonging to a people do exist, and how they are kept should be described precisely.
 
-**United States.** Federally recognized tribes determine the composition of their own membership and issue membership cards. A tribe's right to set membership criteria was confirmed by the US Supreme Court in *Santa Clara Pueblo v. Martinez*, 436 U.S. 49 (1978). Photo identification issued by federally recognized tribes, including the Enhanced Tribal Card, is accepted by the US Transportation Security Administration as proof of identity.
+**United States.** Federally recognized tribes determine their own membership and issue membership cards. A tribe's right to set membership criteria was confirmed by the US Supreme Court in *Santa Clara Pueblo v. Martinez*, 436 U.S. 49 (1978). Photo identification issued by federally recognized tribes, including the Enhanced Tribal Card, is accepted by the US Transportation Security Administration as proof of identity.
 
 **Northern Europe.** Sami electoral rolls are kept by Sami parliaments established by national statutes: Norway - the Sami Act of 12 June 1987, Sweden - the Sametingslag (SFS 1992:1433), Finland - the Act on the Sami Parliament (974/1995). The ground of entry combines a subjective and an objective criterion: under section 3 of the Finnish Act (as amended by Act 414/2025, in force since 1 August 2025), a person has the right to be entered on the roll if they consider themselves Sami and also meet one of the objective conditions: that Sami was the first language of that person or of one of their parents, grandparents, or great-grandparents; or that one of their parents has been entered on the roll for elections to the Sami Parliament held on or after 1 January 2027.
 
@@ -259,7 +259,7 @@ The term "natural person" arose not to replace the human being but out of the ne
 
 The capacity to be a person has been taken away, and taken away by law: slavery, civil death, deprivation of nationality in the 1930s. The reverse movement is under way today: legal personality is conferred on companies, and in some legal orders on natural objects (the 2008 Constitution of Ecuador, Articles 71-74, applied by the Constitutional Court in judgment No. 1149-19-JP/21 of 10 November 2021; the Te Urewera Act 2014, section 11; the Te Awa Tupua Act 2017, section 14). The trend is uneven: the judgment of the High Court of Uttarakhand of 20 March 2017 on the legal personality of the Ganga and the Yamuna was stayed by the Supreme Court of India in July 2017, and it is a mistake to cite it as operative.
 
-Hence a conclusion that applies both to a people and to a person: **legal existence has turned out to be derived from a record kept by someone else.** In the case of a person this is visible in the position of the stateless; in the case of a people, in the substitution of citizenship for composition.
+Hence a conclusion that applies both to a people and to a person: **legal existence has turned out to be derived from a record kept by someone else.** In the case of a person this is visible in the position of the stateless; in the case of a people, in citizenship standing in for the answer to who makes it up.
 
 The infrastructure of the Earthlings people is built so that the record cannot exist without the person, and the person cannot be removed from the record by someone else's decision: the uniqueness of a living human being is confirmed, belonging ends only by their own decision, and the registry holds no data about views or voting.
 
@@ -537,14 +537,14 @@ That the end point is attainable is strongly confirmed: the duty of states to co
 
 The design provides that the whole practice of self-government - votes with the date, question, turnout, result, and implementation recorded, movements of treasury funds, entries into the people, the work of Cells - is entered in a public chronicle that cannot be altered after the fact. The chronicle begins before the people takes shape: its first entry consists of the proposals on the founding text, the replies to them, and the result of the vote on its adoption. No people in history has a documented record of its life from its first day, because there was nothing to keep one with.
 
-The conditions of legitimation are stated expressly: numbers and geographical spread beyond a local group; real participation, not signatures alone; the quality of procedures - honest identity verification, transparent voting, protection against the capture of governance; public accountability for rules, finances, composition, and the practice of governance.
+The conditions of legitimation are stated expressly: numbers and geographical spread beyond a local group; real participation, not signatures alone; the quality of procedures - honest identity verification, transparent voting, protection against the capture of governance; public accountability for rules, finances and the practice of governance, and for who makes up the people.
 
 No quantitative indicator by itself creates a status in international law. For an honest assessment of development, four stages can be distinguished.
 
 | Stage | Character of legitimacy | Practical meaning |
 |---|---|---|
 | Founding | Legitimacy of the idea and the procedure | Testing whether the principles of voluntariness, transparency, and internal democracy work |
-| Developing | Legitimacy of a durable transnational community | A visible composition spread across countries, a regular practice of decision-making, external observability |
+| Developing | Legitimacy of a durable transnational community | A community visibly made up of individuals across many countries, a regular practice of decision-making, external observability |
 | Functional | Legitimacy of limited representation on particular issues | Participation in expert, consultative, and partnership formats |
 | Extended | Legitimacy of a recognized non-state participant in international dialogue | Possible forms of external status where practice is mature and the procedures are trusted |
 

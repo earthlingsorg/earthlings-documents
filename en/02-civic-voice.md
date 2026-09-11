@@ -68,7 +68,7 @@ Together with the result there is published everything by which it is checked: t
 
 The people is not added to the instrument from outside. It arises from within.
 
-A measurement needs a defined composition - otherwise it is not known what the share is a share of. The operator must not be able to change that composition - which means the participants have rights against the operator, and that is a founding text, not a user agreement. The instrument must not be purchasable - which means it has no owner, and the participants govern it. It must be fit for use by all sides - which means it belongs to no state. And when it publishes the result it says "we", and not "so many users of a service".
+A measurement needs it to be settled who is counted - otherwise it is not known what the share is a share of. The operator must not be able to change who is counted - which means the participants have rights against the operator, and that is a founding text, not a user agreement. The instrument must not be purchasable - which means it has no owner, and the participants govern it. It must be fit for use by all sides - which means it belongs to no state. And when it publishes the result it says "we", and not "so many users of a service".
 
 A body with those properties is what we propose to regard as a people. This is our position, not a generally recognized legal test.
 
@@ -231,7 +231,7 @@ The task of "making it impossible not to notice us" has been solved in the world
 
 **Property four. All sides use it alike.** A tool useful to one side is a weapon, and it is rejected along with that side. A tool useful to both is infrastructure, and both take care of it.
 
-**Property five. The composition is verifiable.** It is known and confirmable that living unique people stand behind the measurement, each of whom spoke once and willingly.
+**Property five. Who is counted can be verified.** It is known and confirmable that living unique people stand behind the measurement, each of whom spoke once and willingly.
 
 Now honestly about where we stand.
 
@@ -287,7 +287,7 @@ The compositions were selected differently, and the difference is instructive. O
 
 The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal established twelve years later delivered carefully prepared findings on the gravest questions. Their composition was self-appointed, their representativeness in no way established, their powers absent. Morally they are respected. Politically they are ignored completely, and have been for decades.
 
-**The lesson.** Without a verifiable composition, any procedure, even a flawless one, remains the private opinion of a group of respected people. That is exactly the place where we differ - and exactly what we shall lose if the composition ceases to be verifiable.
+**The lesson.** Unless it can be verified who is counted, any procedure, even a flawless one, remains the private opinion of a group of respected people. That is exactly the place where we differ - and exactly what we shall lose if it ceases to be possible to verify who is counted.
 
 ---
 
@@ -374,7 +374,7 @@ The answer to it is the two layers. What is described below is the order set out
 
 We know of no system in which such a combination has been achieved in full.
 
-The closest to it is the deliberative polling that James Fishkin has conducted with Stanford University since 1988: a random sample, the study of vetted materials, discussion in small groups, questions to specialists of opposing views, and a repeat measurement. More than a hundred and fifty such exercises have been carried out in over fifty jurisdictions. There is selection by lot there, and preparation, and measurement before and after. Two things are missing: scale and a verifiable composition.
+The closest to it is the deliberative polling that James Fishkin has conducted with Stanford University since 1988: a random sample, the study of vetted materials, discussion in small groups, questions to specialists of opposing views, and a repeat measurement. More than a hundred and fifty such exercises have been carried out in over fifty jurisdictions. There is selection by lot there, and preparation, and measurement before and after. Two things are missing: scale, and a way to verify who is counted.
 
 The second closest case is the Global Assembly of 2021: a hundred people selected by lot from across the world so that the composition matched the population of the planet by age, sex, origin and income; sixty-eight hours of work over eleven weeks; the final declaration read out at the climate conference in Glasgow. This is, by all appearances, the upper limit of depth reached to date - and it stops at a hundred people.
 
@@ -621,7 +621,7 @@ Hence the need for membership - a boundary drawn by a person's own act, not by t
 
 *A people is not needed yet. An association has membership too.*
 
-**Step three.** The operator must have no ability to influence the result. That means it cannot include a person in the composition, exclude a person from the composition, change the rules along the way, change the question, or leave an inconvenient answer unpublished.
+**Step three.** The operator must have no ability to influence the result. That means it cannot add anyone to those who are counted or remove anyone from them, change the rules along the way, change the question, or leave an inconvenient answer unpublished.
 
 But that is exactly what it means to say that **the participants have rights against the operator**. And rights against the operator exist only where there is a document the operator cannot rewrite.
 
@@ -645,7 +645,7 @@ Hence it cannot belong to a single jurisdiction and cannot be subordinate to any
 
 The first is data. The second is will. An answer is owed to the second.
 
-Now put the steps together. A body that has a verifiable voluntary composition, a founding text beyond the reach of its own operators, self-governance instead of an owner, belonging to no state, and the ability to say "we" is what **we propose to regard as a people.**
+Now put the steps together. A body made up, as anyone can verify, of those who are in it by their own choice, with a founding text beyond the reach of its own operators, self-governance instead of an owner, belonging to no state, and the ability to say "we" is what **we propose to regard as a people.**
 
 This is our position, not a generally recognized legal test. International law does not establish that the combination of these features constitutes a people, and we do not pass off our own reasoning as a norm.
 
@@ -659,7 +659,7 @@ A comparison with the nearest familiar form shows the same conclusion more brief
 
 | | A social movement | A people |
 |---|---|---|
-| Composition | declared support, unverifiable by nature | mutual recognition, which is two-sided and therefore countable |
+| Who makes it up | declared support, unverifiable by nature | mutual recognition, which is two-sided and therefore countable |
 | Lifespan | until the question it exists for is resolved; exhausted by victory or defeat | not exhausted by a question, cannot be waited out |
 | Geography | national; international as a network of national ones | in all jurisdictions at once and in none of them separately |
 | Legal character | is not a bearer of the right to self-determination | a bearer, if the features are established; the question is open |
@@ -708,7 +708,7 @@ And not one body in any country treats that registry as a source of measurements
 
 There, the instrument works. Its readings carry no weight.
 
-We do not consider that project to be acting in bad faith and do not dispute its technical side, much of which is done better than ours. We point to something else: **the same instrument, built without a people, met exactly the fate that steps three and four predict.** It has an owner - which means it can be bought. It has no composition but users - which means the company sets the denominator. And to the question "who authorized you to ask" it has no answer.
+We do not consider that project to be acting in bad faith and do not dispute its technical side, much of which is done better than ours. We point to something else: **the same instrument, built without a people, met exactly the fate that steps three and four predict.** It has an owner - which means it can be bought. It has users, not a people - which means the company sets the denominator. And to the question "who authorized you to ask" it has no answer.
 
 **The fourth. Who will answer the fortieth question.**
 
@@ -828,7 +828,7 @@ The other side of this has to be said too, because it matters just as much: **if
 
 ### 8. Success that corrupts
 
-**What happens.** The instrument becomes influential. The influence begins to seem too valuable to risk for the sake of neutrality. The temptation arises, just once, not to publish an unwelcome result, just once not to ask about what would split the composition, just once to touch up a wording.
+**What happens.** The instrument becomes influential. The influence begins to seem too valuable to risk for the sake of neutrality. The temptation arises, just once, not to publish an unwelcome result, just once not to ask about what would divide the people, just once to touch up a wording.
 
 **Why this is worth recording in advance.** Because it happens not to bad people but to those who value what has been achieved, and it is always recognized after the fact.
 

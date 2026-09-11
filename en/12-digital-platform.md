@@ -259,7 +259,7 @@ Particular technologies - blockchains, databases, languages, frameworks - may ch
 
 The platform is not tied forever to a single technology stack. Through any migration the principles are preserved: non-transferable identity, an equal inalienable vote, verifiability of processes, and protection of every person.
 
-> **The ability to exist without an operator.** The registry of passports is kept on a distributed network, not on the platform's servers. This means that the composition of the people does not depend on who operates the platform today, and is preserved through a change of operator, through a migration of infrastructure, and through a re-founding recognized by the Roadmap as a legitimate continuation.
+> **The ability to exist without an operator.** The registry of passports is kept on a distributed network, not on the platform's servers. This means that who makes up the people does not depend on who operates the platform today and stays the same through a change of operator, through a migration of infrastructure, and through a re-founding recognized by the Roadmap as a legitimate continuation.
 
 ---
 

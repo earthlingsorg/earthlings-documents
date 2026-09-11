@@ -200,7 +200,7 @@ The support is the doctrine of the common heritage of mankind, already fixed for
 
 Humanity lacks a legal voice not because it is large or differs from no one, but because it is unconstituted: there is no act of belonging, no institutions, no mechanism for expressing a common will. Subjecthood is a function of being constituted, not of contrast with "the others".
 
-A hypothetical people that included every human being would not coincide with humanity-as-aggregate - it would be humanity organized: with a registry, a will, and institutions. The difference in composition would disappear, the difference in constitution would remain, and the whole point lay in that.
+A hypothetical people that included every human being would not coincide with humanity-as-aggregate - it would be humanity organized: with a registry, a will, and institutions. The difference in who makes them up would disappear, the difference in how they are constituted would remain, and the whole point lay in that.
 
 In practice the question does not arise: at any realistic scale those who have not joined number in the billions, and Earthlings speaks only for those who have. An objection that begins to work only at an unreachable limit confirms the scheme across the whole real distance: no one treats it as an argument against French peoplehood that, on the hypothetical naturalization of all humanity, it would coincide with humanity.
 
