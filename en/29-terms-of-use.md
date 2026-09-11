@@ -4,14 +4,14 @@
 
 > Where these Terms diverge from the [Charter](https://earth-lings.org/documents/en/en05-charter.html), the Charter prevails; where the Charter diverges from the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), the Declaration prevails. The processing of data is described in the [Privacy Policy](https://earth-lings.org/documents/en/en28-privacy-policy.html).
 
-## The substance in a few points
+## The key points
 
 - you become part of a people united by shared values;
 - participation is voluntary - you can leave at any time, without giving reasons;
-- data are processed on the principle of minimization; you choose your pseudonym and the extent of your participation yourself;
-- decisions are taken by a vote in which your vote equals any other;
-- the laws of your country are not affected, and no renunciation of citizenship is required;
-- the passport confirms belonging and replaces no documents.
+- data are processed in line with the principle of data minimization; you choose your own pseudonym and decide for yourself how far you take part;
+- decisions are taken by a vote in which your vote carries the same weight as any other;
+- the laws of your country are not affected, and you are not required to renounce your citizenship;
+- the passport confirms belonging and does not replace any document.
 
 ---
 
@@ -19,15 +19,15 @@
 
 Most terms of use are written by corporations to protect corporations. This is not that kind of document.
 
-These Terms describe how the people's participants interact with one another: what rights they hold and what commitments they take on voluntarily.
+These Terms describe how participants in the people interact with one another: what rights they hold and what commitments they take on voluntarily.
 
-**Plain language.** We avoid legal jargon wherever we can. If a condition is unclear, then it is badly written.
+**Plain language.** We avoid legal jargon wherever we can. If a provision is unclear, that means it is badly written.
 
 **Reciprocity.** This is not a list of restrictions for you and privileges for us.
 
 **Transparency.** Every rule is explained. There is no small print.
 
-If something is unclear or unacceptable - write to us. Proposals to amend these Terms are put to a vote of the Assembly.
+If anything is unclear or unacceptable, write to us. Proposals to amend these Terms are put to a vote of the Assembly.
 
 ---
 
@@ -35,11 +35,11 @@ If something is unclear or unacceptable - write to us. Proposals to amend these 
 
 ## Who we are
 
-Earthlings is a self-determined transnational people existing as a matter of fact on the basis of the Earthlings Declaration. What unites us is shared values, not territory or descent.
+Earthlings is a self-determined transnational people that exists as a matter of fact, on the basis of the Earthlings Declaration. We are united by shared values, not by territory or descent.
 
-The people exists and develops with its own infrastructure, governance, and identity regardless of how international law comes to classify it in time: no body that recognizes peoples exists for anyone. Legal visibility - being treated as a people where a specific question arises - accumulates through practice, time, and the number of participants. How this is arranged and what is said against us: [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
+The people exists and develops with its own infrastructure, governance, and identity however international law eventually classifies it: no body that recognizes peoples exists for anyone. Legal visibility - being treated as a people where a specific question arises - accumulates through practice, time, and the number of participants. For how this works and what is said against us, see [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html) and [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
 
-> **Belonging to the people is additional, not a replacement.** It does not cancel your citizenship and does not require you to renounce it.
+> **Belonging to the people is an addition, not a replacement.** It does not cancel your citizenship and does not require you to renounce it.
 
 ## Values
 
@@ -47,7 +47,7 @@ The people exists and develops with its own infrastructure, governance, and iden
 - **freedom and self-determination** - everyone is entitled to determine their own belonging;
 - **planetary solidarity**;
 - **transparency** - the infrastructure is open to verification, and decisions are taken collectively;
-- **no power of some over others** - no one holds a position above another person; we are building a horizontal design.
+- **no power of some over others** - no one holds a position above another person; we are building a horizontal structure.
 
 These values are embodied in the architecture, not merely declared.
 
@@ -64,7 +64,7 @@ These values are embodied in the architecture, not merely declared.
 
 **What it gives:** the passport, the right to vote, participation in Cells, access to the infrastructure.
 
-**What is expected:** following the principles of the Declaration. The extent of participation is left to your judgment: there is no obligatory activity.
+**What is expected of you:** following the principles of the Declaration. The extent of your participation is left to your judgment: there is no obligatory activity.
 
 ## Procedure
 
@@ -72,19 +72,19 @@ These values are embodied in the architecture, not merely declared.
 2. confirming the email address;
 3. reading the Declaration;
 4. signing the Declaration - it is this act that creates belonging;
-5. identity verification;
+5. verifying your identity;
 6. making the contribution;
 7. receiving the passport.
 
-**On the accuracy of data.** The country and age must be stated truthfully, and the document presented at verification must be genuine. Real first and last names are not retained: the document data are checked only at the moment of verification.
+**Accuracy of data.** Your country and age must be stated truthfully, and the document presented for verification must be genuine. Real first and last names are not retained: the document data are checked only at the moment of verification.
 
 ## Responsibility for your account
 
-You are responsible for keeping your password and cryptographic keys safe, for actions taken from your account, and for notifying support if you suspect a compromise.
+You are responsible for keeping your password and cryptographic keys safe, for actions taken through your account, and for notifying support if you suspect a compromise.
 
-**We cannot recover lost keys.** They are not held by us in any form. This is the other side of the fact that no one can dispose of your passport for you.
+**We cannot recover lost keys.** We do not keep them in any form. This is the flip side of the fact that no one can dispose of your passport for you.
 
-## Restrictions: what is possible and what is not
+## Restrictions: what can and cannot happen
 
 **What never happens.** Expulsion from the people does not exist. Belonging is inalienable and ends only by your own decision. The platform, its administrators, and the technical structures hold no such powers and cannot hold them.
 
@@ -92,21 +92,21 @@ You are responsible for keeping your password and cryptographic keys safe, for a
 
 **The right to vote** may be suspended **only** for proven undermining of the integrity of the voting itself - collusion, buying or selling a vote, coercing others, an attempt to circumvent the rule of "one person, one passport" - for a period of up to 6 months, under the procedure of Article 22 bis of the Charter. Views, how a person voted, and disagreement with decisions are not a ground on any construction whatever.
 
-**What the administration may do without a decision of the Assembly.** One thing only: suspend access to an account where there are clear signs that it has been compromised or is under technical attack - with immediate notice to the participant and subsequent consideration by the Assembly. This protects your account; it is not a measure of liability and does not affect a participant's rights.
+**What the administration may do without a decision of the Assembly.** One thing only: suspend access to an account where there are clear signs of the account being compromised or subjected to a technical attack - with immediate notice to the participant and subsequent consideration by the Assembly. This protects your account; it is not a measure of liability and does not affect a participant's rights.
 
 ---
 
 # SECTION 04. Rules of interaction
 
-## What is welcomed
+## What is welcome
 
 - respect for others regardless of origin, views, and identity;
 - constructive criticism and the exchange of ideas;
-- contribution to the common cause - projects, initiatives, help to others;
+- contribution to the common cause - projects, initiatives, helping others;
 - openness to dialogue;
 - protection of those who are vulnerable.
 
-## What is inadmissible
+## What is not allowed
 
 - discrimination on any ground;
 - threats, harassment, bullying, including covert bullying;
@@ -120,17 +120,17 @@ You are responsible for keeping your password and cryptographic keys safe, for a
 ## Resolving conflicts
 
 1. try to settle the matter directly;
-2. turn to an independent intermediary;
-3. serious disputes go to the Independent Council once it is formed; until then they are considered by the Assembly with doubled periods of discussion;
+2. turn to an independent mediator;
+3. serious disputes go to the Independent Council once it is formed; until then they are considered by the Assembly with the periods of discussion doubled;
 4. in extreme cases the question is put to a vote.
 
 ---
 
-# SECTION 05. Content and rights in it
+# SECTION 05. Content and the rights in it
 
 ## Your content
 
-Everything you create and publish remains yours. By publishing material you permit it to be displayed and distributed among participants as part of the platform's working, with attribution, including translation and technically necessary transformations. This creates no other rights, and the permission ends when the material is deleted.
+Everything you create and publish remains yours. By publishing material you permit it to be displayed and distributed among participants as part of the platform's operation, with attribution; the permission covers translation and technically necessary conversions. This creates no other rights, and the permission ends when the material is deleted.
 
 We recommend open licences, but the choice is always yours.
 
@@ -140,9 +140,9 @@ Documents, tools, and materials created by the infrastructure itself are publish
 
 ## Other people's rights
 
-You undertake not to publish material infringing other people's copyright, to cite sources when quoting, to observe licence terms, and to respect other people's personal data.
+You undertake: not to publish material that infringes other people's copyright; to cite sources when quoting; to observe licence terms; and to respect other people's personal data.
 
-On a substantiated complaint the material in question is taken down, and the author is notified and entitled to object.
+If a substantiated complaint is made, the material in question is taken down, and the author is notified and is entitled to object.
 
 ---
 
@@ -150,11 +150,11 @@ On a substantiated complaint the material in question is taken down, and the aut
 
 ## What it is
 
-A non-transferable digital identifier of belonging to the people, existing in a distributed ledger.
+A non-transferable digital identifier of belonging to the people, that exists in a distributed ledger.
 
 **What it gives:** confirmation of status, the right to vote, access to the infrastructure, participation in Cells.
 
-**What it does not give:** citizenship, a right of entry to countries, a replacement for a national passport, official status in state institutions, income.
+**What it does not give:** citizenship, a right of entry into any country, a replacement for a national passport, official status with state institutions, income.
 
 > The marks of participation accumulated in the system are purely informational: they affect neither the weight of a vote nor access to any role (Charter, Article 8).
 
@@ -162,7 +162,7 @@ A non-transferable digital identifier of belonging to the people, existing in a 
 
 **Non-transferability.** The passport cannot be sold, transferred, given away, or inherited; transfer is blocked in the contract itself.
 
-**Immutability.** The record cannot be forged or altered unnoticed.
+**Immutability.** The record cannot be forged, or altered without detection.
 
 **Privacy.** The fact that a passport is held is visible in the ledger; your personal data are not.
 
@@ -182,9 +182,9 @@ Earthlings Coin is a utility unit of the internal economy. It is not a share, no
 
 **What it is for:** paying for services within the ecosystem, supporting projects, rewarding contribution.
 
-## What matters to understand
+## What is important to understand
 
-**Today** the unit circulates only within the ecosystem and is traded nowhere. Belonging is confirmed by the passport, not by the unit; the unit gives no votes whatever the amount held.
+**Today** the unit circulates only within the ecosystem and is not traded anywhere. Belonging is confirmed by the passport, not by the unit; the unit gives no votes whatever the amount held.
 
 **In the future** exchange availability is possible, but it is not promised and is not an aim. It does not turn the unit into an investment instrument and does not mean a promise of growth in value - no one gives such a promise under any course of events.
 
@@ -192,7 +192,7 @@ More detail is in the document [Earthlings Coin](https://earth-lings.org/documen
 
 ## Your responsibility
 
-Compliance with the legislation of your country regarding digital assets; taxation of transactions; safe storage of keys; understanding the risks. These Terms are not tax or investment advice.
+Compliance with the legislation of your country regarding digital assets; tax on your transactions; safe storage of keys; understanding the risks. These Terms are not tax or investment advice.
 
 ---
 
@@ -205,24 +205,24 @@ The DAO Assembly is **the sole body that takes binding decisions**. All the othe
 1. **Proposal.** Any participant submits a proposal. No prior approval, collection of signatures, or threshold of support is required.
 2. **Discussion.** The proposal is discussed publicly, refined, and revised.
 3. **Voting.** Under the thresholds and quorums set by the Charter.
-4. **Execution.** Automatically through smart contracts or by the technical structures in execution of the decision.
+4. **Execution.** The decision is carried out automatically through smart contracts or by the technical structures.
 5. **Transparency.** The history of proposals, discussions, and outcomes is public.
 
 ## What is decided by a vote
 
-Everything material: amending the Charter and the rules; allocation of common funds and funding of projects; the election and recall of the Core Nodes, the Emergency Multisig, and the Independent Council; restriction of powers and suspension of the right to vote; strategic directions; partnerships; platform parameters.
+All material matters: amending the Charter and the rules; allocation of common funds and funding of projects; the election and recall of the Core Nodes, the Emergency Multisig, and the Independent Council; restriction of powers and suspension of the right to vote; strategic directions; partnerships; platform parameters.
 
 ## Your rights
 
 - to vote on every question;
 - to submit proposals;
-- to transfer your vote in a particular area to another participant and **to revoke the transfer in one step**, without giving reasons and without their consent; transfer across all questions at once is impossible, chains are prohibited, and the ceiling and the list of questions with no delegation are set out in Article 7 of the Charter;
+- to transfer your vote in a particular area to another participant and **to revoke the transfer in one step**, without giving reasons and without the delegate's consent; transfer across all questions at once is impossible, chains are prohibited, and the ceiling and the list of questions with no delegation are set out in Article 7 of the Charter;
 - to view the whole history of decisions;
-- to challenge decisions breaching the unamendable core of the Declaration.
+- to challenge decisions that breach the unamendable core of the Declaration.
 
 ## Special situations
 
-In the event of critical vulnerabilities and attacks the Emergency Multisig is entitled to act immediately within the limits of Article 3 of the Charter - with a public report within 48 hours and confirmation by the Assembly within 7 days, failing which the action is reversed. Any action may be reversed by the Assembly by a simple majority.
+In the event of critical vulnerabilities or attacks the Emergency Multisig is entitled to act immediately within the limits of Article 3 of the Charter - with a public report within 48 hours and confirmation by the Assembly within 7 days, failing which the action is reversed. Any action may be reversed by the Assembly by a simple majority.
 
 Abuse leads to recall by a simple majority at any time.
 
@@ -233,12 +233,12 @@ Abuse leads to recall by a simple majority at any time.
 Cells are small teams of participants working on particular projects: technical, educational, research, cultural, social.
 
 - **size** - from 2 to 6 people; if more are needed, several Cells are created rather than one large one;
-- **creation** - any participant joins with others around an aim; leaders are not appointed from above;
+- **creation** - any participant comes together with others around an aim; leaders are not appointed from above;
 - **decisions within a Cell** are taken by consent: a decision passes if no one has raised a reasoned objection;
 - **funding** is requested from the common treasury through a vote of the Assembly;
 - **contribution to the common good** - 5 per cent of a Cell's profit goes to the treasury.
 
-Leaving a Cell is always free and affects neither belonging to the people nor the right to vote. More detail is in the document [Earthlings Cells](https://earth-lings.org/documents/en/en08-cells.html).
+Participants are always free to leave a Cell, and leaving affects neither belonging to the people nor the right to vote. More detail is in the document [Earthlings Cells](https://earth-lings.org/documents/en/en08-cells.html).
 
 ---
 
@@ -249,8 +249,8 @@ Leaving a Cell is always free and affects neither belonging to the people nor th
 - keep the infrastructure working;
 - protect data in accordance with the Privacy Policy;
 - report problems and changes transparently;
-- consider enquiries within reasonable periods;
-- consider in good faith any claim of documented loss connected with our technical errors, and seek a fair resolution.
+- consider enquiries within a reasonable time;
+- consider in good faith any enquiry about documented loss connected with our technical errors, and seek a fair resolution.
 
 ## What you are responsible for
 
@@ -261,11 +261,11 @@ Compliance with the legislation of your country; the security of your own keys a
 - participants' actions towards one another;
 - the loss of your cryptographic keys - they cannot be recovered;
 - failures of distributed networks beyond our control;
-- content and actions on external venues.
+- content and actions on external platforms.
 
 > Nothing in this section limits your liability or our obligations to the extent that such limitation is not permitted by the law applicable to you.
 
-**Force majeure.** In the event of natural disasters, military action, critical changes of legislation, and large-scale technical failures, the operation of services may be temporarily suspended with notice to participants.
+**Force majeure.** In the event of natural disasters, military action, critical changes in legislation, or large-scale technical failures, the operation of services may be temporarily suspended with notice to participants.
 
 ---
 
@@ -277,21 +277,21 @@ The contribution is made once, covers the cost of the procedure - identity verif
 
 ## The right to withdraw and its limits
 
-**Before identity verification begins** you are entitled to withdraw from the service and receive the contribution back in full, without giving reasons.
+**Before identity verification begins** you are entitled to withdraw from the service and have the contribution refunded in full, without giving reasons.
 
-**Immediately before verification starts** you separately and expressly confirm that you wish the service to be performed immediately and understand that after the passport is issued the service is deemed fully performed and the right of withdrawal ends. Without such confirmation verification does not begin.
+**Before verification begins** you separately and expressly confirm that you wish the service to be performed immediately and that you understand that after the passport is issued the service is deemed fully performed and the right of withdrawal ends. Verification does not begin without such confirmation.
 
-**After the passport is issued** the service has been performed and no refund is made: the costs of verification and issuance have been incurred and are not returned to anyone.
+**After the passport is issued** the service has been performed and no refund is made: the costs of verification and issuance have been incurred and are not reimbursed to anyone.
 
-> If the legislation of your country gives you broader consumer rights, it is those rights that apply, not this section.
+> If the legislation of your country gives you broader consumer rights, those rights apply instead of this section.
 
-Donations beyond the contribution are entirely voluntary, do not affect status, and are not refundable.
+Donations in addition to the contribution are entirely voluntary, do not affect your status, and are not refundable.
 
 ## Technical failures
 
-Write to info@earth-lings.org, attaching a description, screenshots, and transaction identifiers. Every situation is considered separately, and we seek a fair resolution within our technical means.
+Write to info@earth-lings.org, attaching a description, screenshots, and transaction identifiers. Each case is considered individually, and we seek a fair resolution within the limits of what is technically possible.
 
-We are not responsible for keys you have lost, break-ins to your external wallets, and errors in sending transactions.
+We are not responsible for keys you have lost, break-ins to your external wallets, or errors in sending transactions.
 
 ---
 
@@ -307,19 +307,19 @@ Internal disputes between participants are resolved by the procedures of the Cha
 
 # SECTION 13. Amendments to these Terms
 
-**Technical corrections** that do not change the meaning and do not affect your rights - correcting typographical errors, refining wording - are made with publication of the list of changes.
+**Technical corrections** that do not change the meaning and do not affect your rights - correcting typographical errors, refining wording - are made, and the list of changes is published.
 
-**Any change affecting the rights and obligations of participants** is put to discussion and to a vote of the Assembly. Such changes are not made unilaterally.
+**Any change affecting the rights and obligations of participants** is put to the Assembly for discussion and a vote. Such changes are not made unilaterally.
 
-**Notice procedure:** no fewer than 30 days before entry into force, by email and on the platform, with publication of the list of changes.
+**Notice procedure:** notice is given no fewer than 30 days before the changes take effect, by email and on the platform, together with publication of the list of changes.
 
-**Your right to object** has a consequence: if the changes are unacceptable to you, you are entitled to leave the people before they take effect, and this entails no loss for you other than the ending of participation. Continuing to participate after the changes take effect means agreement with them.
+**Your right to object** has this consequence: if the changes are unacceptable to you, you are entitled to leave the people before they take effect, and leaving entails no loss for you other than the end of your participation. Continuing to participate after the changes take effect means that you agree to them.
 
 ---
 
 # SECTION 14. Consent
 
-The principal act of consent is **signing the Earthlings Declaration**: it is by that act that belonging to the people is created and the conditions of these Terms are accepted.
+The principal act of consent is **signing the Earthlings Declaration**: it is by that act that belonging to the people is created and these Terms are accepted.
 
 By signing the Declaration and receiving the passport you confirm that:
 
@@ -329,7 +329,7 @@ By signing the Declaration and receiving the passport you confirm that:
 - you have reached the age of 18;
 - you are entitled to take on such commitments in your jurisdiction.
 
-The current version of these Terms, the Declaration, the Privacy Policy, and all related documents are permanently available at earth-lings.org and are open before entry.
+The current version of these Terms, the Declaration, the Privacy Policy, and all related documents are permanently available at earth-lings.org and are open before entry into the people.
 
 ---
 
