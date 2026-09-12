@@ -14,11 +14,11 @@
 
 **Identity verification** - confirmation that you are a living human being and that there is only one of you.
 
-**A one-time contribution** - the equivalent of 79 USD.
-
 No other conditions exist. Nationality, race, religion, sex, social position, citizenship, and place of residence have no bearing on the possibility of entering.
 
-> **If you cannot make the contribution**, another person makes it for you. This is covered in section 9. Nothing has to be proven or explained. The contribution does not buy belonging to the people: belonging arises by signing the Declaration.
+**The one-time contribution** - the equivalent of 79 USD - covers identity verification, the issuance of the passport, and the upkeep of the infrastructure. It is not a condition of belonging.
+
+> **If you cannot make the contribution**, you may join an open queue, and the contribution for you may be made by another person or by the Treasury; there is no guarantee that it will be. This is covered in section 9. Nothing has to be proven or explained. The contribution does not buy belonging to the people: belonging arises by signing the Declaration.
 
 ---
 
@@ -28,9 +28,9 @@ No other conditions exist. Nationality, race, religion, sex, social position, ci
 
 **2. Registration.** Email, country of residence, and a pseudonym or name of your choosing.
 
-**3. Signing the Declaration.** Confirmation of agreement with the people's principles. It is this act that creates belonging.
+**3. Identity verification.** A face scan and a check against an identity document.
 
-**4. Identity verification.** A face scan and a check against an identity document.
+**4. Signing the Declaration.** Confirmation of agreement with the people's principles. It is this act that creates belonging.
 
 **5. Paying the contribution.** By cryptocurrency (ETH, USDT, USDC). Payment by bank card is in development. If you have no money, there is a second button in the same place - "I need the contribution"; it asks nothing and leads to the open queue (section 9).
 
@@ -42,7 +42,7 @@ No other conditions exist. Nationality, race, religion, sex, social position, ci
 
 ## 3. What you receive
 
-**You cannot be expelled.** No procedure for expulsion from the Earthlings people exists under any circumstances or for any majority. Belonging ends only by your own decision.
+**You cannot be expelled.** No procedure for expulsion from the Earthlings people exists under any circumstances or for any majority. Belonging ends only by your own decision or on your death.
 
 **Your vote cannot be taken away for how you think and how you vote.** Not for your views, not for how you voted, not for disagreement with decisions, and not as a general measure of liability. The single exception is a proven attack on the voting mechanism itself; the procedure and periods are set out in the [Charter, Article 22 bis](https://earth-lings.org/documents/en/en05-charter.html).
 
@@ -97,7 +97,7 @@ These are duties, not conditions for keeping your status: breaching them entails
 
 As a general rule you alone burn your passport. The Charter (Article 21) establishes **two and only two** exceptions, and this list cannot be extended.
 
-**1. Annulment of an invalid issuance.** It applies where it is established that more than one valid passport has been issued to one person, or that verification was passed using falsified data or another person's identity.
+**1. Annulment of an invalid issuance.** It applies where it is established that more than one valid passport has been issued to one person, or that verification was passed using falsified data or another person's identity, or that a passport was issued to a person below the age set by the Charter.
 
 This is not a measure of liability for conduct and not expulsion from the people: what is established is only that the issuance never lawfully took place. The procedure protects you at every step - notice, a period for objection, an opinion of the Independent Council, a secret ballot with a higher majority, a right of appeal; the periods and thresholds are set out in the [Charter, Article 21](https://earth-lings.org/documents/en/en05-charter.html). If the obstacle to lawful issuance is removed, you are entitled to undergo verification again on general terms.
 
@@ -119,15 +119,15 @@ More on what happens to the passport and to your data: [The earthling SBT passpo
 
 ## 9. If you have no money: paying for another
 
-There is no exemption from the contribution. There is something else: the contribution for you is made by someone else.
+There is no exemption from the contribution. There is something else: the contribution for you may be made by someone else, but there is no guarantee that it will be.
 
 **What this looks like for you.** At the payment step, next to the "pay" button, there is a second one - "I need the contribution". It asks neither your country, nor your income, nor your reason: you do not have to prove anything or say anything about yourself. One press, and you are in the open queue.
 
 Only a number and a date are visible in the queue. No name, no country, no reason. The queue must not become a shop window of the needy.
 
-When the queue reaches you, the passport is issued by itself and you receive an email. The passport is then exactly like everyone else's: the registry does not record who made the contribution for it, and it is impossible to tell from it who paid for themselves and who was paid for by another person. There are no first-class and second-class passports in this people.
+If the contribution is made for you, the passport is issued automatically and you receive an email. The passport is then exactly like everyone else's: the registry does not record who made the contribution for it, and it is impossible to tell from it who paid for themselves and who was paid for by another person. There are no first-class and second-class passports in this people.
 
-You will have to wait. What we promise is not instant entry but that money will not become a wall forever: it makes entry slower, not closed.
+You will have to wait for the passport to be issued, and there is no way to know in advance how long: payment for you is possible but not guaranteed. Belonging to the people does not depend on this: it arises by signing the Declaration, not by the contribution.
 
 **What this looks like for the person paying.** Any person - earthling or not - sees how many people are in the queue and may pay for one, for five, or for as many as they wish. Payment goes by the same method and to the same address as paying for oneself.
 

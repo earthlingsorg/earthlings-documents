@@ -189,7 +189,7 @@
 
 ## 独立的监督
 
-生物特征数据处理的伦理问题，提交[独立理事会](https://earth-lings.org/documents/zh/zh11-independent-council.html)审议——它是一个不从属于平台运营者的机关。在理事会组成之前，这类问题由 DAO 全体大会审议，而公开讨论的期限加倍（宪章第三十九条）。
+生物特征数据处理的伦理问题，提交[独立理事会](https://earth-lings.org/documents/zh/zh11-independent-council.html)审议——它是一个不从属于平台运营者的机关。在理事会组成之前，这一阶段略过，而这类问题公开讨论的期限加倍（宪章第三十九条）。
 
 修改本政策的建议提交全体大会投票。
 

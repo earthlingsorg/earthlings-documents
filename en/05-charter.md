@@ -451,7 +451,7 @@ Deliberate concealment of a conflict of interest may entail a warning and measur
 
 ## Article 17. Fundamental Principle
 
-Belonging to the Earthlings people is inalienable. No one can be expelled from the Earthlings people under any circumstances. Having become an earthling, a person remains one until they themselves decide to leave.
+Belonging to the Earthlings people is inalienable. No one can be expelled from the Earthlings people under any circumstances. Having become an earthling, a person remains one until they themselves decide to leave; belonging also ends on their death (Declaration, Article 4).
 
 **The right to vote cannot be taken away or suspended for a person's views, for the content of their vote, for disagreement with decisions taken, or as a general measure of liability for breaking rules.** The vote is the substance of belonging: to take it away on such grounds would be to expel a person from the people while leaving them the name. The restrictive measures provided for by Article 22 do not affect the right to vote.
 
@@ -519,7 +519,7 @@ As a general rule an SBT passport is burned only by the holder themselves (Artic
 
 A passport may be annulled if it is established that it was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using false data or another person's identity, or the passport was issued to a person below the age set by this Charter. The list of grounds is exhaustive and accords with Article 8 of the Declaration.
 
-If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. The person's belonging to the people is preserved. In the two other cases - false particulars or another person's identity, and failure to reach the age set by this Charter - belonging itself likewise did not lawfully arise together with the issuance of the passport.
+If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. In none of the three cases does annulment end the person's belonging to the people (Declaration, Article 8).
 
 **Procedure:**
 - Initiation: a reasoned submission with evidence, made by any earthling or by Core Nodes following a technical check

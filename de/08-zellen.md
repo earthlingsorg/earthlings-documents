@@ -296,7 +296,7 @@ Andere Gründe gibt es nicht. Die Beschlüsse werden mit qualifizierter Mehrheit
 
 ## Der Austritt aus einer Zelle und die Zugehörigkeit zum Volk
 
-Der Austritt aus einer Zelle, der Ausschluss aus einem Projektteam und die Auflösung einer Zelle sind Ereignisse innerhalb einer Arbeitsstruktur. Mit der Zugehörigkeit eines Menschen zum Volk der Earthlings haben sie nichts zu tun: Die Zugehörigkeit ist unveräußerlich und endet allein durch die eigene Entscheidung des Menschen.
+Der Austritt aus einer Zelle, der Ausschluss aus einem Projektteam und die Auflösung einer Zelle sind Ereignisse innerhalb einer Arbeitsstruktur. Mit der Zugehörigkeit eines Menschen zum Volk der Earthlings haben sie nichts zu tun: Die Zugehörigkeit ist unveräußerlich und endet allein durch die eigene Entscheidung des Menschen oder infolge seines Todes.
 
 ---
 

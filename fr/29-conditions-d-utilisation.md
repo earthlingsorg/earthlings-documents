@@ -6,7 +6,7 @@
 
 ## L'essentiel en quelques points
 
-- vous devenez partie d'un peuple réuni par des valeurs communes;
+- en signant la Déclaration après son adoption, vous devenez partie d'un peuple réuni par des valeurs communes;
 - la participation est volontaire: on peut partir à tout moment, sans avoir à s'expliquer;
 - les données sont traitées selon le principe de minimisation; vous choisissez vous-même votre pseudonyme et la mesure de votre participation;
 - les décisions sont prises par un vote où votre voix vaut celle de tout autre;
@@ -35,9 +35,9 @@ Si quelque chose est obscur ou inacceptable, écrivez-nous. Les propositions de 
 
 ## Qui nous sommes
 
-Les Earthlings sont un peuple transnational qui s'est déterminé lui-même et qui existe en fait sur le fondement de la Déclaration des Earthlings. Ce qui nous réunit, ce sont des valeurs communes, non un territoire ou une origine.
+Les Earthlings sont un peuple transnational qui est constitué par l'adoption de la Déclaration des Earthlings. Ce qui nous réunit, ce sont des valeurs communes, non un territoire ou une origine.
 
-Le peuple existe et se développe avec son infrastructure, sa gouvernance et son identité, indépendamment de la manière dont le droit international le qualifiera avec le temps: il n'existe pour personne d'organe qui reconnaisse les peuples. La discernabilité juridique - le fait d'être traité comme un peuple là où naît une question concrète - s'accumule par la pratique, le temps et le nombre de participants. Comment cela est agencé et ce que l'on dit contre nous: [Base juridique](https://earth-lings.org/documents/fr/fr04-base-juridique.html), [Objections et réponses](https://earth-lings.org/documents/fr/fr26-objections-et-reponses.html).
+L'existence du peuple, avec son infrastructure, sa gouvernance et son identité, ne dépend pas de la manière dont le droit international le qualifiera avec le temps: il n'existe pour personne d'organe qui reconnaisse les peuples. La discernabilité juridique - le fait d'être traité comme un peuple là où naît une question concrète - s'accumule par la pratique, le temps et le nombre de participants. Comment cela est agencé et ce que l'on dit contre nous: [Base juridique](https://earth-lings.org/documents/fr/fr04-base-juridique.html), [Objections et réponses](https://earth-lings.org/documents/fr/fr26-objections-et-reponses.html).
 
 > **L'appartenance au peuple s'ajoute, elle ne remplace pas.** Elle n'abolit pas votre nationalité et n'exige pas d'y renoncer.
 
@@ -60,7 +60,7 @@ Ces valeurs sont incarnées dans l'architecture, elles ne sont pas seulement én
 **Âge** - avoir atteint l'âge de 18 ans.
 **Signature** de la Déclaration des Earthlings.
 **Vérification d'identité** par le système propre au peuple.
-**Cotisation unique** - l'équivalent de 79 USD. Celui qui ne peut pas la verser lui-même entre dans une file d'attente ouverte, et la cotisation est versée pour lui par une autre personne ou par la Trésorerie; aucune exonération n'est prévue, la cotisation est en tout état de cause versée intégralement (Charte, article 12 bis).
+Il n'existe pas d'autres conditions d'appartenance. La **cotisation unique** - l'équivalent de 79 USD - couvre la vérification d'identité, la délivrance du passeport et le maintien de l'infrastructure, et n'est pas une condition de l'appartenance. Celui qui ne peut pas la verser lui-même peut entrer dans une file d'attente ouverte, et la cotisation peut être versée pour lui par une autre personne ou par la Trésorerie, mais rien ne le garantit; aucune exonération n'est prévue, la cotisation est en tout état de cause versée intégralement (Charte, article 12 bis).
 
 **Ce que cela donne:** le passeport, le droit de vote, la participation aux cellules, l'accès à l'infrastructure.
 
@@ -71,10 +71,12 @@ Ces valeurs sont incarnées dans l'architecture, elles ne sont pas seulement én
 1. création d'un compte: pseudonyme de votre choix, adresse électronique, pays, confirmation de l'âge;
 2. confirmation de l'adresse électronique;
 3. prise de connaissance de la Déclaration;
-4. signature de la Déclaration - c'est cet acte qui crée l'appartenance;
-5. vérification de l'identité;
+4. vérification de l'identité;
+5. signature de la Déclaration - c'est cet acte qui crée l'appartenance;
 6. versement de la cotisation;
 7. réception du passeport.
+
+> **Pendant la période constituante** - du 22 octobre 2026 jusqu'à l'adoption de la Déclaration - la signature de la Déclaration et l'adhésion au peuple sont suspendues: le peuple défini par un texte adopté n'existe pas encore. Pendant cette période, la vérification d'identité est gratuite, et à son issue est délivré un document temporaire de participant à la constitution, et non un passeport ([La période constituante](https://earth-lings.org/documents/fr/fr20-periode-constituante.html), partie 2, point 5).
 
 **Sur l'exactitude des données.** Le pays et l'âge doivent être indiqués de façon véridique, et le document doit être authentique lors de la vérification. Les nom et prénom réels ne sont pas conservés: les données du document ne sont contrôlées qu'au moment de la vérification.
 
@@ -86,13 +88,13 @@ Vous répondez de la conservation de votre mot de passe et de vos clés cryptogr
 
 ## Les restrictions: ce qui est possible et ce qui ne l'est pas
 
-**Ce qui n'arrive jamais.** L'exclusion du peuple n'existe pas. L'appartenance est inaliénable et ne prend fin que par votre propre décision. La plateforme, ses administrateurs et les structures techniques n'ont pas et ne peuvent pas avoir de tels pouvoirs.
+**Ce qui n'arrive jamais.** L'exclusion du peuple n'existe pas. L'appartenance est inaliénable et ne prend fin que par votre propre décision ou par l'effet de votre décès. La plateforme, ses administrateurs et les structures techniques n'ont pas et ne peuvent pas avoir de tels pouvoirs.
 
-**Ce que l'Assemblée peut décider**, selon la procédure de l'article 22 de la Charte, avec droit de se défendre, vote secret et recours: prononcer un avertissement et disposer du bien commun - retirer le financement d'un projet, cesser le financement d'une cellule, retirer la reconnaissance. Ces mesures ne portent aucune atteinte aux droits d'une personne: ni l'appartenance, ni la voix, ni le droit de faire des propositions et de poser des questions, ni la participation aux cellules, ni l'accès à la plateforme et à ses services.
+**Ce que l'Assemblée peut décider**, selon la procédure de l'article 22 de la Charte, avec droit de se défendre, vote secret et recours: prononcer un avertissement et disposer du bien commun - retirer le financement d'un projet, cesser le financement d'une cellule, retirer la reconnaissance, dissoudre une cellule (les motifs et les modalités sont prévus à l'article 25 de la Charte). Ces mesures ne portent aucune atteinte aux droits d'une personne: ni l'appartenance, ni la voix, ni le droit de faire des propositions et de poser des questions, ni le droit de créer des cellules et d'y entrer, ni l'accès à la plateforme et à ses services.
 
 **Le droit de vote** ne peut être suspendu **que** pour une atteinte établie à l'intégrité du vote lui-même - entente, achat ou vente d'une voix, contrainte exercée sur d'autres, tentative de contourner la règle « une personne - un passeport » -, pour une durée maximale de 6 mois, selon la procédure de l'article 22 bis de la Charte. Les opinions, le contenu du vote et le désaccord avec les décisions ne sont un motif sous aucune présentation.
 
-**Ce que l'administration peut faire sans décision de l'Assemblée.** Une seule chose: suspendre l'accès à un compte en cas de signes manifestes de compromission ou d'attaque technique, avec information immédiate du participant et examen ultérieur par l'Assemblée. C'est une protection de votre compte et non une sanction, et cela n'affecte pas les droits du participant.
+**Ce que l'administration peut faire sans décision de l'Assemblée.** Deux choses seulement. La première: suspendre l'accès à un compte en cas de signes manifestes de compromission ou d'attaque technique, avec information immédiate du participant et examen ultérieur par l'Assemblée; c'est une protection de votre compte et non une sanction, et cela n'affecte pas les droits du participant. La seconde: suspendre le compte s'il apparaît qu'une personne n'ayant pas atteint l'âge de 18 ans s'est inscrite (Politique de confidentialité, section 10); le passeport est alors détruit par le titulaire lui-même ou selon la procédure d'annulation d'une délivrance non valide (Charte, article 21).
 
 ---
 
@@ -120,9 +122,9 @@ Vous répondez de la conservation de votre mot de passe et de vos clés cryptogr
 ## Le règlement des conflits
 
 1. essayez de régler la question directement;
-2. adressez-vous à un médiateur indépendant;
-3. les différends sérieux sont transmis au Conseil indépendant à mesure de sa constitution; jusque-là, ils sont examinés par l'Assemblée avec des délais de débat doublés;
-4. dans les cas extrêmes, la question est soumise au vote.
+2. avec l'accord de l'autre partie, adressez-vous à un médiateur indépendant: il n'y a pas de médiation sans l'accord des deux parties;
+3. les différends sérieux sont transmis au Conseil indépendant; tant que le Conseil n'est pas constitué, cette étape est omise et les délais de débat sont doublés (Charte, article 39);
+4. dans les cas extrêmes - si la médiation n'a pas abouti et que le différend touche les intérêts de la communauté ou exige une décision de principe -, chacune des parties a le droit de porter la question devant l'Assemblée.
 
 ---
 
@@ -184,7 +186,7 @@ L'Earthlings Coin est une unité utilitaire de l'économie interne. Ce n'est ni 
 
 ## Ce qu'il importe de comprendre
 
-**Aujourd'hui**, l'unité ne circule qu'au sein de l'écosystème et n'est cotée nulle part. C'est le passeport qui atteste l'appartenance, non l'unité; elle ne donne de voix à aucun volume.
+**Aujourd'hui**, l'unité n'est pas émise: l'économie de participation est tenue dans une comptabilité interne, il n'y a ni circulation ni prix de marché, et l'unité n'est cotée nulle part. C'est le passeport qui atteste l'appartenance, non l'unité; elle ne donne de voix à aucun volume.
 
 **À l'avenir**, une disponibilité sur des places de marché est possible, mais elle n'est ni promise ni un but. Elle ne transforme pas l'unité en instrument d'investissement et n'emporte aucune promesse de hausse de valeur: personne n'en fait, quelle que soit l'évolution des choses.
 
@@ -234,7 +236,7 @@ Les cellules sont de petites équipes de participants travaillant sur des projet
 
 - **taille** - de 2 à 6 personnes; s'il en faut davantage, on crée plusieurs cellules plutôt qu'une grande;
 - **création** - tout participant se réunit avec d'autres autour d'un but; aucun responsable n'est désigné d'en haut;
-- **les décisions au sein d'une cellule** se prennent par consentement: une décision passe si personne n'a formulé d'objection motivée;
+- **les décisions au sein d'une cellule** se prennent par consentement: une décision passe si personne n'a formulé d'objection motivée, tandis qu'une décision qui pèse personnellement sur quelqu'un exige son consentement exprès;
 - **le financement** est demandé au trésor commun par un vote de l'Assemblée;
 - **la contribution au commun** - 5 pour cent du bénéfice d'une cellule sont versés au trésor.
 
@@ -263,7 +265,7 @@ Le respect de la législation de votre pays; la sécurité de vos propres clés 
 - les défaillances de réseaux distribués, qui ne dépendent pas de nous;
 - le contenu et les actes sur des plateformes extérieures.
 
-> Rien dans la présente section ne limite votre responsabilité ni nos obligations dans la mesure où une telle limitation n'est pas admise par la loi qui vous est applicable.
+> Rien dans la présente section ne limite notre responsabilité ni vos droits dans la mesure où une telle limitation n'est pas admise par la loi qui vous est applicable.
 
 **Force majeure.** En cas de catastrophes naturelles, d'opérations militaires, de changements législatifs critiques et de défaillances techniques de grande ampleur, le fonctionnement des services peut être temporairement suspendu, avec information des participants.
 
@@ -277,11 +279,11 @@ La cotisation est versée une fois, couvre le prix de revient de la procédure -
 
 ## Le droit de renoncer et ses limites
 
-**Avant le début de la vérification d'identité**, vous avez le droit de renoncer au service et d'obtenir le remboursement intégral de la cotisation, sans avoir à vous expliquer.
+**Avant le versement de la cotisation**, vous avez le droit de renoncer au service sans avoir à vous expliquer, et vous ne payez rien: la cotisation n'est versée qu'une fois la vérification d'identité réussie.
 
-**Avant le début de la vérification**, vous confirmez à part et expressément que vous souhaitez l'exécution immédiate du service et que vous comprenez qu'après la délivrance du passeport le service est réputé pleinement exécuté et que le droit de renoncer prend fin. Sans cette confirmation, la vérification ne commence pas.
+**Avant de verser la cotisation**, vous confirmez de manière distincte et expresse que vous souhaitez l'exécution immédiate du service - la délivrance du passeport - et que vous comprenez qu'après la délivrance du passeport le service est réputé pleinement exécuté et que le droit de renoncer prend fin. Sans cette confirmation, la cotisation n'est pas acceptée.
 
-**Après la délivrance du passeport**, le service est exécuté et aucun remboursement n'est effectué: les frais de vérification et de délivrance sont engagés et ne sont remboursés à personne.
+**Après la délivrance du passeport**, le service est exécuté et aucun remboursement n'est effectué: les frais de vérification et de délivrance sont engagés et ne sont remboursés à personne. Si la cotisation a été versée mais que le passeport n'a pas été délivré en raison d'une défaillance technique, la cotisation est remboursée intégralement.
 
 > Si la législation de votre pays vous accorde des droits de consommateur plus étendus, ce sont eux qui s'appliquent, et non la présente section.
 
@@ -289,7 +291,7 @@ Les dons excédant la cotisation sont entièrement volontaires, n'influent pas s
 
 ## Les défaillances techniques
 
-Écrivez à info@earth-lings.org en joignant une description, des captures d'écran et les identifiants des transactions. Chaque situation est examinée séparément, et nous recherchons une solution équitable dans la limite des possibilités techniques.
+Écrivez à info@earth-lings.org en joignant une description, des captures d'écran et les identifiants des transactions. Si le passeport n'a pas été délivré en raison d'une défaillance, la cotisation est remboursée intégralement (voir « Le droit de renoncer et ses limites »); les autres situations sont examinées séparément, et nous recherchons une solution équitable dans la limite des possibilités techniques.
 
 Nous ne répondons pas des clés que vous avez perdues, des intrusions dans vos portefeuilles extérieurs et des erreurs commises lors de l'envoi de transactions.
 
@@ -299,7 +301,7 @@ Nous ne répondons pas des clés que vous avez perdues, des intrusions dans vos 
 
 Les présentes Conditions ne remplacent ni ne limitent la législation de votre pays. En cas de contradiction entre les règles internes du peuple et les normes impératives de votre ordre juridique, ce sont les normes impératives qui s'appliquent.
 
-Les différends internes entre participants se règlent selon les procédures de la Charte: dialogue, médiation, Conseil indépendant, vote de l'Assemblée.
+Les différends internes entre participants se règlent selon la procédure de la section 04 des présentes Conditions: dialogue, médiation avec l'accord des deux parties, Conseil indépendant et, dans les cas extrêmes, examen par l'Assemblée.
 
 **Rien dans les présentes Conditions ne vous prive du droit de saisir une juridiction de votre ordre juridique et ne vous oblige à régler les différends exclusivement par les procédures internes du peuple.** Le peuple n'est ni une juridiction, ni un arbitrage, ni un organe d'application du droit, et il ne se déclare pas tel.
 
@@ -309,17 +311,17 @@ Les différends internes entre participants se règlent selon les procédures de
 
 **Les corrections techniques** qui ne changent pas le sens et n'affectent pas vos droits - correction de fautes de frappe, précision de rédaction - sont apportées avec publication de la liste des modifications.
 
-**Toute modification affectant les droits et les obligations des participants** est soumise au débat et au vote de l'Assemblée. De telles modifications ne sont pas apportées unilatéralement.
+**Toute modification affectant les droits et les obligations des participants** est soumise au débat et au vote de l'Assemblée. De telles modifications ne sont pas apportées unilatéralement. Pendant la période constituante - du 22 octobre 2026 jusqu'à l'adoption de la Déclaration - les présentes Conditions sont modifiées selon la procédure prévue par le document [La période constituante](https://earth-lings.org/documents/fr/fr20-periode-constituante.html) (partie 2, point 2), et non selon celle de la présente section.
 
 **Modalités de notification:** au moins 30 jours avant l'entrée en vigueur, par courriel et sur la plateforme, avec publication de la liste des modifications.
 
-**Votre droit d'objecter** a une conséquence: si les modifications vous sont inacceptables, vous avez le droit de sortir du peuple avant leur entrée en vigueur, et cela n'entraîne pour vous aucune perte, hormis la fin de votre participation. Poursuivre votre participation après l'entrée en vigueur des modifications vaut accord avec celles-ci.
+**Votre droit d'objecter** a une conséquence: si les modifications vous sont inacceptables, vous avez le droit de sortir du peuple avant leur entrée en vigueur, et cela n'entraîne pour vous d'autre perte que la fin de votre participation; la cotisation versée n'est alors pas remboursée (section 11). Poursuivre votre participation après l'entrée en vigueur des modifications signifie qu'elles vous sont applicables.
 
 ---
 
 # SECTION 14. Le consentement
 
-L'acte principal de consentement est la **signature de la Déclaration des Earthlings**: c'est par elle que naît l'appartenance au peuple et que sont acceptées les conditions du présent document.
+L'acte principal de consentement est la **signature de la Déclaration des Earthlings**: c'est par elle que naît l'appartenance au peuple et que sont acceptées les conditions du présent document. Pendant la période constituante - du 22 octobre 2026 jusqu'à l'adoption de la Déclaration - la signature est suspendue, et c'est par un consentement distinct donné lors de l'inscription que les conditions du présent document sont acceptées et que les éléments énumérés ci-dessous sont confirmés.
 
 En signant la Déclaration et en recevant le passeport, vous confirmez que:
 

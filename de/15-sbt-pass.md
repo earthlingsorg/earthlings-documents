@@ -55,13 +55,13 @@ Die Geschichte der Teilnahme und des Beitrags wird öffentlich festgehalten: Abs
 
 ## Wie man ihn erhält
 
-**1. Die Unterzeichnung der Erklärung.** Das Studium der Dokumente, das Verständnis der Grundsätze, die Bestätigung der Zustimmung durch eine digitale Signatur. Eben dieser Akt begründet die Zugehörigkeit.
+**1. Die Identitätsprüfung.** Die Prüfung, dass Sie ein lebender Mensch sind und dass Sie einer sind. Sie sichert den Grundsatz „ein Mensch - eine Stimme“. Die ursprünglichen Bilder und die Scans der Papiere werden nicht gespeichert.
 
-**2. Die Identitätsprüfung.** Die Prüfung, dass Sie ein lebender Mensch sind und dass Sie einer sind. Sie sichert den Grundsatz „ein Mensch - eine Stimme“. Die ursprünglichen Bilder und die Scans der Papiere werden nicht gespeichert.
+**2. Die Unterzeichnung der Erklärung.** Das Studium der Dokumente, das Verständnis der Grundsätze, die Bestätigung der Zustimmung durch eine digitale Signatur. Eben dieser Akt begründet die Zugehörigkeit.
 
 **3. Die Entrichtung des Beitrags.** Der Gegenwert von 79 USD, in Kryptowährung (ETH, USDT, USDC). Der Zweck des Beitrags und das Verfahren seiner Verwendung - im Dokument [Die Schatzkammer](https://earth-lings.org/documents/de/de09-schatzkammer.html).
 
-> Wer den Beitrag nicht selbst entrichten kann, stellt sich in eine offene Warteschlange, und den Beitrag entrichtet für ihn ein anderer Mensch oder die Schatzkammer. Der Pass unterscheidet sich dabei in nichts von den übrigen: Im Register ist nicht vermerkt, von wem der Beitrag entrichtet wurde. Die Zugehörigkeit kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung.
+> Wer den Beitrag nicht selbst entrichten kann, kann sich in eine offene Warteschlange stellen, und den Beitrag für ihn kann ein anderer Mensch oder die Schatzkammer entrichten; eine Gewähr dafür gibt es nicht. Der Pass unterscheidet sich dabei in nichts von den übrigen: Im Register ist nicht vermerkt, von wem der Beitrag entrichtet wurde. Die Zugehörigkeit kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung.
 
 **4. Die Ausgabe des Passes.** Das Token wird selbsttätig erzeugt und an Ihre Geldbörse gebunden.
 
@@ -141,7 +141,7 @@ Die Charta (Artikel 21) legt **zwei und nur zwei** Ausnahmen fest, und diese Auf
 
 ### 1. Die Aufhebung einer unwirksamen Ausgabe
 
-Wird angewandt, wenn festgestellt ist, dass der Pass unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde: Einem Menschen ist mehr als ein gültiger Pass ausgegeben worden, oder die Prüfung wurde unter Verwendung falscher Angaben oder der Identität eines anderen durchlaufen.
+Wird angewandt, wenn festgestellt ist, dass der Pass unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde: Einem Menschen ist mehr als ein gültiger Pass ausgegeben worden, oder die Prüfung wurde unter Verwendung falscher Angaben oder der Identität eines anderen durchlaufen, oder der Pass wurde einer Person ausgegeben, die das von der Charta festgelegte Alter nicht erreicht hat.
 
 **Das ist keine Sanktion und kein Ausschluss aus dem Volk.** Festgestellt wird nur, dass die Ausgabe von Anfang an nicht rechtmäßig zustande gekommen ist. Eine selbsttätige Neuausgabe folgt daraus nicht: Ist das Hindernis für eine rechtmäßige Ausgabe beseitigt, so ist der Mensch befugt, die Prüfung unter den allgemeinen Voraussetzungen erneut zu durchlaufen.
 

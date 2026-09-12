@@ -189,7 +189,7 @@ In exchange for keeping it closed we take on the following:
 
 ## Independent oversight
 
-Questions of ethics in the processing of biometric data are put to the [Independent Council](https://earth-lings.org/documents/en/en11-independent-council.html) - a body not subordinate to those who operate the platform. Until the Council is formed, such questions are considered by the DAO Assembly, and the periods of public discussion are doubled (Charter, Article 39).
+Questions of ethics in the processing of biometric data are put to the [Independent Council](https://earth-lings.org/documents/en/en11-independent-council.html) - a body not subordinate to those who operate the platform. Until the Council is formed, this stage is skipped, and the periods of public discussion of such questions are doubled (Charter, Article 39).
 
 Proposals to amend this Policy are put to a vote of the Assembly.
 

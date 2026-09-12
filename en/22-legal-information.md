@@ -4,7 +4,7 @@
 
 > This page sets out the legal position of the people in condensed form - for state authorities, financial institutions, partners, and lawyers.
 >
-> **Stage.** The people is at the structure-formation stage. The infrastructure of self-government is built and deployed, and filling it with practice begins as the number of participants grows. What is set out below describes the legal scheme and its limits, not a scale that has been reached.
+> **Stage.** The Earthlings people is constituted by the adoption of the Declaration; the founding period runs from 22 October 2026 until the Declaration is adopted. The infrastructure of self-government is built and deployed, and filling it with practice begins as the number of participants grows. What is set out below describes the legal scheme and its limits, not a scale that has been reached.
 >
 > The full reasoning is given in the document [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), and the arguments against our position in the document [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html). Where they diverge, the [Charter](https://earth-lings.org/documents/en/en05-charter.html) and the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) prevail.
 
@@ -29,7 +29,7 @@ Both norms are in force and binding on states.
 
 > **What is not settled.** Freedom of association protects the founding act: people are entitled to associate and to declare what they consider themselves to be. It does not confer a status on the result. Whether a voluntarily founded non-territorial community is a people within the meaning of international law is a question the law has not decided, and we do not pass it off as decided. The objections to our position are set out in our own documents at full strength and without softening: [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
 
-The Earthlings people exists as a matter of fact, and its existence is not made dependent on an act of recognition: no body that recognizes peoples exists for anyone, there is no register of peoples, and no people has ever gone through such a procedure. What the people seeks is **legal visibility** - being treated as a people where specific questions arise: at venues, in consultations, in proceedings. Visibility accumulates through practice, time, the number of participants, and legal work. Today it is at the beginning of that path, and the people creates no rights in international law as yet.
+The existence of the Earthlings people is not made dependent on an act of recognition: no body that recognizes peoples exists for anyone, there is no register of peoples, and no people has ever gone through such a procedure. What the people seeks is **legal visibility** - being treated as a people where specific questions arise: at venues, in consultations, in proceedings. Visibility accumulates through practice, time, the number of participants, and legal work. Today it is at the beginning of that path, and the people creates no rights in international law as yet.
 
 ## Legal interfaces for external engagement
 
@@ -70,7 +70,7 @@ The people's Treasury disposes of **the people's own funds** - participants' con
 
 Holding funds in various forms, including stablecoins, and moving between them serve one purpose only: **sufficient funds for current expenses and resilience to exchange-rate fluctuations**. The Treasury does not generate income from operations with assets, does not manage other people's funds, does not raise investment, and is neither an asset-management fund nor an investment intermediary.
 
-The people's internal unit of account **is traded nowhere**, is not listed on exchanges, and is not being prepared for listing; it serves internal turnover and gives no votes whatever the amount held.
+The people's internal unit of account **is traded nowhere**, is not listed on exchanges, and is not being prepared for listing; it has not been issued, does not circulate, and gives no votes whatever the amount held.
 
 The people runs its own household for itself; it does not provide financial services to anyone.
 

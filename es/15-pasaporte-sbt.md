@@ -55,13 +55,13 @@ El historial de participación y de aportación se hace constar públicamente: v
 
 ## Cómo obtenerlo
 
-**1. Firma de la Declaración.** Estudio de los documentos, comprensión de los principios, confirmación del acuerdo con una firma digital. Es ese acto el que crea la pertenencia.
+**1. Verificación de identidad.** Comprobación de que usted es una persona viva y de que es una sola. Asegura el principio «una persona, un voto». Las imágenes originales y los escaneos de los documentos no se conservan.
 
-**2. Verificación de identidad.** Comprobación de que usted es una persona viva y de que es una sola. Asegura el principio «una persona, un voto». Las imágenes originales y los escaneos de los documentos no se conservan.
+**2. Firma de la Declaración.** Estudio de los documentos, comprensión de los principios, confirmación del acuerdo con una firma digital. Es ese acto el que crea la pertenencia.
 
 **3. Abono de la cuota.** El equivalente a 79 USD, en criptomoneda (ETH, USDT, USDC). El destino de la cuota y el procedimiento de su gasto están en el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html).
 
-> Quien no puede abonar la cuota por sí mismo entra en una cola abierta, y su cuota la abona otra persona o la Tesorería. El pasaporte no se diferencia en nada de los demás: en el registro no consta quién abonó la cuota. La cuota no compra la pertenencia: esta nace al firmar la Declaración.
+> Quien no pueda abonar la cuota por sí mismo puede entrar en una cola abierta, y su cuota puede abonarla otra persona o la Tesorería; no hay garantía de ello. El pasaporte no se diferencia en nada de los demás: en el registro no consta quién abonó la cuota. La cuota no compra la pertenencia: esta nace al firmar la Declaración.
 
 **4. Emisión del pasaporte.** El token se crea de manera automática y se liga a su monedero.
 
@@ -141,7 +141,7 @@ La Carta (artículo 21) establece **dos y solo dos** excepciones, y esa lista no
 
 ### 1. Anulación de una emisión inválida
 
-Se aplica si se establece que el pasaporte se emitió infringiendo las condiciones de emisión: se emitió a una misma persona más de un pasaporte en vigor, o la comprobación se pasó con datos falsos o con la identidad de otra persona.
+Se aplica si se establece que el pasaporte se emitió infringiendo las condiciones de emisión: se emitió a una misma persona más de un pasaporte en vigor, o la comprobación se pasó con datos falsos o con la identidad de otra persona, o el pasaporte se emitió a quien no había alcanzado la edad establecida en la Carta.
 
 **No es una medida de responsabilidad ni una expulsión del pueblo.** Solo se establece que la emisión no llegó a producirse válidamente. No se sigue una reemisión automática: si se ha removido el impedimento a una emisión válida, la persona puede pasar la comprobación de nuevo en las condiciones generales.
 

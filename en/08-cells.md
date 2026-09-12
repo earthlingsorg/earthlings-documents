@@ -296,7 +296,7 @@ No other grounds exist. Decisions are taken by a qualified majority after an ind
 
 ## Leaving a Cell and belonging to the people
 
-Leaving a Cell, removal from a project team, and dissolution of a Cell are events inside a working structure. They have no bearing on a person's belonging to the Earthlings people: belonging is inalienable and ends only by the person's own decision.
+Leaving a Cell, removal from a project team, and dissolution of a Cell are events inside a working structure. They have no bearing on a person's belonging to the Earthlings people: belonging is inalienable and ends only by the person's own decision or on their death.
 
 ---
 

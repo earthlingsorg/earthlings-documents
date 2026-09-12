@@ -451,7 +451,7 @@ La dissimulation intentionnelle d'un conflit d'intérêts peut entraîner un ave
 
 ## Article 17. Principe fondamental
 
-L'appartenance au peuple des Earthlings est inaliénable. Nul ne peut être exclu du peuple des Earthlings en aucune circonstance. Devenue earthling, une personne le reste tant qu'elle n'a pas elle-même décidé de sortir.
+L'appartenance au peuple des Earthlings est inaliénable. Nul ne peut être exclu du peuple des Earthlings en aucune circonstance. Devenue earthling, une personne le reste tant qu'elle n'a pas elle-même décidé de sortir; l'appartenance prend fin également par l'effet du décès (Déclaration, article 4).
 
 **Le droit de vote ne peut être retiré ni suspendu en raison des opinions d'une personne, du contenu de son vote, d'un désaccord avec les décisions adoptées ou à titre de sanction générale pour manquement aux règles.** La voix est le contenu de l'appartenance: la retirer pour de tels motifs reviendrait à exclure la personne du peuple en lui en laissant le nom. Les mesures de restriction visées à l'article 22 n'affectent pas le droit de vote.
 
@@ -519,7 +519,7 @@ En règle générale, le passeport SBT n'est détruit que par son titulaire lui-
 
 Un passeport peut être annulé s'il est établi qu'il a été délivré en méconnaissance des conditions de délivrance: plus d'un passeport valide délivré à une même personne, ou vérification effectuée au moyen de données falsifiées ou de l'identité d'autrui, ou passeport délivré à une personne n'ayant pas atteint l'âge établi par la présente Charte. La liste des motifs est fermée et correspond à l'article 8 de la Déclaration.
 
-Si plus d'un passeport valide a été délivré à une même personne, la délivrance de tous est annulée sauf celle du premier délivré. L'appartenance de la personne au peuple est alors maintenue. Dans les deux autres cas - données falsifiées ou identité d'autrui, et âge établi non atteint - l'appartenance elle-même n'est pas née licitement avec la délivrance du passeport.
+Si plus d'un passeport valide a été délivré à une même personne, la délivrance de tous est annulée sauf celle du premier délivré. Dans aucun des trois cas l'annulation ne met fin à l'appartenance de la personne au peuple (Déclaration, article 8).
 
 **Procédure:**
 - Déclenchement: mémoire motivé avec preuves, déposé par tout earthling ou par les Core Nodes à la suite d'une vérification technique

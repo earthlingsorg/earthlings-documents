@@ -14,11 +14,11 @@
 
 **Vérification d'identité** - contrôle que vous êtes une personne vivante et que vous êtes unique.
 
-**Cotisation unique** - l'équivalent de 79 USD.
-
 Il n'existe pas d'autres conditions. L'appartenance nationale, la race, la religion, le sexe, la condition sociale, la nationalité et le lieu de résidence n'ont aucun effet sur la possibilité d'adhérer.
 
-> **Si vous ne pouvez pas verser la cotisation**, une autre personne la verse pour vous. La section 9 y est consacrée. Vous n'aurez ni à prouver ni à expliquer quoi que ce soit. La cotisation n'achète pas l'appartenance au peuple: celle-ci naît de la signature de la Déclaration.
+La **cotisation unique** - l'équivalent de 79 USD - couvre la vérification d'identité, la délivrance du passeport et le maintien de l'infrastructure. Elle n'est pas une condition de l'appartenance.
+
+> **Si vous ne pouvez pas verser la cotisation**, vous pouvez entrer dans une file d'attente ouverte, et la cotisation peut être versée pour vous par une autre personne ou par la Trésorerie; rien ne le garantit. La section 9 y est consacrée. Vous n'aurez ni à prouver ni à expliquer quoi que ce soit. La cotisation n'achète pas l'appartenance au peuple: celle-ci naît de la signature de la Déclaration.
 
 ---
 
@@ -28,9 +28,9 @@ Il n'existe pas d'autres conditions. L'appartenance nationale, la race, la relig
 
 **2. Inscription.** Adresse électronique, pays de résidence, pseudonyme ou nom, à votre choix.
 
-**3. Signature de la Déclaration.** Confirmation de votre accord avec les principes du peuple. C'est cet acte qui crée l'appartenance.
+**3. Vérification de l'identité.** Numérisation du visage et comparaison avec un document d'identité.
 
-**4. Vérification de l'identité.** Numérisation du visage et comparaison avec un document d'identité.
+**4. Signature de la Déclaration.** Confirmation de votre accord avec les principes du peuple. C'est cet acte qui crée l'appartenance.
 
 **5. Versement de la cotisation.** En cryptomonnaie (ETH, USDT, USDC). Le paiement par carte bancaire est en cours de développement. Si vous n'avez pas l'argent, un second bouton se trouve au même endroit - « j'ai besoin d'une cotisation »; il ne pose aucune question et vous conduit à la file d'attente ouverte (section 9).
 
@@ -42,7 +42,7 @@ Il n'existe pas d'autres conditions. L'appartenance nationale, la race, la relig
 
 ## 3. Ce que vous recevez
 
-**On ne peut pas vous exclure.** Il n'existe pas de procédure d'exclusion du peuple des Earthlings, en aucune circonstance et pour aucune majorité. L'appartenance ne prend fin que par votre propre décision.
+**On ne peut pas vous exclure.** Il n'existe pas de procédure d'exclusion du peuple des Earthlings, en aucune circonstance et pour aucune majorité. L'appartenance ne prend fin que par votre propre décision ou par l'effet de votre décès.
 
 **On ne peut pas vous retirer votre voix pour ce que vous pensez et pour la manière dont vous votez.** Ni pour vos opinions, ni pour le contenu de votre vote, ni pour votre désaccord avec les décisions, ni à titre de sanction générale. La seule exception est une attaque établie contre le mécanisme de vote lui-même; la procédure et les délais sont établis par la [Charte, article 22 bis](https://earth-lings.org/documents/fr/fr05-charte.html).
 
@@ -97,7 +97,7 @@ Ce sont des obligations, non des conditions de conservation du statut: leur manq
 
 En règle générale, vous seul détruisez votre passeport. La Charte (article 21) établit **deux exceptions et deux seulement**, et cette liste ne peut pas être élargie.
 
-**1. L'annulation d'une délivrance non valide.** Elle s'applique s'il est établi que plus d'un passeport valide a été délivré à une même personne, ou que la vérification a été effectuée au moyen de données falsifiées ou de l'identité d'autrui.
+**1. L'annulation d'une délivrance non valide.** Elle s'applique s'il est établi que plus d'un passeport valide a été délivré à une même personne, ou que la vérification a été effectuée au moyen de données falsifiées ou de l'identité d'autrui, ou que le passeport a été délivré à une personne n'ayant pas atteint l'âge établi par la Charte.
 
 Ce n'est ni une sanction d'un comportement ni une exclusion du peuple: il est seulement établi que la délivrance n'a pas régulièrement eu lieu à l'origine. La procédure vous protège à chaque pas - notification, délai d'objection, avis du Conseil indépendant, vote secret à majorité renforcée, droit de recours; les délais et les seuils sont établis par la [Charte, article 21](https://earth-lings.org/documents/fr/fr05-charte.html). Si l'obstacle à une délivrance régulière est levé, vous avez le droit de repasser la vérification dans les conditions de droit commun.
 
@@ -119,15 +119,15 @@ Pour en savoir plus sur ce qu'il advient du passeport et des données: [Passepor
 
 ## 9. Si vous n'avez pas l'argent: le paiement pour autrui
 
-Il n'existe pas d'exonération de cotisation. Il existe autre chose: quelqu'un verse la cotisation pour vous.
+Il n'existe pas d'exonération de cotisation. Il existe autre chose: quelqu'un d'autre peut verser la cotisation pour vous, mais rien ne le garantit.
 
 **À quoi cela ressemble pour vous.** À l'étape du paiement, à côté du bouton « payer », il y en a un second: « j'ai besoin d'une cotisation ». Il ne demande ni votre pays, ni vos revenus, ni le motif: vous n'avez rien à prouver et rien à raconter sur vous-même. Un seul clic, et vous êtes dans une file d'attente ouverte.
 
 Dans la file ne sont visibles que le numéro et la date. Ni nom, ni pays, ni motif. Une file d'attente ne doit pas devenir une vitrine des nécessiteux.
 
-Lorsque votre tour vient, le passeport est émis de lui-même et vous recevez un courriel. Le passeport est alors exactement le même que celui de tous: le registre n'inscrit pas qui a versé la cotisation, et rien ne permet d'y distinguer celui qui a payé lui-même de celui pour qui un autre a payé. Il n'y a pas dans ce peuple de passeports de première et de seconde catégorie.
+Si quelqu'un verse la cotisation pour vous, le passeport est émis automatiquement et vous recevez un courriel. Le passeport est alors exactement le même que celui de tous: le registre n'inscrit pas qui a versé la cotisation, et rien ne permet d'y distinguer celui qui a payé lui-même de celui pour qui un autre a payé. Il n'y a pas dans ce peuple de passeports de première et de seconde catégorie.
 
-Il faudra attendre. Nous ne promettons pas une entrée immédiate, mais que l'argent ne devienne pas un mur définitif: il rend l'entrée plus lente, non fermée.
+Il faudra attendre l'émission du passeport, sans savoir à l'avance combien de temps: le versement de la cotisation à votre place est possible, mais il n'est pas garanti. L'appartenance au peuple n'en dépend pas: elle naît de la signature de la Déclaration, et non de la cotisation.
 
 **À quoi cela ressemble pour celui qui paie.** Toute personne - earthling ou non - voit combien de gens sont dans la file et peut en payer un, cinq, ou autant qu'elle le souhaite. Le paiement se fait de la même manière et à la même adresse que pour soi-même.
 

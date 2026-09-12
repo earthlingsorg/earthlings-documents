@@ -14,11 +14,11 @@
 
 **Verificación de identidad** - comprobación de que usted es una persona viva y de que es una sola.
 
-**Cuota única** - el equivalente a 79 USD.
-
 No existen otras condiciones. La adscripción étnica, la raza, la religión, el sexo, la posición social, la nacionalidad y el lugar de residencia no influyen en la posibilidad de adherirse.
 
-> **Si usted no puede abonar la cuota**, la abona por usted otra persona. De eso trata la sección 9. No hará falta demostrar ni explicar nada. La cuota no compra la pertenencia al pueblo: esta nace al firmar la Declaración.
+**La cuota única** - el equivalente a 79 USD - cubre la verificación de identidad, la emisión del pasaporte y el sostenimiento de la infraestructura. No es condición de pertenencia.
+
+> **Si usted no puede abonar la cuota**, puede entrar en una cola abierta, y la cuota puede abonarla por usted otra persona o la Tesorería; no hay garantía de ello. De eso trata la sección 9. No hará falta demostrar ni explicar nada. La cuota no compra la pertenencia al pueblo: esta nace al firmar la Declaración.
 
 ---
 
@@ -28,9 +28,9 @@ No existen otras condiciones. La adscripción étnica, la raza, la religión, el
 
 **2. Registro.** Correo electrónico, país de residencia, seudónimo o nombre a su elección.
 
-**3. Firma de la Declaración.** Confirmación del acuerdo con los principios del pueblo. Es ese acto el que crea la pertenencia.
+**3. Verificación de identidad.** Escaneo del rostro y cotejo con un documento acreditativo de la identidad.
 
-**4. Verificación de identidad.** Escaneo del rostro y cotejo con un documento acreditativo de la identidad.
+**4. Firma de la Declaración.** Confirmación del acuerdo con los principios del pueblo. Es ese acto el que crea la pertenencia.
 
 **5. Pago de la cuota.** En criptomoneda (ETH, USDT, USDC). El pago con tarjeta bancaria está en desarrollo. Si no tiene dinero, ahí mismo hay un segundo botón, «necesito la cuota»; no pregunta nada y lleva a una cola abierta (sección 9).
 
@@ -42,7 +42,7 @@ No existen otras condiciones. La adscripción étnica, la raza, la religión, el
 
 ## 3. Qué obtiene usted
 
-**A usted no se le puede expulsar.** No existe procedimiento de expulsión del pueblo Earthlings en ninguna circunstancia y para ninguna mayoría. La pertenencia cesa únicamente por decisión suya.
+**A usted no se le puede expulsar.** No existe procedimiento de expulsión del pueblo Earthlings en ninguna circunstancia y para ninguna mayoría. La pertenencia cesa únicamente por decisión suya o a consecuencia de su fallecimiento.
 
 **Su voto no se le puede retirar por cómo piensa y cómo vota.** Ni por las opiniones, ni por el sentido del voto, ni por el desacuerdo con las decisiones, ni como medida general de responsabilidad. La única excepción es un ataque probado al mecanismo mismo de la votación; el procedimiento y los plazos están establecidos en la [Carta, artículo 22 bis](https://earth-lings.org/documents/es/es05-carta.html).
 
@@ -97,7 +97,7 @@ Son deberes, y no condiciones para conservar su condición de earthling: infring
 
 Por regla general el pasaporte solo lo destruye usted mismo. La Carta (artículo 21) establece **dos y solo dos** excepciones, y esa lista no puede ampliarse.
 
-**1. Anulación de una emisión inválida.** Se aplica si se establece que a una misma persona se le ha emitido más de un pasaporte en vigor o que la comprobación se pasó con datos falsos o con la identidad de otra persona.
+**1. Anulación de una emisión inválida.** Se aplica si se establece que a una misma persona se le ha emitido más de un pasaporte en vigor, que la comprobación se pasó con datos falsos o con la identidad de otra persona, o que el pasaporte se emitió a quien no había alcanzado la edad establecida en la Carta.
 
 No es una medida de responsabilidad por la conducta ni una expulsión del pueblo: solo se establece que la emisión no llegó a producirse válidamente. El procedimiento lo protege a usted en cada paso: notificación, plazo para objetar, dictamen del Consejo Independiente, votación secreta con mayoría reforzada, derecho de recurso; los plazos y los umbrales están establecidos en la [Carta, artículo 21](https://earth-lings.org/documents/es/es05-carta.html). Si se ha removido el impedimento a una emisión válida, usted puede pasar la comprobación de nuevo en las condiciones generales.
 
@@ -119,15 +119,15 @@ Más detalles sobre qué ocurre con el pasaporte y con los datos: [Pasaporte SBT
 
 ## 9. Si no hay dinero: el pago por otra persona
 
-No existe exención de la cuota. Existe otra cosa: que la cuota la abone por usted alguien más.
+No existe exención de la cuota. Existe otra cosa: la cuota puede abonarla por usted alguien más, pero no hay garantía de ello.
 
 **Cómo se ve desde su lado.** En el paso del pago, junto al botón «pagar», hay un segundo: «necesito la cuota». No pregunta ni el país, ni los ingresos, ni el motivo: no hay que demostrar nada ni contar nada sobre uno mismo. Una pulsación, y usted está en una cola abierta.
 
 En la cola solo se ven el número y la fecha. Ni el nombre, ni el país, ni el motivo. La cola no debe convertirse en un escaparate de necesitados.
 
-Cuando la cola llegue a usted, el pasaporte se emite solo y usted recibe un correo. Y el pasaporte es exactamente igual que el de todos: en el registro no consta quién abonó su cuota, y por él no se puede distinguir a quien pagó por sí mismo de a quien pagó otra persona. En este pueblo no hay pasaportes de primera y de segunda.
+Si alguien abona la cuota por usted, el pasaporte se emite solo y usted recibe un correo. Y el pasaporte es exactamente igual que el de todos: en el registro no consta quién abonó su cuota, y por él no se puede distinguir a quien pagó por sí mismo de a quien pagó otra persona. En este pueblo no hay pasaportes de primera y de segunda.
 
-Habrá que esperar. No prometemos una entrada inmediata, sino que el dinero no sea un muro para siempre: hace la entrada más lenta, no cerrada.
+Habrá que esperar a la emisión del pasaporte, y no se sabe de antemano cuánto: el pago por usted es posible, pero no está garantizado. La pertenencia al pueblo no depende de ello: nace al firmar la Declaración, no al abonar la cuota.
 
 **Cómo se ve desde el lado de quien paga.** Cualquier persona - earthling o no - ve cuánta gente hay en la cola y puede pagar por una, por cinco o por cuantas quiera. El pago se hace del mismo modo y a la misma dirección que el propio.
 

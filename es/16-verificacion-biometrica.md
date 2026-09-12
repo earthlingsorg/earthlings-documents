@@ -189,7 +189,7 @@ A cambio de esa opacidad asumimos lo siguiente:
 
 ## Supervisión independiente
 
-Las cuestiones de ética en el tratamiento de datos biométricos se someten al [Consejo Independiente](https://earth-lings.org/documents/es/es11-consejo-independiente.html), órgano no subordinado a quienes operan la plataforma. Hasta que el Consejo se constituya, tales cuestiones las examina la Asamblea DAO, y los plazos de debate público se duplican (Carta, artículo 39).
+Las cuestiones de ética en el tratamiento de datos biométricos se someten al [Consejo Independiente](https://earth-lings.org/documents/es/es11-consejo-independiente.html), órgano no subordinado a quienes operan la plataforma. Hasta que el Consejo se constituya, esta fase se omite, y los plazos de debate público de tales cuestiones se duplican (Carta, artículo 39).
 
 Las propuestas de modificación de la presente Política se someten a votación de la Asamblea.
 

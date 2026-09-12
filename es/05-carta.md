@@ -451,7 +451,7 @@ La ocultación deliberada de un conflicto de intereses puede conllevar una adver
 
 ## Artículo 17. Principio fundamental
 
-La pertenencia al pueblo Earthlings es inalienable. Nadie puede ser expulsado del pueblo Earthlings en ninguna circunstancia. Una vez convertida en earthling, la persona lo sigue siendo hasta que ella misma decida salir.
+La pertenencia al pueblo Earthlings es inalienable. Nadie puede ser expulsado del pueblo Earthlings en ninguna circunstancia. Una vez convertida en earthling, la persona lo sigue siendo hasta que ella misma decida salir; la pertenencia cesa también a consecuencia de su fallecimiento (Declaración, artículo 4).
 
 **El derecho de voto no puede retirarse ni suspenderse por las opiniones de la persona, por el sentido de su voto, por el desacuerdo con las decisiones adoptadas o como medida general de responsabilidad por infringir las reglas.** El voto es el contenido de la pertenencia: retirarlo por tales fundamentos equivaldría a expulsar a la persona del pueblo dejándole el nombre. Las medidas limitativas previstas en el artículo 22 no afectan al derecho de voto.
 
@@ -519,7 +519,7 @@ Por regla general el pasaporte SBT solo lo destruye su propio titular (artículo
 
 Un pasaporte puede anularse si se establece que fue emitido infringiendo las condiciones de emisión: se emitió a una misma persona más de un pasaporte en vigor, o la verificación se pasó con datos falsos o con la identidad de otra persona, o el pasaporte se emitió a quien no había alcanzado la edad establecida en la presente Carta. La lista de fundamentos es cerrada y se corresponde con el artículo 8 de la Declaración.
 
-Si a una misma persona se le ha emitido más de un pasaporte en vigor, se anula la emisión de todos salvo el primero. La pertenencia de la persona al pueblo se conserva. En los otros dos casos - datos falsos o identidad ajena, y no haber alcanzado la edad establecida - junto con la emisión del pasaporte tampoco nació lícitamente la pertenencia misma.
+Si a una misma persona se le ha emitido más de un pasaporte en vigor, se anula la emisión de todos salvo el primero. En ninguno de los tres casos la anulación pone fin a la pertenencia de la persona al pueblo (Declaración, artículo 8).
 
 **Procedimiento:**
 - Inicio: escrito motivado con pruebas, presentado por cualquier earthling o por los Core Nodes a resultas de una comprobación técnica

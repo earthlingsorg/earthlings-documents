@@ -6,7 +6,7 @@
 
 ## Lo esencial en unos pocos puntos
 
-- usted pasa a formar parte de un pueblo unido por valores comunes;
+- al firmar la Declaración tras su adopción, usted pasa a formar parte de un pueblo unido por valores comunes;
 - la participación es voluntaria: se puede salir en cualquier momento, sin explicar los motivos;
 - los datos se tratan con el principio de minimización; el seudónimo y la medida de su participación los elige usted;
 - las decisiones se adoptan por votación, y su voto equivale a cualquier otro;
@@ -35,9 +35,9 @@ Si algo no está claro o resulta inaceptable, escríbanos. Las propuestas de mod
 
 ## Quiénes somos
 
-Earthlings es un pueblo transnacional que se ha determinado a sí mismo y que existe de hecho sobre la base de la Declaración Earthlings. Nos unen valores comunes, y no un territorio o un origen.
+Earthlings es un pueblo transnacional que se constituye mediante la adopción de la Declaración Earthlings. Nos unen valores comunes, y no un territorio o un origen.
 
-El pueblo existe y se desarrolla con su infraestructura, su gobierno y su identidad con independencia de cómo lo califique con el tiempo el derecho internacional: no existe para nadie un órgano que reconozca pueblos. La discernibilidad jurídica - que se trate al pueblo como pueblo allí donde surge una cuestión concreta - se acumula con la práctica, el tiempo y el número de participantes. Cómo funciona esto y qué se dice en contra nuestra: [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), [Objeciones jurídicas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html).
+La existencia del pueblo, con su infraestructura, su gobierno y su identidad, no depende de cómo lo califique con el tiempo el derecho internacional: no existe para nadie un órgano que reconozca pueblos. La discernibilidad jurídica - que se trate al pueblo como pueblo allí donde surge una cuestión concreta - se acumula con la práctica, el tiempo y el número de participantes. Cómo funciona esto y qué se dice en contra nuestra: [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), [Objeciones jurídicas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html).
 
 > **La pertenencia al pueblo es adicional, no sustitutiva.** No deroga su nacionalidad y no exige renunciar a ella.
 
@@ -60,7 +60,7 @@ Estos valores están encarnados en la arquitectura, y no solo declarados.
 **Edad** - haber cumplido 18 años.
 **Firma** de la Declaración Earthlings.
 **Verificación de identidad** mediante el sistema propio del pueblo.
-**Cuota única** - el equivalente a 79 USD. Quien no puede abonarla por sí mismo entra en una cola abierta, y su cuota la abona otra persona o la Tesorería; no se prevé exención de la cuota, que se abona íntegra en todo caso (Carta, artículo 12 bis).
+No existen otras condiciones de pertenencia. **La cuota única** - el equivalente a 79 USD - cubre la verificación de identidad, la emisión del pasaporte y el sostenimiento de la infraestructura, y no es condición de pertenencia. Quien no pueda abonarla por sí mismo puede entrar en una cola abierta, y su cuota puede abonarla otra persona o la Tesorería, pero no hay garantía de ello; no se prevé exención de la cuota, que se abona íntegra en todo caso (Carta, artículo 12 bis).
 
 **Qué da:** pasaporte, derecho de voto, participación en las células, acceso a la infraestructura.
 
@@ -71,10 +71,12 @@ Estos valores están encarnados en la arquitectura, y no solo declarados.
 1. creación de la cuenta: seudónimo a su elección, dirección de correo, país, confirmación de la edad;
 2. confirmación de la dirección de correo;
 3. lectura de la Declaración;
-4. firma de la Declaración: es ese acto el que crea la pertenencia;
-5. verificación de identidad;
+4. verificación de identidad;
+5. firma de la Declaración: es ese acto el que crea la pertenencia;
 6. abono de la cuota;
 7. obtención del pasaporte.
+
+> **Durante el período constituyente** - desde el 22 de octubre de 2026 hasta la adopción de la Declaración - la firma de la Declaración y la adhesión al pueblo están suspendidas: un pueblo definido por un texto adoptado todavía no existe. La verificación de identidad se realiza en ese período de manera gratuita y, como resultado de ella, se expide un documento temporal de participante en la constitución, y no un pasaporte ([El período constituyente](https://earth-lings.org/documents/es/es20-periodo-constituyente.html), parte 2, apartado 5).
 
 **Sobre la exactitud de los datos.** El país y la edad deben indicarse con veracidad, y el documento de la comprobación ha de ser auténtico. El nombre y los apellidos reales no se conservan: los datos del documento se comprueban solo en el momento de la comprobación.
 
@@ -86,13 +88,13 @@ Usted responde de la custodia de la contraseña y de las claves criptográficas,
 
 ## Límites: qué es posible y qué no
 
-**Qué no ocurre nunca.** No existe la expulsión del pueblo. La pertenencia es inalienable y cesa únicamente por decisión suya. La plataforma, sus administradores y las estructuras técnicas no tienen ni pueden tener tales facultades.
+**Qué no ocurre nunca.** No existe la expulsión del pueblo. La pertenencia es inalienable y cesa únicamente por decisión suya o a consecuencia de su fallecimiento. La plataforma, sus administradores y las estructuras técnicas no tienen ni pueden tener tales facultades.
 
-**Qué puede decidir la Asamblea**, por el procedimiento del artículo 22 de la Carta, con derecho de defensa, voto secreto y recurso: dictar una advertencia y disponer de los recursos comunes, esto es, retirar la financiación de un proyecto, cesar la financiación de una célula, retirar el reconocimiento. Esas medidas no afectan a los derechos de una persona: ni a la pertenencia, ni al voto, ni al derecho a presentar propuestas y plantear cuestiones, ni a la participación en las células, ni al acceso a la plataforma y a sus servicios.
+**Qué puede decidir la Asamblea**, por el procedimiento del artículo 22 de la Carta, con derecho de defensa, voto secreto y recurso: dictar una advertencia y disponer de los recursos comunes, esto es, retirar la financiación de un proyecto, poner fin a la financiación de una célula, retirar el reconocimiento o disolver una célula (los fundamentos y el procedimiento, en el artículo 25 de la Carta). Esas medidas no afectan a los derechos de una persona: ni a la pertenencia, ni al voto, ni al derecho a presentar propuestas y plantear cuestiones, ni al derecho a crear células y a unirse a ellas, ni al acceso a la plataforma y a sus servicios.
 
 **El derecho de voto** puede suspenderse **únicamente** por socavamiento probado de la integridad de la votación misma - concierto, compra o venta de un voto, coacción a otros, intento de eludir la regla «una persona, un pasaporte» -, por un plazo de hasta 6 meses y por el procedimiento del artículo 22 bis de la Carta. Las opiniones, el sentido del voto y el desacuerdo con las decisiones no son fundamento, sea cual sea su presentación.
 
-**Qué puede hacer la administración sin decisión de la Asamblea.** Una sola cosa: suspender el acceso a una cuenta ante indicios manifiestos de que ha sido comprometida o de un ataque técnico, con aviso inmediato al participante y examen posterior por la Asamblea. Es una protección de su cuenta, no una medida de responsabilidad, y no afecta a los derechos del participante.
+**Qué puede hacer la administración sin decisión de la Asamblea.** Solo dos cosas. La primera: suspender el acceso a una cuenta ante indicios manifiestos de que ha sido comprometida o de un ataque técnico, con aviso inmediato al participante y examen posterior por la Asamblea; es una protección de su cuenta, no una medida de responsabilidad, y no afecta a los derechos del participante. La segunda: suspender la cuenta si se llega a saber que se ha registrado una persona que no ha cumplido 18 años (Política de privacidad, sección 10); en ese caso el pasaporte lo destruye su propio titular o se destruye por la vía de la anulación de una emisión inválida (Carta, artículo 21).
 
 ---
 
@@ -120,9 +122,9 @@ Usted responde de la custodia de la contraseña y de las claves criptográficas,
 ## Resolución de conflictos
 
 1. intente resolver la cuestión directamente;
-2. acuda a una persona mediadora independiente;
-3. las controversias graves se remiten al Consejo Independiente a medida que se constituya; hasta entonces las examina la Asamblea con los plazos de debate duplicados;
-4. en casos extremos la cuestión se somete a votación.
+2. con el consentimiento de la otra parte, acuda a una persona mediadora independiente: sin el consentimiento de ambas partes no hay mediación;
+3. las controversias graves se remiten al Consejo Independiente; hasta que el Consejo se constituya, esta fase se omite y los plazos de debate se duplican (Carta, artículo 39);
+4. en casos extremos - si la mediación no ha llevado a una solución y la controversia afecta a los intereses de la comunidad o exige una decisión de principio -, cualquiera de las partes puede elevar la cuestión a la Asamblea.
 
 ---
 
@@ -184,7 +186,7 @@ Earthlings Coin es una unidad utilitaria de la economía interna. No es una acci
 
 ## Qué importa entender
 
-**Hoy** la unidad circula solo dentro del ecosistema y no se negocia en ninguna parte. La pertenencia la acredita el pasaporte y no la unidad; esta no da votos en ninguna cantidad.
+**Hoy** no hay emisión de la unidad: la economía de la participación se lleva en una contabilidad interna, no hay circulación ni precio de mercado, y la unidad no se negocia en ninguna parte. La pertenencia la acredita el pasaporte y no la unidad; esta no da votos en ninguna cantidad.
 
 **En el futuro** es posible una disponibilidad bursátil, pero no está prometida y no es un fin. No convierte la unidad en un instrumento de inversión y no significa una promesa de aumento de valor: eso no lo da nadie en ningún desarrollo de los acontecimientos.
 
@@ -234,7 +236,7 @@ Las células son equipos pequeños de participantes que trabajan en proyectos co
 
 - **tamaño**: de 2 a 6 personas; si hacen falta más, se crean varias células y no una grande;
 - **creación**: cualquier participante se agrupa con otros en torno a un fin; no se designan líderes desde arriba;
-- **las decisiones dentro de una célula** se adoptan por consentimiento: una decisión pasa si nadie ha formulado una objeción fundada;
+- **las decisiones dentro de una célula** se adoptan por consentimiento: una decisión pasa si nadie ha formulado una objeción fundada, y la decisión que recae personalmente sobre una persona requiere su consentimiento expreso;
 - **la financiación** se solicita de la caja común mediante votación de la Asamblea;
 - **la aportación a lo común**: el 5 por ciento del beneficio de la célula se destina a la caja.
 
@@ -263,7 +265,7 @@ Del cumplimiento de la legislación de su país; de la seguridad de sus propias 
 - de los fallos de las redes distribuidas ajenos a nosotros;
 - del contenido y de los actos en plataformas externas.
 
-> Nada en la presente sección limita su responsabilidad ni nuestras obligaciones en la medida en que tal limitación no la admita la ley que le sea aplicable.
+> Nada en la presente sección limita nuestra responsabilidad ni sus derechos en la medida en que tal limitación no la admita la ley que le sea aplicable.
 
 **Fuerza mayor.** Ante catástrofes naturales, acciones bélicas, cambios legislativos críticos y fallos técnicos de gran alcance, el funcionamiento de los servicios puede suspenderse temporalmente, avisando a los participantes.
 
@@ -277,11 +279,11 @@ La cuota se abona una sola vez, cubre el coste del procedimiento - la verificaci
 
 ## Derecho de desistimiento y sus límites
 
-**Antes de que empiece la verificación de identidad** usted puede desistir del servicio y recuperar la cuota íntegra, sin explicar los motivos.
+**Mientras no haya abonado la cuota** usted tiene derecho a desistir del servicio sin explicar los motivos y no paga nada: la cuota solo se abona una vez verificada con éxito su identidad.
 
-**Antes de que empiece la verificación** usted confirma aparte y de manera expresa que desea la ejecución inmediata del servicio y que entiende que, tras la emisión del pasaporte, el servicio se considera prestado por completo y el derecho de desistimiento se extingue. Sin esa confirmación la verificación no empieza.
+**Antes de abonar la cuota** usted confirma por separado y de manera expresa que desea la ejecución inmediata del servicio - la emisión del pasaporte - y que entiende que, tras la emisión del pasaporte, el servicio se considera prestado por completo y el derecho de desistimiento se extingue. Sin esa confirmación la cuota no se acepta.
 
-**Tras la emisión del pasaporte** el servicio está prestado y no se hace devolución: los gastos de la comprobación y de la emisión se han soportado y no se devuelven a nadie.
+**Tras la emisión del pasaporte** el servicio está prestado y no se hace devolución: los gastos de la comprobación y de la emisión se han soportado y no se devuelven a nadie. Si la cuota se ha abonado y el pasaporte no se ha emitido por un fallo técnico, la cuota se devuelve íntegra.
 
 > Si la legislación de su país le otorga derechos de consumidor más amplios, se aplican ellos y no la presente sección.
 
@@ -289,7 +291,7 @@ Las donaciones por encima de la cuota son enteramente voluntarias, no influyen e
 
 ## Fallos técnicos
 
-Escriba a info@earth-lings.org adjuntando una descripción, capturas de pantalla e identificadores de las transacciones. Cada situación se examina por separado, y buscamos una solución justa dentro de las posibilidades técnicas.
+Escriba a info@earth-lings.org adjuntando una descripción, capturas de pantalla e identificadores de las transacciones. Si el pasaporte no se ha emitido por un fallo, la cuota se devuelve íntegra (apartado «Derecho de desistimiento y sus límites»); las demás situaciones se examinan por separado, y buscamos una solución justa dentro de las posibilidades técnicas.
 
 No respondemos de las claves que usted haya perdido, de las intrusiones en sus monederos externos ni de los errores al enviar transacciones.
 
@@ -299,7 +301,7 @@ No respondemos de las claves que usted haya perdido, de las intrusiones en sus m
 
 Las presentes Condiciones no sustituyen ni limitan la legislación de su país. Ante una contradicción entre las reglas internas del pueblo y las normas imperativas de su jurisdicción se aplican las normas imperativas.
 
-Las controversias internas entre participantes se resuelven con los procedimientos de la Carta: diálogo, mediación, Consejo Independiente, votación de la Asamblea.
+Las controversias internas entre participantes se resuelven conforme a la sección 04 de las presentes Condiciones: diálogo, mediación con el consentimiento de ambas partes, Consejo Independiente y, en casos extremos, examen por la Asamblea.
 
 **Nada en las presentes Condiciones le priva del derecho a acudir a los tribunales de su jurisdicción ni le obliga a resolver las controversias exclusivamente con los procedimientos internos del pueblo.** El pueblo no es un tribunal, ni un arbitraje, ni un órgano de aplicación del derecho, y no se declara tal.
 
@@ -309,17 +311,17 @@ Las controversias internas entre participantes se resuelven con los procedimient
 
 **Las enmiendas técnicas** que no cambian el sentido y no afectan a sus derechos - corrección de erratas, precisión de redacciones - se introducen publicando la lista de cambios.
 
-**Cualquier modificación que afecte a los derechos y obligaciones de los participantes** se somete a debate y a votación de la Asamblea. Tales modificaciones no se introducen de manera unilateral.
+**Cualquier modificación que afecte a los derechos y obligaciones de los participantes** se somete a debate y a votación de la Asamblea. Tales modificaciones no se introducen de manera unilateral. Durante el período constituyente - desde el 22 de octubre de 2026 hasta la adopción de la Declaración - las modificaciones de las presentes Condiciones se introducen conforme al procedimiento del documento [El período constituyente](https://earth-lings.org/documents/es/es20-periodo-constituyente.html) (parte 2, apartado 2), y no conforme al de la presente sección.
 
 **Procedimiento de aviso:** con no menos de 30 días de antelación a la entrada en vigor, por correo electrónico y en la plataforma, publicando la lista de cambios.
 
-**Su derecho a objetar** tiene una consecuencia: si las modificaciones le resultan inaceptables, usted puede salir del pueblo antes de que entren en vigor, y eso no le acarrea pérdida alguna salvo el cese de la participación. Continuar participando tras la entrada en vigor de las modificaciones significa estar de acuerdo con ellas.
+**Su derecho a objetar** tiene una consecuencia: si las modificaciones le resultan inaceptables, usted puede salir del pueblo antes de que entren en vigor, y eso no le acarrea pérdidas, salvo el cese de la participación; la cuota abonada no se devuelve en ese caso (sección 11). Continuar participando tras la entrada en vigor de las modificaciones significa que se le aplican.
 
 ---
 
 # SECCIÓN 14. Consentimiento
 
-El acto principal de consentimiento es la **firma de la Declaración Earthlings**: es con ella con la que se crea la pertenencia al pueblo y se aceptan las condiciones de este documento.
+El acto principal de consentimiento es la **firma de la Declaración Earthlings**: es con ella con la que se crea la pertenencia al pueblo y se aceptan las condiciones de este documento. Durante el período constituyente - desde el 22 de octubre de 2026 hasta la adopción de la Declaración - la firma está suspendida, y las condiciones de este documento se aceptan y lo enumerado a continuación se confirma mediante un consentimiento separado, otorgado al registrarse.
 
 Al firmar la Declaración y obtener el pasaporte, usted confirma que:
 

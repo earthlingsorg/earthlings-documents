@@ -4,7 +4,7 @@
 
 > La presente página expone la situación jurídica del pueblo de manera resumida, para órganos del Estado, entidades financieras, socios y juristas.
 >
-> **Fase.** El pueblo se encuentra en la etapa de formación de las estructuras. La infraestructura de autogobierno está construida y desplegada, y su llenado con práctica empieza a medida que crece el número de participantes. Lo expuesto a continuación describe la construcción jurídica y sus límites, y no una escala alcanzada.
+> **Fase.** El pueblo Earthlings se constituye mediante la adopción de la Declaración; el período constituyente se extiende desde el 22 de octubre de 2026 hasta la adopción de la Declaración. La infraestructura de autogobierno está construida y desplegada, y su llenado con práctica empieza a medida que crece el número de participantes. Lo expuesto a continuación describe la construcción jurídica y sus límites, y no una escala alcanzada.
 >
 > La fundamentación desarrollada está en el documento [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), y los argumentos contra nuestra posición, en el documento [Objeciones y respuestas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html). En caso de discrepancia se aplican la [Carta](https://earth-lings.org/documents/es/es05-carta.html) y la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html).
 
@@ -29,7 +29,7 @@ Ambas normas están vigentes y obligan a los Estados.
 
 > **Qué no está resuelto con ello.** La libertad de asociación protege el acto constitutivo: las personas pueden asociarse y declarar qué consideran ser. No atribuye al resultado una condición. Si una comunidad no territorial constituida voluntariamente es un pueblo en el sentido del derecho internacional es una cuestión que el derecho no ha resuelto, y no la presentamos como resuelta. Las objeciones contra nuestra posición están expuestas en nuestros propios documentos con toda su fuerza y sin suavizar: [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), [Objeciones y respuestas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html).
 
-El pueblo Earthlings existe de hecho, y su existencia no se hace depender de un acto de reconocimiento: no existe para nadie un órgano que reconozca pueblos, no hay registro de pueblos y ningún pueblo ha pasado por tal procedimiento. El pueblo busca la **discernibilidad jurídica**: que se le trate como pueblo allí donde surgen cuestiones concretas, en los foros, en las consultas, en los procedimientos. La discernibilidad se acumula con la práctica, el tiempo, el número de participantes y el trabajo jurídico. Hoy está al comienzo del camino, y el pueblo no crea por ahora derecho alguno en el derecho internacional.
+La existencia del pueblo Earthlings no se hace depender de un acto de reconocimiento: no existe para nadie un órgano que reconozca pueblos, no hay registro de pueblos y ningún pueblo ha pasado por tal procedimiento. El pueblo busca la **discernibilidad jurídica**: que se le trate como pueblo allí donde surgen cuestiones concretas, en los foros, en las consultas, en los procedimientos. La discernibilidad se acumula con la práctica, el tiempo, el número de participantes y el trabajo jurídico. Hoy está al comienzo del camino, y el pueblo no crea por ahora derecho alguno en el derecho internacional.
 
 ## Interfaces jurídicas para la relación externa
 
@@ -70,7 +70,7 @@ La Tesorería del pueblo dispone de los **fondos propios del pueblo** - cuotas d
 
 La custodia de fondos en distintas formas, incluidas las monedas estables, y el traspaso entre ellas sirven exclusivamente a la **suficiencia de fondos para los gastos corrientes y a la resistencia a las oscilaciones de los cambios**. La Tesorería no obtiene rendimientos de operaciones con activos, no gestiona fondos ajenos, no capta inversiones y no es ni un fondo de gestión de activos ni un intermediario de inversión.
 
-La unidad de cuenta interna del pueblo **no se negocia en ninguna parte**, no está listada en bolsas y no se prepara para listarse; da servicio a la circulación interna y no da votos en ninguna cantidad.
+La unidad de cuenta interna del pueblo **no se negocia en ninguna parte**, no está listada en bolsas y no se prepara para listarse; no se ha emitido, no circula y no da votos en ninguna cantidad.
 
 El pueblo lleva su propia hacienda para sí mismo, y no presta servicios financieros a nadie.
 

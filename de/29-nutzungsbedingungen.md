@@ -6,7 +6,7 @@
 
 ## Das Wesentliche in wenigen Punkten
 
-- Sie werden Teil eines Volkes, das gemeinsame Werte verbinden;
+- mit der Unterzeichnung der Erklärung nach ihrer Annahme werden Sie Teil eines Volkes, das gemeinsame Werte verbinden;
 - die Teilnahme ist freiwillig - austreten kann man jederzeit, ohne Angabe von Gründen;
 - die Daten werden nach dem Grundsatz der Sparsamkeit verarbeitet; das Pseudonym und das Maß der Teilnahme wählen Sie selbst;
 - die Beschlüsse werden durch Abstimmung gefasst, in der Ihre Stimme jeder anderen gleich ist;
@@ -35,9 +35,9 @@ Ist etwas unklar oder unannehmbar, so schreiben Sie. Vorschläge zur Änderung d
 
 ## Wer wir sind
 
-Die Earthlings sind ein selbstbestimmtes transnationales Volk, das tatsächlich aufgrund der Erklärung der Earthlings besteht. Uns verbinden gemeinsame Werte und kein Gebiet und keine Abstammung.
+Die Earthlings sind ein transnationales Volk, das durch die Annahme der Erklärung der Earthlings konstituiert wird. Uns verbinden gemeinsame Werte und kein Gebiet und keine Abstammung.
 
-Das Volk besteht und entwickelt sich mit seiner Infrastruktur, seiner Verwaltung und seiner Identität unabhängig davon, wie das Völkerrecht es mit der Zeit einordnet: Ein anerkennendes Organ für Völker gibt es für niemanden. Die rechtliche Erkennbarkeit - die Behandlung eines Volkes als Volk dort, wo eine bestimmte Frage entsteht - sammelt sich durch Praxis, Zeit und Zahl der Teilnehmer an. Wie das eingerichtet ist und was gegen uns spricht: [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html), [Einwände und Antworten](https://earth-lings.org/documents/de/de26-einwaende-und-antworten.html).
+Das Bestehen des Volkes mit seiner Infrastruktur, seiner Verwaltung und seiner Identität hängt nicht davon ab, wie das Völkerrecht es mit der Zeit einordnet: Ein anerkennendes Organ für Völker gibt es für niemanden. Die rechtliche Erkennbarkeit - die Behandlung eines Volkes als Volk dort, wo eine bestimmte Frage entsteht - sammelt sich durch Praxis, Zeit und Zahl der Teilnehmer an. Wie das eingerichtet ist und was gegen uns spricht: [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html), [Einwände und Antworten](https://earth-lings.org/documents/de/de26-einwaende-und-antworten.html).
 
 > **Die Zugehörigkeit zum Volk ist zusätzlich und nicht ersetzend.** Sie hebt Ihre Staatsangehörigkeit nicht auf und verlangt keinen Verzicht auf sie.
 
@@ -60,7 +60,7 @@ Diese Werte sind in der Architektur verkörpert und nicht nur erklärt.
 **Alter** - das Erreichen des Alters von 18 Jahren.
 **Die Unterzeichnung** der Erklärung der Earthlings.
 **Die Identitätsprüfung** über das eigene System des Volkes.
-**Ein einmaliger Beitrag** - der Gegenwert von 79 USD. Wer ihn nicht selbst entrichten kann, wird in eine offene Warteschlange gestellt, und den Beitrag entrichtet für ihn eine andere Person oder die Schatzkammer; eine Befreiung vom Beitrag ist nicht vorgesehen, der Beitrag wird in jedem Fall vollständig entrichtet (Charta, Artikel 12-bis).
+Weitere Voraussetzungen der Zugehörigkeit gibt es nicht. **Der einmalige Beitrag** - der Gegenwert von 79 USD - deckt die Identitätsprüfung, die Ausgabe des Passes und die Unterhaltung der Infrastruktur und ist keine Voraussetzung der Zugehörigkeit. Wer ihn nicht selbst entrichten kann, kann sich in eine offene Warteschlange stellen, und den Beitrag für ihn kann eine andere Person oder die Schatzkammer entrichten, doch eine Gewähr dafür gibt es nicht; eine Befreiung vom Beitrag ist nicht vorgesehen, der Beitrag wird in jedem Fall vollständig entrichtet (Charta, Artikel 12-bis).
 
 **Was das gibt:** den Pass, das Stimmrecht, die Teilnahme an Zellen, den Zugang zur Infrastruktur.
 
@@ -71,10 +71,12 @@ Diese Werte sind in der Architektur verkörpert und nicht nur erklärt.
 1. die Anlage eines Kontos: ein Pseudonym nach Ihrer Wahl, eine E-Mail-Adresse, das Land, der Nachweis des Alters;
 2. die Bestätigung der E-Mail-Adresse;
 3. die Kenntnisnahme der Erklärung;
-4. die Unterzeichnung der Erklärung - eben dieser Akt begründet die Zugehörigkeit;
-5. die Identitätsprüfung;
+4. die Identitätsprüfung;
+5. die Unterzeichnung der Erklärung - eben dieser Akt begründet die Zugehörigkeit;
 6. die Entrichtung des Beitrags;
 7. der Erhalt des Passes.
+
+> **In der Gründungsphase** - vom 22. Oktober 2026 bis zur Annahme der Erklärung - sind die Unterzeichnung der Erklärung und der Beitritt zum Volk ausgesetzt: Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht. Die Identitätsprüfung erfolgt in dieser Phase kostenlos, und auf ihrer Grundlage wird nicht der Pass, sondern ein vorläufiges Dokument des Teilnehmers der Konstituierung ausgegeben ([Die Gründungsphase](https://earth-lings.org/documents/de/de20-gruendungsphase.html), Teil 2, Ziffer 5).
 
 **Zur Richtigkeit der Angaben.** Land und Alter sind wahrheitsgemäß anzugeben, und das Papier muss bei der Prüfung echt sein. Wirklicher Vor- und Nachname werden nicht gespeichert: Die Angaben des Papiers werden nur im Augenblick der Prüfung überprüft.
 
@@ -86,13 +88,13 @@ Sie haften für die Sicherheit des Passworts und der kryptografischen Schlüssel
 
 ## Beschränkungen: was möglich und was unmöglich ist
 
-**Was es niemals gibt.** Einen Ausschluss aus dem Volk gibt es nicht. Die Zugehörigkeit ist unveräußerlich und endet allein durch Ihre eigene Entscheidung. Die Plattform, ihre Verwalter und die technischen Strukturen haben solche Befugnisse nicht und können sie nicht haben.
+**Was es niemals gibt.** Einen Ausschluss aus dem Volk gibt es nicht. Die Zugehörigkeit ist unveräußerlich und endet allein durch Ihre eigene Entscheidung oder infolge des Todes. Die Plattform, ihre Verwalter und die technischen Strukturen haben solche Befugnisse nicht und können sie nicht haben.
 
-**Was die Vollversammlung beschließen kann** im Verfahren des Artikels 22 der Charta, mit dem Recht auf Verteidigung, geheimer Abstimmung und Beschwerde: eine Verwarnung auszusprechen und über das Gemeinsame zu verfügen - die Finanzierung eines Projekts zu widerrufen, die Finanzierung einer Zelle zu beenden, die Anerkennung zu entziehen. Diese Maßnahmen berühren die Rechte einer Person nicht: weder die Zugehörigkeit noch die Stimme noch das Recht, Vorschläge einzubringen und Fragen zu stellen, noch die Teilnahme an Zellen, noch den Zugang zur Plattform und zu ihren Diensten.
+**Was die Vollversammlung beschließen kann** im Verfahren des Artikels 22 der Charta, mit dem Recht auf Verteidigung, geheimer Abstimmung und Beschwerde: eine Verwarnung auszusprechen und über das Gemeinsame zu verfügen - die Finanzierung eines Projekts zu widerrufen, die Finanzierung einer Zelle zu beenden, die Anerkennung zu entziehen, eine Zelle aufzulösen (Gründe und Verfahren - Artikel 25 der Charta). Diese Maßnahmen berühren die Rechte einer Person nicht: weder die Zugehörigkeit noch die Stimme noch das Recht, Vorschläge einzubringen und Fragen zu stellen, noch das Recht, Zellen zu bilden und ihnen beizutreten, noch den Zugang zur Plattform und zu ihren Diensten.
 
 **Das Stimmrecht** kann **nur** wegen einer nachgewiesenen Untergrabung der Unversehrtheit der Abstimmung selbst ausgesetzt werden - Absprache, Kauf oder Verkauf einer Stimme, Nötigung anderer, der Versuch, die Regel „ein Mensch - ein Pass“ zu umgehen -, für eine Dauer von bis zu 6 Monaten, im Verfahren des Artikels 22-bis der Charta. Ansichten, der Inhalt der Stimmabgabe und die Ablehnung von Beschlüssen sind in keiner Darstellung ein Grund.
 
-**Was die Verwaltung ohne Beschluss der Vollversammlung tun kann.** Nur eines: den Zugang zu einem Konto bei offenkundigen Anzeichen seiner Kompromittierung oder eines technischen Angriffs aussetzen - mit sofortiger Benachrichtigung des Teilnehmers und anschließender Behandlung durch die Vollversammlung. Das ist ein Schutz Ihres Kontos und keine Sanktion, und auf die Rechte eines Teilnehmers wirkt es sich nicht aus.
+**Was die Verwaltung ohne Beschluss der Vollversammlung tun kann.** Nur zweierlei. Erstens: den Zugang zu einem Konto bei offenkundigen Anzeichen seiner Kompromittierung oder eines technischen Angriffs aussetzen - mit sofortiger Benachrichtigung des Teilnehmers und anschließender Behandlung durch die Vollversammlung; das ist ein Schutz Ihres Kontos und keine Sanktion, und auf die Rechte eines Teilnehmers wirkt es sich nicht aus. Zweitens: ein Konto aussetzen, wenn bekannt wird, dass sich eine Person angemeldet hat, die das Alter von 18 Jahren nicht erreicht hat (Datenschutzerklärung, Abschnitt 10); der Pass wird in diesem Fall vom Inhaber selbst oder im Verfahren der Aufhebung einer unwirksamen Ausgabe entwertet (Charta, Artikel 21).
 
 ---
 
@@ -120,9 +122,9 @@ Sie haften für die Sicherheit des Passworts und der kryptografischen Schlüssel
 ## Die Beilegung von Konflikten
 
 1. versuchen Sie, die Frage unmittelbar zu klären;
-2. wenden Sie sich an einen unabhängigen Vermittler;
-3. schwere Streitigkeiten gehen nach Maßgabe seiner Bildung an den Unabhängigen Rat; bis dahin behandelt sie die Vollversammlung mit verdoppelten Fristen der Erörterung;
-4. in äußersten Fällen wird die Frage zur Abstimmung gestellt.
+2. wenden Sie sich mit Zustimmung der anderen Seite an einen unabhängigen Vermittler: Ohne Zustimmung beider Seiten findet keine Mediation statt;
+3. schwere Streitigkeiten gehen an den Unabhängigen Rat; solange der Rat nicht gebildet ist, entfällt diese Stufe, und die Fristen der Erörterung verdoppeln sich (Charta, Artikel 39);
+4. in äußersten Fällen - wenn die Mediation zu keiner Beilegung geführt hat und der Streit die Interessen der Gemeinschaft berührt oder eine grundsätzliche Entscheidung verlangt - ist jede der Seiten befugt, die Frage der Vollversammlung zur Behandlung vorzulegen.
 
 ---
 
@@ -184,7 +186,7 @@ Earthlings Coin ist eine Nutzungseinheit der inneren Wirtschaft. Das ist keine A
 
 ## Was wichtig zu verstehen ist
 
-**Heute** läuft die Einheit nur innerhalb des Ökosystems um und wird nirgends gehandelt. Die Zugehörigkeit weist der Pass nach und nicht die Einheit; Stimmen gibt sie bei keinem Umfang.
+**Heute** ist die Einheit nicht ausgegeben: Die Wirtschaft der Teilnahme wird in der inneren Buchführung geführt, einen Umlauf und einen Marktpreis gibt es nicht, und die Einheit wird nirgends gehandelt. Die Zugehörigkeit weist der Pass nach und nicht die Einheit; Stimmen gibt sie bei keinem Umfang.
 
 **Künftig** ist eine Verfügbarkeit an einer Börse möglich, doch sie ist weder versprochen noch ein Ziel. Sie verwandelt die Einheit nicht in ein Anlagewerkzeug und bedeutet kein Versprechen eines Wertzuwachses - ein solches gibt niemand, gleich wie sich die Dinge entwickeln.
 
@@ -234,7 +236,7 @@ Zellen sind kleine Teams von Teilnehmern, die an bestimmten Projekten arbeiten: 
 
 - **die Größe** - von 2 bis 6 Menschen; braucht es mehr, so werden mehrere Zellen gebildet und nicht eine große;
 - **die Bildung** - jeder Teilnehmer schließt sich mit anderen um ein Ziel zusammen; Anführer werden nicht von oben bestellt;
-- **die Entscheidungen innerhalb einer Zelle** fallen im Konsent: Eine Entscheidung geht durch, wenn niemand einen begründeten Einwand erhoben hat;
+- **die Entscheidungen innerhalb einer Zelle** fallen im Konsent: Eine Entscheidung geht durch, wenn niemand einen begründeten Einwand erhoben hat, und eine Entscheidung, die einen Menschen persönlich trifft, verlangt seine ausdrückliche Zustimmung;
 - **die Finanzierung** wird über eine Abstimmung der Vollversammlung aus der gemeinsamen Kasse beantragt;
 - **der Beitrag zum Gemeinsamen** - 5 Prozent des Gewinns einer Zelle fließen in die Kasse.
 
@@ -263,7 +265,7 @@ Die Beachtung des Rechts Ihres Landes; die Sicherheit der eigenen Schlüssel und
 - Ausfälle verteilter Netze, die nicht von uns abhängen;
 - den Inhalt und die Handlungen auf äußeren Angeboten.
 
-> Nichts in diesem Abschnitt beschränkt Ihre Haftung und unsere Pflichten in dem Maß, in dem eine solche Beschränkung nach dem für Sie geltenden Recht unzulässig ist.
+> Nichts in diesem Abschnitt beschränkt unsere Haftung und Ihre Rechte in dem Maß, in dem eine solche Beschränkung nach dem für Sie geltenden Recht unzulässig ist.
 
 **Höhere Gewalt.** Bei Naturkatastrophen, Kriegshandlungen, kritischen Änderungen der Gesetzgebung und großflächigen technischen Ausfällen kann die Arbeit der Dienste unter Benachrichtigung der Teilnehmer vorübergehend ausgesetzt werden.
 
@@ -277,11 +279,11 @@ Der Beitrag wird einmal entrichtet, deckt die Selbstkosten des Verfahrens - der 
 
 ## Das Widerrufsrecht und seine Grenzen
 
-**Vor dem Beginn der Identitätsprüfung** sind Sie befugt, auf die Leistung zu verzichten und den Beitrag vollständig zurückzuerhalten, ohne Angabe von Gründen.
+**Bis zur Entrichtung des Beitrags** sind Sie befugt, ohne Angabe von Gründen auf die Leistung zu verzichten, und Sie zahlen nichts: Der Beitrag wird erst nach einer erfolgreichen Identitätsprüfung entrichtet.
 
-**Vor dem Beginn der Prüfung** bestätigen Sie gesondert und ausdrücklich, dass Sie die sofortige Ausführung der Leistung wünschen und verstehen, dass die Leistung nach der Ausgabe des Passes als vollständig erbracht gilt und das Widerrufsrecht erlischt. Ohne eine solche Bestätigung beginnt die Prüfung nicht.
+**Vor der Entrichtung des Beitrags** bestätigen Sie gesondert und ausdrücklich, dass Sie die sofortige Ausführung der Leistung - die Ausgabe des Passes - wünschen und verstehen, dass die Leistung nach der Ausgabe des Passes als vollständig erbracht gilt und das Widerrufsrecht erlischt. Ohne eine solche Bestätigung wird der Beitrag nicht angenommen.
 
-**Nach der Ausgabe des Passes** ist die Leistung erbracht, und eine Rückerstattung erfolgt nicht: Die Kosten der Prüfung und der Ausgabe sind angefallen und werden niemandem erstattet.
+**Nach der Ausgabe des Passes** ist die Leistung erbracht, und eine Rückerstattung erfolgt nicht: Die Kosten der Prüfung und der Ausgabe sind angefallen und werden niemandem erstattet. Wurde der Beitrag entrichtet, der Pass aber wegen einer technischen Störung nicht ausgegeben, so wird der Beitrag vollständig erstattet.
 
 > Gewährt das Recht Ihres Landes Ihnen weitergehende Verbraucherrechte, so gelten diese und nicht dieser Abschnitt.
 
@@ -289,7 +291,7 @@ Spenden über den Beitrag hinaus sind vollständig freiwillig, wirken sich auf d
 
 ## Technische Störungen
 
-Wenden Sie sich an info@earth-lings.org und fügen Sie eine Beschreibung, Bildschirmaufnahmen und die Kennungen der Vorgänge bei. Jede Lage wird gesondert behandelt, und wir streben in den Grenzen der technischen Möglichkeiten eine gerechte Lösung an.
+Wenden Sie sich an info@earth-lings.org und fügen Sie eine Beschreibung, Bildschirmaufnahmen und die Kennungen der Vorgänge bei. Wurde der Pass wegen einer Störung nicht ausgegeben, so wird der Beitrag vollständig erstattet (Unterabschnitt „Das Widerrufsrecht und seine Grenzen“); die übrigen Fälle werden gesondert behandelt, und wir streben in den Grenzen der technischen Möglichkeiten eine gerechte Lösung an.
 
 Wir haften nicht für von Ihnen verlorene Schlüssel, für Einbrüche in Ihre äußeren Geldbörsen und für Fehler beim Senden von Vorgängen.
 
@@ -299,7 +301,7 @@ Wir haften nicht für von Ihnen verlorene Schlüssel, für Einbrüche in Ihre ä
 
 Diese Bedingungen ersetzen und beschränken das Recht Ihres Landes nicht. Bei einem Widerspruch zwischen den inneren Regeln des Volkes und den zwingenden Normen Ihrer Rechtsordnung gelten die zwingenden Normen.
 
-Innere Streitigkeiten zwischen Teilnehmern werden nach den Verfahren der Charta beigelegt: Gespräch, Vermittlung, Unabhängiger Rat, Abstimmung der Vollversammlung.
+Innere Streitigkeiten zwischen Teilnehmern werden im Verfahren des Abschnitts 04 dieser Bedingungen beigelegt: Gespräch, Vermittlung mit Zustimmung beider Seiten, Unabhängiger Rat und in äußersten Fällen die Behandlung durch die Vollversammlung.
 
 **Nichts in diesen Bedingungen nimmt Ihnen das Recht, ein Gericht Ihrer Rechtsordnung anzurufen, und verpflichtet Sie nicht, Streitigkeiten ausschließlich durch die inneren Verfahren des Volkes beizulegen.** Das Volk ist weder ein Gericht noch eine Schiedsstelle noch eine rechtsdurchsetzende Stelle und erklärt sich auch nicht dazu.
 
@@ -309,17 +311,17 @@ Innere Streitigkeiten zwischen Teilnehmern werden nach den Verfahren der Charta 
 
 **Technische Änderungen**, die den Sinn nicht ändern und Ihre Rechte nicht berühren - die Berichtigung von Schreibfehlern, die Präzisierung von Formulierungen -, werden unter Veröffentlichung der Aufzählung der Änderungen eingearbeitet.
 
-**Alle Änderungen, die die Rechte und Pflichten der Teilnehmer berühren**, werden der Vollversammlung zur Erörterung und Abstimmung vorgelegt. Einseitig werden solche Änderungen nicht eingearbeitet.
+**Alle Änderungen, die die Rechte und Pflichten der Teilnehmer berühren**, werden der Vollversammlung zur Erörterung und Abstimmung vorgelegt. Einseitig werden solche Änderungen nicht eingearbeitet. In der Gründungsphase - vom 22. Oktober 2026 bis zur Annahme der Erklärung - werden Änderungen dieser Bedingungen im Verfahren des Dokuments [Die Gründungsphase](https://earth-lings.org/documents/de/de20-gruendungsphase.html) (Teil 2, Ziffer 2) eingearbeitet und nicht im Verfahren dieses Abschnitts.
 
 **Der Ablauf der Benachrichtigung:** mindestens 30 Tage vor dem Inkrafttreten, per E-Mail und auf der Plattform, unter Veröffentlichung der Aufzählung der Änderungen.
 
-**Ihr Recht zu widersprechen** hat eine Folge: Sind die Änderungen für Sie unannehmbar, so sind Sie befugt, vor ihrem Inkrafttreten aus dem Volk auszutreten, und das zieht für Sie keinerlei Verluste nach sich außer dem Ende der Teilnahme. Die Fortsetzung der Teilnahme nach dem Inkrafttreten der Änderungen bedeutet die Zustimmung zu ihnen.
+**Ihr Recht zu widersprechen** hat eine Folge: Sind die Änderungen für Sie unannehmbar, so sind Sie befugt, vor ihrem Inkrafttreten aus dem Volk auszutreten, und das zieht für Sie keine Verluste nach sich außer dem Ende der Teilnahme; der entrichtete Beitrag wird dabei nicht erstattet (Abschnitt 11). Die Fortsetzung der Teilnahme nach dem Inkrafttreten der Änderungen bedeutet, dass sie für Sie gelten.
 
 ---
 
 # ABSCHNITT 14. Die Zustimmung
 
-Der wesentliche Akt der Zustimmung ist die **Unterzeichnung der Erklärung der Earthlings**: Eben durch sie wird die Zugehörigkeit zum Volk begründet und werden die Bedingungen dieser Nutzungsbedingungen angenommen.
+Der wesentliche Akt der Zustimmung ist die **Unterzeichnung der Erklärung der Earthlings**: Eben durch sie wird die Zugehörigkeit zum Volk begründet und werden die Bedingungen dieser Nutzungsbedingungen angenommen. In der Gründungsphase - vom 22. Oktober 2026 bis zur Annahme der Erklärung - ist die Unterzeichnung ausgesetzt, und durch eine gesonderte Zustimmung bei der Anmeldung werden diese Bedingungen angenommen und das unten Aufgeführte bestätigt.
 
 Mit der Unterzeichnung der Erklärung und dem Erhalt des Passes bestätigen Sie, dass Sie:
 

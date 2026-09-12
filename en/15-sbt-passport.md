@@ -55,13 +55,13 @@ The history of participation and contribution is recorded publicly: votes, compl
 
 ## How to obtain it
 
-**1. Signing the Declaration.** Reading the documents, understanding the principles, confirming agreement with a digital signature. It is this act that creates belonging.
+**1. Identity verification.** Confirmation that you are a living human being and that there is only one of you. It secures the principle of "one person, one vote". Original images and scans of documents are not retained.
 
-**2. Identity verification.** Confirmation that you are a living human being and that there is only one of you. It secures the principle of "one person, one vote". Original images and scans of documents are not retained.
+**2. Signing the Declaration.** Reading the documents, understanding the principles, confirming agreement with a digital signature. It is this act that creates belonging.
 
 **3. Making the contribution.** The equivalent of 79 USD, in cryptocurrency (ETH, USDT, USDC). The purpose of the contribution and the procedure for spending it are set out in the document [Treasury](https://earth-lings.org/documents/en/en09-treasury.html).
 
-> A person who cannot make the contribution themselves joins an open queue, and the contribution for them is made by another person or by the Treasury. The passport is in no way different from any other: the registry does not record by whom the contribution was made. The contribution does not buy belonging: belonging arises by signing the Declaration.
+> A person who cannot make the contribution themselves may join an open queue, and the contribution for them may be made by another person or by the Treasury; there is no guarantee that it will be. The passport is in no way different from any other: the registry does not record by whom the contribution was made. The contribution does not buy belonging: belonging arises by signing the Declaration.
 
 **4. Issuance of the passport.** The token is created automatically and tied to your wallet.
 
@@ -141,7 +141,7 @@ The Charter (Article 21) establishes **two and only two** exceptions, and this l
 
 ### 1. Annulment of an invalid issuance
 
-It applies where it is established that a passport was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using falsified data or another person's identity.
+It applies where it is established that a passport was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using falsified data or another person's identity, or the passport was issued to a person below the age set by the Charter.
 
 **This is not a measure of liability and not expulsion from the people.** What is established is only that the issuance never lawfully took place. No automatic reissue follows: if the obstacle to lawful issuance is removed, a person is entitled to undergo verification again on general terms.
 

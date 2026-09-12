@@ -4,7 +4,7 @@
 
 > La présente page expose la situation juridique du peuple sous une forme condensée, à l'intention des organes de l'État, des établissements financiers, des partenaires et des juristes.
 >
-> **Le stade.** Le peuple se trouve à l'étape de mise en place des structures. L'infrastructure d'autogouvernement est bâtie et déployée; son remplissage par la pratique commence à mesure que le nombre de participants augmente. Ce qui est exposé ci-dessous décrit la construction juridique et ses limites, non une échelle atteinte.
+> **Le stade.** Le peuple des Earthlings est constitué par l'adoption de la Déclaration; la période constituante s'étend du 22 octobre 2026 jusqu'à l'adoption de celle-ci. L'infrastructure d'autogouvernement est bâtie et déployée; son remplissage par la pratique commence à mesure que le nombre de participants augmente. Ce qui est exposé ci-dessous décrit la construction juridique et ses limites, non une échelle atteinte.
 >
 > L'argumentation développée figure dans le document [Base juridique](https://earth-lings.org/documents/fr/fr04-base-juridique.html), et les arguments contraires à notre position dans le document [Objections et réponses](https://earth-lings.org/documents/fr/fr26-objections-et-reponses.html). En cas de divergence s'appliquent la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html) et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html).
 
@@ -29,7 +29,7 @@ Les deux normes sont en vigueur et s'imposent aux États.
 
 > **Ce qui n'est pas tranché pour autant.** La liberté d'association protège l'acte constitutif: des gens ont le droit de s'associer et de déclarer ce qu'ils estiment être. Elle n'attribue pas de statut au résultat. Savoir si une communauté non territoriale volontairement constituée est un peuple au sens du droit international est une question que le droit n'a pas tranchée, et nous ne la faisons pas passer pour tranchée. Les objections à notre position sont exposées dans nos propres documents dans toute leur force et sans adoucissement: [Base juridique](https://earth-lings.org/documents/fr/fr04-base-juridique.html), [Objections et réponses](https://earth-lings.org/documents/fr/fr26-objections-et-reponses.html).
 
-Le peuple des Earthlings existe en fait, et son existence n'est pas subordonnée à un acte de reconnaissance: il n'existe pour personne d'organe qui reconnaisse les peuples, il n'y a pas de registre des peuples, et aucun peuple n'a suivi une telle procédure. Le peuple recherche la **discernabilité juridique**: être traité comme un peuple là où naissent des questions concrètes, dans des enceintes, dans des consultations, dans des procédures. La discernabilité s'accumule par la pratique, le temps, le nombre de participants et le travail juridique. Elle en est aujourd'hui à ses débuts, et le peuple ne crée pour l'instant aucun droit en droit international.
+L'existence du peuple des Earthlings n'est pas subordonnée à un acte de reconnaissance: il n'existe pour personne d'organe qui reconnaisse les peuples, il n'y a pas de registre des peuples, et aucun peuple n'a suivi une telle procédure. Le peuple recherche la **discernabilité juridique**: être traité comme un peuple là où naissent des questions concrètes, dans des enceintes, dans des consultations, dans des procédures. La discernabilité s'accumule par la pratique, le temps, le nombre de participants et le travail juridique. Elle en est aujourd'hui à ses débuts, et le peuple ne crée pour l'instant aucun droit en droit international.
 
 ## Les interfaces juridiques pour les relations extérieures
 
@@ -70,7 +70,7 @@ La Trésorerie du peuple dispose des **fonds propres du peuple** - cotisations d
 
 La conservation des fonds sous différentes formes, y compris en stablecoins, et les transferts entre elles servent exclusivement à assurer **des fonds suffisants pour les dépenses courantes et une résistance aux variations de cours**. La Trésorerie ne tire aucun revenu d'opérations sur actifs, ne gère pas de fonds d'autrui, ne collecte pas de placements et n'est ni un fonds de gestion d'actifs ni un intermédiaire d'investissement.
 
-L'unité de compte interne du peuple **n'est cotée nulle part**, n'est admise sur aucune place de marché et n'est pas en cours d'admission; elle sert la circulation interne et ne donne de voix à aucun volume.
+L'unité de compte interne du peuple **n'est cotée nulle part**, n'est admise sur aucune place de marché et n'est pas en cours d'admission; elle n'est pas émise, ne circule pas et ne donne de voix à aucun volume.
 
 Le peuple tient sa propre économie pour lui-même, il ne fournit de services financiers à personne.
 

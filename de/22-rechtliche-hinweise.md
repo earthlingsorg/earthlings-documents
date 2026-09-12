@@ -4,7 +4,7 @@
 
 > Diese Seite legt die rechtliche Lage des Volkes in gedrängter Form dar - für staatliche Stellen, Finanzinstitute, Partner und Juristen.
 >
-> **Die Stufe.** Das Volk befindet sich in der Phase des Strukturaufbaus. Die Infrastruktur der Selbstverwaltung ist gebaut und ausgerollt, ihre Füllung mit Praxis beginnt mit dem Wachsen der Zahl der Teilnehmer. Das Folgende beschreibt die rechtliche Konstruktion und ihre Grenzen und keinen erreichten Maßstab.
+> **Die Stufe.** Das Volk der Earthlings wird durch die Annahme der Erklärung konstituiert; vom 22. Oktober 2026 bis zu ihrer Annahme läuft die Gründungsphase. Die Infrastruktur der Selbstverwaltung ist gebaut und ausgerollt, ihre Füllung mit Praxis beginnt mit dem Wachsen der Zahl der Teilnehmer. Das Folgende beschreibt die rechtliche Konstruktion und ihre Grenzen und keinen erreichten Maßstab.
 >
 > Die ausführliche Begründung steht im Dokument [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html), und die Argumente gegen unsere Position stehen im Dokument [Einwände und Antworten](https://earth-lings.org/documents/de/de26-einwaende-und-antworten.html). Bei einer Abweichung gelten die [Charta](https://earth-lings.org/documents/de/de05-charta.html) und die [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html).
 
@@ -29,7 +29,7 @@ Beide Normen gelten und sind für die Staaten verbindlich.
 
 > **Was dabei nicht entschieden ist.** Die Vereinigungsfreiheit schützt die konstituierende Handlung: Menschen dürfen sich zusammenschließen und erklären, wofür sie sich halten. Sie verleiht dem Ergebnis keinen Status. Ob eine freiwillig konstituierte nichtterritoriale Gemeinschaft ein Volk im Sinne des Völkerrechts ist, ist eine Frage, die das Recht nicht entschieden hat, und wir geben sie nicht für entschieden aus. Die Einwände gegen unsere Position sind in unseren eigenen Dokumenten in voller Stärke und ohne Abmilderung dargelegt: [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html), [Einwände und Antworten](https://earth-lings.org/documents/de/de26-einwaende-und-antworten.html).
 
-Das Volk der Earthlings besteht tatsächlich, und sein Bestehen ist nicht von einem anerkennenden Akt abhängig gemacht: Ein Organ, das Völker anerkennt, gibt es für niemanden, ein Register der Völker gibt es nicht, und kein Volk hat ein solches Verfahren durchlaufen. Das Volk strebt **rechtliche Erkennbarkeit** an - dass es als Volk behandelt wird, wo bestimmte Fragen entstehen: auf Bühnen, in Beratungen, in Verfahren. Die Erkennbarkeit sammelt sich durch Praxis, Zeit, Zahl der Teilnehmer und juristische Arbeit an. Heute steht sie am Anfang des Weges, und das Volk begründet im Völkerrecht bislang keinerlei Rechte.
+Das Bestehen des Volkes der Earthlings ist nicht von einem anerkennenden Akt abhängig gemacht: Ein Organ, das Völker anerkennt, gibt es für niemanden, ein Register der Völker gibt es nicht, und kein Volk hat ein solches Verfahren durchlaufen. Das Volk strebt **rechtliche Erkennbarkeit** an - dass es als Volk behandelt wird, wo bestimmte Fragen entstehen: auf Bühnen, in Beratungen, in Verfahren. Die Erkennbarkeit sammelt sich durch Praxis, Zeit, Zahl der Teilnehmer und juristische Arbeit an. Heute steht sie am Anfang des Weges, und das Volk begründet im Völkerrecht bislang keinerlei Rechte.
 
 ## Rechtliche Schnittstellen für den äußeren Verkehr
 
@@ -70,7 +70,7 @@ Die Schatzkammer des Volkes verfügt über die **eigenen Mittel des Volkes** - B
 
 Die Verwahrung von Mitteln in verschiedenen Formen, einschließlich Stablecoins, und die Übertragung zwischen ihnen dienen ausschließlich der **Deckung der laufenden Ausgaben und der Widerstandsfähigkeit gegen Kursschwankungen**. Die Schatzkammer zieht aus Vorgängen mit Vermögenswerten keinen Ertrag, verwaltet keine fremden Mittel, wirbt keine Anlagen ein und ist weder ein Fonds der Vermögensverwaltung noch ein Anlagevermittler.
 
-Die innere Recheneinheit des Volkes wird **nirgends gehandelt**, ist an keiner Börse eingeführt und wird nicht zur Einführung vorbereitet; sie bedient den inneren Umlauf und gibt bei keinem Umfang Stimmen.
+Die innere Recheneinheit des Volkes wird **nirgends gehandelt**, ist an keiner Börse eingeführt und wird nicht zur Einführung vorbereitet; sie ist nicht ausgegeben, hat keinen Umlauf und gibt bei keinem Umfang Stimmen.
 
 Das Volk führt seine eigene Wirtschaft für sich und erbringt niemandem Finanzdienstleistungen.
 

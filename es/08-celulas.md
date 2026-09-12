@@ -296,7 +296,7 @@ No existen otros fundamentos. Las decisiones se adoptan por mayoría cualificada
 
 ## Salida de una célula y pertenencia al pueblo
 
-La salida de una célula, la exclusión de un equipo de proyecto y la disolución de una célula son sucesos internos de una estructura de trabajo. Con la pertenencia de una persona al pueblo Earthlings no guardan relación: la pertenencia es inalienable y cesa solo por decisión propia de la persona.
+La salida de una célula, la exclusión de un equipo de proyecto y la disolución de una célula son sucesos internos de una estructura de trabajo. Con la pertenencia de una persona al pueblo Earthlings no guardan relación: la pertenencia es inalienable y cesa solo por decisión propia de la persona o a consecuencia de su fallecimiento.
 
 ---
 

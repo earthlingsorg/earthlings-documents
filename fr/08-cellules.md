@@ -296,7 +296,7 @@ Il n'existe pas d'autres motifs. Les décisions sont prises à la majorité qual
 
 ## La sortie d'une cellule et l'appartenance au peuple
 
-La sortie d'une cellule, l'exclusion d'une équipe de projet et la dissolution d'une cellule sont des événements internes à une structure de travail. Ils n'ont aucun rapport avec l'appartenance d'une personne au peuple des Earthlings: cette appartenance est inaliénable et ne prend fin que par la propre décision de la personne.
+La sortie d'une cellule, l'exclusion d'une équipe de projet et la dissolution d'une cellule sont des événements internes à une structure de travail. Ils n'ont aucun rapport avec l'appartenance d'une personne au peuple des Earthlings: cette appartenance est inaliénable et ne prend fin que par la propre décision de la personne ou par l'effet de son décès.
 
 ---
 

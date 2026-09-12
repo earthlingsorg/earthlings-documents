@@ -189,7 +189,7 @@ Als Ausgleich für die Verschlossenheit übernehmen wir Folgendes:
 
 ## Die unabhängige Aufsicht
 
-Fragen der Ethik der Verarbeitung biometrischer Daten werden dem [Unabhängigen Rat](https://earth-lings.org/documents/de/de11-unabhaengiger-rat.html) zur Behandlung vorgelegt - einem Organ, das denen nicht untersteht, die die Plattform betreiben. Bis zur Bildung des Rates behandelt solche Fragen die DAO-Vollversammlung, und die Fristen der öffentlichen Beratung verdoppeln sich (Charta, Artikel 39).
+Fragen der Ethik der Verarbeitung biometrischer Daten werden dem [Unabhängigen Rat](https://earth-lings.org/documents/de/de11-unabhaengiger-rat.html) zur Behandlung vorgelegt - einem Organ, das denen nicht untersteht, die die Plattform betreiben. Bis zur Bildung des Rates entfällt diese Stufe, und die Fristen der öffentlichen Beratung solcher Fragen verdoppeln sich (Charta, Artikel 39).
 
 Vorschläge zur Änderung dieser Politik werden der Vollversammlung zur Abstimmung vorgelegt.
 

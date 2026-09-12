@@ -14,11 +14,11 @@
 
 **Identitätsprüfung** - die Prüfung, dass Sie ein lebender Mensch sind und dass Sie einer sind.
 
-**Einmaliger Beitrag** - der Gegenwert von 79 USD.
-
 Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Geschlecht, gesellschaftliche Stellung, Staatsangehörigkeit und Wohnort wirken sich auf die Möglichkeit des Beitritts nicht aus.
 
-> **Wenn Sie den Beitrag nicht entrichten können**, entrichtet ihn ein anderer Mensch für Sie. Dazu Abschnitt 9. Sie müssen nichts nachweisen und nichts erklären. Die Zugehörigkeit zum Volk kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung.
+**Der einmalige Beitrag** - der Gegenwert von 79 USD - deckt die Identitätsprüfung, die Ausgabe des Passes und die Unterhaltung der Infrastruktur. Eine Voraussetzung der Zugehörigkeit ist er nicht.
+
+> **Wenn Sie den Beitrag nicht entrichten können**, können Sie sich in eine offene Warteschlange stellen, und den Beitrag für Sie kann ein anderer Mensch oder die Schatzkammer entrichten; eine Gewähr dafür gibt es nicht. Dazu Abschnitt 9. Sie müssen nichts nachweisen und nichts erklären. Die Zugehörigkeit zum Volk kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung.
 
 ---
 
@@ -28,9 +28,9 @@ Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Gesc
 
 **2. Anmeldung.** E-Mail, Wohnsitzland, Pseudonym oder Name nach Ihrer Wahl.
 
-**3. Unterzeichnung der Erklärung.** Die Bestätigung der Zustimmung zu den Grundsätzen des Volkes. Eben dieser Akt begründet die Zugehörigkeit.
+**3. Identitätsprüfung.** Ein Gesichtsscan und der Abgleich mit einem Ausweispapier.
 
-**4. Identitätsprüfung.** Ein Gesichtsscan und der Abgleich mit einem Ausweispapier.
+**4. Unterzeichnung der Erklärung.** Die Bestätigung der Zustimmung zu den Grundsätzen des Volkes. Eben dieser Akt begründet die Zugehörigkeit.
 
 **5. Zahlung des Beitrags.** In Kryptowährung (ETH, USDT, USDC). Die Zahlung mit Bankkarte ist in Arbeit. Wenn kein Geld da ist, steht hier die zweite Schaltfläche - „ich brauche den Beitrag“; sie fragt nichts und führt in die offene Warteschlange (Abschnitt 9).
 
@@ -42,7 +42,7 @@ Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Gesc
 
 ## 3. Was Sie erhalten
 
-**Sie können nicht ausgeschlossen werden.** Ein Verfahren des Ausschlusses aus dem Volk der Earthlings gibt es unter keinen Umständen und für keine Mehrheit. Die Zugehörigkeit endet allein durch Ihre eigene Entscheidung.
+**Sie können nicht ausgeschlossen werden.** Ein Verfahren des Ausschlusses aus dem Volk der Earthlings gibt es unter keinen Umständen und für keine Mehrheit. Die Zugehörigkeit endet allein durch Ihre eigene Entscheidung oder infolge des Todes.
 
 **Ihre Stimme kann Ihnen nicht dafür entzogen werden, wie Sie denken und wie Sie abstimmen.** Weder wegen Ansichten noch wegen des Inhalts der Stimmabgabe noch wegen der Ablehnung von Beschlüssen noch als allgemeine Sanktion. Die einzige Ausnahme ist ein nachgewiesener Angriff auf den Abstimmungsmechanismus selbst; Ablauf und Fristen sind in der [Charta, Artikel 22-bis](https://earth-lings.org/documents/de/de05-charta.html) festgelegt.
 
@@ -97,7 +97,7 @@ Das sind Pflichten und keine Voraussetzungen für den Erhalt des Status: Ihre Ve
 
 In der Regel entwerten nur Sie selbst den Pass. Die Charta (Artikel 21) legt **zwei und nur zwei** Ausnahmen fest, und diese Aufzählung darf nicht erweitert werden.
 
-**1. Die Aufhebung einer unwirksamen Ausgabe.** Wird angewandt, wenn festgestellt ist, dass einem Menschen mehr als ein gültiger Pass ausgegeben wurde oder dass die Prüfung unter Verwendung falscher Angaben oder der Identität eines anderen durchlaufen wurde.
+**1. Die Aufhebung einer unwirksamen Ausgabe.** Wird angewandt, wenn festgestellt ist, dass einem Menschen mehr als ein gültiger Pass ausgegeben wurde oder dass die Prüfung unter Verwendung falscher Angaben oder der Identität eines anderen durchlaufen wurde oder dass der Pass einer Person ausgegeben wurde, die das von der Charta festgelegte Alter nicht erreicht hat.
 
 Das ist keine Sanktion für ein Verhalten und kein Ausschluss aus dem Volk: Festgestellt wird nur, dass die Ausgabe von Anfang an nicht rechtmäßig zustande gekommen ist. Das Verfahren schützt Sie bei jedem Schritt - Benachrichtigung, Frist für Einwendungen, Stellungnahme des Unabhängigen Rates, geheime Abstimmung mit erhöhter Mehrheit, Beschwerderecht; Fristen und Schwellen sind in der [Charta, Artikel 21](https://earth-lings.org/documents/de/de05-charta.html) festgelegt. Ist das Hindernis für eine rechtmäßige Ausgabe beseitigt, so sind Sie befugt, die Prüfung unter den allgemeinen Voraussetzungen erneut zu durchlaufen.
 
@@ -119,15 +119,15 @@ Näheres dazu, was mit dem Pass und den Daten geschieht: [Der SBT-Pass eines Ear
 
 ## 9. Wenn kein Geld da ist: die Zahlung für einen anderen
 
-Eine Befreiung vom Beitrag gibt es nicht. Es gibt etwas anderes: Den Beitrag für Sie entrichtet jemand anderes.
+Eine Befreiung vom Beitrag gibt es nicht. Es gibt etwas anderes: Den Beitrag für Sie kann jemand anderes entrichten, doch eine Gewähr dafür gibt es nicht.
 
 **Wie das für Sie aussieht.** Beim Schritt der Zahlung steht neben der Schaltfläche „bezahlen“ eine zweite - „ich brauche den Beitrag“. Sie fragt weder nach dem Land noch nach dem Einkommen noch nach dem Grund: Sie müssen nichts nachweisen und nichts über sich erzählen. Ein Druck - und Sie stehen in der offenen Warteschlange.
 
 In der Warteschlange sind nur die Nummer und das Datum sichtbar. Kein Name, kein Land, kein Grund. Die Warteschlange darf nicht zur Auslage der Bedürftigen werden.
 
-Wenn die Warteschlange bei Ihnen angekommen ist, wird der Pass von selbst ausgegeben, und Sie erhalten eine Nachricht. Der Pass ist dabei genau derselbe wie bei allen: Im Register ist nicht vermerkt, wer den Beitrag für ihn entrichtet hat, und an ihm lässt sich nicht unterscheiden, wer selbst bezahlt hat und für wen ein anderer Mensch bezahlt hat. Pässe erster und zweiter Güte gibt es in diesem Volk nicht.
+Wird der Beitrag für Sie entrichtet, so wird der Pass von selbst ausgegeben, und Sie erhalten eine Nachricht. Der Pass ist dabei genau derselbe wie bei allen: Im Register ist nicht vermerkt, wer den Beitrag für ihn entrichtet hat, und an ihm lässt sich nicht unterscheiden, wer selbst bezahlt hat und für wen ein anderer Mensch bezahlt hat. Pässe erster und zweiter Güte gibt es in diesem Volk nicht.
 
-Warten werden Sie müssen. Wir versprechen keinen sofortigen Eintritt, sondern dass Geld nicht für immer zur Mauer wird: Es macht den Eintritt langsamer und nicht verschlossen.
+Auf die Ausgabe des Passes werden Sie warten müssen, und wie lange, ist im Voraus nicht bekannt: Eine Zahlung für Sie ist möglich, aber ohne Gewähr. Die Zugehörigkeit zum Volk hängt davon nicht ab: Sie entsteht durch die Unterzeichnung der Erklärung und nicht durch den Beitrag.
 
 **Wie das für den aussieht, der zahlt.** Jeder Mensch - Earthling oder nicht - sieht, wie viele Menschen in der Warteschlange stehen, und kann für einen, für fünf oder für so viele zahlen, wie er will. Die Zahlung geht auf demselben Weg und an dieselbe Adresse wie für sich selbst.
 

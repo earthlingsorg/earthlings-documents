@@ -55,13 +55,13 @@ L'historique de la participation et de l'apport est consigné publiquement: vote
 
 ## Comment l'obtenir
 
-**1. Signature de la Déclaration.** Étude des documents, compréhension des principes, confirmation de l'accord par signature numérique. C'est cet acte qui crée l'appartenance.
+**1. Vérification de l'identité.** Vérification que vous êtes une personne vivante et que vous êtes unique. Elle assure le principe « une personne - une voix ». Les images d'origine et les scans de documents ne sont pas conservés.
 
-**2. Vérification de l'identité.** Vérification que vous êtes une personne vivante et que vous êtes unique. Elle assure le principe « une personne - une voix ». Les images d'origine et les scans de documents ne sont pas conservés.
+**2. Signature de la Déclaration.** Étude des documents, compréhension des principes, confirmation de l'accord par signature numérique. C'est cet acte qui crée l'appartenance.
 
 **3. Versement de la cotisation.** L'équivalent de 79 USD, en cryptomonnaie (ETH, USDT, USDC). L'affectation de la cotisation et les modalités de sa dépense figurent dans le document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).
 
-> Celui qui ne peut pas verser lui-même la cotisation entre dans une file d'attente ouverte, et la cotisation est versée pour lui par une autre personne ou par la Trésorerie. Le passeport ne se distingue alors en rien des autres: le registre n'inscrit pas qui a versé la cotisation. La cotisation n'achète pas l'appartenance: celle-ci naît de la signature de la Déclaration.
+> Celui qui ne peut pas verser lui-même la cotisation peut entrer dans une file d'attente ouverte, et la cotisation peut être versée pour lui par une autre personne ou par la Trésorerie; rien ne le garantit. Le passeport ne se distingue alors en rien des autres: le registre n'inscrit pas qui a versé la cotisation. La cotisation n'achète pas l'appartenance: celle-ci naît de la signature de la Déclaration.
 
 **4. Délivrance du passeport.** Le jeton est créé automatiquement et rattaché à votre portefeuille.
 
@@ -141,7 +141,7 @@ La Charte (article 21) établit **deux exceptions et deux seulement**, et cette 
 
 ### 1. L'annulation d'une délivrance non valide
 
-Elle s'applique s'il est établi que le passeport a été délivré en méconnaissance des conditions de délivrance: plus d'un passeport valide délivré à une même personne, ou vérification effectuée au moyen de données falsifiées ou de l'identité d'autrui.
+Elle s'applique s'il est établi que le passeport a été délivré en méconnaissance des conditions de délivrance: plus d'un passeport valide délivré à une même personne, ou vérification effectuée au moyen de données falsifiées ou de l'identité d'autrui, ou passeport délivré à une personne n'ayant pas atteint l'âge établi par la Charte.
 
 **Ce n'est ni une sanction ni une exclusion du peuple.** Il est seulement établi que la délivrance n'a pas régulièrement eu lieu à l'origine. Aucune réémission automatique n'en découle: si l'obstacle à une délivrance régulière est levé, la personne a le droit de repasser la vérification dans les conditions de droit commun.
 

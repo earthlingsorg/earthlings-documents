@@ -451,7 +451,7 @@ Das vorsätzliche Verschweigen eines Interessenkonflikts kann eine Verwarnung un
 
 ## Artikel 17. Der grundlegende Grundsatz
 
-Die Zugehörigkeit zum Volk der Earthlings ist unveräußerlich. Niemand kann unter irgendwelchen Umständen aus dem Volk der Earthlings ausgeschlossen werden. Ist ein Mensch einmal Earthling geworden, bleibt er es, bis er selbst den Entschluss zum Austritt fasst.
+Die Zugehörigkeit zum Volk der Earthlings ist unveräußerlich. Niemand kann unter irgendwelchen Umständen aus dem Volk der Earthlings ausgeschlossen werden. Ist ein Mensch einmal Earthling geworden, bleibt er es, bis er selbst den Entschluss zum Austritt fasst; die Zugehörigkeit endet auch infolge des Todes (Erklärung, Artikel 4).
 
 **Das Stimmrecht darf nicht wegen der Ansichten eines Menschen, wegen des Inhalts seiner Stimmabgabe, wegen der Ablehnung gefasster Beschlüsse oder als allgemeine Sanktion für eine Regelverletzung entzogen oder ausgesetzt werden.** Die Stimme ist der Inhalt der Zugehörigkeit: sie aus solchen Gründen zu entziehen hieße, den Menschen aus dem Volk auszuschließen und ihm den Namen zu belassen. Die in Artikel 22 vorgesehenen beschränkenden Maßnahmen berühren das Stimmrecht nicht.
 
@@ -519,7 +519,7 @@ In der Regel wird ein SBT-Pass nur vom Inhaber selbst entwertet (Artikel 18). Di
 
 Ein Pass kann aufgehoben werden, wenn festgestellt ist, dass er unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde: Einem Menschen ist mehr als ein gültiger Pass ausgegeben worden, oder die Prüfung wurde unter Verwendung falscher Angaben oder der Identität eines anderen durchlaufen, oder der Pass wurde einer Person ausgegeben, die das von dieser Charta festgelegte Alter nicht erreicht hat. Die Aufzählung der Gründe ist abschließend und entspricht Artikel 8 der Erklärung.
 
-Ist einem Menschen mehr als ein gültiger Pass ausgegeben worden, so wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben. Die Zugehörigkeit des Menschen zum Volk bleibt dabei bestehen. In den beiden anderen Fällen - unrichtige Angaben oder die Identität eines anderen sowie das Nichterreichen des festgelegten Alters - ist mit der Ausgabe des Passes auch die Zugehörigkeit selbst nicht rechtmäßig entstanden.
+Ist einem Menschen mehr als ein gültiger Pass ausgegeben worden, so wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben. In keinem der drei Fälle beendet die Aufhebung die Zugehörigkeit des Menschen zum Volk (Erklärung, Artikel 8).
 
 **Das Verfahren:**
 - Einleitung: eine begründete Darlegung mit Nachweisen, eingereicht von einem beliebigen Earthling oder von den Core Nodes aufgrund einer technischen Prüfung

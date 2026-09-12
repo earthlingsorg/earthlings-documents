@@ -189,7 +189,7 @@ En contrepartie de cette fermeture, nous prenons les engagements suivants:
 
 ## Le contrôle indépendant
 
-Les questions d'éthique du traitement des données biométriques seront soumises au [Conseil indépendant](https://earth-lings.org/documents/fr/fr11-conseil-independant.html), organe non subordonné à ceux qui exploitent la plateforme. Tant que le Conseil n'est pas constitué, ces questions sont examinées par l'Assemblée DAO, et les délais de débat public sont doublés (Charte, article 39).
+Les questions d'éthique du traitement des données biométriques seront soumises au [Conseil indépendant](https://earth-lings.org/documents/fr/fr11-conseil-independant.html), organe non subordonné à ceux qui exploitent la plateforme. Tant que le Conseil n'est pas constitué, cette étape est omise, et les délais de débat public sur ces questions sont doublés (Charte, article 39).
 
 Les propositions de modification de la présente Politique sont soumises au vote de l'Assemblée.
 
