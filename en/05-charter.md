@@ -74,7 +74,7 @@ The DAO Assembly is the sole organ of governance of the Earthlings people. It co
 ### Voting Mechanisms
 
 - **Delegation by area:** a vote on a particular area may be transferred to another earthling; it may be revoked at any time (Article 7)
-- **Snapshot:** for off-chain votes and preliminary polls
+- **Off-chain votes and preliminary polls:** by a tool that meets the requirements of Article 6 on the secrecy of the vote and a verifiable count
 - **On-chain execution:** automatic execution through smart contracts
 - **Standard periods:** 14 days of discussion + 7 days of voting
 - **Expedited procedures:** for decisions up to 1,000 EC - 3 days of discussion + 3 days of voting
@@ -132,7 +132,7 @@ The Emergency Multisig may act quickly in emergencies, but only to protect the s
 
 **Control mechanisms:**
 - Transparency: all transactions are visible on-chain
-- Time constraints: actions require a 24-hour timelock (except during critical attacks)
+- Time constraints: actions require a 24-hour timelock (except during critical attacks and for the suspension of vulnerable smart contracts in the event of a critical vulnerability)
 - Mandatory reporting: within 48 hours of an action
 - Right of annulment: the DAO may annul any action by simple majority
 - Accountability: abuse leads to immediate recall
@@ -218,7 +218,7 @@ No remuneration for holding a seat on the Council is paid beyond such compensati
 
 **Standard procedure:**
 - Days 1-14: discussion of the proposal, submission of amendments
-- Days 15-21: voting (on-chain or Snapshot)
+- Days 15-21: voting (on-chain or off-chain)
 - Day 22: counting of results and publication
 - Day 23 onward: automatic execution through smart contracts
 
@@ -235,30 +235,30 @@ No remuneration for holding a seat on the Council is paid beyond such compensati
 
 ### Openness and Secrecy of the Ballot
 
-As a general rule, votes within the Earthlings people are open: the fact of participation and the expression of will are available for verification by all Earthlings. Openness is the way to be sure that the count is honest.
+An earthling's personal vote is secret. Voting is arranged so that no one, including those who operate the infrastructure, can learn how a particular person voted or, even with that person's consent, satisfy themselves of it: a person may say how they voted, but the system issues no proof of it. Whether a particular person took part in a vote is not published; the quorum is verified against the number of those who voted. The same rule applies to all votes - those of the DAO Assembly and of Cells - and to measurements of the common will (Article 8 bis).
 
-Transparency, however, extends to the actions of institutions, not to the personal data of people. There are questions on which openness of the expression of will does not protect a person but exposes them to risk - including from the state of which they are a citizen. In such cases a secret ballot is used while the verifiability of the count is preserved: the result is verified by all, and the link between a vote and the voter is disclosed to no one, including the administrators of the platform.
+Transparency extends to the actions of institutions, not to the personal data of people. The following are open: discussion, proposals and objections; the actions of institutions and mandates - Core Nodes, the Emergency Multisig, the Independent Council, the Treasury and the protective legal mandate - and the signatures on them, each identifying its signatory; and transferred votes cast by a delegate (Article 7). A delegate's own vote is secret, like everyone else's.
 
-**A secret ballot is mandatory:**
-- when a restriction of powers is under consideration (Article 22)
-- when a suspension of the right to vote is under consideration (Article 22 bis)
-- when an invalid issuance of a passport is annulled (Article 21)
+**Voting procedure:**
+- the interim count is hidden until voting closes
+- until voting closes, a vote may be cast again; the last vote cast is counted
+- a personal vote on a question cancels delegation on that question
 
-**A secret ballot may be ordered by a decision of the DAO Assembly** for a particular question or category of questions - in particular, for votes concerning the position of the people on the actions of states and on international matters.
+**Secrecy is the voter's right, not a condition of the vote's validity.** A vote seen by a person assisting the voter is valid; technical assistance that does not determine the content of a vote is permitted (Declaration, Article 8). Demanding that a person show how they voted is prohibited; any benefit in return for such proof amounts to buying a vote (Article 22 bis).
 
-In every case the following are published: the question itself, the outcome, the number of those who voted, and the result of the verification of the count.
+The following are always published: the question itself, the answer options and the deadlines, the number of those entitled to vote, the number of those who voted, the outcome, the proof of the count, and the way in which any person can recount the outcome themselves.
 
 ## Article 7. Delegation of Votes
 
-An earthling may delegate their vote on a particular area to another earthling. Delegation is voluntary and may be revoked at any time.
+An earthling may delegate their vote on a particular area to another earthling. Delegation is voluntary and may be revoked at any time. If an earthling, of their own will, allows another person to determine the content of the earthling's vote, this is delegation, whatever technical form it takes, including handing over access to a key or connecting an external signer, and all the limits of this Article apply to it. Technical assistance that does not determine the content of a vote is not delegation (Declaration, Article 8).
 
 > **Delegation is not representation.** It is given by area, not for a term; it is revoked immediately, without giving reasons and without the delegate's consent; it constitutes no office and gives the delegate no rights other than casting the votes transferred to them. A delegate may at any time be left without a single delegated vote, and that is the mechanism working normally, not a failure.
 
 **Who may be a delegate.** Any earthling. Neither reputation, nor length of participation, nor merit opens or closes access to receiving delegated votes: the only selection is the delegator's own choice.
 
 **Transparency:**
-- A public on-chain history of the delegate's decisions
-- All votes cast by the delegate are visible
+- Transferred votes cast by a delegate are open, and their history is public; a delegate's own vote is secret, like everyone else's (Article 6)
+- Who transferred a vote to a delegate is not published. Compliance with the ceiling on delegation is publicly verifiable; the number of votes transferred to a delegate is published in a form that does not allow anyone to use it to check whether particular people transferred their votes
 - No special privileges: 1 delegated vote = 1 vote
 
 **Limits on delegation:**
@@ -278,7 +278,6 @@ An earthling may delegate their vote on a particular area to another earthling. 
 **Critically important:** reputation has no effect on the weight of a vote and opens access to no role. The principle "1 person = 1 vote" is absolute. Reputation is informational only.
 
 **Reputation factors (on-chain):**
-- Participation in votes
 - Successful delivery of projects
 - Contribution to the development of the community
 - Quality of proposals
@@ -300,11 +299,11 @@ The wording of a question is approved neither by those who run the operational m
 
 The result is published together with everything an outside person needs in order to recount it themselves, including the share of those who voted out of those entitled to vote - including where that share is low. A publication that does not allow a recount is not a measurement.
 
-A measurement is determined to be defective by someone other than whoever conducted it. A cancelled measurement is not deleted and is kept with a mark of cancellation; in its place a measurement is conducted afresh, in full and from the beginning.
+The decision whether a measurement is defective is taken by someone other than whoever conducted it. A cancelled measurement is not deleted and is kept with a mark of cancellation; in its place a measurement is conducted afresh, in full and from the beginning.
 
 A measurement is not conducted for a client's fee; earmarked funding for a particular question is not accepted.
 
-In all other respects the order for conducting measurements is established by a decision of the DAO Assembly and is published before the first measurement.
+In all other respects the order for conducting measurements - including who decides whether a measurement is defective, who cancels a measurement found to be defective, and within what time limits - is established by a decision of the DAO Assembly and is published before the first measurement.
 
 ## Article 8 ter. The Panel Selected by Lot
 
@@ -380,7 +379,7 @@ The details of how project work is organized are described in the document [Eart
 
 ## Article 12. Principles of Participation
 
-Participation in the Earthlings people is open to all persons who have reached the age of 18, have accepted the Earthlings Declaration and have passed identity verification.
+Participation in the Earthlings people is open to all persons who have reached the age of 18, have signed the Earthlings Declaration and have passed identity verification.
 
 There are no other conditions. Nationality, race, religion, sex, social status, citizenship and place of residence have no bearing on the ability to join.
 
@@ -439,7 +438,7 @@ An earthling is obliged to declare a conflict of interest openly in any situatio
 - has family, business or other significant ties to the persons or organizations that the decision concerns
 - represents the interests of third parties or organizations in the matter under consideration
 
-Declaring a conflict of interest does not in itself deprive an earthling of the right to vote. Mandatory recusal applies in votes on the allocation of funds: an earthling does not take part in such a vote if they are the applicant or a co-author of the application, are part of the project team, are closely related to the applicant (spouse, parents, children, siblings), or have contractual obligations towards them that provide for remuneration.
+Declaring a conflict of interest does not in itself deprive an earthling of the right to vote. Mandatory recusal applies in votes on the allocation of funds: an earthling does not take part in such a vote if they are the applicant or a co-author of the application, are part of the project team, are closely related to the applicant (spouse, parents, children, siblings), or have contractual obligations towards them that provide for remuneration. The secrecy of the vote does not override recusal: recusal is declared openly before voting begins, and the voting tool excludes the passport of the earthling who has recused themselves, as well as the passports of the applicant and of the co-authors and project team members named in the application, from those entitled to vote in that ballot; the number of those excluded is published.
 
 There are no other grounds for excluding a vote: an earthling's vote is not excluded from the count by a decision of a majority.
 
@@ -519,7 +518,7 @@ As a general rule an SBT passport is burned only by the holder themselves (Artic
 
 A passport may be annulled if it is established that it was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using false data or another person's identity, or the passport was issued to a person below the age set by this Charter. The list of grounds is exhaustive and accords with Article 8 of the Declaration.
 
-If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. In none of the three cases does annulment end the person's belonging to the people (Declaration, Article 8).
+If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. In none of the three cases does annulment end the person's belonging to the people (Declaration, Article 8); if the passport was issued to a person below the age set by this Charter, belonging has not yet arisen, and annulment has nothing to end.
 
 **Procedure:**
 - Initiation: a reasoned submission with evidence, made by any earthling or by Core Nodes following a technical check
@@ -598,7 +597,7 @@ This Article establishes the **sole** case in which the right to vote may be sus
 Suspension is applied only for proven acts aimed at undermining the integrity of voting itself:
 
 - collusion aimed at a coordinated distortion of the result;
-- buying or selling a vote, and equally offering or accepting any reward for voting in a particular way;
+- buying or selling a vote, and equally offering or accepting any reward for voting in a particular way, including a reward for proof of how the participant voted and a reward promised for a particular outcome of a vote, unless that reward is itself the content of the decision put to the vote;
 - compelling other participants to vote in a particular way, including blackmail and threats;
 - circumventing the rule of "one person, one passport", or assisting such circumvention.
 
@@ -694,7 +693,7 @@ The Earthlings people owns no territory and lays no claim to any. Any physical p
 ## Article 28. Components of the Platform
 
 - The identification and verification system (biometrics + SBT)
-- The voting system, including the mechanism of a secret ballot with a verifiable count
+- The voting system, with secrecy of the personal vote and a verifiable count
 - Coordination of Cells
 - The smart contracts of the Fund
 - The communication system
@@ -753,7 +752,7 @@ Legal entities may interact with the Earthlings people but hold no right to vote
 ## Article 33. Response Mechanisms
 
 ### Level 1: a technical crisis
-- The Emergency Multisig acts immediately
+- The Emergency Multisig acts immediately during a critical attack; in the event of a critical vulnerability, only the suspension of vulnerable smart contracts is permitted without a timelock, and other actions go through the 24-hour timelock (Article 3)
 - Suspension of vulnerable smart contracts
 - Notice to the community within 1 hour
 - A full report within 48 hours
@@ -829,7 +828,7 @@ The following principles cannot be changed even by a qualified majority:
 - **1 person = 1 vote.** Absolute equality of all Earthlings. No mechanism may allow one person to cast more weight than another in a single decision
 - **The vote is inalienable.** The right to vote cannot be taken away or suspended for views, for the content of a vote, for disagreement with decisions, or as a general measure of liability, nor made conditional on money, reputation, length of participation or merit. The sole exception is undermining the integrity of voting itself (Article 22 bis); the list of its grounds is not subject to extension
 - **Only people vote.** Structures hold no collective vote
-- **Openness and transparency of decisions and finances.** All decisions of the DAO, the outcomes of votes, the financial transactions of the Fund and the actions of executive structures are public and verifiable. The personal and biometric data of participants is not public - it is protected by Article 13. Transparency extends to the actions of institutions, not to the personal data of people; the expression of will of a particular person is personal data and may be closed under Article 6
+- **Openness and transparency of decisions and finances.** All decisions of the DAO, the outcomes of votes, the financial transactions of the Fund and the actions of executive structures are public and verifiable. The personal and biometric data of participants is not public - it is protected by Article 13. Transparency extends to the actions of institutions, not to the personal data of people; the expression of will of a particular person is personal data, and a personal vote is secret (Article 6); transferred votes cast by a delegate are open
 - **Voluntariness.** Participation and departure are free; expulsion is impossible
 - **Revocability of every mandate.** A power that cannot be revoked immediately and at a threshold no higher than the threshold of its grant is not granted
 - **The threshold for amending this Charter.** The thresholds set out in Article 36 cannot be lowered by a decision taken under that same Article; this is set out in Article 9 of the Declaration

@@ -104,7 +104,7 @@ Das Verzeichnis dieser Gründe ist abschließend: Es darf weder durch die Charta
 
 ## Artikel 5. Unsere Verpflichtungen
 
-Das Volk der Earthlings setzt sich mit diesem Artikel seine Grenzen. Sie gelten unter allen Umständen und können durch keinen Beschluss aufgehoben, eingeschränkt, ausgesetzt, geändert oder umgangen werden.
+Das Volk der Earthlings setzt sich mit diesem Artikel seine Grenzen. Sie gelten unter allen Umständen und können durch keinen Beschluss aufgehoben, eingeschränkt, ausgesetzt oder umgangen werden; die Formulierungen, in denen sie dargelegt sind, können nur in dem Verfahren und unter den Voraussetzungen des Artikels 11 geändert werden.
 
 **Der Verzicht auf Gewalt.** Das Volk der Earthlings verzichtet auf die Anwendung von Gewalt als Mittel zur Erreichung seiner Ziele. Es schafft, errichtet, finanziert und unterstützt keine bewaffneten, paramilitärischen, Sicherheits- oder sonstigen Strukturen, die Gewalt anwenden können - weder unmittelbar noch über Dritte.
 
@@ -165,7 +165,7 @@ Die Erklärung darf jeder unterzeichnen, der dieses Alter erreicht hat, dem hier
 
 Weitere Voraussetzungen der Zugehörigkeit werden nicht festgelegt und können nicht festgelegt werden. Die Zugehörigkeit hängt nicht ab von Abstammung, Staatsangehörigkeit, nationaler Herkunft, Sprache, Wohnort, Geschlecht, Gesundheitszustand, Bildung, Beruf, Vermögenslage, Religion, politischer Anschauung und allen sonstigen persönlichen Umständen.
 
-Eine Aufnahmeentscheidung gibt es nicht: Das Volk prüft keine Anträge, bewertet keinen Menschen und weist niemanden ab.
+Eine Aufnahmeentscheidung gibt es nicht: Das Volk prüft keine Anträge, bewertet keinen Menschen und weist niemanden ab. Die Verweigerung der Identitätsprüfung ist keine Verweigerung der Aufnahme: Sie bedeutet nur, dass die Voraussetzung dieses Artikels für den Menschen nicht nachgewiesen ist, und sie ergeht unter Wahrung der Gewährleistungen des Artikels 4.
 
 **Der Beitrag.** Beim Beitritt wird ein Beitrag entrichtet, der die Identitätsprüfung, die Ausgabe des Passes und die Unterhaltung der Infrastruktur deckt. Der Beitrag ist keine Voraussetzung der Zugehörigkeit: Er kauft keine Zugehörigkeit und begründet keinerlei Vorteile. Die Unfähigkeit, den Beitrag selbst zu tragen, verschließt den Eintritt in das Volk nicht: Der Beitrag für einen Menschen kann von einem anderen oder aus der gemeinsamen Kasse entrichtet werden.
 
@@ -175,7 +175,7 @@ Eine Aufnahmeentscheidung gibt es nicht: Das Volk prüft keine Anträge, bewerte
 
 **Die Zugehörigkeit tritt hinzu, sie ersetzt nicht.** Die Zugehörigkeit zum Volk der Earthlings tritt zu dem hinzu, was ein Mensch bereits hat. Sie verlangt den Verzicht auf keine andere Zugehörigkeit und berührt die Rechte und Pflichten des Menschen gegenüber seinem Staat nicht.
 
-**Die Gleichheit der Earthlings.** Von dem Augenblick an, in dem ein Mensch die Erklärung unterzeichnet hat, ist er jedem anderen Earthling gleich. Weder das Datum der Unterzeichnung noch die Teilnahme an der Konstituierung des Volkes noch die Dauer der Teilnahme noch die Höhe freiwilliger Zuwendungen noch übernommene Aufträge begründen Vorteile, Vorrechte oder eine besondere Stellung. Keine Sprache, keine Region und keine Kultur hat im Volk einen Vorrang. Das Verfahren der Auslegung von Abweichungen zwischen den Texten dieser Erklärung ist in Artikel 11 festgelegt und begründet für die Sprecher irgendeiner Sprache keine Vorteile.
+**Die Gleichheit der Earthlings.** Von dem Augenblick an, in dem ein Mensch die Erklärung unterzeichnet hat, ist er jedem anderen Earthling gleich. Weder das Datum der Unterzeichnung noch die Teilnahme an der Konstituierung des Volkes noch die Dauer der Teilnahme noch die Höhe freiwilliger Zuwendungen noch übernommene Aufträge begründen Vorteile, Vorrechte oder eine besondere Stellung. Keine Sprache, keine Region und keine Kultur hat im Volk einen Vorrang. Das Verfahren der Auslegung von Abweichungen zwischen den Texten dieser Erklärung ist in Artikel 11 festgelegt. Die Bedeutung des russischen Textes gilt darin nur dann, wenn der Vergleich der Texte die Abweichung nicht auflöst, und begründet für die Sprecher irgendeiner Sprache keine weiteren Vorteile.
 
 Eine Klasse von Gründern gibt es im Volk der Earthlings nicht.
 
@@ -187,7 +187,7 @@ Eine Klasse von Gründern gibt es im Volk der Earthlings nicht.
 2. die Identitätsprüfung ist unter Verwendung falscher Angaben oder der Identität eines anderen erlangt worden;
 3. der Pass ist einer Person ausgegeben worden, die das von der Charta der Earthlings festgelegte Alter nicht erreicht hat.
 
-Die Aufhebung ist kein Ausschluss aus dem Volk: Sie bedeutet nur, dass die Ausgabe des Passes nicht rechtmäßig zustande gekommen ist. Ist das Hindernis behebbar, so ist der Mensch befugt, die Identitätsprüfung erneut zu durchlaufen.
+Die Aufhebung ist kein Ausschluss aus dem Volk: Sie bedeutet nur, dass die Ausgabe des Passes nicht rechtmäßig zustande gekommen ist. Ist der Pass einer Person ausgegeben worden, die das Alter nicht erreicht hat, so ist die Zugehörigkeit noch nicht entstanden, und die Aufhebung hat nichts zu beenden. Ist das Hindernis behebbar, so ist der Mensch befugt, die Identitätsprüfung erneut zu durchlaufen.
 
 **Die vorübergehende Einschränkung der Teilnahme an Abstimmungen.** Die Teilnahme an Abstimmungen wird nur wegen nachgewiesener vorsätzlicher Handlungen gegen den Abstimmungsmechanismus selbst - und damit gegen den Grundsatz „ein Mensch - eine Stimme“ - vorübergehend eingeschränkt. Andere Gründe gibt es nicht und kann es nicht geben.
 
@@ -197,13 +197,13 @@ Die Verwaltung des Volkes steht den Earthlings zu, nicht den Einrichtungen. Einr
 
 Die Beschlüsse fassen die Earthlings unmittelbar. Die Versammlung aller Earthlings - die Vollversammlung - ist die einzige Quelle der Beschlüsse des Volkes. Eine Einrichtung, die über der Vollversammlung stünde oder an ihrer Stelle Beschlüsse fassen würde, besteht nicht und kann nicht geschaffen werden.
 
-**Die Grenzen der Beschlüsse.** Die Vollversammlung fasst Beschlüsse zu Fragen des Lebens des Volkes innerhalb des Zwecks und der Verpflichtungen, die Teil I festlegt. Die Grundsätze des Teils I sind kein Gegenstand der Abstimmung. Sie werden überhaupt nicht zur Abstimmung gestellt.
+**Die Grenzen der Beschlüsse.** Die Vollversammlung fasst Beschlüsse zu Fragen des Lebens des Volkes innerhalb des Zwecks und der Verpflichtungen, die Teil I festlegt. Die Aufhebung, die Einschränkung und die Aussetzung der Grundsätze des Teils I sind kein Gegenstand der Abstimmung und werden überhaupt nicht zur Abstimmung gestellt. Die Formulierungen des Teils I zu ändern oder ihn um einen neuen Grundsatz zu ergänzen ist nur in dem Verfahren und unter den Voraussetzungen des Artikels 11 möglich.
 
 **Wie Vorschläge behandelt werden.** Vorschläge werden für alle gleich behandelt und hängen nicht davon ab, wer sie eingebracht hat, welchen Auftrag er ausführt und wie lange er teilnimmt.
 
-**Die Offenheit.** Die Beratung, die Fassung der Beschlüsse und die Auszählung der Stimmen sind der Überprüfung offen. Das Abstimmungsgeheimnis gilt dort, wo die Offenheit der Willensbekundung einen Menschen einem Risiko aussetzt oder Bedingungen für Druck auf ihn schafft. Die Überprüfbarkeit der Auszählung hebt es nicht auf.
+**Die Offenheit.** Die Beratung, die Vorschläge, die gefassten Beschlüsse, die Auszählung der Stimmen und das Handeln im Auftrag sind der Überprüfung offen. Die persönliche Stimme ist geheim: Die Abstimmung ist so eingerichtet, dass niemand, auch nicht diejenigen, die die Infrastruktur betreiben, erfahren kann, wie ein bestimmter Mensch abgestimmt hat, oder sich davon überzeugen kann, selbst mit dessen Zustimmung nicht. Die übertragenen Stimmen, die ein Delegierter abgibt, sind offen. Das Stimmgeheimnis hebt die Überprüfbarkeit der Auszählung nicht auf.
 
-**Übertragung statt Repräsentation.** Das Volk der Earthlings kennt keine Repräsentation. Ein Earthling ist befugt, die Abgabe seiner Stimme in einer einzelnen Frage oder auf einem Sachgebiet einem anderen Earthling zu übertragen. Der Delegierte gibt die übertragene Stimme nach eigenem Ermessen ab; weitere Rechte begründet die Übertragung nicht.
+**Übertragung statt Repräsentation.** Das Volk der Earthlings kennt keine Repräsentation. Ein Earthling ist befugt, die Abgabe seiner Stimme in einer einzelnen Frage oder auf einem Sachgebiet einem anderen Earthling zu übertragen. Der Delegierte gibt die übertragene Stimme nach eigenem Ermessen ab; weitere Rechte begründet die Übertragung nicht. Gibt ein Delegierter die ihm übertragenen Stimmen in den Grenzen ab, die die Charta der Earthlings festlegt, so wird damit keine Stimme angehäuft: Die übertragene Stimme gehört weiterhin dem, der sie übertragen hat, und kehrt durch Widerruf zu ihm zurück.
 
 Die Übertragung geschieht allein durch den Willen dessen, der überträgt, und wird von ihm jederzeit widerrufen, ohne Angabe von Gründen und ohne die Zustimmung des Delegierten. Die Übertragung wird nicht auf Zeit erteilt und begründet weder ein Amt noch ein Organ. Delegierte werden nicht durch Abstimmung gewählt: Jeder entscheidet selbst, wem er seine Stimme überträgt.
 
@@ -225,7 +225,7 @@ Technische Mittel werden nur dort eingesetzt, wo sich ohne sie die drei in Artik
 
 **Die Unveräußerlichkeit des Rechts auf Teilnahme.** Das Recht auf Teilnahme steht dem Menschen selbst zu und kann weder gekauft noch verkauft noch angeeignet noch unwiderruflich übertragen werden.
 
-**Die Überprüfbarkeit der Beschlüsse.** Von den Ergebnissen der Abstimmungen kann sich jeder überzeugen, unabhängig von der Zugehörigkeit zum Volk der Earthlings. Die Verlässlichkeit wird durch offene Daten bestätigt und nicht durch Vertrauen in einen Verwalter. Die Überprüfung wird so eingerichtet, dass sie weder Angaben über die Earthlings noch den Inhalt ihrer Stimmen offenlegt.
+**Die Überprüfbarkeit der Beschlüsse.** Von den Ergebnissen der Abstimmungen kann sich jeder überzeugen, unabhängig von der Zugehörigkeit zum Volk der Earthlings. Die Verlässlichkeit wird durch offene Daten bestätigt und nicht durch Vertrauen in einen Verwalter. Die Überprüfung wird so eingerichtet, dass sie weder Angaben über die Earthlings noch, ob ein bestimmter Mensch an der Abstimmung teilgenommen hat, noch den Inhalt seiner Stimme offenlegt; offen sind nur die übertragenen Stimmen, die ein Delegierter abgibt (Artikel 9).
 
 **Die Unabhängigkeit des Volkes.** Das Bestehen des Volkes der Earthlings hängt von keiner bestimmten Plattform, keiner Organisation, keinem Technikanbieter und keinem Betreiber ab.
 
@@ -234,7 +234,7 @@ Technische Mittel werden nur dort eingesetzt, wo sich ohne sie die drei in Artik
 **Die Grenzen der Technik.** Die Infrastruktur des Volkes der Earthlings darf nicht:
 
 1. einen Menschen unter dem Vorwand der Identitätsprüfung überwachen;
-2. die Möglichkeit bewahren, zu erfahren, wie ein bestimmter Mensch abgestimmt hat;
+2. die Möglichkeit bewahren, zu erfahren, wie ein bestimmter Mensch abgestimmt hat, oder sich davon zu überzeugen, außer bei den übertragenen Stimmen, die ein Delegierter abgibt;
 3. Profile von Earthlings anlegen und sie in eine Rangfolge bringen;
 4. verdeckt bestimmen, welche Informationen ein Mensch erhält und in welcher Reihenfolge;
 5. Daten über das für einen ausdrücklich genannten Zweck Erforderliche hinaus erheben;
@@ -258,7 +258,7 @@ Keiner dieser Grundsätze darf aufgehoben, eingeschränkt, ausgesetzt oder umgan
 
 Die Formulierungen, in denen diese Grundsätze dargelegt sind, können geändert werden. Eine Änderung der Formulierung ist nur zulässig, wenn zwei Voraussetzungen zugleich erfüllt sind: Sie hebt keinen der Grundsätze auf und engt keinen ein, und sie senkt keine Gewährleistung für den Menschen ab. Bestehen Zweifel, ob eine Änderung eine Gewährleistung absenkt, so gilt sie als absenkend und wird nicht angenommen.
 
-Der Kern darf um einen neuen Grundsatz ergänzt werden. Einen bestehenden abzuschwächen oder zu entfernen ist nicht zulässig.
+Der Kern darf um einen neuen Grundsatz ergänzt werden. Einen bestehenden abzuschwächen oder zu entfernen ist nicht zulässig. Die Änderung der Formulierungen des Teils I und seine Ergänzung um einen neuen Grundsatz werden in dem Verfahren angenommen, das unten für die Änderung des Teils II festgelegt ist, und nur unter Einhaltung der oben genannten Voraussetzungen.
 
 Jeder Versuch, den Kern durch ein anderes Verfahren, eine andere Formulierung oder einen anderen Rechtsmechanismus zu umgehen, ist ein Verstoß gegen ihn, gleich in welcher Form die Umgehung geschieht. Der Versuch, seine Grundsätze zu beseitigen, einzuschränken, zu ersetzen oder umzudeuten, bedeutet die Schaffung eines anderen Gebildes, das nicht das Volk der Earthlings ist - gleich welchen Namen es trägt, aus welchen Earthlings es besteht und welche Software und welche Infrastruktur es verwendet.
 

@@ -104,7 +104,7 @@ La liste de ces motifs est fermée: elle ne peut être interprétée extensiveme
 
 ## Article 5. Nos engagements
 
-Le peuple des Earthlings fixe ses propres limites par le présent article. Elles valent en toutes circonstances et ne peuvent être abrogées, restreintes, suspendues, modifiées ni contournées par aucune décision.
+Le peuple des Earthlings fixe ses propres limites par le présent article. Elles valent en toutes circonstances et ne peuvent être abrogées, restreintes, suspendues ni contournées par aucune décision; leur rédaction ne peut être modifiée que selon la procédure et dans les conditions de l'article 11.
 
 **La renonciation à la violence.** Le peuple des Earthlings renonce à l'emploi de la violence comme moyen d'atteindre ses fins. Il ne crée, ne constitue, ne finance et ne soutient aucune structure armée, paramilitaire, de sécurité ni aucune autre structure capable d'employer la violence - ni directement, ni par l'intermédiaire de tiers.
 
@@ -165,7 +165,7 @@ Peut signer la Déclaration toute personne qui a atteint cet âge, qui est d'acc
 
 Aucune autre condition d'appartenance n'est établie ni ne peut l'être. L'appartenance ne dépend pas de l'origine, de la nationalité, de l'appartenance nationale, de la langue, du lieu de résidence, du sexe, de l'état de santé, de l'instruction, de la profession, de la situation de fortune, de la religion, des opinions politiques ni d'aucune autre circonstance personnelle.
 
-Il n'existe pas de décision d'admission dans le peuple: le peuple n'examine pas de demandes, n'évalue personne et ne refuse personne.
+Il n'existe pas de décision d'admission dans le peuple: le peuple n'examine pas de demandes, n'évalue personne et ne refuse personne. Le refus de la vérification d'identité n'est pas un refus d'admission: il signifie seulement qu'une condition du présent article n'a pas été confirmée à l'égard de la personne, et il est prononcé avec les garanties de l'article 4.
 
 **La cotisation.** Une cotisation est versée à l'entrée; elle couvre la vérification d'identité, la délivrance du passeport earthling et l'entretien de l'infrastructure. La cotisation n'est pas une condition de l'appartenance: elle n'achète pas l'appartenance et ne crée aucun avantage. L'impossibilité de la verser soi-même ne ferme pas l'entrée dans le peuple: la cotisation peut être acquittée pour cette personne par un tiers ou prise en charge sur le trésor commun.
 
@@ -175,7 +175,7 @@ Il n'existe pas de décision d'admission dans le peuple: le peuple n'examine pas
 
 **L'appartenance s'ajoute, elle ne remplace pas.** L'appartenance au peuple des Earthlings s'ajoute à ce que la personne a déjà. Elle n'impose de renoncer à aucune autre appartenance et n'affecte pas les droits et les obligations de la personne envers son État.
 
-**L'égalité des earthlings.** Dès l'instant où une personne a signé la Déclaration, elle est l'égale de tout autre earthling. Ni la date de la signature, ni la participation à la constitution du peuple, ni la durée de la participation, ni le montant des dons volontaires, ni les missions exercées ne créent d'avantage, de privilège ou de situation particulière. Aucune langue, aucune région et aucune culture ne bénéficie d'un avantage dans le peuple. La manière d'interpréter les divergences entre les textes de la présente Déclaration est prévue à l'article 11 et ne crée aucun avantage pour ceux qui parlent telle ou telle langue.
+**L'égalité des earthlings.** Dès l'instant où une personne a signé la Déclaration, elle est l'égale de tout autre earthling. Ni la date de la signature, ni la participation à la constitution du peuple, ni la durée de la participation, ni le montant des dons volontaires, ni les missions exercées ne créent d'avantage, de privilège ou de situation particulière. Aucune langue, aucune région et aucune culture ne bénéficie d'un avantage dans le peuple. La manière d'interpréter les divergences entre les textes de la présente Déclaration est prévue à l'article 11. Le sens du texte russe ne s'y applique que lorsque la comparaison des textes ne résout pas la divergence, et ne crée aucun autre avantage pour ceux qui parlent telle ou telle langue.
 
 Il n'existe pas de classe de fondateurs dans le peuple des Earthlings.
 
@@ -187,7 +187,7 @@ Il n'existe pas de classe de fondateurs dans le peuple des Earthlings.
 2. la vérification de l'identité a été obtenue au moyen d'informations falsifiées ou de l'identité d'autrui;
 3. le passeport a été délivré à une personne n'ayant pas atteint l'âge établi par la Charte des Earthlings.
 
-L'annulation n'est pas une exclusion du peuple: elle signifie seulement que la délivrance du passeport n'est pas régulièrement intervenue. Si l'obstacle peut être levé, la personne a le droit de faire vérifier son identité à nouveau.
+L'annulation n'est pas une exclusion du peuple: elle signifie seulement que la délivrance du passeport n'est pas régulièrement intervenue. Si le passeport a été délivré à une personne n'ayant pas atteint cet âge, l'appartenance n'est pas encore née, et il n'y a rien à quoi l'annulation puisse mettre fin. Si l'obstacle peut être levé, la personne a le droit de faire vérifier son identité à nouveau.
 
 **La restriction temporaire de la participation au vote.** La participation au vote n'est restreinte temporairement que pour des actes intentionnels, dûment établis, dirigés contre le mécanisme même du vote - contre le principe « une personne - une voix ». Il n'existe pas d'autre motif et il ne peut en exister.
 
@@ -197,13 +197,13 @@ La gouvernance du peuple appartient aux earthlings, et non aux institutions. Les
 
 Les décisions sont prises directement par les earthlings. La réunion de tous les earthlings - l'Assemblée - est la seule source des décisions du peuple. Il n'existe pas et il ne peut être créé d'institution qui se placerait au-dessus de l'Assemblée ou qui déciderait à sa place.
 
-**Les limites des décisions.** L'Assemblée prend des décisions sur les questions de la vie du peuple, dans les limites de la vocation et des engagements établis par la Partie I. Les principes de la Partie I ne font pas l'objet d'un vote. Ils ne sont pas mis aux voix du tout.
+**Les limites des décisions.** L'Assemblée prend des décisions sur les questions de la vie du peuple, dans les limites de la vocation et des engagements établis par la Partie I. L'abrogation, la restriction et la suspension des principes de la Partie I ne font pas l'objet d'un vote et ne sont pas mises aux voix du tout. Modifier la rédaction de la Partie I ou y ajouter un principe nouveau n'est possible que selon la procédure et dans les conditions de l'article 11.
 
 **L'examen des propositions.** Les propositions sont examinées de la même manière pour tous et indépendamment de l'auteur, de la mission qu'il exerce et de la durée de sa participation.
 
-**L'ouverture.** Le débat, l'adoption des décisions et le décompte des voix sont ouverts à la vérification. Le secret du vote s'applique là où l'expression ouverte de la volonté expose la personne à un risque ou crée les conditions d'une pression sur elle. Le secret du vote ne supprime pas la vérifiabilité du décompte.
+**L'ouverture.** Le débat, les propositions, les décisions adoptées, le décompte des voix et les actes accomplis sur mission sont ouverts à la vérification. Le vote personnel est secret: le scrutin est agencé de manière que personne, y compris ceux qui exploitent l'infrastructure, ne puisse établir comment une personne déterminée a voté, ni s'en assurer même avec son accord. Les votes exprimés par le délégué au titre des voix qui lui ont été confiées sont ouverts. Le secret du vote ne supprime pas la vérifiabilité du décompte.
 
-**La délégation au lieu de la représentation.** Le peuple des Earthlings ne connaît pas la représentation. Un earthling a le droit de transmettre l'expression de sa voix à un autre earthling, sur une question ou un domaine déterminés. Le délégué exprime la voix reçue comme il l'entend; ce transfert ne crée aucun autre droit.
+**La délégation au lieu de la représentation.** Le peuple des Earthlings ne connaît pas la représentation. Un earthling a le droit de transmettre l'expression de sa voix à un autre earthling, sur une question ou un domaine déterminés. Le délégué exprime la voix reçue comme il l'entend; ce transfert ne crée aucun autre droit. L'expression par le délégué des voix qui lui ont été confiées, dans les limites établies par la Charte des Earthlings, n'est pas une accumulation de voix: la voix confiée appartient toujours à celui qui l'a confiée et lui revient par la révocation.
 
 Le transfert ne se fait que par la volonté de celui qui transfère et est révoqué par lui à tout moment, sans avoir à s'expliquer et sans l'accord du délégué. Le transfert n'est pas consenti pour un temps déterminé et ne crée ni fonction ni organe. Les délégués ne sont pas élus: chacun décide lui-même à qui confier sa voix.
 
@@ -225,7 +225,7 @@ Les moyens techniques ne sont employés que là où, sans eux, il est impossible
 
 **L'inaliénabilité du droit de participer.** Le droit de participer appartient à la personne elle-même et ne peut être ni acheté, ni vendu, ni approprié, ni transmis de façon irrévocable.
 
-**La vérifiabilité des décisions.** Chacun peut s'assurer des résultats des votes, indépendamment de son appartenance au peuple des Earthlings. La certitude est établie par des données ouvertes, et non par la confiance envers un administrateur. La vérification est aménagée de manière à ne divulguer ni information sur les earthlings, ni contenu de leurs votes.
+**La vérifiabilité des décisions.** Chacun peut s'assurer des résultats des votes, indépendamment de son appartenance au peuple des Earthlings. La certitude est établie par des données ouvertes, et non par la confiance envers un administrateur. La vérification est aménagée de manière à ne divulguer ni information sur les earthlings, ni si une personne déterminée a participé au vote, ni contenu de son vote; seuls sont ouverts les votes exprimés par le délégué au titre des voix qui lui ont été confiées (article 9).
 
 **L'indépendance du peuple.** L'existence du peuple des Earthlings ne dépend d'aucune plateforme, organisation, fournisseur de technologies ou exploitant déterminés.
 
@@ -234,7 +234,7 @@ Les moyens techniques ne sont employés que là où, sans eux, il est impossible
 **Les limites de la technologie.** Il est interdit à l'infrastructure du peuple des Earthlings:
 
 1. de surveiller une personne sous couvert de vérification de l'identité;
-2. de conserver la possibilité d'établir comment une personne déterminée a voté;
+2. de conserver la possibilité d'établir comment une personne déterminée a voté ou de s'en assurer, hormis les votes exprimés par le délégué au titre des voix qui lui ont été confiées;
 3. de créer des profils d'earthlings ni de les classer;
 4. de déterminer de façon dissimulée quelles informations une personne reçoit et dans quel ordre;
 5. de collecter des données au-delà de ce qui est nécessaire à la finalité expressément énoncée;
@@ -258,7 +258,7 @@ Aucun de ces principes ne peut être abrogé, restreint, suspendu ni contourné 
 
 La rédaction par laquelle ces principes sont exposés peut être modifiée. Une modification de rédaction n'est admissible qu'à deux conditions réunies: elle n'abroge ni ne restreint aucun des principes, et elle n'abaisse aucune garantie de la personne. En cas de doute sur le point de savoir si une modification abaisse une garantie, elle est réputée l'abaisser et n'est pas adoptée.
 
-Ajouter au noyau un principe nouveau est possible. Affaiblir ou retrancher un principe existant ne l'est pas.
+Ajouter au noyau un principe nouveau est possible. Affaiblir ou retrancher un principe existant ne l'est pas. La modification de la rédaction de la Partie I et l'ajout à celle-ci d'un principe nouveau sont adoptés selon la procédure établie ci-après pour la modification de la Partie II, et seulement si les conditions énoncées ci-dessus sont respectées.
 
 Toute tentative de contourner le noyau par une autre procédure, une autre rédaction ou un autre mécanisme juridique en constitue une violation, quelle que soit la forme du contournement. Une tentative de supprimer, de restreindre, de remplacer ou de redéfinir les principes du noyau signifie la création d'une autre entité, qui n'est pas le peuple des Earthlings - quels que soient son nom, la composition de ses earthlings, son logiciel et l'infrastructure employée.
 

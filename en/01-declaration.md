@@ -104,7 +104,7 @@ The list of these grounds is exhaustive: it cannot be extended by interpretation
 
 ## Article 5. Our Undertakings
 
-By this Article the Earthlings people sets limits upon itself. They apply in all circumstances and cannot be abolished, narrowed, suspended, altered or circumvented by any decision.
+By this Article the Earthlings people sets limits upon itself. They apply in all circumstances and cannot be abolished, narrowed, suspended or circumvented by any decision; the wording in which they are set out may change only under Article 11 and subject to its conditions.
 
 **Renunciation of Violence.** The Earthlings people renounces the use of violence as a means of achieving its aims. It does not create, constitute, finance or support armed, paramilitary, security or any other structures capable of using violence, whether directly or through third parties.
 
@@ -165,7 +165,7 @@ Anyone who has reached that age, agrees with what is set out here, and has been 
 
 No other conditions of belonging are established, and none can be. Belonging does not depend on descent, citizenship, nationality, language, place of residence, sex, state of health, education, occupation, financial position, religion, political views, or any other personal circumstance.
 
-There is no decision on admission to the people: the people considers no applications, assesses no one, and refuses no one.
+There is no decision on admission to the people: the people considers no applications, assesses no one, and refuses no one. The refusal of confirmation of identity is not a refusal of admission: it means only that the condition of this Article has not been confirmed in respect of the person concerned. Such a refusal is subject to the guarantees of Article 4.
 
 **The Contribution.** On joining, a contribution is paid that covers identity verification, the issuance of the passport and the upkeep of the infrastructure. The contribution is not a condition of belonging: it buys no belonging and creates no advantage of any kind. Being unable to pay the contribution oneself does not bar entry to the people: another person may pay it on one's behalf, or it may be paid out of the common treasury.
 
@@ -175,7 +175,7 @@ There is no decision on admission to the people: the people considers no applica
 
 **Belonging Adds, It Does Not Replace.** Belonging to the Earthlings people is added to what a person already has. It does not require a person to give up any other belonging, and it does not affect their rights and duties towards their state.
 
-**Equality of earthlings.** From the moment a person signs the Declaration, they are equal to every other earthling. Neither the date of signing, nor participation in constituting the people, nor length of participation, nor the size of voluntary donations, nor any mandate held creates any advantage, privilege or special position. No language, region or culture holds any advantage within the people. The manner of construing divergences between the texts of this Declaration is set out in Article 11 and creates no advantage for the speakers of any language.
+**Equality of earthlings.** From the moment a person signs the Declaration, they are equal to every other earthling. Neither the date of signing, nor participation in constituting the people, nor length of participation, nor the size of voluntary donations, nor any mandate held creates any advantage, privilege or special position. No language, region or culture holds any advantage within the people. The manner of construing divergences between the texts of this Declaration is set out in Article 11. Under it, the meaning of the Russian text prevails only where a comparison of the texts does not resolve the divergence, and this creates no other advantage for the speakers of any language.
 
 There is no class of founders in the Earthlings people.
 
@@ -187,7 +187,7 @@ There is no class of founders in the Earthlings people.
 2. identity verification was obtained using false information or another person's identity;
 3. the passport was issued to a person below the age set by the Earthlings Charter.
 
-Annulment is not expulsion from the people: it means only that the passport was not lawfully issued. If the impediment can be removed, the person may undergo identity verification again.
+Annulment is not expulsion from the people: it means only that the passport was not lawfully issued. If the passport was issued to a person below that age, belonging has not yet arisen, and annulment has nothing to end. If the impediment can be removed, the person may undergo identity verification again.
 
 **Temporary Restriction of Participation in Voting.** Participation in voting is temporarily restricted only on proof of deliberate acts against the voting mechanism itself - against the principle of "one person, one vote". There are no other grounds and there can be none.
 
@@ -197,13 +197,13 @@ Governance of the people belongs to earthlings, not to institutions. Institution
 
 Decisions are taken by earthlings directly. The assembly of all earthlings - the Assembly - is the sole source of the people's decisions. No institution standing above the Assembly, or taking decisions in its place, exists or can be created.
 
-**Limits of Decisions.** The Assembly takes decisions on matters concerning the life of the people, within the purpose and the undertakings set out in Part I. The principles of Part I are not a matter for voting. They are not put to a vote at all.
+**Limits of Decisions.** The Assembly takes decisions on matters concerning the life of the people, within the purpose and the undertakings set out in Part I. Abolishing, narrowing or suspending the principles of Part I is not a matter for voting and is not put to a vote at all. The wording of Part I may be changed, or a new principle added to it, only under Article 11 and subject to its conditions.
 
 **How Proposals Are Considered.** Proposals are considered on the same terms for everyone and do not depend on who the author is, what mandate they hold, or how long they have participated.
 
-**Openness.** Discussion, decision-making and the counting of votes are open to verification. Secrecy of the ballot applies where open expression of will exposes a person to risk or creates the conditions for pressure on them. Secrecy does not override the verifiability of the count.
+**Openness.** Discussion, proposals, the decisions taken, the counting of votes and actions under a mandate are open to verification. A personal vote is secret: voting is arranged so that no one, including those who operate the infrastructure, can learn how a particular person voted or, even with that person's consent, satisfy themselves of it. Transferred votes cast by a delegate are open. The secrecy of the vote does not override the verifiability of the count.
 
-**Delegation Instead of Representation.** Representation has no place in the Earthlings people. An earthling may transfer the casting of their vote to another earthling on a particular question or area. The delegate casts the transferred vote at their own discretion; the transfer creates no other rights.
+**Delegation Instead of Representation.** Representation has no place in the Earthlings people. An earthling may transfer the casting of their vote to another earthling on a particular question or area. The delegate casts the transferred vote at their own discretion; the transfer creates no other rights. When a delegate casts the votes transferred to them within the limits set out in the Earthlings Charter, this does not amount to accumulating a vote: a transferred vote still belongs to the person who transferred it and returns to that person on revocation.
 
 The transfer is made only at the will of the person transferring it, and can be revoked by them at any time, without giving reasons and without the delegate's consent. The transfer is not made for a fixed term and creates neither an office nor an organ. Delegates are not chosen by vote: each person decides for themselves to whom to transfer their vote.
 
@@ -225,7 +225,7 @@ Technology is used only where the three conditions named in Article 2 cannot be 
 
 **Inalienability of the Right to Participate.** The right to participate belongs to the person themselves and cannot be bought, sold, appropriated or transferred irrevocably.
 
-**Verifiability of Decisions.** Anyone can satisfy themselves as to the results of votes, whether or not they belong to the Earthlings people. Reliability is confirmed by open data, not by trust in an administrator. Verification is arranged so that it discloses neither information about earthlings nor the content of their votes.
+**Verifiability of Decisions.** Anyone can satisfy themselves as to the results of votes, whether or not they belong to the Earthlings people. Reliability is confirmed by open data, not by trust in an administrator. Verification is arranged so that it discloses neither information about earthlings, nor whether a particular person took part in a vote, nor the content of their vote; only transferred votes cast by a delegate are open (Article 9).
 
 **Independence of the People.** The existence of the Earthlings people does not depend on any particular platform, organization, technology supplier or operator.
 
@@ -234,7 +234,7 @@ Technology is used only where the three conditions named in Article 2 cannot be 
 **The Limits of Technology.** The infrastructure of the Earthlings people must not:
 
 1. conduct surveillance of a person under the guise of identity verification;
-2. retain the ability to learn how a particular person voted;
+2. retain the ability to learn how a particular person voted, or to confirm it, except for transferred votes cast by a delegate;
 3. create profiles of earthlings and rank them;
 4. determine covertly what information a person receives and in what order;
 5. collect data beyond what is necessary for an expressly stated purpose;
@@ -258,7 +258,7 @@ None of these principles can be abolished, narrowed, suspended or circumvented -
 
 The wording in which these principles are set out may change. A change of wording is permissible only if two conditions are both satisfied: it neither abolishes nor narrows any of the principles, and it lowers no guarantee to any person. Where there is doubt whether a change lowers a guarantee, it is deemed to lower it and is not adopted.
 
-A new principle may be added to the core. An existing one may not be weakened or removed.
+A new principle may be added to the core. An existing one may not be weakened or removed. A change to the wording of Part I and the addition of a new principle to it are adopted in the manner set out below for changing Part II, and only if the conditions stated above are satisfied.
 
 Any attempt to circumvent the core by another procedure, another wording or another legal mechanism is a breach of it, whatever the form of circumvention. An attempt to remove, narrow, replace or redefine its principles amounts to the creation of a different body, one that is not the Earthlings people - whatever its name, whoever its earthlings, and whatever software and infrastructure it uses.
 

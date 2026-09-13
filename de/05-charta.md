@@ -74,7 +74,7 @@ Die DAO-Vollversammlung ist das einzige Organ zur Verwaltung des Volkes der Eart
 ### Die Abstimmungsmechanismen
 
 - **Übertragung nach Sachgebieten:** Die Stimme in einem einzelnen Sachgebiet kann einem anderen Earthling übertragen werden; sie wird jederzeit widerrufen (Artikel 7)
-- **Snapshot:** für Abstimmungen off-chain und für Vorbefragungen
+- **Abstimmungen off-chain und Vorbefragungen:** mit einem Mittel, das den Anforderungen des Artikels 6 an das Stimmgeheimnis und an die überprüfbare Auszählung entspricht
 - **On-chain execution:** selbsttätige Ausführung durch Smart Contracts
 - **Regelfristen:** 14 Tage Beratung + 7 Tage Abstimmung
 - **Beschleunigte Verfahren:** für Beschlüsse bis 1 000 EC - 3 Tage Beratung + 3 Tage Abstimmung
@@ -132,7 +132,7 @@ Emergency Multisig darf in Notlagen schnell handeln, aber nur zum Schutz des Sys
 
 **Kontrollmechanismen:**
 - Durchsichtigkeit: alle Vorgänge sind on-chain sichtbar
-- Zeitliche Beschränkungen: Handlungen verlangen einen Timelock von 24 Stunden (außer bei kritischen Angriffen)
+- Zeitliche Beschränkungen: Handlungen verlangen einen Timelock von 24 Stunden (außer bei kritischen Angriffen und bei der Aussetzung verwundbarer Smart Contracts im Fall einer kritischen Schwachstelle)
 - Zwingende Rechenschaft: binnen 48 Stunden nach der Handlung
 - Recht zur Aufhebung: Die DAO kann jede Handlung mit einfacher Mehrheit aufheben
 - Verantwortung: Missbrauch führt zum sofortigen Widerruf
@@ -218,7 +218,7 @@ Eine Vergütung für die Einnahme eines Platzes im Rat über einen solchen Ausgl
 
 **Regelverfahren:**
 - Tag 1 bis 14: Beratung des Vorschlags, Einbringung von Änderungen
-- Tag 15 bis 21: Abstimmung (on-chain oder Snapshot)
+- Tag 15 bis 21: Abstimmung (on-chain oder off-chain)
 - Tag 22: Auszählung der Ergebnisse und Veröffentlichung
 - Tag 23 und danach: selbsttätige Ausführung durch Smart Contracts
 
@@ -235,30 +235,30 @@ Eine Vergütung für die Einnahme eines Platzes im Rat über einen solchen Ausgl
 
 ### Offenheit und Abstimmungsgeheimnis
 
-In der Regel sind die Abstimmungen im Volk der Earthlings offen: Die Tatsache der Teilnahme und die Willensbekundung stehen allen Earthlings zur Überprüfung offen. Die Offenheit ist die Weise, sich davon zu überzeugen, dass die Auszählung ehrlich ist.
+Die persönliche Stimme eines Earthling ist geheim. Die Abstimmung ist so eingerichtet, dass niemand, auch nicht diejenigen, die die Infrastruktur betreiben, erfahren kann, wie ein bestimmter Mensch abgestimmt hat, oder sich davon überzeugen kann, selbst mit dessen Zustimmung nicht: Der Mensch kann sagen, wie er abgestimmt hat; einen Nachweis stellt das System nicht aus. Die Teilnahme eines bestimmten Menschen an der Abstimmung wird nicht veröffentlicht; das Quorum wird anhand der Zahl der Abstimmenden geprüft. Die Regel ist dieselbe für alle Abstimmungen - die der DAO-Vollversammlung und die der Zellen - und für die Messungen des gemeinsamen Willens (Artikel 8-bis).
 
-Die Durchsichtigkeit erstreckt sich jedoch auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen. Es gibt Fragen, bei denen die Offenheit der Willensbekundung einen Menschen nicht schützt, sondern einem Risiko aussetzt - auch durch den Staat, dessen Bürger er ist. In solchen Fällen wird geheim abgestimmt, wobei die Überprüfbarkeit der Auszählung erhalten bleibt: Das Ergebnis prüfen alle, und die Verbindung zwischen Stimme und Abstimmendem wird niemandem offengelegt, auch den Verwaltern der Plattform nicht.
+Die Durchsichtigkeit erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen. Offen sind die Beratung, die Vorschläge und die Einwendungen; das Handeln der Einrichtungen und der Aufträge - der Core Nodes, des Emergency Multisig, des Unabhängigen Rates, der Schatzkammer, des rechtlichen Schutzauftrags - und die Unterschriften unter ihren Handlungen mit Angabe des Unterzeichners; die übertragenen Stimmen, die ein Delegierter abgibt (Artikel 7). Die eigene Stimme des Delegierten ist geheim, wie bei allen.
 
-**Geheim wird zwingend abgestimmt:**
-- bei der Behandlung der Frage einer Beschränkung von Befugnissen (Artikel 22)
-- bei der Behandlung der Frage einer Aussetzung des Stimmrechts (Artikel 22-bis)
-- bei der Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21)
+**Der Ablauf der Abstimmung:**
+- der Zwischenstand ist bis zum Schluss der Abstimmung verborgen
+- bis zum Schluss kann die Stimmabgabe wiederholt werden; gezählt wird die zuletzt abgegebene Stimme
+- eine persönliche Stimme zu einer Frage hebt die Übertragung für diese Frage auf
 
-**Eine geheime Abstimmung kann durch Beschluss der DAO-Vollversammlung angeordnet werden** für eine einzelne Frage oder eine Gruppe von Fragen - insbesondere für Abstimmungen, die die Position des Volkes zu Handlungen von Staaten und zu internationalen Fragen betreffen.
+**Das Stimmgeheimnis ist ein Recht des Abstimmenden und keine Voraussetzung der Gültigkeit der Stimme.** Eine Stimme, die ein helfender Mensch gesehen hat, ist gültig; technische Hilfe, die den Inhalt der Stimme nicht bestimmt, ist zulässig (Erklärung, Artikel 8). Zu verlangen, dass ein Mensch zeigt, wie er abgestimmt hat, ist verboten; ein Vorteil für einen solchen Nachweis ist Kauf einer Stimme (Artikel 22-bis).
 
-In allen Fällen werden veröffentlicht: die Frage selbst, das Ergebnis, die Zahl der Abstimmenden und das Ergebnis der Überprüfung der Auszählung.
+Stets werden veröffentlicht: die Frage selbst, die Antwortmöglichkeiten und die Fristen, die Zahl der Stimmberechtigten, die Zahl der Abstimmenden, das Ergebnis, der Nachweis der Auszählung und der Weg, auf dem jeder Mensch das Ergebnis selbst nachrechnen kann.
 
 ## Artikel 7. Die Übertragung von Stimmen
 
-Ein Earthling kann seine Stimme in einem einzelnen Sachgebiet einem anderen Earthling übertragen. Die Übertragung ist freiwillig und wird jederzeit widerrufen.
+Ein Earthling kann seine Stimme in einem einzelnen Sachgebiet einem anderen Earthling übertragen. Die Übertragung ist freiwillig und wird jederzeit widerrufen. Überlässt ein Earthling aus eigenem Willen einem anderen Menschen, den Inhalt seiner Stimme zu bestimmen, so ist das eine Übertragung, in welcher technischen Form sie auch vorgenommen wird, einschließlich der Weitergabe des Zugangs zum Schlüssel oder der Anbindung eines externen Unterzeichners, und für sie gelten alle Beschränkungen dieses Artikels. Technische Hilfe, die den Inhalt der Stimme nicht bestimmt, ist keine Übertragung (Erklärung, Artikel 8).
 
 > **Übertragung ist keine Repräsentation.** Sie wird für ein Sachgebiet erteilt und nicht auf Zeit; sie wird sofort widerrufen, ohne Angabe von Gründen und ohne Zustimmung des Delegierten; sie begründet kein Amt und gibt dem Delegierten kein Recht außer dem, die ihm übertragenen Stimmen abzugeben. Ein Delegierter kann jederzeit ohne eine einzige übertragene Stimme dastehen, und das ist die übliche Arbeit des Mechanismus und keine Störung.
 
 **Wer Delegierter sein kann.** Jeder Earthling. Weder Ansehen noch Dauer der Teilnahme noch Verdienste öffnen oder verschließen den Zugang zum Erhalt übertragener Stimmen: Die einzige Auswahl ist die Wahl dessen, der überträgt.
 
 **Durchsichtigkeit:**
-- Öffentliche Aufzeichnung der Entscheidungen des Delegierten on-chain
-- Alle vom Delegierten abgegebenen Stimmen sind sichtbar
+- Die übertragenen Stimmen, die der Delegierte abgibt, sind offen, und ihre Aufzeichnung ist öffentlich; die eigene Stimme des Delegierten ist geheim, wie bei allen (Artikel 6)
+- Nicht veröffentlicht wird, wer dem Delegierten seine Stimme übertragen hat. Die Einhaltung der Obergrenze der Übertragung ist öffentlich überprüfbar; die Zahl der dem Delegierten übertragenen Stimmen wird in einer Form veröffentlicht, die es nicht erlaubt, anhand dieser Zahl zu überprüfen, ob bestimmte Menschen ihre Stimme übertragen haben
 - Keinerlei besondere Vorrechte: 1 übertragene Stimme = 1 Stimme
 
 **Beschränkungen der Übertragung:**
@@ -278,7 +278,6 @@ Ein Earthling kann seine Stimme in einem einzelnen Sachgebiet einem anderen Eart
 **Von entscheidender Bedeutung:** Das Ansehen wirkt sich nicht auf das Gewicht der Stimme aus und öffnet den Zugang zu keiner Rolle. Der Grundsatz „1 Mensch = 1 Stimme“ gilt unbedingt. Das Ansehen ist ausschließlich eine Auskunft.
 
 **Faktoren des Ansehens (on-chain):**
-- Teilnahme an Abstimmungen
 - Erfolgreiche Durchführung von Projekten
 - Beitrag zur Entwicklung der Gemeinschaft
 - Güte der Vorschläge
@@ -300,11 +299,11 @@ Den Wortlaut der Frage billigen weder diejenigen, die das Volk operativ führen,
 
 Das Ergebnis wird zusammen mit allem veröffentlicht, was ein Außenstehender braucht, um es selbst nachzurechnen, einschließlich des Anteils der Abstimmenden an den Stimmberechtigten - auch dann, wenn er niedrig ist. Eine Veröffentlichung, die das Nachrechnen nicht erlaubt, ist keine Messung.
 
-Den Mangel einer Messung stellt nicht derjenige fest, der sie durchgeführt hat. Eine für ungültig erklärte Messung wird nicht gelöscht und bleibt mit einem Vermerk über die Ungültigerklärung erhalten; an ihrer Stelle wird die Messung neu durchgeführt, vollständig und von Anfang an.
+Die Entscheidung darüber, ob ein Mangel einer Messung vorliegt, trifft nicht derjenige, der sie durchgeführt hat. Eine für ungültig erklärte Messung wird nicht gelöscht und bleibt mit einem Vermerk über die Ungültigerklärung erhalten; an ihrer Stelle wird die Messung neu durchgeführt, vollständig und von Anfang an.
 
 Eine Messung gegen Bezahlung eines Auftraggebers findet nicht statt; zweckgebundene Mittel für eine bestimmte Frage werden nicht angenommen.
 
-Das Verfahren der Messungen wird im Übrigen durch Beschluss der DAO-Vollversammlung festgelegt und vor der ersten Messung veröffentlicht.
+Das Verfahren der Messungen wird im Übrigen - einschließlich dessen, wer entscheidet, ob ein Mangel einer Messung vorliegt, wer eine als mangelhaft anerkannte Messung für ungültig erklärt und in welchen Fristen - durch Beschluss der DAO-Vollversammlung festgelegt und vor der ersten Messung veröffentlicht.
 
 ## Artikel 8-ter. Das durch Los ausgewählte Panel
 
@@ -380,7 +379,7 @@ Die Einzelheiten der Organisation der Projektarbeit sind im Dokument [Die Zellen
 
 ## Artikel 12. Die Grundsätze der Teilnahme
 
-Die Teilnahme am Volk der Earthlings steht allen Personen offen, die das Alter von 18 Jahren erreicht haben, die Erklärung der Earthlings angenommen und die Identitätsprüfung durchlaufen haben.
+Die Teilnahme am Volk der Earthlings steht allen Personen offen, die das Alter von 18 Jahren erreicht haben, die Erklärung der Earthlings unterzeichnet und die Identitätsprüfung durchlaufen haben.
 
 Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Geschlecht, gesellschaftliche Stellung, Staatsangehörigkeit und Wohnort wirken sich auf die Möglichkeit des Beitritts nicht aus.
 
@@ -439,7 +438,7 @@ Ein Earthling ist verpflichtet, einen Interessenkonflikt in jeder Lage offen anz
 - durch verwandtschaftliche, geschäftliche oder sonstige erhebliche Beziehungen mit Personen oder Organisationen verbunden ist, die der Beschluss betrifft
 - in der behandelten Frage die Interessen Dritter oder von Organisationen vertritt
 
-Die Anzeige eines Interessenkonflikts nimmt einem Earthling für sich genommen nicht das Stimmrecht. Ein zwingender Ausschluss von der Abstimmung gilt bei Abstimmungen über die Verteilung von Mitteln: Ein Earthling nimmt an einer solchen Abstimmung nicht teil, wenn er Antragsteller oder Mitverfasser des Antrags ist, dem Projektteam angehört, mit dem Antragsteller nahe verwandt ist (Ehegatte, Eltern, Kinder, Geschwister) oder ihm gegenüber vertragliche Pflichten hat, die eine Vergütung vorsehen.
+Die Anzeige eines Interessenkonflikts nimmt einem Earthling für sich genommen nicht das Stimmrecht. Ein zwingender Ausschluss von der Abstimmung gilt bei Abstimmungen über die Verteilung von Mitteln: Ein Earthling nimmt an einer solchen Abstimmung nicht teil, wenn er Antragsteller oder Mitverfasser des Antrags ist, dem Projektteam angehört, mit dem Antragsteller nahe verwandt ist (Ehegatte, Eltern, Kinder, Geschwister) oder ihm gegenüber vertragliche Pflichten hat, die eine Vergütung vorsehen. Das Stimmgeheimnis hebt den Ausschluss von der Abstimmung nicht auf: Der Ausschluss wird vor Beginn der Abstimmung offen erklärt, und das Mittel der Abstimmung schließt den Pass desjenigen, der den Ausschluss erklärt hat, ebenso wie die Pässe des Antragstellers, der Mitverfasser und der Mitglieder des Projektteams, die im Antrag angegeben sind, aus dem Kreis der in dieser Abstimmung Stimmberechtigten aus; die Zahl der Ausgeschlossenen wird veröffentlicht.
 
 Andere Gründe, eine Stimme auszuschließen, gibt es nicht: Durch Mehrheitsbeschluss wird die Stimme eines Earthling nicht aus der Auszählung ausgeschlossen.
 
@@ -519,7 +518,7 @@ In der Regel wird ein SBT-Pass nur vom Inhaber selbst entwertet (Artikel 18). Di
 
 Ein Pass kann aufgehoben werden, wenn festgestellt ist, dass er unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde: Einem Menschen ist mehr als ein gültiger Pass ausgegeben worden, oder die Prüfung wurde unter Verwendung falscher Angaben oder der Identität eines anderen durchlaufen, oder der Pass wurde einer Person ausgegeben, die das von dieser Charta festgelegte Alter nicht erreicht hat. Die Aufzählung der Gründe ist abschließend und entspricht Artikel 8 der Erklärung.
 
-Ist einem Menschen mehr als ein gültiger Pass ausgegeben worden, so wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben. In keinem der drei Fälle beendet die Aufhebung die Zugehörigkeit des Menschen zum Volk (Erklärung, Artikel 8).
+Ist einem Menschen mehr als ein gültiger Pass ausgegeben worden, so wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben. In keinem der drei Fälle beendet die Aufhebung die Zugehörigkeit des Menschen zum Volk (Erklärung, Artikel 8); ist der Pass einer Person ausgegeben worden, die das festgelegte Alter nicht erreicht hat, so ist die Zugehörigkeit noch nicht entstanden, und die Aufhebung hat nichts zu beenden.
 
 **Das Verfahren:**
 - Einleitung: eine begründete Darlegung mit Nachweisen, eingereicht von einem beliebigen Earthling oder von den Core Nodes aufgrund einer technischen Prüfung
@@ -598,7 +597,7 @@ Dieser Artikel legt den **einzigen** Fall fest, in dem das Stimmrecht ausgesetzt
 Eine Aussetzung wird nur wegen nachgewiesener Handlungen angewandt, die auf die Untergrabung der Unversehrtheit der Abstimmung selbst gerichtet sind:
 
 - Absprache zur abgestimmten Verfälschung des Ergebnisses;
-- Kauf oder Verkauf einer Stimme sowie das Anbieten oder Annehmen einer Vergütung für eine Stimmabgabe in bestimmter Weise;
+- Kauf oder Verkauf einer Stimme sowie das Anbieten oder Annehmen jeglicher Vergütung für eine Stimmabgabe in bestimmter Weise, einschließlich einer Vergütung für den Nachweis, wie ein Teilnehmer abgestimmt hat, und einer Vergütung, die für einen bestimmten Ausgang der Abstimmung versprochen wird, wenn sie nicht selbst der Inhalt des zur Abstimmung gestellten Beschlusses ist;
 - Nötigung anderer Teilnehmer zur Stimmabgabe in bestimmter Weise, einschließlich Erpressung und Drohungen;
 - Umgehung der Regel „ein Mensch - ein Pass“ oder Beihilfe zu einer solchen Umgehung.
 
@@ -694,7 +693,7 @@ Das Volk der Earthlings besitzt kein Gebiet und beansprucht keines. Jeder Raum, 
 ## Artikel 28. Die Bestandteile der Plattform
 
 - System der Identifizierung und Prüfung (Biometrie + SBT)
-- Abstimmungssystem, einschließlich des Mechanismus der geheimen Abstimmung mit überprüfbarer Auszählung
+- Abstimmungssystem mit geheimer persönlicher Stimme und überprüfbarer Auszählung
 - Abstimmung zwischen den Zellen
 - Smart Contracts des Fonds
 - Kommunikationssystem
@@ -753,7 +752,7 @@ Juristische Personen können mit dem Volk der Earthlings zusammenwirken, haben a
 ## Artikel 33. Die Mechanismen der Reaktion
 
 ### Stufe 1: technische Krise
-- Emergency Multisig handelt sofort
+- Emergency Multisig handelt bei einem kritischen Angriff sofort; bei einer kritischen Schwachstelle ist ohne Timelock nur die Aussetzung verwundbarer Smart Contracts zulässig, die übrigen Handlungen erfolgen über einen Timelock von 24 Stunden (Artikel 3)
 - Aussetzung verwundbarer Smart Contracts
 - Benachrichtigung der Gemeinschaft binnen 1 Stunde
 - Vollständiger Bericht binnen 48 Stunden
@@ -829,7 +828,7 @@ Die folgenden Grundsätze lassen sich auch mit qualifizierter Mehrheit nicht än
 - **1 Mensch = 1 Stimme.** Vollständige Gleichheit aller Earthlings. Kein Mechanismus darf es einem Menschen erlauben, in einem Beschluss mehr Gewicht abzugeben als einem anderen
 - **Die Stimme ist unveräußerlich.** Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung von Beschlüssen oder als allgemeine Sanktion entzogen oder ausgesetzt und ebenso wenig von Geld, Ansehen, Dauer der Teilnahme und Verdiensten abhängig gemacht werden. Die einzige Ausnahme ist die Untergrabung der Unversehrtheit der Abstimmung selbst (Artikel 22-bis); die Aufzählung ihrer Gründe ist einer Erweiterung nicht zugänglich
 - **Nur Menschen stimmen ab.** Strukturen haben keine kollektive Stimme
-- **Offenheit und Durchsichtigkeit der Beschlüsse und der Finanzen.** Alle Beschlüsse der DAO, die Ergebnisse der Abstimmungen, die Finanzvorgänge des Fonds und die Handlungen der ausführenden Strukturen sind öffentlich und überprüfbar. Personenbezogene und biometrische Daten der Teilnehmer sind dabei nicht öffentlich - sie sind durch Artikel 13 geschützt. Die Durchsichtigkeit erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen; die Willensbekundung eines bestimmten Menschen gehört zu den persönlichen Daten und kann nach Artikel 6 verschlossen werden
+- **Offenheit und Durchsichtigkeit der Beschlüsse und der Finanzen.** Alle Beschlüsse der DAO, die Ergebnisse der Abstimmungen, die Finanzvorgänge des Fonds und die Handlungen der ausführenden Strukturen sind öffentlich und überprüfbar. Personenbezogene und biometrische Daten der Teilnehmer sind dabei nicht öffentlich - sie sind durch Artikel 13 geschützt. Die Durchsichtigkeit erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen; die Willensbekundung eines bestimmten Menschen gehört zu den persönlichen Daten, und die persönliche Stimme ist geheim (Artikel 6); offen sind die übertragenen Stimmen, die ein Delegierter abgibt
 - **Freiwilligkeit.** Teilnahme und Austritt sind frei, ein Ausschluss ist unmöglich
 - **Widerruflichkeit jedes Auftrags.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle als der ihrer Erteilung widerrufen lässt, wird nicht erteilt
 - **Die Schwelle für die Änderung dieser Charta.** Die Schwellen des Artikels 36 können nicht durch einen Beschluss abgesenkt werden, der nach demselben Artikel gefasst wird; das ist in Artikel 9 der Erklärung festgelegt

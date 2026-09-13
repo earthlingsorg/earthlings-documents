@@ -74,7 +74,7 @@ La Asamblea DAO es el único órgano de gobierno del pueblo Earthlings. Comprend
 ### Mecanismos de votación
 
 - **Delegación por ámbitos:** el voto en un ámbito concreto puede cederse a otro earthling; se revoca en cualquier momento (artículo 7)
-- **Snapshot:** para votaciones off-chain y sondeos previos
+- **Votaciones off-chain y sondeos previos:** con un medio que cumpla los requisitos del artículo 6 relativos al secreto del voto y al recuento verificable
 - **On-chain execution:** ejecución automática mediante contratos inteligentes
 - **Períodos estándar:** 14 días de debate + 7 días de votación
 - **Procedimientos acelerados:** para decisiones de hasta 1 000 EC, 3 días de debate + 3 días de votación
@@ -132,7 +132,7 @@ El Emergency Multisig puede actuar con rapidez en situaciones de emergencia, per
 
 **Mecanismos de control:**
 - Transparencia: todas las transacciones son visibles on-chain
-- Límites temporales: los actos requieren un bloqueo temporal de 24 horas (salvo ataques críticos)
+- Límites temporales: los actos requieren un bloqueo temporal de 24 horas (salvo ataques críticos y, ante una vulnerabilidad crítica, la suspensión de los contratos inteligentes vulnerables)
 - Rendición de cuentas obligatoria: en el plazo de 48 horas desde el acto
 - Derecho de anulación: la DAO puede anular cualquier acto por mayoría simple
 - Responsabilidad: el abuso conlleva la revocación inmediata
@@ -218,7 +218,7 @@ No se abona remuneración alguna por ocupar un puesto en el Consejo más allá d
 
 **Procedimiento estándar:**
 - Días 1 a 14: debate de la propuesta, presentación de enmiendas
-- Días 15 a 21: votación (on-chain o Snapshot)
+- Días 15 a 21: votación (on-chain u off-chain)
 - Día 22: recuento de resultados y publicación
 - Día 23 y siguientes: ejecución automática mediante contratos inteligentes
 
@@ -235,30 +235,30 @@ No se abona remuneración alguna por ocupar un puesto en el Consejo más allá d
 
 ### Apertura y secreto del voto
 
-Por regla general las votaciones en el pueblo Earthlings son abiertas: el hecho de la participación y la expresión de la voluntad están disponibles para su verificación por todos los Earthlings. La apertura es el modo de comprobar que el recuento es honesto.
+El voto personal del earthling es secreto. La votación está organizada de modo que nadie, incluidos quienes operan la infraestructura, pueda saber cómo ha votado una persona concreta, ni cerciorarse de ello aun con su consentimiento: la persona puede decir cómo ha votado, pero el sistema no proporciona prueba alguna. La participación de una persona concreta en la votación no se publica; el quórum se verifica por el número de votantes. La regla es la misma para todas las votaciones - las de la Asamblea DAO y las de las células - y para las mediciones de la voluntad común (artículo 8 bis).
 
-Sin embargo, la transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas. Hay cuestiones en las que la apertura de la expresión de la voluntad no protege a la persona, sino que la expone a un riesgo, incluso por parte del Estado del que es nacional. En tales casos se aplica el voto secreto conservando la verificabilidad del recuento: el resultado lo verifican todos, y el vínculo entre el voto y quien vota no se revela a nadie, incluidos los administradores de la plataforma.
+La transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas. Son abiertos el debate, las propuestas y las objeciones; los actos de las instituciones y de los encargos - de los Core Nodes, del Emergency Multisig, del Consejo Independiente, de la Tesorería y del encargo jurídico de defensa - y las firmas puestas en ellos, con indicación del firmante; los votos cedidos que emite el delegado (artículo 7). El voto propio del delegado es secreto, como el de todos.
 
-**El voto secreto se aplica obligatoriamente:**
-- al examinar una limitación de facultades (artículo 22)
-- al examinar una suspensión del derecho de voto (artículo 22 bis)
-- en la anulación de una emisión inválida de pasaporte (artículo 21)
+**Procedimiento de votación:**
+- el recuento parcial permanece oculto hasta el cierre de la votación
+- hasta el cierre se puede volver a votar; se computa el último voto emitido
+- el voto personal sobre una cuestión deja sin efecto la delegación respecto de esa cuestión
 
-**El voto secreto puede acordarse por decisión de la Asamblea DAO** para una cuestión o una categoría de cuestiones determinada, en particular para las votaciones que afecten a la posición del pueblo sobre los actos de los Estados y sobre cuestiones internacionales.
+**El secreto es un derecho de quien vota, y no una condición de validez del voto.** El voto que ha visto quien prestaba asistencia es válido; la asistencia técnica que no determina el contenido del voto es admisible (Declaración, artículo 8). Queda prohibido exigir que una persona muestre cómo ha votado; cualquier beneficio a cambio de tal prueba es compra de un voto (artículo 22 bis).
 
-En todos los casos se publican: la cuestión misma, el resultado, el número de votantes y el resultado de la verificación del recuento.
+Se publican siempre: la cuestión misma, las opciones de respuesta y los plazos, el número de quienes tenían derecho a voto, el número de votantes, el resultado, la prueba del recuento y el modo en que cualquier persona puede rehacer el recuento por su cuenta.
 
 ## Artículo 7. Delegación del voto
 
-Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La delegación es voluntaria y se revoca en cualquier momento.
+Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La delegación es voluntaria y se revoca en cualquier momento. Si un earthling permite por su propia voluntad que otra persona determine el contenido de su voto, se trata de una delegación, sea cual sea la forma técnica en que se realice, incluida la entrega del acceso a la clave o la conexión de un firmante externo, y se le aplican todos los límites del presente artículo. La asistencia técnica que no determina el contenido del voto no es delegación (Declaración, artículo 8).
 
 > **La delegación no es representación.** Se otorga por ámbito y no por un plazo; se revoca de inmediato, sin explicar los motivos y sin el consentimiento del delegado; no constituye cargo y no confiere al delegado ningún derecho salvo el de emitir los votos que se le han cedido. Un delegado puede quedarse en cualquier momento sin un solo voto delegado, y eso es el funcionamiento normal del mecanismo y no un fallo.
 
 **Quién puede ser delegado.** Cualquier earthling. Ni la reputación, ni la antigüedad, ni los méritos abren o cierran el acceso a recibir votos delegados: la única selección es la elección de quien delega.
 
 **Transparencia:**
-- Historial público on-chain de las decisiones del delegado
-- Todos los votos emitidos por el delegado son visibles
+- Los votos cedidos que emite el delegado son abiertos, y su historial es público; el voto propio del delegado es secreto, como el de todos (artículo 6)
+- No se publica quién ha cedido su voto al delegado. El cumplimiento del techo de delegación es verificable públicamente; el número de votos cedidos al delegado se publica en una forma que no permite comprobar a partir de él si determinadas personas le han cedido su voto
 - Ningún privilegio especial: 1 voto delegado = 1 voto
 
 **Límites de la delegación:**
@@ -278,7 +278,6 @@ Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La 
 **Cuestión crítica:** la reputación no influye en el peso del voto y no abre el acceso a ningún papel. El principio «1 persona = 1 voto» es absoluto. La reputación es exclusivamente informativa.
 
 **Factores de reputación (on-chain):**
-- Participación en las votaciones
 - Realización lograda de proyectos
 - Aportación al desarrollo de la comunidad
 - Calidad de las propuestas
@@ -300,11 +299,11 @@ La formulación de la pregunta no la aprueban ni quienes llevan la gestión oper
 
 El resultado se publica junto con todo lo que una persona ajena necesita para rehacer el recuento por su cuenta, incluida la participación sobre quienes tenían derecho a voto, también cuando es baja. Una publicación que no permite rehacer el recuento no es una medición.
 
-El defecto de la medición no lo constata quien la realizó. La medición anulada no se suprime y se conserva con la nota de anulación; en su lugar la medición se realiza de nuevo, entera y desde el principio.
+La decisión sobre si existe un defecto de la medición no corresponde a quien la realizó. La medición anulada no se suprime y se conserva con la nota de anulación; en su lugar la medición se realiza de nuevo, entera y desde el principio.
 
 La medición no se realiza pagada por un cliente; no se aceptan fondos finalistas destinados a una pregunta concreta.
 
-El procedimiento de realización de las mediciones lo establece en lo demás una decisión de la Asamblea DAO y se publica antes de la primera medición.
+En lo demás, el procedimiento de realización de las mediciones - incluido quién decide si existe un defecto de la medición, quién anula la medición declarada defectuosa y en qué plazos - lo establece una decisión de la Asamblea DAO y se publica antes de la primera medición.
 
 ## Artículo 8 ter. El panel elegido por sorteo
 
@@ -380,7 +379,7 @@ Los detalles de la organización de la actividad de proyectos están descritos e
 
 ## Artículo 12. Principios de participación
 
-La participación en el pueblo Earthlings está abierta a todas las personas que hayan cumplido 18 años, hayan aceptado la Declaración Earthlings y hayan pasado la verificación de identidad.
+La participación en el pueblo Earthlings está abierta a todas las personas que hayan cumplido 18 años, hayan firmado la Declaración Earthlings y hayan pasado la verificación de identidad.
 
 No existen otras condiciones. La adscripción étnica, la raza, la religión, el sexo, la posición social, la nacionalidad y el lugar de residencia no influyen en la posibilidad de adherirse.
 
@@ -439,7 +438,7 @@ Un earthling está obligado a declarar abiertamente un conflicto de intereses en
 - está unido por vínculos familiares, de negocios u otros vínculos relevantes con personas u organizaciones a las que afecta la decisión
 - representa intereses de terceros o de organizaciones en la cuestión examinada
 
-Declarar un conflicto de intereses no priva por sí mismo al earthling del derecho de voto. La abstención obligatoria rige en las votaciones sobre distribución de fondos: un earthling no participa en tal votación si es solicitante o coautor de la solicitud, forma parte del equipo del proyecto, tiene parentesco cercano con el solicitante (cónyuge, padres, hijos, hermanos) o mantiene con él obligaciones contractuales que prevean remuneración.
+Declarar un conflicto de intereses no priva por sí mismo al earthling del derecho de voto. La abstención obligatoria rige en las votaciones sobre distribución de fondos: un earthling no participa en tal votación si es solicitante o coautor de la solicitud, forma parte del equipo del proyecto, tiene parentesco cercano con el solicitante (cónyuge, padres, hijos, hermanos) o mantiene con él obligaciones contractuales que prevean remuneración. El secreto del voto no suprime la abstención: esta se declara abiertamente antes de que se abra la votación, y el medio de votación excluye del conjunto de pasaportes con derecho a voto en esa votación el pasaporte de quien ha declarado la abstención, así como los del solicitante, de los coautores y de los integrantes del equipo indicados en la solicitud; el número de pasaportes excluidos se publica.
 
 No existen otros fundamentos para excluir un voto: por decisión de la mayoría el voto de un earthling no se excluye del recuento.
 
@@ -519,7 +518,7 @@ Por regla general el pasaporte SBT solo lo destruye su propio titular (artículo
 
 Un pasaporte puede anularse si se establece que fue emitido infringiendo las condiciones de emisión: se emitió a una misma persona más de un pasaporte en vigor, o la verificación se pasó con datos falsos o con la identidad de otra persona, o el pasaporte se emitió a quien no había alcanzado la edad establecida en la presente Carta. La lista de fundamentos es cerrada y se corresponde con el artículo 8 de la Declaración.
 
-Si a una misma persona se le ha emitido más de un pasaporte en vigor, se anula la emisión de todos salvo el primero. En ninguno de los tres casos la anulación pone fin a la pertenencia de la persona al pueblo (Declaración, artículo 8).
+Si a una misma persona se le ha emitido más de un pasaporte en vigor, se anula la emisión de todos salvo el primero. En ninguno de los tres casos la anulación pone fin a la pertenencia de la persona al pueblo (Declaración, artículo 8); si el pasaporte se ha emitido a quien no ha alcanzado la edad establecida, la pertenencia todavía no ha nacido, y la anulación no tiene a qué poner fin.
 
 **Procedimiento:**
 - Inicio: escrito motivado con pruebas, presentado por cualquier earthling o por los Core Nodes a resultas de una comprobación técnica
@@ -598,7 +597,7 @@ El presente artículo establece el **único** caso en que el derecho de voto pue
 La suspensión se aplica únicamente por actos probados dirigidos a socavar la integridad de la votación misma:
 
 - concierto con el fin de distorsionar el resultado de manera coordinada;
-- compra o venta de un voto, así como el ofrecimiento o la aceptación de cualquier remuneración por votar en un sentido determinado;
+- compra o venta de un voto, así como el ofrecimiento o la aceptación de cualquier remuneración por votar en un sentido determinado, incluidas la remuneración a cambio de la prueba de cómo ha votado el participante y, salvo que sea el contenido de la propia decisión sometida a votación, la remuneración prometida a cambio de un resultado determinado de la votación;
 - coacción a otros participantes para que voten en un sentido determinado, incluidos el chantaje y las amenazas;
 - elusión de la regla «una persona, un pasaporte» o colaboración en tal elusión.
 
@@ -694,7 +693,7 @@ El pueblo Earthlings no posee territorio y no lo pretende. Cualquier local físi
 ## Artículo 28. Componentes de la plataforma
 
 - Sistema de identificación y verificación (biometría + SBT)
-- Sistema de votación, incluido el mecanismo de voto secreto con recuento verificable
+- Sistema de votación con secreto del voto personal y recuento verificable
 - Coordinación de las células
 - Contratos inteligentes del Fondo
 - Sistema de comunicación
@@ -753,7 +752,7 @@ Las personas jurídicas pueden relacionarse con el pueblo Earthlings, pero no ti
 ## Artículo 33. Mecanismos de respuesta
 
 ### Nivel 1: crisis técnica
-- El Emergency Multisig actúa de inmediato
+- El Emergency Multisig actúa de inmediato ante un ataque crítico; ante una vulnerabilidad crítica, sin bloqueo temporal solo se admite la suspensión de los contratos inteligentes vulnerables, y los demás actos requieren el bloqueo temporal de 24 horas (artículo 3)
 - Suspensión de los contratos inteligentes vulnerables
 - Aviso a la comunidad en el plazo de 1 hora
 - Informe completo en el plazo de 48 horas
@@ -829,7 +828,7 @@ Los siguientes principios no pueden modificarse ni siquiera por mayoría cualifi
 - **1 persona = 1 voto.** Igualdad absoluta de todos los Earthlings. Ningún mecanismo puede permitir que una persona aporte en una misma decisión más peso que otra
 - **El voto es inalienable.** El derecho de voto no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad, ni hacerse depender del dinero, de la reputación, de la antigüedad o de los méritos. La única excepción es el socavamiento de la integridad de la votación misma (artículo 22 bis); la lista de sus fundamentos no es ampliable
 - **Solo votan las personas.** Las estructuras no tienen voto colectivo
-- **Apertura y transparencia de las decisiones y de las finanzas.** Todas las decisiones de la DAO, los resultados de las votaciones, las transacciones financieras del Fondo y los actos de las estructuras de ejecución son públicos y verificables. Los datos personales y biométricos de los participantes, en cambio, no son públicos: los protege el artículo 13. La transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas; la expresión de la voluntad de una persona concreta pertenece a los datos personales y puede quedar cerrada conforme al artículo 6
+- **Apertura y transparencia de las decisiones y de las finanzas.** Todas las decisiones de la DAO, los resultados de las votaciones, las transacciones financieras del Fondo y los actos de las estructuras de ejecución son públicos y verificables. Los datos personales y biométricos de los participantes, en cambio, no son públicos: los protege el artículo 13. La transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas; la expresión de la voluntad de una persona concreta pertenece a los datos personales, y el voto personal es secreto (artículo 6); son abiertos los votos cedidos que emite el delegado
 - **Voluntariedad.** La participación y la salida son libres; la expulsión es imposible
 - **Revocabilidad de todo encargo.** No se otorga una facultad que no pueda revocarse de inmediato y con un umbral no superior al de su otorgamiento
 - **El umbral de modificación de esta Carta.** Los umbrales del artículo 36 no pueden rebajarse por una decisión adoptada conforme a ese mismo artículo; así lo establece el artículo 9 de la Declaración

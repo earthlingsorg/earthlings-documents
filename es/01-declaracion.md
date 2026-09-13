@@ -104,7 +104,7 @@ La lista de estos motivos es cerrada: no cabe interpretarla de manera extensiva,
 
 ## Artículo 5. Nuestras obligaciones
 
-El pueblo Earthlings establece sus propios límites en el presente artículo. Rigen en toda circunstancia y no pueden ser derogados, restringidos, suspendidos, modificados ni eludidos por decisión alguna.
+El pueblo Earthlings establece sus propios límites en el presente artículo. Rigen en toda circunstancia y no pueden ser derogados, restringidos, suspendidos ni eludidos por decisión alguna; las redacciones en las que están expuestos solo pueden modificarse en la forma y en las condiciones del artículo 11.
 
 **Renuncia a la violencia.** El pueblo Earthlings renuncia al empleo de la violencia como medio para alcanzar sus fines. No crea, no constituye, no financia y no apoya estructuras armadas, paramilitares, de seguridad ni de ninguna otra clase capaces de ejercer violencia, ni directamente ni a través de terceros.
 
@@ -165,7 +165,7 @@ Puede firmar la Declaración toda persona que haya alcanzado esa edad, esté con
 
 No se establecen ni pueden establecerse otras condiciones de pertenencia. La pertenencia no depende del origen, de la nacionalidad, de la adscripción étnica, de la lengua, del lugar de residencia, del sexo, del estado de salud, de la formación, de la profesión, de la situación patrimonial, de la religión, de las opiniones políticas ni de cualesquiera otras circunstancias personales.
 
-No existe una decisión de admisión: el pueblo no examina solicitudes, no evalúa a la persona y no rechaza a nadie.
+No existe una decisión de admisión: el pueblo no examina solicitudes, no evalúa a la persona y no rechaza a nadie. La denegación de la verificación de la identidad no es una denegación de la admisión: significa solo que la condición del presente artículo no se ha verificado respecto de la persona, y se adopta con las garantías del artículo 4.
 
 **La cuota.** Al incorporarse se abona una cuota que cubre la verificación de la identidad, la emisión del pasaporte y el mantenimiento de la infraestructura. La cuota no es condición de la pertenencia: no compra la pertenencia y no crea ventaja alguna. La imposibilidad de sufragar por sí misma la cuota no cierra a la persona la entrada en el pueblo: la cuota puede abonarla por ella otra persona o el fondo común.
 
@@ -175,7 +175,7 @@ No existe una decisión de admisión: el pueblo no examina solicitudes, no eval�
 
 **La pertenencia añade, no sustituye.** La pertenencia al pueblo Earthlings se añade a lo que la persona ya tiene. No exige renunciar a ninguna otra pertenencia y no afecta a los derechos ni a las obligaciones de la persona frente a su Estado.
 
-**Igualdad de los earthlings.** Desde el momento en que una persona ha firmado la Declaración, es igual a cualquier otro earthling. Ni la fecha de la firma, ni la participación en la constitución del pueblo, ni la antigüedad, ni la cuantía de las aportaciones voluntarias, ni los encargos desempeñados crean ventajas, privilegios ni situación especial. Ninguna lengua, ninguna región y ninguna cultura tienen preferencia en el pueblo. La forma de interpretar las divergencias entre los textos de la presente Declaración se establece en el artículo 11 y no crea ventaja alguna para quienes hablan una u otra lengua.
+**Igualdad de los earthlings.** Desde el momento en que una persona ha firmado la Declaración, es igual a cualquier otro earthling. Ni la fecha de la firma, ni la participación en la constitución del pueblo, ni la antigüedad, ni la cuantía de las aportaciones voluntarias, ni los encargos desempeñados crean ventajas, privilegios ni situación especial. Ninguna lengua, ninguna región y ninguna cultura tienen preferencia en el pueblo. La forma de interpretar las discrepancias entre los textos de la presente Declaración se establece en el artículo 11. En ella, el sentido del texto ruso se aplica solo cuando la comparación de los textos no resuelve la discrepancia, y no crea ninguna otra ventaja para quienes hablan una u otra lengua.
 
 En el pueblo Earthlings no existe una clase de fundadores.
 
@@ -187,7 +187,7 @@ En el pueblo Earthlings no existe una clase de fundadores.
 2. la verificación de la identidad se ha obtenido con datos falsos o con la identidad de otra persona;
 3. el pasaporte se ha emitido a quien no ha alcanzado la edad establecida por la Carta.
 
-La anulación no es una expulsión del pueblo: significa solo que la emisión del pasaporte no se produjo de manera legítima. Si el impedimento es subsanable, la persona puede someterse de nuevo a la verificación.
+La anulación no es una expulsión del pueblo: significa solo que la emisión del pasaporte no se produjo de manera legítima. Si el pasaporte se ha emitido a quien no ha alcanzado la edad, la pertenencia todavía no ha nacido, y la anulación no tiene a qué poner fin. Si el impedimento es subsanable, la persona puede someterse de nuevo a la verificación.
 
 **Limitación temporal de la participación en la votación.** La participación en la votación se limita temporalmente solo por actos dolosos probados contra el mecanismo mismo de la votación, es decir, contra el principio «una persona, un voto». No hay ni puede haber otros motivos.
 
@@ -197,13 +197,13 @@ El gobierno del pueblo corresponde a los earthlings, no a las instituciones. Las
 
 Las decisiones las adoptan los earthlings directamente. El conjunto de todos los earthlings - la Asamblea - es la única fuente de las decisiones del pueblo. No existe ni puede crearse una institución situada por encima de la Asamblea o que adopte decisiones en su lugar.
 
-**Límites de las decisiones.** La Asamblea adopta decisiones sobre cuestiones de la vida del pueblo dentro de la finalidad y de las obligaciones establecidas por la parte I. Los principios de la parte I no son objeto de votación. No se someten a votación en absoluto.
+**Límites de las decisiones.** La Asamblea adopta decisiones sobre cuestiones de la vida del pueblo dentro de la finalidad y de las obligaciones establecidas por la parte I. La derogación, la restricción y la suspensión de los principios de la parte I no son objeto de votación y no se someten a votación en absoluto. Modificar las redacciones de la parte I o completarla con un principio nuevo solo es posible en la forma y en las condiciones del artículo 11.
 
 **Orden de examen de las propuestas.** Las propuestas se examinan por igual para todos y no dependen de quién sea el autor, qué encargo desempeñe ni cuánto tiempo lleve participando.
 
-**Apertura.** El debate, la adopción de decisiones y el recuento de los votos están abiertos a verificación. El secreto del voto se aplica allí donde la expresión abierta de la voluntad expone a la persona a un riesgo o crea condiciones para presionarla. El secreto del voto no suprime la verificabilidad del recuento.
+**Apertura.** El debate, las propuestas, las decisiones adoptadas, el recuento de los votos y los actos realizados por encargo están abiertos a verificación. El voto personal es secreto: la votación está organizada de modo que nadie, incluidos quienes operan la infraestructura, pueda saber cómo ha votado una persona concreta, ni cerciorarse de ello aun con su consentimiento. Los votos cedidos que emite el delegado son abiertos. El secreto del voto no suprime la verificabilidad del recuento.
 
-**Delegación en lugar de representación.** En el pueblo Earthlings no existe la representación. Un earthling puede ceder la emisión de su voto a otro earthling para una cuestión o un ámbito determinados. El delegado emite el voto cedido según su propio criterio; la cesión no crea ningún otro derecho.
+**Delegación en lugar de representación.** En el pueblo Earthlings no existe la representación. Un earthling puede ceder la emisión de su voto a otro earthling para una cuestión o un ámbito determinados. El delegado emite el voto cedido según su propio criterio; la cesión no crea ningún otro derecho. La emisión por el delegado de los votos que se le han cedido dentro de los límites establecidos por la Carta no es acumulación del voto: el voto cedido sigue perteneciendo a quien lo ha cedido y vuelve a él con la revocación.
 
 La cesión se realiza solo por voluntad de quien cede, y este la revoca en cualquier momento, sin explicar los motivos y sin el consentimiento del delegado. La cesión no se otorga por un plazo y no crea ni cargo ni órgano. Los delegados no se eligen por votación: cada cual decide por sí mismo a quién ceder su voto.
 
@@ -225,7 +225,7 @@ Los medios técnicos se emplean solo allí donde sin ellos es imposible cumplir 
 
 **Inalienabilidad del derecho a participar.** El derecho a participar corresponde a la persona misma y no puede comprarse, venderse, apropiarse ni cederse de manera irrevocable.
 
-**Verificabilidad de las decisiones.** Cualquiera puede cerciorarse de los resultados de las votaciones, con independencia de su pertenencia al pueblo Earthlings. La fiabilidad se confirma con datos abiertos y no con la confianza en un administrador. La verificación se dispone de modo que no revele ni datos sobre los earthlings ni el contenido de sus votos.
+**Verificabilidad de las decisiones.** Cualquiera puede cerciorarse de los resultados de las votaciones, con independencia de su pertenencia al pueblo Earthlings. La fiabilidad se confirma con datos abiertos y no con la confianza en un administrador. La verificación se dispone de modo que no revele ni datos sobre los earthlings, ni si una persona concreta ha participado en la votación, ni el contenido de su voto; solo son abiertos los votos cedidos que emite el delegado (artículo 9).
 
 **Independencia del pueblo.** La existencia del pueblo Earthlings no depende de ninguna plataforma, organización, proveedor de tecnología ni operador determinados.
 
@@ -234,7 +234,7 @@ Los medios técnicos se emplean solo allí donde sin ellos es imposible cumplir 
 **Límites de la tecnología.** La infraestructura del pueblo Earthlings no puede:
 
 1. vigilar a la persona bajo apariencia de verificación de la identidad;
-2. conservar la posibilidad de saber cómo ha votado una persona concreta;
+2. conservar la posibilidad de saber cómo ha votado una persona concreta ni de cerciorarse de ello, salvo respecto de los votos cedidos que emite el delegado;
 3. crear perfiles de los earthlings ni clasificarlos;
 4. determinar de manera oculta qué información recibe la persona y en qué orden;
 5. recabar datos más allá de lo necesario para el fin expresamente enunciado;
@@ -258,7 +258,7 @@ Ninguno de estos principios puede ser derogado, restringido, suspendido ni eludi
 
 Las redacciones en las que estos principios están expuestos sí pueden modificarse. La modificación de una redacción solo es admisible si se cumplen a la vez dos condiciones: que no derogue ni restrinja ninguno de los principios y que no rebaje ninguna garantía de la persona. En caso de duda sobre si la modificación rebaja una garantía, se considera que la rebaja y no se adopta.
 
-Se puede completar el núcleo con un principio nuevo. Debilitar o suprimir uno existente, no.
+Se puede completar el núcleo con un principio nuevo. Debilitar o suprimir uno existente, no. La decisión de modificar las redacciones de la parte I o de completarla con un principio nuevo se adopta en la forma establecida más abajo para la modificación de la parte II, y solo si se cumplen las condiciones enunciadas más arriba.
 
 Todo intento de eludir el núcleo mediante otro procedimiento, otra redacción u otro mecanismo jurídico constituye su infracción, cualquiera que sea la forma de la elusión. El intento de suprimir, restringir, sustituir o redefinir sus principios significa la creación de otra entidad, que no es el pueblo Earthlings, cualesquiera que sean su nombre, la composición de sus earthlings, su software y la infraestructura que emplee.
 
