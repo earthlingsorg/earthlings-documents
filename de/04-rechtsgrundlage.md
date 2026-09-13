@@ -193,7 +193,7 @@ Das Völkerrecht zu berichtigen ist Sache der Staaten. Das Volk der Earthlings t
 
 **Das Verfahren.** Es gibt eine Weise, in der ein Wille zum gemeinsamen Willen wird: eine Abstimmung, in der ein Mensch eine Stimme hat, in der eine Stimme nicht gekauft, angehäuft oder unwiderruflich übertragen werden kann. Die erste Anwendung dieses Verfahrens wird die Annahme des konstituierenden Textes selbst sein.
 
-**Die Aufzeichnung.** Bestand und Abstimmungsergebnisse stehen jedem Menschen zur Überprüfung offen, ohne Vertrauen in den Betreiber der Infrastruktur.
+**Die Aufzeichnung.** Der Bestand des Volkes und die Abstimmungsergebnisse stehen jedem Menschen zur Überprüfung offen, ohne Vertrauen in den Betreiber der Infrastruktur.
 
 Und all das ohne Ansprüche auf ein Gebiet. Der Konflikt, dessentwegen das Recht dem Auftreten neuer Völker vorsichtig gegenübersteht, entsteht hier nicht: Was man nicht beansprucht, kann man nicht antasten.
 
@@ -261,7 +261,7 @@ Die Fähigkeit, Person zu sein, wurde entzogen, und sie wurde durch Recht entzog
 
 Daraus ein Schluss, der sowohl für ein Volk als auch für einen Menschen gilt: **Das rechtliche Bestehen hat sich als abgeleitet von einer Aufzeichnung erwiesen, die ein anderer führt.** Beim Menschen ist das an der Lage der Staatenlosen zu sehen, beim Volk an der Unterschiebung des Bestands durch die Staatsangehörigkeit.
 
-Die Infrastruktur des Volkes der Earthlings ist so gebaut, dass eine Aufzeichnung ohne den Menschen nicht bestehen kann und der Mensch durch eine fremde Entscheidung nicht aus der Aufzeichnung entfernt werden kann: Die Einmaligkeit eines lebenden Menschen wird nachgewiesen, die Zugehörigkeit endet nur durch seine eigene Entscheidung, das Register bewahrt keine Angaben über Ansichten und Stimmabgaben.
+Die Infrastruktur des Volkes der Earthlings ist so gebaut, dass eine Aufzeichnung ohne den Menschen nicht bestehen kann und der Mensch durch eine fremde Entscheidung nicht aus der Aufzeichnung entfernt werden kann: Die Einmaligkeit eines lebenden Menschen wird nachgewiesen, die Zugehörigkeit endet nur durch seine eigene Entscheidung oder infolge seines Todes, das Register bewahrt keine Angaben über Ansichten und Stimmabgaben.
 
 ## Ebenen, keine Instanzen
 
@@ -507,7 +507,7 @@ Das Volk der Earthlings kann nur dort rechtmäßig handeln, wo es den Staat nich
 
 Die Rechenschaft ist die Voraussetzung der Zulässigkeit der Idee selbst, und sie ist auf fünf Ebenen eingerichtet: die innere demokratische Kontrolle mit dem Recht auf Erörterung, Anfechtung und sofortigen Widerruf einer Übertragung; die technische - öffentliche Überprüfbarkeit der Verfahren und Nachvollziehbarkeit von Regeländerungen; die rechtliche - Handeln im Rahmen des anwendbaren Rechts und Offenheit für äußere Begutachtung; die gesellschaftliche - Zugang von Forschern, Journalisten und Kritikern zu Informationen, die für eine unabhängige Beurteilung ausreichen; die langfristige - eine gesonderte Bewertung der Folgen von Beschlüssen, die künftige Generationen betreffen.
 
-> **Zu den Grenzen der Transparenz.** Die Transparenz erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen. Personenbezogene und biometrische Daten der Teilnehmer sind stets nicht öffentlich; die Willensbekundung eines bestimmten Menschen kann dort verschlossen sein, wo Offenheit ihn einem Risiko aussetzen würde, bei erhaltener Möglichkeit, die Richtigkeit der Auszählung zu überprüfen.
+> **Zu den Grenzen der Transparenz.** Die Transparenz erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen. Personenbezogene und biometrische Daten der Teilnehmer sind stets nicht öffentlich; die persönliche Stimme ist geheim, bei erhaltener Möglichkeit, die Richtigkeit der Auszählung zu überprüfen; offen sind die übertragenen Stimmen, die ein Delegierter abgibt.
 
 Eine Initiative kann nur bei einrichtungsmäßiger Bescheidenheit auf Ernsthaftigkeit Anspruch erheben: die Ansprüche nicht um jeden Preis auszuweiten, sondern sie im Voraus zu begrenzen. Daher das offene Eingeständnis der Grenzen: Die Vertretung betrifft nur freiwillige Teilnehmer; ein Monopol auf die Bekundung planetarer Interessen wird nicht beansprucht; die Legitimität bestätigt sich durch wachsende Teilnahme und äußere Überprüfbarkeit und nicht durch eine Selbstbezeichnung; das Motiv ist offen erklärt - Fiktionen verbirgt man, und ein auf der ersten Seite angekündigter Anspruch kann keine Fiktion sein.
 
@@ -519,7 +519,7 @@ Eine Initiative kann nur bei einrichtungsmäßiger Bescheidenheit auf Ernsthafti
 
 Im Völkerrecht haben dieselben Handlungen je nach der Eigenschaft, in der sie vorgenommen werden, verschiedene Bedeutung: In der Lehre vom historischen Titel zählen nur Akte à titre de souverain, „als Souverän“, während dieselben Handlungen in privater Eigenschaft nichts begründen.
 
-Deshalb ist ein offen erhobener Anspruch keine Rhetorik, sondern ein rechtlicher Bestimmungsfaktor der angesammelten Praxis: Eine Selbstverwaltung, die in der Eigenschaft eines Volkes ausgeübt und aufgezeichnet wird, reift zu Beweisen des Volksseins heran, während dieselben Jahre ohne erklärte Eigenschaft nur zu einer reifen Vereinigung heranreiften. Daher auch die Anforderungen an die Praxis - Offenheit, Folgerichtigkeit, Aufzeichnung: Register, öffentliche Abstimmungen und konstituierende Akte sind Hervorbringung von Beweisen und keine Auslage.
+Deshalb ist ein offen erhobener Anspruch keine Rhetorik, sondern ein rechtlicher Bestimmungsfaktor der angesammelten Praxis: Eine Selbstverwaltung, die in der Eigenschaft eines Volkes ausgeübt und aufgezeichnet wird, reift zu Beweisen des Volksseins heran, während dieselben Jahre ohne erklärte Eigenschaft nur zu einer reifen Vereinigung heranreiften. Daher auch die Anforderungen an die Praxis - Offenheit, Folgerichtigkeit, Aufzeichnung: Register, überprüfbare Abstimmungen und konstituierende Akte sind Hervorbringung von Beweisen und keine Auslage.
 
 ## Verteilte Feststellung statt einer einzigen Prüfung
 
@@ -537,7 +537,7 @@ Die Erreichbarkeit des Endpunkts ist in starker Form bestätigt: Die Pflicht der
 
 Vom Bau her ist vorgesehen, dass die gesamte Praxis der Selbstverwaltung - Abstimmungen mit Angabe von Datum, Frage, Beteiligung, Ergebnis und Ausführung, Bewegungen der Mittel der Schatzkammer, Beitritte in das Volk, die Arbeit der Zellen - in einer öffentlichen Chronik festgehalten wird, die sich nachträglich nicht ändern lässt. Die Chronik beginnt früher, als sich das Volk bildet: Ihre erste Eintragung werden die Vorschläge zum konstituierenden Text, die Antworten darauf und das Ergebnis der Abstimmung über seine Annahme sein. Kein Volk der Geschichte verfügt über eine aufgezeichnete Wiedergabe seines Lebens vom ersten Tag an, da es nichts gab, womit man sie hätte führen können.
 
-Die Voraussetzungen der Legitimierung sind dabei unmittelbar benannt: Zahl und geografische Verteilung über einen örtlichen Kreis hinaus; wirkliche Teilnahme und nicht nur Unterschriften; die Güte der Verfahren - eine ehrliche Identitätsprüfung, eine durchsichtige Abstimmung, ein Schutz vor der Übernahme der Verwaltung; öffentliche Rechenschaft über Regeln, Finanzen, Bestand und Verwaltungspraxis.
+Die Voraussetzungen der Legitimierung sind dabei unmittelbar benannt: Zahl und geografische Verteilung über einen örtlichen Kreis hinaus; wirkliche Teilnahme und nicht nur Unterschriften; die Güte der Verfahren - eine ehrliche Identitätsprüfung, eine geheime Abstimmung mit überprüfbarer Auszählung, ein Schutz vor der Übernahme der Verwaltung; öffentliche Rechenschaft über Regeln, Finanzen, Bestand und Verwaltungspraxis.
 
 Keine zahlenmäßige Kennzahl schafft für sich genommen einen völkerrechtlichen Status. Für eine redliche Beurteilung der Entwicklung lassen sich vier Stufen unterscheiden.
 

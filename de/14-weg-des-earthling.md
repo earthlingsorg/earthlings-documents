@@ -10,7 +10,7 @@
 
 **Alter** - das Erreichen des Alters von 18 Jahren.
 
-**Zustimmung** - die Annahme der Erklärung der Earthlings.
+**Zustimmung** - die Unterzeichnung der Erklärung der Earthlings.
 
 **Identitätsprüfung** - die Prüfung, dass Sie ein lebender Mensch sind und dass Sie einer sind.
 
@@ -32,7 +32,7 @@ Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Gesc
 
 **4. Unterzeichnung der Erklärung.** Die Bestätigung der Zustimmung zu den Grundsätzen des Volkes. Eben dieser Akt begründet die Zugehörigkeit.
 
-**5. Zahlung des Beitrags.** In Kryptowährung (ETH, USDT, USDC). Die Zahlung mit Bankkarte ist in Arbeit. Wenn kein Geld da ist, steht hier die zweite Schaltfläche - „ich brauche den Beitrag“; sie fragt nichts und führt in die offene Warteschlange (Abschnitt 9).
+**5. Zahlung des Beitrags.** In Kryptowährung (ETH, USDT, USDC). Die Zahlung mit Bankkarte ist in Arbeit. Wenn kein Geld da ist, wird hier bei kostenpflichtigem Eintritt die zweite Schaltfläche stehen - „ich brauche den Beitrag“; sie wird nichts fragen und in die offene Warteschlange führen (Abschnitt 9).
 
 **6. Erhalt des Passes.** Der unübertragbare digitale Pass wird selbsttätig an Ihre Adresse ausgegeben und bestätigt den Status als Teilnehmer.
 
@@ -121,7 +121,7 @@ Näheres dazu, was mit dem Pass und den Daten geschieht: [Der SBT-Pass eines Ear
 
 Eine Befreiung vom Beitrag gibt es nicht. Es gibt etwas anderes: Den Beitrag für Sie kann jemand anderes entrichten, doch eine Gewähr dafür gibt es nicht.
 
-**Wie das für Sie aussieht.** Beim Schritt der Zahlung steht neben der Schaltfläche „bezahlen“ eine zweite - „ich brauche den Beitrag“. Sie fragt weder nach dem Land noch nach dem Einkommen noch nach dem Grund: Sie müssen nichts nachweisen und nichts über sich erzählen. Ein Druck - und Sie stehen in der offenen Warteschlange.
+**Wie das für Sie aussieht.** Bei kostenpflichtigem Eintritt wird beim Schritt der Zahlung neben der Schaltfläche „bezahlen“ eine zweite stehen - „ich brauche den Beitrag“. Sie wird weder nach dem Land noch nach dem Einkommen noch nach dem Grund fragen: Sie müssen nichts nachweisen und nichts über sich erzählen. Ein Druck - und Sie stehen in der offenen Warteschlange.
 
 In der Warteschlange sind nur die Nummer und das Datum sichtbar. Kein Name, kein Land, kein Grund. Die Warteschlange darf nicht zur Auslage der Bedürftigen werden.
 

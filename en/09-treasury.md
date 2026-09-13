@@ -180,7 +180,7 @@ Earthlings may voluntarily transfer their vote in a particular area to another p
 - **one active delegation per area**;
 - **revocation at any time** - in one step, without giving reasons and without the consent of the person the vote was given to;
 - **any earthling may be a delegate** - reputation neither opens nor closes access to this possibility;
-- all votes cast by a delegate are public.
+- transferred votes cast by a delegate are public; who transferred a vote to a delegate is not published.
 
 **Delegation does not apply** in votes on amending the Charter and the basic Treasury rules, on funding above 100,000 EC, on forming the Emergency Multisig, on restricting powers, on annulling the issuance of a passport, and on changing the unamendable principles.
 
@@ -208,7 +208,7 @@ No other grounds for excluding a vote exist: an earthling's vote is not excluded
 
 **Declaration of connections.** When submitting an application, the initiator is obliged to name all participants connected with the project. This information is published together with the application.
 
-**Openness.** Votes on the allocation of funds are open as a general rule: everyone sees how others voted. This creates a mechanism of mutual control where common money is at stake.
+**Openness.** In votes on the allocation of funds, the applications, the discussion, the outcome, and the movement of funds are open; a personal vote is secret, as in all votes (Charter, Article 6). Mutual control where common money is at stake rests on the openness of applications, outcomes, and spending, not on the visibility of other people's votes.
 
 ## Article 17. Submitting and considering projects
 
@@ -274,7 +274,7 @@ A multisignature wallet of six participants for urgent technical operations in c
 
 **Control:**
 
-- a 24-hour timelock on all transactions except responses to an active attack;
+- a 24-hour timelock on all transactions except responses to an active attack and the suspension of vulnerable smart contracts in the event of a critical vulnerability;
 - all actions are publicly visible in real time;
 - a mandatory public report within 48 hours;
 - **the DAO may reverse any action by a simple majority**;

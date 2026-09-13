@@ -20,7 +20,7 @@ Where this diverges from the Declaration, the Declaration prevails.
 
 **The starting position to which all the answers converge:**
 
-**First.** Both norms we rely on are in force today and binding on states: freedom of association and the right of peoples to self-determination. Neither is invented.
+**First.** Both norms we rely on are in force today: freedom of association and the right of peoples to self-determination. The treaties in which they are enshrined are binding on the states parties to them. Neither is invented.
 
 **Second.** Their application to a voluntarily founded non-territorial people has not been settled by international law. We acknowledge this openly.
 
@@ -104,11 +104,11 @@ Belonging is constituted by a free act - signing the Declaration. The contributi
 
 Entry into any people by legal act is arranged in exactly this way: naturalization in every country carries a state fee of several hundred dollars or the equivalent, and citizens by birth pay for their passports in every country in the world. A fee pays for the procedure; it does not buy belonging.
 
-There is one difference from naturalization law, and it is in our favour. There, a person without means is exempted from the fee - that is, they are obliged to declare their poverty and prove it to a body that is entitled not to believe them. With us there is no exemption at all: the contribution is always paid in full, and only the payer differs. Whoever cannot pay joins, by a single action, an open queue in which only the number and the date are visible, and the contribution for them is made by another person or by the Treasury. No one declares anything about themselves, no one proves anything, and no body decides whether a person is poor enough.
+There is one difference from naturalization law, and it is in our favour. There, a person without means is exempted from the fee - that is, they are obliged to declare their poverty and prove it to a body that is entitled not to believe them. With us there is no exemption at all: the contribution is always paid in full, and only the payer differs. Whoever cannot pay joins, by a single action, an open queue in which only the number and the date are visible, and the contribution for them may be made by another person or by the Treasury; there is no guarantee that it will be. No one declares anything about themselves, no one proves anything, and no body decides whether a person is poor enough.
 
 Anyone may pay for the queue, but no one may choose whom to pay for: payment always goes to the head of the queue. Otherwise a patron would appear, and dependence behind them. The payer does not know whom they paid for; the person paid for does not know who paid; the registry does not record by whom the contribution was made, and the passport is indistinguishable from any other. This matters more than it sounds: exemption on application always creates two categories of participant - those who paid and those who were pitied. Here there is one category.
 
-What we do not promise: instant entry. A person in the queue waits until a payer is found. Money makes entry slower, but does not close it for good - and in this we see an honest boundary of the possible, not a solution to poverty.
+What we do not promise: that a payer will be found. A person in the queue waits for the passport to be issued, and there is no way to know in advance how long: payment for them is possible but not guaranteed - and in this we see an honest boundary of the possible, not a solution to poverty. Belonging does not depend on this: it arises by signing the Declaration, not by the contribution.
 
 Free exit does not weaken the durability of the community - it is the only thing that makes the proof of that durability clean. In a people by birth, staying proves nothing: exit is unavailable or ruinous. Here every day of continued belonging is a renewed choice at zero cost of leaving. No traditional people can present such a measure of durability.
 
@@ -194,7 +194,7 @@ Expressly rejected: Earthlings builds a discipline of responsibility, not a pyra
 
 What is established is a right to be heard in the discussion, not power in the decision. The competences of states are not abolished.
 
-The support is the doctrine of the common heritage of mankind, already enshrined in law for the seabed (Article 136 of the UN Convention on the Law of the Sea) and for the Moon (Article 11 of the 1979 Agreement): it admits an interest of humanity as a whole, but vests no one with power over those spheres.
+The support is the doctrine of the common heritage of mankind, already enshrined in law for the seabed (Article 136 of the UN Convention on the Law of the Sea) and for the Moon (Article 11 of the 1979 Agreement): it admits an interest of humanity as a whole, but creates no bearer made up of human beings themselves: in the Area, the Authority, whose members are the States Parties to the Convention, acts on behalf of mankind (Articles 137(2) and 156).
 
 ### If everyone joins, you will coincide with humanity - and humanity, by your own admission, has no legal voice. Success will dissolve your peoplehood.
 

@@ -116,7 +116,7 @@ Everything described above is the target design, not a state that has been reach
 
 This question is asked more often than any other, so the answer is stated plainly and in full.
 
-**Today there is no trading**, and none is contemplated for the foreseeable future: the unit serves internal turnover.
+**Today there is no trading**, and none is contemplated for the foreseeable future: the unit has not been issued and does not circulate (section 8).
 
 **In the future exchange availability is possible**, if the ecosystem grows and it is warranted - but it is **not promised, not guaranteed, and not an aim of the design**. The decision to list is taken by independent venues and regulators, not by the Earthlings people.
 

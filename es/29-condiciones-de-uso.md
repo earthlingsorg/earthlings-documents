@@ -224,7 +224,7 @@ Todo lo sustancial: la modificación de la Carta y de las reglas; la distribuci�
 
 ## Situaciones especiales
 
-Ante vulnerabilidades críticas y ataques, el Emergency Multisig puede actuar de inmediato dentro de los límites del artículo 3 de la Carta, con informe público en el plazo de 48 horas y confirmación de la Asamblea en el plazo de 7 días; de lo contrario el acto queda anulado. Cualquier acto puede ser anulado por la Asamblea por mayoría simple.
+Ante ataques críticos, el Emergency Multisig puede actuar de inmediato, y ante vulnerabilidades críticas, suspender de inmediato los contratos inteligentes vulnerables; sus demás actos requieren el bloqueo temporal de 24 horas (Carta, artículo 3), con informe público en el plazo de 48 horas y confirmación de la Asamblea en el plazo de 7 días; de lo contrario el acto queda anulado. Cualquier acto puede ser anulado por la Asamblea por mayoría simple.
 
 El abuso conlleva la revocación por mayoría simple en cualquier momento.
 

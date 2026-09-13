@@ -25,7 +25,7 @@ El pueblo Earthlings se apoya en dos normas vigentes de derecho internacional:
 - **la libertad de asociación**: artículo 20 de la Declaración Universal de Derechos Humanos, artículo 22 del Pacto Internacional de Derechos Civiles y Políticos, artículo 11 del Convenio Europeo de Derechos Humanos;
 - **el derecho de libre determinación de los pueblos**: artículo 1.2 de la Carta de las Naciones Unidas, artículo 1 común de los Pactos de 1966.
 
-Ambas normas están vigentes y obligan a los Estados.
+Ambas normas están vigentes, y los tratados que las consagran son obligatorios para los Estados partes.
 
 > **Qué no está resuelto con ello.** La libertad de asociación protege el acto constitutivo: las personas pueden asociarse y declarar qué consideran ser. No atribuye al resultado una condición. Si una comunidad no territorial constituida voluntariamente es un pueblo en el sentido del derecho internacional es una cuestión que el derecho no ha resuelto, y no la presentamos como resuelta. Las objeciones contra nuestra posición están expuestas en nuestros propios documentos con toda su fuerza y sin suavizar: [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), [Objeciones y respuestas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html).
 

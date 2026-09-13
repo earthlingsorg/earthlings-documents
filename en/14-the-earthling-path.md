@@ -10,7 +10,7 @@
 
 **Age** - 18 years or over.
 
-**Consent** - acceptance of the Earthlings Declaration.
+**Consent** - signing the Earthlings Declaration.
 
 **Identity verification** - confirmation that you are a living human being and that there is only one of you.
 
@@ -32,7 +32,7 @@ No other conditions exist. Nationality, race, religion, sex, social position, ci
 
 **4. Signing the Declaration.** Confirmation of agreement with the people's principles. It is this act that creates belonging.
 
-**5. Paying the contribution.** By cryptocurrency (ETH, USDT, USDC). Payment by bank card is in development. If you have no money, there is a second button in the same place - "I need the contribution"; it asks nothing and leads to the open queue (section 9).
+**5. Paying the contribution.** By cryptocurrency (ETH, USDT, USDC). Payment by bank card is in development. If you have no money, once entry requires payment there will be a second button in the same place - "I need the contribution"; it will ask nothing and will lead to the open queue (section 9).
 
 **6. Receiving the passport.** A non-transferable digital passport is issued automatically to your address and confirms your status as a participant.
 
@@ -121,7 +121,7 @@ More on what happens to the passport and to your data: [The earthling SBT passpo
 
 There is no exemption from the contribution. There is something else: the contribution for you may be made by someone else, but there is no guarantee that it will be.
 
-**What this looks like for you.** At the payment step, next to the "pay" button, there is a second one - "I need the contribution". It asks neither your country, nor your income, nor your reason: you do not have to prove anything or say anything about yourself. One press, and you are in the open queue.
+**What this looks like for you.** Once entry requires payment, at the payment step, next to the "pay" button, there will be a second one - "I need the contribution". It will ask neither your country, nor your income, nor your reason: you do not have to prove anything or say anything about yourself. One press, and you are in the open queue.
 
 Only a number and a date are visible in the queue. No name, no country, no reason. The queue must not become a shop window of the needy.
 

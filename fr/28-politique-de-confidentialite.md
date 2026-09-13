@@ -38,7 +38,7 @@ La plupart des plateformes considèrent les données personnelles comme une marc
 
 **Quoi:** un pseudonyme de votre choix, une adresse électronique, le pays de résidence, la confirmation d'avoir 18 ans.
 
-**Pourquoi:** le pseudonyme est votre nom public dans le passeport et sur la plateforme; l'adresse électronique sert à confirmer l'inscription et à vous joindre; le pays sert aux statistiques de répartition géographique; l'âge est une condition obligatoire de participation.
+**Pourquoi:** le pseudonyme est le nom sous lequel les autres participants vous voient sur la plateforme et qui figure dans votre passeport; il n'apparaît ni dans la vérification publique du passeport ni dans le registre; l'adresse électronique sert à confirmer l'inscription et à vous joindre; le pays sert aux statistiques de répartition géographique; l'âge est une condition obligatoire de participation.
 
 Les nom et prénom réels **ne sont pas conservés**.
 
@@ -66,7 +66,7 @@ Le détail figure dans la [Politique de vérification biométrique](https://eart
 
 **Pourquoi:** amélioration du fonctionnement de la plateforme et diagnostic technique.
 
-> **Ce qui n'y figure pas et n'y figurera pas.** Le contenu de votre vote, dans les votes secrets, n'est pas enregistré, n'est pas relié à votre compte et n'est accessible à personne, y compris à ceux qui exploitent la plateforme. Les votes ouverts sont publics par nature, et leur résultat est visible de tous: c'est une propriété du vote lui-même et non de l'analyse d'usage.
+> **Ce qui n'y figure pas et n'y figurera pas.** Le contenu de votre vote ne doit être accessible à personne, y compris à ceux qui exploitent la plateforme, et aucune publication ne fait connaître si vous avez participé à un vote. Sont publics le résultat du vote et les votes exprimés par le délégué au titre des voix qui lui ont été confiées: c'est une propriété du vote lui-même et non de l'analyse d'usage. L'outil qui assurera cela techniquement est encore en cours de sélection, et nous disons sans détour ce qu'il en est aujourd'hui: dans le canal de vote ouvert qui est déployé, le vote et l'adresse du portefeuille sont publics, et aucun vote de fond ne s'y est tenu; la plateforme conserve les votes exprimés dans les cellules en les reliant au compte, montre aux autres participants de la cellule le résultat ainsi que les objections avec leurs arguments, et ceux qui exploitent la plateforme disposent d'un accès technique aux votes conservés.
 >
 > Les données d'usage sont employées sous forme agrégée. Ce sont des données agrégées et non anonymisées: tant qu'un enregistrement est relié à un compte, il demeure une donnée personnelle.
 
@@ -133,7 +133,7 @@ Par défaut, les données restent dans l'infrastructure du peuple. Les exception
 
 **Les exigences légales.** Les données ne sont transmises qu'en vertu d'une décision de justice devenue définitive ou d'une exigence légale équivalente, dont la légitimité est vérifiée dans chaque cas. Le participant est informé des demandes auxquelles il a été fait droit, sauf si la décision elle-même l'interdit; un relevé est publié dans le rapport de transparence.
 
-**Les données publiques des décisions.** Une partie des données est publique par nature de l'autogouvernement: propositions, résultats des votes, mouvements des fonds communs. Le contenu du vote, dans les votes secrets, ne relève pas de cette catégorie.
+**Les données publiques des décisions.** Une partie des données est publique par nature de l'autogouvernement: propositions, résultats des votes, mouvements des fonds communs. Le contenu du vote personnel et la participation d'une personne déterminée au vote ne relèvent pas de cette catégorie; sont publics les votes exprimés par le délégué au titre des voix qui lui ont été confiées.
 
 ---
 

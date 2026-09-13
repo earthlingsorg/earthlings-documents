@@ -145,7 +145,7 @@ Published no less than once every 90 days and including: total receipts by sourc
 | Passports | working |
 | Digital platform | working |
 | System of Cells | working |
-| Voting mechanism | deployed, no substantive votes held |
+| Voting mechanism | open voting channel deployed, no substantive votes held; a tool for secret voting is being chosen |
 | Treasury | the Safe wallet is deployed, the signature threshold is one; the move to six signatories is planned; the smart contracts are not deployed |
 | Core Nodes and Emergency Multisig | not elected |
 | Independent Council | not formed |

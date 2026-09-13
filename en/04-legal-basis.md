@@ -193,7 +193,7 @@ Correcting international law is the business of states. The Earthlings people do
 
 **Procedure.** There is a way in which a will becomes a common will: a vote on the principle of one person, one vote, in which a vote cannot be bought, accumulated, or irrevocably transferred. The first application of this procedure will be the adoption of the founding text itself.
 
-**Record.** Any person can verify the results of votes and who makes up the people, without having to trust the operator of the infrastructure.
+**Record.** Any person can verify who makes up the people and the results of votes, without having to trust the operator of the infrastructure.
 
 And all of this without any claim to territory. The conflict that makes the law cautious about the emergence of new peoples does not arise here: one cannot encroach on what one does not claim.
 
@@ -261,7 +261,7 @@ The capacity to be a person has been taken away, and taken away by law: slavery,
 
 Hence a conclusion that applies both to a people and to a person: **legal existence has turned out to be derived from a record kept by someone else.** In the case of a person this is visible in the position of the stateless; in the case of a people, in citizenship standing in for the answer to who makes it up.
 
-The infrastructure of the Earthlings people is built so that the record cannot exist without the person, and the person cannot be removed from the record by someone else's decision: the uniqueness of a living human being is confirmed, belonging ends only by their own decision, and the registry holds no data about views or voting.
+The infrastructure of the Earthlings people is built so that the record cannot exist without the person, and the person cannot be removed from the record by someone else's decision: the uniqueness of a living human being is confirmed, belonging ends only by their own decision or on their death, and the registry holds no data about views or voting.
 
 ## Levels, not a hierarchy
 
@@ -507,7 +507,7 @@ The Earthlings people can act legitimately only where it does not stand in for a
 
 Accountability is a condition for the idea to be permissible at all, and it has five levels: internal democratic control, with a right to discuss, to challenge, and to revoke a delegation immediately; technological - public verifiability of procedures and traceability of changes to the rules; legal - acting within applicable law and being open to external expert review; public - access for researchers, journalists, and critics to information sufficient for an independent assessment; long-term - a separate assessment of the consequences of decisions affecting future generations.
 
-> **On the limits of transparency.** Transparency extends to the acts of institutions, not to the personal data of people. Personal and biometric data of participants are never public; how a particular person voted may be kept confidential where openness would put them at risk, while preserving the ability to verify that the count is correct.
+> **On the limits of transparency.** Transparency extends to the acts of institutions, not to the personal data of people. Personal and biometric data of participants are never public; a personal vote is secret, while the ability to verify that the count is correct is preserved; transferred votes cast by a delegate are open.
 
 An initiative can claim to be taken seriously only if it shows institutional modesty: not expanding its claims at any cost, but limiting them in advance. Hence the open acknowledgement of limits: representation concerns only voluntary participants; no monopoly on expressing planetary interests is asserted; legitimacy is confirmed by growth in participation and by external verifiability, not by self-designation; the motive is declared openly - it is fictions that are concealed, and a claim announced on the first page cannot be a fiction.
 
@@ -519,7 +519,7 @@ An initiative can claim to be taken seriously only if it shows institutional mod
 
 In international law the same acts carry different meanings depending on the capacity in which they are performed: in the doctrine of historic title only acts à titre de souverain, "in the capacity of a sovereign", are counted, while the same acts performed in a private capacity create nothing.
 
-An openly declared claim is therefore not rhetoric but what legally characterizes the practice being accumulated: self-government exercised and documented in the capacity of a people matures into evidence of peoplehood, whereas the same years of practice without a declared capacity would mature only into a well-established association. Hence the requirements placed on the practice - openness, consistency, documentation: the registry, the public votes, and the founding acts are a means of producing evidence, not a showcase.
+An openly declared claim is therefore not rhetoric but what legally characterizes the practice being accumulated: self-government exercised and documented in the capacity of a people matures into evidence of peoplehood, whereas the same years of practice without a declared capacity would mature only into a well-established association. Hence the requirements placed on the practice - openness, consistency, documentation: the registry, the verifiable votes, and the founding acts are a means of producing evidence, not a showcase.
 
 ## Distributed ascertainment instead of a single examination
 
@@ -537,7 +537,7 @@ That the end point is attainable is strongly confirmed: the duty of states to co
 
 The design provides that the whole practice of self-government - votes with the date, question, turnout, result, and implementation recorded, movements of treasury funds, entries into the people, the work of Cells - is entered in a public chronicle that cannot be altered after the fact. The chronicle begins before the people takes shape: its first entry consists of the proposals on the founding text, the replies to them, and the result of the vote on its adoption. No people in history has a documented record of its life from its first day, because there was nothing to keep one with.
 
-The conditions of legitimation are stated expressly: numbers and geographical spread beyond a local group; real participation, not signatures alone; the quality of procedures - honest identity verification, transparent voting, protection against the capture of governance; public accountability for rules, finances and the practice of governance, and for who makes up the people.
+The conditions of legitimation are stated expressly: numbers and geographical spread beyond a local group; real participation, not signatures alone; the quality of procedures - honest identity verification, a secret ballot with a verifiable count, protection against the capture of governance; public accountability for rules, finances and the practice of governance, and for who makes up the people.
 
 No quantitative indicator by itself creates a status in international law. For an honest assessment of development, four stages can be distinguished.
 

@@ -26,7 +26,7 @@ Non. La cotisation est unique: après réception du passeport, il n'existe ni pa
 
 ### Et si je ne peux pas payer?
 
-Alors quelqu'un d'autre versera la cotisation pour vous. À l'étape du paiement, un second bouton se trouve - « j'ai besoin d'une cotisation »: il ne pose aucune question et vous place dans une file d'attente ouverte, où seuls le numéro et la date sont visibles. N'importe qui peut payer pour la file, mais nul ne peut choisir qui exactement: c'est toujours la tête de file qui est payée. Vous recevrez un passeport exactement identique à celui de tous: le registre n'inscrit pas qui a payé. Il faudra attendre, mais l'argent ne fermera pas l'entrée définitivement. Le détail figure dans le document [Le chemin de l'earthling](https://earth-lings.org/documents/fr/fr14-chemin-de-l-earthling.html).
+Alors vous pouvez entrer dans une file d'attente ouverte, et la cotisation peut être versée pour vous par quelqu'un d'autre; rien ne le garantit. Lorsque l'entrée sera payante, un second bouton se trouvera à l'étape du paiement - « j'ai besoin d'une cotisation »: il ne posera aucune question et vous placera dans la file d'attente ouverte, où seuls le numéro et la date sont visibles. N'importe qui peut payer pour la file, mais nul ne peut choisir qui exactement: c'est toujours la tête de file qui est payée. Si la cotisation est versée pour vous, le passeport sera exactement identique à celui de tous: le registre n'inscrit pas qui a payé. Il faudra attendre l'émission du passeport, sans savoir à l'avance combien de temps. L'appartenance au peuple n'en dépend pas: elle naît de la signature de la Déclaration, et non de la cotisation. Le détail figure dans le document [Le chemin de l'earthling](https://earth-lings.org/documents/fr/fr14-chemin-de-l-earthling.html).
 
 → [Le chemin de l'earthling](https://earth-lings.org/documents/fr/fr14-chemin-de-l-earthling.html)
 
@@ -136,7 +136,7 @@ Le pouvoir des uns sur les autres n'existe pas: nul n'est placé au-dessus d'une
 
 La voix ne s'achète pas et ne dépend pas de l'argent: c'est une règle intangible. La chaîne de blocs est employée là où il faut une inscription qu'on ne puisse pas falsifier: passeports, votes, trésor.
 
-L'unité de compte n'est aujourd'hui cotée nulle part et ne sert que la circulation interne. Une disponibilité sur des places de marché est possible à l'avenir, mais elle n'est ni promise ni un but, et personne ne promet de hausse de valeur, quelle que soit l'évolution des choses.
+Aujourd'hui, l'unité de compte n'est pas émise et n'est cotée nulle part: l'économie de participation est tenue dans une comptabilité interne. Une disponibilité sur des places de marché est possible à l'avenir, mais elle n'est ni promise ni un but, et personne ne promet de hausse de valeur, quelle que soit l'évolution des choses.
 
 → [Earthlings Coin](https://earth-lings.org/documents/fr/fr10-earthlings-coin.html)
 

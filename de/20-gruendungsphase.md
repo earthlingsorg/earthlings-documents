@@ -122,7 +122,7 @@ Es gibt zwei Wege, und sie sind nicht dasselbe.
 
 **An der Annahme des Textes teilnehmen.** Dafür ist die Identität vor dem Tag der Annahme prüfen zu lassen: Es stimmen diejenigen ab, für die nachgewiesen ist, dass sie ein lebender Mensch sind. Die Prüfung erfolgt kostenlos und ist kein Beitritt in das Volk - sie verleiht einen vorläufigen Status als Teilnehmer der Konstituierung und das Stimmrecht am Tag der Annahme.
 
-**Zur Geldbörse.** Für den Erhalt des vorläufigen Dokuments wird eine Krypto-Geldbörse benötigt, an die es gebunden wird - das ist nötig, damit die Abstimmung durchsichtig und einem bestimmten Teilnehmer zugeordnet bleibt. Wenn Sie keine Geldbörse haben und nicht wissen, wie man eine anlegt: Im Formular der Identitätsprüfung steht Web3Auth - es legt eine Geldbörse selbsttätig an, über die Anmeldung per E-Mail, Google oder Apple, ohne Seed-Phrase.
+**Zur Geldbörse.** Für den Erhalt des vorläufigen Dokuments wird eine Krypto-Geldbörse benötigt, an die es gebunden wird - das ist nötig, damit nur ein geprüfter Teilnehmer eine Stimme abgeben kann, und zwar nur einmal; wie ein bestimmter Teilnehmer abgestimmt hat, wird dabei niemand erfahren: Die Abstimmung über die Annahme ist geheim. Wenn Sie keine Geldbörse haben und nicht wissen, wie man eine anlegt: Im Formular der Identitätsprüfung steht Web3Auth - es legt eine Geldbörse selbsttätig an, über die Anmeldung per E-Mail, Google oder Apple, ohne Seed-Phrase.
 
 **In welcher Sprache.** In jeder der neun, in denen der Bestand besteht: Englisch, Russisch, Deutsch, Spanisch, Französisch, Chinesisch, Arabisch, Hindi und Georgisch. Den eigenen Vorschlag selbst zu übersetzen ist nicht nötig, und wegen der Sprache wird ein Vorschlag nicht abgelehnt.
 
@@ -223,7 +223,7 @@ Die Identitätsprüfung erfolgt kostenlos und dauert die ganze Phase hindurch an
 
 ## 6. Die Annahme des Textes
 
-Der Text wird am 17. Februar 2027 durch Abstimmung angenommen. Es stimmen die Menschen ab, die ihre Identität haben prüfen lassen, nach dem Grundsatz „ein Mensch - eine Stimme“.
+Der Text wird am 17. Februar 2027 durch Abstimmung angenommen. Es stimmen die Menschen ab, die ihre Identität haben prüfen lassen, nach dem Grundsatz „ein Mensch - eine Stimme“. Die Abstimmung ist geheim: Niemand, auch nicht diejenigen, die die Infrastruktur betreiben, kann erfahren, wie ein bestimmter Teilnehmer abgestimmt hat, oder sich davon überzeugen, selbst mit dessen Zustimmung nicht; das Ergebnis lässt sich dabei jedem nachweisen. Wie die Abstimmung abläuft, wird am 3. Februar 2027 zusammen mit den endgültigen Fassungen bekanntgegeben.
 
 Die Abstimmung wird über zwei Texte zugleich geführt - den russischen und den englischen. Beide werden als authentisch angenommen (Erklärung, Artikel 11), deshalb muss der englische Text spätestens am Tag der Veröffentlichung der Übersicht, dem 3. Februar 2027, fertig und veröffentlicht sein: Abstimmen kann man nur über das, was sich vorher lesen lässt.
 

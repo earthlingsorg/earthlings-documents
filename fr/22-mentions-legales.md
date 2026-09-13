@@ -25,7 +25,7 @@ Le peuple des Earthlings s'appuie sur deux normes en vigueur du droit internatio
 - **la liberté d'association** - article 20 de la Déclaration universelle des droits de l'homme, article 22 du Pacte international relatif aux droits civils et politiques, article 11 de la Convention européenne de sauvegarde des droits de l'homme;
 - **le droit des peuples à disposer d'eux-mêmes** - article 1(2) de la Charte des Nations Unies, article premier commun aux Pactes de 1966.
 
-Les deux normes sont en vigueur et s'imposent aux États.
+Les deux normes sont en vigueur, et les traités qui les consacrent lient les États qui y sont parties.
 
 > **Ce qui n'est pas tranché pour autant.** La liberté d'association protège l'acte constitutif: des gens ont le droit de s'associer et de déclarer ce qu'ils estiment être. Elle n'attribue pas de statut au résultat. Savoir si une communauté non territoriale volontairement constituée est un peuple au sens du droit international est une question que le droit n'a pas tranchée, et nous ne la faisons pas passer pour tranchée. Les objections à notre position sont exposées dans nos propres documents dans toute leur force et sans adoucissement: [Base juridique](https://earth-lings.org/documents/fr/fr04-base-juridique.html), [Objections et réponses](https://earth-lings.org/documents/fr/fr26-objections-et-reponses.html).
 

@@ -47,7 +47,7 @@ Die einzige Ausnahme sind nachgewiesene Handlungen, die auf die Untergrabung der
 
 ### Vermerke über die Teilnahme
 
-Die Geschichte der Teilnahme und des Beitrags wird öffentlich festgehalten: Abstimmungen, abgeschlossene Projekte, die Arbeit in Zellen.
+Die Geschichte der Teilnahme und des Beitrags wird öffentlich festgehalten: abgeschlossene Projekte, die Arbeit in Zellen. Die Teilnahme an Abstimmungen wird nicht veröffentlicht: Die persönliche Stimme ist geheim (Charta, Artikel 6).
 
 > **Diese Vermerke wirken sich auf nichts aus** und haben ausschließlich Auskunftscharakter: [Charta, Artikel 8](https://earth-lings.org/documents/de/de05-charta.html).
 
@@ -85,7 +85,7 @@ Die Geschichte der Teilnahme und des Beitrags wird öffentlich festgehalten: Abs
 
 ### Die Speicherung der Daten
 
-- **im Register:** Kennung, Pseudonym, Hash der Prüfung. Personenbezogene Daten werden nicht in das Register eingetragen;
+- **im Register:** Kennung und Hash der Prüfung; das Pseudonym wird nicht in das Register eingetragen. Personenbezogene Daten werden nicht in das Register eingetragen;
 - **außerhalb des Registers:** die personenbezogenen Daten des Kontos, verschlüsselt und in möglichst geringem Umfang;
 - **Biometrie:** wird nicht gespeichert. Gespeichert werden nur nicht umkehrbare kryptografische Hashes, und nur dafür, dass ein Mensch nicht zwei gültige Pässe haben kann;
 - der Entwurf folgt den Grundsätzen der DSGVO.
@@ -127,7 +127,7 @@ Der Pass bezeugt das, was er bezeugt, und das ist nicht wenig: Ein bestimmter Me
 
 - die DAO der Earthlings ist keine eingetragene juristische Person;
 - die Teilnehmer tragen einzeln die Verantwortung für die Beachtung der Gesetze ihrer Länder;
-- innere Streitigkeiten werden nach den Verfahren der Charta beigelegt: Gespräch, Vermittlung, bei schweren Verletzungen die Anrufung des Unabhängigen Rates. Das Volk tritt nicht an die Stelle der Gerichte und der staatlichen Rechtsmechanismen und stellt außerhalb seines Ökosystems keine Schiedsstelle bereit.
+- innere Streitigkeiten werden in dem Verfahren beigelegt, das im Dokument „Die Ethik der Earthlings“ festgelegt ist: Gespräch, Vermittlung mit Zustimmung beider Seiten, bei schweren Verletzungen die Anrufung des Unabhängigen Rates und in äußersten Fällen die Behandlung durch die Vollversammlung; bis zur Bildung des Rates entfällt die Stufe mit seiner Beteiligung, und die Fristen der Erörterung verdoppeln sich (Charta, Artikel 39). Das Volk tritt nicht an die Stelle der Gerichte und der staatlichen Rechtsmechanismen und stellt außerhalb seines Ökosystems keine Schiedsstelle bereit.
 
 ---
 

@@ -180,7 +180,7 @@ Los Earthlings pueden ceder voluntariamente su voto en un ámbito concreto a otr
 - **una sola delegación activa por ámbito**;
 - **revocación en cualquier momento**: en un solo paso, sin explicar los motivos y sin el consentimiento de aquel a quien se cedió el voto;
 - **delegado puede ser cualquier earthling**: la reputación no abre ni cierra el acceso a esa posibilidad;
-- todos los votos emitidos por el delegado son públicos.
+- los votos cedidos que emite el delegado son públicos; no se publica quién ha cedido su voto al delegado.
 
 **La delegación no se aplica** en las votaciones sobre la modificación de la Carta y de las reglas básicas de la Tesorería, sobre financiación de más de 100 000 EC, sobre la formación del Emergency Multisig, sobre limitación de facultades, sobre anulación de la emisión de un pasaporte y sobre la modificación de los principios intangibles.
 
@@ -208,7 +208,7 @@ No existen otros fundamentos para excluir un voto: por decisión de la mayoría 
 
 **Declaración de vínculos.** Al presentar una solicitud, quien la promueve está obligado a indicar a todos los participantes vinculados al proyecto. La información se publica junto con la solicitud.
 
-**Apertura.** Las votaciones sobre distribución de fondos son por regla general abiertas: cada cual ve cómo han votado los demás. Eso crea un mecanismo de control recíproco allí donde se trata de dinero común.
+**Apertura.** En las votaciones sobre distribución de fondos, las solicitudes, el debate, el resultado y el movimiento de los fondos son abiertos; el voto personal es secreto, como en todas las votaciones (Carta, artículo 6). El control recíproco allí donde se trata de dinero común se sostiene en la apertura de las solicitudes, de los resultados y de los gastos, y no en la visibilidad de los votos ajenos.
 
 ## Artículo 17. Presentación y examen de los proyectos
 
@@ -274,7 +274,7 @@ Monedero de firma múltiple de seis participantes para operaciones técnicas urg
 
 **Control:**
 
-- bloqueo temporal de 24 horas en todas las transacciones, salvo la respuesta a un ataque en curso;
+- bloqueo temporal de 24 horas en todas las transacciones, salvo la respuesta a un ataque en curso y, ante una vulnerabilidad crítica, la suspensión de los contratos inteligentes vulnerables;
 - todos los actos son visibles públicamente en tiempo real;
 - informe público obligatorio en el plazo de 48 horas;
 - **la DAO puede anular cualquier acto por mayoría simple**;

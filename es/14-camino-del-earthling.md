@@ -10,7 +10,7 @@
 
 **Edad** - haber cumplido 18 años.
 
-**Consentimiento** - aceptación de la Declaración Earthlings.
+**Consentimiento** - firma de la Declaración Earthlings.
 
 **Verificación de identidad** - comprobación de que usted es una persona viva y de que es una sola.
 
@@ -32,7 +32,7 @@ No existen otras condiciones. La adscripción étnica, la raza, la religión, el
 
 **4. Firma de la Declaración.** Confirmación del acuerdo con los principios del pueblo. Es ese acto el que crea la pertenencia.
 
-**5. Pago de la cuota.** En criptomoneda (ETH, USDT, USDC). El pago con tarjeta bancaria está en desarrollo. Si no tiene dinero, ahí mismo hay un segundo botón, «necesito la cuota»; no pregunta nada y lleva a una cola abierta (sección 9).
+**5. Pago de la cuota.** En criptomoneda (ETH, USDT, USDC). El pago con tarjeta bancaria está en desarrollo. Si no tiene dinero, cuando la entrada sea de pago habrá ahí mismo un segundo botón, «necesito la cuota»; no preguntará nada y llevará a una cola abierta (sección 9).
 
 **6. Obtención del pasaporte.** Un pasaporte digital intransmisible se emite de manera automática en su dirección y acredita su condición de participante.
 
@@ -121,7 +121,7 @@ Más detalles sobre qué ocurre con el pasaporte y con los datos: [Pasaporte SBT
 
 No existe exención de la cuota. Existe otra cosa: la cuota puede abonarla por usted alguien más, pero no hay garantía de ello.
 
-**Cómo se ve desde su lado.** En el paso del pago, junto al botón «pagar», hay un segundo: «necesito la cuota». No pregunta ni el país, ni los ingresos, ni el motivo: no hay que demostrar nada ni contar nada sobre uno mismo. Una pulsación, y usted está en una cola abierta.
+**Cómo se ve desde su lado.** Cuando la entrada sea de pago, en el paso del pago, junto al botón «pagar», habrá un segundo: «necesito la cuota». No preguntará ni el país, ni los ingresos, ni el motivo: no hay que demostrar nada ni contar nada sobre uno mismo. Una pulsación, y usted está en una cola abierta.
 
 En la cola solo se ven el número y la fecha. Ni el nombre, ni el país, ni el motivo. La cola no debe convertirse en un escaparate de necesitados.
 

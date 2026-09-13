@@ -193,7 +193,7 @@ Corriger le droit international est l'affaire des États. Le peuple des Earthlin
 
 **La procédure.** Il existe un moyen par lequel une volonté devient une volonté commune: un vote où une personne vaut une voix, où la voix ne peut être ni achetée, ni accumulée, ni transmise de façon irrévocable. La première application de cette procédure sera l'adoption du texte constitutif lui-même.
 
-**L'inscription.** La composition et les résultats des votes sont ouverts à la vérification par toute personne, sans avoir à faire confiance à l'exploitant de l'infrastructure.
+**L'inscription.** La composition du peuple et les résultats des votes sont ouverts à la vérification par toute personne, sans avoir à faire confiance à l'exploitant de l'infrastructure.
 
 Et tout cela sans aucune revendication territoriale. Le conflit à cause duquel le droit se montre prudent devant l'apparition de nouveaux peuples ne naît pas ici: on ne peut porter atteinte à ce que l'on ne revendique pas.
 
@@ -261,7 +261,7 @@ La capacité d'être une personne a été retirée, et retirée par le droit: l'
 
 D'où une conclusion valable pour le peuple comme pour la personne: **l'existence juridique s'est trouvée dériver d'une inscription tenue par quelqu'un d'autre.** Chez la personne, cela se voit à la situation des apatrides; chez le peuple, à la substitution de la nationalité à la composition.
 
-L'infrastructure du peuple des Earthlings est bâtie de manière que l'inscription ne puisse exister sans la personne, et que la personne ne puisse être écartée de l'inscription par la décision d'un tiers: l'unicité d'une personne vivante est vérifiée, l'appartenance ne prend fin que par sa propre décision, et le registre ne conserve aucune information sur les opinions ni sur les votes.
+L'infrastructure du peuple des Earthlings est bâtie de manière que l'inscription ne puisse exister sans la personne, et que la personne ne puisse être écartée de l'inscription par la décision d'un tiers: l'unicité d'une personne vivante est vérifiée, l'appartenance ne prend fin que par sa propre décision ou par l'effet de son décès, et le registre ne conserve aucune information sur les opinions ni sur les votes.
 
 ## Des niveaux, non des degrés de juridiction
 
@@ -507,7 +507,7 @@ Le peuple des Earthlings ne peut agir légitimement que là où il ne se substit
 
 La reddition de comptes est une condition d'admissibilité de l'idée même, et elle est agencée à cinq niveaux: interne et démocratique - droit de débattre, de contester et de révoquer immédiatement une délégation; technologique - vérifiabilité publique des procédures et traçabilité des changements de règles; juridique - action dans le cadre du droit applicable et ouverture à l'expertise extérieure; sociale - accès des chercheurs, des journalistes et des critiques à une information suffisante pour une appréciation indépendante; de long terme - évaluation distincte des conséquences des décisions qui touchent les générations futures.
 
-> **Sur les limites de la transparence.** La transparence porte sur les actes des institutions, non sur les données personnelles des gens. Les données personnelles et biométriques des participants ne sont jamais publiques; l'expression de la volonté d'une personne déterminée peut être couverte là où l'ouverture l'exposerait à un risque, la possibilité de vérifier l'exactitude du décompte étant maintenue.
+> **Sur les limites de la transparence.** La transparence porte sur les actes des institutions, non sur les données personnelles des gens. Les données personnelles et biométriques des participants ne sont jamais publiques; le vote personnel est secret, la possibilité de vérifier l'exactitude du décompte étant maintenue; sont ouverts les votes exprimés par le délégué au titre des voix qui lui ont été confiées.
 
 Une initiative ne peut prétendre au sérieux que dans la modestie institutionnelle: ne pas étendre ses prétentions à tout prix, mais les limiter à l'avance. De là une reconnaissance ouverte des limites: la représentation ne concerne que les participants volontaires; aucun monopole d'expression des intérêts planétaires n'est revendiqué; la légitimité se confirme par la croissance de la participation et par la vérifiabilité extérieure, non par une auto-désignation; le motif est déclaré ouvertement - ce qu'on dissimule, ce sont les fictions, et une prétention annoncée en première page ne peut pas en être une.
 
@@ -519,7 +519,7 @@ Une initiative ne peut prétendre au sérieux que dans la modestie institutionne
 
 En droit international, les mêmes actes ont une portée différente selon la qualité en laquelle ils sont accomplis: dans la doctrine du titre historique, seuls comptent les actes à titre de souverain, tandis que les mêmes actes accomplis à titre privé ne créent rien.
 
-C'est pourquoi une prétention ouvertement affirmée n'est pas une rhétorique, mais un qualificatif juridique de la pratique accumulée: un autogouvernement exercé et documenté en qualité de peuple mûrit en preuves de la qualité de peuple, tandis que les mêmes années sans qualité affirmée ne mûriraient qu'en une association accomplie. De là les exigences envers la pratique - ouverture, constance, documentation: le registre, les votes publics et les actes constitutifs sont une production de preuves, non une vitrine.
+C'est pourquoi une prétention ouvertement affirmée n'est pas une rhétorique, mais un qualificatif juridique de la pratique accumulée: un autogouvernement exercé et documenté en qualité de peuple mûrit en preuves de la qualité de peuple, tandis que les mêmes années sans qualité affirmée ne mûriraient qu'en une association accomplie. De là les exigences envers la pratique - ouverture, constance, documentation: le registre, les votes vérifiables et les actes constitutifs sont une production de preuves, non une vitrine.
 
 ## Un constat distribué au lieu d'un examen unique
 
@@ -537,7 +537,7 @@ Que le point d'arrivée soit atteignable est confirmé sous une forme forte: l'o
 
 La construction prévoit que toute la pratique d'autogouvernement - les votes avec date, question, participation, résultat et exécution, les mouvements des fonds de la trésorerie, les entrées dans le peuple, le travail des cellules - est consignée dans une chronique publique, non modifiable rétroactivement. La chronique commence avant que le peuple ne se forme: sa première inscription est constituée par les propositions au texte constitutif, les réponses qui leur sont faites et le résultat du vote sur son adoption. Aucun peuple dans l'histoire ne dispose d'une trace documentée de sa vie depuis le premier jour, car il n'y avait rien pour la tenir.
 
-Les conditions de légitimation sont nommées sans détour: un effectif et une répartition géographique dépassant un cercle local; une participation réelle et non de simples signatures; la qualité des procédures - vérification d'identité honnête, vote transparent, protection contre la prise de contrôle; une reddition de comptes publique sur les règles, les finances, la composition et la pratique de gouvernance.
+Les conditions de légitimation sont nommées sans détour: un effectif et une répartition géographique dépassant un cercle local; une participation réelle et non de simples signatures; la qualité des procédures - vérification d'identité honnête, vote secret à décompte vérifiable, protection contre la prise de contrôle; une reddition de comptes publique sur les règles, les finances, la composition et la pratique de gouvernance.
 
 Aucun indicateur quantitatif ne crée par lui-même un statut de droit international. Pour une appréciation de bonne foi du développement, on peut distinguer quatre stades.
 

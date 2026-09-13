@@ -102,7 +102,7 @@ Una objeción basada en una preferencia personal - «no me gusta», «yo lo habr
 Si se formula una objeción fundada, la célula está obligada a examinarla: atenderla, resolverla con una enmienda o refutarla de manera razonada.
 
 - las objeciones fundadas en **infracción de principios o coacción** son de cumplimiento obligatorio: la decisión no puede adoptarse mientras no se resuelvan. Es la protección de la persona y de los fundamentos del pueblo, y no se supera con una votación;
-- las objeciones fundadas en **daño o inviabilidad** abren una ronda de resolución; si tras un intento de buena fe no se resuelven, la cuestión se decide por votación ordinaria de la célula y el riesgo señalado se hace constar;
+- las objeciones fundadas en **daño o inviabilidad** abren una ronda de resolución; si tras un intento de buena fe no se resuelven, la cuestión se decide por votación de la célula - secreta, como todo voto personal (Carta, artículo 6) - y el riesgo señalado se hace constar;
 - una controversia no resuelta en la célula se remite al procedimiento descrito en la sección 10.
 
 ## Dos clases distintas de decisiones

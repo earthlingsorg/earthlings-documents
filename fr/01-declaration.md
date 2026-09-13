@@ -60,7 +60,7 @@ Au sein du peuple des Earthlings, le gouvernement du peuple repose sur trois con
 
 **Deuxièmement.** La voix est inséparable de la personne vérifiée: l'accumuler ou la transmettre de façon irrévocable est rendu impossible par la manière dont la communauté est agencée.
 
-**Troisièmement.** Tout earthling peut vérifier lui-même le résultat de son vote et celui de la décision.
+**Troisièmement.** Tout earthling peut vérifier lui-même que son vote a été compté, ainsi que le résultat du vote et les décisions adoptées.
 
 ## Article 3. Les valeurs du peuple
 

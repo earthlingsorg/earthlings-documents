@@ -65,7 +65,7 @@ Die Prüfung ist freiwillig. Sie sind befugt, die Einwilligung jederzeit zu wide
 # ABSCHNITT 03. Die Voraussetzungen für den Erhalt des Status
 
 - **Alter** - das Erreichen des Alters von 18 Jahren;
-- **Zustimmung** - die freiwillige Annahme der Erklärung;
+- **Zustimmung** - die freiwillige Unterzeichnung der Erklärung;
 - **Identitätsprüfung** - der Nachweis der Einmaligkeit;
 - **Pass** - die Ausgabe eines unübertragbaren Tokens an Ihre Adresse.
 
@@ -217,7 +217,7 @@ Das Register folgt dem Grundsatz der Datensparsamkeit nach der DSGVO. Gespeicher
 
 Lichtbilder und Scans werden sogleich nach der Prüfung gelöscht, doch ihr Ergebnis bleibt gültig und überprüfbar - ähnlich wie ein Staat bei der Ausgabe eines Passes keine biometrischen Proben dauerhaft speichert, obwohl die Tatsache der Ausgabe gültig bleibt.
 
-> **Die Verbindung zwischen der wirklichen Person und dem Pseudonym wird nicht aufbewahrt.** Die Angaben des Papiers werden nur im Augenblick der Prüfung verarbeitet. Im Register bleiben das Pseudonym, der Status der Prüfung und der kryptografische Nachweis der Einmaligkeit. Diese Architektur schließt die Offenlegung der Person eines Teilnehmers aus - gegenüber anderen Teilnehmern, gegenüber Verwaltern und gegenüber Dritten -, weil es nichts offenzulegen gibt.
+> **Die Verbindung zwischen der wirklichen Person und dem Pseudonym wird nicht aufbewahrt.** Die Angaben des Papiers werden nur im Augenblick der Prüfung verarbeitet. Im System der Identitätsprüfung bleiben das Pseudonym, der Status der Prüfung und der kryptografische Nachweis der Einmaligkeit; in das offene Register wird das Pseudonym nicht eingetragen. Diese Architektur schließt die Offenlegung der Person eines Teilnehmers aus - gegenüber anderen Teilnehmern, gegenüber Verwaltern und gegenüber Dritten -, weil es nichts offenzulegen gibt.
 
 ---
 

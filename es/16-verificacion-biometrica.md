@@ -65,7 +65,7 @@ La comprobación es voluntaria. Usted puede revocar el consentimiento en cualqui
 # SECCIÓN 03. Condiciones para obtener la condición de earthling
 
 - **edad**: haber cumplido 18 años;
-- **consentimiento**: aceptación voluntaria de la Declaración;
+- **consentimiento**: firma voluntaria de la Declaración;
 - **verificación de identidad**: confirmación de la unicidad;
 - **pasaporte**: emisión de un token intransmisible en su dirección.
 
@@ -217,7 +217,7 @@ El registro sigue el principio de minimización de datos conforme al RGPD. Se co
 
 Las fotografías y los escaneos se suprimen en cuanto concluye la comprobación, pero su resultado sigue siendo válido y verificable, del mismo modo que un Estado no conserva de manera permanente las muestras biométricas al expedir un pasaporte, aunque el hecho de la expedición siga siendo válido.
 
-> **El vínculo entre la identidad real y el seudónimo no se conserva.** Los datos del documento se tratan solo en el momento de la comprobación. En el registro quedan el seudónimo, el estado de la comprobación y la confirmación criptográfica de la unicidad. Esa arquitectura excluye que se revele la identidad de un participante - a otros participantes, a los administradores y a terceros - porque no hay nada que revelar.
+> **El vínculo entre la identidad real y el seudónimo no se conserva.** Los datos del documento se tratan solo en el momento de la comprobación. En el sistema de verificación de identidad quedan el seudónimo, el estado de la comprobación y la confirmación criptográfica de la unicidad; el seudónimo no se inscribe en el registro abierto. Esa arquitectura excluye que se revele la identidad de un participante - a otros participantes, a los administradores y a terceros - porque no hay nada que revelar.
 
 ---
 

@@ -47,7 +47,7 @@ La única excepción son los actos probados dirigidos a socavar la integridad de
 
 ### Marcas de participación
 
-El historial de participación y de aportación se hace constar públicamente: votaciones, proyectos concluidos, trabajo en las células.
+El historial de participación y de aportación se hace constar públicamente: proyectos concluidos, trabajo en las células. La participación en las votaciones no se publica: el voto personal es secreto (Carta, artículo 6).
 
 > **Esas marcas no influyen en nada** y tienen carácter exclusivamente informativo: [Carta, artículo 8](https://earth-lings.org/documents/es/es05-carta.html).
 
@@ -85,7 +85,7 @@ El historial de participación y de aportación se hace constar públicamente: v
 
 ### Conservación de los datos
 
-- **en el registro:** identificador, seudónimo, hash de la comprobación. Los datos personales no se inscriben en el registro;
+- **en el registro:** identificador y hash de la comprobación; el seudónimo no se inscribe en el registro. Los datos personales no se inscriben en el registro;
 - **fuera del registro:** los datos personales de la cuenta, cifrados y en el volumen mínimo;
 - **biometría:** no se conserva. Se conservan únicamente hashes criptográficos irreversibles, y solo para que una misma persona no pueda tener dos pasaportes en vigor;
 - se diseña conforme a los principios del RGPD.
@@ -127,7 +127,7 @@ El pasaporte documenta lo que documenta, y no es poco: una persona concreta ha s
 
 - DAO Earthlings no es una persona jurídica inscrita;
 - los participantes responden individualmente del cumplimiento de las leyes de sus países;
-- las controversias internas se resuelven con los procedimientos de la Carta: diálogo, mediación y, ante infracciones graves, recurso al Consejo Independiente. El pueblo no suplanta a los tribunales ni a los mecanismos jurídicos estatales y no ofrece arbitraje fuera de su ecosistema.
+- las controversias internas se resuelven en la forma establecida en el documento «Ética de los Earthlings»: diálogo, mediación con el consentimiento de ambas partes, recurso al Consejo Independiente ante infracciones graves y, en casos extremos, examen por la Asamblea; hasta que el Consejo se constituya, la fase en la que este interviene se omite y los plazos de debate se duplican (Carta, artículo 39). El pueblo no suplanta a los tribunales ni a los mecanismos jurídicos estatales y no ofrece arbitraje fuera de su ecosistema.
 
 ---
 

@@ -22,7 +22,7 @@ A diferencia de los sistemas jerárquicos clásicos, DAO Earthlings se levanta s
 
 Los procesos clave - desde las votaciones hasta la distribución de recursos - quedan fijados en registros verificables y, donde se requiere, en un registro distribuido. Las reglas están abiertas al análisis, y los resultados de las votaciones puede volver a comprobarlos de manera independiente cualquier participante o auditor externo. No hay procedimientos cerrados ni protocolos ocultos.
 
-Con todo, la transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas: la expresión de la voluntad de alguien concreto puede quedar cerrada allí donde la apertura lo expondría a un riesgo (sección 05).
+Con todo, la transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas: el voto personal es secreto, y los votos cedidos que emite el delegado son abiertos (sección 05).
 
 ### Igualdad de los participantes
 
@@ -128,11 +128,11 @@ Un dictamen público de expertos es un argumento en el debate, con el peso que l
 
 ## Apertura y secreto del voto
 
-Por regla general las votaciones son abiertas: el hecho de la participación y la expresión de la voluntad están disponibles para su verificación. La apertura es el modo de comprobar que el recuento es honesto.
+El voto personal es secreto: la votación está organizada de modo que nadie, incluidos quienes operan la infraestructura, pueda saber cómo ha votado una persona concreta, ni cerciorarse de ello aun con su consentimiento. La participación de una persona concreta no se publica, el recuento parcial permanece oculto hasta el cierre, y hasta el cierre se puede volver a votar: se computa el último voto emitido.
 
-Pero hay cuestiones en las que la apertura de la expresión de la voluntad no protege a la persona, sino que la expone a un riesgo. Para ellas se aplica el **voto secreto con recuento verificable**; la lista de tales cuestiones y el procedimiento están establecidos en la [Carta, artículo 6](https://earth-lings.org/documents/es/es05-carta.html).
+Son abiertos el debate, los actos de las instituciones y los votos cedidos que emite el delegado. El secreto no suprime la verificación: se publican la cuestión, el número de quienes tenían derecho a voto y el de votantes, el resultado y la **prueba del recuento**, a partir de la cual cualquier persona puede rehacer el recuento. El procedimiento está establecido en la [Carta, artículo 6](https://earth-lings.org/documents/es/es05-carta.html).
 
-El voto secreto se aplica obligatoriamente al examinar una limitación de facultades y en la anulación de una emisión inválida de pasaporte, y por decisión de la Asamblea, para cuestiones o categorías concretas, en particular las que afectan a la posición del pueblo sobre los actos de los Estados.
+El secreto es un derecho de quien vota, y no una condición de validez del voto: la asistencia técnica que no determina el contenido del voto es admisible. Queda prohibido exigir que una persona muestre cómo ha votado, y cualquier remuneración a cambio de tal prueba es compra de un voto (Carta, artículo 22 bis).
 
 ## La medición de la voluntad común no es una decisión
 
@@ -274,7 +274,7 @@ Ante fallos técnicos, la prioridad es restablecer el estado correcto y, si es n
 
 La DAO se apoya en la minimización de los datos recabados y en la protección de la confidencialidad de los participantes conforme a los estándares internacionales.
 
-**Datos en el registro distribuido.** Las votaciones, transacciones y decisiones se fijan empleando identificadores seudónimos y métodos criptográficos. No se conserva un vínculo permanente «asiento - identidad»; la verificación de identidad la realiza el sistema propio del pueblo, sin proveedores externos. En las votaciones celebradas en secreto, el vínculo entre el voto y quien vota no se revela a nadie, conservando la verificabilidad del recuento.
+**Datos en el registro distribuido.** Las votaciones, transacciones y decisiones se fijan empleando identificadores seudónimos y métodos criptográficos. No se conserva un vínculo permanente «asiento - identidad»; la verificación de identidad la realiza el sistema propio del pueblo, sin proveedores externos. El vínculo entre el voto personal y quien vota no se revela a nadie, conservando la verificabilidad del recuento; solo son abiertos los votos cedidos que emite el delegado.
 
 **Datos personales.** La verificación de identidad y la comprobación del documento las realiza el sistema propio conforme al RGPD y a la demás legislación aplicable. El pueblo y la DAO no conservan fotografías, escaneos, nombres reales ni plantillas biométricas: la biometría se trata en el momento de la comprobación y no se conserva. Qué se conserva exactamente para impedir un registro repetido está en la [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html). Los datos de la cuenta - correo electrónico, seudónimo, ajustes - se tratan en el volumen mínimo.
 

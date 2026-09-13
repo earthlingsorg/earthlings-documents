@@ -224,7 +224,7 @@ All material matters: amending the Charter and the rules; allocation of common f
 
 ## Special situations
 
-In the event of critical vulnerabilities or attacks the Emergency Multisig is entitled to act immediately within the limits of Article 3 of the Charter - with a public report within 48 hours and confirmation by the Assembly within 7 days, failing which the action is reversed. Any action may be reversed by the Assembly by a simple majority.
+In the event of critical attacks the Emergency Multisig is entitled to act immediately, and in the event of critical vulnerabilities to suspend vulnerable smart contracts immediately; its other actions go through the 24-hour timelock (Charter, Article 3) - with a public report within 48 hours and confirmation by the Assembly within 7 days, failing which the action is reversed. Any action may be reversed by the Assembly by a simple majority.
 
 Abuse leads to recall by a simple majority at any time.
 

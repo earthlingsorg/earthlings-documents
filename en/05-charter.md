@@ -244,13 +244,13 @@ Transparency extends to the actions of institutions, not to the personal data of
 - until voting closes, a vote may be cast again; the last vote cast is counted
 - a personal vote on a question cancels delegation on that question
 
-**Secrecy is the voter's right, not a condition of the vote's validity.** A vote seen by a person assisting the voter is valid; technical assistance that does not determine the content of a vote is permitted (Declaration, Article 8). Demanding that a person show how they voted is prohibited; any benefit in return for such proof amounts to buying a vote (Article 22 bis).
+**Secrecy is the voter's right, not a condition of the vote's validity.** A vote seen by a person assisting the voter is valid; technical assistance that does not determine the content of a vote is permitted (Declaration, Article 8, "There Are No Insurmountable Requirements"). Demanding that a person show how they voted is prohibited; any reward for such proof amounts to buying a vote (Article 22 bis).
 
 The following are always published: the question itself, the answer options and the deadlines, the number of those entitled to vote, the number of those who voted, the outcome, the proof of the count, and the way in which any person can recount the outcome themselves.
 
 ## Article 7. Delegation of Votes
 
-An earthling may delegate their vote on a particular area to another earthling. Delegation is voluntary and may be revoked at any time. If an earthling, of their own will, allows another person to determine the content of the earthling's vote, this is delegation, whatever technical form it takes, including handing over access to a key or connecting an external signer, and all the limits of this Article apply to it. Technical assistance that does not determine the content of a vote is not delegation (Declaration, Article 8).
+An earthling may delegate their vote on a particular area to another earthling. Delegation is voluntary and may be revoked at any time. If an earthling, of their own will, allows another person to determine the content of the earthling's vote, this is delegation, whatever technical form it takes, including handing over access to a key or connecting an external signer, and all the limits of this Article apply to it. Technical assistance that does not determine the content of a vote is not delegation (Declaration, Article 8, "There Are No Insurmountable Requirements").
 
 > **Delegation is not representation.** It is given by area, not for a term; it is revoked immediately, without giving reasons and without the delegate's consent; it constitutes no office and gives the delegate no rights other than casting the votes transferred to them. A delegate may at any time be left without a single delegated vote, and that is the mechanism working normally, not a failure.
 
@@ -516,7 +516,7 @@ As a general rule an SBT passport is burned only by the holder themselves (Artic
 
 ### 1. Annulment of an Invalid Issuance
 
-A passport may be annulled if it is established that it was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using false data or another person's identity, or the passport was issued to a person below the age set by this Charter. The list of grounds is exhaustive and accords with Article 8 of the Declaration.
+The issuance of a passport may be annulled if it is established that the passport was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using false data or another person's identity, or the passport was issued to a person below the age set by this Charter. The list of grounds is exhaustive and accords with Article 8 of the Declaration.
 
 If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. In none of the three cases does annulment end the person's belonging to the people (Declaration, Article 8); if the passport was issued to a person below the age set by this Charter, belonging has not yet arisen, and annulment has nothing to end.
 

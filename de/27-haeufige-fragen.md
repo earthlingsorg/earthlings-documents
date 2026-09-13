@@ -26,7 +26,7 @@ Nein. Der Beitrag ist einmalig: Nach dem Erhalt des Passes gibt es weder jährli
 
 ### Und wenn ich nicht zahlen kann?
 
-Dann entrichtet den Beitrag jemand anderes für Sie. Beim Schritt der Zahlung steht eine zweite Schaltfläche - „ich brauche den Beitrag“: Sie fragt nichts und stellt Sie in eine offene Warteschlange, in der nur Nummer und Datum sichtbar sind. Die Warteschlange bezahlen kann jeder Mensch, doch auswählen, für wen genau, kann er nicht - bezahlt wird stets der Kopf der Warteschlange. Den Pass erhalten Sie genau so wie alle: Im Register ist nicht vermerkt, wer für ihn gezahlt hat. Warten werden Sie müssen, doch Geld wird den Eintritt nicht endgültig verschließen. Näheres steht im Dokument [Der Weg des Earthling](https://earth-lings.org/documents/de/de14-weg-des-earthling.html).
+Dann können Sie sich in eine offene Warteschlange stellen, und den Beitrag für Sie kann jemand anderes entrichten; eine Gewähr dafür gibt es nicht. Bei kostenpflichtigem Eintritt wird beim Schritt der Zahlung eine zweite Schaltfläche stehen - „ich brauche den Beitrag“: Sie wird nichts fragen und Sie in die offene Warteschlange stellen, in der nur Nummer und Datum sichtbar sind. Die Warteschlange bezahlen kann jeder Mensch, doch auswählen, für wen genau, kann er nicht - bezahlt wird stets der Kopf der Warteschlange. Wird der Beitrag für Sie entrichtet, so wird der Pass genau so sein wie bei allen: Im Register ist nicht vermerkt, wer für ihn gezahlt hat. Auf die Ausgabe des Passes werden Sie warten müssen, und wie lange, ist im Voraus nicht bekannt. Die Zugehörigkeit zum Volk hängt davon nicht ab: Sie entsteht durch die Unterzeichnung der Erklärung und nicht durch den Beitrag. Näheres steht im Dokument [Der Weg des Earthling](https://earth-lings.org/documents/de/de14-weg-des-earthling.html).
 
 → [Der Weg des Earthling](https://earth-lings.org/documents/de/de14-weg-des-earthling.html)
 
@@ -136,7 +136,7 @@ Macht von Menschen über Menschen gibt es nicht: niemand nimmt eine Stellung üb
 
 Die Stimme wird nicht gekauft und hängt nicht von Geld ab - das ist eine unabänderliche Regel. Die Blockchain wird dort verwendet, wo eine Aufzeichnung gebraucht wird, die sich nicht fälschen lässt: Pässe, Abstimmungen, Kasse.
 
-Die Recheneinheit wird heute nirgends gehandelt und bedient nur den inneren Umlauf. Eine Verfügbarkeit an einer Börse ist künftig möglich, aber weder versprochen noch ein Ziel, und einen Wertzuwachs verspricht niemand, gleich wie sich die Dinge entwickeln.
+Die Recheneinheit ist heute nicht ausgegeben und wird nirgends gehandelt: Die Wirtschaft der Teilnahme wird in der inneren Buchführung geführt. Eine Verfügbarkeit an einer Börse ist künftig möglich, aber weder versprochen noch ein Ziel, und einen Wertzuwachs verspricht niemand, gleich wie sich die Dinge entwickeln.
 
 → [Earthlings Coin](https://earth-lings.org/documents/de/de10-earthlings-coin.html)
 

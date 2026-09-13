@@ -22,7 +22,7 @@ L'Assemblée DAO est le **seul organe qui prenne des décisions obligatoires**. 
 
 Les processus clés, du vote à la répartition des ressources, sont consignés dans des journaux vérifiables et, là où c'est nécessaire, dans un registre distribué. Les règles sont ouvertes à l'analyse, les résultats des votes peuvent être revérifiés de façon indépendante par tout participant ou par un auditeur extérieur. Il n'y a ni procédure fermée ni protocole caché.
 
-La transparence porte toutefois sur les actes des institutions et non sur les données personnelles des gens: l'expression de la volonté d'une personne déterminée peut être couverte là où l'ouverture l'exposerait à un risque (section 05).
+La transparence porte toutefois sur les actes des institutions et non sur les données personnelles des gens: le vote personnel est secret, et les votes exprimés par le délégué au titre des voix qui lui ont été confiées sont ouverts (section 05).
 
 ### L'égalité des participants
 
@@ -128,11 +128,11 @@ Un avis public d'experts est un argument dans le débat, doté du poids que les 
 
 ## Ouverture et secret du vote
 
-En règle générale, les votes sont ouverts: le fait de participer et l'expression de la volonté sont vérifiables. L'ouverture est un moyen de s'assurer que le décompte est honnête.
+Le vote personnel est secret: le scrutin est agencé de manière que personne, y compris ceux qui exploitent l'infrastructure, ne puisse établir comment une personne déterminée a voté, ni s'en assurer même avec son accord. La participation d'une personne déterminée n'est pas publiée, le décompte intermédiaire est masqué jusqu'à la clôture, et jusqu'à la clôture il est possible de voter à nouveau - le dernier vote exprimé est retenu.
 
-Mais il est des questions sur lesquelles l'ouverture ne protège pas l'expression de la volonté d'une personne et l'expose à un risque. Pour celles-là s'applique le **vote secret à décompte vérifiable**; la liste de ces questions et la procédure sont établies par la [Charte, article 6](https://earth-lings.org/documents/fr/fr05-charte.html).
+Sont ouverts le débat, les actes des institutions et les votes exprimés par le délégué au titre des voix qui lui ont été confiées. Le secret ne supprime pas la vérification: sont publiés la question, le nombre de personnes ayant le droit de vote et le nombre de votants, le résultat et la **preuve du décompte**, à partir de laquelle toute personne peut recompter le résultat. La procédure est établie par la [Charte, article 6](https://earth-lings.org/documents/fr/fr05-charte.html).
 
-Le vote secret s'applique obligatoirement lors de l'examen d'une restriction de pouvoirs et lors de l'annulation d'une délivrance non valide de passeport, et, sur décision de l'Assemblée, pour des questions ou des catégories déterminées, en particulier celles qui touchent la position du peuple sur les actes des États.
+Le secret est un droit du votant, et non une condition de validité du vote: l'aide technique qui ne détermine pas le contenu du vote est admissible. Il est interdit d'exiger d'une personne qu'elle montre comment elle a voté, et une rémunération en échange d'une telle preuve est un achat de voix (Charte, article 22 bis).
 
 ## La mesure de la volonté commune n'est pas une décision
 
@@ -274,7 +274,7 @@ En cas de défaillance technique, la priorité est le rétablissement d'un état
 
 La DAO repose sur la minimisation des données collectées et la protection de la vie privée des participants, conformément aux normes internationales.
 
-**Les données dans le registre distribué.** Les votes, les transactions et les décisions sont consignés au moyen d'identifiants pseudonymes et de méthodes cryptographiques. Aucun lien permanent « inscription - identité » n'est conservé; la vérification d'identité est effectuée par le système propre au peuple, sans prestataires extérieurs. Dans les votes tenus au secret, le lien entre la voix et le votant n'est divulgué à personne, la vérifiabilité du décompte étant maintenue.
+**Les données dans le registre distribué.** Les votes, les transactions et les décisions sont consignés au moyen d'identifiants pseudonymes et de méthodes cryptographiques. Aucun lien permanent « inscription - identité » n'est conservé; la vérification d'identité est effectuée par le système propre au peuple, sans prestataires extérieurs. Le lien entre le vote personnel et le votant n'est divulgué à personne, la vérifiabilité du décompte étant maintenue; seuls sont ouverts les votes exprimés par le délégué au titre des voix qui lui ont été confiées.
 
 **Les données personnelles.** La vérification d'identité et le contrôle du document sont effectués par un système propre, conformément au RGPD et aux autres lois applicables. Le peuple et la DAO ne conservent ni photographies, ni scans, ni noms réels, ni gabarits biométriques: la biométrie est traitée au moment du contrôle et n'est pas conservée. Ce qui est exactement conservé pour empêcher une nouvelle inscription figure dans la [Politique de vérification biométrique](https://earth-lings.org/documents/fr/fr16-verification-biometrique.html). Les données de compte - adresse électronique, pseudonyme, réglages - sont traitées dans un volume minimal.
 

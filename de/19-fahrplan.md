@@ -145,7 +145,7 @@ Wird mindestens einmal in 90 Tagen veröffentlicht und enthält: den Gesamtumfan
 | Pässe | arbeiten |
 | Digitale Plattform | arbeitet |
 | System der Zellen | arbeitet |
-| Mechanismus der Abstimmung | ausgerollt, inhaltliche Abstimmungen haben nicht stattgefunden |
+| Mechanismus der Abstimmung | der offene Kanal ist ausgerollt, inhaltliche Abstimmungen haben nicht stattgefunden; ein Mittel der geheimen Abstimmung wird ausgewählt |
 | Schatzkammer | die Safe-Geldbörse ist ausgerollt, die Schwelle der Unterschriften beträgt eine; der Übergang zu sechs Unterzeichnern ist geplant; die Smart Contracts sind nicht ausgerollt |
 | Core Nodes und Emergency Multisig | nicht gewählt |
 | Unabhängiger Rat | nicht gebildet |

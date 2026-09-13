@@ -193,7 +193,7 @@ La representación se inventó cuando no cabía otra cosa: millones de personas 
 
 Eso funcionó y logró mucho. Una cosa no hizo: no les dio a las personas un modo de expresar por sí mismas la voluntad común.
 
-La Declaración Universal de Derechos Humanos de 1948 dice en su artículo 21 que la voluntad del pueblo es la base de la autoridad del poder público. El Pacto Internacional de Derechos Civiles y Políticos consagra en su artículo 25 el derecho de toda persona a participar en la dirección de los asuntos públicos. La Carta de las Naciones Unidas se abre con las palabras «Nosotros los pueblos de las Naciones Unidas».
+La Declaración Universal de Derechos Humanos de 1948 dice en su artículo 21 que la voluntad del pueblo es la base de la autoridad del poder público. El Pacto Internacional de Derechos Civiles y Políticos consagra en su artículo 25 el derecho de todo ciudadano a participar en la dirección de los asuntos públicos. La Carta de las Naciones Unidas se abre con las palabras «Nosotros los pueblos de las Naciones Unidas».
 
 El derecho está reconocido. El procedimiento por el que ese derecho se ejercería de forma directa no existe. Un derecho reconocido que nadie puede hacer valer sigue siendo una norma sin aplicación.
 
@@ -293,7 +293,7 @@ El Tribunal Russell sobre Vietnam de 1966-1967 y el Tribunal Permanente de los P
 
 # Parte IV. Cómo está hecha la medición
 
-El instrumento se ha descrito arriba como propósito. Aquí, cómo debe funcionar para no convertirse en una encuesta más. Los requisitos sin los cuales la medición no se produce están establecidos en la [Carta](https://earth-lings.org/documents/es/es05-carta.html), artículo 8 bis: quién no tiene derecho a aprobar la pregunta, qué se publica junto con el resultado, quién constata el defecto y con el dinero de quién no se realiza la medición. El procedimiento en detalle la Carta lo ha encomendado a una decisión de la Asamblea y ha exigido que se publique antes de la primera medición; a día de hoy no está adoptado. Abajo, lo mismo con la explicación de dónde ha salido cada requisito, y el propósito allí donde todavía no hay regla.
+El instrumento se ha descrito arriba como propósito. Aquí, cómo debe funcionar para no convertirse en una encuesta más. Los requisitos sin los cuales la medición no se produce están establecidos en la [Carta](https://earth-lings.org/documents/es/es05-carta.html), artículo 8 bis: quién no tiene derecho a aprobar la pregunta, qué se publica junto con el resultado, quién decide si existe un defecto y con el dinero de quién no se realiza la medición. El procedimiento en detalle la Carta lo ha encomendado a una decisión de la Asamblea y ha exigido que se publique antes de la primera medición; a día de hoy no está adoptado. Abajo, lo mismo con la explicación de dónde ha salido cada requisito, y el propósito allí donde todavía no hay regla.
 
 ## 7. Quién participa
 
@@ -394,11 +394,11 @@ Un resultado sin rastro es una afirmación. Un resultado con rastro es un hecho.
 - el número de votantes y **la participación sobre quienes tenían derecho** - se publica siempre, incluidos los casos en que es baja;
 - la distribución de las respuestas;
 - la distribución de la participación por países y regiones, en un desglose que no permita identificar a una persona;
-- el modo en que cualquier persona puede rehacer el recuento por su cuenta: dónde están las firmas, dónde está el registro, con qué consulta se verifica cada voto.
+- el modo en que cualquier persona puede rehacer el recuento por su cuenta: los datos abiertos de la votación, la prueba del recuento y el programa con el que verificarla.
 
-El último punto es el principal. **La verificación no debe exigir confianza en nosotros.** Los votos están firmados con los monederos de quienes votan, las direcciones de quienes votaron son públicas y la existencia de pasaporte en cada dirección se lee directamente del contrato inteligente. No podemos ni añadir un voto ni falsificar el ajeno, y eso no lo verifican nuestras palabras, sino una consulta ajena a la cadena de bloques.
+El último punto es el principal. **La verificación no debe exigir confianza en nosotros.** El voto es secreto (Declaración, artículo 9), y la verificación se dispone de modo que no lo revele: la corrección del recuento se demuestra a partir de los datos abiertos con un programa abierto, sin revelar quién ha votado ni cómo. No podemos ni añadir un voto ni falsificar el ajeno, y eso no lo verifican nuestras palabras, sino un recuento rehecho por otros.
 
-Hay un punto en el que hoy hay que fiarse de nosotros, y lo nombramos nosotros mismos: en el momento de votar, el derecho de voto lo confirma nuestro servidor. Después de la votación eso ya no importa, porque todas las direcciones son públicas y cada una se vuelve a comprobar en el contrato, y una discrepancia se vería. Así de claro está dicho en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html), y allí mismo se nombra el segundo punto de esa clase.
+Cómo están las cosas ahora lo decimos nosotros mismos. Todavía no existe un medio de votación secreta: se está eligiendo, y la votación del 17 de febrero de 2027 sobre la adopción de la Declaración será secreta. En el canal abierto desplegado, los votos están firmados con los monederos, las direcciones de quienes votaron son públicas y el derecho de voto, en el momento de votar, lo confirma nuestro servidor; en él no se han realizado mediciones de fondo. Así de claro está dicho en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html), y allí mismo se nombran los puntos en los que hoy hay que fiarse de nosotros.
 
 ### Si la medición resulta defectuosa
 
@@ -409,7 +409,7 @@ Se reconoce como defecto de la medición: una formulación capciosa o ambigua de
 El procedimiento es, entonces, el siguiente:
 
 1. **Puede denunciarlo cualquier persona**, y no solo un participante, ni solo nosotros. La denuncia se publica junto con la fecha de entrada.
-2. **El defecto no lo constata quien realizó la medición.** Si deciden quienes la realizaron, no habrá reconocimiento del error jamás; eso se sabe de antemano, y por eso no se hace así.
+2. **La decisión sobre si existe un defecto no corresponde a quien realizó la medición.** Si deciden quienes la realizaron, no habrá reconocimiento del error jamás; eso se sabe de antemano, y por eso no se hace así.
 3. **La anulación se publica en el mismo sitio y con la misma visibilidad que el resultado**, y no en una nota al pie. A la vez se publica en qué consistió exactamente el defecto.
 4. **La medición anulada no desaparece de la crónica.** Se mantiene con la nota de anulación. Un instrumento cuyo pasado se puede limpiar no es mejor que un instrumento cuyo presente se puede retocar.
 5. **La medición se repite de nuevo y desde el principio**, incluida una nueva fase contradictoria. El arreglo sobre la marcha no se admite en ninguna circunstancia.
@@ -856,12 +856,12 @@ Afirmamos que Earthlings es verificable, y esa afirmación solo tiene sentido cu
 
 - la verificación de identidad y la emisión de un pasaporte intransmisible;
 - el registro de pasaportes en la cadena de bloques, legible directamente desde el contrato inteligente abierto;
-- el canal público de votaciones, donde cada voto está firmado con el monedero de quien vota;
+- el canal público de votaciones, donde cada voto está firmado con el monedero de quien vota; en él los votos son abiertos;
 - una caja en cadena cuyas transacciones son todas accesibles para la auditoría pública.
 
 **No construido:**
 
-- **no se han realizado mediciones de fondo.** El canal de votación está desplegado y funciona técnicamente, pero votaciones de fondo todavía no ha habido en él;
+- **no se han realizado mediciones de fondo.** El canal de votación está desplegado y funciona técnicamente, pero votaciones de fondo todavía no ha habido en él; todavía no existe un medio de votación secreta exigida por la Declaración (artículo 9): se está eligiendo;
 - **no existe un procedimiento detallado de formación de la pregunta.** Los requisitos sin los cuales la medición no se produce se establecen en el artículo 8 bis de la Carta; el procedimiento en detalle queda encomendado a una decisión de la Asamblea y no está adoptado;
 - **no existen paneles por sorteo.** El esquema de dos capas de la sección 9 se establece en el artículo 8 ter de la Carta, pero no se ha reunido ni un solo panel: el registro es todavía demasiado pequeño para un sorteo, y el artículo lo dice expresamente;
 - **no existe la crónica de las no respuestas.** No está abierta;

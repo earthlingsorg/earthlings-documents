@@ -116,7 +116,7 @@ Alles oben Beschriebene ist der angestrebte Bau und kein erreichter Zustand. Die
 
 Diese Frage wird häufiger gestellt als die übrigen, deshalb wird die Antwort unmittelbar und vollständig formuliert.
 
-**Heute gibt es keinen Handel** und in absehbarer Ordnung ist keiner vorgesehen: Die Einheit bedient den inneren Umlauf.
+**Heute gibt es keinen Handel** und in absehbarer Ordnung ist keiner vorgesehen: Die Einheit ist nicht ausgegeben, und einen Umlauf hat sie nicht (Abschnitt 8).
 
 **Künftig ist eine Verfügbarkeit an einer Börse möglich**, wenn das Ökosystem wächst und es gerechtfertigt ist - doch sie ist **weder versprochen noch gewährleistet noch ein Ziel des Entwurfs**. Die Entscheidung über eine Einführung treffen unabhängige Handelsstellen und Aufsichtsbehörden und nicht das Volk der Earthlings.
 

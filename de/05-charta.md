@@ -244,13 +244,13 @@ Die Durchsichtigkeit erstreckt sich auf das Handeln der Einrichtungen und nicht 
 - bis zum Schluss kann die Stimmabgabe wiederholt werden; gezählt wird die zuletzt abgegebene Stimme
 - eine persönliche Stimme zu einer Frage hebt die Übertragung für diese Frage auf
 
-**Das Stimmgeheimnis ist ein Recht des Abstimmenden und keine Voraussetzung der Gültigkeit der Stimme.** Eine Stimme, die ein helfender Mensch gesehen hat, ist gültig; technische Hilfe, die den Inhalt der Stimme nicht bestimmt, ist zulässig (Erklärung, Artikel 8). Zu verlangen, dass ein Mensch zeigt, wie er abgestimmt hat, ist verboten; ein Vorteil für einen solchen Nachweis ist Kauf einer Stimme (Artikel 22-bis).
+**Das Stimmgeheimnis ist ein Recht des Abstimmenden und keine Voraussetzung der Gültigkeit der Stimme.** Eine Stimme, die ein helfender Mensch gesehen hat, ist gültig; technische Hilfe, die den Inhalt der Stimme nicht bestimmt, ist zulässig (Erklärung, Artikel 8, „Unüberwindliche Anforderungen gibt es nicht“). Zu verlangen, dass ein Mensch zeigt, wie er abgestimmt hat, ist verboten; eine Vergütung für einen solchen Nachweis ist Kauf einer Stimme (Artikel 22-bis).
 
 Stets werden veröffentlicht: die Frage selbst, die Antwortmöglichkeiten und die Fristen, die Zahl der Stimmberechtigten, die Zahl der Abstimmenden, das Ergebnis, der Nachweis der Auszählung und der Weg, auf dem jeder Mensch das Ergebnis selbst nachrechnen kann.
 
 ## Artikel 7. Die Übertragung von Stimmen
 
-Ein Earthling kann seine Stimme in einem einzelnen Sachgebiet einem anderen Earthling übertragen. Die Übertragung ist freiwillig und wird jederzeit widerrufen. Überlässt ein Earthling aus eigenem Willen einem anderen Menschen, den Inhalt seiner Stimme zu bestimmen, so ist das eine Übertragung, in welcher technischen Form sie auch vorgenommen wird, einschließlich der Weitergabe des Zugangs zum Schlüssel oder der Anbindung eines externen Unterzeichners, und für sie gelten alle Beschränkungen dieses Artikels. Technische Hilfe, die den Inhalt der Stimme nicht bestimmt, ist keine Übertragung (Erklärung, Artikel 8).
+Ein Earthling kann seine Stimme in einem einzelnen Sachgebiet einem anderen Earthling übertragen. Die Übertragung ist freiwillig und wird jederzeit widerrufen. Überlässt ein Earthling aus eigenem Willen einem anderen Menschen, den Inhalt seiner Stimme zu bestimmen, so ist das eine Übertragung, in welcher technischen Form sie auch vorgenommen wird, einschließlich der Weitergabe des Zugangs zum Schlüssel oder der Anbindung eines externen Unterzeichners, und für sie gelten alle Beschränkungen dieses Artikels. Technische Hilfe, die den Inhalt der Stimme nicht bestimmt, ist keine Übertragung (Erklärung, Artikel 8, „Unüberwindliche Anforderungen gibt es nicht“).
 
 > **Übertragung ist keine Repräsentation.** Sie wird für ein Sachgebiet erteilt und nicht auf Zeit; sie wird sofort widerrufen, ohne Angabe von Gründen und ohne Zustimmung des Delegierten; sie begründet kein Amt und gibt dem Delegierten kein Recht außer dem, die ihm übertragenen Stimmen abzugeben. Ein Delegierter kann jederzeit ohne eine einzige übertragene Stimme dastehen, und das ist die übliche Arbeit des Mechanismus und keine Störung.
 
@@ -516,7 +516,7 @@ In der Regel wird ein SBT-Pass nur vom Inhaber selbst entwertet (Artikel 18). Di
 
 ### 1. Die Aufhebung einer unwirksamen Ausgabe
 
-Ein Pass kann aufgehoben werden, wenn festgestellt ist, dass er unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde: Einem Menschen ist mehr als ein gültiger Pass ausgegeben worden, oder die Prüfung wurde unter Verwendung falscher Angaben oder der Identität eines anderen durchlaufen, oder der Pass wurde einer Person ausgegeben, die das von dieser Charta festgelegte Alter nicht erreicht hat. Die Aufzählung der Gründe ist abschließend und entspricht Artikel 8 der Erklärung.
+Die Ausgabe eines Passes kann aufgehoben werden, wenn festgestellt ist, dass der Pass unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde: Einem Menschen ist mehr als ein gültiger Pass ausgegeben worden, oder die Prüfung wurde unter Verwendung falscher Angaben oder der Identität eines anderen durchlaufen, oder der Pass wurde einer Person ausgegeben, die das von dieser Charta festgelegte Alter nicht erreicht hat. Die Aufzählung der Gründe ist abschließend und entspricht Artikel 8 der Erklärung.
 
 Ist einem Menschen mehr als ein gültiger Pass ausgegeben worden, so wird die Ausgabe aller Pässe außer dem zuerst ausgegebenen aufgehoben. In keinem der drei Fälle beendet die Aufhebung die Zugehörigkeit des Menschen zum Volk (Erklärung, Artikel 8); ist der Pass einer Person ausgegeben worden, die das festgelegte Alter nicht erreicht hat, so ist die Zugehörigkeit noch nicht entstanden, und die Aufhebung hat nichts zu beenden.
 

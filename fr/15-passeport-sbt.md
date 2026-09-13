@@ -47,7 +47,7 @@ La seule exception est constituée par des actes établis dirigés contre l'int�
 
 ### Les marques de participation
 
-L'historique de la participation et de l'apport est consigné publiquement: votes, projets achevés, travail dans les cellules.
+L'historique de la participation et de l'apport est consigné publiquement: projets achevés, travail dans les cellules. La participation aux votes n'est pas publiée: le vote personnel est secret (Charte, article 6).
 
 > **Ces marques n'ont aucun effet** et ont un caractère exclusivement informatif: [Charte, article 8](https://earth-lings.org/documents/fr/fr05-charte.html).
 
@@ -85,7 +85,7 @@ L'historique de la participation et de l'apport est consigné publiquement: vote
 
 ### La conservation des données
 
-- **dans le registre:** identifiant, pseudonyme, empreinte de la vérification. Les données personnelles ne sont pas inscrites au registre;
+- **dans le registre:** identifiant et empreinte de la vérification; le pseudonyme n'est pas inscrit au registre. Les données personnelles ne sont pas inscrites au registre;
 - **hors registre:** les données personnelles du compte, sous forme chiffrée et en volume minimal;
 - **biométrie:** non conservée. Ne sont conservées que des empreintes cryptographiques irréversibles, et uniquement pour qu'une même personne ne puisse pas détenir deux passeports valides;
 - la conception suit les principes du RGPD.
@@ -127,7 +127,7 @@ Le passeport atteste ce qu'il atteste, et ce n'est pas peu: une personne déterm
 
 - la DAO des Earthlings n'est pas une personne morale enregistrée;
 - les participants répondent individuellement du respect des lois de leurs pays;
-- les différends internes se règlent selon les procédures de la Charte: dialogue, médiation et, en cas de manquements graves, saisine du Conseil indépendant. Le peuple ne se substitue pas aux juridictions et aux mécanismes juridiques étatiques et n'offre pas d'arbitrage hors de son écosystème.
+- les différends internes se règlent selon la procédure établie par le document « Éthique des Earthlings »: dialogue, médiation avec l'accord des deux parties, saisine du Conseil indépendant en cas de manquements graves et, dans les cas extrêmes, examen par l'Assemblée; tant que le Conseil n'est pas constitué, l'étape prévoyant sa participation est omise et les délais de débat sont doublés (Charte, article 39). Le peuple ne se substitue pas aux juridictions et aux mécanismes juridiques étatiques et n'offre pas d'arbitrage hors de son écosystème.
 
 ---
 

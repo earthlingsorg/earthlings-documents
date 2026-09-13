@@ -102,7 +102,7 @@ Ein Einwand, der auf einer persönlichen Vorliebe beruht - „gefällt mir nicht
 Ist ein begründeter Einwand erhoben, so ist die Zelle verpflichtet, ihn zu behandeln: ihn zu berücksichtigen, durch eine Änderung auszuräumen oder begründet zu widerlegen.
 
 - Einwände auf den Grundlagen der **Verletzung der Grundsätze oder des Zwangs** sind zwingend zu befolgen: Eine Entscheidung kann nicht getroffen werden, solange sie nicht ausgeräumt sind. Das ist der Schutz des Menschen und der Grundlagen des Volkes, und er lässt sich durch Abstimmung nicht überwinden;
-- Einwände auf den Grundlagen des **Schadens oder der Undurchführbarkeit** lösen eine Runde der Beilegung aus; sind sie nach einem redlichen Versuch nicht ausgeräumt, so wird die Frage durch eine gewöhnliche Abstimmung der Zelle entschieden, und das geltend gemachte Risiko wird festgehalten;
+- Einwände auf den Grundlagen des **Schadens oder der Undurchführbarkeit** lösen eine Runde der Beilegung aus; sind sie nach einem redlichen Versuch nicht ausgeräumt, so wird die Frage durch eine Abstimmung der Zelle entschieden - geheim, wie jede persönliche Stimme (Charta, Artikel 6) -, und das geltend gemachte Risiko wird festgehalten;
 - ein in der Zelle nicht beigelegter Streit geht in das in Abschnitt 10 beschriebene Verfahren über.
 
 ## Zwei verschiedene Arten von Entscheidungen

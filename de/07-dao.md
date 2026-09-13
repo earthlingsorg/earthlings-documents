@@ -22,7 +22,7 @@ Anders als überkommene hierarchische Systeme ruht die DAO der Earthlings auf dr
 
 Die wesentlichen Vorgänge - von Abstimmungen bis zur Verteilung der Mittel - werden in überprüfbaren Aufzeichnungen und, wo es erforderlich ist, in einem verteilten Register festgehalten. Die Regeln stehen zur Untersuchung offen, die Ergebnisse der Abstimmungen können von jedem Teilnehmer oder einem äußeren Prüfer unabhängig nachgerechnet werden. Geschlossene Verfahren und verborgene Protokolle gibt es nicht.
 
-Dabei erstreckt sich die Durchsichtigkeit auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen: Die Willensbekundung eines bestimmten Menschen kann dort verschlossen sein, wo Offenheit ihn einem Risiko aussetzen würde (Abschnitt 05).
+Dabei erstreckt sich die Durchsichtigkeit auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen: Die persönliche Stimme ist geheim, und die übertragenen Stimmen, die ein Delegierter abgibt, sind offen (Abschnitt 05).
 
 ### Die Gleichberechtigung der Teilnehmer
 
@@ -128,11 +128,11 @@ Eine öffentliche Stellungnahme von Fachleuten ist ein Argument in der Erörteru
 
 ## Offenheit und Abstimmungsgeheimnis
 
-In der Regel sind die Abstimmungen offen: Die Tatsache der Teilnahme und die Willensbekundung stehen zur Überprüfung offen. Die Offenheit ist die Weise, sich davon zu überzeugen, dass die Auszählung ehrlich ist.
+Die persönliche Stimme ist geheim: Die Abstimmung ist so eingerichtet, dass niemand, auch nicht diejenigen, die die Infrastruktur betreiben, erfahren kann, wie ein bestimmter Mensch abgestimmt hat, oder sich davon überzeugen kann, selbst mit dessen Zustimmung nicht. Die Teilnahme eines bestimmten Menschen wird nicht veröffentlicht, der Zwischenstand ist bis zum Schluss verborgen, und bis zum Schluss kann die Stimmabgabe wiederholt werden - gezählt wird die zuletzt abgegebene Stimme.
 
-Doch es gibt Fragen, bei denen die Offenheit der Willensbekundung einen Menschen nicht schützt, sondern einem Risiko aussetzt. Für sie gilt eine **geheime Abstimmung mit überprüfbarer Auszählung**; die Aufzählung solcher Fragen und der Ablauf sind in der [Charta, Artikel 6](https://earth-lings.org/documents/de/de05-charta.html) festgelegt.
+Offen sind die Beratung, das Handeln der Einrichtungen und die übertragenen Stimmen, die ein Delegierter abgibt. Das Stimmgeheimnis hebt die Überprüfung nicht auf: Veröffentlicht werden die Frage, die Zahl der Stimmberechtigten und der Abstimmenden, das Ergebnis und **der Nachweis der Auszählung**, anhand dessen jeder Mensch das Ergebnis nachrechnen kann. Der Ablauf ist in der [Charta, Artikel 6](https://earth-lings.org/documents/de/de05-charta.html) festgelegt.
 
-Geheim wird zwingend abgestimmt bei der Behandlung der Frage einer Beschränkung von Befugnissen und bei der Aufhebung einer unwirksamen Ausgabe eines Passes, und durch Beschluss der Vollversammlung für einzelne Fragen oder Gruppen, insbesondere solche, die die Position des Volkes zu Handlungen von Staaten betreffen.
+Das Stimmgeheimnis ist ein Recht des Abstimmenden und keine Voraussetzung der Gültigkeit der Stimme: Technische Hilfe, die den Inhalt der Stimme nicht bestimmt, ist zulässig. Zu verlangen, dass ein Mensch zeigt, wie er abgestimmt hat, ist verboten, und eine Vergütung für einen solchen Nachweis ist Kauf einer Stimme (Charta, Artikel 22-bis).
 
 ## Die Messung des gemeinsamen Willens - kein Beschluss
 
@@ -274,7 +274,7 @@ Bei technischen Störungen hat die Wiederherstellung eines richtigen Zustands Vo
 
 Die DAO stützt sich auf die Sparsamkeit der erhobenen Daten und auf den Schutz der Vertraulichkeit der Teilnehmer nach internationalen Maßstäben.
 
-**Daten im verteilten Register.** Abstimmungen, Vorgänge und Beschlüsse werden unter Verwendung pseudonymer Kennungen und kryptografischer Verfahren festgehalten. Eine dauerhafte Verbindung „Eintrag - Person“ wird nicht aufbewahrt; die Identitätsprüfung nimmt das eigene System des Volkes ohne äußere Anbieter vor. Bei geheim durchgeführten Abstimmungen wird die Verbindung zwischen Stimme und Abstimmendem niemandem offengelegt, wobei die Überprüfbarkeit der Auszählung erhalten bleibt.
+**Daten im verteilten Register.** Abstimmungen, Vorgänge und Beschlüsse werden unter Verwendung pseudonymer Kennungen und kryptografischer Verfahren festgehalten. Eine dauerhafte Verbindung „Eintrag - Person“ wird nicht aufbewahrt; die Identitätsprüfung nimmt das eigene System des Volkes ohne äußere Anbieter vor. Die Verbindung zwischen der persönlichen Stimme und dem Abstimmenden wird niemandem offengelegt, wobei die Überprüfbarkeit der Auszählung erhalten bleibt; offen sind nur die übertragenen Stimmen, die ein Delegierter abgibt.
 
 **Persönliche Daten.** Die Identitätsprüfung und die Prüfung des Papiers nimmt das eigene System nach der DSGVO und anderem anwendbaren Recht vor. Das Volk und die DAO speichern keine Lichtbilder, Scans, wirklichen Namen und biometrischen Vorlagen: Die biometrischen Daten werden im Augenblick der Prüfung verarbeitet und nicht gespeichert. Was genau zum Schutz vor einer erneuten Anmeldung gespeichert wird, steht in der [Politik der biometrischen Prüfung](https://earth-lings.org/documents/de/de16-biometrische-pruefung.html). Die Daten des Kontos - E-Mail, Pseudonym, Einstellungen - werden in möglichst geringem Umfang verarbeitet.
 

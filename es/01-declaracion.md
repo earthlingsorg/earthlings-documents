@@ -60,7 +60,7 @@ En el pueblo Earthlings, el gobierno del pueblo se asienta en tres condiciones, 
 
 **Segunda.** El voto es inseparable de la persona verificada: acumularlo o cederlo de manera irrevocable resulta imposible por la propia organización de la comunidad.
 
-**Tercera.** Todo earthling puede verificar por sí mismo el resultado de su votación y de la decisión.
+**Tercera.** Todo earthling puede verificar por sí mismo que su voto se ha computado, así como el resultado de la votación y las decisiones adoptadas.
 
 ## Artículo 3. Los valores del pueblo
 

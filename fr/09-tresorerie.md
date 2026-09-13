@@ -180,7 +180,7 @@ Les Earthlings peuvent confier volontairement leur voix, sur un domaine détermi
 - **une seule délégation active par domaine**;
 - **révocation à tout moment** - en une seule étape, sans avoir à s'expliquer et sans l'accord de celui à qui la voix a été confiée;
 - **tout earthling peut être délégué** - la réputation n'ouvre ni ne ferme l'accès à cette possibilité;
-- toutes les voix exprimées par le délégué sont publiques.
+- les votes exprimés par le délégué au titre des voix qui lui ont été confiées sont publics; aucune publication ne fait connaître qui a confié sa voix au délégué.
 
 **La délégation ne s'applique pas** aux votes portant sur la modification de la Charte et des règles de base de la Trésorerie, sur un financement au-delà de 100 000 EC, sur la constitution de l'Emergency Multisig, sur la restriction de pouvoirs, sur l'annulation d'une délivrance de passeport et sur la modification des principes intangibles.
 
@@ -208,7 +208,7 @@ Il n'existe pas d'autres motifs d'exclure une voix: une décision de la majorit�
 
 **Déclaration des liens.** Au dépôt d'une demande, son auteur est tenu d'indiquer tous les participants liés au projet. L'information est publiée avec la demande.
 
-**Ouverture.** Les votes de répartition des fonds sont ouverts en règle générale: chacun voit comment les autres ont voté. Cela crée un mécanisme de contrôle mutuel là où il s'agit d'argent commun.
+**Ouverture.** Dans les votes de répartition des fonds, sont ouverts les demandes, le débat, le résultat et les mouvements de fonds; le vote personnel est secret, comme dans tous les votes (Charte, article 6). Le contrôle mutuel là où il s'agit d'argent commun repose sur l'ouverture des demandes, des résultats et des dépenses, et non sur la visibilité des votes d'autrui.
 
 ## Article 17. Le dépôt et l'examen des projets
 
@@ -274,7 +274,7 @@ Portefeuille multisig de six participants, destiné aux opérations techniques u
 
 **Contrôle:**
 
-- verrou temporel de 24 heures sur toutes les transactions, sauf réaction à une attaque en cours;
+- verrou temporel de 24 heures sur toutes les transactions, sauf réaction à une attaque en cours et suspension des contrats intelligents vulnérables en cas de vulnérabilité critique;
 - tous les actes sont visibles publiquement en temps réel;
 - rapport public obligatoire dans les 48 heures;
 - **la DAO peut annuler tout acte à la majorité simple**;

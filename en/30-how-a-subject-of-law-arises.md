@@ -32,7 +32,7 @@ International law knows how to ascertain that a collective subject exists, and k
 
 It is precisely this area - the voluntary constitution of collective subjecthood - that any contemporary case, once it is taken seriously, finds unoccupied.
 
-> **An illustration from the practice of recent years.** In November 2023 Australia and Tuvalu signed the Falepili Union Treaty, in force since August 2024: its Article 2 records the parties' recognition that the statehood and sovereignty of Tuvalu will continue notwithstanding the effects of sea-level rise. The Pacific Islands Forum and the Alliance of Small Island States adopted declarations on the continuity of statehood; in 2025 the UN International Law Commission approved the final report of the Study Group on sea-level rise, noting broad support among states for the continuity of statehood and the preservation of international legal personality, and pointing out that the Montevideo criteria do not resolve the question of continuity.
+> **An illustration from the practice of recent years.** In November 2023 Australia and Tuvalu signed the Falepili Union Treaty, in force since August 2024: its Article 2 records the parties' recognition that the statehood and sovereignty of Tuvalu will continue notwithstanding the effects of sea-level rise. The Pacific Islands Forum and the Alliance of Small Island States adopted declarations on the continuity of statehood; in 2025 the UN International Law Commission approved the final report of the Study Group on sea-level rise: according to the English text of the report, there is strong support among states for the continuity of statehood and the maintenance of international legal personality, and Article 1 of the Montevideo Convention does not address the question of the continuity of statehood in the context of sea-level rise.
 >
 > Faced with necessity, the law worked out the separation of status from territory within two years - **for the preservation** of a subject that already exists. The question of what that separation means **for the emergence** of a subject was not put: the community of states had no occasion to put it.
 >
@@ -58,7 +58,7 @@ The two cases set out above outline the unoccupied area from two sides. Tuvalu s
 
 ## An important qualification: what this gap does not mean
 
-A gap in doctrine does not make the emergence of a people unlawful: the lawfulness of an act rests not on the existence of a special theory but on a norm in force - freedom of association, already binding on states today.
+A gap in doctrine does not make the emergence of a people unlawful: the lawfulness of an act rests not on the existence of a special theory but on a norm in force - freedom of association, enshrined in treaties that are already binding today on the states parties to them.
 
 The absence of a worked-out theory has never meant unlawfulness: otherwise the first instance of any legal form would be outside the law, and the continental shelf, claimed in 1945 despite the complete silence of the norms, would have been a wrongful act rather than a future norm. For private persons exercising a recognized freedom, the principle "what is not prohibited is permitted" applies.
 
@@ -116,11 +116,11 @@ The doctrine therefore answered one question: how an already existing people exe
 
 The conclusion is not "the theory is incomplete" but, more precisely: it is specialized. Every developed theory has a domain of application; the subject matter of the theory of self-determination historically lay in a different plane.
 
-The specialization is visible not only in the tone of the doctrine but in the texts. General Assembly resolution 1541 (XV) of 1960 qualifies a territory as non-self-governing by reference to its geographical separateness and its ethnic or cultural distinctness from the administering state - the qualifying feature is the territory, not the group. Resolution 2625 (XXV) of 1970, in its safeguard clause, speaks of a government representing "the whole people **belonging to** the territory". The people's belonging to a territory is fixed here in so many words.
+The specialization is visible not only in the tone of the doctrine but in the texts. General Assembly resolution 1541 (XV) of 1960 qualifies a territory as non-self-governing by reference to its geographical separateness and its ethnic or cultural distinctness from the administering state - the qualifying feature is the territory, not the group. In its safeguard clause, the Russian text of resolution 2625 (XXV) of 1970 speaks of a government representing "the whole people **residing in that territory**"; the English text, equally official, puts it more strongly - "the whole people belonging to the territory". The link between a people and a territory is fixed here in so many words.
 
 This materially qualifies the thesis. Territoriality in the doctrine of self-determination is not an incidental effect of the age that could be written off as a matter of tone: it is written into the texts. But it is written in where the question being decided was the delimitation of states and colonial territories - and none of those texts contains a definition of a people as such. They describe the conditions under which territorial integrity is protected, not what a people is.
 
-The most authoritative doctrinal formulation goes further and requires a link with territory outright: the study by the UN Special Rapporteur Aureliu Cristescu (1981) defines a people as a social entity possessing a clear identity and its own characteristics, and adds that this implies a relationship with a territory **even if the people in question has been wrongfully expelled from it and artificially replaced by another population**. The formulation preserves a territorial link for a people that has lost its territory - and thereby leaves no place for a community that never had one. This is the most precise objection in existence, and it cannot be circumvented when the question is put.
+What ties a people to territory outright is a text that is not a norm but was published as an official UN document: the study by Aureliu Cristescu, Special Rapporteur of the UN Sub-Commission (1981). It gives no definition of a people, but it names elements of a definition that "cannot and should not be ignored": a people is a social entity possessing a clear identity and its own characteristics, and implies a relationship with a territory **even if the people in question has been wrongfully expelled from it and artificially replaced by another population**. The formulation preserves a territorial link for a people that has lost its territory - and thereby leaves no place for a community that never had one. This is the most precise objection in existence, and it cannot be circumvented when the question is put.
 
 The absence of a worked-out answer to the question of how a people arises testifies not to the impossibility of such an answer but to the absence, until now, of any historical demand for it.
 
@@ -170,7 +170,7 @@ These theses are not an academic exercise. Behind them stands a practical questi
 
 **The first question: is the act itself lawful?** May individuals from different states voluntarily associate, declare themselves a people, and build institutions of self-government without violating international law?
 
-To this question the Legal Basis answers in the affirmative, relying on freedom of association - a norm already binding on states today and limiting neither the purposes nor the forms of association. International law contains no prohibition of such an act.
+To this question the Legal Basis answers in the affirmative, relying on freedom of association - a norm that limits neither the purposes nor the forms of association and is enshrined in treaties that are already binding today on the states parties to them. International law contains no prohibition of such an act.
 
 **The second question: is the community that has emerged a people in the legal sense?**
 

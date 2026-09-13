@@ -224,7 +224,7 @@ Alles Wesentliche: die Änderung der Charta und der Regeln; die Verteilung gemei
 
 ## Besondere Lagen
 
-Bei kritischen Schwachstellen und Angriffen ist der Emergency Multisig befugt, in den Grenzen des Artikels 3 der Charta sofort zu handeln - mit einem öffentlichen Bericht binnen 48 Stunden und einer Bestätigung durch die Vollversammlung binnen 7 Tagen, sonst wird die Handlung aufgehoben. Jede Handlung kann von der Vollversammlung mit einfacher Mehrheit aufgehoben werden.
+Der Emergency Multisig ist befugt, bei kritischen Angriffen sofort zu handeln und bei kritischen Schwachstellen verwundbare Smart Contracts sofort auszusetzen; seine übrigen Handlungen erfolgen über einen Timelock von 24 Stunden (Charta, Artikel 3) - mit einem öffentlichen Bericht binnen 48 Stunden und einer Bestätigung durch die Vollversammlung binnen 7 Tagen, sonst wird die Handlung aufgehoben. Jede Handlung kann von der Vollversammlung mit einfacher Mehrheit aufgehoben werden.
 
 Ein Missbrauch führt jederzeit zum Widerruf mit einfacher Mehrheit.
 

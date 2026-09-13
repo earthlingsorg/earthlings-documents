@@ -122,7 +122,7 @@ Hay dos vías, y no son lo mismo.
 
 **Participar en la adopción del texto.** Para ello hay que verificar la identidad antes del día de la adopción: votan aquellos de quienes se ha verificado que son una sola persona viva. La verificación es gratuita y no constituye adhesión al pueblo: confiere la condición temporal de participante en la constitución y el derecho de voto el día de la adopción.
 
-**Sobre el monedero.** Para recibir el documento temporal hace falta un monedero de criptomoneda al que quede ligado; es necesario para que la votación siga siendo transparente y quede registrada a nombre de un participante concreto. Si no tiene monedero y no sabe cómo crearlo: en el formulario de verificación de identidad está Web3Auth, que crea un monedero de manera automática, mediante acceso con correo, Google o Apple, sin frase semilla.
+**Sobre el monedero.** Para recibir el documento temporal hace falta un monedero de criptomoneda al que quede ligado; es necesario para que el voto solo pueda emitirlo un participante verificado, y una sola vez, mientras que cómo ha votado un participante concreto no lo sabrá nadie: la votación sobre la adopción es secreta. Si no tiene monedero y no sabe cómo crearlo: en el formulario de verificación de identidad está Web3Auth, que crea un monedero de manera automática, mediante acceso con correo, Google o Apple, sin frase semilla.
 
 **En qué lengua.** En cualquiera de las nueve en las que existe el corpus: inglés, ruso, alemán, español, francés, chino, árabe, hindi y georgiano. No hace falta traducir uno mismo su propuesta, y una propuesta no se rechaza por su lengua.
 
@@ -223,7 +223,7 @@ La verificación de identidad se realiza de manera gratuita y continúa durante 
 
 ## 6. Adopción del texto
 
-El texto se adopta por votación el 17 de febrero de 2027. Votan las personas que han verificado su identidad, conforme al principio «una persona, un voto».
+El texto se adopta por votación el 17 de febrero de 2027. Votan las personas que han verificado su identidad, conforme al principio «una persona, un voto». La votación es secreta: nadie, incluidos quienes operan la infraestructura, puede saber cómo ha votado un participante concreto, ni cerciorarse de ello aun con su consentimiento; el resultado, con todo, puede demostrarse a cualquiera. Cómo se desarrolla la votación se anuncia el 3 de febrero de 2027 junto con las redacciones definitivas.
 
 La votación se celebra sobre dos textos a la vez, el ruso y el inglés. Ambos se adoptan como auténticos (Declaración, artículo 11), por lo que el texto inglés debe estar listo y publicado no más tarde del día de publicación del compendio, el 3 de febrero de 2027: solo se puede votar aquello que se puede leer de antemano.
 

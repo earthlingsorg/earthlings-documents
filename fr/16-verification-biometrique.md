@@ -65,7 +65,7 @@ La vérification est volontaire. Vous avez le droit de retirer votre consentemen
 # SECTION 03. Les conditions d'obtention du statut
 
 - **âge** - avoir atteint 18 ans;
-- **consentement** - acceptation volontaire de la Déclaration;
+- **consentement** - signature volontaire de la Déclaration;
 - **vérification d'identité** - confirmation de l'unicité;
 - **passeport** - émission d'un jeton intransmissible à votre adresse.
 
@@ -217,7 +217,7 @@ Le registre suit le principe de minimisation des données conformément au RGPD.
 
 Les photographies et les scans sont supprimés dès la vérification, mais son résultat reste valide et vérifiable, à la manière dont un État ne conserve pas en permanence les échantillons biométriques lors de la délivrance d'un passeport, alors que le fait de la délivrance reste valide.
 
-> **Le lien entre l'identité réelle et le pseudonyme n'est pas conservé.** Les données du document ne sont traitées qu'au moment de la vérification. Il reste dans le registre le pseudonyme, l'état de la vérification et une attestation cryptographique d'unicité. Cette architecture exclut la divulgation de l'identité d'un participant - aux autres participants, aux administrateurs et aux tiers - parce qu'il n'y a rien à divulguer.
+> **Le lien entre l'identité réelle et le pseudonyme n'est pas conservé.** Les données du document ne sont traitées qu'au moment de la vérification. Il reste dans le système de vérification d'identité le pseudonyme, l'état de la vérification et une attestation cryptographique d'unicité; le pseudonyme n'est pas inscrit au registre public. Cette architecture exclut la divulgation de l'identité d'un participant - aux autres participants, aux administrateurs et aux tiers - parce qu'il n'y a rien à divulguer.
 
 ---
 

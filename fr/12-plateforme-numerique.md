@@ -107,7 +107,7 @@ L'espace personnel est le point de contact principal entre la personne et l'éco
 
 - participation aux cellules;
 - participation aux projets: rôle, apport, état d'achèvement;
-- participation aux votes - dans la mesure fixée par les règles d'ouverture et de secret (section 06);
+- participation aux votes - non consignée: la participation d'une personne déterminée au vote n'est pas publiée (section 06);
 - marques de reconnaissance reçues.
 
 > **Les marques de reconnaissance n'ont aucun effet** et demeurent exclusivement informatives ([Charte, article 8](https://earth-lings.org/documents/fr/fr05-charte.html)). La plateforme n'a pas le droit d'utiliser les indicateurs de réputation comme condition d'accès à une fonction quelconque.
@@ -150,16 +150,16 @@ Le seul cas dans lequel la plateforme exécute une suspension de la voix est une
 
 ## Ouverture et secret
 
-En règle générale, les votes sont ouverts: le fait de participer et l'expression de la volonté sont vérifiables par tous les participants. L'ouverture est un moyen de s'assurer que le décompte est honnête.
+Le vote personnel est secret: le scrutin est agencé de manière que personne, y compris ceux qui exploitent la plateforme, ne puisse établir comment une personne déterminée a voté, ni s'en assurer même avec son accord. La participation d'une personne déterminée au vote n'est pas publiée.
 
-Mais la transparence porte sur les actes des institutions et non sur les données personnelles des gens. C'est pourquoi la plateforme est tenue de prendre en charge le **vote secret à décompte vérifiable**: le résultat est vérifié par tous, le lien entre la voix et le votant n'est divulgué à personne, y compris à ceux qui exploitent la plateforme. Les cas d'application du régime secret figurent à la [Charte, article 6](https://earth-lings.org/documents/fr/fr05-charte.html).
+La transparence porte sur les actes des institutions et non sur les données personnelles des gens. C'est pourquoi la plateforme est tenue d'assurer le **vote secret à décompte vérifiable**: le résultat est vérifié par tous, le lien entre le vote et le votant n'est divulgué à personne, y compris à ceux qui exploitent la plateforme. La procédure est établie par la [Charte, article 6](https://earth-lings.org/documents/fr/fr05-charte.html).
 
-Le vote secret s'applique:
+La plateforme assure également:
 
-- **obligatoirement** - lors de l'examen d'une restriction de pouvoirs et lors de l'annulation d'une délivrance non valide de passeport;
-- **sur décision de l'Assemblée** - pour des questions ou des catégories déterminées, en particulier celles qui touchent la position du peuple sur les actes des États et sur les questions internationales.
+- **jusqu'à la clôture du vote** - le masquage du décompte intermédiaire et la possibilité de voter à nouveau, le dernier vote exprimé étant retenu; un vote personnel sur une question annule la délégation sur cette question;
+- **l'ouverture des votes du délégué** - les votes exprimés par le délégué au titre des voix qui lui ont été confiées sont visibles de tous; aucune publication ne fait connaître qui a confié sa voix au délégué.
 
-Dans tous les cas sont publiés la question, le résultat, le nombre de votants et le résultat de la vérification du décompte.
+Sont toujours publiés la question, les options de réponse, les délais, le nombre de personnes ayant le droit de vote, le nombre de votants, le résultat, la preuve du décompte et la manière de recompter le résultat soi-même.
 
 ## La délégation
 

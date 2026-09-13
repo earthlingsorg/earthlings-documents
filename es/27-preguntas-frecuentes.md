@@ -26,7 +26,7 @@ No. La cuota es única: tras obtener el pasaporte no existen pagos anuales ni me
 
 ### ¿Y si no puedo pagar?
 
-Entonces la cuota la abonará por usted alguien más. En el paso del pago hay un segundo botón, «necesito la cuota»: no pregunta nada y lo coloca en una cola abierta donde solo se ven el número y la fecha. Pagar la cola puede hacerlo cualquier persona, pero elegir a quién exactamente no puede: se paga siempre la cabeza de la cola. El pasaporte que recibirá será exactamente igual que el de todos: en el registro no consta quién pagó por él. Habrá que esperar, pero el dinero no cerrará la entrada para siempre. Más detalles, en el documento [El camino del earthling](https://earth-lings.org/documents/es/es14-camino-del-earthling.html).
+Entonces puede entrar en una cola abierta, y la cuota puede abonarla por usted alguien más; no hay garantía de ello. Cuando la entrada sea de pago, en el paso del pago habrá un segundo botón, «necesito la cuota»: no preguntará nada y lo colocará en una cola abierta donde solo se ven el número y la fecha. Pagar la cola puede hacerlo cualquier persona, pero elegir a quién exactamente no puede: se paga siempre la cabeza de la cola. Si alguien abona la cuota por usted, el pasaporte será exactamente igual que el de todos: en el registro no consta quién pagó por él. Habrá que esperar a la emisión del pasaporte, y no se sabe de antemano cuánto. La pertenencia al pueblo no depende de ello: nace al firmar la Declaración, no al abonar la cuota. Más detalles, en el documento [El camino del earthling](https://earth-lings.org/documents/es/es14-camino-del-earthling.html).
 
 → [El camino del earthling](https://earth-lings.org/documents/es/es14-camino-del-earthling.html)
 
@@ -136,7 +136,7 @@ No existe el poder de unas personas sobre otras: nadie ocupa una posición por e
 
 El voto no se compra y no depende del dinero: es una regla intangible. La cadena de bloques se emplea allí donde hace falta un asiento que no se pueda falsificar: pasaportes, votaciones, caja.
 
-La unidad de cuenta hoy no se negocia en ninguna parte y da servicio únicamente a la circulación interna. Una disponibilidad bursátil en el futuro es posible, pero no está prometida y no es un fin, y nadie promete un aumento de valor en ningún desarrollo de los acontecimientos.
+Hoy no hay emisión de la unidad de cuenta, y esta no se negocia en ninguna parte: la economía de la participación se lleva en una contabilidad interna. Una disponibilidad bursátil en el futuro es posible, pero no está prometida y no es un fin, y nadie promete un aumento de valor en ningún desarrollo de los acontecimientos.
 
 → [Earthlings Coin](https://earth-lings.org/documents/es/es10-earthlings-coin.html)
 

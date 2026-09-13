@@ -180,7 +180,7 @@ Earthlings können ihre Stimme in einem einzelnen Sachgebiet freiwillig einem an
 - **eine aktive Übertragung je Sachgebiet**;
 - **Widerruf jederzeit** - in einem Schritt, ohne Angabe von Gründen und ohne Zustimmung dessen, dem die Stimme übertragen wurde;
 - **Delegierter kann jeder Earthling sein** - das Ansehen öffnet und verschließt den Zugang zu dieser Möglichkeit nicht;
-- alle vom Delegierten abgegebenen Stimmen sind öffentlich.
+- die übertragenen Stimmen, die ein Delegierter abgibt, sind öffentlich; nicht veröffentlicht wird, wer dem Delegierten seine Stimme übertragen hat.
 
 **Eine Übertragung findet nicht statt** bei Abstimmungen über die Änderung der Charta und der Grundregeln der Schatzkammer, über eine Finanzierung von mehr als 100 000 EC, über die Bildung des Emergency Multisig, über die Beschränkung von Befugnissen, über die Aufhebung der Ausgabe eines Passes und über die Änderung der unabänderlichen Grundsätze.
 
@@ -208,7 +208,7 @@ Andere Gründe, eine Stimme auszuschließen, gibt es nicht: Durch Mehrheitsbesch
 
 **Die Anzeige von Verbindungen.** Bei der Einreichung eines Antrags ist der Einleitende verpflichtet, alle mit dem Projekt verbundenen Teilnehmer anzugeben. Die Angaben werden zusammen mit dem Antrag veröffentlicht.
 
-**Offenheit.** Abstimmungen über die Verteilung von Mitteln sind in der Regel offen: Jeder sieht, wie die anderen abgestimmt haben. Das schafft einen Mechanismus der gegenseitigen Kontrolle dort, wo es um gemeinsames Geld geht.
+**Offenheit.** Bei Abstimmungen über die Verteilung von Mitteln sind die Anträge, die Beratung, das Ergebnis und die Bewegung der Mittel offen; die persönliche Stimme ist geheim, wie bei allen Abstimmungen (Charta, Artikel 6). Die gegenseitige Kontrolle dort, wo es um gemeinsames Geld geht, beruht auf der Offenheit der Anträge, der Ergebnisse und der Ausgaben und nicht auf der Sichtbarkeit fremder Stimmen.
 
 ## Artikel 17. Einreichung und Behandlung von Projekten
 
@@ -274,7 +274,7 @@ Eine Multisig-Geldbörse von sechs Teilnehmern für dringende technische Vorgän
 
 **Die Kontrolle:**
 
-- ein Timelock von 24 Stunden auf alle Vorgänge, außer bei der Abwehr eines laufenden Angriffs;
+- ein Timelock von 24 Stunden auf alle Vorgänge, außer bei der Abwehr eines laufenden Angriffs und bei der Aussetzung verwundbarer Smart Contracts im Fall einer kritischen Schwachstelle;
 - alle Handlungen sind in Echtzeit öffentlich sichtbar;
 - ein zwingender öffentlicher Bericht binnen 48 Stunden;
 - **die DAO kann jede Handlung mit einfacher Mehrheit aufheben**;

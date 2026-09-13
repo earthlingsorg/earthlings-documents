@@ -116,7 +116,7 @@ Tout ce qui est décrit ci-dessus est un agencement visé, non un état atteint.
 
 C'est la question la plus fréquemment posée, aussi la réponse est-elle formulée directement et en entier.
 
-**Aujourd'hui il n'y a pas de cotation**, et il n'en est pas prévu dans un avenir prévisible: l'unité sert la circulation interne.
+**Aujourd'hui il n'y a pas de cotation**, et il n'en est pas prévu dans un avenir prévisible: l'unité n'est pas émise et ne circule pas (section 8).
 
 **À l'avenir, une disponibilité sur des places de marché est possible** si l'écosystème grandit et que cela se justifie, mais elle **n'est ni promise, ni garantie, ni un but de conception**. La décision d'admission appartient à des places et à des régulateurs indépendants, non au peuple des Earthlings.
 

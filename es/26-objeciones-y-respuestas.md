@@ -20,7 +20,7 @@ En caso de discrepancia con la Declaración se aplica la Declaración.
 
 **Posición de partida a la que convergen todas las respuestas:**
 
-**Primera.** Las dos normas en las que nos apoyamos están vigentes hoy y obligan a los Estados: la libertad de asociación y el derecho de libre determinación de los pueblos. Ninguna de las dos está inventada.
+**Primera.** Las dos normas en las que nos apoyamos están vigentes hoy: la libertad de asociación y el derecho de libre determinación de los pueblos. Los tratados que las consagran son obligatorios para los Estados partes. Ninguna de las dos está inventada.
 
 **Segunda.** Su aplicación a un pueblo no territorial constituido voluntariamente no está resuelta por el derecho internacional. Lo reconocemos abiertamente.
 
@@ -104,11 +104,11 @@ La pertenencia se constituye con un acto gratuito: la firma de la Declaración. 
 
 Exactamente así está organizada la entrada en cualquier pueblo por acto: la naturalización está gravada en todos los países con una tasa estatal de varios cientos de dólares o su equivalente, y el pasaporte se paga en todos los países del mundo también para los ciudadanos por nacimiento. La tasa paga el procedimiento, no compra la pertenencia.
 
-La diferencia con el derecho de naturalización es una sola, y está a nuestro favor. Allí quien carece de medios queda exento de la tasa, es decir, está obligado a declarar su pobreza y a demostrarla ante un órgano que puede no creerle. Aquí no hay exención en absoluto: la cuota se abona siempre íntegra, y solo cambia quién la abona. Quien no puede pagar entra con un solo acto en una cola abierta, donde solo se ven el número y la fecha, y su cuota la abona otra persona o la Tesorería. Nadie declara nada sobre sí mismo, nadie demuestra nada, y ningún órgano decide si una persona es bastante pobre.
+La diferencia con el derecho de naturalización es una sola, y está a nuestro favor. Allí quien carece de medios queda exento de la tasa, es decir, está obligado a declarar su pobreza y a demostrarla ante un órgano que puede no creerle. Aquí no hay exención en absoluto: la cuota se abona siempre íntegra, y solo cambia quién la abona. Quien no puede pagar entra con un solo acto en una cola abierta, donde solo se ven el número y la fecha, y su cuota puede abonarla otra persona o la Tesorería; no hay garantía de ello. Nadie declara nada sobre sí mismo, nadie demuestra nada, y ningún órgano decide si una persona es bastante pobre.
 
 Pagar la cola puede cualquiera, pero elegir a quién no puede nadie: se paga la cabeza de la cola. De otro modo aparecería un protector y, tras él, la dependencia. Quien paga no sabe a quién ha pagado; el pagado no sabe quién pagó; en el registro no consta quién abonó la cuota, y el pasaporte es indistinguible de los demás. Esto es más importante de lo que suena: la exención previa solicitud crea siempre dos categorías de participantes, los que pagaron y los que fueron compadecidos. Aquí la categoría es una sola.
 
-Lo que no prometemos con ello: una entrada inmediata. Quien está en la cola espera a que aparezca un pagador. El dinero hace la entrada más lenta, pero no la cierra del todo, y en eso vemos un límite honesto de lo posible, no una solución al problema de la pobreza.
+Lo que no prometemos con ello: que aparezca un pagador. Quien está en la cola espera a la emisión del pasaporte, y no se sabe de antemano cuánto: el pago por él es posible, pero no está garantizado, y en eso vemos un límite honesto de lo posible, no una solución al problema de la pobreza. La pertenencia no depende de ello: nace al firmar la Declaración, no al abonar la cuota.
 
 La salida libre no debilita la estabilidad de la comunidad: es lo único que hace limpia su demostración. En un pueblo por nacimiento, permanecer no demuestra nada: la salida es inaccesible o ruinosa. Aquí cada día de pertenencia continuada es una elección renovada con coste cero de partida. Semejante medida de estabilidad no puede presentarla ningún pueblo tradicional.
 
@@ -194,7 +194,7 @@ Se rechaza de plano: los Earthlings construyen una disciplina de responsabilidad
 
 Se establece el derecho a ser oído en el debate, pero no el poder en la decisión. Las facultades de los Estados no se derogan.
 
-El apoyo es la doctrina del patrimonio común de la humanidad, ya consagrada para los fondos marinos (artículo 136 de la Convención de las Naciones Unidas sobre el Derecho del Mar) y para la Luna (artículo 11 del Acuerdo de 1979): admite el interés de la humanidad en su conjunto, pero no inviste a nadie de poder sobre esos ámbitos.
+El apoyo es la doctrina del patrimonio común de la humanidad, ya consagrada para los fondos marinos (artículo 136 de la Convención de las Naciones Unidas sobre el Derecho del Mar) y para la Luna (artículo 11 del Acuerdo de 1979): admite el interés de la humanidad en su conjunto, pero no crea un titular formado por las propias personas: en la Zona actúa en nombre de toda la humanidad la Autoridad, cuyos miembros son los Estados partes en la Convención (artículos 137.2 y 156).
 
 ### Si se adhieren todos, ustedes coincidirán con la humanidad, y la humanidad, según su propio reconocimiento, carece de voz jurídica. El éxito disolverá su condición de pueblo.
 

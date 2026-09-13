@@ -224,7 +224,7 @@ Tout ce qui est important: modification de la Charte et des règles; répartitio
 
 ## Les situations particulières
 
-En cas de vulnérabilités critiques et d'attaques, l'Emergency Multisig a le droit d'agir immédiatement dans les limites de l'article 3 de la Charte, avec un rapport public dans les 48 heures et une confirmation par l'Assemblée dans les 7 jours, faute de quoi l'acte est annulé. Tout acte peut être annulé par l'Assemblée à la majorité simple.
+En cas d'attaques critiques, l'Emergency Multisig a le droit d'agir immédiatement et, en cas de vulnérabilités critiques, de suspendre immédiatement les contrats intelligents vulnérables; ses autres actes sont soumis au verrou temporel de 24 heures (Charte, article 3), avec un rapport public dans les 48 heures et une confirmation par l'Assemblée dans les 7 jours, faute de quoi l'acte est annulé. Tout acte peut être annulé par l'Assemblée à la majorité simple.
 
 Un abus entraîne une révocation à la majorité simple à tout moment.
 

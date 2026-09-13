@@ -25,7 +25,7 @@ Das Volk der Earthlings stützt sich auf zwei geltende Normen des Völkerrechts:
 - **die Vereinigungsfreiheit** - Artikel 20 der Allgemeinen Erklärung der Menschenrechte, Artikel 22 des Internationalen Paktes über bürgerliche und politische Rechte, Artikel 11 der Europäischen Konvention zum Schutz der Menschenrechte;
 - **das Selbstbestimmungsrecht der Völker** - Artikel 1 Ziffer 2 der Charta der Vereinten Nationen, gemeinsamer Artikel 1 der Pakte von 1966.
 
-Beide Normen gelten und sind für die Staaten verbindlich.
+Beide Normen gelten, und die Verträge, die sie verankern, sind für die Vertragsstaaten verbindlich.
 
 > **Was dabei nicht entschieden ist.** Die Vereinigungsfreiheit schützt die konstituierende Handlung: Menschen dürfen sich zusammenschließen und erklären, wofür sie sich halten. Sie verleiht dem Ergebnis keinen Status. Ob eine freiwillig konstituierte nichtterritoriale Gemeinschaft ein Volk im Sinne des Völkerrechts ist, ist eine Frage, die das Recht nicht entschieden hat, und wir geben sie nicht für entschieden aus. Die Einwände gegen unsere Position sind in unseren eigenen Dokumenten in voller Stärke und ohne Abmilderung dargelegt: [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html), [Einwände und Antworten](https://earth-lings.org/documents/de/de26-einwaende-und-antworten.html).
 

@@ -107,7 +107,7 @@ The personal account is a person's principal point of contact with the ecosystem
 
 - participation in Cells;
 - participation in projects: role, contribution, completion status;
-- participation in votes - to the extent set by the rules on openness and secrecy (section 06);
+- participation in votes is not marked: whether a particular person took part in a vote is not published (section 06);
 - recognition marks received.
 
 > **Recognition marks affect nothing** and remain purely informational ([Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html)). The platform must not use reputational indicators as a condition of access to any function.
@@ -150,16 +150,16 @@ The only case in which the platform executes a suspension of the vote is a decis
 
 ## Openness and secrecy
 
-As a general rule votes are open: the fact of participation and the expression of will are available for verification by all participants. Openness is the way to be sure the count is honest.
+A personal vote is secret: voting is arranged so that no one, including those who operate the platform, can learn how a particular person voted or, even with that person's consent, satisfy themselves of it. Whether a particular person took part in a vote is not published.
 
-But transparency extends to the actions of institutions, not to the personal data of people. The platform is therefore obliged to support **a secret ballot with a verifiable count**: the result is verified by everyone, and the link between a vote and the voter is disclosed to no one, including those who operate the platform. The cases in which the secret mode applies are set out in the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
+Transparency extends to the actions of institutions, not to the personal data of people. The platform is therefore obliged to ensure **a secret ballot with a verifiable count**: the outcome is verified by everyone, and the link between a vote and the voter is disclosed to no one, including those who operate the platform. The procedure is set out in the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
 
-A secret ballot applies:
+The platform also ensures:
 
-- **as a requirement** - when a restriction of powers is under consideration and on annulment of an invalid issuance of a passport;
-- **by decision of the Assembly** - for particular questions or categories, in particular those touching the people's position on the acts of states and on international questions.
+- **until voting closes** - a hidden interim count and the ability to cast a vote again, with the last vote cast being counted; a personal vote on a question cancels delegation on that question;
+- **openness of a delegate's votes** - transferred votes cast by a delegate are visible to all; who transferred a vote to a delegate is not published.
 
-In every case the question, the outcome, the number of those who voted, and the result of verifying the count are published.
+The following are always published: the question, the answer options, the deadlines, the number of those entitled to vote, the number of those who voted, the outcome, the proof of the count, and the way to recount the outcome independently.
 
 ## Delegation
 

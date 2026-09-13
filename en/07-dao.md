@@ -22,7 +22,7 @@ Unlike classical hierarchical systems, the Earthlings DAO rests on three support
 
 Key processes - from votes to the allocation of resources - are recorded in verifiable logs and, where required, in a distributed ledger. The rules are open to analysis, and voting results can be independently re-checked by any participant or external auditor. There are no closed procedures and no hidden protocols.
 
-Transparency, however, extends to the actions of institutions, not to the personal data of people: the expression of will of a particular person may be closed where openness would put them at risk (section 05).
+Transparency, however, extends to the actions of institutions, not to the personal data of people: a personal vote is secret, and transferred votes cast by a delegate are open (section 05).
 
 ### Equality of participants
 
@@ -128,11 +128,11 @@ A published expert opinion is an argument in the discussion, carrying the weight
 
 ## Openness and secrecy of voting
 
-As a general rule votes are open: the fact of participation and the expression of will are available for verification. Openness is the way to be sure the count is honest.
+A personal vote is secret: voting is arranged so that no one, including those who operate the infrastructure, can learn how a particular person voted or, even with that person's consent, satisfy themselves of it. Whether a particular person took part in a vote is not published, the interim count is hidden until voting closes, and until then a vote may be cast again - the last vote cast is counted.
 
-But there are questions where openness of a person's expression of will does not protect them but exposes them to risk. For these, **a secret ballot with a verifiable count** applies; the list of such questions and the procedure are set out in the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
+Discussion, the actions of institutions, and transferred votes cast by a delegate are open. Secrecy does not override verification: the question, the number of those entitled to vote, the number of those who voted, the outcome, and **the proof of the count** are all published, and from that proof any person can recount the outcome. The procedure is set out in the [Charter, Article 6](https://earth-lings.org/documents/en/en05-charter.html).
 
-A secret ballot is mandatory when a restriction of powers is under consideration and on the annulment of an invalid issuance of a passport, and by decision of the Assembly for particular questions or categories, in particular those touching the people's position on the acts of states.
+Secrecy is the voter's right, not a condition of the vote's validity: technical assistance that does not determine the content of a vote is permitted. Demanding that a person show how they voted is prohibited, and any reward for such proof amounts to buying a vote (Charter, Article 22 bis).
 
 ## The measurement of the common will is not a decision
 
@@ -274,7 +274,7 @@ In the event of technical failures the priority is restoring the correct state a
 
 The DAO relies on minimizing the data collected and protecting participants' confidentiality in accordance with international standards.
 
-**Data in the distributed ledger.** Votes, transactions, and decisions are recorded using pseudonymous identifiers and cryptographic methods. No permanent link between a record and a person is stored; identity verification is performed by the people's own system, without external providers. In votes conducted secretly, the link between a vote and the voter is disclosed to no one, while the count remains verifiable.
+**Data in the distributed ledger.** Votes, transactions, and decisions are recorded using pseudonymous identifiers and cryptographic methods. No permanent link between a record and a person is stored; identity verification is performed by the people's own system, without external providers. The link between a personal vote and the voter is disclosed to no one, while the count remains verifiable; only transferred votes cast by a delegate are open.
 
 **Personal data.** Identity verification and document verification are performed by the people's own system in accordance with the GDPR and other applicable legislation. The people and the DAO store no photographs, scans, real names, or biometric templates: biometrics are processed at the moment of verification and are not retained. What exactly is retained to prevent repeat registration is in the [Biometric Verification Policy](https://earth-lings.org/documents/en/en16-biometric-verification.html). Account data - email, pseudonym, settings - are processed to the minimum extent.
 

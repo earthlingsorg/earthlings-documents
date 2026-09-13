@@ -60,7 +60,7 @@ Die Volksherrschaft im Volk der Earthlings beruht auf drei Voraussetzungen, und 
 
 **Zweitens.** Die Stimme ist vom geprüften Menschen untrennbar: Sie anzuhäufen oder unwiderruflich zu übertragen ist durch den Aufbau der Gemeinschaft ausgeschlossen.
 
-**Drittens.** Jeder Earthling kann das Ergebnis seiner Stimmabgabe und des Beschlusses selbst überprüfen.
+**Drittens.** Jeder Earthling kann selbst überprüfen, ob seine Stimme gezählt wurde, sowie das Ergebnis der Abstimmung und die gefassten Beschlüsse.
 
 ## Artikel 3. Die Werte des Volkes
 

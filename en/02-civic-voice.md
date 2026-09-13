@@ -193,7 +193,7 @@ Representation was invented when there was no other way: millions of people coul
 
 That worked, and achieved a great deal. One thing it did not do: it gave people no way of expressing a common will themselves.
 
-The Universal Declaration of Human Rights of 1948 says in Article 21: the will of the people shall be the basis of the authority of government. The International Covenant on Civil and Political Rights, in Article 25, enshrines the right of everyone to take part in the conduct of public affairs. The UN Charter opens with the words "We the peoples of the United Nations".
+The Universal Declaration of Human Rights of 1948 says in Article 21: the will of the people shall be the basis of the authority of government. The International Covenant on Civil and Political Rights, in Article 25, enshrines the right of every citizen to take part in the conduct of public affairs. The UN Charter opens with the words "We the peoples of the United Nations".
 
 The right is recognized. A procedure by which that right would be exercised directly does not exist. A recognized right that no one can assert remains a norm without application.
 
@@ -293,7 +293,7 @@ The Russell Tribunal on Vietnam of 1966-1967 and the Permanent Peoples' Tribunal
 
 # Part IV. How a measurement works
 
-The instrument is described above as a design. Here is how it has to work if it is not to turn into just another poll. The requirements without which a measurement does not take place are set out in the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who has no power to approve the question, what is published together with the result, who determines that a measurement is defective, and on whose money a measurement is not conducted. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today that order has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
+The instrument is described above as a design. Here is how it has to work if it is not to turn into just another poll. The requirements without which a measurement does not take place are set out in the [Charter](https://earth-lings.org/documents/en/en05-charter.html), Article 8 bis: who has no power to approve the question, what is published together with the result, who decides whether a measurement is defective, and on whose money a measurement is not conducted. The Charter left the order in detail to a decision of the Assembly and required that it be published before the first measurement; as of today that order has not been adopted. What follows is the same thing with an explanation of where each requirement came from, and the design where there is as yet no rule.
 
 ## 7. Who takes part
 
@@ -394,11 +394,11 @@ A result without a trail is an assertion. A result with a trail is a fact. Every
 - the number of those who voted and **the share of those entitled** - published always, including the cases where the share is low;
 - the distribution of answers;
 - the distribution of participation by country and region, broken down in a way that does not allow a person to be identified;
-- the way in which any person can recount the result themselves: where the signatures are held, where the registry is held, by what query each vote is checked.
+- the way in which any person can recount the result themselves: the open data of the vote, the proof of the count, and a program with which to check it.
 
-The last point is the chief one. **Verification must not require trust in us.** Votes are signed by the wallets of those voting, the addresses of those who voted are public, and the presence of a passport at each address is read straight from the smart contract. We can neither add a vote nor forge someone else's, and this is checked not by our word but by someone else's query to the blockchain.
+The last point is the chief one. **Verification must not require trust in us.** The vote is secret (Declaration, Article 9), and verification is arranged so as not to disclose it: the correctness of the count is proven from open data by an open program, without disclosing who voted or how. We can neither add a vote nor forge someone else's, and this is checked not by our word but by someone else's recount.
 
-There is one place where today one has to trust us, and we name it ourselves: at the moment of voting the right to vote is confirmed by our server. After the vote this no longer matters - all addresses are public and each is rechecked in the contract, and a divergence would become visible. The same is said just as plainly in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html), and the second such place is named there too.
+We say it ourselves: this is how things stand now. A tool for secret voting does not yet exist: one is being chosen, and the vote of 17 February 2027 on the adoption of the Declaration will be held by secret ballot. In the open voting channel that has been deployed, votes are signed by wallets, the addresses of those who voted are public, and the right to vote is confirmed by our server at the moment of voting; no substantive measurements have been conducted in it. The same is said just as plainly in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html), and the places where one has to trust us today are named there too.
 
 ### If a measurement turns out to be defective
 
@@ -409,7 +409,7 @@ A defect of a measurement means: a leading or ambiguous wording of the question,
 The order is then as follows:
 
 1. **Any person may make a claim**, not only a participant and not only us. The claim is published together with the date it was received.
-2. **A measurement is determined to be defective by someone other than whoever conducted it.** If the decision is taken by those who conducted it, an error will never be acknowledged - this is known in advance, and that is why it is not done that way.
+2. **The decision whether a measurement is defective is taken by someone other than whoever conducted it.** If the decision is taken by those who conducted it, an error will never be acknowledged - this is known in advance, and that is why it is not done that way.
 3. **The cancellation is published in the same place and with the same prominence as the result**, not as a footnote. At the same time, exactly what the defect consisted in is published.
 4. **A cancelled measurement does not vanish from the chronicle.** It remains, marked as cancelled. An instrument whose past can be cleaned up is no better than an instrument whose present can be touched up.
 5. **A repeat measurement is conducted afresh and from the beginning**, including a new adversarial stage. Correction on the fly is not permitted under any circumstances.
@@ -856,12 +856,12 @@ We assert that Earthlings is verifiable, and that assertion means something only
 
 - identity verification and the issuance of a non-transferable passport;
 - a registry of passports on a blockchain, read directly from an open smart contract;
-- a public channel for votes, where every vote is signed by the voter's wallet;
+- a public channel for votes, where every vote is signed by the voter's wallet; the votes in it are open;
 - an on-chain treasury, every transaction of which is available for public audit.
 
 **Not built:**
 
-- **no substantive measurements have been conducted.** The voting channel is deployed and technically works, but no votes on the substance have yet been held on it;
+- **no substantive measurements have been conducted.** The voting channel is deployed and technically works, but no votes on the substance have yet been held on it; a tool for secret voting, which the Declaration requires (Article 9), does not yet exist - one is being chosen;
 - **no procedure in detail for forming a question exists.** The requirements without which a measurement does not take place are set out in Article 8 bis of the Charter; the order in detail is left to a decision of the Assembly and has not been adopted;
 - **no panels selected by lot exist.** The two-layer scheme from section 9 is set out in Article 8 ter of the Charter, but not one panel has been assembled: the registry is still too small for a draw, and the article expressly allows for this;
 - **no chronicle of non-answers exists.** It has not been started;

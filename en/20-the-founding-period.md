@@ -122,7 +122,7 @@ There are two paths, and they are not the same thing.
 
 **Take part in adopting the text.** For this you need to confirm your identity before the day of adoption: those who vote are those confirmed to be one living human being. Confirmation is free and is not entry into the people - it gives the temporary status of a participant in the founding and the right to vote on the day of adoption.
 
-**About a wallet.** To receive the temporary document you need a crypto wallet to which it is tied - this is needed so that voting stays transparent and attached to a particular participant. If you have no wallet and do not know how to create one: the identity verification form includes Web3Auth - it creates a wallet automatically, through a login by email, Google, or Apple, with no seed phrase.
+**About a wallet.** To receive the temporary document you need a crypto wallet to which it is tied - this is needed so that only a confirmed participant can cast a vote, and only once, while no one will learn how a particular participant voted: the vote on adoption is held by secret ballot. If you have no wallet and do not know how to create one: the identity verification form includes Web3Auth - it creates a wallet automatically, through a login by email, Google, or Apple, with no seed phrase.
 
 **In which language.** In any of the nine in which the corpus exists: English, Russian, German, Spanish, French, Chinese, Arabic, Hindi, and Georgian. You do not need to translate your proposal yourself, and a proposal is not rejected because of its language.
 
@@ -223,7 +223,7 @@ Identity verification is carried out free of charge and continues throughout the
 
 ## 6. Adoption of the text
 
-The text is adopted by a vote on 17 February 2027. Those who vote are people who have confirmed their identity, on the principle of one person, one vote.
+The text is adopted by a vote on 17 February 2027. Those who vote are people who have confirmed their identity, on the principle of one person, one vote. The vote is held by secret ballot: no one, including those who operate the infrastructure, can learn how a particular participant voted or, even with that participant's consent, satisfy themselves of it; the outcome, however, can be proven to anyone. How the vote is conducted is announced on 3 February 2027, together with the final editions.
 
 The vote is held on two texts at once - Russian and English. Both are adopted as authentic (Declaration, Article 11), so the English text must be ready and published no later than the day the record is published, 3 February 2027: one can vote only for what can be read in advance.
 

@@ -193,7 +193,7 @@ Corregir el derecho internacional es cosa de los Estados. El pueblo Earthlings h
 
 **El procedimiento.** Existe un modo por el que la voluntad se convierte en voluntad común: una votación en la que una persona es un voto, en la que el voto no se puede comprar, acumular ni ceder de manera irrevocable. La primera aplicación de ese procedimiento será la adopción del propio texto constitutivo.
 
-**El asiento.** La composición y los resultados de las votaciones están abiertos a la verificación por cualquier persona, sin confiar en el operador de la infraestructura.
+**El asiento.** La composición del pueblo y los resultados de las votaciones están abiertos a la verificación por cualquier persona, sin confiar en el operador de la infraestructura.
 
 Y todo ello sin pretensiones territoriales. El conflicto por el que el derecho se muestra prudente ante la aparición de pueblos nuevos aquí no se produce: es imposible atentar contra aquello que no se pretende.
 
@@ -261,7 +261,7 @@ La capacidad de ser persona se ha retirado, y se ha retirado mediante el derecho
 
 De ahí una conclusión aplicable tanto al pueblo como a la persona: **la existencia jurídica ha resultado ser derivada de un asiento que lleva otro.** En la persona se ve en la situación de los apátridas; en el pueblo, en la sustitución de la composición por la nacionalidad.
 
-La infraestructura del pueblo Earthlings está construida de modo que el asiento no pueda existir sin la persona y la persona no pueda ser excluida del asiento por decisión ajena: se verifica la unicidad de una persona viva, la pertenencia cesa solo por decisión de ella misma, y el registro no guarda datos sobre opiniones ni sobre el voto.
+La infraestructura del pueblo Earthlings está construida de modo que el asiento no pueda existir sin la persona y la persona no pueda ser excluida del asiento por decisión ajena: se verifica la unicidad de una persona viva, la pertenencia cesa solo por decisión de ella misma o a consecuencia de su fallecimiento, y el registro no guarda datos sobre opiniones ni sobre el voto.
 
 ## Niveles, no instancias
 
@@ -507,7 +507,7 @@ El pueblo Earthlings puede actuar de manera legítima solo allí donde no suplan
 
 La rendición de cuentas es condición de admisibilidad de la idea misma, y está organizada en cinco niveles: el interno democrático, con derecho a debatir, impugnar y revocar de inmediato la delegación; el tecnológico, con verificabilidad pública de los procedimientos y trazabilidad de los cambios de reglas; el jurídico, con actuación en el marco del derecho aplicable y apertura a la evaluación externa; el social, con acceso de investigadores, periodistas y críticos a información suficiente para una valoración independiente; el de largo plazo, con una evaluación aparte de las consecuencias de las decisiones que afectan a las generaciones futuras.
 
-> **Sobre los límites de la transparencia.** La transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas. Los datos personales y biométricos de los participantes no son públicos nunca; la expresión de la voluntad de una persona concreta puede quedar cerrada allí donde la apertura la expusiera a un riesgo, conservando la posibilidad de verificar la corrección del recuento.
+> **Sobre los límites de la transparencia.** La transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas. Los datos personales y biométricos de los participantes no son públicos nunca; el voto personal es secreto, conservando la posibilidad de verificar la corrección del recuento; son abiertos los votos cedidos que emite el delegado.
 
 Una iniciativa puede aspirar a que se la tome en serio solo con modestia institucional: no ampliar las pretensiones a cualquier precio, sino limitarlas de antemano. De ahí el reconocimiento abierto de los límites: la representación afecta solo a los participantes voluntarios; no se reclama monopolio alguno sobre la expresión de los intereses planetarios; la legitimidad se confirma con el crecimiento de la participación y con la verificabilidad externa, y no con el nombre que uno se da; el motivo está declarado abiertamente, y lo que se oculta son las ficciones: una pretensión anunciada en la primera página no puede ser una ficción.
 
@@ -519,7 +519,7 @@ Una iniciativa puede aspirar a que se la tome en serio solo con modestia institu
 
 En derecho internacional unos mismos actos tienen distinto valor según la calidad en que se realizan: en la doctrina del título histórico solo cuentan los actos à titre de souverain, «a título de soberano», mientras que esos mismos actos realizados a título particular no crean nada.
 
-Por eso una pretensión declarada abiertamente no es retórica, sino un calificador jurídico de la práctica que se acumula: el autogobierno ejercido y documentado en calidad de pueblo madura en pruebas de la condición de pueblo, mientras que esos mismos años sin una calidad declarada madurarían solo en una asociación madura. De ahí también las exigencias a la práctica - apertura, coherencia, documentación -: el registro, las votaciones públicas y los actos constitutivos son producción de pruebas y no un escaparate.
+Por eso una pretensión declarada abiertamente no es retórica, sino un calificador jurídico de la práctica que se acumula: el autogobierno ejercido y documentado en calidad de pueblo madura en pruebas de la condición de pueblo, mientras que esos mismos años sin una calidad declarada madurarían solo en una asociación madura. De ahí también las exigencias a la práctica - apertura, coherencia, documentación -: el registro, las votaciones verificables y los actos constitutivos son producción de pruebas y no un escaparate.
 
 ## Constatación distribuida en lugar de un examen único
 
@@ -537,7 +537,7 @@ La posibilidad de alcanzar el punto final está confirmada de forma contundente:
 
 La arquitectura prevé que toda la práctica de autogobierno - las votaciones con indicación de fecha, cuestión, participación, resultado y ejecución, los movimientos de fondos de la tesorería, las adhesiones al pueblo, el trabajo de las células - quede fijada en una crónica pública inaccesible a la modificación retroactiva. La crónica empieza antes de que el pueblo se forme: su primer asiento son las propuestas al texto constitutivo, las respuestas a ellas y el resultado de la votación sobre su adopción. Ningún pueblo de la historia dispone de un registro documentado de su vida desde el primer día, porque no había con qué llevarlo.
 
-Las condiciones de legitimación están nombradas expresamente: número y distribución geográfica más allá de un círculo local; participación real y no solo firmas; calidad de los procedimientos - verificación honesta de la identidad, votación transparente, protección frente a la captura de la gobernanza -; rendición de cuentas pública sobre las reglas, las finanzas, la composición y la práctica de gobierno.
+Las condiciones de legitimación están nombradas expresamente: número y distribución geográfica más allá de un círculo local; participación real y no solo firmas; calidad de los procedimientos - verificación honesta de la identidad, voto secreto con recuento verificable, protección frente a la captura de la gobernanza -; rendición de cuentas pública sobre las reglas, las finanzas, la composición y la práctica de gobierno.
 
 Ningún indicador cuantitativo crea por sí solo una condición jurídica internacional. Para una valoración de buena fe del desarrollo cabe distinguir cuatro etapas.
 

@@ -20,7 +20,7 @@ En cas de divergence avec la Déclaration, la Déclaration s'applique.
 
 **La position de départ, vers laquelle convergent toutes les réponses:**
 
-**Premièrement.** Les deux normes sur lesquelles nous nous appuyons sont en vigueur aujourd'hui et s'imposent aux États: la liberté d'association et le droit des peuples à disposer d'eux-mêmes. Aucune des deux n'est inventée.
+**Premièrement.** Les deux normes sur lesquelles nous nous appuyons sont en vigueur aujourd'hui: la liberté d'association et le droit des peuples à disposer d'eux-mêmes. Les traités qui les consacrent lient les États qui y sont parties. Aucune des deux n'est inventée.
 
 **Deuxièmement.** Leur application à un peuple non territorial volontairement constitué n'est pas réglée par le droit international. Nous le reconnaissons ouvertement.
 
@@ -104,11 +104,11 @@ L'appartenance est constituée par un acte gratuit: la signature de la Déclarat
 
 C'est exactement ainsi qu'est agencée l'entrée dans tout peuple par acte: la naturalisation est partout soumise à une taxe d'État de quelques centaines de dollars ou l'équivalent, et le passeport est payant pour les nationaux de naissance dans tous les pays du monde. La taxe paie la procédure, elle n'achète pas l'appartenance.
 
-Une seule différence avec le droit de la naturalisation, et elle joue en notre faveur. Là-bas, l'indigent est exonéré de la taxe, c'est-à-dire tenu de déclarer sa pauvreté et de la prouver à une autorité qui peut ne pas le croire. Chez nous, il n'y a pas d'exonération du tout: la cotisation est toujours versée intégralement, seul le payeur change. Celui qui ne peut pas payer entre en un seul geste dans une file d'attente ouverte, où ne sont visibles que le numéro et la date, et la cotisation est versée pour lui par une autre personne ou par la Trésorerie. Nul ne déclare rien sur soi, nul ne prouve rien, et aucune autorité ne décide si une personne est assez pauvre.
+Une seule différence avec le droit de la naturalisation, et elle joue en notre faveur. Là-bas, l'indigent est exonéré de la taxe, c'est-à-dire tenu de déclarer sa pauvreté et de la prouver à une autorité qui peut ne pas le croire. Chez nous, il n'y a pas d'exonération du tout: la cotisation est toujours versée intégralement, seul le payeur change. Celui qui ne peut pas payer entre en un seul geste dans une file d'attente ouverte, où ne sont visibles que le numéro et la date, et la cotisation peut être versée pour lui par une autre personne ou par la Trésorerie; rien ne le garantit. Nul ne déclare rien sur soi, nul ne prouve rien, et aucune autorité ne décide si une personne est assez pauvre.
 
 N'importe qui peut payer pour la file, mais nul ne peut choisir pour qui: c'est la tête de file qui est payée. Autrement apparaîtrait un protecteur, et derrière lui une dépendance. Le payeur ne sait pas pour qui il a payé; celui pour qui l'on a payé ne sait pas qui a payé; le registre n'inscrit pas qui a versé la cotisation, et le passeport ne se distingue en rien des autres. C'est plus important qu'il n'y paraît: une exonération sur demande crée toujours deux catégories de participants, ceux qui ont payé et ceux dont on a eu pitié. Ici, la catégorie est unique.
 
-Ce que nous ne promettons pas pour autant: une entrée immédiate. Celui qui est dans la file attend qu'un payeur se trouve. L'argent rend l'entrée plus lente, mais ne la ferme pas définitivement, et nous y voyons la limite honnête du possible, non une solution au problème de la pauvreté.
+Ce que nous ne promettons pas pour autant: qu'un payeur se trouvera. Celui qui est dans la file attend l'émission du passeport, sans savoir à l'avance combien de temps: le versement de la cotisation à sa place est possible, mais il n'est pas garanti, et nous y voyons la limite honnête du possible, non une solution au problème de la pauvreté. L'appartenance n'en dépend pas: elle naît de la signature de la Déclaration, et non de la cotisation.
 
 La liberté de sortie n'affaiblit pas la solidité de la communauté: elle est la seule chose qui en rende la preuve propre. Dans un peuple par naissance, rester ne prouve rien: la sortie est inaccessible ou ruineuse. Ici, chaque jour d'appartenance qui continue est un choix renouvelé, à coût de départ nul. Aucun peuple traditionnel ne peut produire une telle mesure de solidité.
 
@@ -194,7 +194,7 @@ Nous le rejetons expressément: les Earthlings bâtissent une discipline de la r
 
 Ce qui est établi, c'est le droit d'être entendu dans la discussion, non un pouvoir dans la décision. Les compétences des États ne sont pas abrogées.
 
-L'appui est la doctrine du patrimoine commun de l'humanité, déjà consacrée pour les fonds marins (article 136 de la Convention des Nations Unies sur le droit de la mer) et pour la Lune (article 11 de l'Accord de 1979): elle admet un intérêt de l'humanité prise comme un tout, mais n'investit personne d'un pouvoir sur ces espaces.
+L'appui est la doctrine du patrimoine commun de l'humanité, déjà consacrée pour les fonds marins (article 136 de la Convention des Nations Unies sur le droit de la mer) et pour la Lune (article 11 de l'Accord de 1979): elle admet un intérêt de l'humanité prise comme un tout, mais ne crée pas de titulaire formé des êtres humains eux-mêmes: dans la Zone, c'est l'Autorité, dont les membres sont les États Parties à la Convention, qui agit pour le compte de l'humanité (articles 137(2) et 156).
 
 ### Si tout le monde adhère, vous coïnciderez avec l'humanité - et l'humanité, de votre propre aveu, n'a pas de voix juridique. Le succès dissoudra votre qualité de peuple.
 

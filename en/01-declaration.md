@@ -60,7 +60,7 @@ Rule by the people within the Earthlings people rests on three conditions, and n
 
 **Second.** A vote is inseparable from the confirmed person: the way the community is structured makes it impossible to accumulate it or to transfer it irrevocably.
 
-**Third.** Any earthling can independently verify the result of their own vote and the result of the decision.
+**Third.** Any earthling can independently verify that their vote has been counted, as well as the outcome of the vote and the decisions taken.
 
 ## Article 3. The Values of the People
 
@@ -234,7 +234,7 @@ Technology is used only where the three conditions named in Article 2 cannot be 
 **The Limits of Technology.** The infrastructure of the Earthlings people must not:
 
 1. conduct surveillance of a person under the guise of identity verification;
-2. retain the ability to learn how a particular person voted, or to confirm it, except for transferred votes cast by a delegate;
+2. retain the possibility of anyone learning how a particular person voted, or satisfying themselves of it, except for transferred votes cast by a delegate;
 3. create profiles of earthlings and rank them;
 4. determine covertly what information a person receives and in what order;
 5. collect data beyond what is necessary for an expressly stated purpose;

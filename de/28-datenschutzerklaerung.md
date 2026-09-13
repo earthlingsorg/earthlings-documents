@@ -38,7 +38,7 @@ Die meisten Plattformen betrachten persönliche Daten als Ware. Wir betrachten s
 
 **Was:** ein Pseudonym nach Ihrer Wahl, eine E-Mail-Adresse, das Wohnsitzland, der Nachweis des Alters ab 18.
 
-**Wozu:** das Pseudonym ist Ihr öffentlicher Name im Pass und auf der Plattform; die E-Mail dient der Bestätigung der Anmeldung und der Verbindung; das Land der Statistik der geografischen Verteilung; das Alter ist eine zwingende Voraussetzung der Teilnahme.
+**Wozu:** das Pseudonym ist der Name, unter dem andere Teilnehmer Sie auf der Plattform sehen und der in Ihrem Pass steht; bei der offenen Überprüfung des Passes und im Register wird es nicht angezeigt; die E-Mail dient der Bestätigung der Anmeldung und der Verbindung; das Land der Statistik der geografischen Verteilung; das Alter ist eine zwingende Voraussetzung der Teilnahme.
 
 Wirklicher Vor- und Nachname werden **nicht gespeichert**.
 
@@ -66,7 +66,7 @@ Die Einzelheiten stehen in der [Politik der biometrischen Prüfung](https://eart
 
 **Wozu:** die Verbesserung der Arbeit der Plattform und die technische Fehlersuche.
 
-> **Was es hier nicht gibt und nicht geben wird.** Der Inhalt Ihrer Stimmabgabe bei geheimen Abstimmungen wird nicht aufgezeichnet, nicht mit Ihrem Konto verknüpft und ist niemandem zugänglich, auch denen nicht, die die Plattform betreiben. Offene Abstimmungen sind ihrer Natur nach öffentlich, und ihr Ergebnis ist für alle sichtbar - das ist eine Eigenschaft der Abstimmung selbst und keine Auswertung.
+> **Was es hier nicht gibt und nicht geben wird.** Der Inhalt Ihrer Stimme darf niemandem zugänglich sein, auch denen nicht, die die Plattform betreiben, und ob Sie an einer Abstimmung teilgenommen haben, wird nicht veröffentlicht. Öffentlich sind das Ergebnis der Abstimmung und die übertragenen Stimmen, die ein Delegierter abgibt - das ist eine Eigenschaft der Abstimmung selbst und keine Auswertung. Das Mittel, das dies technisch sichern wird, wird noch ausgewählt, und wie es heute steht, sagen wir ausdrücklich: Im ausgerollten offenen Kanal der Abstimmungen sind die Stimme und die Adresse der Geldbörse öffentlich, und inhaltliche Abstimmungen haben darin nicht stattgefunden; die Stimmen in den Zellen speichert die Plattform zusammen mit dem Konto, den anderen Teilnehmern der Zelle zeigt sie das Ergebnis und die Einwände mit ihren Begründungen, und diejenigen, die die Plattform betreiben, haben technischen Zugang zu den gespeicherten Stimmen.
 >
 > Die Daten über die Nutzung werden in zusammengefasster Form verwendet. Das sind zusammengefasste und keine anonymisierten Daten: Solange ein Eintrag mit einem Konto verknüpft ist, bleibt er ein personenbezogenes Datum.
 
@@ -133,7 +133,7 @@ In der Voreinstellung bleiben die Daten in der Infrastruktur des Volkes. Die Aus
 
 **Rechtmäßige Anforderungen.** Daten werden nur auf eine rechtskräftige gerichtliche Entscheidung oder eine gleichwertige rechtmäßige Anforderung weitergegeben, deren Rechtmäßigkeit in jedem Fall geprüft wird. Über erfüllte Anforderungen wird der Teilnehmer benachrichtigt, sofern die Entscheidung selbst das nicht verbietet; eine Übersicht wird im Transparenzbericht veröffentlicht.
 
-**Öffentliche Daten der Beschlüsse.** Ein Teil der Daten ist der Natur der Selbstverwaltung nach öffentlich: Vorschläge, Ergebnisse von Abstimmungen, Bewegungen gemeinsamer Mittel. Der Inhalt der Stimmabgabe bei geheimen Abstimmungen gehört nicht zu dieser Gruppe.
+**Öffentliche Daten der Beschlüsse.** Ein Teil der Daten ist der Natur der Selbstverwaltung nach öffentlich: Vorschläge, Ergebnisse von Abstimmungen, Bewegungen gemeinsamer Mittel. Der Inhalt der persönlichen Stimme und die Teilnahme eines bestimmten Menschen an der Abstimmung gehören nicht zu dieser Gruppe; öffentlich sind die übertragenen Stimmen, die ein Delegierter abgibt.
 
 ---
 

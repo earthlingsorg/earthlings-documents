@@ -26,7 +26,7 @@ No. The contribution is one-time: after the passport is received there are no an
 
 ### And if I cannot pay?
 
-Then someone else will make the contribution for you. At the payment step there is a second button - "I need the contribution": it asks nothing and puts you in an open queue where only a number and a date are visible. Anyone may pay for the queue, but no one may choose whom to pay for - payment is always made for whoever is at the head of the queue. The passport you receive will be exactly like everyone else's: the registry does not record who paid for it. You will have to wait, but money will not close entry for good. More detail is in the document [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html).
+Then you can join an open queue, and the contribution for you may be made by someone else; there is no guarantee that it will be. Once entry requires payment, there will be a second button at the payment step - "I need the contribution": it will ask nothing and will put you in an open queue where only a number and a date are visible. Anyone may pay for the queue, but no one may choose whom to pay for - payment is always made for whoever is at the head of the queue. If the contribution is made for you, the passport will be exactly like everyone else's: the registry does not record who paid for it. You will have to wait for the passport to be issued, and there is no way to know in advance how long. Belonging to the people does not depend on this: it arises by signing the Declaration, not by the contribution. More detail is in the document [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html).
 
 → [The Earthling Path](https://earth-lings.org/documents/en/en14-the-earthling-path.html)
 
@@ -136,7 +136,7 @@ There is no power of some people over others: no one holds a position above anot
 
 The vote is not bought and does not depend on money - this is an unamendable rule. Blockchain is used where a record that cannot be forged is needed: passports, votes, the treasury.
 
-The unit of account is traded nowhere today and serves only internal turnover. Exchange availability in the future is possible but is not promised and is not an aim, and no one promises growth in value under any course of events.
+The unit of account has not been issued and is traded nowhere today: the economy of participation is kept in internal accounts. Exchange availability in the future is possible but is not promised and is not an aim, and no one promises growth in value under any course of events.
 
 → [Earthlings Coin](https://earth-lings.org/documents/en/en10-earthlings-coin.html)
 

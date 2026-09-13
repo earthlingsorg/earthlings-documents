@@ -122,7 +122,7 @@ Il y a deux voies, et ce ne sont pas les mêmes.
 
 **Participer à l'adoption du texte.** Pour cela, il faut faire vérifier son identité avant le jour de l'adoption: votent ceux pour lesquels il est vérifié qu'il s'agit d'une seule personne vivante. La vérification est gratuite et ne vaut pas adhésion au peuple: elle confère un statut temporaire de participant à la constitution et le droit de vote le jour de l'adoption.
 
-**Sur le portefeuille.** Pour recevoir le document temporaire, il faut un portefeuille de cryptomonnaie auquel il se rattache: cela est nécessaire pour que le vote reste transparent et rattaché à un participant déterminé. Si vous n'avez pas de portefeuille et ne savez pas comment en créer un: le formulaire de vérification d'identité comporte Web3Auth, qui en crée un automatiquement, par connexion avec une adresse électronique, Google ou Apple, sans phrase de récupération.
+**Sur le portefeuille.** Pour recevoir le document temporaire, il faut un portefeuille de cryptomonnaie auquel il se rattache: cela est nécessaire pour que seul un participant vérifié puisse voter, et une seule fois, tandis que personne ne pourra établir comment un participant déterminé a voté: le vote sur l'adoption est secret. Si vous n'avez pas de portefeuille et ne savez pas comment en créer un: le formulaire de vérification d'identité comporte Web3Auth, qui en crée un automatiquement, par connexion avec une adresse électronique, Google ou Apple, sans phrase de récupération.
 
 **Dans quelle langue.** Dans l'une quelconque des neuf langues du corpus: anglais, russe, allemand, espagnol, français, chinois, arabe, hindi et géorgien. Il n'est pas nécessaire de traduire vous-même votre proposition, et une proposition n'est pas rejetée en raison de sa langue.
 
@@ -223,7 +223,7 @@ La vérification d'identité est gratuite et se poursuit pendant toute la pério
 
 ## 6. L'adoption du texte
 
-Le texte est adopté par un vote le 17 février 2027. Votent les personnes ayant fait vérifier leur identité, selon le principe « une personne - une voix ».
+Le texte est adopté par un vote le 17 février 2027. Votent les personnes ayant fait vérifier leur identité, selon le principe « une personne - une voix ». Le vote est secret: personne, y compris ceux qui exploitent l'infrastructure, ne peut établir comment un participant déterminé a voté, ni s'en assurer même avec son accord; le résultat peut néanmoins être démontré à quiconque. Les modalités du vote sont annoncées le 3 février 2027, en même temps que les versions définitives.
 
 Le vote porte sur deux textes à la fois, le russe et l'anglais. Tous deux sont reçus comme faisant également foi (Déclaration, article 11); le texte anglais doit donc être prêt et publié au plus tard le jour de la publication du relevé, le 3 février 2027: on ne peut voter que sur ce que l'on peut lire à l'avance.
 

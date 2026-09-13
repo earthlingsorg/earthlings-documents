@@ -65,7 +65,7 @@ Verification is voluntary. You are entitled to withdraw your consent at any time
 # SECTION 03. Conditions for obtaining status
 
 - **age** - 18 years or over;
-- **consent** - voluntary acceptance of the Declaration;
+- **consent** - voluntary signing of the Declaration;
 - **identity verification** - confirmation of uniqueness;
 - **the passport** - issuance of a non-transferable token to your address.
 
@@ -217,7 +217,7 @@ The registry follows the principle of data minimization in accordance with the G
 
 Photographs and scans are deleted immediately after verification, but its result remains valid and verifiable - much as a state does not permanently store biometric samples when issuing a passport, although the fact of issuance remains valid.
 
-> **The link between the real identity and the pseudonym is not retained.** The document data are processed only at the moment of verification. What remains in the registry are the pseudonym, the verification status, and cryptographic confirmation of uniqueness. This architecture rules out disclosure of a participant's identity - to other participants, to administrators, and to third parties - because there is nothing to disclose.
+> **The link between the real identity and the pseudonym is not retained.** The document data are processed only at the moment of verification. What remains in the identity verification system are the pseudonym, the verification status, and cryptographic confirmation of uniqueness; the pseudonym is not written to the open registry. This architecture rules out disclosure of a participant's identity - to other participants, to administrators, and to third parties - because there is nothing to disclose.
 
 ---
 

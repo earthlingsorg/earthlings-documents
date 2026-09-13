@@ -107,7 +107,7 @@ El área personal es el punto principal de contacto de la persona con el ecosist
 
 - participación en células;
 - participación en proyectos: papel, aportación, estado de conclusión;
-- participación en votaciones, en la medida establecida por las reglas de apertura y secreto (sección 06);
+- la participación en votaciones no se marca: la participación de una persona concreta en la votación no se publica (sección 06);
 - marcas de reconocimiento recibidas.
 
 > **Las marcas de reconocimiento no influyen en nada** y siguen siendo exclusivamente informativas ([Carta, artículo 8](https://earth-lings.org/documents/es/es05-carta.html)). La plataforma no puede emplear indicadores de reputación como condición de acceso a ninguna función.
@@ -150,16 +150,16 @@ El único caso en que la plataforma ejecuta una suspensión del voto es una deci
 
 ## Apertura y secreto
 
-Por regla general las votaciones son abiertas: el hecho de la participación y la expresión de la voluntad están disponibles para su verificación por todos los participantes. La apertura es el modo de comprobar que el recuento es honesto.
+El voto personal es secreto: la votación está organizada de modo que nadie, incluidos quienes operan la plataforma, pueda saber cómo ha votado una persona concreta, ni cerciorarse de ello aun con su consentimiento. La participación de una persona concreta en la votación no se publica.
 
-Pero la transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas. Por eso la plataforma está obligada a soportar el **voto secreto con recuento verificable**: el resultado lo verifican todos y el vínculo entre el voto y quien vota no se revela a nadie, incluidos quienes operan la plataforma. Cuándo se aplica el modo secreto: [Carta, artículo 6](https://earth-lings.org/documents/es/es05-carta.html).
+La transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas. Por eso la plataforma está obligada a asegurar el **voto secreto con recuento verificable**: el resultado lo verifican todos y el vínculo entre el voto y quien vota no se revela a nadie, incluidos quienes operan la plataforma. El procedimiento: [Carta, artículo 6](https://earth-lings.org/documents/es/es05-carta.html).
 
-El voto secreto se aplica:
+La plataforma asegura también:
 
-- **obligatoriamente**, al examinar una limitación de facultades y en la anulación de una emisión inválida de pasaporte;
-- **por decisión de la Asamblea**, para cuestiones o categorías concretas, en particular las que afectan a la posición del pueblo sobre los actos de los Estados y sobre cuestiones internacionales.
+- **hasta el cierre de la votación**: el recuento parcial oculto y la posibilidad de volver a votar; se computa el último voto emitido; el voto personal sobre una cuestión deja sin efecto la delegación respecto de esa cuestión;
+- **la apertura de los votos del delegado**: los votos cedidos que emite el delegado son visibles para todos; no se publica quién ha cedido su voto al delegado.
 
-En todos los casos se publican la cuestión, el resultado, el número de votantes y el resultado de la verificación del recuento.
+Se publican siempre la cuestión, las opciones de respuesta, los plazos, el número de quienes tenían derecho a voto, el número de votantes, el resultado, la prueba del recuento y el modo en que cualquier persona puede rehacer el recuento por su cuenta.
 
 ## Delegación
 

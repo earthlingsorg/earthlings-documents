@@ -10,7 +10,7 @@
 
 **Âge** - avoir atteint l'âge de 18 ans.
 
-**Consentement** - acceptation de la Déclaration des Earthlings.
+**Consentement** - signature de la Déclaration des Earthlings.
 
 **Vérification d'identité** - contrôle que vous êtes une personne vivante et que vous êtes unique.
 
@@ -32,7 +32,7 @@ La **cotisation unique** - l'équivalent de 79 USD - couvre la vérification d'i
 
 **4. Signature de la Déclaration.** Confirmation de votre accord avec les principes du peuple. C'est cet acte qui crée l'appartenance.
 
-**5. Versement de la cotisation.** En cryptomonnaie (ETH, USDT, USDC). Le paiement par carte bancaire est en cours de développement. Si vous n'avez pas l'argent, un second bouton se trouve au même endroit - « j'ai besoin d'une cotisation »; il ne pose aucune question et vous conduit à la file d'attente ouverte (section 9).
+**5. Versement de la cotisation.** En cryptomonnaie (ETH, USDT, USDC). Le paiement par carte bancaire est en cours de développement. Si vous n'avez pas l'argent, lorsque l'entrée sera payante, un second bouton se trouvera au même endroit - « j'ai besoin d'une cotisation »; il ne posera aucune question et vous conduira à la file d'attente ouverte (section 9).
 
 **6. Réception du passeport.** Un passeport numérique intransmissible est émis automatiquement à votre adresse et atteste votre statut de participant.
 
@@ -121,7 +121,7 @@ Pour en savoir plus sur ce qu'il advient du passeport et des données: [Passepor
 
 Il n'existe pas d'exonération de cotisation. Il existe autre chose: quelqu'un d'autre peut verser la cotisation pour vous, mais rien ne le garantit.
 
-**À quoi cela ressemble pour vous.** À l'étape du paiement, à côté du bouton « payer », il y en a un second: « j'ai besoin d'une cotisation ». Il ne demande ni votre pays, ni vos revenus, ni le motif: vous n'avez rien à prouver et rien à raconter sur vous-même. Un seul clic, et vous êtes dans une file d'attente ouverte.
+**À quoi cela ressemble pour vous.** Lorsque l'entrée sera payante, à l'étape du paiement, à côté du bouton « payer », il y en aura un second: « j'ai besoin d'une cotisation ». Il ne demandera ni votre pays, ni vos revenus, ni le motif: vous n'avez rien à prouver et rien à raconter sur vous-même. Un seul clic, et vous êtes dans une file d'attente ouverte.
 
 Dans la file ne sont visibles que le numéro et la date. Ni nom, ni pays, ni motif. Une file d'attente ne doit pas devenir une vitrine des nécessiteux.
 

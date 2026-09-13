@@ -193,7 +193,7 @@ Die Repräsentation wurde erfunden, als es nicht anders ging: Millionen Menschen
 
 Das hat funktioniert und viel erreicht. Eines hat es nicht getan: Es hat den Menschen kein Verfahren gegeben, den gemeinsamen Willen selbst zu bekunden.
 
-Die Allgemeine Erklärung der Menschenrechte von 1948 sagt in Artikel 21: Der Wille des Volkes bildet die Grundlage für die Autorität der öffentlichen Gewalt. Der Internationale Pakt über bürgerliche und politische Rechte verankert in Artikel 25 das Recht eines jeden, an der Gestaltung der öffentlichen Angelegenheiten teilzunehmen. Die Charta der Vereinten Nationen beginnt mit den Worten „Wir, die Völker der Vereinten Nationen“.
+Die Allgemeine Erklärung der Menschenrechte von 1948 sagt in Artikel 21: Der Wille des Volkes bildet die Grundlage für die Autorität der öffentlichen Gewalt. Der Internationale Pakt über bürgerliche und politische Rechte verankert in Artikel 25 das Recht eines jeden Staatsbürgers, an der Gestaltung der öffentlichen Angelegenheiten teilzunehmen. Die Charta der Vereinten Nationen beginnt mit den Worten „Wir, die Völker der Vereinten Nationen“.
 
 Das Recht ist anerkannt. Ein Verfahren, mit dem dieses Recht unmittelbar ausgeübt würde, gibt es nicht. Ein anerkanntes Recht, das niemand geltend machen kann, bleibt eine Norm ohne Anwendung.
 
@@ -293,7 +293,7 @@ Das Russell-Tribunal zu Vietnam von 1966 bis 1967 und das zwölf Jahre später e
 
 # Teil IV. Wie eine Messung aufgebaut ist
 
-Das Messinstrument ist oben als Entwurf beschrieben. Hier steht, wie es arbeiten muss, um nicht zu einer weiteren Umfrage zu werden. Die Anforderungen, ohne die eine Messung nicht zustande kommt, sind in der [Charta](https://earth-lings.org/documents/de/de05-charta.html), Artikel 8-bis, festgelegt: wer den Wortlaut der Frage nicht billigen darf, was zusammen mit dem Ergebnis veröffentlicht wird, wer einen Mangel feststellt und auf wessen Geld eine Messung nicht stattfindet. Das Verfahren im Einzelnen hat die Charta dem Beschluss der Vollversammlung überlassen und verlangt, es vor der ersten Messung zu veröffentlichen; bis heute ist es nicht beschlossen. Unten steht dasselbe mit der Erklärung, woher jede Anforderung stammt, und der Entwurf dort, wo es noch keine Regel gibt.
+Das Messinstrument ist oben als Entwurf beschrieben. Hier steht, wie es arbeiten muss, um nicht zu einer weiteren Umfrage zu werden. Die Anforderungen, ohne die eine Messung nicht zustande kommt, sind in der [Charta](https://earth-lings.org/documents/de/de05-charta.html), Artikel 8-bis, festgelegt: wer den Wortlaut der Frage nicht billigen darf, was zusammen mit dem Ergebnis veröffentlicht wird, wer entscheidet, ob ein Mangel vorliegt, und auf wessen Geld eine Messung nicht stattfindet. Das Verfahren im Einzelnen hat die Charta dem Beschluss der Vollversammlung überlassen und verlangt, es vor der ersten Messung zu veröffentlichen; bis heute ist es nicht beschlossen. Unten steht dasselbe mit der Erklärung, woher jede Anforderung stammt, und der Entwurf dort, wo es noch keine Regel gibt.
 
 ## 7. Wer teilnimmt
 
@@ -394,11 +394,11 @@ Ein Ergebnis ohne Spur ist eine Behauptung. Ein Ergebnis mit Spur ist eine Tatsa
 - die Zahl der Abstimmenden und **der Anteil an den Stimmberechtigten** - wird immer veröffentlicht, auch in den Fällen, in denen er niedrig ist;
 - die Verteilung der Antworten;
 - die Verteilung der Teilnahme nach Ländern und Regionen, in einer Aufgliederung, die es nicht erlaubt, einen Menschen zu erkennen;
-- der Weg, auf dem jeder Mensch das Ergebnis selbst nachrechnen kann: wo die Signaturen liegen, wo das Register liegt, mit welcher Abfrage jede Stimme überprüft wird.
+- der Weg, auf dem jeder Mensch das Ergebnis selbst nachrechnen kann: die offenen Daten der Abstimmung, der Nachweis der Auszählung und das Programm, mit dem sich der Nachweis überprüfen lässt.
 
-Der letzte Punkt ist der wichtigste. **Die Überprüfung darf kein Vertrauen zu uns verlangen.** Die Stimmen sind mit den Wallets der Abstimmenden signiert, die Adressen der Abstimmenden sind öffentlich, und ob zu einer Adresse ein Pass gehört, wird unmittelbar aus dem Smart Contract gelesen. Wir können weder eine Stimme hinzufügen noch eine fremde fälschen, und das wird nicht durch unsere Worte überprüft, sondern durch eine fremde Abfrage an die Blockchain.
+Der letzte Punkt ist der wichtigste. **Die Überprüfung darf kein Vertrauen zu uns verlangen.** Die Stimme ist geheim (Erklärung, Artikel 9), und die Überprüfung ist so eingerichtet, dass sie die Stimme nicht offenlegt: Die Richtigkeit der Auszählung wird anhand offener Daten mit einem offenen Programm nachgewiesen, ohne offenzulegen, wer abgestimmt hat und wie. Wir können weder eine Stimme hinzufügen noch eine fremde fälschen, und das wird nicht durch unsere Worte überprüft, sondern durch das Nachrechnen anderer.
 
-Die eine Stelle, an der man uns heute vertrauen muss, nennen wir selbst: Im Augenblick der Abstimmung bestätigt unser Server das Stimmrecht. Nach der Abstimmung ist das nicht mehr wichtig - alle Adressen sind öffentlich, jede wird im Vertrag nachgeprüft, und eine Abweichung würde sichtbar. Ebenso ausdrücklich steht das im Dokument [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html), und dort ist auch die zweite solche Stelle genannt.
+Wie es heute steht, sagen wir selbst. Ein Mittel der geheimen Abstimmung gibt es noch nicht: Es wird ausgewählt, und die Abstimmung über die Annahme der Erklärung am 17. Februar 2027 wird geheim durchgeführt. Im eingerichteten offenen Kanal sind die Stimmen mit Wallets signiert, die Adressen der Abstimmenden sind öffentlich, und das Stimmrecht bestätigt im Augenblick der Abstimmung unser Server; inhaltliche Messungen sind in ihm nicht durchgeführt worden. Ebenso ausdrücklich steht das im Dokument [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html), und dort sind auch die Stellen genannt, an denen man uns heute vertrauen muss.
 
 ### Wenn sich eine Messung als mangelhaft erweist
 
@@ -409,7 +409,7 @@ Als Mangel einer Messung gelten: eine suggestive oder zweideutige Formulierung d
 Das Verfahren dabei ist dieses:
 
 1. **Anzeigen kann es jeder Mensch**, nicht nur ein Teilnehmer und nicht nur wir. Die Anzeige wird zusammen mit dem Eingangsdatum veröffentlicht.
-2. **Den Mangel stellt nicht derjenige fest, der die Messung durchgeführt hat.** Wenn diejenigen entscheiden, die sie durchgeführt haben, wird es nie ein Eingeständnis des Fehlers geben - das ist im Voraus bekannt, und deshalb wird es nicht so gemacht.
+2. **Ob ein Mangel vorliegt, entscheidet nicht derjenige, der die Messung durchgeführt hat.** Wenn diejenigen entscheiden, die sie durchgeführt haben, wird es nie ein Eingeständnis des Fehlers geben - das ist im Voraus bekannt, und deshalb wird es nicht so gemacht.
 3. **Die Ungültigerklärung wird an derselben Stelle und ebenso sichtbar veröffentlicht wie das Ergebnis**, nicht als Fußnote. Zugleich wird veröffentlicht, worin der Mangel genau bestand.
 4. **Eine für ungültig erklärte Messung verschwindet nicht aus der Chronik.** Sie bleibt mit einem Vermerk über die Ungültigerklärung stehen. Ein Messinstrument, bei dem sich die Vergangenheit säubern lässt, ist um nichts besser als eines, bei dem sich die Gegenwart nachbessern lässt.
 5. **Die Wiederholungsmessung wird neu und von vorn durchgeführt**, einschließlich einer neuen kontradiktorischen Phase. Ein Nachbessern im Lauf ist unter keinen Umständen zulässig.
@@ -856,12 +856,12 @@ Wir behaupten, dass Earthlings überprüfbar ist, und diese Behauptung hat nur d
 
 - die Identitätsprüfung und die Ausgabe eines nicht übertragbaren Passes;
 - das Register der Pässe in der Blockchain, unmittelbar aus einem offenen Smart Contract lesbar;
-- ein öffentlicher Kanal für Abstimmungen, in dem jede Stimme mit dem Wallet des Abstimmenden signiert ist;
+- ein öffentlicher Kanal für Abstimmungen, in dem jede Stimme mit dem Wallet des Abstimmenden signiert ist; die Stimmen darin sind offen;
 - eine On-Chain-Schatzkammer, deren jede Transaktion für eine öffentliche Prüfung zugänglich ist.
 
 **Nicht gebaut:**
 
-- **inhaltliche Messungen sind nicht durchgeführt worden.** Der Abstimmungskanal ist eingerichtet und funktioniert technisch, aber Abstimmungen zur Sache hat es in ihm noch nicht gegeben;
+- **inhaltliche Messungen sind nicht durchgeführt worden.** Der Abstimmungskanal ist eingerichtet und funktioniert technisch, aber Abstimmungen zur Sache hat es in ihm noch nicht gegeben; ein Mittel der geheimen Abstimmung, die die Erklärung (Artikel 9) verlangt, gibt es noch nicht - es wird ausgewählt;
 - **ein Verfahren der Fragebildung im Einzelnen gibt es nicht.** Die Anforderungen, ohne die eine Messung nicht zustande kommt, sind in Artikel 8-bis der Charta festgelegt; das Verfahren im Einzelnen ist dem Beschluss der Vollversammlung überlassen und nicht beschlossen worden;
 - **Panels nach Losverfahren gibt es nicht.** Das zweischichtige Schema aus Abschnitt 9 ist durch Artikel 8-ter der Charta festgelegt, aber kein einziges Panel ist gebildet worden: Das Register ist für ein Los noch zu klein, und der Artikel sagt das ausdrücklich;
 - **eine Chronik der Nichtantworten gibt es nicht.** Sie ist nicht angelegt worden;

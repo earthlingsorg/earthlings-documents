@@ -244,13 +244,13 @@ La transparencia alcanza a los actos de las instituciones, no a los datos person
 - hasta el cierre se puede volver a votar; se computa el último voto emitido
 - el voto personal sobre una cuestión deja sin efecto la delegación respecto de esa cuestión
 
-**El secreto es un derecho de quien vota, y no una condición de validez del voto.** El voto que ha visto quien prestaba asistencia es válido; la asistencia técnica que no determina el contenido del voto es admisible (Declaración, artículo 8). Queda prohibido exigir que una persona muestre cómo ha votado; cualquier beneficio a cambio de tal prueba es compra de un voto (artículo 22 bis).
+**El secreto es un derecho de quien vota, y no una condición de validez del voto.** El voto que ha visto quien prestaba asistencia es válido; la asistencia técnica que no determina el contenido del voto es admisible (Declaración, artículo 8, «No hay requisitos insuperables»). Queda prohibido exigir que una persona muestre cómo ha votado; cualquier remuneración a cambio de tal prueba es compra de un voto (artículo 22 bis).
 
 Se publican siempre: la cuestión misma, las opciones de respuesta y los plazos, el número de quienes tenían derecho a voto, el número de votantes, el resultado, la prueba del recuento y el modo en que cualquier persona puede rehacer el recuento por su cuenta.
 
 ## Artículo 7. Delegación del voto
 
-Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La delegación es voluntaria y se revoca en cualquier momento. Si un earthling permite por su propia voluntad que otra persona determine el contenido de su voto, se trata de una delegación, sea cual sea la forma técnica en que se realice, incluida la entrega del acceso a la clave o la conexión de un firmante externo, y se le aplican todos los límites del presente artículo. La asistencia técnica que no determina el contenido del voto no es delegación (Declaración, artículo 8).
+Un earthling puede delegar su voto en un ámbito concreto en otro earthling. La delegación es voluntaria y se revoca en cualquier momento. Si un earthling permite por su propia voluntad que otra persona determine el contenido de su voto, se trata de una delegación, sea cual sea la forma técnica en que se realice, incluida la entrega del acceso a la clave o la conexión de un firmante externo, y se le aplican todos los límites del presente artículo. La asistencia técnica que no determina el contenido del voto no es delegación (Declaración, artículo 8, «No hay requisitos insuperables»).
 
 > **La delegación no es representación.** Se otorga por ámbito y no por un plazo; se revoca de inmediato, sin explicar los motivos y sin el consentimiento del delegado; no constituye cargo y no confiere al delegado ningún derecho salvo el de emitir los votos que se le han cedido. Un delegado puede quedarse en cualquier momento sin un solo voto delegado, y eso es el funcionamiento normal del mecanismo y no un fallo.
 
@@ -516,7 +516,7 @@ Por regla general el pasaporte SBT solo lo destruye su propio titular (artículo
 
 ### 1. Anulación de una emisión inválida
 
-Un pasaporte puede anularse si se establece que fue emitido infringiendo las condiciones de emisión: se emitió a una misma persona más de un pasaporte en vigor, o la verificación se pasó con datos falsos o con la identidad de otra persona, o el pasaporte se emitió a quien no había alcanzado la edad establecida en la presente Carta. La lista de fundamentos es cerrada y se corresponde con el artículo 8 de la Declaración.
+La emisión de un pasaporte puede anularse si se establece que el pasaporte fue emitido infringiendo las condiciones de emisión: se emitió a una misma persona más de un pasaporte en vigor, o la verificación se pasó con datos falsos o con la identidad de otra persona, o el pasaporte se emitió a quien no había alcanzado la edad establecida en la presente Carta. La lista de fundamentos es cerrada y se corresponde con el artículo 8 de la Declaración.
 
 Si a una misma persona se le ha emitido más de un pasaporte en vigor, se anula la emisión de todos salvo el primero. En ninguno de los tres casos la anulación pone fin a la pertenencia de la persona al pueblo (Declaración, artículo 8); si el pasaporte se ha emitido a quien no ha alcanzado la edad establecida, la pertenencia todavía no ha nacido, y la anulación no tiene a qué poner fin.
 

@@ -193,7 +193,7 @@ La représentation a été inventée quand il ne pouvait en aller autrement: des
 
 Cela a fonctionné et beaucoup obtenu. Une seule chose n'a pas été faite: donner aux gens le moyen d'exprimer eux-mêmes leur volonté commune.
 
-La Déclaration universelle des droits de l'homme de 1948 dit, en son article 21: la volonté du peuple est le fondement de l'autorité des pouvoirs publics. Le Pacte international relatif aux droits civils et politiques, en son article 25, consacre le droit de chacun de prendre part à la direction des affaires publiques. La Charte des Nations Unies s'ouvre par les mots « Nous, peuples des Nations Unies ».
+La Déclaration universelle des droits de l'homme de 1948 dit, en son article 21: la volonté du peuple est le fondement de l'autorité des pouvoirs publics. Le Pacte international relatif aux droits civils et politiques, en son article 25, consacre le droit de tout citoyen de prendre part à la direction des affaires publiques. La Charte des Nations Unies s'ouvre par les mots « Nous, peuples des Nations Unies ».
 
 Le droit est reconnu. La procédure par laquelle il s'exercerait directement n'existe pas. Un droit reconnu que personne n'est en mesure de faire valoir reste une norme sans application.
 
@@ -293,7 +293,7 @@ Le Tribunal Russell sur le Vietnam de 1966-1967 et le Tribunal permanent des peu
 
 # Partie IV. Comment la mesure est faite
 
-L'instrument a été décrit plus haut comme un dessein. Voici comment il doit fonctionner pour ne pas devenir un sondage de plus. Les exigences sans lesquelles la mesure n'a pas lieu sont établies par la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html), article 8 bis: qui n'a pas le droit d'approuver la question, ce qui est publié avec le résultat, qui constate le défaut et sur quel argent la mesure n'est pas effectuée. La Charte a laissé les modalités détaillées à une décision de l'Assemblée et a exigé leur publication avant la première mesure; à ce jour, elles n'ont pas été adoptées. Ci-dessous, la même chose avec l'explication de l'origine de chaque exigence, et le dessein là où la règle n'existe pas encore.
+L'instrument a été décrit plus haut comme un dessein. Voici comment il doit fonctionner pour ne pas devenir un sondage de plus. Les exigences sans lesquelles la mesure n'a pas lieu sont établies par la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html), article 8 bis: qui n'a pas le droit d'approuver la question, ce qui est publié avec le résultat, qui décide si la mesure présente un défaut et sur quel argent la mesure n'est pas effectuée. La Charte a laissé les modalités détaillées à une décision de l'Assemblée et a exigé leur publication avant la première mesure; à ce jour, elles n'ont pas été adoptées. Ci-dessous, la même chose avec l'explication de l'origine de chaque exigence, et le dessein là où la règle n'existe pas encore.
 
 ## 7. Qui participe
 
@@ -394,11 +394,11 @@ Un résultat sans trace est une affirmation. Un résultat avec sa trace est un f
 - le nombre de votants et **le taux de participation** - publié toujours, y compris lorsqu'il est faible;
 - la répartition des réponses;
 - la répartition de la participation par pays et par région, dans un découpage qui ne permet pas d'identifier une personne;
-- la manière dont n'importe qui peut recompter le résultat lui-même: où se trouvent les signatures, où se trouve le registre, par quelle requête chaque voix se vérifie.
+- la manière dont n'importe qui peut recompter le résultat lui-même: les données ouvertes du vote, la preuve du décompte et le programme permettant de la vérifier.
 
-Le dernier point est le principal. **La vérification ne doit pas exiger de nous faire confiance.** Les voix sont signées par les portefeuilles des votants, les adresses des votants sont publiques, la présence d'un passeport à chaque adresse se lit directement dans le contrat intelligent. Nous ne pouvons ni ajouter une voix ni en falsifier une autre, et cela se vérifie non par nos paroles, mais par la requête d'un tiers à la chaîne de blocs.
+Le dernier point est le principal. **La vérification ne doit pas exiger de nous faire confiance.** Le vote est secret (Déclaration, article 9), et la vérification est aménagée de manière à ne pas le divulguer: l'exactitude du décompte est prouvée par un programme ouvert, à partir de données ouvertes, sans que soit divulgué qui a voté ni comment. Nous ne pouvons ni ajouter une voix ni en falsifier une autre, et cela se vérifie non par nos paroles, mais par le recomptage d'un tiers.
 
-Le seul endroit où il faut aujourd'hui nous faire confiance, nous le nommons nous-mêmes: au moment du vote, c'est notre serveur qui confirme le droit de vote. Après le vote, cela n'importe plus - toutes les adresses sont publiques et chacune se revérifie dans le contrat, et une divergence deviendrait visible. Cela est dit tout aussi directement dans le document [Où nous en sommes](https://earth-lings.org/documents/fr/fr32-ou-nous-en-sommes.html), et le second endroit de ce genre y est nommé.
+Ce qu'il en est aujourd'hui, nous le disons nous-mêmes. L'outil de vote secret n'existe pas encore: il est en cours de sélection, et le vote du 17 février 2027 sur l'adoption de la Déclaration sera secret. Dans le canal de vote ouvert qui est déployé, les votes sont signés par les portefeuilles, les adresses des votants sont publiques, et c'est notre serveur qui confirme le droit de vote au moment du vote; aucune mesure de fond n'y a été effectuée. Cela est dit tout aussi directement dans le document [Où nous en sommes](https://earth-lings.org/documents/fr/fr32-ou-nous-en-sommes.html), et les endroits où il faut aujourd'hui nous faire confiance y sont nommés.
 
 ### Si la mesure s'est révélée défectueuse
 
@@ -409,7 +409,7 @@ Est reconnu comme défaut de la mesure: un libellé orienté ou ambigu découver
 La procédure est alors la suivante:
 
 1. **La déclaration peut être faite par n'importe qui**, et non seulement par un participant, ni seulement par nous. La déclaration est publiée avec sa date de réception.
-2. **Le défaut n'est pas constaté par celui qui a effectué la mesure.** Si la décision revient à ceux qui ont mesuré, l'erreur ne sera jamais reconnue - on le sait à l'avance, et c'est pourquoi il n'est pas procédé ainsi.
+2. **La décision sur le point de savoir si la mesure présente un défaut n'est pas prise par celui qui l'a effectuée.** Si la décision revient à ceux qui ont mesuré, l'erreur ne sera jamais reconnue - on le sait à l'avance, et c'est pourquoi il n'est pas procédé ainsi.
 3. **L'annulation est publiée au même endroit et avec la même visibilité que le résultat**, et non en note de bas de page. Est publié en même temps en quoi exactement consistait le défaut.
 4. **La mesure annulée ne disparaît pas de la chronique.** Elle y demeure avec la mention de son annulation. Un instrument dont on peut nettoyer le passé ne vaut pas mieux qu'un instrument dont on peut retoucher le présent.
 5. **La mesure est refaite entièrement et depuis le début**, y compris une nouvelle phase contradictoire. La correction en cours de route n'est admise en aucune circonstance.
@@ -856,12 +856,12 @@ Nous affirmons qu'Earthlings est vérifiable, et cette affirmation n'a de sens q
 
 - la vérification d'identité et la délivrance d'un passeport intransmissible;
 - le registre des passeports dans une chaîne de blocs, lisible directement dans un contrat intelligent ouvert;
-- un canal public de votes, où chaque voix est signée par le portefeuille du votant;
+- un canal public de votes, où chaque voix est signée par le portefeuille du votant; les votes y sont ouverts;
 - une trésorerie on-chain dont chaque transaction est ouverte à l'audit public.
 
 **Non construit:**
 
-- **aucune mesure de fond n'a été effectuée.** Le canal de vote est déployé et fonctionne techniquement, mais il n'y a pas encore eu de vote sur le fond;
+- **aucune mesure de fond n'a été effectuée.** Le canal de vote est déployé et fonctionne techniquement, mais il n'y a pas encore eu de vote sur le fond; l'outil de vote secret qu'exige la Déclaration (article 9) n'existe pas encore - il est en cours de sélection;
 - **la procédure détaillée d'élaboration de la question n'existe pas.** Les exigences sans lesquelles la mesure n'a pas lieu sont prévues à l'article 8 bis de la Charte; les modalités détaillées sont laissées à une décision de l'Assemblée et n'ont pas été adoptées;
 - **il n'existe pas de panels tirés au sort.** Le schéma à deux couches de la section 9 est prévu à l'article 8 ter de la Charte, mais aucun panel n'a été réuni: le registre est encore trop petit pour un tirage, et l'article le dit expressément;
 - **la chronique des non-réponses n'existe pas.** Elle n'a pas été ouverte;

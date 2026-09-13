@@ -102,7 +102,7 @@ Une objection fondée sur une préférence personnelle - « je n'aime pas », «
 Si une objection motivée est formulée, la cellule est tenue de l'examiner: en tenir compte, la lever par un amendement ou la réfuter avec des arguments.
 
 - les objections fondées sur la **violation des principes ou la contrainte** s'imposent: la décision ne peut être prise tant qu'elles ne sont pas levées. C'est une protection de la personne et des fondements du peuple, et elle ne se surmonte pas par un vote;
-- les objections fondées sur le **dommage ou l'impossibilité d'exécution** ouvrent un tour de règlement; si, après une tentative de bonne foi, elles ne sont pas levées, la question se règle par un vote ordinaire de la cellule, et le risque signalé est consigné;
+- les objections fondées sur le **dommage ou l'impossibilité d'exécution** ouvrent un tour de règlement; si, après une tentative de bonne foi, elles ne sont pas levées, la question se règle par un vote de la cellule - secret, comme tout vote personnel (Charte, article 6) -, et le risque signalé est consigné;
 - un différend non réglé dans la cellule est renvoyé à la procédure décrite à la section 10.
 
 ## Deux types de décisions différents

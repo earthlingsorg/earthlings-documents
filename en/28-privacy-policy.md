@@ -38,7 +38,7 @@ Most platforms treat personal data as a commodity. We treat them as part of huma
 
 **What:** a pseudonym of your choosing, an email address, a country of residence, confirmation of being 18+.
 
-**Why:** the pseudonym is your public name in the passport and on the platform; the email is for confirming registration and for contact; the country is for statistics on geographical spread; age is a mandatory condition of participation.
+**Why:** the pseudonym is the name under which other participants see you on the platform and which appears in your passport; it is not shown in the open passport check or in the registry; the email is for confirming registration and for contact; the country is for statistics on geographical spread; age is a mandatory condition of participation.
 
 Real first and last names **are not retained**.
 
@@ -66,7 +66,7 @@ The details are in the [Biometric Verification Policy](https://earth-lings.org/d
 
 **Why:** improving how the platform works and technical diagnostics.
 
-> **What is not here and will not be.** How you voted in secret votes is not recorded, is not linked to your account, and is available to no one, including those who operate the platform. Open votes are public by their nature, and their result is visible to all - that is a property of the vote itself, not of analytics.
+> **What is not here and will not be.** The content of your vote must not be available to anyone, including those who operate the platform, and whether you took part in a vote is not published. The outcome of a vote and transferred votes cast by a delegate are public - that is a property of the vote itself, not of analytics. The tool that will ensure this technically is still being chosen, and we say plainly how things stand now: in the open voting channel that has been deployed, each vote and the voter's wallet address are public, and no substantive votes have been held in it; the platform stores votes in Cells together with the account and shows other participants in the Cell the outcome and the objections with the reasons given for them, and those who operate the platform do have technical access to the stored votes.
 >
 > Usage data are used in aggregate form. These are aggregated data, not anonymized: while a record is linked to an account, it remains personal data.
 
@@ -133,7 +133,7 @@ By default data remain within the people's infrastructure. The exceptions are li
 
 **Lawful requirements.** Data are transferred only under a court decision in force or an equivalent lawful requirement, whose legitimacy is checked in every case. A participant is notified of requirements that have been complied with, unless the decision itself prohibits it; a summary is published in the transparency report.
 
-**Public data of decisions.** Some data are public by the nature of self-government: proposals, voting results, movements of common funds. How a person voted in secret votes does not fall into this category.
+**Public data of decisions.** Some data are public by the nature of self-government: proposals, voting results, movements of common funds. The content of a personal vote and whether a particular person took part in a vote do not fall into this category; transferred votes cast by a delegate are public.
 
 ---
 

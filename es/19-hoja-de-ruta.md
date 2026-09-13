@@ -145,7 +145,7 @@ Se publica al menos una vez cada 90 días e incluye: el volumen total de ingreso
 | Pasaportes | funcionan |
 | Plataforma digital | funciona |
 | Sistema de células | funciona |
-| Mecanismo de votación | desplegado; no se han celebrado votaciones de fondo |
+| Mecanismo de votación | canal abierto desplegado; no se han celebrado votaciones de fondo; el medio de votación secreta se está eligiendo |
 | Tesorería | el monedero Safe está desplegado, el umbral de firmas es de una; el paso a seis firmantes está previsto; los contratos inteligentes no están desplegados |
 | Core Nodes y Emergency Multisig | no elegidos |
 | Consejo Independiente | no constituido |

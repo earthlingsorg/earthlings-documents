@@ -107,7 +107,7 @@ Der persönliche Bereich ist der wichtigste Berührungspunkt eines Menschen mit 
 
 - die Teilnahme an Zellen;
 - die Teilnahme an Projekten: Rolle, Beitrag, Stand des Abschlusses;
-- die Teilnahme an Abstimmungen - in dem Umfang, den die Regeln der Offenheit und des Geheimnisses festlegen (Abschnitt 06);
+- die Teilnahme an Abstimmungen wird nicht vermerkt: Die Teilnahme eines bestimmten Menschen an der Abstimmung wird nicht veröffentlicht (Abschnitt 06);
 - erhaltene Vermerke der Anerkennung.
 
 > **Die Vermerke der Anerkennung wirken sich auf nichts aus** und bleiben ausschließlich Auskunft ([Charta, Artikel 8](https://earth-lings.org/documents/de/de05-charta.html)). Die Plattform ist nicht befugt, Kennzeichen des Ansehens als Voraussetzung des Zugangs zu irgendeiner Funktion zu verwenden.
@@ -150,16 +150,16 @@ Der einzige Fall, in dem die Plattform eine Aussetzung der Stimme ausführt, ist
 
 ## Offenheit und Geheimnis
 
-In der Regel sind die Abstimmungen offen: Die Tatsache der Teilnahme und die Willensbekundung stehen allen Teilnehmern zur Überprüfung offen. Die Offenheit ist die Weise, sich davon zu überzeugen, dass die Auszählung ehrlich ist.
+Die persönliche Stimme ist geheim: Die Abstimmung ist so eingerichtet, dass niemand, auch nicht diejenigen, die die Plattform betreiben, erfahren kann, wie ein bestimmter Mensch abgestimmt hat, oder sich davon überzeugen kann, selbst mit dessen Zustimmung nicht. Die Teilnahme eines bestimmten Menschen an der Abstimmung wird nicht veröffentlicht.
 
-Doch die Durchsichtigkeit erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen. Deshalb muss die Plattform eine **geheime Abstimmung mit überprüfbarer Auszählung** unterstützen: Das Ergebnis prüfen alle, die Verbindung zwischen Stimme und Abstimmendem wird niemandem offengelegt, auch denen nicht, die die Plattform betreiben. Wann die geheime Weise gilt - [Charta, Artikel 6](https://earth-lings.org/documents/de/de05-charta.html).
+Die Durchsichtigkeit erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen. Deshalb muss die Plattform eine **geheime Abstimmung mit überprüfbarer Auszählung** gewährleisten: Das Ergebnis prüfen alle, die Verbindung zwischen Stimme und Abstimmendem wird niemandem offengelegt, auch denen nicht, die die Plattform betreiben. Der Ablauf - [Charta, Artikel 6](https://earth-lings.org/documents/de/de05-charta.html).
 
-Geheim wird abgestimmt:
+Die Plattform gewährleistet außerdem:
 
-- **zwingend** - bei der Behandlung der Frage einer Beschränkung von Befugnissen und bei der Aufhebung einer unwirksamen Ausgabe eines Passes;
-- **durch Beschluss der Vollversammlung** - für einzelne Fragen oder Gruppen, insbesondere solche, die die Position des Volkes zu Handlungen von Staaten und zu internationalen Fragen betreffen.
+- **bis zum Schluss der Abstimmung** - einen verborgenen Zwischenstand und die Möglichkeit, die Stimmabgabe zu wiederholen, wobei die zuletzt abgegebene Stimme gezählt wird; eine persönliche Stimme zu einer Frage hebt die Übertragung für diese Frage auf;
+- **die Offenheit der Stimmen des Delegierten** - die übertragenen Stimmen, die ein Delegierter abgibt, sind für alle sichtbar; nicht veröffentlicht wird, wer dem Delegierten seine Stimme übertragen hat.
 
-In allen Fällen werden die Frage, das Ergebnis, die Zahl der Abstimmenden und das Ergebnis der Überprüfung der Auszählung veröffentlicht.
+Stets werden veröffentlicht: die Frage, die Antwortmöglichkeiten, die Fristen, die Zahl der Stimmberechtigten, die Zahl der Abstimmenden, das Ergebnis, der Nachweis der Auszählung und der Weg, auf dem jeder Mensch das Ergebnis selbst nachrechnen kann.
 
 ## Die Übertragung
 

@@ -20,7 +20,7 @@ Bei einer Abweichung von der Erklärung gilt die Erklärung.
 
 **Die Ausgangsposition, in der alle Antworten zusammenlaufen:**
 
-**Erstens.** Beide Normen, auf die wir uns stützen, gelten heute und sind für die Staaten verbindlich: die Vereinigungsfreiheit und das Selbstbestimmungsrecht der Völker. Keine von beiden ist erfunden.
+**Erstens.** Beide Normen, auf die wir uns stützen, gelten heute: die Vereinigungsfreiheit und das Selbstbestimmungsrecht der Völker. Die Verträge, die sie verankern, sind für die Vertragsstaaten verbindlich. Keine von beiden ist erfunden.
 
 **Zweitens.** Ihre Anwendung auf ein freiwillig konstituiertes nichtterritoriales Volk hat das Völkerrecht nicht entschieden. Wir räumen das offen ein.
 
@@ -104,11 +104,11 @@ Die Zugehörigkeit wird durch einen kostenlosen Akt konstituiert - durch die Unt
 
 Genau so ist der Eintritt in jedes Volk durch einen Akt eingerichtet: Die Einbürgerung ist in allen Ländern mit einer staatlichen Gebühr von einigen hundert Dollar oder dem Gegenwert belegt, und der Pass ist in allen Ländern der Welt auch für Bürger von Geburt an kostenpflichtig. Die Gebühr bezahlt das Verfahren und kauft nicht die Zugehörigkeit.
 
-Ein Unterschied zum Einbürgerungsrecht besteht, und er ist zu unseren Gunsten. Dort wird der Mittellose von der Gebühr befreit - das heißt, er muss seine Armut erklären und sie einer Stelle nachweisen, die ihm nicht zu glauben befugt ist. Bei uns gibt es überhaupt keine Befreiung: Der Beitrag wird stets vollständig entrichtet, verschieden ist allein, wer ihn entrichtet. Wer nicht zahlen kann, stellt sich mit einer einzigen Handlung in eine offene Warteschlange, in der nur Nummer und Datum sichtbar sind, und den Beitrag entrichtet für ihn ein anderer Mensch oder die Schatzkammer. Niemand erklärt etwas über sich, niemand weist etwas nach, und keine Stelle entscheidet, ob ein Mensch arm genug ist.
+Ein Unterschied zum Einbürgerungsrecht besteht, und er ist zu unseren Gunsten. Dort wird der Mittellose von der Gebühr befreit - das heißt, er muss seine Armut erklären und sie einer Stelle nachweisen, die ihm nicht zu glauben befugt ist. Bei uns gibt es überhaupt keine Befreiung: Der Beitrag wird stets vollständig entrichtet, verschieden ist allein, wer ihn entrichtet. Wer nicht zahlen kann, stellt sich mit einer einzigen Handlung in eine offene Warteschlange, in der nur Nummer und Datum sichtbar sind, und den Beitrag für ihn kann ein anderer Mensch oder die Schatzkammer entrichten; eine Gewähr dafür gibt es nicht. Niemand erklärt etwas über sich, niemand weist etwas nach, und keine Stelle entscheidet, ob ein Mensch arm genug ist.
 
 Bezahlen kann die Warteschlange jeder, doch auswählen, für wen genau, kann niemand: Bezahlt wird der Kopf der Warteschlange. Sonst entstünde ein Gönner und hinter ihm eine Abhängigkeit. Wer zahlt, weiß nicht, für wen er gezahlt hat; wer bezahlt wurde, weiß nicht, wer gezahlt hat; im Register ist nicht vermerkt, von wem der Beitrag entrichtet wurde, und der Pass ist von den übrigen nicht zu unterscheiden. Das ist wesentlicher, als es klingt: Eine Befreiung auf Antrag schafft stets zwei Klassen von Teilnehmern - die, die gezahlt haben, und die, die bemitleidet wurden. Hier gibt es eine Klasse.
 
-Was wir dabei nicht versprechen: den sofortigen Eintritt. Wer in der Warteschlange steht, wartet, bis sich jemand findet, der zahlt. Geld macht den Eintritt langsamer, verschließt ihn aber nicht endgültig - und darin sehen wir die ehrliche Grenze des Möglichen und keine Lösung des Problems der Armut.
+Was wir dabei nicht versprechen: dass sich jemand findet, der zahlt. Wer in der Warteschlange steht, wartet auf die Ausgabe des Passes, und wie lange, ist im Voraus nicht bekannt: Eine Zahlung für ihn ist möglich, aber ohne Gewähr - und darin sehen wir die ehrliche Grenze des Möglichen und keine Lösung des Problems der Armut. Die Zugehörigkeit hängt davon nicht ab: Sie entsteht durch die Unterzeichnung der Erklärung und nicht durch den Beitrag.
 
 Der freie Austritt schwächt die Beständigkeit der Gemeinschaft nicht - er ist das Einzige, was ihren Nachweis sauber macht. In einem Volk von Geburt beweist das Bleiben nichts: Der Austritt ist unzugänglich oder ruinös. Hier ist jeder Tag fortgesetzter Zugehörigkeit eine erneuerte Wahl bei null Kosten des Fortgehens. Ein solches Maß für Beständigkeit kann kein überkommenes Volk vorweisen.
 
@@ -194,7 +194,7 @@ Wird unmittelbar zurückgewiesen: Die Earthlings bauen eine Ordnung der Verantwo
 
 Begründet wird ein Recht, in der Erörterung gehört zu werden, aber keine Macht in der Entscheidung. Die Befugnisse der Staaten werden nicht aufgehoben.
 
-Die Stütze ist die Lehre vom gemeinsamen Erbe der Menschheit, die für den Meeresboden (Artikel 136 des Seerechtsübereinkommens der Vereinten Nationen) und für den Mond (Artikel 11 des Abkommens von 1979) bereits festgelegt ist: Sie lässt ein Interesse der Menschheit als Ganzer zu, verleiht aber niemandem Macht über diese Bereiche.
+Die Stütze ist die Lehre vom gemeinsamen Erbe der Menschheit, die für den Meeresboden (Artikel 136 des Seerechtsübereinkommens der Vereinten Nationen) und für den Mond (Artikel 11 des Abkommens von 1979) bereits festgelegt ist: Sie lässt ein Interesse der Menschheit als Ganzer zu, schafft aber keinen Träger, der aus den Menschen selbst bestünde: Im Namen der Menschheit handelt im „Gebiet“ im Sinne des Übereinkommens die Internationale Meeresbodenbehörde, deren Mitglieder die Vertragsstaaten des Übereinkommens sind (Artikel 137 Absatz 2 und 156).
 
 ### Wenn alle beitreten, fallen Sie mit der Menschheit zusammen - und die Menschheit hat nach Ihrem eigenen Eingeständnis keine rechtliche Stimme. Der Erfolg löst Ihr Volkssein auf.
 

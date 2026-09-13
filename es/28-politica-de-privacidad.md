@@ -38,7 +38,7 @@ La mayoría de las plataformas consideran los datos personales una mercancía. N
 
 **Qué:** seudónimo a su elección, dirección de correo electrónico, país de residencia, confirmación de ser mayor de 18 años.
 
-**Para qué:** el seudónimo es su nombre público en el pasaporte y en la plataforma; el correo, para confirmar el registro y para el contacto; el país, para la estadística de distribución geográfica; la edad, condición obligatoria de participación.
+**Para qué:** el seudónimo es el nombre con el que lo ven los demás participantes en la plataforma y que figura en su pasaporte; en la comprobación abierta del pasaporte y en el registro no se muestra; el correo, para confirmar el registro y para el contacto; el país, para la estadística de distribución geográfica; la edad, condición obligatoria de participación.
 
 El nombre y los apellidos reales **no se conservan**.
 
@@ -66,7 +66,7 @@ Los detalles están en la [Política de verificación biométrica](https://earth
 
 **Para qué:** mejorar el funcionamiento de la plataforma y el diagnóstico técnico.
 
-> **Qué no hay aquí ni lo habrá.** El sentido de su voto en las votaciones secretas no se registra, no se vincula a su cuenta y no está accesible a nadie, incluidos quienes operan la plataforma. Las votaciones abiertas son públicas por su naturaleza, y su resultado lo ve todo el mundo: es una propiedad de la votación misma, y no de la analítica.
+> **Qué no hay aquí ni lo habrá.** El contenido de su voto no debe ser accesible a nadie, incluidos quienes operan la plataforma, y no se publica si usted ha participado en la votación. Son públicos el resultado de la votación y los votos cedidos que emite el delegado: es una propiedad de la votación misma, y no de la analítica. El medio que lo asegurará técnicamente todavía se está eligiendo, y sobre cómo están las cosas ahora hablamos con claridad: en el canal abierto de votaciones desplegado, el voto y la dirección del monedero son públicos, y en él no se han celebrado votaciones de fondo; los votos en las células la plataforma los conserva junto con la cuenta, a los demás participantes de la célula les muestra el resultado y las objeciones con sus argumentos, y quienes operan la plataforma tienen acceso técnico a los votos conservados.
 >
 > Los datos de uso se emplean de forma agregada. Son datos agregados, y no anonimizados: mientras un asiento esté vinculado a una cuenta, sigue siendo un dato personal.
 
@@ -133,7 +133,7 @@ Por defecto, los datos permanecen en la infraestructura del pueblo. Las excepcio
 
 **Requerimientos legales.** Los datos se ceden únicamente por una resolución judicial firme o un requerimiento legal equivalente, cuya legitimidad se comprueba en cada caso. De los requerimientos atendidos se avisa al participante, salvo que la propia resolución lo prohíba; el resumen se publica en el informe de transparencia.
 
-**Datos públicos de las decisiones.** Una parte de los datos es pública por la naturaleza del autogobierno: las propuestas, los resultados de las votaciones, el movimiento de los fondos comunes. El sentido del voto en las votaciones secretas no pertenece a esa categoría.
+**Datos públicos de las decisiones.** Una parte de los datos es pública por la naturaleza del autogobierno: las propuestas, los resultados de las votaciones, el movimiento de los fondos comunes. El contenido del voto personal y la participación de una persona concreta en la votación no pertenecen a esa categoría; son públicos los votos cedidos que emite el delegado.
 
 ---
 

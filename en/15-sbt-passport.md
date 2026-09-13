@@ -47,7 +47,7 @@ The single exception is proven acts aimed at undermining the integrity of the vo
 
 ### Marks of participation
 
-The history of participation and contribution is recorded publicly: votes, completed projects, work in Cells.
+The history of participation and contribution is recorded publicly: completed projects, work in Cells. Participation in votes is not published: a personal vote is secret (Charter, Article 6).
 
 > **These marks affect nothing** and are purely informational: [Charter, Article 8](https://earth-lings.org/documents/en/en05-charter.html).
 
@@ -85,7 +85,7 @@ The history of participation and contribution is recorded publicly: votes, compl
 
 ### Data storage
 
-- **in the ledger:** an identifier, a pseudonym, a verification hash. Personal data are not written to the ledger;
+- **in the ledger:** an identifier and a verification hash; the pseudonym is not written to the ledger. Personal data are not written to the ledger;
 - **outside the ledger:** the personal data of the account, encrypted and kept to a minimum;
 - **biometrics:** not retained. Only irreversible cryptographic hashes are retained, and only so that one person cannot hold two valid passports;
 - designed in accordance with the principles of the GDPR.
@@ -127,7 +127,7 @@ The passport documents what it documents, and that is no small thing: a particul
 
 - the Earthlings DAO is not a registered legal entity;
 - participants bear individual responsibility for complying with the laws of their countries;
-- internal disputes are resolved by the procedures of the Charter: dialogue, mediation, and for serious breaches recourse to the Independent Council. The people does not supplant courts and state legal mechanisms and provides no arbitration outside its own ecosystem.
+- internal disputes are resolved under the procedure set out in the document "Earthlings Ethics": dialogue, mediation with the consent of both parties, recourse to the Independent Council for serious breaches, and consideration by the Assembly in extreme cases; until the Council is formed, the stage involving it is skipped and the periods of discussion are doubled (Charter, Article 39). The people does not supplant courts and state legal mechanisms and provides no arbitration outside its own ecosystem.
 
 ---
 

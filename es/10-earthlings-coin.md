@@ -116,7 +116,7 @@ Todo lo descrito más arriba es la arquitectura de destino, y no un estado alcan
 
 Esta pregunta se hace más que ninguna otra, de modo que la respuesta se formula de manera directa y completa.
 
-**Hoy no hay negociación** y en un horizonte previsible no se prevé: la unidad da servicio a la circulación interna.
+**Hoy no hay negociación** y en un horizonte previsible no se prevé: no hay emisión de la unidad, y no hay circulación (sección 8).
 
 **En el futuro es posible una disponibilidad bursátil**, si el ecosistema crece y ello se justifica, pero **no está prometida, no está garantizada y no es un fin del diseño**. La decisión de listar la adoptan plataformas y reguladores independientes, y no el pueblo Earthlings.
 

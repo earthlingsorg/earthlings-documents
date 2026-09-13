@@ -25,7 +25,7 @@ The Earthlings people relies on two norms of international law in force:
 - **freedom of association** - Article 20 of the Universal Declaration of Human Rights, Article 22 of the International Covenant on Civil and Political Rights, Article 11 of the European Convention on Human Rights;
 - **the right of peoples to self-determination** - Article 1(2) of the UN Charter, common Article 1 of the 1966 Covenants.
 
-Both norms are in force and binding on states.
+Both norms are in force, and the treaties in which they are enshrined are binding on the states parties to them.
 
 > **What is not settled.** Freedom of association protects the founding act: people are entitled to associate and to declare what they consider themselves to be. It does not confer a status on the result. Whether a voluntarily founded non-territorial community is a people within the meaning of international law is a question the law has not decided, and we do not pass it off as decided. The objections to our position are set out in our own documents at full strength and without softening: [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html), [Objections and Answers](https://earth-lings.org/documents/en/en26-objections-and-answers.html).
 

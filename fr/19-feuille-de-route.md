@@ -145,7 +145,7 @@ Elle est publiée au moins une fois tous les 90 jours et comprend: le montant to
 | Passeports | fonctionnent |
 | Plateforme numérique | fonctionne |
 | Système des cellules | fonctionne |
-| Mécanisme de vote | déployé, aucun vote de fond n'a eu lieu |
+| Mécanisme de vote | canal de vote ouvert déployé, aucun vote de fond n'a eu lieu; outil de vote secret en cours de sélection |
 | Trésorerie | le portefeuille Safe est déployé, le seuil de signatures est de une; le passage à six signataires est prévu; les contrats intelligents ne sont pas déployés |
 | Core Nodes et Emergency Multisig | non élus |
 | Conseil indépendant | non constitué |

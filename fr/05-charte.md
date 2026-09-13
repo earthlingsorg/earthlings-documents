@@ -244,13 +244,13 @@ La transparence porte sur les actes des institutions et non sur les données per
 - jusqu'à la clôture, il est possible de voter à nouveau; le dernier vote exprimé est retenu
 - un vote personnel sur une question annule la délégation sur cette question
 
-**Le secret est un droit du votant, et non une condition de validité du vote.** Un vote vu par la personne qui a aidé à voter est valide; l'aide technique qui ne détermine pas le contenu du vote est admissible (Déclaration, article 8). Il est interdit d'exiger d'une personne qu'elle montre comment elle a voté; un avantage en échange d'une telle preuve est un achat de voix (article 22 bis).
+**Le secret est un droit du votant, et non une condition de validité du vote.** Un vote vu par la personne qui a aidé à voter est valide; l'aide technique qui ne détermine pas le contenu du vote est admissible (Déclaration, article 8, « Il n'existe pas d'exigence insurmontable »). Il est interdit d'exiger d'une personne qu'elle montre comment elle a voté; une rémunération en échange d'une telle preuve est un achat de voix (article 22 bis).
 
 Sont toujours publiés: la question elle-même, les options de réponse et les délais, le nombre de personnes ayant le droit de vote, le nombre de votants, le résultat, la preuve du décompte et la manière dont toute personne peut recompter le résultat elle-même.
 
 ## Article 7. La délégation des voix
 
-Un earthling peut déléguer sa voix, sur un domaine déterminé, à un autre earthling. La délégation est volontaire et révocable à tout moment. Si un earthling, de son plein gré, confie à une autre personne le soin de déterminer le contenu de son vote, il y a délégation, quelle que soit la forme technique sous laquelle elle s'accomplit, y compris par la remise de l'accès à la clé ou par la connexion d'un signataire extérieur, et toutes les limites du présent article s'y appliquent. L'aide technique qui ne détermine pas le contenu du vote n'est pas une délégation (Déclaration, article 8).
+Un earthling peut déléguer sa voix, sur un domaine déterminé, à un autre earthling. La délégation est volontaire et révocable à tout moment. Si un earthling, de son plein gré, confie à une autre personne le soin de déterminer le contenu de son vote, il y a délégation, quelle que soit la forme technique sous laquelle elle s'accomplit, y compris par la remise de l'accès à la clé ou par la connexion d'un signataire extérieur, et toutes les limites du présent article s'y appliquent. L'aide technique qui ne détermine pas le contenu du vote n'est pas une délégation (Déclaration, article 8, « Il n'existe pas d'exigence insurmontable »).
 
 > **La délégation n'est pas la représentation.** Elle est donnée par domaine et non pour une durée; elle est révoquée immédiatement, sans avoir à s'expliquer et sans l'accord du délégué; elle ne crée pas de fonction et ne donne au délégué aucun droit, hormis celui d'exprimer les voix qui lui ont été confiées. Un délégué peut à tout moment se retrouver sans une seule voix déléguée, et c'est le fonctionnement normal du mécanisme, non une défaillance.
 
@@ -516,7 +516,7 @@ En règle générale, le passeport SBT n'est détruit que par son titulaire lui-
 
 ### 1. L'annulation d'une délivrance non valide
 
-Un passeport peut être annulé s'il est établi qu'il a été délivré en méconnaissance des conditions de délivrance: plus d'un passeport valide délivré à une même personne, ou vérification effectuée au moyen de données falsifiées ou de l'identité d'autrui, ou passeport délivré à une personne n'ayant pas atteint l'âge établi par la présente Charte. La liste des motifs est fermée et correspond à l'article 8 de la Déclaration.
+La délivrance d'un passeport peut être annulée s'il est établi que ce passeport a été délivré en méconnaissance des conditions de délivrance: plus d'un passeport valide délivré à une même personne, ou vérification effectuée au moyen de données falsifiées ou de l'identité d'autrui, ou passeport délivré à une personne n'ayant pas atteint l'âge établi par la présente Charte. La liste des motifs est fermée et correspond à l'article 8 de la Déclaration.
 
 Si plus d'un passeport valide a été délivré à une même personne, la délivrance de tous est annulée sauf celle du premier délivré. Dans aucun des trois cas l'annulation ne met fin à l'appartenance de la personne au peuple (Déclaration, article 8); si le passeport a été délivré à une personne n'ayant pas atteint l'âge établi, l'appartenance n'est pas encore née, et il n'y a rien à quoi l'annulation puisse mettre fin.
 
