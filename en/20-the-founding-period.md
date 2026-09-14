@@ -8,13 +8,13 @@ A people that creates itself must itself adopt the rules on which it will be fou
 
 Earthlings therefore begins with a founding period.
 
-Today the Declaration exists as an initial edition, prepared for founding the people. It states the principles on which we propose to create it, but it is not yet the final founding act.
+Today the Declaration exists as an initial edition, prepared for founding the people. It states the principles on which we propose to create the people, but it is not yet the final founding act.
 
-**It is not the Declaration alone that is open.** The whole corpus is open to proposals - twenty-five documents that describe the people in full: the Charter with its procedures and thresholds, the design of the treasury and the unit of account, the procedure for identity verification, the work of Cells, the roadmap, ethics, the legal basis. The Declaration is the principal one among them, but it does not describe the people by itself: it establishes the foundations and the limits, while how all of it works from day to day is written in the rest.
+**It is not the Declaration alone that is open.** The whole corpus is open to proposals - twenty-five documents that describe the people in full: the Charter with its procedures and thresholds, the design of the treasury and the unit of account, the procedure for identity verification, the work of Cells, the roadmap, ethics, the legal basis. The Declaration is the principal document among them, but it does not describe the people by itself: it establishes the foundations and the limits, while the other documents set out how all of this works from day to day.
 
-We say this plainly, because otherwise a false impression arises that people are invited to amend one text while the rest will be brought to them finished. That is not so: any document of the corpus can be amended. What differs is not a person's right to submit a proposal but what happens to an accepted proposal next - which is what section 02 is about.
+We say this plainly, because otherwise the false impression arises that people are invited to amend one text while the rest will be handed to them finished. That is not so: any document of the corpus can be amended. What differs is not a person's right to submit a proposal but what happens next to an accepted proposal - section 02 deals with this.
 
-After this period ends, the Declaration will be put to a joint vote. If it is adopted, it will become the founding document of the people, and the principles of its unamendable core will become irrevocable forever.
+After this period ends, the Declaration will be put to a collective vote. If it is adopted, it will become the founding document of the people, and the principles of the Declaration's unamendable core will become irrevocable forever.
 
 This is a matter of principle.
 
@@ -26,7 +26,7 @@ After adoption the Declaration becomes unamendable precisely because it was adop
 
 What remains amendable are the institutions, the procedures, the economic mechanisms, and the ways of working together. They must develop along with the people.
 
-What remains unamendable is only its founding basis - the fundamental conditions of a person's voluntary belonging to this people.
+What remains unamendable is only the people's founding basis - the fundamental conditions of a person's voluntary belonging to this people.
 
 This is how we want Earthlings to be created: not for people, but **by people themselves**.
 
@@ -38,31 +38,31 @@ From 22 October 2026 to 20 January 2027 the whole corpus is open to proposals - 
 
 After adoption the Declaration will be unamendable because it will have been adopted by those whom it unites.
 
-There is a second reason. A people built on shared participation cannot come to anyone ready-made. Until the texts are adopted, everyone has the opportunity to influence them - and that opportunity is real, not decorative: what goes into the Declaration will apply without a time limit, and what goes into the other documents will apply at once.
+There is a second reason. A people built on shared participation cannot be handed to people ready-made. Until the texts are adopted, everyone has the opportunity to influence them - and that opportunity is real, not for show: what goes into the Declaration will apply without a time limit, and what goes into the other documents will apply at once.
 
 ## 02. What is open to proposals
 
-The whole corpus is open. A proposal may be submitted to any document, and everyone has the same right to submit one. The consequences will differ - because the documents differ in force.
+The whole corpus is open. A proposal may be submitted to any document, and everyone has the same right to submit one. The consequences will differ, because the documents do not have the same force.
 
 ### The Declaration
 
-The founding document. Adopted by a vote on 17 February 2027.
+The founding document. To be adopted by a vote on 17 February 2027.
 
 The wording is open in its entirety. The composition of the unamendable core is open too - proposals to add to it are considered on the same footing as the rest if they pass the test in section 04. The only proposals not considered are those to repeal or limit the principles of the core themselves; refining their wording may be proposed.
 
-After adoption the principles of the core are never repealed, and the other provisions the people changes itself - by two thirds of the votes and only so that no guarantee to any person becomes weaker.
+After adoption the principles of the core are never repealed, while the people itself changes the other provisions - by two thirds of the votes and only so that no guarantee to any person becomes weaker.
 
 ### The Charter
 
-The principal organizational document: the age of participation, voting thresholds, periods, the procedure for appeal, restriction of powers, the procedure for annulling the issuance of a passport.
+The principal organizational document: the age of participation, voting thresholds, time limits, the appeals procedure, the restriction of powers, the procedure for annulling the issuance of a passport.
 
 The Declaration entrusts the Charter with setting out almost everything that happens in practice, so the Charter takes effect together with it: without the Charter there would not be a single operative procedure on the first day. It is not adopted by a separate vote, but proposals to it are accepted on the same footing as proposals to the Declaration and are included in the text before the day of adoption.
 
-Thereafter the Charter is changed by the people itself - by decision of the Assembly, at any time and in the manner the Charter itself sets out. It cannot lower the requirements of the Declaration under any circumstances.
+Thereafter the Charter is changed by the people itself - by decision of the Assembly, at any time and in the manner the Charter itself sets out. The Charter cannot lower the requirements of the Declaration under any circumstances.
 
 ### Design documents
 
-How the DAO, the Cells, the treasury, the EC unit of account, the Independent Council, the digital platform, the SBT passport, the earthling path, the roadmap, and ethics are arranged and work.
+How the DAO, the Cells, the treasury, the EC unit of account, the Independent Council, the digital platform, the SBT passport, the earthling path, the roadmap, and ethics are structured and how they work.
 
 These documents are not adopted by a vote: they describe mechanisms, and mechanisms must develop along with the people. Accepted proposals are entered into them at once, without waiting for 17 February. After the founding they are changed by the Assembly under the Charter.
 
@@ -70,15 +70,15 @@ These documents are not adopted by a vote: they describe mechanisms, and mechani
 
 The privacy policy, the terms of use, the biometric verification policy, the legal information - and also "Civic Voice", the legal basis, the objections and answers, "How a Subject of Law Arises", the frequently asked questions, "About Us", the working agenda, "Where We Are Now".
 
-Proposals to them are accepted and published with a reply just as to all the others. But the first four have a particularity, and we name it plainly: they are addressed not inward to the people but outward, to individuals, laws, and supervisory authorities, and part of their content is prescribed by personal data legislation. Such content cannot be changed by a vote - what can be changed is what is left to our discretion.
+Proposals to them are accepted and published with a reply, just as proposals to all the others are. But the first four have a feature of their own, and we name it plainly: they face not inward, towards the people, but outward, towards individuals, laws, and supervisory authorities, and part of their content is prescribed by personal data legislation. Such content cannot be changed by a vote - what can be changed is what is left to our discretion.
 
 ### What is not part of the corpus
 
 The Address to Everyone, placed on the main page, is not part of the corpus. Proposals to it are not accepted, and it is not put to a vote.
 
-The reason is not that it is more important or more untouchable than the rest. On the contrary, it establishes nothing. It creates neither rights nor duties, nothing follows from it, and it is not what the people adopts. It is an address to everyone from those who started all this - and it is signed by its authors, not by the people. Voting on an address is as odd as voting on someone else's letter.
+The reason is not that it is more important or more untouchable than the rest. On the contrary, it establishes nothing. It creates neither rights nor duties, nothing follows from it, and it is not what the people adopts. It is an address to everyone from those who started all this - and it is signed by its authors, not by the people. Voting on an address would be as odd as voting on someone else's letter.
 
-Everything that has force lies in the corpus and is open to proposals in full.
+Everything that has force is in the corpus and is open to proposals in full.
 
 ### In summary
 
@@ -91,7 +91,7 @@ Everything that has force lies in the corpus and is open to proposals in full.
 
 ## 03. What is not up for discussion
 
-Five provisions are not up for discussion under any circumstances. A people from whom they can be bargained away is no different from what already exists.
+Five provisions are not up for discussion under any circumstances. A people that can be bargained out of them is no different from what already exists.
 
 - **One person, one vote.** A vote cannot be bought, sold, accumulated, or irrevocably transferred.
 - **There is no power of some over others.** No one holds a position above another earthling; powers are limited, revocable, and verifiable, and a mandate does not become an office.
@@ -101,7 +101,7 @@ Five provisions are not up for discussion under any circumstances. A people from
 
 All five are written into Articles 3, 4, and 5 of the Declaration, listed in Article 11, and constitute the unamendable core. Proposals aimed at repealing or limiting these principles are not considered. Proposals to refine the wording and to add to the core are considered on the same footing as all the others.
 
-What is unamendable are the principles themselves, not the letter in which they are written. The wording may be refined if the refinement does not narrow the principle and lowers no guarantee to any person; where there is doubt it is deemed to lower it and is not accepted. The rest of the text of the Declaration the people is entitled to change, add to, and shorten - by two thirds of the votes and only so that no guarantee becomes weaker.
+What is unamendable are the principles themselves, not the letter in which they are written. The wording may be refined if the refinement does not narrow the principle and lowers no guarantee to any person; where there is doubt it is deemed to lower it and is not accepted. The people is entitled to change, add to, and shorten the rest of the text of the Declaration - by two thirds of the votes and only so that no guarantee becomes weaker.
 
 ## 04. A test for the unamendable core
 
@@ -112,7 +112,7 @@ A principle that has entered the unamendable core can never be repealed. A propo
 3. it is verifiable: it can be established whether it has been breached or not;
 4. it remains true even if we were wrong in our assessment of circumstances.
 
-"A vote cannot be bought" meets all four. "The people works on climate" meets none: it is a task, tasks change, and their place is in the Charter.
+"A vote cannot be bought" meets all four. "The people works on climate" meets none: it is a task, tasks change, and they belong in the Charter.
 
 ## 05. How to take part
 
@@ -122,23 +122,23 @@ There are two paths, and they are not the same thing.
 
 **Take part in adopting the text.** For this you need to confirm your identity before the day of adoption: those who vote are those confirmed to be one living human being. Confirmation is free and is not entry into the people - it gives the temporary status of a participant in the founding and the right to vote on the day of adoption.
 
-**About a wallet.** To receive the temporary document you need a crypto wallet to which it is tied - this is needed so that only a confirmed participant can cast a vote, and only once, while no one will learn how a particular participant voted: the vote on adoption is held by secret ballot. If you have no wallet and do not know how to create one: the identity verification form includes Web3Auth - it creates a wallet automatically, through a login by email, Google, or Apple, with no seed phrase.
+**About a wallet.** To receive the temporary document you need a crypto wallet to which it is tied - this is needed so that only a confirmed participant can cast a vote, and only once. At the same time, no one will learn how a particular participant voted: the vote on adoption is held by secret ballot. If you have no wallet and do not know how to create one, the identity verification form includes Web3Auth, which creates a wallet automatically when you log in with email, Google, or Apple, with no seed phrase.
 
 **In which language.** In any of the nine in which the corpus exists: English, Russian, German, Spanish, French, Chinese, Arabic, Hindi, and Georgian. You do not need to translate your proposal yourself, and a proposal is not rejected because of its language.
 
-The reply is published in English and in the language of the proposal. Here we will say at once what would otherwise be asked: for Chinese, Arabic, Hindi, and Georgian we do not yet have a native speaker, and the reply in those languages may be less smooth than in English. This does not change the meaning of the reply, and there will be no difference of substance between the versions.
+The reply is published in English and in the language of the proposal. We will say straight away what would otherwise be asked: for Chinese, Arabic, Hindi, and Georgian we do not yet have native speakers, and the reply in those languages may be less smooth than in English. This does not change the meaning of the reply, and there will be no difference of substance between the versions.
 
-There is a second reason for opening all nine languages, besides the obvious one. A person reading the Declaration in their own language notices things in the translation that we do not see. Such observations are no less valuable to us than objections on the merits, and we ask that they be sent.
+There is a second reason for opening up all nine languages, besides the obvious one. A person reading the Declaration in their own language notices things in the translation that we do not see. Such observations are no less valuable to us than objections on the merits, and we ask you to send them.
 
 Taking part in the founding gives no advantages afterwards. There will be no class of founders in this people: this is written into Article 8 of the Declaration and forms part of the unamendable core.
 
-## 06. What happens if you disagree with the text adopted
+## 06. What happens if you disagree with the adopted text
 
 Nothing will happen against your will.
 
-Before adoption you are a participant in the founding, not an earthling: there is nothing to sign yet. On the day of adoption you vote. If the text adopted does not suit you, you simply do not sign it and you leave - at any time, without giving reasons and without anyone's consent.
+Before adoption you are a participant in the founding, not an earthling: there is nothing to sign yet. On the day of adoption you vote. If the adopted text does not suit you, you simply do not sign it and you leave - at any time, without giving reasons and without anyone's consent.
 
-No decision taken before your consent binds you to anything.
+No decision taken before you give your consent binds you to anything.
 
 ## 07. Dates
 
@@ -147,19 +147,19 @@ No decision taken before your consent binds you to anything.
 - **3 February 2027** - the record is published: all proposals received and the replies to them. On the same day the final editions of the Declaration and the Charter, in the form put to the vote, are published in Russian and English.
 - **17 February 2027** - adoption of the Declaration by a vote.
 
-Amendments to the other documents of the corpus are made in the course of the period rather than on these days: they are not adopted by a vote, and there is no reason for them to wait for 17 February.
+Amendments to the other documents of the corpus are made in the course of the period rather than on these dates: they are not adopted by a vote, and there is no reason for them to wait for 17 February.
 
 ## 08. Where to send them
 
 By email to team@earth-lings.org. One word in the subject line is enough: objection.
 
-All proposals and the replies to them are kept in an open registry: <https://github.com/earthlingsorg/earthlings-documents>. Anyone can view it without registering; submitting proposals directly there is also possible, if that is more convenient for you. The registry holds the whole corpus, not the Declaration alone, and every change to any document is visible in it line by line and linked to the proposal that led to it.
+All proposals and the replies to them are kept in an open registry: <https://github.com/earthlingsorg/earthlings-documents>. Anyone can view it without registering; proposals can also be submitted there directly, if that is more convenient for you. The registry holds the whole corpus, not the Declaration alone, and every change to any document is visible in it line by line and linked to the proposal that led to it.
 
-We answer everything and publish everything, including what does not favour us. Every argument known to us against our own scheme we wrote ourselves, before asking others to do it.
+We answer everything and publish everything, including what does not favour us. We wrote every argument known to us against our own scheme ourselves, before asking others to do so.
 
 # Part 2. Rules of the founding period
 
-This section establishes the procedure referred to by the section "Status of This Edition" of the Declaration.
+This section establishes the procedure referred to in the section "Status of This Edition" of the Declaration.
 
 ## 1. Receipt of proposals
 
@@ -167,13 +167,13 @@ Proposals are accepted from 22 October 2026 to 20 January 2027 inclusive.
 
 Any person is entitled to submit a proposal. Entering the people, verifying identity, making payments, and agreeing with the provisions of the Declaration are not required for this.
 
-A proposal is accepted in respect of any document of the corpus. It is desirable to name the document and the place in it; if this is absent, the document is determined from the content of the proposal, and a proposal is not rejected on grounds of form.
+A proposal is accepted in respect of any document of the corpus. It is desirable to name the document and the place in it; if they are not named, the document is determined from the content of the proposal, and a proposal is not rejected on grounds of form.
 
-A proposal is accepted in written form at the address given in the section "Where to send them". There is no required form. Anonymous proposals are accepted and considered on the same footing as the rest.
+A proposal is accepted in writing at the address given in the section "Where to send them". No particular format is required. Anonymous proposals are accepted and considered on the same footing as the rest.
 
 ## 1 bis. Languages
 
-A proposal is accepted in any of the nine languages of the corpus: English, Russian, German, Spanish, French, Chinese, Arabic, Hindi, and Georgian. Translation of the proposal into another language is not required of the person submitting it, and a proposal is not rejected on grounds of language.
+A proposal is accepted in any of the nine languages of the corpus: English, Russian, German, Spanish, French, Chinese, Arabic, Hindi, and Georgian. The person submitting a proposal is not required to translate it into another language, and a proposal is not rejected on grounds of language.
 
 The reply is published in English and in the language of the proposal.
 
@@ -181,25 +181,25 @@ The reply is published in English and in the language of the proposal.
 
 A proposal **on the merits** changes the meaning of the text. It is entered into the Russian master text, reproduced in the English one, and then carried across into the other seven languages. The language in which the proposal arrived has no bearing on this.
 
-A proposal **on translation** points out that a translation conveys the meaning inaccurately. It corrects the text of only the language it relates to and does not change the meaning of the document. It is not a proposal to amend the Declaration and is not put to a vote.
+A proposal **on translation** points out that a translation conveys the meaning inaccurately. It corrects only the text in the language to which it relates and does not change the meaning of the document. It is not a proposal to amend the Declaration and is not put to a vote.
 
 Which kind a proposal belongs to is determined by its content, not by how it is labelled. If a proposal on translation reveals an ambiguity in the master text itself, it is also considered as a proposal on the merits.
 
 **Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where they diverge the interpretation giving every person the higher protection prevails, and if that does not resolve the divergence, the meaning of the Russian text prevails.
 
-**Readiness of the translations.** The corpus in all nine languages is brought into line with the Russian master texts before proposals open on 22 October 2026. The final editions put to the vote are published in Russian and English on 3 February 2027, and the translations into the other seven languages by the same date. If any translation is not ready by that day, this is stated plainly, naming the language and the reason; we will not pass off an unfinished translation as a finished one.
+**Readiness of the translations.** The corpus in all nine languages is brought into line with the Russian master texts before proposals open on 22 October 2026. The final editions put to the vote are published in Russian and English on 3 February 2027, and the translations into the other seven languages by the same date. If any translation is not ready by that day, this is stated plainly, with the language and the reason named; we will not pass off an unfinished translation as a finished one.
 
 ## 2. Publication and consideration
 
-Every proposal received is published together with a reply to it - both accepted and rejected, with the reason for rejection given. The reply is published within no more than thirty days from the day the proposal is received, and for proposals received in the last thirty days of the period, no later than the day the record is published.
+Every proposal received is published together with a reply to it - both accepted and rejected, with the reason for rejection given. The reply is published no later than thirty days after the day the proposal is received, and for proposals received in the last thirty days of the submission period, no later than the day the record is published.
 
-Publication is made in the open registry named in the section "Where to send them". Every proposal is entered there as a separate record, the reply is attached to it, and every amendment to any document of the corpus is linked to the proposal that gave rise to it. Who influenced the text and with what is visible from the registry itself and does not depend on whether we remember to say so.
+Proposals and replies are published in the open registry named in the section "Where to send them". Every proposal is entered there as a separate item, the reply is attached to it, and every amendment to any document of the corpus is linked to the proposal that gave rise to it. The registry itself shows who influenced the text and with what, and this does not depend on whether we remember to say so.
 
-The decision to include a proposal in the text is taken by the author of the Declaration - across all documents of the corpus. This is the single discretionary power of the founding period, and it is named here plainly: before the text is adopted there is no people that could decide in the author's place, and handing this decision to a group would make founders of those invited rather than of the participants.
+The decision to include a proposal in the text, for every document of the corpus, is taken by the author of the Declaration. This is the only discretionary power of the founding period, and it is named here plainly: before the text is adopted there is no people that could decide in the author's place, and handing this decision to a group would make founders of those invited rather than of the participants.
 
 The power is limited in three ways: every rejection is published with the reason; every proposal remains in the open record and can be submitted again; and the final text of the Declaration is adopted not by the author but by a vote, and can be rejected.
 
-An included proposal to the Declaration and the Charter enters the edition published on 3 February 2027. An included proposal to the other documents is entered at once, and from that day the published text applies: these documents are not adopted by a vote, and there is no reason to hold an amendment until 17 February.
+An included proposal to the Declaration or the Charter enters the edition published on 3 February 2027. An included proposal to the other documents is entered at once, and from that day the published text applies: these documents are not adopted by a vote, and there is no reason to hold back an amendment until 17 February.
 
 The author's power ends together with the founding period. From that day any document of the corpus is changed only by the Assembly.
 
@@ -215,7 +215,7 @@ Proposals to add to the unamendable core are considered on the same footing as t
 
 ## 5. Identity verification during the period
 
-The rules of Article 8 of the Declaration in this edition apply temporarily to identity verification during the founding period.
+The rules of Article 8 of this edition of the Declaration apply temporarily to identity verification during the founding period.
 
 Signing the Declaration and entering the people are suspended for the duration of the founding period: there is nothing to sign yet, and a people defined by an adopted text does not yet exist.
 
@@ -247,4 +247,4 @@ The other requirements are not lowered under any circumstances.
 
 These rules apply from the day proposals open and cease to have effect from the moment the text is adopted.
 
-On the day of adoption, Article 12 of the Declaration is filled in with the actual data of the vote and remains in the text forever. The section "Status of This Edition" is not reproduced in the adopted edition.
+On the day of adoption, Article 12 of the Declaration is filled in with the actual details of the vote and remains in the text forever. The section "Status of This Edition" is not reproduced in the adopted edition.
