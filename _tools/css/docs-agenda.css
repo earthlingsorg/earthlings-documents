@@ -1,0 +1,97 @@
+/* ============================================================================
+   Схемы и особые блоки документа 31 «Рабочая повестка» - единственного в
+   корпусе, где есть графика.
+
+   Перенос с прежней темы. Взяты те же селекторы и та же структура, но цвета
+   не переписаны литералами, а сведены к ролям из tokens.css: прежний лист
+   держал золото, кирпичный #9a3b2f и еловый #2f6b3f, а в палитре epic ни
+   одного из них нет.
+
+   Что во что легло:
+     золото (--gold, --hero-gold)  ->  --link, синий epic
+     кирпичный #9a3b2f (разрыв)    ->  --red
+     еловый #2f6b3f (удержание)    ->  --green-dark
+     тёмная плашка ядра            ->  --bg-invert
+
+   Зелёный epic (#57b748) подписью не работает: на белом он даёт 2.54:1, а
+   тексту нужно 4.5:1. Поэтому в палитре появился --green-dark, а сам --green
+   остался там, где он не текст, - в полосе под раскрытым пунктом меню.
+
+   Область ограничена .statute, как и в прежнем листе.
+   ========================================================================= */
+
+/* --- схемы ---------------------------------------------------------------- */
+.statute figure.diagram { margin: 1.6rem 0 0; padding: 0; }
+.statute figure.diagram figcaption {
+  font: 600 .72rem var(--sans); letter-spacing: .14em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0 0 1rem;
+}
+
+.statute .stack { display: flex; flex-direction: column; gap: .7rem; }
+.statute .layer {
+  position: relative; background: var(--bg-alt); border: var(--border);
+  border-radius: var(--radius); padding: 1.1rem 1.2rem 1.1rem 1.4rem;
+  border-inline-start: 3px solid var(--link);
+}
+.statute .layer .l-eyebrow {
+  font: 700 .68rem var(--sans); letter-spacing: .18em; text-transform: uppercase;
+  color: var(--link);
+}
+.statute .layer .l-title {
+  font-family: var(--serif); font-weight: 600; color: var(--ink);
+  font-size: 1.25rem; margin: .15rem 0 .3rem;
+}
+.statute .layer .l-desc { font-size: .98rem; margin: 0; color: var(--ink-soft); }
+.statute .layer .l-chip {
+  position: absolute; top: 1.1rem; inset-inline-end: 1.1rem;
+  font: 700 .64rem var(--sans); letter-spacing: .12em; text-transform: uppercase;
+  padding: .2rem .5rem; border: var(--border); border-radius: var(--radius);
+}
+.statute .chip-exit { color: var(--green-dark); border-color: var(--green-dark); }
+.statute .chip-lock { color: var(--red); border-color: var(--red); }
+
+/* Ядро - тёмная плашка. У прежней темы здесь был градиент; на epic градиентов
+   нет нигде, поэтому просто заливка. */
+.statute .layer.kernel { background: var(--bg-invert); border-color: var(--bg-invert); }
+.statute .layer.kernel .l-eyebrow { color: var(--link-on-dark); }
+.statute .layer.kernel .l-title { color: var(--ink-invert); }
+.statute .layer.kernel .l-desc { color: var(--ink-on-dark); }
+.statute .layer.kernel .l-chip { color: var(--ink-on-dark); border-color: var(--ink-on-dark); }
+
+.statute .subsidiarity {
+  display: flex; align-items: center; gap: .6rem; margin: .9rem 0 0;
+  font: 400 .85rem var(--sans); letter-spacing: .04em; color: var(--ink-soft);
+}
+.statute .subsidiarity svg { flex: none; }
+
+/* --- векторные схемы ------------------------------------------------------
+   Классы стоят прямо на элементах SVG во фрагментах _tools/fragments/. */
+.statute .diagram-svg-wrap { overflow-x: auto; margin: 1.4rem 0 0; }
+.statute .diagram-svg-wrap svg {
+  display: block; width: 100%; height: auto; min-width: 440px; max-width: 760px;
+  margin: 0 auto;
+}
+.statute .svg-node { fill: var(--bg-alt); stroke: var(--ink); stroke-width: 1.4; }
+.statute .svg-node-k {
+  font: 700 11px var(--sans); letter-spacing: .12em; text-transform: uppercase;
+  fill: var(--link);
+}
+.statute .svg-node-t { font: 600 16px var(--serif); fill: var(--ink); }
+.statute .svg-edge { stroke: var(--link); stroke-width: 1.6; fill: none; }
+.statute .svg-lbl-bg { fill: var(--bg); }
+.statute .svg-lbl { font: 600 11px var(--sans); fill: var(--ink-soft); }
+.statute .svg-center { font: 400 13px var(--serif); fill: var(--ink-soft); }
+
+/* --- разбор столкновений -------------------------------------------------- */
+.statute .conflict-legend { margin: 1.2rem 0 0; display: grid; gap: .6rem; }
+.statute .conflict-legend .cl {
+  background: var(--bg-alt); border: var(--border);
+  border-inline-start: 3px solid var(--link); border-radius: var(--radius);
+  padding: .7rem .9rem;
+}
+.statute .conflict-legend .cl b { font-family: var(--serif); font-size: 1.1rem; }
+.statute .conflict-legend .cl span { display: block; font-size: .96rem; margin-top: .2rem; }
+
+@media (max-width: 40rem) {
+  .statute .layer .l-chip { position: static; display: inline-block; margin-top: .5rem; }
+}

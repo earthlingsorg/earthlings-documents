@@ -1,0 +1,272 @@
+{
+  "page": {
+    "title": "Earthlings - un nouveau peuple"
+  },
+  "header": {
+    "slogan": "Tout le monde veut sauver le monde, ils n'arrivent simplement pas à se mettre d'accord sur comment"
+  },
+  "nav": {
+    "awakened_code": "Code Éveillé",
+    "declaration": "Déclaration",
+    "civic_voice": "Voix citoyenne",
+    "legal_base": "Cadre juridique",
+    "structure": "Fonctionnement",
+    "participation": "Participation",
+    "development": "Développement",
+    "code": "Code Éveillé",
+    "where_we_are_doc": "Où nous en sommes",
+    "become_earthling": "Rejoindre",
+    "platform_btn": "Plateforme",
+    "ethics": "Éthique des Earthlings",
+    "legal_basis": "Base juridique",
+    "protocol": "Charte",
+    "dao": "DAO",
+    "honeycombs": "Cellules",
+    "fund": "Fonds",
+    "earthlings_coin": "Earthlings Coin",
+    "council": "Conseil indépendant",
+    "platform": "Plateforme numérique",
+    "roadmap": "Feuille de route",
+    "whats_next": "Ce qui peut suivre",
+    "working_agenda": "Agenda de travail",
+    "faq_legal": "Questions juridiques",
+    "founding_period": "La période constituante",
+    "legal_gap": "Comment naît un sujet de droit",
+    "legal_info": "Informations légales",
+    "faq_general": "Questions fréquentes",
+    "path": "Voie de l'Earthling",
+    "sbt_passport": "Passeport SBT",
+    "biometry": "Vérification biométrique",
+    "home": "Accueil",
+    "contact_us": "Nous contacter",
+    "support_text": "Support",
+    "about_us": "À propos de nous"
+  },
+  "hero": {
+    "title": "Earthlings",
+    "subtitle": "Comment lancer un nouveau modèle de civilisation pour résoudre les crises mondiales et créer un avenir durable",
+    "sign": "Signer la déclaration"
+  },
+  "crisis": {
+    "title": "Crise de la civilisation moderne"
+  },
+  "stats": {
+    "temperature": "Hausse de température",
+    "hunger": "Personnes affamées",
+    "military": "Dépenses militaires",
+    "species": "Extinction d'espèces"
+  },
+  "solution": {
+    "title": "Notre solution"
+  },
+  "concept": {
+    "global": {
+      "title": "Pensée globale",
+      "desc": "Unir l'humanité pour résoudre les défis communs"
+    },
+    "cooperation": {
+      "title": "Coopération",
+      "desc": "Culture de confiance et de soutien mutuel"
+    },
+    "innovation": {
+      "title": "Innovation",
+      "desc": "Technologies révolutionnaires pour le développement durable"
+    },
+    "justice": {
+      "title": "Justice",
+      "desc": "Chances égales pour tous les habitants de la planète"
+    }
+  },
+  "timeline": {
+    "title": "Étapes de développement",
+    "foundation": {
+      "title": "Fondation (2025-2026)",
+      "desc": "Création de la structure de base, attraction des premiers participants, développement de la plateforme numérique"
+    },
+    "growth": {
+      "title": "Croissance (2026-2028)",
+      "desc": "Expansion de la communauté, lancement des premiers projets, reconnaissance internationale"
+    },
+    "impact": {
+      "title": "Impact (2028-2030)",
+      "desc": "Impact mondial sur la résolution des problèmes mondiaux, formation d'un nouveau modèle de civilisation"
+    }
+  },
+  "action": {
+    "title": "Niveaux de participation",
+    "observer": {
+      "title": "Observateur",
+      "desc": "Familiarisez-vous avec les documents et les idées du projet",
+      "time": "5 minutes"
+    },
+    "supporter": {
+      "title": "Supporteur",
+      "desc": "Signez la déclaration et rejoignez la communauté",
+      "time": "15 minutes"
+    },
+    "participant": {
+      "title": "Participant",
+      "desc": "Participez activement aux projets et au développement du mouvement",
+      "time": "En continu"
+    }
+  },
+  "modal": {
+    "declaration": {
+      "title": "Signer la déclaration"
+    },
+    "success": {
+      "title": "Merci!",
+      "message": "Votre signature a été acceptée. Bienvenue dans le peuple des Earthlings!",
+      "continue": "Continuer"
+    }
+  },
+  "form": {
+    "pseudonym": "Pseudonyme (votre choix)",
+    "email": "Email",
+    "country": "Pays",
+    "country_placeholder": "Sélectionner le pays",
+    "age": "Âge",
+    "age_16": "J'ai 16 ans ou plus",
+    "candidate_status": "Je comprends qu'après avoir signé la Déclaration, je recevrai le statut de candidat et pourrai devenir Earthlings après vérification biométrique",
+    "support_awareness": "Je comprends que pour recevoir un passeport SBT, je peux soutenir volontairement le projet indépendant avec une contribution de $79",
+    "agree_documents_label": "Accord avec les documents",
+    "agree_documents": "J'ai lu et pris connaissance de",
+    "biometric_policy_link": "Politique de vérification biométrique",
+    "declaration_link": "Déclaration des Earthlings",
+    "charter_link": "Charte",
+    "ethics_link": "Principes éthiques",
+    "passport_info_link": "À propos du passeport SBT Earthlings",
+    "funding_info_link": "Informations sur le financement du projet",
+    "project_name": "Earthlings",
+    "data_processing": "Traitement des données personnelles",
+    "data_agree": "J'accepte le traitement des données personnelles",
+    "newsletter": "Newsletters d'information",
+    "newsletter_agree": "J'accepte de recevoir des newsletters d'information",
+    "newsletter_decline": "Je ne veux pas recevoir de newsletters",
+    "submit": "Signer la déclaration",
+    "send": "Envoyer",
+    "informativeness": "Informativité du site",
+    "user_age": "Votre âge",
+    "experience": "Expérience dans les projets publics",
+    "comments": "Commentaires et suggestions",
+    "excellent": "Excellent",
+    "good": "Bon",
+    "average": "Moyen",
+    "poor": "Médiocre",
+    "extensive": "Étendue",
+    "some": "Quelque peu",
+    "none": "Aucune"
+  },
+  "country": {
+    "russia": "Russie",
+    "kazakhstan": "Kazakhstan",
+    "ukraine": "Ukraine",
+    "belarus": "Biélorussie",
+    "moldova": "Moldavie",
+    "romania": "Roumanie",
+    "france": "France",
+    "uk": "Royaume-Uni",
+    "portugal": "Portugal",
+    "argentina": "Argentine",
+    "canada": "Canada",
+    "usa": "États-Unis",
+    "germany": "Allemagne",
+    "other": "Autre"
+  },
+  "footer": {
+    "documents": "Documents",
+    "policies": "Politiques",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "email": "info@earthlings.global",
+    "version": "Version",
+    "copyright": "© 2025 Earthlings. Tous droits réservés."
+  },
+  "validation": {
+    "required": "Ce champ est requis",
+    "email": "Veuillez entrer une adresse email valide",
+    "minLength": "Longueur minimale: {{count}} caractères",
+    "maxLength": "Longueur maximale: {{count}} caractères",
+    "pattern": "Format de données invalide"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "close": "Fermer",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "yes": "Oui",
+    "no": "Non",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "finish": "Terminer"
+  },
+  "dialog": {
+    "declaration": {
+      "title": "Signer la déclaration",
+      "success": {
+        "title": "Merci!",
+        "message": "Vous avez signé avec succès la Déclaration des Earthlings. Vous êtes maintenant candidat pour rejoindre le peuple des Earthlings. Un email de confirmation a été envoyé à votre adresse email.",
+        "support_message": "Pour recevoir un passeport SBT Earthlings, vous pouvez soutenir volontairement le projet avec une contribution de $79, qui couvre les coûts de vérification biométrique et de développement de l'infrastructure technique. Le projet est développé exclusivement grâce au soutien volontaire des participants sans financement externe.",
+        "pay_button": "Soutenir le projet ($79)",
+        "close": "Fermer",
+        "ariaClose": "Fermer",
+        "autoCloseText": "La fenêtre se fermera automatiquement dans"
+      }
+    },
+    "payment": {
+      "title": "Soutenir Earthlings",
+      "subtitle": "Soutien volontaire au développement du projet",
+      "amount_label": "Montant du soutien",
+      "amount_description": "Couvre les coûts de vérification biométrique et de développement de l'infrastructure",
+      "email_label": "Email pour confirmation",
+      "payment_method": "Méthode de paiement",
+      "card": "Carte bancaire",
+      "crypto": "Cryptomonnaie",
+      "paypal": "PayPal",
+      "project_info": "Le projet est développé exclusivement grâce au soutien volontaire des participants sans financement externe",
+      "pay_button": "Soutenir le projet",
+      "cancel": "Annuler",
+      "processing": "Traitement du paiement...",
+      "success_title": "Merci pour votre soutien!",
+      "success_message": "Votre soutien a été accepté. Les instructions de vérification biométrique ont été envoyées à votre email.",
+      "error_title": "Erreur de paiement",
+      "error_message": "Impossible de traiter le paiement. Veuillez réessayer ou choisir une autre méthode de paiement."
+    }
+  },
+  "stb": {
+    "passport": {
+      "title": "Passeport SBT Earthlings",
+      "subtitle": "Certificat numérique unifié d'appartenance au peuple des Earthlings",
+      "price": "$79",
+      "price_description": "Le soutien volontaire au projet comprend la vérification biométrique et la délivrance du passeport SBT",
+      "features": {
+        "identity": "Vérification d'identité",
+        "governance": "Participation à la gouvernance",
+        "community": "Accès à la communauté",
+        "reputation": "Système de réputation",
+        "security": "Sécurité et récupération",
+        "integration": "Intégration technique"
+      },
+      "process": {
+        "title": "Processus d'obtention du passeport SBT",
+        "step1": "Signature de la Déclaration des Earthlings",
+        "step2": "Soutien volontaire au projet ($79)",
+        "step3": "Vérification biométrique",
+        "step4": "Réception du passeport SBT"
+      },
+      "funding": {
+        "title": "Soutien volontaire au projet",
+        "description": "Earthlings est développé exclusivement avec les fonds de personnes partageant les mêmes idées. Nous ne recevons aucun financement de corporations ou d'investisseurs et n'avons aucune obligation financière envers des tiers.",
+        "note": "Le passeport SBT Earthlings est disponible pour un soutien volontaire au projet, qui couvre les coûts de vérification biométrique et de développement de l'infrastructure technique."
+      }
+    }
+  }
+}

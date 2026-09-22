@@ -1,0 +1,272 @@
+{
+  "page": {
+    "title": "Earthlings - 新民族"
+  },
+  "header": {
+    "slogan": "每个人都想拯救世界，他们只是无法就如何做达成一致"
+  },
+  "nav": {
+    "awakened_code": "觉醒代码",
+    "declaration": "宣言",
+    "civic_voice": "公民的声音",
+    "legal_base": "法律框架",
+    "structure": "运作方式",
+    "participation": "参与",
+    "development": "发展",
+    "code": "觉醒代码",
+    "become_earthling": "加入",
+    "platform_btn": "平台",
+    "ethics": "Earthlings伦理",
+    "legal_basis": "法律基础",
+    "protocol": "章程",
+    "dao": "DAO",
+    "honeycombs": "单元",
+    "fund": "金库",
+    "earthlings_coin": "Earthlings币",
+    "council": "独立委员会",
+    "platform": "数字平台",
+    "roadmap": "路线图",
+    "working_agenda": "工作议程",
+    "faq_legal": "法律问答",
+    "legal_gap": "法律主体如何产生",
+    "legal_info": "法律信息",
+    "faq_general": "常见问题",
+    "path": "Earthlings之路",
+    "sbt_passport": "SBT护照",
+    "biometry": "生物识别验证",
+    "home": "首页",
+    "contact_us": "联系我们",
+    "support_text": "支持",
+    "about_us": "关于我们",
+    "founding_period": "创立期",
+    "whats_next": "接下来可能发生什么",
+    "where_we_are_doc": "我们现在在哪里"
+  },
+  "hero": {
+    "title": "Earthlings",
+    "subtitle": "如何启动新的文明模式来解决全球危机并创造可持续的未来",
+    "sign": "签署宣言"
+  },
+  "crisis": {
+    "title": "现代文明的危机"
+  },
+  "stats": {
+    "temperature": "温度上升",
+    "hunger": "饥饿人口",
+    "military": "军事支出",
+    "species": "物种灭绝"
+  },
+  "solution": {
+    "title": "我们的解决方案"
+  },
+  "concept": {
+    "global": {
+      "title": "全球思维",
+      "desc": "团结人类解决共同挑战"
+    },
+    "cooperation": {
+      "title": "合作",
+      "desc": "信任与相互支持的文化"
+    },
+    "innovation": {
+      "title": "创新",
+      "desc": "可持续发展的突破性技术"
+    },
+    "justice": {
+      "title": "正义",
+      "desc": "为地球所有居民提供平等机会"
+    }
+  },
+  "timeline": {
+    "title": "发展阶段",
+    "foundation": {
+      "title": "基础 (2025-2026)",
+      "desc": "创建基本结构，吸引首批参与者，开发数字平台"
+    },
+    "growth": {
+      "title": "成长 (2026-2028)",
+      "desc": "扩大社区规模，启动首批项目，获得国际认可"
+    },
+    "impact": {
+      "title": "影响 (2028-2030)",
+      "desc": "对解决世界问题产生全球影响，形成新的文明模式"
+    }
+  },
+  "action": {
+    "title": "参与级别",
+    "observer": {
+      "title": "观察者",
+      "desc": "了解项目文档和想法",
+      "time": "5分钟"
+    },
+    "supporter": {
+      "title": "支持者",
+      "desc": "签署宣言并加入社区",
+      "time": "15分钟"
+    },
+    "participant": {
+      "title": "参与者",
+      "desc": "积极参与项目和运动发展",
+      "time": "持续"
+    }
+  },
+  "modal": {
+    "declaration": {
+      "title": "签署宣言"
+    },
+    "success": {
+      "title": "谢谢！",
+      "message": "您的签名已被接受。欢迎加入Earthlings民族！",
+      "continue": "继续"
+    }
+  },
+  "form": {
+    "pseudonym": "化名（您的选择）",
+    "email": "电子邮件",
+    "country": "国家",
+    "country_placeholder": "选择国家",
+    "age": "年龄",
+    "age_16": "我已满16岁或以上",
+    "candidate_status": "我理解在签署宣言后，我将获得候选人身份，并可在生物识别验证后成为Earthlings",
+    "support_awareness": "我理解为获得SBT护照，我可以自愿以79美元的捐款支持独立项目",
+    "agree_documents_label": "同意文件",
+    "agree_documents": "我已阅读并熟悉",
+    "biometric_policy_link": "生物识别验证政策",
+    "declaration_link": "Earthlings宣言",
+    "charter_link": "章程",
+    "ethics_link": "伦理原则",
+    "passport_info_link": "关于SBTEarthlings护照",
+    "funding_info_link": "项目资金信息",
+    "project_name": "Earthlings项目的",
+    "data_processing": "个人数据处理",
+    "data_agree": "我同意处理个人数据",
+    "newsletter": "信息通讯",
+    "newsletter_agree": "我同意接收信息通讯",
+    "newsletter_decline": "我不想接收通讯",
+    "submit": "签署宣言",
+    "send": "发送",
+    "informativeness": "网站信息性",
+    "user_age": "您的年龄",
+    "experience": "公共项目经验",
+    "comments": "评论和建议",
+    "excellent": "优秀",
+    "good": "良好",
+    "average": "一般",
+    "poor": "较差",
+    "extensive": "广泛",
+    "some": "一些",
+    "none": "没有"
+  },
+  "country": {
+    "russia": "俄罗斯",
+    "kazakhstan": "哈萨克斯坦",
+    "ukraine": "乌克兰",
+    "belarus": "白俄罗斯",
+    "moldova": "摩尔多瓦",
+    "romania": "罗马尼亚",
+    "france": "法国",
+    "uk": "英国",
+    "portugal": "葡萄牙",
+    "argentina": "阿根廷",
+    "canada": "加拿大",
+    "usa": "美国",
+    "germany": "德国",
+    "other": "其他"
+  },
+  "footer": {
+    "documents": "文档",
+    "policies": "政策",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "faq": "常见问题",
+    "contact": "联系",
+    "email": "info@earthlings.global",
+    "version": "版本",
+    "copyright": "© 2025 Earthlings。保留所有权利。"
+  },
+  "validation": {
+    "required": "此字段为必填项",
+    "email": "请输入有效的电子邮件地址",
+    "minLength": "最小长度：{{count}}个字符",
+    "maxLength": "最大长度：{{count}}个字符",
+    "pattern": "数据格式无效"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "确认",
+    "close": "关闭",
+    "save": "保存",
+    "edit": "编辑",
+    "delete": "删除",
+    "yes": "是",
+    "no": "否",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "finish": "完成"
+  },
+  "dialog": {
+    "declaration": {
+      "title": "签署宣言",
+      "success": {
+        "title": "谢谢！",
+        "message": "您已成功签署Earthlings宣言。您现在是加入Earthlings 的候选人。确认电子邮件已发送到您的电子邮件地址。",
+        "support_message": "要获得SBTEarthlings护照，您可以自愿以79美元的捐款支持该项目，该捐款涵盖生物识别验证和技术基础设施开发的费用。该项目完全通过参与者的自愿支持开发，没有外部资金。",
+        "pay_button": "支持项目（$79）",
+        "close": "关闭",
+        "ariaClose": "关闭",
+        "autoCloseText": "窗口将在以下时间后自动关闭"
+      }
+    },
+    "payment": {
+      "title": "支持Earthlings项目",
+      "subtitle": "自愿项目开发支持",
+      "amount_label": "支持金额",
+      "amount_description": "涵盖生物识别验证费用和基础设施开发",
+      "email_label": "确认电子邮件",
+      "payment_method": "支付方式",
+      "card": "银行卡",
+      "crypto": "加密货币",
+      "paypal": "PayPal",
+      "project_info": "该项目完全通过参与者的自愿支持开发，没有外部资金",
+      "pay_button": "支持项目",
+      "cancel": "取消",
+      "processing": "处理付款中...",
+      "success_title": "感谢您的支持！",
+      "success_message": "您的支持已被接受。生物识别验证说明已发送到您的电子邮件。",
+      "error_title": "付款错误",
+      "error_message": "无法处理付款。请重试或选择其他付款方式。"
+    }
+  },
+  "stb": {
+    "passport": {
+      "title": "SBTEarthlings护照",
+      "subtitle": "属于Earthlings 人民的统一数字证书",
+      "price": "$79",
+      "price_description": "自愿项目支持包括生物识别验证和SBT护照发放",
+      "features": {
+        "identity": "身份验证",
+        "governance": "参与治理",
+        "community": "社区访问",
+        "reputation": "声誉系统",
+        "security": "安全与恢复",
+        "integration": "技术集成"
+      },
+      "process": {
+        "title": "SBT护照获取流程",
+        "step1": "签署Earthlings宣言",
+        "step2": "自愿项目支持（$79）",
+        "step3": "生物识别验证",
+        "step4": "获得SBT护照"
+      },
+      "funding": {
+        "title": "自愿项目支持",
+        "description": "Earthlings项目完全由志同道合者的资金开发。我们不接受公司或投资者的资金，对第三方没有财务义务。",
+        "note": "SBTEarthlings护照可通过自愿项目支持获得，该支持涵盖生物识别验证费用和技术基础设施开发。"
+      }
+    }
+  }
+}

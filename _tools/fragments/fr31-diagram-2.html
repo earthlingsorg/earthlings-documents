@@ -1,0 +1,27 @@
+<figure class="diagram">
+    <figcaption>Schéma 2 &middot; les flèches des conflits</figcaption>
+    <div class="diagram-svg-wrap">
+      <svg viewBox="0 0 760 560" role="img" aria-label="Le triangle des conflits des trois modules: la vie privée contre l'audit du trésor, le plancher commun contre le droit de fork, le pluralisme de l'identité contre un quorum unique de mise à jour">
+        <defs>
+          <marker id="ah31" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#9c742e" stroke-width="1.6"/></marker>
+        </defs>
+        <line class="svg-edge" x1="304" y1="150" x2="212" y2="372" marker-start="url(#ah31)" marker-end="url(#ah31)"/>
+        <line class="svg-edge" x1="456" y1="150" x2="548" y2="372" marker-start="url(#ah31)" marker-end="url(#ah31)"/>
+        <line class="svg-edge" x1="300" y1="430" x2="460" y2="430" marker-start="url(#ah31)" marker-end="url(#ah31)"/>
+        <text class="svg-center" x="380" y="300" text-anchor="middle">les mêmes curseurs:</text>
+        <text class="svg-center" x="380" y="320" text-anchor="middle">liberté &middot; sécurité &middot; bien-être</text>
+        <text class="svg-center" x="380" y="340" text-anchor="middle">confiance &middot; paix</text>
+        <g><rect class="svg-node" x="270" y="58" width="220" height="92" rx="3"/><text class="svg-node-k" x="380" y="90" text-anchor="middle">Module 1</text><text class="svg-node-t" x="380" y="118" text-anchor="middle">Identité</text></g>
+        <g><rect class="svg-node" x="60" y="384" width="220" height="92" rx="3"/><text class="svg-node-k" x="170" y="416" text-anchor="middle">Module 2</text><text class="svg-node-t" x="170" y="444" text-anchor="middle">Économie</text></g>
+        <g><rect class="svg-node" x="480" y="384" width="220" height="92" rx="3"/><text class="svg-node-k" x="590" y="416" text-anchor="middle">Module 3</text><text class="svg-node-t" x="590" y="444" text-anchor="middle">Mise à jour</text></g>
+        <g><rect class="svg-lbl-bg" x="138" y="248" width="220" height="20"/><text class="svg-lbl" x="248" y="262" text-anchor="middle">vie privée / audit du trésor</text></g>
+        <g><rect class="svg-lbl-bg" x="392" y="248" width="248" height="20"/><text class="svg-lbl" x="516" y="262" text-anchor="middle">pluralisme d'ID / quorum unique</text></g>
+        <g><rect class="svg-lbl-bg" x="286" y="420" width="188" height="20"/><text class="svg-lbl" x="380" y="434" text-anchor="middle">plancher / droit de fork</text></g>
+      </svg>
+    </div>
+    <div class="conflict-legend">
+      <div class="cl"><b>La vie privée (M1) contre la reddition de comptes du trésor (M2).</b><span>Plus l'anonymat ZK est fort, plus il est difficile d'auditer qui dépense la caisse du kernel et comment. La vie privée du citoyen et la transparence du pouvoir sont en contradiction partielle, car le pouvoir est fait de citoyens.</span></div>
+      <div class="cl"><b>Un fork facile (M3) contre un plancher commun (M2).</b><span>Plus la sortie et la séparation sont libres, plus la base sans sortie, que seule la contrainte tient, est faible. Les cellules riches forkeront loin de leurs obligations envers les pauvres, et c'est le retour au tri par utilité.</span></div>
+      <div class="cl"><b>Le pluralisme des émetteurs (M1) contre l'unité des règles de mise à jour (M3).</b><span>Une multitude de sources d'identité, c'est bon contre la prise de contrôle, mais qui compte comme « tous » lors d'un changement du kernel, si « tous » sont attestés par des émetteurs différents et en désaccord?</span></div>
+    </div>
+  </figure>

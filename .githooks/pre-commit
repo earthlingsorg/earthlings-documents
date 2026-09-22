@@ -1,0 +1,4 @@
+#!/bin/sh
+# Не пускает секреты в коммит. Логика в соседнем файле на Python.
+# Подключается командой: git config core.hooksPath .githooks
+python "$(dirname "$0")/pre-commit-secrets.py" || exit 1

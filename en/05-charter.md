@@ -1,0 +1,914 @@
+# Earthlings Charter
+
+**The rules by which a decentralized people operates**
+
+The Earthlings people, basing itself on the principles and values set out in the Earthlings Declaration, and seeking to build a genuinely decentralized and just community, adopts this Charter as its principal organizational document.
+
+We reject traditional hierarchical structures and build governance without hierarchy. Binding decisions are taken only by the DAO Assembly - that is, by Earthlings themselves, each with their own vote. No organ, no structure and no group holds a vote of its own. Certain technical and protective powers provided for by this Charter are exercised under an immediately revocable mandate from the Assembly and do not substitute for decisions taken on behalf of the people.
+
+Every vote is equal, every decision is transparent, every action is verifiable.
+
+## Fundamental Principles
+
+**1 person = 1 vote.** Absolute equality of all Earthlings, regardless of reputation, tokens or role in the community.
+
+**Only people vote.** Project teams and other structures hold no collective vote; only individual participants do.
+
+**A horizontal structure.** There is no power of some people over others: no one holds a position above another earthling, powers accumulate in no organ and rest on no monopoly on coercion; all decisions are taken democratically.
+
+**Smart contracts = execution.** Automation instead of bureaucracy: code executes the rules adopted by people; all operations are transparent.
+
+**Technology = service.** Technical structures provide support, with no power to take decisions.
+
+**Ethics = a reference point.** The Independent Council makes recommendations but does not govern.
+
+**Every mandate is revocable.** No power is granted in the Earthlings people that cannot be revoked immediately and at a threshold no higher than the threshold of its grant. No mandate constitutes an office and none confers an exclusive right to act. Failure to submit a report is in itself a ground for revoking the mandate.
+
+---
+
+# SECTION 01. Organizational Structure
+
+## Levels
+
+**The level of governance.** The sole decision-making organ. Takes all strategic, financial and organizational decisions.
+The DAO Assembly - all Earthlings, 1 person = 1 vote, SBT passport.
+
+**The level of execution (service functions).** Technical and operational structures supporting the DAO: Core Nodes and the Emergency Multisig. They take no strategic decisions; they keep the infrastructure running (Articles 2 and 3).
+
+**The level of consultation (advisory functions).** The Independent Council: ethical oversight and expert recommendations, with no right of veto and no ability to block decisions of the DAO (Article 4).
+
+**The economic layer.** The Treasury and Earthlings Coin: smart contracts for the transparent management of finances, all operations on-chain and public (Articles 9 and 10).
+
+**The key principle.** The power to take binding decisions is concentrated at one level only - in the DAO Assembly. All other levels provide support, consultation and execution, and hold no power to take decisions on behalf of the people.
+
+## Article 1. The DAO Assembly (the Sole Organ of Governance)
+
+The DAO Assembly is the sole organ of governance of the Earthlings people. It comprises all verified Earthlings. It takes all strategic, financial and organizational decisions by direct vote.
+
+**Participants:** natural persons only - Earthlings who have reached the age of 18.
+**Voting principle:** 1 earthling = 1 vote (through the SBT passport).
+
+### Thresholds
+
+**Simple majority - 51%, quorum 20%**
+- Operational decisions
+- Project funding up to and including 10,000 EC
+- Election and recall of Core Nodes and the Emergency Multisig
+- Grant and revocation of the protective legal mandate (Article 33)
+- Procedural questions
+
+**Significant majority - 67%, quorum 20%**
+- Project funding above 10,000 and up to and including 100,000 EC
+- Measures under Article 22: a warning and measures addressed to common resources
+
+**Qualified majority - 67%, quorum 25%**
+- Changes to the rules of the DAO
+- Strategic decisions
+- Amendment of the Charter
+- Project funding above 100,000 EC
+
+**Sanction majority - 75%, quorum 25%**
+- Suspension of the right to vote for undermining the integrity of voting (Article 22 bis)
+- Annulment of an invalid issuance of a passport (Article 21)
+
+### Voting Mechanisms
+
+- **Delegation by area:** a vote on a particular area may be transferred to another earthling; it may be revoked at any time (Article 7)
+- **Off-chain votes and preliminary polls:** by a tool that meets the requirements of Article 6 on the secrecy of the vote and a verifiable count
+- **On-chain execution:** automatic execution through smart contracts
+- **Standard periods:** 14 days of discussion + 7 days of voting
+- **Expedited procedures:** for decisions up to 1,000 EC - 3 days of discussion + 3 days of voting
+- **Allocation by support:** for the order of funding among competing projects (Article 11)
+
+## Article 2. Core Nodes (Technical Infrastructure)
+
+Core Nodes are technical coordinators. They keep the platform and the technical infrastructure running. They take no decisions on behalf of the people. They may be recalled by a vote of the DAO at any time.
+
+**Functions (technical only):**
+- Support of the DAO platform and infrastructure
+- Cybersecurity and defence against attacks
+- Technical support for votes
+- Audit of smart contracts
+- Monitoring of system operation
+
+**What they do not do:**
+- They take no decisions on behalf of the people
+- They do not manage finances (technical support only)
+- They carry no special weight in votes
+- They cannot block decisions of the DAO
+
+**Formation:**
+- Number: up to 6 people
+- Election: vote of the DAO, simple majority (51%, quorum 20%)
+- Rotation: every 6 months
+- **Recall: simple majority (51%, quorum 20%), at any time, without giving reasons**
+- Reporting: monthly, public
+
+> **Symmetry of thresholds.** Removing someone from a mandate cannot be harder than appointing them to it. The threshold for recalling Core Nodes and the Emergency Multisig is no higher than the threshold for their election, and at present equals it. The reverse asymmetry would protect the holder of an office from the people, rather than the people from a concentration of power.
+
+## Article 3. The Emergency Multisig (Rapid Response)
+
+The Emergency Multisig is a multi-signature wallet for urgent technical operations. It consists of six trusted Earthlings. A composition of fewer than six people is not permitted, and until it is elected the wallet is granted no powers.
+
+Signature thresholds are set as a share of the composition, not as an absolute number: an emergency suspension requires not less than two thirds of the composition; administrative operations and contract upgrades require not less than five sixths; the share is rounded up. With a composition of six people, that is four and five signatures.
+
+> **Why exactly six, and not "up to six".** A share of five sixths, with a smaller composition, rounds up to the whole composition: with five signatories it gives five out of five, with three it gives three out of three. One lost or unavailable key would then permanently block contract upgrades and the correction of errors in them. Six is the smallest composition at which the administrative threshold stays below the whole and the design survives the loss of one key. The lower bound here is not a formality: without it, the share requirement is satisfied even by one signature from one signatory - that is, by a multi-signature that does not exist.
+
+**Independence of signatories.** The signatories are different people, each with their own key on their own device. No one person may hold two keys, have another's key at their disposal, or recover it. A threshold reached by keys under the control of one person is deemed not reached.
+
+The Emergency Multisig may act quickly in emergencies, but only to protect the system. After each such action the DAO Assembly confirms it within 7 days - or annuls it.
+
+**Powers (strictly limited):**
+- Suspension of smart contracts on discovery of critical vulnerabilities
+- Emergency measures during cyberattacks
+- Urgent technical fixes
+- Emergency funding up to 5,000 EC in cases of force majeure
+
+**What it cannot do:**
+- Take strategic decisions
+- Change the rules of the DAO
+- Dispose of amounts above 5,000 EC
+- Block decisions of the DAO Assembly
+
+**Control mechanisms:**
+- Transparency: all transactions are visible on-chain
+- Time constraints: actions require a 24-hour timelock (except during critical attacks and for the suspension of vulnerable smart contracts in the event of a critical vulnerability)
+- Mandatory reporting: within 48 hours of an action
+- Right of annulment: the DAO may annul any action by simple majority
+- Accountability: abuse leads to immediate recall
+
+**Formation:**
+- Election: vote of the DAO, simple majority (51%, quorum 20%)
+- Term: 12 months, re-election permitted
+- Rotation: at least 2 new people at each rotation
+- **Recall: simple majority (51%, quorum 20%), at any time**
+
+## Article 4. The Independent Council of Earthlings (Ethical Oversight)
+
+The Independent Council is an advisory organ. It carries out an ethical audit of decisions, publishes recommendations and expert opinions. The strength of the Council lies in reputation and expertise, not in powers.
+
+**Functions:**
+- Ethical audit of DAO decisions
+- Public recommendations on difficult questions
+- Annual reports on the state of the people
+- Expert opinions at the request of Earthlings
+- Opinions and recommendations in the procedures of Articles 21, 22, 22 bis, 33 and 36
+
+**Critically important:**
+- Its opinions are advisory only
+- It cannot block decisions of the DAO
+- It holds no right of veto
+- It takes no part in the management of finances
+
+**Formation:**
+- Number: 7-11 people (an odd number)
+- Election: vote of the DAO, qualified majority (67%, quorum 25%)
+- Term: 3 years
+- Requirements: recognized expertise in one of the Council's areas of competence is a guide for those voting, not a condition of nomination; the list of areas is set out in the document "The Earthlings Independent Council", is indicative and does not serve as a system of quotas; nomination is open to any earthling, including self-nomination, and any nomination submitted reaches the vote
+
+**Recall of a member of the Council** is effected by a decision of the Assembly at a qualified majority (67%, quorum 25%) - the same threshold at which they were elected, and no higher.
+
+Recall is possible **only on one of the following grounds**, named and substantiated in the proposal for recall:
+
+- breach of the duty to declare a conflict of interest;
+- systematic non-participation in the work of the Council;
+- receiving instructions, remuneration or other benefits from a person with an interest in the content of an opinion;
+- loss of the ability to take part in the work.
+
+> **Disagreement with the content of an opinion is not a ground for recall.** Neither a published position of a member of the Council, nor their dissenting opinion, nor criticism of decisions of the Assembly may serve as a reason for recall, whether directly or under the guise of another ground. An organ that can be removed for what it has said stops being independent that same day.
+>
+> Recall applies to an individual person. Terminating the powers of the whole Council at once is equivalent to abolishing the institution and requires an amendment to this Charter.
+
+A member of the Council may resign by their own decision at any time, without giving reasons.
+
+**Funding of the Council** is provided from a protected budget which cannot be cut without a qualified majority.
+
+**Compensation for the time of Council members** is permitted on the following conditions, which apply cumulatively:
+
+- the amount is set by a decision of the Assembly in advance and is published;
+- the amount is the same for all members of the Council and cannot be differentiated;
+- payment does not depend on the content of opinions and cannot be reduced, suspended or cancelled for the Council now sitting: a change in the amount takes effect only for the next convocation;
+- a member of the Council may decline the compensation in whole or in part.
+
+No remuneration for holding a seat on the Council is paid beyond such compensation.
+
+> **The current state of the structures.** The Charter constitutes these structures, but they are staffed as the people grows. The structure-formation stage (Article 39) begins with the adoption of the Declaration, with which the Charter enters into force; until then the founding period runs (the document "The Founding Period"). Until the Declaration is adopted, there is no DAO Assembly, no Core Nodes, no Emergency Multisig, and no Independent Council, and the only discretionary power of the founding period with regard to the texts is the decision of the author of the Declaration to include proposals in the text. After adoption, until the structures are elected, their functions are performed procedurally, on the responsibility of the founders; the completion of the stage is recorded by a decision of the DAO Assembly and is the criterion for moving between the phases of the Roadmap (Article 39).
+
+---
+
+# SECTION 02. Decision-Making Mechanisms
+
+## Article 5. Types of Vote
+
+**Simple majority - 51%, quorum 20%.** Routine operational decisions, project funding up to and including 10,000 EC, election and recall of Core Nodes and the Emergency Multisig, grant and revocation of the protective legal mandate, annulment of actions of the Emergency Multisig, early lifting of restrictions, appeals.
+
+**Significant majority - 67%, quorum 20%.** Project funding above 10,000 and up to and including 100,000 EC, measures under Article 22: a warning and measures addressed to common resources.
+
+**Qualified majority - 67%, quorum 25%.** Amendment of the Charter, strategic decisions, project funding above 100,000 EC.
+
+**Sanction majority - 75%, quorum 25%.** Suspension of the right to vote for undermining the integrity of voting (Article 22 bis), annulment of an invalid issuance of a passport (Article 21).
+
+**Allocation by support.** Applied to determine the order of funding among projects that have already passed their approval threshold, where their total request exceeds the limit for the field (Article 11).
+
+> **Funding thresholds.** The amounts of 10,000 EC and 100,000 EC that separate the types of vote are set by a decision of the DAO Assembly and may be changed without amending the Charter. The figures given here are those in force at the time the Charter is adopted; where they diverge, the decision of the DAO Assembly in force prevails.
+
+**A measurement of the common will is not a decision** and is not included in the present list: by it the people expresses a position; it does not decide. The requirements for a measurement are set out in Article 8 bis; in all other respects the order is established by a decision of the DAO Assembly.
+
+## Article 6. Voting Procedures
+
+**Standard procedure:**
+- Days 1-14: discussion of the proposal, submission of amendments
+- Days 15-21: voting (on-chain or off-chain)
+- Day 22: counting of results and publication
+- Day 23 onward: automatic execution through smart contracts
+
+**Expedited procedure (for projects up to 1,000 EC):**
+- Days 1-3: discussion of the proposal
+- Days 4-6: voting
+- Day 7: execution
+
+**Emergency procedure (only in cases of force majeure):**
+- Initiated by the Emergency Multisig
+- 48 hours to vote
+- A simple majority is required
+- The action takes effect immediately, but may be annulled by the DAO
+
+### Openness and Secrecy of the Ballot
+
+An earthling's personal vote is secret. Voting is arranged so that no one, including those who operate the infrastructure, can learn how a particular person voted or, even with that person's consent, satisfy themselves of it: a person may say how they voted, but the system issues no proof of it. Whether a particular person took part in a vote is not published; the quorum is verified against the number of those who voted. The same rule applies to all votes - those of the DAO Assembly and of Cells - and to measurements of the common will (Article 8 bis).
+
+Transparency extends to the actions of institutions, not to the personal data of people. The following are open: discussion, proposals and objections; the actions of institutions and mandates - Core Nodes, the Emergency Multisig, the Independent Council, the Treasury and the protective legal mandate - and the signatures on them, each identifying its signatory; and transferred votes cast by a delegate (Article 7). A delegate's own vote is secret, like everyone else's.
+
+**Voting procedure:**
+- the interim count is hidden until voting closes
+- until voting closes, a vote may be cast again; the last vote cast is counted
+- a personal vote on a question cancels delegation on that question
+
+**Secrecy is the voter's right, not a condition of the vote's validity.** A vote seen by a person assisting the voter is valid; technical assistance that does not determine the content of a vote is permitted (Declaration, Article 8, "There Are No Insurmountable Requirements"). Demanding that a person show how they voted is prohibited; any reward for such proof amounts to buying a vote (Article 22 bis).
+
+The following are always published: the question itself, the answer options and the deadlines, the number of those entitled to vote, the number of those who voted, the outcome, the proof of the count, and the way in which any person can recount the outcome themselves.
+
+## Article 7. Delegation of Votes
+
+An earthling may delegate their vote on a particular area to another earthling. Delegation is voluntary and may be revoked at any time. If an earthling, of their own will, allows another person to determine the content of the earthling's vote, this is delegation, whatever technical form it takes, including handing over access to a key or connecting an external signer, and all the limits of this Article apply to it. Technical assistance that does not determine the content of a vote is not delegation (Declaration, Article 8, "There Are No Insurmountable Requirements").
+
+> **Delegation is not representation.** It is given by area, not for a term; it is revoked immediately, without giving reasons and without the delegate's consent; it constitutes no office and gives the delegate no rights other than casting the votes transferred to them. A delegate may at any time be left without a single delegated vote, and that is the mechanism working normally, not a failure.
+
+**Who may be a delegate.** Any earthling. Neither reputation, nor length of participation, nor merit opens or closes access to receiving delegated votes: the only selection is the delegator's own choice.
+
+**Transparency:**
+- Transferred votes cast by a delegate are open, and their history is public; a delegate's own vote is secret, like everyone else's (Article 6)
+- Who transferred a vote to a delegate is not published. Compliance with the ceiling on delegation is publicly verifiable; the number of votes transferred to a delegate is published in a form that does not allow anyone to use it to check whether particular people transferred their votes
+- No special privileges: 1 delegated vote = 1 vote
+
+**Limits on delegation:**
+- **By area only.** A vote cannot be delegated across all questions at once. An area is a thematic category (ecology, technology, economics, law, education) or a particular Cell.
+- **No self-delegation.** An earthling cannot delegate a vote to themselves. The prohibition is implemented technically and is checked at every delegation operation.
+- **No chains.** A delegated vote received cannot be passed on further.
+- **No payment for delegation.** Delegation is gratuitous. An earthling must not receive any payment, reward, other consideration or any other benefit, economic or otherwise, direct or indirect, nor demand it, nor accept the promise of it, nor confer, offer or promise it to another - for delegating a vote, for keeping a delegation already given, for revoking one, for accepting one, or for procuring that a delegation be given to a particular person. The prohibition applies irrespective of who confers the benefit, to whom it flows, and whether it is conferred before or after those acts. Receiving, demanding, conferring, offering or promising such a benefit is deemed to be buying or selling a vote for all purposes of this Charter. A delegation given or kept in breach of this provision is void, and votes cast under it are not counted.
+- **A ceiling on delegation.** The ceiling is 5% of Earthlings, but not fewer than 10 delegators; the 5% limit therefore begins to bind a delegate only above 200 Earthlings.
+- **One active delegation per area.** Delegating the same area again is impossible without revoking the previous one.
+- **Revocation at any time** - without giving reasons and without the delegate's consent.
+- **Questions on which delegation does not apply.** Amendment of the Charter and of the basic rules of the Treasury, funding above 100,000 EC, formation of the Emergency Multisig, restriction of powers (Article 22), suspension of the right to vote (Article 22 bis), annulment of the issuance of a passport (Article 21), and amendment of the unamendable principles - on these an earthling votes only in person.
+
+**The purpose of these limits:** delegation provides competence on specialized questions without giving rise to standing factions. The prohibition on delegating across all questions at once separates this mechanism from representation. The ceiling excludes the concentration of a significant share of votes in one person, the prohibition on chains excludes the formation of pyramids, and the prohibition on self-delegation excludes the artificial building up of one's own weight. The prohibition of payment closes the loophole in which payment is made not for the vote directly but for how it will be cast. A vote and its casting are inseparable: to pay for the casting is to buy the vote. Revocability is there to protect the delegator and affords neither side an argument that there was no purchase or sale.
+
+## Article 8. The Reputation System
+
+**Critically important:** reputation has no effect on the weight of a vote and opens access to no role. The principle "1 person = 1 vote" is absolute. Reputation is informational only.
+
+**Reputation factors (on-chain):**
+- Successful delivery of projects
+- Contribution to the development of the community
+- Quality of proposals
+- Assessments by other participants
+
+**Use of reputation:**
+- **A chronological feed by default:** all proposals are displayed in the order submitted, and the author's reputation has no effect on their place in the feed. Filtering by reputation is available as an optional viewing mode which each earthling switches on for themselves
+- Reference information when choosing a delegate
+- No effect on the weight of a vote
+- Not a condition for receiving delegated votes, or for nomination to Core Nodes, the Emergency Multisig or the Independent Council
+
+**Rationale:** automatic prioritization of proposals by reputation shapes a de facto agenda without formal accountability. A chronological feed provides equal access to the community's attention regardless of participation history. Any mechanism in which reputation opens access to accumulating votes turns it into a hidden voting weight and is therefore excluded.
+
+## Article 8 bis. Measurement of the Common Will
+
+The Earthlings people expresses a common will on questions that affect everyone - Article 3 of the Declaration. The limits of such expression are set out in Articles 5 and 11 of the Declaration.
+
+The wording of a question is approved neither by those who run the operational management of the people, nor by those who conduct the measurement. The question is published before voting opens and may be challenged; once voting has opened the question is not edited.
+
+The result is published together with everything an outside person needs in order to recount it themselves, including the share of those who voted out of those entitled to vote - including where that share is low. A publication that does not allow a recount is not a measurement.
+
+The decision whether a measurement is defective is taken by someone other than whoever conducted it. A cancelled measurement is not deleted and is kept with a mark of cancellation; in its place a measurement is conducted afresh, in full and from the beginning.
+
+A measurement is not conducted for a client's fee; earmarked funding for a particular question is not accepted.
+
+In all other respects the order for conducting measurements - including who decides whether a measurement is defective, who cancels a measurement found to be defective, and within what time limits - is established by a decision of the DAO Assembly and is published before the first measurement.
+
+## Article 8 ter. The Panel Selected by Lot
+
+A measurement of the common will is preceded by the work of a panel selected by lot from the passport registry. The panel takes no decisions and expresses no common will: it prepares the question for measurement.
+
+The panel is selected by lot from among the holders of the earthling passport. The method of the draw and the source of randomness are published before the selection, and the composition after it, so that an outside person can verify the selection. Participation is voluntary; a refusal carries no consequences, and whoever withdraws is replaced by the same draw.
+
+The panel studies materials, hears specialists and representatives of the opposing positions, deliberates in public, and formulates the options for an answer with the arguments for and against each, naming also the points on which the participants did not agree. The panel does not conduct the measurement; the requirements of Article 8 bis as to the forming of the question apply also to the options prepared by the panel.
+
+The work of the panel is published together with the question: the composition by method of selection, the materials studied, the sides heard, the arguments set out, and the disagreements recorded. A publication that does not allow one to trace where the options came from is not the work of a panel.
+
+No panel is convened until the passport registry allows a cross-section of the people to be drawn by lot. Until that day a measurement is conducted without a panel, and this is stated together with the question; silence about the absence of a panel is a defect of the measurement.
+
+The threshold at which the draw yields a cross-section, and the order of the panel's work in all other respects, are established by a decision of the DAO Assembly and published before the first panel.
+
+---
+
+# SECTION 03. The Economic System
+
+## Article 9. The Earthlings Treasury
+
+The Earthlings Treasury is managed through smart contracts. All operations are transparent and recorded on-chain. The allocation of funds is approved by a vote of the DAO.
+
+**Sources of funds:**
+- Contributions on joining (the procedure and purpose are set out in the document [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html))
+- Voluntary contributions from Earthlings
+- Grants and donations
+- Issuance of Earthlings Coin (under the established rules)
+- Other sources approved by the DAO
+
+The annual budget of the Fund is allocated across the principal fields approved by the DAO Assembly. The current proportions and a description of each category of expenditure are documented in the [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html). The proportions are changed only by a qualified majority (67%) of the DAO Assembly.
+
+## Article 10. Earthlings Coin (EC)
+
+**Characteristics:**
+- A utility token of the Earthlings ecosystem
+- No effect on the weight of a vote (1 person = 1 vote regardless of the amount of EC)
+- Used to pay for services within the community
+- Transparent issuance under the established rules
+- Cannot be exchanged for a vote, for priority of a proposal, or for any other advantage in decision-making
+
+**Inheritance.** Earthlings Coin, as a crypto-asset, is inherited in accordance with the applicable law and where the heirs have access to the wallet. The Earthlings people bears no obligation to transfer assets to heirs and has no technical ability to restore access to a wallet. A passport is not inherited under any circumstances: it is non-transferable.
+
+The details of the economic model are described in the document [Earthlings Coin](https://earth-lings.org/documents/en/en10-earthlings-coin.html).
+
+## Article 11. Project Funding
+
+**The funding process:**
+
+1. **Submission of an application** through the platform, with a description of the project, the budget and the team
+2. **Discussion:** 14 days (21 days for projects above 100,000 EC, 3 days for projects up to 1,000 EC)
+3. **Approval vote:** 51% at a quorum of 20% (up to and including 10,000 EC); 67% at a quorum of 20% (above 10,000 and up to and including 100,000 EC); 67% at a quorum of 25% (above 100,000 EC)
+4. **Determination of order** - if the total request of approved projects exceeds the limit for the field (see below)
+5. **Payment:** automatic through a smart contract, by milestones
+6. **Reporting:** public and on-chain on completion of each milestone
+
+### Allocation by Support
+
+When several projects have passed the approval threshold but the funds of the field are not enough for all of them, the order is determined as follows:
+
+- Each earthling marks all the projects they consider worth funding - one, or all of them. The number of marks is not limited and costs nothing.
+- The number of marks for each project is counted.
+- Projects are funded in descending order of the number of marks, until the annual limit for the field is exhausted.
+- Projects that receive no funding in the current cycle keep their approval and take part in the next allocation without a further vote.
+
+> **Why this way.** Every earthling has the same, inexhaustible ability to support any number of projects. There is no budget of votes here that can be spent, concentrated or bought: priority is formed from the number of people who gave support, not from who put more weight behind their support. Any mechanism that allows one person to cast more weight than another in a single decision contradicts Article 37 of this Charter and is not used within the Earthlings people.
+
+The details of how project work is organized are described in the document [Earthlings Cells](https://earth-lings.org/documents/en/en08-cells.html).
+
+---
+
+# SECTION 04. Belonging and Verification
+
+## Article 12. Principles of Participation
+
+Participation in the Earthlings people is open to all persons who have reached the age of 18, have signed the Earthlings Declaration and have passed identity verification.
+
+There are no other conditions. Nationality, race, religion, sex, social status, citizenship and place of residence have no bearing on the ability to join.
+
+## Article 12 bis. The Entry Contribution and Payment for Another
+
+Identity verification and the issuance of a passport are covered by a one-time contribution on joining. The contribution buys no belonging and creates no advantage of any kind (Declaration, Article 8). The purpose of the contribution and the procedure for spending it are set out in Article 9 (The Earthlings Treasury). The amount of the contribution is set by the Assembly; it may be increased only by a decision of the Assembly.
+
+There is no exemption from the contribution. The contribution is always paid in full; what differs is only who pays it.
+
+**An open queue.** A person who cannot pay the contribution themselves joins an open queue by a single action. An application, evidence and an explanation of reasons are not required and cannot be required. Placement in the queue cannot be refused.
+
+**What is published.** In the queue, a sequence number and the date of placement are published. Name, country, reason and any other information about the person are not published.
+
+**Order of payment.** Payment is made for the head of the queue. Choosing a particular person is not permitted. The payer is not told whom they paid for; the person paid for is not told who paid the contribution for them.
+
+**Who may pay.** Any person, whether or not they belong to the Earthlings people. The payer's name is published if they so choose.
+
+**Equality of passports.** The registry does not record who paid a contribution. A passport paid for by another person is in no way different from any other; payment for another affects neither status, nor vote, nor the extent of participation. Creating a separate category of such participants is not permitted.
+
+**Payment from the Treasury.** The Assembly may set a share of incoming contributions to be directed to paying for the queue (Treasury, Article 3 bis).
+
+## Article 13. The Verification System
+
+**Protection of the principle "1 person = 1 vote":**
+- **Biometric verification:** confirmation of the uniqueness of a person
+- **Soulbound Token (SBT):** a non-transferable token of belonging
+- **Data minimization:** only what is necessary to confirm uniqueness is processed; photographs and scans are not retained
+- **Anti-Sybil protection:** prevention of the creation of multiple accounts
+
+The personal and biometric data of participants is not public under any circumstances.
+
+## Article 14. The Rights of Earthlings
+
+- Participation in votes with equal voting weight
+- Creation of proposals and initiatives
+- Participation in community projects
+- Delegation of a vote by area
+- Access to all information on the platform
+- Participation in debate and discussion
+- Leaving the people at any time
+
+## Article 15. The Duties of Earthlings
+
+- Observance of the principles of the Earthlings Declaration
+- Respect for other participants
+- Participation in votes in good faith
+- Transparency in delivering projects
+- Reporting on the use of the Fund's resources
+
+## Article 16. Declaring a Conflict of Interest
+
+An earthling is obliged to declare a conflict of interest openly in any situation where their personal interest may affect the objectivity of a decision.
+
+**A conflict of interest arises where an earthling:**
+- has a direct or indirect material benefit from the outcome of a decision
+- has family, business or other significant ties to the persons or organizations that the decision concerns
+- represents the interests of third parties or organizations in the matter under consideration
+
+Declaring a conflict of interest does not in itself deprive an earthling of the right to vote. Mandatory recusal applies in votes on the allocation of funds: an earthling does not take part in such a vote if they are the applicant or a co-author of the application, are part of the project team, are closely related to the applicant (spouse, parents, children, siblings), or have contractual obligations towards them that provide for remuneration. The secrecy of the vote does not override recusal: recusal is declared openly before voting begins, and the voting tool excludes the passport of the earthling who has recused themselves, as well as the passports of the applicant and of the co-authors and project team members named in the application, from those entitled to vote in that ballot; the number of those excluded is published.
+
+There are no other grounds for excluding a vote: an earthling's vote is not excluded from the count by a decision of a majority.
+
+Deliberate concealment of a conflict of interest may entail a warning and measures addressed to common resources under Article 22. Such measures do not affect an earthling's rights: neither the vote, nor the right to submit proposals and raise questions.
+
+---
+
+# SECTION 05. Change in the Status of an Earthling
+
+## Article 17. Fundamental Principle
+
+Belonging to the Earthlings people is inalienable. No one can be expelled from the Earthlings people under any circumstances. Having become an earthling, a person remains one until they themselves decide to leave; belonging also ends on their death (Declaration, Article 4).
+
+**The right to vote cannot be taken away or suspended for a person's views, for the content of their vote, for disagreement with decisions taken, or as a general measure of liability for breaking rules.** The vote is the substance of belonging: to take it away on such grounds would be to expel a person from the people while leaving them the name. The restrictive measures provided for by Article 22 do not affect the right to vote.
+
+The only permissible exception is set out in Article 22 bis and concerns acts aimed at undermining the integrity of voting itself. The list of grounds is not subject to extension.
+
+This principle follows from the Earthlings Declaration: freedom belongs to everyone, and no majority has power to deprive a person of belonging to a people they joined voluntarily.
+
+## Article 18. Voluntary Departure
+
+Every earthling has the right at any time to end their participation in the Earthlings people voluntarily. This right is unconditional and requires no explanation of reasons.
+
+**The procedure for voluntary departure:**
+
+1. The earthling submits a statement of departure through their account on the Earthlings platform
+2. The system requests a separate confirmation of the decision and warns of the consequences. By default a pause of 72 hours is kept between the statement and the burning - this is a protection against impulsive decisions, and the earthling may waive the pause. The Earthlings people is not entitled to delay or cancel a departure: burning a valid passport is always available to the earthling directly from their own wallet, and if there is no valid passport, the departure takes effect as provided for in item 4
+3. After confirmation the earthling burns the SBT passport with their own key (the `burnByHolder` function). The Earthlings people does not hold a participant's keys, is not entitled to perform the burning for them, and cannot prevent it; access to votes and internal services ends
+4. Departure takes effect from the moment the SBT passport is burned or, if there is no valid passport, on expiry of the pause provided for in item 2 or from the moment the earthling waived it
+
+**Earthlings Coin on departure.** Tokens held in the wallet of a departing earthling remain their property: they are not confiscated and not annulled. After losing the status of an earthling the holder loses the right to vote in the DAO and access to internal services; further use of the tokens depends on their technical accessibility and on the applicable law of the relevant jurisdiction.
+
+**Rejoining.** A person who has voluntarily left the Earthlings people has the right to rejoin at any time by going through the standard procedure - verification and the one-time entry contribution covering its cost (the contribution may also be paid under Article 12 bis) - and receiving a new SBT passport. A previously burned passport is no impediment to returning: what is retained after departure is set out in the Privacy Policy (section 08), and the verification hashes are kept only so that one person cannot hold two valid passports at once.
+
+## Article 19. Suspension of Status
+
+An earthling has the right to suspend their status temporarily without leaving entirely.
+
+**Grounds for suspension:**
+- personal circumstances requiring a break
+- a prolonged inability to take part in the life of the community
+- other reasons at the earthling's discretion
+
+**Consequences of suspension:**
+- the SBT passport is retained but marked as "suspended"
+- for the duration of the suspension, which the earthling decides on for themselves, their right to vote is suspended
+- a suspended earthling is not included in the number of earthlings on which the quorum is calculated
+- access to information resources is retained
+- Earthlings Coin remains in the wallet without restriction
+
+**Duration of suspension.** A suspension lasts until the earthling states that they are resuming participation, but no longer than 12 months. After 12 months the system sends a request as to their intentions. If no answer is received within 30 days, the status becomes "inactive".
+
+**Resumption.** To resume active status a statement through the account is enough. Repeat verification is not required.
+
+## Article 20. Inactive Participants
+
+An earthling is deemed inactive if all three conditions are met - they:
+- have taken part in no vote for 12 months
+- have performed no action on the platform for 12 months
+- have not answered a request to confirm their status
+
+**Consequences of inactivity:**
+- the SBT passport is retained but marked as "inactive"
+- an inactive earthling is not included in the number of earthlings on which the quorum is calculated
+- the right to vote is retained and may be exercised at any time
+- on the first action (a vote, a login to the platform) the status is restored automatically
+
+The inactivity mechanism protects the system from an artificial inflation of quorum requirements, while preserving the right of every earthling to return to participation at any time.
+
+## Article 21. Burning a Passport by Someone Other Than the Holder
+
+As a general rule an SBT passport is burned only by the holder themselves (Article 18). This Article establishes **two and only two** exceptions to that rule.
+
+> **Why death is not on this list.** Belonging ends on the death of a person - this is set out in Article 4 of the Declaration and occurs of itself, without anyone's decision. A passport is not burned on that ground, and for the following reasons. The people has, and can have, no access to records of death across the world: such a ground would rest on information that cannot be checked for reliability, and it would become the cheapest way to remove a participant - without notice, without a period for objections and without appeal, since all of these presuppose the person's presence. Nor does burning provide protection against voting with someone else's key: it cannot outrun knowledge of the death. The practical side is covered by Article 20: whoever does not take part is deemed inactive and is not included in the number of earthlings on which the quorum is calculated, while the passport is retained. The system does not need to know why a person stopped taking part.
+
+### 1. Annulment of an Invalid Issuance
+
+The issuance of a passport may be annulled if it is established that the passport was issued in breach of the conditions of issuance: more than one valid passport has been issued to one person, or verification was passed using false data or another person's identity, or the passport was issued to a person below the age set by this Charter. The list of grounds is exhaustive and accords with Article 8 of the Declaration.
+
+If more than one valid passport has been issued to one person, the issuance of all but the first is annulled. In none of the three cases does annulment end the person's belonging to the people (Declaration, Article 8); if the passport was issued to a person below the age set by this Charter, belonging has not yet arisen, and annulment has nothing to end.
+
+**Procedure:**
+- Initiation: a reasoned submission with evidence, made by any earthling or by Core Nodes following a technical check
+- Notice to the holder and a period of not less than 21 days to submit objections; the holder may enlist other Earthlings in their support
+- An opinion of the Independent Council (in its absence, the discussion period is doubled). The opinion is an opinion: it does not replace the decision of the participants, does not predetermine it, and does not bind them
+- Vote: **sanction majority of 75% at a quorum of 25%, secret, without delegation**
+- Appeal within 30 days; a simple majority (51%, quorum 20%) is enough to overturn the decision
+
+An appeal goes to the Assembly. The guarantees owed to every person in such proceedings are set out in the Declaration; the Charter does not repeat them and cannot lower them.
+
+Annulment is not expulsion from the people and is not applied as a measure of liability for conduct. It establishes only that the issuance did not lawfully take place. A person whose passport has been annulled has the right to undergo verification again on the same terms as anyone else, once the impediment to lawful issuance has been removed.
+
+### 2. Technical Reissue
+
+A passport may be burned and immediately reissued to the same address or to a new address of the holder, at the holder's own request - on loss of access to the wallet or on migration of the contract. Reissue does not interrupt belonging and requires no vote.
+
+**Against the holder's will a passport may be burned only upon annulment of an invalid issuance: a technical reissue is carried out at the holder's own request. There are no other grounds for burning a passport by someone other than the holder.**
+
+## Article 22. Restriction of Powers
+
+Where the rules and principles of the Earthlings people are breached, the Earthlings people may put the breach on the public record and dispose of what belongs to everyone: stop giving common money and withdraw its own name. Neither of these restricts the rights of a person.
+
+**The limit of this Article.** A measure under this Article may concern common resources and cannot concern the rights of a person. Neither belonging to the people, nor the right to vote, nor the right to take part in discussion, to submit proposals and to raise questions, nor the right to be heard, nor the right to leave freely is restricted under this Article - on no ground, by no majority, for no period. The rights of an individual person are restricted by the Earthlings people in only two cases, set out in Article 4 of the Earthlings Declaration: annulment of an invalid issuance of a passport (Article 21) and suspension of the right to vote for undermining the integrity of voting itself (Article 22 bis). The list is exhaustive, and this Article does not extend it.
+
+### The Measure Addressed to a Person: a Warning
+
+**Warning.** A public record of the breach. It remains in the history and is taken into account when subsequent breaches are considered. A warning takes nothing away from a person: not the vote, not the right to submit proposals and raise questions, not the right to create Cells and to join them, not access to the platform and its services. This Article establishes no other measure addressed to a person, and no such measure may be introduced by a decision.
+
+**Grounds for a warning** - proven acts only; the list is exhaustive and not subject to extension:
+
+- deliberate concealment of a conflict of interest
+- abuse of DAO mechanisms: submitting proposals in numbers that impede the work of the Assembly, or manipulating the order of voting
+- breach of the confidentiality of other Earthlings
+- systematic failure to perform voluntarily assumed obligations
+
+### Measures Addressed to Common Resources
+
+The Earthlings people is not obliged to give what is common to someone who spends it harmfully, and may stop giving. Such a measure is addressed to a project or a Cell, not to a person: a participant remains an earthling with all their rights and may apply for funding again.
+
+- **Withdrawal of funding from a project** - ending payments for the unpaid milestones of a project funded by the Earthlings Treasury
+- **Ending the funding of a Cell** - ending payments to the Cell out of common funds
+- **Withdrawal of recognition** - ending the presentation of a project or a Cell on the resources of the Earthlings people as its project or its Cell
+- **Dissolution of a Cell** - ending the existence of the Cell itself as an association formed around a common resource; the grounds and procedure are set out in Article 25
+
+**Grounds for measures addressed to common resources:**
+
+- any of the grounds for a warning
+- breach of the ethical rules of the Earthlings people
+- acts causing reputational damage to the Earthlings people
+
+> **Why evaluative grounds are permissible only here.** A decision that the people no longer give their money and no longer put their name to something is a disposal of what is common, and judgment belongs in it: what is common, the people gives at its own discretion. No majority can take a right away from a person on the same judgment: a person's right is not issued by the people and therefore cannot be withdrawn by it.
+
+### Procedure for Application
+
+1. **Initiation.** Any earthling or group of Earthlings (not fewer than 5 people) may initiate consideration by submitting a reasoned case
+2. **Preliminary consideration.** The Independent Council considers, within 14 days, whether the initiative is well founded and publishes a recommendation
+3. **The right to a defence.** The earthling concerned by a warning, and in the case of a measure addressed to common resources the participants of the project or of the Cell, have the right to receive full information about the allegations, to present their position and to enlist other Earthlings in support
+4. **Discussion.** Not less than 14 days
+5. **Vote.** 67% at a quorum of 20%. The vote is **secret, without delegation** (Articles 6 and 7)
+6. **Execution.** The measure takes effect 48 hours after the vote closes
+
+**Early lifting.** A measure may be lifted early at any time by a decision of the DAO taken by a simple majority (51%, quorum 20%). It may be initiated by the one to whom it was applied or by any other earthling.
+
+> The raised threshold protects against imposing a measure, not against lifting it: lifting a measure is always easier than imposing one.
+
+**Appeal.** A decision may be appealed within 30 days. The appeal is considered by the DAO Assembly. A simple majority (51%, quorum 20%) is enough to overturn the decision.
+
+> Suspension of the right to vote is not among the measures listed and cannot be. None of the grounds in this Article - neither a breach of ethical rules, nor spam, nor reputational damage - affects the right to vote. The sole ground for suspending a vote is set out separately in Article 22 bis, and does not concern a participant's conduct outside the voting mechanism.
+
+## Article 22 bis. Suspension of the Right to Vote
+
+This Article establishes the **sole** case in which the right to vote may be suspended, and it is exhaustive.
+
+### The Ground
+
+Suspension is applied only for proven acts aimed at undermining the integrity of voting itself:
+
+- collusion aimed at a coordinated distortion of the result;
+- buying or selling a vote, and equally offering or accepting any reward for voting in a particular way, including a reward for proof of how the participant voted and a reward promised for a particular outcome of a vote, unless that reward is itself the content of the decision put to the vote;
+- compelling other participants to vote in a particular way, including blackmail and threats;
+- circumventing the rule of "one person, one passport", or assisting such circumvention.
+
+### What Is Not a Ground
+
+None of the following may serve as a ground for suspending a vote, however it is presented:
+
+- a participant's views, their convictions, faith and political position;
+- the content of their vote and how they voted previously;
+- disagreement with decisions taken, criticism of the structures of the people and of the founders;
+- breach of any other rules listed in Article 22;
+- an assessment of a participant's mental state, legal capacity or competence.
+
+> **Why the line is drawn precisely here.** The vote is protected **as a vote**. Whoever attacks the voting mechanism itself attacks what gives every person's vote its meaning - and for that reason loses their own. Whoever votes "wrongly" undermines no mechanism, and their vote is inviolable.
+>
+> Such a ground cannot be applied to a dissenter: for it to work, a specific act against the mechanism must be proved, not an opinion about a person.
+
+### Procedure
+
+The procedure follows Article 22, with the following particulars:
+
+- **duration** - up to 6 months; extension is not permitted, and repeat application is possible only for a new proven act;
+- **threshold** - sanction majority, 75 percent at a quorum of 25;
+- **voting** - secret, without delegation;
+- **a mandatory opinion of the Independent Council**; in its absence the period of public discussion is doubled;
+- **the right to a defence** - full information about the allegations, the opportunity to present one's position and to enlist other participants in one's support, not less than 21 days;
+- **proof** - the burden of proving the act lies on the initiator; where doubt cannot be resolved, the measure is not applied;
+- **appeal** within 30 days; a simple majority is enough to overturn the measure;
+- **early lifting** at any time by a simple majority.
+
+Suspension of the right to vote does not affect belonging to the people, which is inalienable, and does not entail expulsion under any circumstances.
+
+---
+
+# SECTION 06. Cells - the System of Cooperation
+
+## Article 23. The Nature of Cells
+
+Cells are small, autonomous teams of Earthlings that come together to deliver particular projects, research or initiatives. Cells operate openly on the Digital Platform, and any earthling may examine their projects.
+
+**Principles of how Cells work:**
+- **Autonomy** - Cells determine their own structure, working methods and distribution of roles
+- **Voluntariness** - joining a Cell and leaving it are entirely free
+- **Transparency** - the activity of Cells is open to all Earthlings
+- **Contribution to the common good** - 5% of a Cell's profit is paid into the Earthlings Treasury
+- **Human scale** - a Cell has between 2 and 6 participants; if a task requires more people, several Cells are created rather than one large one
+
+## Article 24. Creating and Dissolving Cells
+
+Any earthling may initiate the creation of a Cell by coming together with other Earthlings around a particular aim or project. Registration takes place on the Digital Platform, stating:
+- the name and a short description of the Cell
+- the aim and field of activity
+- the composition of participants
+- the projects planned
+
+## Article 25. Autonomy and Limits
+
+The DAO Assembly does not coordinate the day-to-day work of Cells. Cells act autonomously within the principles of the Earthlings Declaration and of this Charter.
+
+**The DAO intervenes only in exceptional cases:**
+- systematic breach of the ethical principles of Earthlings
+- irresolvable conflicts within a Cell
+- attempts to seize resources or to monopolize fields
+- acts damaging the reputation of the Earthlings people
+
+**What the DAO may decide in respect of a Cell:** to end its funding out of common funds, to withdraw recognition - to end the presentation of the Cell on the resources of the Earthlings people as a Cell of the people - and to dissolve the Cell. There are no other sanctions against a Cell. The decision is taken by a qualified majority of the DAO after an independent investigation and is subject to appeal under Article 22.
+
+None of these measures restricts the rights of the Cell's participants as Earthlings: neither belonging, nor the right to vote, nor the right to submit proposals, nor access to the platform. A Cell is an association formed around a common resource, and a decision about it is a disposal of what is common: a person who took part in a Cell may create a new one, join another and apply for funding again.
+
+## Article 26. The Economics of Cells
+
+Cells may receive payment for their work both in Earthlings Coin and in fiat currency. The participants of a Cell distribute the income among themselves according to their own arrangements.
+
+A contribution to a Cell may be labour, expertise or capital. Capital is accounted for on the same footing as other contributions and receives a fair, capped final return, but never gives a vote, control over the Cell, or a perpetual rent: governance of a Cell always remains based on the principle of "one person, one vote". Governance accounting and economic accounting are kept separate. The detailed model is described in the document [Earthlings Cells](https://earth-lings.org/documents/en/en08-cells.html).
+
+**Mandatory contribution to the Fund:**
+- 5% of a Cell's profit is transferred to the Earthlings Treasury
+- The deduction may be made in EC, in fiat or in stablecoins through transparent mechanisms
+- These funds support the common infrastructure and the projects of the people
+
+## Article 27. Legal Status
+
+The participants of a Cell may, if they so decide, create a legal structure (a company, a cooperative, a partnership) for working with clients who intend to pay for the Cell's services in fiat. Such structures are created by the participants in their own name, and not on behalf of the Earthlings people.
+
+Each participant of a Cell is individually responsible for complying with the tax law of their country of residence (for more detail see [Earthlings Cells](https://earth-lings.org/documents/en/en08-cells.html)).
+
+The Earthlings people owns no territory and lays no claim to any. Any physical premises, equipment or other property used by a Cell or its participants, including a coworking space or a meeting place, belongs to specific participants or to the legal structures they have created and falls within their own local area of legal and tax responsibility, and is neither owned by nor under the jurisdiction of the Earthlings people.
+
+---
+
+# SECTION 07. The Digital Platform and Security
+
+## Article 28. Components of the Platform
+
+- The identification and verification system (biometrics + SBT)
+- The voting system, with secrecy of the personal vote and a verifiable count
+- Coordination of Cells
+- The smart contracts of the Fund
+- The communication system
+- The educational platform
+- The analytics system (on-chain data)
+
+## Article 29. Security
+
+The security of the platform is critical for protecting the autonomy and privacy of Earthlings.
+
+**Security measures:**
+- Modern end-to-end encryption
+- Multi-factor authentication
+- Distributed data storage
+- Decentralized infrastructure
+
+An independent audit of the smart contracts and a bug bounty program are planned before operations are expanded.
+
+## Article 30. Openness of the Code
+
+The code of the passport smart contract is open source (MIT license). The code of the platform and of the identity verification system is closed: they work with personal data. The list, with the reasons, is set out in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html).
+
+Closed code does not mean closed rules. The infrastructure that works with personal data is closed to copying but not to verification: its rules, thresholds and procedures are published in full, and it can be built anew from them.
+
+---
+
+# SECTION 08. Participation of Legal Entities
+
+## Article 31. Principles of Interaction
+
+Legal entities may interact with the Earthlings people but hold no right to vote. Only natural persons - Earthlings - vote.
+
+**Forms of participation:**
+- Partnership in delivering projects
+- Funding of projects and grants
+- Provision of expertise and resources
+- Technical support for initiatives
+
+**Limits:**
+- They cannot vote in the DAO Assembly
+- They cannot influence strategic decisions
+- They cannot be members of Core Nodes or of the Emergency Multisig
+- All interactions are transparent and approved by the DAO
+
+---
+
+# SECTION 09. Crisis Management
+
+## Article 32. Types of Crisis
+
+**Technical.** Cyberattacks, vulnerabilities in smart contracts, infrastructure failures.
+**Economic.** Sharp changes in the value of EC, liquidity problems of the Fund.
+**Legal.** Legal pressure, prohibitions in jurisdictions, demands from courts with strict deadlines for compliance.
+**Social.** Loss of trust, a split in the community, conflicts.
+
+## Article 33. Response Mechanisms
+
+### Level 1: a technical crisis
+- The Emergency Multisig acts immediately during a critical attack; in the event of a critical vulnerability, only the suspension of vulnerable smart contracts is permitted without a timelock, and other actions go through the 24-hour timelock (Article 3)
+- Suspension of vulnerable smart contracts
+- Notice to the community within 1 hour
+- A full report within 48 hours
+
+### Level 2: a decision of the DAO is required
+- An emergency vote (a shortened period of 48-72 hours)
+- Core Nodes prepare options for decision
+- The Independent Council makes recommendations
+- The DAO takes the final decision
+
+### Level 2a: a legal crisis - the protective legal mandate
+
+Legal demands often have deadlines shorter than any voting procedure: a request from a court may have to be answered within 48 hours. For such cases the Assembly grants a protective legal mandate in advance.
+
+**This is a mandate, not an office.** It confers no exclusive right to act on behalf of the people, constitutes no organ, and creates no powers beyond those expressly listed below.
+
+- **Grant.** The DAO Assembly, by a simple majority (51%, quorum 20%), mandates one or two Earthlings with legal training to take protective actions within the law without a prior vote.
+- **Revocation.** The mandate may be revoked at any time by a simple majority (51%, quorum 20%), without giving reasons. The threshold for revocation equals the threshold for the grant and cannot be raised.
+- **An exhaustive list of permitted actions.** Answering requests from state authorities and courts; recording the legal position of the people; retaining counsel; taking procedural steps where missing a deadline entails adverse consequences. No other actions are permitted.
+- **Express prohibitions.** The mandate confers no right to admit claims on the merits, to dispose of or encumber assets, to assume obligations above 5,000 EC, to change the structure of the people, to conclude agreements binding the people for the future, or to act on behalf of the people on matters unrelated to the defence in a particular legal proceeding.
+- **Reporting.** A mandatory public report within 24 hours of each action.
+- **Annulment of actions taken.** The DAO may annul or adjust any action by a simple majority.
+- **Automatic expiry.** The mandate expires automatically 30 days after it is granted, and also at the moment the DAO takes a decision on the substance of the situation. Extension requires a new vote.
+- **Non-exclusivity.** The existence of the mandate does not limit the right of the Assembly to take a decision on the same matter at any time; such a decision prevails.
+
+### Level 3: an existential crisis
+- Convening an extraordinary assembly
+- The possibility of temporarily suspending operations
+- In-depth analysis and reform of the structures
+- A qualified majority for critical changes
+
+---
+
+# SECTION 10. International Relations
+
+## Article 34. Principles
+
+- Respect for international law and the sovereignty of states
+- Peaceful cooperation and the non-violent resolution of conflicts
+- Priority of interests common to all humanity
+- Transparency and openness
+- Partnership on an equal footing
+
+The Earthlings people does not interfere in the internal affairs of states and takes no part in political struggle at the national level.
+
+## Article 35. Legal Personality
+
+The Earthlings people works towards legal visibility: towards being treated as a people wherever a specific question arises. No organ that recognizes peoples exists for anyone, so visibility accumulates through practice, time and the number of participants, and is not issued by decision. Law has not yet posed the question of the acquisition of international legal personality by a community that has never held territory.
+
+Until legal visibility has accumulated, the people operates in its external dealings through legally registered structures - replaceable legal interfaces - in the relevant jurisdictions. The legal strategy is described in the document [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html).
+
+---
+
+# SECTION 11. Amendment of the Charter
+
+## Article 36. Procedure for Making Amendments
+
+**A qualified majority of 67% at a quorum of not less than 25%.**
+
+**Stages:**
+1. **Proposal.** Any earthling may propose an amendment
+2. **Discussion.** A minimum of 21 days
+3. **Expert review.** The Independent Council delivers an advisory opinion
+4. **Vote.** 14 days, qualified majority of 67%
+5. **Entry into force.** 7 days after approval
+
+An amendment that contradicts the Earthlings Declaration is not to be put to a vote, and if adopted has no force (Article 38).
+
+## Article 37. Unamendable Principles
+
+The following principles cannot be changed even by a qualified majority:
+
+- **1 person = 1 vote.** Absolute equality of all Earthlings. No mechanism may allow one person to cast more weight than another in a single decision
+- **The vote is inalienable.** The right to vote cannot be taken away or suspended for views, for the content of a vote, for disagreement with decisions, or as a general measure of liability, nor made conditional on money, reputation, length of participation or merit. The sole exception is undermining the integrity of voting itself (Article 22 bis); the list of its grounds is not subject to extension
+- **Only people vote.** Structures hold no collective vote
+- **Openness and transparency of decisions and finances.** All decisions of the DAO, the outcomes of votes, the financial transactions of the Fund and the actions of executive structures are public and verifiable. The personal and biometric data of participants is not public - it is protected by Article 13. Transparency extends to the actions of institutions, not to the personal data of people; the expression of will of a particular person is personal data, and a personal vote is secret (Article 6); transferred votes cast by a delegate are open
+- **Voluntariness.** Participation and departure are free; expulsion is impossible
+- **Revocability of every mandate.** A power that cannot be revoked immediately and at a threshold no higher than the threshold of its grant is not granted
+- **The threshold for amending this Charter.** The thresholds set out in Article 36 cannot be lowered by a decision taken under that same Article; this is set out in Article 9 of the Declaration
+
+> **Relation to the Declaration.** The principles listed are the operational expression of the unamendable core of the Earthlings Declaration - the life, dignity and freedom of every person, planetary solidarity, care for the planet and the absence of any power of some people over others. They cannot narrow that core and are construed only in its favour.
+
+---
+
+# SECTION 12. Final Provisions
+
+## Article 38. Entry into Force and the Hierarchy of Documents
+
+This Charter enters into force together with the Earthlings Declaration, on the day of its adoption. Until that day those who operate the infrastructure apply to themselves the provisions of the Charter referred to in the Terms of Use, the Privacy Policy and the Biometric Verification Policy, as their own undertaking to every person; such provisions create no rights against any person beyond what is expressly set out in those documents.
+
+**The hierarchy of documents of the Earthlings people:**
+
+1. **The Earthlings Declaration** - the founding document, holding the highest force. A provision of any other document that contradicts the Declaration has no force from the moment of adoption and is not to be applied
+2. **This Charter** - the principal organizational document
+3. **Subordinate documents** - where the Charter and a subordinate document diverge, the Charter prevails
+
+A contradiction of the Charter with the Declaration, once discovered, is removed by bringing the Charter into conformity with the Declaration, and not the other way round.
+
+**Division of subject matter.** The Declaration sets out principles, the guarantees to every person, and the limits of the people. The principles of its unamendable core are never abolished; the wording of those principles and its other provisions are changed only by the Assembly, under Article 11 of the Declaration and only in such a way that no guarantee to any person becomes weaker. The Charter sets out mechanisms, thresholds, time limits and procedures; it is amended under Article 36. Numerical values, technical means and organizational detail are not carried over into the Declaration.
+
+## Article 39. The Structure-Formation Stage
+
+The structure-formation stage continues until the following conditions are satisfied simultaneously:
+
+- the technical infrastructure for voting and the treasury is deployed
+- the first Core Nodes and Emergency Multisig have been elected
+- the Independent Council has been formed
+- not fewer than three substantive votes of the DAO Assembly have been held
+
+Until that moment the functions of unelected structures are performed procedurally and on the responsibility of the founders, and the stages of procedures that provide for the participation of the Independent Council are omitted, with the periods of public discussion of the corresponding questions doubled.
+
+> **On the use of the word "founders".** In this Charter it means only those who, before the structures are elected, perform their functions procedurally, and nothing beyond that. It creates no rights in governance, no weight in voting and no special status as a participant: there is no class of founders in the Earthlings people (Declaration, Article 8), and this follows from the Declaration's unamendable core. The functions named end with the completion of the structure-formation stage and do not pass by inheritance.
+
+The founders publish a report on the state of the structure-formation stage not less than once every 90 days. The report contains a list of the conditions not yet satisfied and the reasons why.
+
+The completion of the structure-formation stage is recorded by a decision of the DAO Assembly and is the criterion for moving between the phases of the Roadmap.
+
+---
+
+# ANNEX. Summary Table of Decision-Making
+
+This table brings the voting thresholds and the procedures into systematic form. Where the table and the text of the corresponding section conflict, the text of the document prevails.
+
+## Decisions of the DAO Assembly
+
+**Routine questions - 51%, quorum 20%**
+Approval of Cell projects, allocation of grants up to and including 10,000 EC, election **and recall** of Core Nodes and the Emergency Multisig, grant and revocation of the protective legal mandate, annulment of actions of the Emergency Multisig, early lifting of restrictions, appeals, procedural questions.
+Timing: 14 days of discussion + 7 days of voting.
+
+**Significant questions - 67%, quorum 20%**
+Project funding above 10,000 and up to and including 100,000 EC, measures under Article 22: a warning and measures addressed to common resources.
+Timing: 14 days of discussion + 7 days of voting.
+
+**Critical questions - 67%, quorum 25%**
+Amendment of the Charter, strategic decisions, project funding above 100,000 EC, formation of the Independent Council.
+Timing: 21 days of discussion + 14 days of voting.
+
+**Sanction questions - 75%, quorum 25%**
+Suspension of the right to vote (Article 22 bis), annulment of an invalid issuance of a passport (Article 21). The vote is secret; delegation does not apply.
+Timing: 21 days of discussion + 14 days of voting.
+
+**Allocation by support**
+The order of funding among projects already approved where the funds for a field are insufficient. Marks of support without any limit on their number; funding in descending order of the number of supporters.
+
+**Measurement of the common will (Article 8 bis)**
+It is not a decision and has no threshold: by it the people expresses a position; it does not decide. The requirements are set out in Article 8 bis; in all other respects the order is established by a decision of the DAO Assembly.
+
+**The panel selected by lot (Article 8 ter)**
+It is not a decision and has no threshold: the panel prepares the question for measurement; it does not answer it. Selection by lot from the passport registry, participation voluntary, the work published together with the question. No panel is convened until the passport registry allows a cross-section of the people to be drawn by lot.
+
+## Powers of the Executing Structures
+
+**Core Nodes.** Technical support for the infrastructure, preparation of proposals for the DAO, coordination between Cells. They take no decisions on the allocation of resources and do not vote on behalf of the DAO. Rotation every 6 months, recall by simple majority at any time.
+
+**Emergency Multisig.** Emergency suspension of smart contracts where security is threatened, protective action during cyberattacks, emergency funding up to 5,000 EC. A mandatory report within 48 hours, retrospective ratification by the DAO within 7 days, recall by simple majority at any time.
+
+**The protective legal mandate.** Protective actions in a particular legal proceeding, limited to an exhaustive list. A report within 24 hours, automatic expiry after 30 days, revocation by simple majority at any time.
+
+**The Independent Council.** Ethical audit, recommendations, public opinions. Advisory in character, with no right of veto. An annual public report, re-election every 3 years.

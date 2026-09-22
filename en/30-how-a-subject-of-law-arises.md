@@ -1,0 +1,195 @@
+# How a Subject of Law Arises
+
+**Theses on the voluntary constitution of a people**
+
+A companion to the Legal Basis. Its question is not about Earthlings but about international law itself: what the law has not yet worked out - and why that gap does not make the emergence of a people unlawful.
+
+---
+
+## About this document
+
+### Relation to the Legal Basis
+
+The [Legal Basis](https://earth-lings.org/documents/en/en04-legal-basis.html) answers the question whether the coming together of the Earthlings people is compatible with international law as it stands. This document puts a different, more general question, addressed not to Earthlings but to the law itself.
+
+**Why has international law, possessing developed doctrines on the existence of collective subjects, done almost nothing to work out the question of their voluntary emergence?**
+
+This is not a defence of the project. It is an attempt to name a gap precisely. The question is put as a general one, and Earthlings appears here only as an instance of a process for which no general theory yet exists.
+
+Not one thesis asserts that the law is out of date or was mistaken. Each asserts something more modest and more exact: the law has been faced with a question which, until now, could hardly ever be posed in a way that admits of an answer.
+
+Where this document diverges from the Earthlings Declaration, the Declaration prevails.
+
+---
+
+## The central thesis
+
+### Existence is described, becoming is not
+
+International law knows how to ascertain that a collective subject exists, and knows how to describe the rights of peoples already formed. But it has scarcely worked out a general theory of how a collective subject arises by the free choice of individuals.
+
+**Existence is described. Becoming is not.**
+
+It is precisely this area - the voluntary constitution of collective subjecthood - that any contemporary case, once it is seriously posed, finds unoccupied.
+
+> **An illustration from the practice of recent years.** In November 2023 Australia and Tuvalu signed the Falepili Union Treaty, in force since August 2024: its Article 2 records the parties' recognition that the statehood and sovereignty of Tuvalu will continue notwithstanding the effects of sea-level rise. The Pacific Islands Forum and the Alliance of Small Island States adopted declarations on the continuity of statehood; in 2025 the UN International Law Commission adopted the final report of the Study Group on sea-level rise: according to the English text of the report, there is strong support among states for the continuity of statehood and the maintenance of international legal personality, and Article 1 of the Montevideo Convention does not address the question of the continuity of statehood in the context of sea-level rise.
+>
+> Faced with necessity, the law worked out the separation of status from territory within two years - **for the preservation** of a subject that already exists. The question of what that separation means **for the emergence** of a subject was not put: the community of states had no occasion to put it.
+>
+> This is the central thesis of the present document - only not in the form of an argument, but in the form of a treaty in force.
+
+---
+
+## The case that showed what exactly was missing
+
+**The question of the voluntary constitution of a non-territorial people has already been put to international law - and put directly.**
+
+In July 2000, at the Fifth World Romani Congress in Prague, the International Romani Union adopted a Declaration of Nation proclaiming the Roma a non-territorial nation. The claim concerned not statehood but representation - the possibility of having a voice of one's own in international institutions. In twenty-five years nothing has been recognized.
+
+The legal obstacle is named in an analytical paper by the European Roma Rights Centre - an organization that wished the claim well (Morag Goodwin, "The Romani Claim to Non-Territorial Nation Status", 2004): the law understands a people as the whole population of an already established state, and a community dispersed across many states does not fall within that notion. The second obstacle is evidentiary, and this one is our own observation: the impossibility of establishing who belongs to the community and who speaks in its name.
+
+**The second obstacle belongs not to law but to provability.** Membership in a dispersed population of millions could not in principle be established - not through any fault of those making the claim, but because the means to do so did not exist. The claim was made, but there was nothing to produce in support of it: no confirmed membership, no recordable practice of self-government, no record that could not be rewritten.
+
+Hence the precise formulation of the question, which replaces a cruder one. What is new is **not the question but the possibility of answering it**. The question was put before; for the first time there are means by which what is claimed can be confirmed or refuted - and not merely claimed.
+
+The two cases set out above outline the unoccupied area from two sides. Tuvalu shows that the law is able to separate status from territory when the need for it arises. The Roma show that when the same question was put for an emerging subject, the matter stopped not only at the norm but also at the impossibility of proving anything. There follow seven theses on why this area has remained empty and what filling it would mean.
+
+---
+
+## An important qualification: what this gap does not mean
+
+A gap in doctrine does not make the emergence of a people unlawful: the lawfulness of an act rests not on the existence of a special theory but on a norm in force - freedom of association, enshrined in treaties that are already binding today on the states parties to them.
+
+The absence of a worked-out theory has never meant unlawfulness: otherwise the first instance of any legal form would be outside the law, and the continental shelf, claimed in 1945 when no norm provided for such a claim, would have been a wrongful act rather than a future norm. For private persons exercising a recognized freedom, the principle "what is not prohibited is permitted" applies.
+
+> **And just as plainly - what the gap does not mean in the other direction.** Permissive silence concerns the **act**: individuals are entitled to associate and entitled to declare what they consider themselves to be. Such silence does not confer a status on the result. A gap is the law's unfinished work, not a ready answer in anyone's favour.
+
+---
+
+## Thesis 1. A feature and an essence are not the same thing
+
+Every scientific theory passes through a moment when it is hard to tell the essence of a phenomenon from the historical form in which it appeared. For centuries the physical medium seemed to be the essence of money - coins, banknotes, metal - until banking and digital settlement showed that it had been only a convenient historical form. The first automobiles were called "horseless carriages"; the first websites reproduced the printed page. The new almost always reproduces the old form first, and only later does it become visible which features were necessary and which followed from earlier constraints.
+
+The same situation is possible with the concept of a people. Through almost all of history, durable communities possessed a common territory, language, descent, and economic life. But one question remains that is rarely asked directly: were these features the essence of a people - or a consequence of the only means of uniting large human collectives that had been available until then?
+
+The difference is fundamental. If territory is the essence of a people, its absence rules out the very possibility of another form of peoplehood. If territory was only a historical condition, then the appearance of new ways of human coordination calls not for the abolition of the law but for a revision of how the question is put.
+
+International law, tellingly, contains no exhaustive definition of a people. That leaves the question open rather than decided in anyone's favour.
+
+It matters that the question is no longer speculative. The practice cited above shows that, faced with a real necessity, international law proved capable of separating status from territory. It did so in order to preserve a subject already recognized - but the very fact that the separation proved possible, and was fixed in a treaty, is evidence that the territorial link is not indispensable in this scheme.
+
+---
+
+## Thesis 2. What changed was not the speed of communication but the architecture of coordination
+
+The influence of modern communications is usually reduced to the speed of exchanging information. That is true but superficial. Something deeper has changed - the very mechanism by which large groups of people are held together.
+
+Throughout history there have been few such mechanisms: a vertical hierarchy (tribe, army, state, church) and organization within a single jurisdiction (company, university, party, foundation). All of them required either a common territory or a single chain of command.
+
+A third possibility has appeared: durable horizontal coordination of large numbers of people without a common territory and without a single hierarchy.
+
+This does not abolish any norm of law and proves nothing about peoplehood by itself. But it changes the factual conditions under which people are able to form long-lasting communities. And when the conditions for the emergence of durable collectives change, the law sooner or later faces the need to determine the place of the new form in its system of concepts.
+
+---
+
+## Thesis 3. The state is the first complete case of subjecthood, not its template
+
+International law took shape not among many competing models but in an age when the state was the most developed and institutionally complete form of political organization. That is why the state became the initial model of legal personality. This is not a theoretical error but a reflection of historical reality.
+
+Two extremes are possible here, and both are false: either the state is declared a unique and wholly special subject, or all subjects are equated with one another. A third statement is more exact: the state is neither an exception nor a universal template, but the historically first fully developed case of a more general process of institutional becoming.
+
+Like vertebrates in biology: not a universal model of life, but not ceasing to be its most important example either - simply taking their place within a more general theory. On that reading, the doctrine's "exceptions" - international organizations, liberation movements, peoples, the individual, the Holy See - cease to be annexes to a building and become different historical forms of one process.
+
+What distinguishes the state most deeply? Not territory and not sovereignty, but the monopoly of the legitimate use of physical force within a given territory - Max Weber's classical formula. On a careful reading, it describes not subjecthood but a way of securing a normative order. And then arises what is perhaps the strongest question of the whole topic, asked as cautiously as possible:
+
+**Is the capacity for coercion a necessary condition for the emergence of a durable normative order - or only one of the historically dominant technologies for maintaining it?**
+
+The thesis does not assert that coercion is unnecessary. It merely declines to treat as proven that no other mechanisms of durable order exist.
+
+---
+
+## Thesis 4. The doctrine of self-determination is not incomplete - it is historically specialized
+
+The modern doctrine of self-determination took shape not as an abstract theory of how peoples arise but as an answer to particular processes: the collapse of empires, decolonization, liberation movements, the struggle against external domination. Hence its language - colony, dependent territory, occupation, territorial integrity, independence. These concepts explained their own age very well.
+
+The doctrine therefore answered one question: how an already existing people exercises its right of self-determination under external subjection. And it scarcely answered another: how the subject that then becomes the bearer of that right arises in the first place.
+
+The conclusion is not "the theory is incomplete" but, more precisely: it is specialized. Every developed theory has a domain of application; the subject matter of the theory of self-determination historically lay in a different plane.
+
+The specialization is visible not only in the tone of the doctrine but in the texts. General Assembly resolution 1541 (XV) of 1960 provides in Principle IV that an obligation to transmit information exists prima facie in respect of a territory which is geographically separate and is distinct ethnically and/or culturally from the country administering it - the feature relied on is the territory, not the group. In its safeguard clause, the Russian text of resolution 2625 (XXV) of 1970 speaks of a government representing "the whole people **residing in that territory**"; the English text, equally official, puts it more strongly - "the whole people belonging to the territory". The link between a people and a territory is fixed here in so many words.
+
+This substantially qualifies the thesis. Territoriality in the doctrine of self-determination is not an incidental effect of the age that could be written off as a matter of tone: it is written into the texts. But it is written in where the question being decided was the delimitation of states and colonial territories - and none of those texts contains a definition of a people as such. They describe the conditions under which territorial integrity is protected, not what a people is.
+
+What expressly ties a people to territory is a text that is not a norm but was published as an official UN document: the study by Aureliu Cristescu, Special Rapporteur of the UN Sub-Commission (1981). It gives no definition of a people, but it names elements of a definition that "cannot and should not be ignored": a people is a social entity possessing a clear identity and its own characteristics, and implies a relationship with a territory **even if the people in question has been wrongfully expelled from it and artificially replaced by another population**. The formulation preserves a territorial link for a people that has lost its territory - and does not consider the case of a community that never had one. This is the most precise objection in existence, and it must not be evaded when the question is put.
+
+The absence of a worked-out answer to the question of how a people arises testifies not to the impossibility of such an answer: the demand for it has been made (the Romani case examined above), but there was nothing verifiable with which to support it.
+
+---
+
+## Thesis 5. The law was not mistaken - it had not yet been faced with the necessity
+
+There is a difference between two formulations, and it sets the tone of the whole inquiry.
+
+To say "the law has not worked out a theory" is to level a complaint at the law. To say "the law has not yet been faced with the necessity of working one out" is to describe a historical fact. The first position is accusatory, the second historical; the second is the scientifically honest one.
+
+The law investigates above all what becomes the subject of a dispute. Until a phenomenon generates persistent conflicts, comes before the courts, or provokes international disagreement, it rarely becomes a subject of theory in its own right. This is not a defect of the law - most legal institutions develop this way.
+
+What changed is neither the legal order nor its principles. What changed is the object of observation.
+
+---
+
+## Thesis 6. For the first time the emergence of a collective subject is becoming observable
+
+The main change is not the internet or any particular technology; those are only instruments. The main thing is that collective self-constitution is for the first time becoming observable.
+
+Historical peoples were studied retrospectively, by the traces left over centuries: language, tradition, institutions formed before any observer. The existence of a people was established indirectly and always after the fact. A voluntary community of a new type can in principle be studied while it is forming: the moment of joining, the expression of consent, the formation of institutions, the continuation or ending of participation - all of this can be the object of direct and verifiable observation.
+
+The analogy is loose, but it helps convey the scale: where before only a fossil trace was available, it becomes possible to observe a living organism develop.
+
+This is exactly what was missing in the Roma case set out above: the claim was made, but material that could be produced and checked did not exist. For the law this is a qualitatively new kind of material, and it is that material which makes thinkable a question that could not be posed on the basis of historical material: not "what is a people" but "what stages does its becoming pass through".
+
+Let us state the limit as well. Observability is a property of the scheme, not a result achieved: the evidentiary force of observation arises as time, the number of participants, and practice accumulate. The possibility of observing is a necessary condition, not a sufficient one.
+
+---
+
+## Thesis 7. From static categories to dynamic ones
+
+Until now international law has operated for the most part with static categories: the state, the people, the international organization, the legal entity. All of them are treated as subjects that already exist and that merely remain to be classified.
+
+But if the process of emergence itself becomes the subject matter, the law is compelled to think dynamically - to describe not only what is but how it comes to be. A new task arises: not to classify subjects that have already emerged, but to reconstruct the stages of the transition from a voluntary association of people to collective subjecthood.
+
+Here is what international law today genuinely lacks. Not a new definition of a people and not a new theory of self-determination, but **a general theory of legally significant collective becoming**.
+
+It has yet to be built - rigorously, on the basis of the logic of law, institutional theory, and norms already in force. This document does not propose it; it only shows that the place for it is empty and that the demand for it has for the first time become real.
+
+---
+
+## Practical meaning: what follows from this
+
+These theses are not an academic exercise. Behind them stands a practical question that must be split in two, since taken as one it breeds misunderstanding.
+
+**The first question: is the act itself lawful?** May individuals from different states voluntarily associate, declare themselves a people, and build institutions of self-government without violating international law?
+
+To this question the Legal Basis answers in the affirmative, relying on freedom of association - a norm enshrined in treaties that are already binding today on the states parties to them; none of these instruments sets out an exhaustive list of permissible forms or purposes of association. International law contains no prohibition of such an act.
+
+**The second question: is the community that has emerged a people in the legal sense?**
+
+To this question no ready answer exists, and the Legal Basis does not give one. The question is resolved by whichever body applies the law, on the basis of criteria and practice, when a specific claim arises - and it is precisely a general theory of such resolution that international law lacks.
+
+This document adds a second layer: it shows that behind the particular case stands a general gap in doctrine, and that this gap is not a ready answer in anyone's favour but a natural consequence of the history of the law itself.
+
+### Questions put forward for discussion
+
+We put them openly, claiming no ready answer:
+
+- Is a territorial link an essential feature of a people - or a historically dominant condition of its formation? If states already accept that the loss of territory does not end statehood, what work does territory do in a test for the emergence of a status?
+- Is the capacity for coercion a necessary condition of a durable normative order - or one of the technologies for maintaining it?
+- Are there general legal criteria for the transition from a voluntary association of people to collective subjecthood? If not, on what grounds would a dispute be resolved were it to arise tomorrow?
+- If the emergence of a collective subject is for the first time becoming observable, must the theory of a people remain exclusively retrospective?
+- Does it change anything for the legal assessment that the Romani claim stopped not only at the norm but also at the impossibility of proving anything?
+
+We assert that these questions are correctly put, that international law as it stands gives no ready answer to them - and that they deserve serious professional discussion rather than dismissal as utopian.
+
+---
+
+*The law exists to protect life. When the complexity of the world begins to exceed the capacity of earlier forms of representation, the law should not disappear - it should develop. To name a question it has not yet answered is the first step in such development.*

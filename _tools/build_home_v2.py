@@ -1,0 +1,2002 @@
+# -*- coding: utf-8 -*-
+u"""Языковая главная нового сайта: чередование полос, как на epic.org.
+
+Зачем страница переделывается. Сейчас `/ru/`, `/en/` и остальные семь адресов
+отдают ОДИН И ТОТ ЖЕ `index.html` с английскими метаданными, а текст дорисовывает
+скрипт из `mainpage/<язык>/index.html`. Для краулера без JS все девять языковых
+главных пусты. Здесь у каждого языка свой файл, полный в HTML, с заголовком и
+описанием на своём языке.
+
+Что на полосах. Порядок задан Артуром: белая, тёмно-синяя, белая, голубая, и на
+них Обращение, Учредительный период, Декларация, путь earthling с кнопкой
+действия. Дальше платформа, шесть шагов и Awakened Code. Читается это снизу
+вверх как «кто мы - что происходит сейчас - чем это учреждается - как войти».
+
+Правовой полосы на главной больше нет: снята 2026-08-22. Она стояла четвёртой,
+между Декларацией и путём earthling, и её голубой фон достался пути earthling
+вместо тёмно-синего.
+
+Текст полосы берётся из одного из двух мест. Написан анонс полосы
+(_announce/<язык>-announce.md) - стоит анонс. Анонса нет - лидом идут
+выбранные абзацы соответствующего мастера слово в слово. Заголовок полосы - H1
+мастера в обоих случаях.
+
+Собирается два файла на язык:
+  _v2/<язык>/index.html     - полосы
+  _v2/<язык>/address.html  - Обращение целиком, набранный как документ
+
+Использование:
+  python build_home_v2.py            все языки, для которых есть мастера
+  python build_home_v2.py ru         один язык
+  python build_home_v2.py --dry      ничего не записывать
+"""
+import io
+import json
+import os
+import re
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import md2doc                                              # noqa: E402
+import chrome as C                                         # noqa: E402
+from build_site_docs import (SITE, REPO, ORIGIN, ROOT, doc_href, has_doc,
+                             HEAD_ICONS, OG_LOCALE, UMAMI,
+                             ALL_LANGS, md_dir, corpus_file, SLUGS)  # noqa: E402
+import site_guard as guard                                 # noqa: E402
+# Словарь запрещённых знаков и родная пунктуация языков - из одного места с
+# проверкой переводов: вторая копия словаря разошлась бы с первой.
+from check_translation import FORBIDDEN, ALLOWED_BY_LANG   # noqa: E402
+
+ADDRESS_DIR = os.path.join(REPO, '_address')
+OUT = os.path.join(SITE, '_v2')
+
+# Полосы: (класс темы, что показываем, номера БЛОКОВ лида, якорь).
+#
+# Номера, а не «первые N абзацев». Корпусные документы открываются процедурно -
+# «Настоящий текст представляет...», «Возраст - 18 лет», - и механический выбор
+# первого абзаца ставил на главную служебные оговорки. Абзацы выбраны глазами.
+#
+# Считаются ВСЕ блоки мастера подряд, включая заголовки, списки и врезки. Это
+# не мелочь, а условие правильности. Раньше считались только абзацы прозы, а
+# проза отбиралась в том числе по длине - короче 90 знаков не абзац. Длина
+# зависит от языка: русский абзац в 77 знаков выпадал, его немецкий перевод в
+# 96 оставался, и один и тот же номер означал в двух языках разные абзацы.
+# Английская и немецкая правовая полоса из-за этого открывались служебной
+# оговоркой вместо тезиса. Якорь этого не ловил: он сверялся только с русским.
+#
+# Число блоков от языка не зависит: переводы зеркалят мастер блок в блок - это
+# правило корпуса. Поэтому lead() требует, чтобы число блоков совпало, и падает,
+# если мастера разошлись. ЯКОРЬ - начало русского блока - остаётся второй
+# проверкой: он ловит правку внутри мастера, не меняющую числа блоков.
+#
+# Документы названы номерами: переименование документа сюда не заглядывает,
+# заголовок полосы берётся из его H1.
+BANDS = [
+    ('white', 'address', [3, 5],     u'Устав ООН открывается'),
+    ('navy',  'doc:01',   [3, 6],     u'Настоящая редакция является'),
+    ('white', 'doc:20',   [6, 9],     u'Сегодня Декларация существует'),
+    # Правовая база снята с главной решением Артура 2026-08-22. Её сборка
+    # (ветка 'legal', LEGAL_DOCS, ladder()) оставлена рабочей: полоса не
+    # ошибочна, она просто убрана со страницы, и вернуть её - это дописать
+    # сюда одну строку. Удалять лестницу правосубъектности только потому,
+    # что её сейчас не показывают, значило бы потерять её насовсем.
+    # Полоса паспорта (`doc:14`) снята с главной решением Артура 2026-09-06.
+    # Её сборка идёт общей веткой в build_index и оставлена рабочей; подпись
+    # ссылки лежит в DOC_LINK. Довод: она и полоса `steps` обе про паспорт -
+    # одна про смысл, другая про процедуру, - и вдвоём отвечали на один
+    # вопрос дважды. Смыслу место осталось в документе 14.
+    #
+    # Полоса шести шагов (`steps`) снята тем же решением. Её сборка - функция
+    # steps() - оставлена рабочей. Довод: процедуре вступления место на
+    # странице вступления, а не на главной; главная ведёт к решению, а не
+    # объясняет анкету, проверку личности и выпуск паспорта.
+    #
+    # Вернуть любую из двух - дописать сюда одну строку.
+    # Полоса платформы: слева текст из документа 12, справа живой тур, под
+    # ними тринадцать карточек. Карточки прямые намеренно.
+    ('mist',  'platform', [8, 9],     u'Платформа не является социальной'),
+    # Полоса «Где мы сейчас» (`state`) снята решением Артура 2026-09-06. Её
+    # сборка - функция state(), таблицы STATE_BUILT_DOC и STATE_CHECK_DOC -
+    # оставлена рабочей. Довод: она доказывала, что это не обещание, но ровно
+    # это же делает полоса платформы, и делает сильнее - живым туром по
+    # работающему приложению. Описание рядом с работающим приложением
+    # проигрывает ему.
+    #
+    # Соседство `platform` и `objections` теперь одноцветное, и это не
+    # недосмотр: правило `.band--mist + .band--mist` в home.css проводит
+    # между ними линейку, потому что такое соседство на странице уже было.
+    # Три возражения перед самым решением. Место выбрано намеренно: вопрос
+    # «это вообще законно?» возникает раньше, но отвечать на него имеет смысл
+    # тогда, когда человек уже понял, о чём речь, и стоит перед кнопкой.
+    ('mist',  'objections', [],      u''),
+    # Полоса Awakened Code снята решением Артура 2026-09-06. Её сборка -
+    # функция awakened() - оставлена рабочей, и сам раздел никуда не делся:
+    # он живёт по своему адресу /awakened_code/ и достижим из подвала каждой
+    # страницы. Довод: это художественная вещь со своим читателем, и со
+    # страницы, ведущей человека к решению, она уводит.
+    #
+    # Вернуть - дописать сюда одну строку; копии Awakened Code в _v2 нет и не
+    # нужно, полоса показывала его живьём в iframe.
+    # Последняя полоса - одно действие и ничего кроме. Дочитавший до конца
+    # человек самый готовый из всех, кто открыл страницу, и до сих пор ему
+    # нечего было нажать: «Вступить» стояло дважды, и оба раза в середине.
+    #
+    # Полоса белая (решение Артура 2026-08-25). Прежде была голубой, и довод
+    # 22 августа был такой: подвал тёмно-синий, на тёмном фоне полоса слилась
+    # бы с ним в одну плиту. Довод остаётся верным и для белого - с тёмно-синим
+    # подвалом белая полоса спорить не может, а между ними снова стоит воздух.
+    #
+    # Фраза набрана серифом заголовков и ничего не предлагает сама, действие
+    # стоит рядом обычной кнопкой. Кнопок «Вступить» на главной от этого снова
+    # одна: со шкалы шагов её сняли тем же решением.
+    ('white', 'join',     [],        u''),
+]
+
+# Крупная строка плаката: документ 02 «Гражданский голос», блок 245.
+# С 2026-09-10 номер на единицу больше: вступление раздела 6 вернули из конца
+# Части VIII под заголовок раздела, и все блоки между ними сдвинулись.
+#
+# Раньше строку собирали из первых трёх фраз Обращения («Международные
+# организации. Посмотрите на это слово внимательно. Между народами - так оно
+# читается»). Решением Артура 2026-08-22 её место заняла формулировка о
+# честной границе обещания. Она не сочинена для главной: это дословная цитата
+# из мастера, и во всех восьми языках она уже переведена - блок в блок, номер
+# один и тот же (нумерация блоков с единицы, как везде в BANDS).
+#
+# Вместе со строкой из лида ушёл блок 2 Обращения. Он не выброшен по вкусу:
+# крупная строка была его началом, а остаток блока открывается словом «Но»,
+# которое без неё повисает и указывает в пустоту. Блоки 3 и 5 самостоятельны
+# и говорят ровно о том же - Устав ООН и чего он не дал.
+POSTER_LINE_DOC = '02'
+POSTER_LINE_BLOCK = 245
+POSTER_LINE_ANCHOR = u'> Мы не обещаем, что вас услышат'
+
+# --- полоса «Возражения и ответы» -----------------------------------------
+#
+# Три возражения из мастера 26 и по два абзаца ответа на каждое. Номера
+# блоков, а не поиск по тексту: заголовки возражений правят чаще, чем состав
+# документа, и поиск по строке ломался бы на первой же правке. Ответы у
+# третьего возражения стоят далеко от вопроса - это не опечатка: в мастере
+# между ними разбор трёх причин, по которым DAO скатываются в плутократию, и
+# на главную идут признание и то, чем устроено иначе.
+#
+# Выбраны те три, которые человек задаёт себе сам, впервые открыв страницу:
+# это новое государство? вы подрываете мою страну? это очередной криптопроект?
+OBJECTIONS = [
+    (17, [18, 19], u'### Это сетевое государство'),
+    (24, [25, 26], u'### Вы подрываете суверенитет'),
+    (35, [36, 43], u'### Это очередная DAO'),
+]
+
+# --- полоса «Где мы сейчас» -----------------------------------------------
+#
+# Первый абзац из мастера 23: что построено и развёрнуто. Второй и третий из
+# мастера 32: точная граница проверяемости и то, что закрытые части не
+# определяют ни кто такой earthling, ни как считается голос.
+#
+# Два мастера, а не один, потому что утверждение и его проверка живут в
+# разных документах, и сводить их пересказом на главной нельзя. Оба номера
+# проверяются якорем и числом блоков - как все остальные.
+STATE_BUILT_DOC, STATE_BUILT = '23', [9]
+STATE_BUILT_ANCHOR = u'Инфраструктура самоуправления'
+STATE_CHECK_DOC, STATE_CHECK = '32', [4, 11]
+STATE_CHECK_ANCHOR = u'Мы утверждаем, что Earthlings проверяем'
+
+# --- финальная полоса ------------------------------------------------------
+#
+# Строка над кнопкой - блок 15 мастера 23. Это ЗАГЛУШКА до решения Артура: он
+# сказал, что подумает, как назвать кнопку и что написать под ней. Строка
+# выбрана из корпуса, а не сочинена, чтобы страница до его решения не
+# говорила ничего от себя.
+JOIN_DOC, JOIN_BLOCK = '23', [15]
+JOIN_ANCHOR = u'Earthlings предлагает не манифест'
+
+# Что перечислено в правовой полосе. Порядок - от общего к частному.
+LEGAL_DOCS = ['30', '04', '05', '26']
+# Лид правовой полосы берём из «Как возникает субъект права»: там сказано, на
+# чём всё стоит, без служебных оговорок про соотношение документов.
+LEGAL_LEAD_DOC = '30'
+
+# Анонсы полос главной: _announce/<язык>-announce.md, по файлу на язык.
+#
+# Анонс - свой короткий текст полосы, а не отрывок документа. Решение Артура
+# 2026-09-10: анонсы живут своей жизнью. Правка документа их не трогает, правка
+# анонса не трогает документ, и поменять текст полосы можно в любой момент, не
+# касаясь кода.
+#
+# Поэтому якоря на блоки мастера у анонса нет, хотя у отрывков он есть: якорь
+# краснел бы на каждой правке документа, а анонс от документа не зависит по
+# замыслу. Цена названа: сверять анонс с документами по смыслу - дело того, кто
+# его пишет.
+#
+# Раздела полосы в файлах нет - полоса собирается, как собиралась: отрывком
+# мастера по номерам из BANDS. Файлы без разделов дают ровно прежнюю главную.
+#
+# **Раздел полосы стоит во всех девяти языках или ни в одном, и состав у него
+# одинаковый.** Анонс на одном языке при прежнем отрывке на восьми разводит
+# главные по смыслу. Правило действовало и тогда, когда анонс Обращения лежал
+# здесь таблицей (до 2026-09-10); теперь его проверяет load_announces(), и
+# сборка останавливается раньше, чем запишет хоть одну страницу.
+#
+# Имена разделов - по-русски во всех девяти файлах: это ключи, а не текст
+# страницы, и переводить их нельзя.
+ANNOUNCE_DIR = os.path.join(REPO, '_announce')
+ANNOUNCE_KEYS = [
+    ('address',    u'Обращение'),
+    ('doc:01',     u'Декларация'),
+    ('doc:20',     u'Учредительный период'),
+    ('platform',   u'Платформа'),
+    ('objections', u'Возражения'),
+    ('join',       u'Вступить'),
+]
+
+# Подпись под Обращением. Подписывают его авторы, а не народ (Учредительный
+# период, раздел 02), поэтому здесь команда, а не «Earthlings».
+SIGN = {'ru': u'Команда Earthlings', 'en': u'The Earthlings team',
+        'de': u'Das Earthlings-Team', 'fr': u"L'équipe Earthlings",
+        'es': u'El equipo Earthlings', 'ka': u'Earthlings-ის გუნდი',
+        'zh': u'Earthlings 团队', 'ar': u'فريق Earthlings',
+        'hi': u'Earthlings टीम'}
+
+# Файлы лежат в _v2/downloads/ - своей копией, а не ссылкой на боевое дерево:
+# после подмены корня боевого каталога рядом не будет, и ссылка провалилась бы
+# в 404 на всех языках разом. Перенесены 2026-08-25.
+#
+# Китайский PDF собран 20 августа и попал только в боевое дерево (коммит
+# 342ea2e): кнопку добавили на боевую главную, а в эту таблицу - нет. Здесь он
+# добавлен. Арабский и хинди появились 27 августа, когда генератор перешёл
+# на печать страницы браузером: reportlab не шьёт ни вязь, ни деванагари.
+#
+# Имена файлов сменились 2026-08-26 вслед за переименованием: прежние
+# manifest-*/manifesto-of-belonging-* никуда не рассылались, ломать было
+# нечего. Задаются они в BY_LANG сборщика PDF; здесь копия, и расхождение
+# ловится проверкой ниже - файла с таким именем просто не окажется.
+PDF = {
+    'ru': ('/downloads/obrashchenie-ru.pdf', u'Скачать Обращение в PDF'),
+    'en': ('/downloads/an-address-to-everyone-en.pdf', u'Download the Address as PDF'),
+    'de': ('/downloads/eine-ansprache-an-alle-de.pdf', u'Ansprache als PDF herunterladen'),
+    'fr': ('/downloads/un-message-a-tous-fr.pdf', u'Télécharger le message en PDF'),
+    'es': ('/downloads/un-mensaje-a-todos-es.pdf', u'Descargar el mensaje en PDF'),
+    'ka': ('/downloads/an-address-to-everyone-ka.pdf', u'ჩამოტვირთეთ მიმართვა PDF-ად'),
+    'zh': ('/downloads/an-address-to-everyone-zh.pdf', u'下载《致所有人》PDF'),
+    'ar': ('/downloads/an-address-to-everyone-ar.pdf',
+           u'تحميل الرسالة بصيغة PDF'),
+    'hi': ('/downloads/an-address-to-everyone-hi.pdf',
+           u'संबोधन PDF में डाउनलोड करें'),
+}
+
+# --- страница /essays/ -----------------------------------------------------
+#
+# Статьи и эссе, опубликованные на стороне. На сайт переносятся ССЫЛКИ, а не
+# тексты (решение Артура 2026-09-07): три копии одного текста в сети - это
+# спор с самим собой за авторство, и выиграть его у площадки с большим
+# авторитетом нечем. Отсюда же следует, что `rel=canonical` странице не нужен:
+# дублей нет, вопрос снят.
+#
+# Аннотация НЕ сочиняется. Порядок такой: авторская строка площадки, если она
+# есть, иначе первая несущая фраза самой статьи - и то и другое дословно.
+# На Paragraph авторская строка есть у трёх эссе из четырёх (поле summary,
+# оно же og:description). На Medium отдельного подзаголовка нет ни у одной
+# статьи: то, что похоже на подзаголовок в списке профиля, - превью, которое
+# Medium режет по 140 знакам и добавляет многоточие. Равно оно первому абзацу,
+# и здесь стоит этот абзац ЦЕЛИКОМ. У части статей он написан как однострочный
+# зачин, у части это первая фраза текста; длина не выравнивается - это
+# авторский выбор.
+#
+# Единственное исключение - «A Society That Can't Be Captured»: авторской
+# строки у неё нет, а первые два абзаца - разгон («You have been here
+# before...»). Взят третий, с которого начинается мысль. Отступление названо
+# здесь, а не спрятано.
+#
+# Типографика ASCII, в том числе в английском. Длинное тире, «умные» кавычки и
+# неразрывные пробелы Medium и Paragraph ставят сами, и они приезжают вместе с
+# текстом; таблица уже вычищена, а `check_essay_typography` не даёт занести
+# грязь снова.
+#
+# Порядок - строго от новых к старым, по времени публикации. Правило одно и
+# без исключений: следующая написанная статья встаёт на своё место сама, и
+# помнить о ней ничего не надо. Трилогия Paragraph («After Privacy, a People»
+# -> «The Mechanism and the Demos» -> «The Missing Variable») из-за этого
+# читается снизу вверх, и это осознанная цена: сама «The Missing Variable»
+# первой же строкой говорит, что она третья и что две другие идут раньше.
+#
+# Поля: адрес, заголовок автора, площадка, месяц и год, аннотация.
+ESSAYS = [
+    ('https://paragraph.com/@earthlings/the-missing-variable',
+     u'The Missing Variable', u'Paragraph', u'July 2026',
+     u'Mechanisms without standing stay brilliant guests. Communities '
+     u'without law stay vivid clubs. On the ally builders route around.'),
+    ('https://paragraph.com/@earthlings/the-mechanism-and-the-demos',
+     u'The Mechanism and the Demos', u'Paragraph', u'July 2026',
+     u'Every mechanism for collective choice presupposes what it cannot '
+     u'create: a demos. On the ground under plural instruments.'),
+    ('https://medium.com/@arthur_42521/'
+     'democracys-unexamined-monopoly-460e1551b7d5',
+     u"Democracy's Unexamined Monopoly", u'Medium', u'July 2026',
+     u'We argue about whether democracy is healthy. We stopped asking '
+     u'whether elections are the only form it can take.'),
+    ('https://paragraph.com/@earthlings/after-privacy-a-people',
+     u'After Privacy, a People', u'Paragraph', u'July 2026',
+     u'Privacy keeps a person an author of their own life - but authors of '
+     u'what? Two bets: protect the individual, or constitute a people.'),
+    ('https://paragraph.com/@earthlings/a-society-that-cant-be-captured',
+     u"A Society That Can't Be Captured", u'Paragraph', u'June 2026',
+     u'Almost everything people use to coordinate belongs to someone. States '
+     u'hold belonging through territory. The platforms where we gather '
+     u'outside states belong to their owners.'),
+    ('https://medium.com/@arthur_42521/'
+     'we-the-peoples-was-a-promise-it-could-become-a-procedure-de7572f11fcc',
+     u'"We the Peoples" Was a Promise. It Could Become a Procedure.',
+     u'Medium', u'June 2026',
+     u"The UN's deepest crisis is not its empty treasury. It is that the "
+     u'institution has no constituency of its own - no door through which a '
+     u'people, as distinct from a state, can walk. Some people have started '
+     u'building that door outside the building. Here is how one of them '
+     u'actually works, and where the argument is weakest.'),
+    ('https://medium.com/@arthur_42521/five-thousand-years-of-searching-'
+     'what-humanity-actually-proposed-instead-of-power-aaaec8dfb715',
+     u'Five Thousand Years of Searching: What Humanity Actually Proposed '
+     u'Instead of Power', u'Medium', u'April 2026',
+     u'A history of constructions, not manifestos'),
+    ('https://medium.com/@arthur_42521/'
+     'you-are-not-the-problem-the-environment-is-4d257b9fe1ea',
+     u'You Are Not the Problem. The Environment Is.', u'Medium', u'April 2026',
+     u'Why every system judges the individual - and why the only real '
+     u'question is the one nobody asks: what kind of environment are we '
+     u'building?'),
+    ('https://medium.com/@arthur_42521/the-invisible-cage-how-law-became-'
+     'the-architecture-of-control-e9c632d5b282',
+     u'The Invisible Cage: How Law Became the Architecture of Control',
+     u'Medium', u'April 2026',
+     u'Law is not a set of rules. It is the invisible substance that fills '
+     u'every space in which human life occurs - like ether, it permeates '
+     u'everything. And the cage it has built around us is so complete that '
+     u'most people no longer notice it exists.'),
+    ('https://medium.com/@arthur_42521/freedom-without-a-master-fb32ae0d1b48',
+     u'Freedom Without a Master', u'Medium', u'April 2026',
+     u'The first system of human organization where power does not exist as '
+     u'a category'),
+    ('https://medium.com/@arthur_42521/the-system-is-the-crisis-4e0b1cad1383',
+     u'The System Is the Crisis', u'Medium', u'April 2026',
+     u'The wars, the economic shocks, the collapsing institutions - they are '
+     u'not the disease. They are the symptoms. And nobody is proposing a '
+     u'cure, because the cure requires something that does not yet exist.'),
+]
+
+# Заголовок и лид страницы. Это НАШ текст, а не авторская строка: две фразы о
+# том, что за раздел, и чего на нём нет. Ради них страница и существует -
+# голый список из одиннадцати ссылок наружу не работает ни на читателя, ни на
+# поиск.
+ESSAYS_TITLE = u'Articles and essays'
+ESSAYS_LEAD = (u'Long-form writing published elsewhere: essays on Paragraph, '
+               u'articles on Medium. The texts stay where they were '
+               u'published; this page keeps the list in one place, with the '
+               u'opening line of each.')
+
+
+# ------------------------------------------------------------------ мастера
+
+def read_master(path):
+    assert os.path.isfile(path), u'нет мастера %s' % path
+    s = io.open(path, encoding='utf-8').read()
+    assert s.strip(), u'пустой мастер %s' % path
+    return s
+
+
+def title_of(md):
+    m = re.search(r'^#\s+(.+)$', md, re.M)
+    assert m, u'в мастере нет заголовка H1'
+    return m.group(1).strip()
+
+
+def prose(md):
+    u"""Абзацы прозы мастера по порядку.
+
+    Выброшены заголовки, цитаты, таблицы, списки, разделители, вставки схем и
+    строки из одного жирного куска - это подзаголовок документа. Короче 90
+    знаков тоже выброшено: такой длины бывают пункты перечня («Возраст -
+    достижение возраста 18 лет»), а не абзац, которым открывают страницу.
+    """
+    out = []
+    for block in re.split(r'\n\s*\n', md):
+        b = re.sub(r'\s+', ' ', block.strip())
+        if not b or b[0] in '#>|[' or b.startswith('- ') or b.startswith('* '):
+            continue
+        if b.startswith('---') or re.match(r'^\*\*[^*]+\*\*$', b):
+            continue
+        if len(b) < 90:
+            continue
+        out.append(b)
+    assert out, u'не нашлось ни одного абзаца прозы'
+    return out
+
+
+def blocks(md):
+    u"""Все непустые блоки мастера по порядку, без единого фильтра.
+
+    Именно отсутствие фильтров и делает нумерацию годной для всех языков:
+    любой отбор «что считать абзацем» опирается на свойства текста, а они у
+    перевода другие. Число блоков же задано структурой, а структуру перевод
+    повторяет блок в блок.
+    """
+    bs = [re.sub(r'\s+', ' ', b.strip())
+          for b in re.split(r'\n\s*\n', md) if b.strip()]
+    assert bs, u'в мастере нет ни одного блока'
+    return bs
+
+
+def is_prose(b):
+    u"""Блок - обычный абзац, а не заголовок, список, врезка или разделитель.
+
+    Проверка нужна не для отбора, а как страховка: если номер в BANDS
+    промахнулся, на главную попал бы заголовок раздела или строка таблицы, и
+    заметить это можно было бы только глазами на девяти языках.
+    """
+    if b.startswith('---') or re.match(r'^\*\*[^*]+\*\*$', b):
+        return False
+    return b[0] not in '#>|' and not b.startswith('- ') and not b.startswith('* ')
+
+
+def lead(load, what, nums, anchor, lang):
+    u"""Блоки лида по номерам, с двумя проверками.
+
+    Первая: число блоков в мастере языка обязано совпасть с русским. Не
+    совпало - переводы разошлись с мастером по структуре, и любой номер
+    означает в них уже не то; сборка падает и называет документ.
+
+    Вторая: русский блок начинается с якоря. Она ловит правку ВНУТРИ мастера,
+    от которой число блоков не меняется.
+    """
+    ru = blocks(load(what, 'ru'))
+    bs = blocks(load(what, lang)) if lang != 'ru' else ru
+    assert len(bs) == len(ru), (
+        u'мастер %s (%s) состоит из %d блоков, а русский - из %d. Переводы '
+        u'корпуса зеркалят мастер блок в блок; раз число разошлось, номера в '
+        u'BANDS указывают в этих языках на другие абзацы. Сверьте мастера.'
+        % (what, lang, len(bs), len(ru)))
+    for n in nums:
+        assert 1 <= n <= len(bs), (
+            u'в мастере %s всего %d блоков, а лид просит №%d' % (what, len(bs), n))
+        assert is_prose(bs[n - 1]), (
+            u'блок №%d мастера %s (%s) - не абзац, а %r. На главную попал бы '
+            u'заголовок или список.' % (n, what, lang, bs[n - 1][:60]))
+    got = ru[nums[0] - 1]
+    assert got.startswith(anchor), (
+        u'лид главной разошёлся с мастером %s: блок №%d начинается на %r, а '
+        u'ожидалось %r. Мастер правили - проверьте номера в BANDS и выберите '
+        u'заново.' % (what, nums[0], got[:40], anchor))
+    return [bs[n - 1] for n in nums]
+
+
+def md_inline(s):
+    u"""Разметка внутри абзаца: жирный, курсив, ссылки, код. Того же набора
+    хватает и корпусу - главная набрана тем же, чем документы."""
+    s = C.esc(s)
+    s = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', s)
+    s = re.sub(r'&lt;(https?://[^&]+)&gt;', r'<a href="\1">\1</a>', s)
+    s = re.sub(r'\*\*([^*]+)\*\*', r'<strong>\1</strong>', s)
+    s = re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'<em>\1</em>', s)
+    s = re.sub(r'`([^`]+)`', r'<code>\1</code>', s)
+    return s
+
+
+def doc_master(num, lang):
+    return read_master(os.path.join(md_dir(lang), corpus_file(num, lang)))
+
+
+def load(what, lang):
+    u"""Мастер по имени полосы: 'address' или номер документа. Один вход на
+    оба случая нужен затем, чтобы lead() могла сама поднять русский мастер и
+    сверить с ним структуру, не зная, какая полоса её вызвала."""
+    if what == 'address':
+        return read_master(os.path.join(ADDRESS_DIR, '%s-address.md' % lang))
+    return doc_master(what, lang)
+
+
+class AnnounceError(Exception):
+    u"""Файлы анонсов не годятся для сборки. Текст - для человека, не для
+    разработчика: правит эти файлы автор текста."""
+
+
+def _shape(s):
+    return (u'крупная строка и абзацев %d' if s[0] else u'абзацев %d') % s[1]
+
+
+def parse_announce(text, lang):
+    u"""Разделы одного файла: {полоса: {'line': str или None, 'body': [...]}}.
+
+    Всё до первого заголовка раздела - пояснение для того, кто правит файл, и
+    на страницу не идёт.
+    """
+    names = dict((name, what) for what, name in ANNOUNCE_KEYS)
+    shown = set(row[1] for row in BANDS)
+    f = u'%s-announce.md' % lang
+    raw, cur = {}, None
+    for ln in text.split('\n'):
+        m = re.match(r'^##\s+(.+?)\s*$', ln)
+        if m:
+            name = m.group(1)
+            if name not in names:
+                raise AnnounceError(
+                    u'%s: раздел «%s» - такой полосы нет. Разделы называются '
+                    u'так: %s.' % (f, name, u', '.join(n for _, n in ANNOUNCE_KEYS)))
+            cur = names[name]
+            if cur in raw:
+                raise AnnounceError(u'%s: раздел «%s» написан дважды.' % (f, name))
+            if cur not in shown:
+                raise AnnounceError(
+                    u'%s: полосы «%s» сейчас нет на главной, анонс некуда '
+                    u'поставить.' % (f, name))
+            raw[cur] = []
+        elif ln.startswith('##'):
+            # «##Декларация» без пробела или «### Декларация» молча ушли бы в
+            # текст соседнего раздела или в пояснение - и анонс не встал бы.
+            raise AnnounceError(
+                u'%s: строка %r похожа на заголовок раздела, но записана не так. '
+                u'Нужно: два знака # и пробел, например «## Декларация».'
+                % (f, ln[:40]))
+        elif cur is not None:
+            raw[cur].append(ln)
+
+    allowed = ALLOWED_BY_LANG.get(lang, ())
+    label = dict(ANNOUNCE_KEYS)
+    out = {}
+    for what, lines in raw.items():
+        where = u'%s, раздел «%s»' % (f, label[what])
+        text = u'\n'.join(lines)
+        # Знаки проверяются ДО схлопывания пробелов: \s съедает неразрывный
+        # пробел, и после схлопывания проверка его уже не увидела бы. Так и
+        # вышло в первом прогоне тестов.
+        for para in re.split(r'\n[ \t]*\n', text):
+            bad = sorted(set(u'U+%04X %s' % (ord(c), FORBIDDEN[ord(c)])
+                             for c in para
+                             if ord(c) in FORBIDDEN and ord(c) not in allowed))
+            if bad:
+                raise AnnounceError(
+                    u'%s: в абзаце «%s» знаки, которых на сайте быть не должно: '
+                    u'%s.' % (where, para.strip()[:40], u', '.join(bad)))
+        bs = [re.sub(r'\s+', ' ', b.strip())
+              for b in re.split(r'\n\s*\n', text) if b.strip()]
+        if not bs:
+            raise AnnounceError(
+                u'%s: раздел пуст. Если анонс не нужен, уберите и заголовок - '
+                u'полоса покажет отрывок документа.' % where)
+        line = None
+        if bs[0].startswith('>'):
+            if what != 'address':
+                raise AnnounceError(
+                    u'%s: абзац со знаком «>» - это крупная строка, а она бывает '
+                    u'только у Обращения.' % where)
+            line = re.sub(r'^>\s*', '', bs.pop(0)).strip()
+            if not line:
+                raise AnnounceError(u'%s: крупная строка пуста.' % where)
+        for b in ([line] if line else []) + bs:
+            if b is not line and b.startswith('>'):
+                raise AnnounceError(
+                    u'%s: знак «>» стоит не в первом абзаце. Крупная строка одна '
+                    u'и идёт первой.' % where)
+            if (b[0] in '#|' or re.match(r'^([-*]|\d+\.)\s', b)
+                    or re.match(r'^-{3,}$', b)):
+                raise AnnounceError(
+                    u'%s: «%s» - не обычный абзац. В анонсе только абзацы: без '
+                    u'заголовков, списков, таблиц и линий.' % (where, b[:40]))
+            if b.count('**') % 2:
+                raise AnnounceError(
+                    u'%s: в абзаце «%s» не закрыто жирное - знаков ** нечётное '
+                    u'число.' % (where, b[:40]))
+        out[what] = {'line': line, 'body': bs}
+    return out
+
+
+_ANNOUNCES = {}
+
+
+def load_announces(d=None):
+    u"""Анонсы девяти языков, сверенные друг с другом. Один раз за прогон.
+
+    Проверка идёт по всем девяти файлам всегда, даже когда собирается один
+    язык: полоса переходит на анонс только всеми девятью разом, и узнать, что
+    перевод отстал, можно, только прочитав все девять.
+    """
+    d = d or ANNOUNCE_DIR
+    if d in _ANNOUNCES:
+        return _ANNOUNCES[d]
+    if not os.path.isdir(d):
+        raise AnnounceError(
+            u'нет папки анонсов %s. Она часть репозитория: без неё не видно, '
+            u'какие полосы стоят на анонсе.' % d)
+    got = {}
+    for lang in ALL_LANGS:
+        p = os.path.join(d, '%s-announce.md' % lang)
+        if not os.path.isfile(p):
+            raise AnnounceError(
+                u'нет файла %s-announce.md. Файлов девять, по одному на язык; '
+                u'файл без разделов законен, отсутствие файла - нет.' % lang)
+        got[lang] = parse_announce(io.open(p, encoding='utf-8').read(), lang)
+    extra = sorted(x for x in os.listdir(d) if not re.match(
+        r'^(%s)-announce\.md$' % '|'.join(ALL_LANGS), x))
+    if extra:
+        raise AnnounceError(
+            u'в папке анонсов лишние файлы: %s. Сборка их не читает, и правка в '
+            u'них на сайт не попала бы.' % u', '.join(extra))
+    for what, name in ANNOUNCE_KEYS:
+        have = [l for l in ALL_LANGS if what in got[l]]
+        if not have:
+            continue
+        if len(have) != len(ALL_LANGS):
+            raise AnnounceError(
+                u'анонс полосы «%s» есть в %s, но нет в %s. Полоса переходит на '
+                u'новый текст всеми девятью языками разом: допишите перевод или '
+                u'уберите раздел везде.' % (name, u', '.join(have), u', '.join(
+                    l for l in ALL_LANGS if l not in have)))
+        shape = dict((l, (got[l][what]['line'] is not None,
+                          len(got[l][what]['body']))) for l in ALL_LANGS)
+        off = [l for l in ALL_LANGS if shape[l] != shape['ru']]
+        if off:
+            raise AnnounceError(
+                u'анонс полосы «%s» по составу разный: в ru %s, а в %s. Перевод '
+                u'повторяет русский абзац в абзац.' % (name, _shape(shape['ru']),
+                u'; '.join(u'%s - %s' % (l, _shape(shape[l])) for l in off)))
+    # Раздел Обращения обязателен. Запасного отрывка у первой полосы нет:
+    # номера в BANDS указывали на абзацы прежнего текста Обращения, а текст с
+    # тех пор переписан - на месте блока 5 теперь заголовок раздела, и отрывок
+    # не собрался бы. Выбрать новый отрывок - решение о тексте, а не о коде;
+    # до такого решения полоса стоит только на анонсе.
+    no = [l for l in ALL_LANGS if not (got[l].get('address') or {}).get('body')]
+    if no:
+        raise AnnounceError(
+            u'раздела «Обращение» нет или в нём одна крупная строка без абзацев '
+            u'(%s). Этот раздел обязателен: запасного отрывка у первой полосы '
+            u'нет. Текст можно менять, раздел убирать нельзя.' % u', '.join(no))
+    _ANNOUNCES[d] = got
+    return got
+
+
+def announced(ann, what):
+    u"""Абзацы анонса полосы или None, если анонса у полосы нет."""
+    a = ann.get(what)
+    return a['body'] if a and a['body'] else None
+
+
+def home_line(ann, lang):
+    u"""Крупная строка первого экрана: из анонса, если она там написана,
+    иначе цитата из документа 02."""
+    a = ann.get('address')
+    return a['line'] if a and a['line'] else poster_line(lang)
+
+
+# ------------------------------------------------------------------ страница
+
+def head(lang, url, title, desc, path, extra_css=(), ld=None):
+    # path(код языка) -> адрес ЭТОЙ ЖЕ страницы на другом языке. Без него
+    # hreflang на странице Обращения вёл бы на главные других языков, то есть
+    # объявлял бы переводом не тот документ.
+    #
+    # path=None означает «языковых версий у страницы нет» - тогда hreflang не
+    # пишется вовсе. Это не мелкая поблажка: кластер hreflang обязан быть
+    # взаимным, и страница, объявившая девять переводов, которых не
+    # существует, зовёт краулера в девять четырёхсотых. Ровно на этом
+    # 2026-09-06 поймали примечания книги, обещавшие русскую страницу.
+    if path is None:
+        alts = ''
+        langs = []
+    else:
+        langs = [l for l in ALL_LANGS if os.path.isfile(
+            os.path.join(ADDRESS_DIR, '%s-address.md' % l))]
+        alts = ''.join(
+            '<link rel="alternate" hreflang="%s" href="%s%s">\n'
+            % (l, ORIGIN, path(l)) for l in langs)
+    # x-default ведёт на КОРЕНЬ, а не на английскую версию.
+    #
+    # Прежде он вёл на /en/, и из этого следовало два дефекта сразу. Первый:
+    # корень объявлял девять альтернатив, а обратной ссылки на него не было
+    # ни у одной - кластер получался невзаимным, и Google вправе не считать
+    # его кластером вовсе. Второй: x-default означает «страница для тех, чей
+    # язык не совпал ни с одним», и это ровно корень - выбор языка, - а не
+    # английская главная, которая такой же язык из девяти.
+    #
+    # На страницах документов x-default по-прежнему ведёт на английскую
+    # версию, и это верно: у документа нет языконезависимой формы.
+    if path is not None:
+        alts += ('<link rel="alternate" hreflang="x-default" href="%s/">\n'
+                 % ORIGIN)
+    ld = ld or {'@context': 'https://schema.org', '@type': 'WebPage',
+                'name': title, 'description': desc, 'inLanguage': lang,
+                'url': url,
+                'publisher': {'@type': 'Organization', 'name': 'Earthlings',
+                              'url': ORIGIN}}
+    css = C.font_preloads(lang) + [
+           '<link rel="stylesheet" href="/css/tokens.css">',
+           '<link rel="stylesheet" href="/css/chrome.css">',
+           '<link rel="stylesheet" href="/css/doc.css">'] + list(extra_css) \
+        + C.script_css(lang) \
+        + ['<link rel="stylesheet" href="/css/print.css" media="print">']
+    return '\n'.join([
+        '<!DOCTYPE html>',
+        '<html lang="%s"%s>' % (lang, ' dir="rtl"' if lang in C.RTL else ''),
+        '<head>',
+        '<meta charset="UTF-8">',
+        '<meta name="viewport" content="width=device-width, initial-scale=1">',
+        '<title>%s</title>' % C.esc(title),
+        '<meta name="description" content="%s">' % C.esc(desc),
+        HEAD_ICONS,
+    ] + css + [
+        '<script defer src="/js/chrome.js"></script>',
+        '<meta name="robots" content="index, follow">',
+        '<meta property="og:type" content="website">',
+        '<meta property="og:url" content="%s">' % url,
+        '<meta property="og:title" content="%s">' % C.esc(title),
+        '<meta property="og:description" content="%s">' % C.esc(desc),
+        '<meta property="og:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<meta property="og:site_name" content="Earthlings">',
+        '<meta property="og:locale" content="%s">' % OG_LOCALE[lang],
+        '<meta name="twitter:card" content="summary_large_image">',
+        '<meta name="twitter:title" content="%s">' % C.esc(title),
+        '<meta name="twitter:description" content="%s">' % C.esc(desc),
+        '<meta name="twitter:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<link rel="canonical" href="%s">' % url,
+        '<script type="application/ld+json">',
+        json.dumps(ld, ensure_ascii=False, separators=(',', ':')),
+        '</script>',
+        alts.rstrip(),
+        '</head>',
+    ])
+
+
+def wrap(lang, inner, url, title, desc, path, extra_css=(), ld=None,
+         lang_url=None):
+    href = lambda n: doc_href(n, lang)                     # noqa: E731
+    have = lambda n: has_doc(n, lang)                      # noqa: E731
+    # Переключатель языка в шапке и hreflang в голове - две РАЗНЫЕ вещи, и у
+    # страницы без переводов они расходятся. hreflang молчит (path=None):
+    # переводов нет, обещать нечего. Переключатель обязан остаться рабочим -
+    # он есть на каждой странице сайта, - и уводит на главную выбранного
+    # языка. Пока это был один аргумент на двоих, страницу без переводов
+    # нельзя было собрать, не сломав шапку.
+    lang_url = lang_url or path
+    assert lang_url, u'шапке нечего дать переключателю языка: %s' % url
+    return '\n'.join([
+        head(lang, url, title, desc, path, extra_css, ld),
+        '<body>',
+        C.header_html(lang, doc_href=href, lang_url=lang_url,
+                      home_url='/%s/' % lang, has_doc=have),
+        inner,
+        # Главная, Обращение и корень прижимают подвал: последняя полоса
+        # у них цветная.
+        C.footer_html(lang, doc_href=href, has_doc=have, flush=True),
+        # Счётчик. Его не было ни на одной главной, ни на одном Обращении, ни
+        # на корне - то есть на всём входе на сайт. Корпус мерился, посадка
+        # нет.
+        UMAMI,
+        '</body>', '</html>', '',
+    ])
+
+
+# ------------------------------------------------------------------ полосы
+
+def decl_title(lang):
+    u"""Название Декларации на языке lang - из собранной страницы, а не из
+    мастера: мастера есть только у трёх языков, а слайдер показывает девять.
+
+    Мнемоники разворачиваются обратно в знаки. Источник - готовый HTML, и
+    апостроф лежит там как `&#x27;`. Без разворота его снова экранировали при
+    выводе, и по-французски на главной стояло «Declaration sur l&#x27;...» -
+    прямо так, знаками. Заметно это только на языках с апострофом в названии.
+
+    Сначала смотрим в `_v2`, и только потом в боевое дерево. Боевое заморожено
+    и не пересобирается, поэтому переименование Декларации 2026-08-26 до него
+    не дошло бы никогда: слайдер черновика показывал бы старые названия на всех
+    девяти языках. В боевое дерево заглядываем только ради хинди - у него
+    страницы есть, а мастеров нет.
+    """
+    import glob
+    import html
+    f = (glob.glob(os.path.join(SITE, '_v2', 'documents', lang, '%s01*.html' % lang))
+         or glob.glob(os.path.join(SITE, 'documents', lang, '%s01*.html' % lang)))
+    assert f, u'нет собранной страницы %s01 - слайдеру нечего показать' % lang
+    s = io.open(f[0], encoding='utf-8').read()
+    m = re.search(r'<h1[^>]*>(.*?)</h1>', s, re.S)
+    assert m, u'в %s нет заголовка h1' % f[0]
+    t = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', m.group(1))).strip()
+    t = html.unescape(t)
+    assert '&' not in t or '&amp;' not in t, (
+        u'в названии Декларации (%s) осталась мнемоника: %r' % (lang, t))
+    return t
+
+
+def langlist(lang, href_of=None):
+    u"""Девять строк: название Декларации на каждом из девяти языков.
+
+    href_of(код) задаёт, куда ведёт строка. По умолчанию - в Декларацию на этом
+    языке; корневая страница передаёт сюда языковые главные, потому что она
+    выбор языка, а не вход в один документ.
+
+    Единственный по-настоящему свой визуальный актив сайта - корпус на девяти
+    письменностях. Здесь они и показаны: девять названий подряд, три в ряд, и
+    каждое - вход в свою версию Декларации.
+
+    Прежде это была лента скошенных карточек с боковой прокруткой. Она
+    занимала полосу целиком, а больше четырёх с половиной карточек в окно не
+    помещалось - об остальных приходилось догадываться. Решение Артура
+    2026-08-22: рамок нет, прокрутки нет, девять письменностей на виду сразу.
+    """
+    # Общей белой плиты вокруг девяти названий нет (решение Артура
+    # 2026-08-25 отменено им же 26-го). Плита не сработала: карточки внутри
+    # неё были белыми же, и разделяли их волоски в 1px. Светлой стала каждая
+    # карточка по отдельности, а между ними просвет, в котором виден цвет
+    # полосы - так это устроено у epic.org, откуда взят весь язык формы.
+    href_of = href_of or (lambda c: doc_href('01', c))
+    o = [u'<ul class="langlist" aria-label="%s">'
+         % C.esc(C.x(lang, 'lang_switcher'))]
+    for code in C.ALL_LANGS:
+        rtl = u' dir="rtl"' if code in C.RTL else u''
+        o.append(u'<li><a href="%s" lang="%s"%s>'
+                 u'<span class="langlist-lang">%s</span>'
+                 u'<span class="langlist-title">%s</span></a></li>'
+                 % (C.esc(href_of(code)), code, rtl,
+                    C.esc(C.LANG_LABEL[code]), C.esc(decl_title(code))))
+    o.append(u'</ul>')
+    return u'\n'.join(o)
+
+
+# Даты вех учредительного периода в машинном виде. В тексте мастеров они
+# написаны словами и на девяти языках по-своему, разбирать их разбором строки
+# значило бы гадать. Здесь они один раз и для всех языков; число обязано
+# совпасть с числом пунктов в мастере, иначе сборка падает.
+PERIOD_DATES = ['2026-10-22', '2027-01-20', '2027-02-03', '2027-02-17']
+
+# Родительный падеж месяцев - так даты стоят в русском мастере 20. Нужен только
+# для сверки PERIOD_DATES с текстом: 2026-08-26 даты периода сдвинули на 45 дней
+# в мастерах, а здесь нет, и до 2026-09-13 шкала на девяти главных показывала
+# приём предложений уже открытым. Проверка одного числа вех этого не видела.
+RU_MONTHS = [u'января', u'февраля', u'марта', u'апреля', u'мая', u'июня', u'июля',
+             u'августа', u'сентября', u'октября', u'ноября', u'декабря']
+
+# Абзац документа 04 с перечнем правовых форм. Якорь - начало русского абзаца.
+FORMS_ANCHOR = u'Право предоставляет форму'
+
+
+def timeline(lang):
+    u"""Шкала учредительного периода: четыре вехи из раздела «Сроки».
+
+    Пункты берутся из мастера как есть - `- **дата** - что происходит`. Такой
+    же список лежит в английском и немецком мастере: корпус переводится блок в
+    блок, поэтому разбор один на все языки.
+
+    Какая веха текущая, страница не знает и знать не может: она статическая, а
+    собирается раз в несколько недель. Проставить «сейчас здесь» при сборке
+    значило бы соврать через месяц. Поэтому у каждой вехи стоит дата в
+    машинном виде, а подсветку ставит крошечный скрипт при показе. Без него
+    шкала читается полностью, просто без подсветки.
+    """
+    md = doc_master('20', lang)
+    items = re.findall(r'^-\s+\*\*(.+?)\*\*\s+-\s+(.+)$', md, re.M)
+    assert len(items) == len(PERIOD_DATES), (
+        u'в мастере 20 (%s) вех %d, а дат в PERIOD_DATES %d - раздел «Сроки» '
+        u'правили, шкала разошлась с текстом'
+        % (lang, len(items), len(PERIOD_DATES)))
+    # Даты сверяются с русским мастером при сборке любого языка.
+    ru_items = re.findall(r'^-\s+\*\*(.+?)\*\*\s+-\s+(.+)$',
+                          doc_master('20', 'ru'), re.M)
+    assert len(ru_items) == len(PERIOD_DATES), (
+        u'в мастере 20 (ru) вех %d, а дат в PERIOD_DATES %d'
+        % (len(ru_items), len(PERIOD_DATES)))
+    for (date_text, _), iso in zip(ru_items, PERIOD_DATES):
+        m = re.match(u'(\\d{1,2}) (\\S+) (\\d{4})$', date_text.strip())
+        assert m and m.group(2) in RU_MONTHS, (
+            u'веха мастера 20 (ru) %r не разбирается как дата' % date_text)
+        got = u'%s-%02d-%02d' % (m.group(3), RU_MONTHS.index(m.group(2)) + 1,
+                                 int(m.group(1)))
+        assert got == iso, (
+            u'в мастере 20 (ru) веха %r, а в PERIOD_DATES %s - даты периода '
+            u'правили, шкала разошлась с текстом' % (date_text, iso))
+    o = [u'<ol class="timeline">']
+    for (date_text, what), iso in zip(items, PERIOD_DATES):
+        # у третьей вехи после первой фразы идут подробности - на шкале лишние
+        # Данда U+0964 добавлена в класс 2026-08-26: это основной знак
+        # конца фразы деванагари, и без неё хинди резался не там.
+        first_sentence = re.split(r'(?<=[.!?。！？।॥])\s*(?=\S)', what.strip())[0]
+        o.append(u'<li class="tl-step" data-date="%s">'
+                 u'<span class="tl-date">%s</span>'
+                 u'<span class="tl-text">%s</span></li>'
+                 % (iso, C.esc(date_text.strip()), md_inline(first_sentence)))
+    o.append(u'</ol>')
+    return u'\n'.join(o)
+
+
+def ladder(lang):
+    u"""Лестница правовых форм из документа 04.
+
+    Документ перечисляет формы, которые право даёт объединениям людей - от
+    брака до международной организации, - и заканчивает: на уровне
+    человечества формы нет. Это и есть недостающая ступень, ради которой
+    существует проект, и рисовать её выдуманной схемой было бы нечестно:
+    здесь ровно слова мастера.
+
+    Разбор один на все языки: двоеточие, перечисление через запятую, тире.
+    Тире везде ASCII с пробелами - это правило типографики корпуса, а не
+    удача. Число форм обязано совпасть на всех языках, иначе сборка падает.
+    """
+    # Номер блока ищем в русском мастере всегда, а не только когда собираем
+    # русскую страницу: иначе сборка одного немецкого языка зависела бы от
+    # того, собирали ли перед этим русский.
+    #
+    # Блоки, а не абзацы прозы: отбор прозы отбрасывает короткие строки, а
+    # короткие они по-разному в разных языках, и номер уезжал бы на перевод.
+    ru = blocks(doc_master('04', 'ru'))
+    idx = [i for i, b in enumerate(ru) if b.startswith(FORMS_ANCHOR)]
+    assert idx, (u'в мастере 04 не нашёлся абзац, начинающийся на %r - '
+                 u'лестницу строить не из чего' % FORMS_ANCHOR)
+    ps = blocks(doc_master('04', lang))
+    assert len(ps) == len(ru), (
+        u'мастер 04 (%s) состоит из %d блоков, а русский - из %d: структура '
+        u'разошлась, лестница собралась бы из чужого абзаца'
+        % (lang, len(ps), len(ru)))
+    p = ps[idx[0]]
+    head, sep, rest = p.partition(':')
+    assert sep, u'в абзаце форм (%s) нет двоеточия' % lang
+    enum, sep2, tail = rest.partition(' - ')
+    assert sep2, u'в абзаце форм (%s) нет тире после перечисления' % lang
+    # Запятая у языков разная. Арабская ، (U+060C) и китайская 、 (U+3001) -
+    # не «красивые варианты» ASCII-запятой, а единственно правильные знаки
+    # своего набора, и разбор обязан знать все три. Китайский мастер обошёл
+    # это ASCII-запятыми в одном абзаце; повторять обход для арабского нельзя -
+    # ASCII-запятая в арабской строке читается как опечатка.
+    #
+    # И ещё одно, чего нет ни у одного прежнего языка: арабский соединяет
+    # однородные члены союзом و перед КАЖДЫМ, начиная со второго -
+    # «الزواج، والشركة، والجماعة». Союз принадлежит перечислению, а не слову,
+    # и в ступень лестницы попадать не должен: там стоит название формы.
+    forms = [x.strip() for x in re.split(u'[,،、]', enum) if x.strip()]
+    if lang == 'ar':
+        forms = [re.sub(u'^و(?=\\S)', u'', f) for f in forms]
+    assert len(forms) == 8, (
+        u'в мастере 04 (%s) форм %d, а не 8: %r. Абзац правили - проверьте '
+        u'разбор.' % (lang, len(forms), forms))
+    # последняя фраза абзаца и есть недостающая ступень
+    gap = re.split(r'(?<=[.!?。！？।॥])\s*(?=\S)', tail.strip())[-1].strip()
+    assert gap, u'в абзаце форм (%s) не нашлась заключительная фраза' % lang
+
+    o = [u'<ol class="ladder">']
+    for i, f in enumerate(forms):
+        o.append(u'<li class="ladder-step" style="--i:%d">%s</li>'
+                 % (i, C.esc(f)))
+    o.append(u'<li class="ladder-step ladder-gap" style="--i:8">%s</li>'
+             % C.esc(gap))
+    o.append(u'</ol>')
+    return u'\n'.join(o)
+
+
+def objections(theme, lang, ann=None):
+    u"""Полоса «Возражения и ответы»: три возражения и ответы на них.
+
+    Возражения набраны вопросами, ответы - абзацами под ними. Разметка
+    <dl>/<dt>/<dd>, а не заголовки с абзацами: это в буквальном смысле список
+    определений - на каждый пункт свой ответ, - и читалка озвучивает его как
+    пары, а не как разделы документа.
+
+    Текст дословный. Пересказывать возражение своими словами здесь было бы
+    хуже всего: возражение, пересказанное тем, кто на него отвечает, всегда
+    выходит слабее исходного, и это видно.
+    """
+    bs = blocks(doc_master('26', lang))
+    ru = blocks(doc_master('26', 'ru'))
+    assert len(bs) == len(ru), (
+        u'мастер 26 (%s) состоит из %d блоков, а русский - из %d: возражения '
+        u'собрались бы из чужих абзацев' % (lang, len(bs), len(ru)))
+
+    items = []
+    for q, answers, anchor in OBJECTIONS:
+        got = ru[q - 1]
+        assert got.startswith(anchor), (
+            u'возражение №%d мастера 26 начинается на %r, а ожидалось %r. '
+            u'Мастер правили - выберите номера заново.' % (q, got[:60], anchor))
+        question = re.sub(r'^#+\s*', '', bs[q - 1]).strip()
+        assert question and not question.startswith('#'), (
+            u'блок %d мастера 26 (%s) - не заголовок возражения: %r'
+            % (q, lang, bs[q - 1][:60]))
+        ps = []
+        for a in answers:
+            assert is_prose(bs[a - 1]), (
+                u'блок %d мастера 26 (%s) - не абзац ответа, а %r'
+                % (a, lang, bs[a - 1][:60]))
+            ps.append(bs[a - 1])
+        items.append((question, ps))
+    assert len(items) == 3, u'возражений должно быть три, а вышло %d' % len(items)
+
+    li = u''.join(
+        u'<dt class="objection-q">%s</dt><dd class="objection-a">%s</dd>'
+        % (md_inline(q), u''.join(u'<p>%s</p>' % md_inline(p) for p in ps))
+        for q, ps in items)
+
+    return u'\n'.join(x for x in [
+        u'<section class="band band--%s band--objections">' % theme,
+        u'<div class="band-in">',
+        u'<h2 class="band-title">%s</h2>'
+        % C.esc(title_of(doc_master('26', lang))),
+        # Анонс встаёт между заголовком и возражениями. Сами возражения и ответы
+        # остаются дословными: пересказ ослабил бы их (см. докстринг).
+        (u'<div class="band-lead">%s</div>'
+         % u''.join(u'<p>%s</p>' % md_inline(p) for p in ann)) if ann else None,
+        u'<dl class="objections">%s</dl>' % li,
+        u'<a class="band-more" href="%s">%s</a>'
+        % (C.esc(doc_href('26', lang)), C.esc(C.x(lang, 'all_objections'))),
+        u'</div></section>',
+    ] if x is not None)
+
+
+def state(theme, lang):
+    u"""Полоса «Где мы сейчас»: что построено и что можно проверить самому.
+
+    Стоит сразу за платформой не случайно. Человек только что видел на экране
+    работающее приложение - и полоса называет работающим то, что он видел, и
+    тут же ставит границу: вот что открыто, вот что закрыто, и ни одна
+    закрытая часть не решает, кто такой earthling и как считается голос.
+
+    Ссылка ведёт в документ 32, а не в 23: проверять человек пойдёт туда, где
+    описан способ проверки, а не туда, где сказано, что всё построено.
+    """
+    assert has_doc(STATE_BUILT_DOC, lang) and has_doc(STATE_CHECK_DOC, lang), (
+        u'нет документов %s или %s на языке %s'
+        % (STATE_BUILT_DOC, STATE_CHECK_DOC, lang))
+    ps = (lead(load, STATE_BUILT_DOC, STATE_BUILT, STATE_BUILT_ANCHOR, lang)
+          + lead(load, STATE_CHECK_DOC, STATE_CHECK, STATE_CHECK_ANCHOR, lang))
+    return band(theme, title_of(doc_master(STATE_CHECK_DOC, lang)), ps,
+                more=(C.x(lang, 'verify_yourself'),
+                      doc_href(STATE_CHECK_DOC, lang)))
+
+
+def join(theme, lang, ann=None):
+    u"""Последняя полоса: одна строка и одна кнопка.
+
+    Ни заголовка, ни ссылки «читать целиком» здесь нет намеренно. Всё, что
+    можно было прочитать, человек уже прошёл; на последнем экране у него
+    должно остаться одно действие, а не выбор из двух.
+
+    Строка над кнопкой - ЗАГЛУШКА (блок 15 мастера 23) до решения Артура о
+    том, как назвать кнопку и что написать под ней.
+    """
+    # Фраза словом, кнопка отдельно (решение Артура 2026-08-25). С 23 августа
+    # всё предложение само было кнопкой - тогда это сняло расхождение: фраза
+    # звала проверить, а кнопка вступить. Теперь фраза кончается на «открыто»
+    # и ничего не предлагает сама, поэтому разделить их снова можно и нужно:
+    # утверждение читается утверждением, действие остаётся действием.
+    #
+    # Кнопка - та же band-cta, что во всех прочих полосах. Второго синего не
+    # заводится: у сайта один цвет действия.
+    if ann:
+        # Анонс: каждый абзац раздела - строка фразы. Перенос по-прежнему
+        # задаёт автор, только теперь пустой строкой в файле анонсов.
+        line = u'<br>'.join(md_inline(p) for p in ann)
+    else:
+        parts = C.x(lang, 'join_line')
+        assert isinstance(parts, list) and len(parts) == 2, (
+            u'строка последней полосы (%s) хранится не двумя частями. Перенос в '
+            u'ней задан Артуром и ставится разметкой, а не переносом по ширине: '
+            u'по ширине он попал бы в разное место на разных экранах.' % lang)
+        line = u'%s<br>%s' % (C.esc(parts[0]), C.esc(parts[1]))
+
+    return u'\n'.join([
+        u'<section class="band band--%s band--join">' % theme,
+        u'<div class="band-in">',
+        # Карточка: фраза и кнопка вместе. Приём тот же, что у девяти языковых
+        # версий Декларации и у шести шагов, - светлая заливка и линейка
+        # сверху. Кнопка стоит ПОД фразой, а не рядом: две центрованные строки
+        # и действие под ними читаются закрывающим утверждением, а текст с
+        # кнопкой сбоку - объявлением.
+        u'<div class="join-card">',
+        u'<p class="join-line">%s</p>' % line,
+        u'<a class="band-cta" href="%s">%s</a>'
+        % (C.esc(C.CTA_URL % lang), C.esc(C.t(lang, 'nav.become_earthling'))),
+        u'</div>',
+        u'</div></section>',
+    ])
+
+
+def poster_line(lang):
+    u"""Крупная строка плаката: одна цитата из мастера документа 02.
+
+    Проверок две, те же, что у lead(), и по той же причине. Первая: число
+    блоков в языке обязано совпасть с русским - переводы корпуса зеркалят
+    мастер блок в блок, и раз число разошлось, номер 243 указывает в этом
+    языке уже не на ту строку. Вторая: русский блок начинается с якоря - она
+    ловит правку внутри мастера, от которой число блоков не меняется.
+
+    Маркер цитаты снимается: в мастере это выделенная строка, на плакате она
+    и так набрана крупно, и «>» перед ней был бы мусором.
+    """
+    # Проверяется наличие МАСТЕРА, а не наличие документа в составе корпуса.
+    # Это разные вещи, и связывать их нельзя: LANGS_BY_DOC решает, собирается
+    # ли страница и показывается ли пункт меню, а плакату нужен только текст.
+    # 2026-08-23 их спутали: грузинский исключили из документа 02 на время
+    # заморозки, и грузинская главная перестала собираться, хотя цитировать
+    # ей было из чего - мастер лежит на месте.
+    p = os.path.join(md_dir(lang), corpus_file(POSTER_LINE_DOC, lang))
+    assert os.path.isfile(p), (
+        u'нет мастера %s на языке %s (%s) - плакат собрать не из чего'
+        % (POSTER_LINE_DOC, lang, p))
+    ru = blocks(doc_master(POSTER_LINE_DOC, 'ru'))
+    bs = ru if lang == 'ru' else blocks(doc_master(POSTER_LINE_DOC, lang))
+    assert len(bs) == len(ru), (
+        u'мастер %s (%s) состоит из %d блоков, а русский - из %d. Номер строки '
+        u'плаката указывает в этом языке на другой блок. Сверьте мастера.'
+        % (POSTER_LINE_DOC, lang, len(bs), len(ru)))
+    assert 1 <= POSTER_LINE_BLOCK <= len(bs), (
+        u'в мастере %s всего %d блоков, а плакат просит №%d'
+        % (POSTER_LINE_DOC, len(bs), POSTER_LINE_BLOCK))
+    got = ru[POSTER_LINE_BLOCK - 1]
+    assert got.startswith(POSTER_LINE_ANCHOR), (
+        u'строка плаката разошлась с мастером %s: блок №%d начинается на %r, а '
+        u'ожидалось %r. Мастер правили - выберите номер заново.'
+        % (POSTER_LINE_DOC, POSTER_LINE_BLOCK, got[:60], POSTER_LINE_ANCHOR))
+    line = re.sub(r'^>\s*', '', bs[POSTER_LINE_BLOCK - 1]).strip()
+    assert line, u'блок №%d мастера %s (%s) пуст после снятия маркера цитаты' % (
+        POSTER_LINE_BLOCK, POSTER_LINE_DOC, lang)
+    return line
+
+
+def poster(theme, kicker, line, body, more):
+    u"""Первая полоса: Обращение плакатом.
+
+    Крупная строка - первые фразы Обращения слово в слово, дальше продолжение
+    того же абзаца мелким в две колонки. Картинок у сайта нет ни одной, и это
+    не беда: у Обращения есть голос, и набранный крупно он работает лучше
+    любой фотографии.
+    """
+    return u'\n'.join([
+        u'<section class="band band--%s band--poster">' % theme,
+        u'<div class="band-in">',
+        u'<p class="band-kicker">%s</p>' % C.esc(kicker),
+        u'<h1 class="poster-line">%s</h1>' % md_inline(line),
+        u'<div class="poster-body">%s</div>'
+        % u''.join(u'<p>%s</p>' % md_inline(p) for p in body),
+        u'<a class="band-more" href="%s">%s</a>' % (C.esc(more[1]), C.esc(more[0])),
+        u'</div></section>',
+    ])
+
+
+def awakened(theme, lang):
+    u"""Полоса Awakened Code: он сам, живьём, во всю полосу.
+
+    Не снимок экрана и не пересказ, а настоящая страница в iframe. Три довода:
+    Awakened Code переносится на новый сайт КАК ЕСТЬ (решение Артура), значит
+    копии быть не должно; дублирования нет - расходиться нечему; и он правда
+    живой, со своей бегущей строкой и пульсацией.
+
+    Ни рамки монитора, ни списка эссе рядом (решение Артура 2026-08-22):
+    заголовок по центру, под ним экран во всю ширину окна, под экраном ссылка.
+    Причина не в украшательстве - у Awakened Code по краям две ленты по шесть
+    эссе, и в рамке они не помещались: уже сама ширина рамки на ноутбуке
+    уводила его в мобильную раскладку, где ленты прячутся под кнопку. Экран во
+    всю ширину показывает все двенадцать, и список из шести рядом после этого
+    был бы повтором половины того, что и так видно живьём.
+
+    Грузится лениво: страница остаётся лёгкой, а 130 КБ его скриптов приезжают
+    только когда до полосы доскроллили. Заголовок и ссылка лежат в HTML
+    отдельно от экрана, поэтому правило «страница читается без JS» держится:
+    экран - это декорация, а не содержание. Данные sliders.json полосе больше
+    не нужны - названия эссе показывает сам Awakened Code внутри рамки.
+    """
+    return u'\n'.join([
+        u'<section class="band band--%s band--code">' % theme,
+        u'<div class="band-in code-row">',
+        u'<h2 class="band-title">%s</h2>' % C.esc(C.t(lang, 'nav.awakened_code')),
+        u'<div class="code-screen">',
+        # embed=1 просит Awakened Code убрать свой переключатель языка и
+        # кнопку «К Earthlings»: язык уже выбран страницей, а возвращаться
+        # некуда - мы и так на ней. Он же включает там компактную раскладку
+        # лент, в которой все шесть эссе умещаются в высоту полосы.
+        #
+        # Язык обязателен. Без него Awakened Code определяет его сам, и в
+        # рамке на арабской или английской главной говорил по-русски: своего
+        # языка страница ему не передавала, а localStorage у свежего
+        # посетителя пуст.
+        #
+        # Передаётся ХЕШЕМ, а не запросом. В боевом vhost на уровне server, а
+        # не location, стоит правило против дублей от прежнего SPA:
+        #
+        #     if ($arg_lang ~ "^(ru|en|de|es|fr|ar|hi|zh|ka)$") {
+        #         return 301 https://earth-lings.org/$arg_lang/;
+        #     }
+        #
+        # Оно срабатывает на ЛЮБОМ пути. Прежний адрес
+        # /awakened_code/?embed=1&lang=ru получал 301 на /ru/, и главная
+        # показывала саму себя внутри собственной рамки - на девяти языках
+        # сразу. На черновиковом поддомене такого правила нет, поэтому
+        # браузером это не ловилось: расхождение вылезло бы в день подмены.
+        #
+        # Хеш на сервер не уходит, и правило его не видит. embed=1 остаётся в
+        # запросе: под правило он не подпадает, а Awakened Code читает его
+        # из location.search.
+        #
+        # Читать #lang= умеет копия в _v2/awakened_code/ - решение Артура
+        # 2026-09-01 перенести раздел внутрь нового сайта. В боевой копии
+        # этого нет, и она остаётся нетронутой.
+        u'<iframe src="/awakened_code/?embed=1#lang=%s" loading="lazy" '
+        u'title="%s"></iframe>'
+        % (lang, C.esc(C.t(lang, 'nav.awakened_code'))),
+        u'</div>',
+        u'<a class="band-more" href="/awakened_code/">%s</a>'
+        % C.esc(C.x(lang, 'open_site')),
+        u'</div></section>',
+    ])
+
+
+# Платформа лежит соседним репозиторием: сайт и платформа - разные проекты, и
+# сводить их в один репозиторий незачем. Путь переопределяется переменной
+# окружения, как и путь к сайту в build_site_docs.
+PLATFORM = os.environ.get('EARTHLINGS_PLATFORM') or os.path.join(
+    os.path.dirname(SITE), 'earthlings-platform')
+PLATFORM_APP = os.path.join(PLATFORM, 'app-starter')
+# Адрес тура на живой платформе. Файлы названы по образцу `cells_ru.html`.
+TOUR_URL = 'https://app.earth-lings.org/assets/tours/%s/%s_%s.html'
+
+
+def _plat(lang):
+    u"""Раздел `tours` из словаря платформы. Именно из её словаря, а не из
+    словарей сайта: эти строки принадлежат платформе, и вторая их копия на
+    стороне сайта разошлась бы с первой."""
+    p = os.path.join(PLATFORM_APP, 'assets', 'js', 'i18n', '%s.json' % lang)
+    assert os.path.isfile(p), (
+        u'нет словаря платформы %s. Полоса платформы собирается из живых '
+        u'словарей соседнего репозитория; если он лежит в другом месте, '
+        u'укажите его переменной EARTHLINGS_PLATFORM.' % p)
+    d = json.load(io.open(p, encoding='utf-8')).get('tours')
+    assert d, u'в словаре платформы %s нет раздела tours' % lang
+    return d
+
+
+def tour_label(lang):
+    u"""Подпись над лентой - «Интерактивный тур» платформы на девяти языках."""
+    v = _plat(lang).get('buttonText')
+    assert v, u'в словаре платформы %s нет tours.buttonText' % lang
+    return v
+
+
+def tour_newtab(lang):
+    u"""«Открыть в новой вкладке» - подпись ссылки в адресной строке рамки.
+    Лежит у платформы готовой на девяти языках, сочинять её незачем."""
+    v = _plat(lang).get('openInNewTab')
+    assert v, u'в словаре платформы %s нет tours.openInNewTab' % lang
+    return v
+
+
+def tours(lang):
+    u"""Названия туров платформы на языке lang.
+
+    Берутся ЖИВЫМИ из словарей самой платформы, а не переписываются сюда.
+    Названия разделов - вещь платформы, и вторая копия разошлась бы с первой
+    ровно так же, как разошлись когда-то меню сайта и его переводы.
+
+    Порядок задаёт русский словарь: он и есть мастер. Каждый язык обязан иметь
+    все тринадцать названий и все тринадцать файлов туров, иначе на главной
+    появилась бы карточка, ведущая в никуда.
+
+    Берётся `tours.sections`, а не `tours.<id>.title` из разметки платформы:
+    ключей `tours.<id>.title` в словарях нет ни одного, поэтому карточки на
+    самой платформе стоят русскими на всех языках. Это её отдельный дефект,
+    и чинить его надо там; здесь достаточно не повторить его.
+    """
+    ru = _plat(u'ru').get('sections')
+    mine = _plat(lang).get('sections')
+    assert ru and mine, u'в словаре платформы (%s) нет tours.sections' % lang
+    out = []
+    for tid in ru:
+        name = mine.get(tid)
+        assert name, (
+            u'в словаре платформы %s нет названия тура %r - карточка встала бы '
+            u'на чужом языке' % (lang, tid))
+        f = os.path.join(PLATFORM_APP, 'assets', 'tours', lang,
+                         '%s_%s.html' % (tid, lang))
+        assert os.path.isfile(f), (
+            u'нет файла тура %s - карточка вела бы в никуда' % f)
+        out.append((tid, name))
+    assert out, u'у платформы не нашлось ни одного тура'
+    return out
+
+
+def platform(theme, lang, title, lead_ps):
+    u"""Полоса платформы: слева текст, справа живой тур, под ними карточки.
+
+    В рамке идёт НАСТОЯЩАЯ страница тура с платформы, а не снимок, и туры
+    сменяют друг друга по кругу. Карточки под экраном - и оглавление, и
+    переключатель: нажатие меняет то, что идёт на экране, а не уводит со
+    страницы.
+
+    Карточки прямые. Языковой слайдер тремя полосами выше скошен, и повторять
+    скос значило бы сделать две разные вещи на одно лицо: там девять
+    письменностей одного текста, здесь тринадцать разделов работающего
+    приложения. Разное содержание - разная форма.
+
+    ЧТО ПРОИСХОДИТ БЕЗ СКРИПТА. Рамка помечена hidden и не показывается вовсе:
+    пустой экран с кнопкой, которая ничего не делает, хуже, чем его отсутствие.
+    Остаётся текст и тринадцать карточек обычными ссылками на туры - полоса
+    читается и работает целиком. Скрипт только поднимает рамку и перехватывает
+    нажатия. Правило «страница не зависит от JS» этим не нарушено: экран -
+    декорация, содержание лежит в разметке.
+
+    Кнопка остановки не украшение: показ, который сам меняется дольше пяти
+    секунд, обязан иметь способ остановки (WCAG 2.2.2). Наведение и фокус
+    останавливают его тоже, но одного наведения мало - с клавиатуры и с
+    сенсорного экрана его нет.
+    """
+    items = tours(lang)
+    cards = u''.join(
+        u'<li class="tourcard"><a href="%s" data-tour="%s">'
+        u'<span class="tourcard-title">%s</span></a></li>'
+        % (C.esc(TOUR_URL % (lang, tid, lang)), C.esc(tid), C.esc(name))
+        for tid, name in items)
+
+    label = C.esc(tour_label(lang))
+    first = TOUR_URL % (lang, items[0][0], lang)
+    return u'\n'.join([
+        u'<section class="band band--%s band--platform">' % theme,
+        u'<div class="band-in">',
+        u'<div class="platform-row">',
+        u'<div class="platform-text">',
+        u'<h2 class="band-title">%s</h2>' % C.esc(title),
+        u'<div class="band-lead">%s</div>'
+        % u''.join(u'<p>%s</p>' % md_inline(p) for p in lead_ps),
+        u'</div>',
+        # hidden снимает скрипт. Атрибут, а не класс: без скрипта рамку прячет
+        # сам браузер, и ни одного правила CSS для этого не нужно.
+        u'<div class="platform-screen" data-tours hidden>',
+        # Полосы браузера сверху нет (решение Артура 2026-08-22): в рамке
+        # показывается просто чистый тур. Обязательной она и не была - тур
+        # внутри интерактивен, его листают прямо здесь, а карточки под
+        # экраном ведут в него же обычными ссылками.
+        u'<div class="browser">',
+        u'<div class="browser-screen" data-screen></div>',
+        u'</div>',
+        u'<button type="button" class="tour-toggle" data-toggle '
+        u'aria-pressed="false" data-pause="%s" data-resume="%s">%s</button>'
+        % (C.esc(C.x(lang, 'pause')), C.esc(C.x(lang, 'resume')),
+           C.esc(C.x(lang, 'pause'))),
+        u'</div>',
+        u'</div>',
+        u'<p class="platform-tours-label">%s</p>' % label,
+        u'<ul class="tourslider" aria-label="%s">%s</ul>' % (label, cards),
+        # Ссылка в документ и кнопка платформы стоят в самом низу полосы
+        # (решение Артура 2026-08-25). Прежде они были в текстовой колонке
+        # слева, то есть человек встречал предложение уйти со страницы раньше,
+        # чем видел, куда его зовут: экран тура и тринадцать карточек идут
+        # ниже. Теперь сначала всё показано, и только потом два выхода.
+        #
+        # В тот же день их ненадолго вернули в колонку - рамку тура подняли, и
+        # слева образовалась пустота. Рамку откатили, вернулось и это место.
+        u'<div class="platform-acts">',
+        u'<a class="band-more" href="%s">%s</a>'
+        % (C.esc(doc_href('12', lang)),
+           C.esc(C.x(lang, 'how_platform_works'))),
+        u'<a class="band-cta" href="%s">%s</a>'
+        % (C.esc(C.APP_URL % lang), C.esc(C.t(lang, 'nav.platform_btn'))),
+        u'</div>',
+        u'</div></section>',
+    ])
+
+
+# Раздел «Шесть шагов» документа 14 в номерах блоков. Номера, а не поиск по
+# тексту: искать «## 2.» значило бы завязаться на нумерацию разделов, а её
+# правят чаще, чем состав документа. Каждый номер проверяется разбором: не
+# разобралось - сборка падает.
+STEPS_HEAD = 13                  # «## 2. Шесть шагов»
+STEPS_FIRST, STEPS_LAST = 14, 19  # сами шаги
+STEPS_NOTE = 20                  # врезка о том, что биометрия не сохраняется
+REQS_FIRST, REQS_LAST = 6, 9     # четыре условия вступления, включая взнос
+
+_STEP_RE = re.compile(r'^\*\*(\d+)\.\s*(.+?)\*\*\s*(.+)$')
+_REQ_RE = re.compile(r'^\*\*(.+?)\*\*\s*-\s*(.+)$')
+
+
+def steps(theme, lang, lead_ps):
+    u"""Полоса «как вступить»: четыре условия, шесть шагов, слово о биометрии.
+
+    Всё - текст мастера 14, раздел 2, слово в слово. Пересказывать процедуру
+    своими словами на главной нельзя: это единственное место, где человек
+    решает, отдавать ли свои документы на проверку, и расхождение между
+    обещанием на главной и текстом документа здесь дороже всего.
+
+    Живой системы регистрации в полосе НЕТ и быть не должно, хотя рамка для
+    неё уже написана двумя полосами выше. Первый экран регистрации - форма с
+    почтой, именем и страной, а следом камера. Форму, собирающую личные
+    данные, показывают со своего адреса и ниоткуда больше: чужая страница в
+    рамке - ровно то, от чего защищаются запретом на обрамление, и заводить
+    у людей привычку вводить такое в рамке на другом сайте нельзя. Полоса
+    ведёт на id.earth-lings.org кнопкой.
+    """
+    bs = blocks(doc_master('14', lang))
+    ru = blocks(doc_master('14', 'ru'))
+    assert len(bs) == len(ru), (
+        u'мастер 14 (%s) состоит из %d блоков, а русский - из %d: раздел с '
+        u'шагами собрался бы из чужих абзацев' % (lang, len(bs), len(ru)))
+
+    head = re.sub(r'^#+\s*\d*\.?\s*', '', bs[STEPS_HEAD - 1]).strip()
+    assert head and not head.startswith('#'), (
+        u'блок %d мастера 14 (%s) - не заголовок раздела, а %r'
+        % (STEPS_HEAD, lang, bs[STEPS_HEAD - 1][:60]))
+
+    items = []
+    for n in range(STEPS_FIRST, STEPS_LAST + 1):
+        m = _STEP_RE.match(bs[n - 1])
+        assert m, (
+            u'блок %d мастера 14 (%s) не разобрался как шаг: %r. Раздел '
+            u'«Шесть шагов» правили - проверьте номера в build_home_v2.'
+            % (n, lang, bs[n - 1][:80]))
+        items.append((m.group(1), m.group(2).strip().rstrip('.'), m.group(3)))
+    assert len(items) == 6, u'шагов должно быть шесть, а разобралось %d' % len(items)
+
+    reqs = []
+    for n in range(REQS_FIRST, REQS_LAST + 1):
+        m = _REQ_RE.match(bs[n - 1])
+        assert m, (
+            u'блок %d мастера 14 (%s) не разобрался как условие вступления: %r'
+            % (n, lang, bs[n - 1][:80]))
+        reqs.append((m.group(1), m.group(2).rstrip('.')))
+
+    note = re.sub(r'^>\s*', '', bs[STEPS_NOTE - 1])
+    assert note != bs[STEPS_NOTE - 1], (
+        u'блок %d мастера 14 (%s) - не врезка: %r'
+        % (STEPS_NOTE, lang, bs[STEPS_NOTE - 1][:80]))
+
+    return u'\n'.join([
+        u'<section class="band band--%s band--steps">' % theme,
+        u'<div class="band-in">',
+        u'<h2 class="band-title">%s</h2>' % C.esc(head),
+        u'<div class="band-lead">%s</div>'
+        % u''.join(u'<p>%s</p>' % md_inline(p) for p in lead_ps),
+        u'<ul class="reqs">%s</ul>'
+        % u''.join(u'<li><span class="req-name">%s</span>'
+                   u'<span class="req-text">%s</span></li>'
+                   % (C.esc(name), md_inline(text)) for name, text in reqs),
+        # Общей белой плиты вокруг шагов нет по той же причине, что и у
+        # девяти языковых версий: карточки внутри неё были белыми же.
+        # Светлая теперь каждая карточка, между ними просвет с цветом полосы.
+        #
+        # Номер шага снова показывается (решение Артура 2026-08-25). Снят он
+        # был 23 августа, когда шаги стояли решёткой и цифра занимала
+        # отдельную колонку. Список остаётся <ol>: порядок объявляет разметка,
+        # и читалка называет шаги по счёту независимо от того, нарисована
+        # цифра или нет. Цифра берётся из мастера как есть; сейчас во всех
+        # восьми мастерах шаги нумерованы латинскими цифрами, поэтому и на
+        # арабском, и на китайском в разметке стоит 1-6.
+        u'<ol class="steps">%s</ol>'
+        % u''.join(u'<li class="step"><span class="step-num">%s</span>'
+                   u'<span class="step-name">%s</span>'
+                   u'<span class="step-text">%s</span></li>'
+                   % (C.esc(num), C.esc(name), md_inline(text))
+                   for num, name, text in items),
+        u'<p class="steps-note">%s</p>' % md_inline(note),
+        # Кнопка «Вступить» снята с этой полосы (решение Артура 2026-08-25).
+        # На главной она стояла трижды; здесь человек ещё читает процедуру, а
+        # решает он в конце страницы, где кнопка и осталась - одна.
+        u'</div></section>',
+    ])
+
+
+def reserved(theme, n):
+    u"""Полоса под содержимое, которого ещё нет.
+
+    Ни одного слова: место обозначено рамкой и номером, а номер не требует
+    перевода. Написать сюда «скоро» на девяти языках значило бы завести девять
+    строк, которые потом придётся вычищать.
+    """
+    return (u'<section class="band band--%s band--reserved">'
+            u'<div class="band-in"><div class="reserved-slot">%d</div></div>'
+            u'</section>' % (theme, n))
+
+
+def band(theme, title, lead, more=None, items=None, cta=None, extra=None):
+    o = ['<section class="band band--%s"><div class="band-in">' % theme]
+    o.append('<h2 class="band-title">%s</h2>' % C.esc(title))
+    o.append('<div class="band-lead">%s</div>'
+             % ''.join('<p>%s</p>' % md_inline(p) for p in lead))
+    if extra:
+        o.append(extra)
+    if items:
+        o.append('<ul class="band-list">%s</ul>'
+                 % ''.join('<li><a href="%s">%s</a></li>' % (C.esc(h), C.esc(t))
+                           for t, h in items))
+    if more:
+        o.append('<a class="band-more" href="%s">%s</a>' % (C.esc(more[1]),
+                                                            C.esc(more[0])))
+    if cta:
+        o.append('<a class="band-cta" href="%s">%s</a>' % (C.esc(cta[1]),
+                                                           C.esc(cta[0])))
+    o.append('</div></section>')
+    return '\n'.join(o)
+
+
+# Своя подпись ссылки у каждой полосы документа. Прежде все шесть говорили
+# «Читать целиком», и страница читалась оглавлением, а не путём: ссылка в
+# Декларацию, ссылка в сроки учредительного периода и ссылка в описание
+# платформы - три разных действия, и одно слово на всех стирало разницу.
+# Документа 14 здесь нет намеренно: у его полосы ссылки не осталось вовсе,
+# только кнопка. Подписи what_passport_gives и about_joining лежат в chrome.py
+# неиспользованными - если ссылки вернут, их не придётся переводить заново.
+# Подпись ссылки у каждой полосы своя: три разных действия одним словом
+# «читать целиком» назывались бы одинаково.
+DOC_LINK = {'01': 'read_declaration', '14': 'what_passport_gives',
+            '20': 'rules_and_dates'}
+
+
+def build_index(lang):
+    address = read_master(os.path.join(ADDRESS_DIR, '%s-address.md' % lang))
+    ann = load_announces()[lang]
+    bands = []
+
+    for i, (theme, what, nums, anchor) in enumerate(BANDS):
+        if what == 'reserved':
+            bands.append(reserved(theme, i + 1))
+        elif what == 'awakened':
+            bands.append(awakened(theme, lang))
+        elif what == 'objections':
+            bands.append(objections(theme, lang, announced(ann, what)))
+        elif what == 'state':
+            bands.append(state(theme, lang))
+        elif what == 'join':
+            bands.append(join(theme, lang, announced(ann, what)))
+        elif what == 'steps':
+            assert has_doc('14', lang), u'документа 14 нет на языке %s' % lang
+            bands.append(steps(theme, lang,
+                               lead(load, '14', nums, anchor, lang)))
+        elif what == 'platform':
+            assert has_doc('12', lang), u'документа 12 нет на языке %s' % lang
+            bands.append(platform(theme, lang, title_of(doc_master('12', lang)),
+                                  announced(ann, what)
+                                  or lead(load, '12', nums, anchor, lang)))
+        elif what == 'address':
+            # Все девять на анонсе или все девять на отрывке - это уже
+            # проверено в load_announces(), до первой собранной страницы.
+            body = announced(ann, what)
+            bands.append(poster(
+                theme, title_of(address), home_line(ann, lang),
+                body or lead(load, 'address', nums, anchor, lang),
+                (C.x(lang, 'why_we_do_this' if body else 'read_addresso'),
+                 '/%s/address.html' % lang)))
+        elif what == 'legal':
+            items = [(title_of(doc_master(d, lang)), doc_href(d, lang))
+                     for d in LEGAL_DOCS if has_doc(d, lang)]
+            assert items, u'ни один правовой документ не доступен на %s' % lang
+            bands.append(band(theme, C.t(lang, 'nav.legal_base'),
+                              lead(load, LEGAL_LEAD_DOC, nums, anchor, lang),
+                              items=items, extra=ladder(lang)))
+        else:
+            num = what.split(':')[1]
+            assert has_doc(num, lang), u'документа %s нет на языке %s' % (num, lang)
+            md = doc_master(num, lang)
+            # Кнопки «Вступить» на полосе «Путь earthling» больше нет
+            # (решение Артура 2026-08-23). Вчера ради неё сняли текстовую
+            # ссылку в документ 14, и без неё у полосы не осталось бы ни
+            # одного выхода, а документ - недостижимым из тела главной.
+            # Поэтому ссылка возвращается: у каждой полосы ровно один выход.
+            bands.append(band(theme, title_of(md),
+                              announced(ann, what)
+                              or lead(load, num, nums, anchor, lang),
+                              more=(C.x(lang, DOC_LINK[num]),
+                                    doc_href(num, lang)),
+                              extra=(langlist(lang) if num == '01' else
+                                     timeline(lang) if num == '20' else None)))
+
+    title = C.t(lang, 'page.title')
+    # Описание главной - её собственная первая полоса, а не первый абзац
+    # мастера Обращения.
+    #
+    # До 2026-09-06 отсюда и из build_address бралось одно и то же место
+    # мастера, и девять пар страниц - главная и Обращение того же языка -
+    # несли слово в слово одинаковое description. Две разные индексируемые
+    # страницы с одним описанием - прямой дубль, и так на всех девяти языках.
+    #
+    # Берётся анонс: он написан для главной, стоит на ней первым и говорит
+    # ровно то, что странице нужно сказать поиску - кто мы и что учреждаем.
+    # Анонса Обращения нет - берём крупную строку плаката,
+    # цитату из документа 02: она тоже с этой страницы и в мастере Обращения
+    # не встречается, так что дубль не вернётся и в этом случае.
+    home_lead = announced(ann, 'address') or [home_line(ann, lang)]
+    desc = re.sub(r'\s+', ' ', ' '.join(home_lead)).strip()[:300]
+    assert desc, u'описание главной (%s) вышло пустым' % lang
+    inner = '<main id="main">%s</main>' % '\n'.join(bands)
+    return wrap(lang, inner, '%s/%s/' % (ORIGIN, lang), title, desc,
+                lambda c: '/%s/' % c,
+                # Полосы главной и список языков - разными листами:
+                # список нужен ещё корню и странице ненайденного, а полосы
+                # им не нужны.
+                ['<link rel="stylesheet" href="/css/home.css">',
+                 '<link rel="stylesheet" href="/css/langlist.css">',
+                 # Единственная его работа - подсветить текущую веху шкалы.
+                 # Без него шкала читается целиком, просто без подсветки.
+                 '<script defer src="/js/home.js"></script>'])
+
+
+def build_address(lang):
+    md = read_master(os.path.join(ADDRESS_DIR, '%s-address.md' % lang))
+    doc = md2doc.parse(md)
+    assert doc['title'], u'в Обращении не найден заголовок H1'
+    body = md2doc.render_body(doc)
+
+    o = ['<main class="%s" id="main"><div class="sheet">' % ROOT,
+         '<header class="doc-head"><h1 class="doc-title">%s</h1>'
+         '<div class="rule-double"></div></header>' % C.esc(doc['title']),
+         body]
+    assert lang in SIGN, u'нет подписи под Обращением для языка %s' % lang
+    o.append('<p class="sign">%s</p>' % C.esc(SIGN[lang]))
+    if lang in PDF:
+        href, label = PDF[lang]
+        # Проверяем в _v2, а не в боевом дереве. Раньше сверялось с боевым
+        # downloads/, и проверка проходила по чужому файлу: копии совпадали.
+        # После переименования это означало бы зелёную сборку со ссылкой на
+        # файл, которого в черновике нет, - и 404 на всех языках после подмены.
+        assert os.path.isfile(os.path.join(OUT, href.lstrip('/'))), (
+            u'нет файла _v2%s - ссылка на PDF была бы битой' % href)
+        o.append('<p><a class="pdf-link" href="%s">%s</a></p>'
+                 % (href, C.esc(label)))
+    o.append('</div></main>')
+
+    # Описание Обращения - первый абзац Обращения. Главная его больше не
+    # берёт (см. build_index): описание страницы обязано описывать её саму.
+    desc = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '',
+                  md_inline(prose(md)[0])))[:300]
+    assert desc, u'описание Обращения (%s) вышло пустым' % lang
+    return wrap(lang, '\n'.join(o),
+                '%s/%s/address.html' % (ORIGIN, lang),
+                '%s | Earthlings' % doc['title'], desc,
+                lambda c: '/%s/address.html' % c,
+                # home.css здесь НЕ подключается. Из него странице
+                # Обращения нужны были три правила из ста восьмидесяти -
+                # три процента файла, - и они переехали: подпись и ссылка
+                # на PDF в doc.css, прижатый подвал в модификатор обвязки.
+                # Было 35 КБ блокирующего CSS, стало 20.
+                [])
+
+
+# Скрипт корня. Встроен в <head>, чтобы переброс срабатывал до отрисовки.
+#
+# ПЕРЕБРОС - только по сохранённому ВЫБОРУ человека (ключ пишет chrome.js по
+# нажатию в переключателе языка или в списке на корне). У краулера хранилище
+# пустое, и он всегда видит страницу выбора - x-default остаётся живым.
+#
+# Не перебрасывает, если человек пришёл на корень со своего же сайта: значит,
+# он нажал на логотип или ссылку на корень и хочет увидеть выбор, а не
+# вернуться туда, откуда пришёл.
+#
+# ЯЗЫК БРАУЗЕРА - только подсветка, НИКОГДА не переброс. Googlebot выполняет
+# скрипты с английской локалью: переброс по языку браузера превратил бы корень
+# для него в переброс на /en/, и x-default снова умер бы - ровно то, из-за чего
+# 2026-09-06 сняли серверный переброс по Accept-Language. Подсветка корень не
+# меняет: девять ссылок те же, для всех, только совпавший пункт встаёт первым.
+#
+# IP не используется вовсе. Страна - плохая подсказка к языку, и для народа, не
+# привязанного к территории, угадывать язык по государству - спор с основанием.
+ROOT_LANG_JS = (
+    u"(function(){var L=['ru','en','de','es','fr','zh','ar','hi','ka'],s=null,own=false;"
+    u"try{s=localStorage.getItem('earthlings-language')}catch(e){}"
+    u"try{own=!!document.referrer&&new URL(document.referrer).origin===location.origin}catch(e){}"
+    u"if(s&&L.indexOf(s)>=0&&!own){location.replace('/'+s+'/');return}"
+    u"document.addEventListener('DOMContentLoaded',function(){"
+    u"var n=navigator.languages&&navigator.languages.length?navigator.languages:[navigator.language||''],p=null,i,c;"
+    u"for(i=0;i<n.length&&!p;i++){c=String(n[i]).toLowerCase().split('-')[0];if(L.indexOf(c)>=0)p=c}"
+    u"if(!p)return;var a=document.querySelector('.langlist a[lang=\"'+p+'\"]');if(!a)return;"
+    u"var li=a.parentNode;li.setAttribute('data-suggested','');"
+    u"li.parentNode.insertBefore(li,li.parentNode.firstChild)})})();"
+)
+
+
+def build_root():
+    u"""Корневая страница сайта - выбор языка.
+
+    В день подмены `_v2/index.html` становится `earth-lings.org/`. До 2026-08-26
+    там лежал образец оформления от 17 августа - «Earthlings - образец нового
+    оформления», карточки палитры, ноль ссылок на языки. Он и уехал бы на
+    боевой адрес.
+
+    Почему выбор языка, а не английская главная. Боевой корень сейчас - экран
+    на JavaScript: он спрашивает у браузера язык, ходит за ним же на сторонний
+    ipapi.co и перебрасывает. Без JavaScript там 3156 знаков по-английски на
+    странице, обслуживающей девять языков. Здесь ровно наоборот: девять ссылок
+    в HTML, видны и человеку, и краулеру, никуда не перебрасывает, стороннего
+    запроса нет.
+
+    Язык оболочки - английский: он же x-default в hreflang и в сайтмапе.
+    Девять названий берутся из тех же подрезок, что и полоса на языковых
+    главных, - лишнего веса страница не добавляет.
+    """
+    lang = 'en'
+    lead = (u'Earthlings is a people you join by choice - not by birth, not by '
+            u'territory. Everything we have written is published in nine '
+            u'languages. Choose one.')
+    o = ['<main class="%s" id="main"><div class="sheet">' % ROOT,
+         '<header class="doc-head"><h1 class="doc-title">Earthlings</h1>'
+         '<div class="rule-double"></div></header>',
+         '<section class="lead col"><p>%s</p></section>' % C.esc(lead),
+         langlist(lang, href_of=lambda c: '/%s/' % c),
+         '</div></main>']
+    # Заголовок корня не повторяет заголовок /en/.
+    #
+    # До 2026-09-06 обе страницы назывались «Earthlings - a new people», а это
+    # две разные индексируемые страницы: корень - выбор языка, /en/ - настоящая
+    # английская главная. Один заголовок на двух адресах поисковик читает как
+    # дубль и сам решает, какой из них показать.
+    #
+    # Корень назван тем, что на нём есть: девять языков и выбор одного из них.
+    # «Earthlings» стоит первым, потому что это корень домена и в выдаче он
+    # чаще всего и есть визитка; «choose one» повторяет последнее слово лида,
+    # который стоит под заголовком страницы.
+    return wrap(lang, '\n'.join(o), ORIGIN + '/',
+                'Earthlings in nine languages - choose one', lead[:300],
+                lambda c: '/%s/' % c,
+                # Корню нужен только список языков - полос у него нет. Скрипт
+                # языка - см. ROOT_LANG_JS над функцией.
+                ['<link rel="stylesheet" href="/css/langlist.css">',
+                 '<script>%s</script>' % ROOT_LANG_JS])
+
+
+def check_essay_typography():
+    u"""В таблице ESSAYS нет знаков, по которым текст читается как машинный.
+
+    Словарь строится из ЧИСЛОВЫХ кодпойнтов, а не из литералов: литерал в
+    исходнике сам может оказаться тем знаком, который ищем, и проверка тогда
+    молча совпадает сама с собой. Правило общее для сайта и записано в
+    CLAUDE.md; здесь оно нужно особо, потому что аннотации приезжают копией с
+    Medium и Paragraph, а обе площадки ставят длинное тире и «умные» кавычки
+    сами.
+    """
+    assert ESSAYS, u'таблица статей пуста - проверять нечего'
+    bad_chars = {
+        0x2014: u'длинное тире', 0x2013: u'короткое тире',
+        0x2212: u'знак минуса', 0x2026: u'многоточие одним знаком',
+        0x201C: u'левая двойная', 0x201D: u'правая двойная',
+        0x201E: u'нижняя двойная', 0x2018: u'левая одинарная',
+        0x2019: u'правая одинарная', 0x201A: u'нижняя одинарная',
+        0x00A0: u'неразрывный пробел', 0x202F: u'узкий неразрывный',
+        0x2009: u'тонкий пробел', 0x200B: u'пробел нулевой ширины',
+        0x200C: u'несоединитель', 0x2060: u'соединитель слов',
+        0xFEFF: u'метка порядка байтов',
+    }
+    bad = []
+    for row in ESSAYS:
+        for field in row:
+            for ch in field:
+                if ord(ch) in bad_chars:
+                    bad.append(u'%s: %s (U+%04X)'
+                               % (row[1][:40], bad_chars[ord(ch)], ord(ch)))
+    for s in (ESSAYS_TITLE, ESSAYS_LEAD):
+        for ch in s:
+            if ord(ch) in bad_chars:
+                bad.append(u'лид страницы: %s (U+%04X)'
+                           % (bad_chars[ord(ch)], ord(ch)))
+    assert not bad, u'типографика статей: %s' % u'; '.join(sorted(set(bad)))
+
+
+def build_essays():
+    u"""Страница /essays/ - ссылки на статьи и эссе, опубликованные на стороне.
+
+    Почему она СОБИРАЕТСЯ, а не лежит готовым файлом. Статическая страница не
+    получает шапку и подвал из chrome.py, и при первой же правке меню
+    разойдётся с остальным сайтом - так уже расходились немецкое меню со своим
+    источником и load_shared_dirs с боевым конфигом. Плюс генерируемую
+    страницу накрывает `--check`, которая ловит устаревание; статическую не
+    накрывает ничто.
+
+    Отличие от Обращения: страница ОДНА и английская. Языкового цикла у неё
+    нет, hreflang нет тоже - переводов не существует, и обещать их нельзя.
+
+    Ссылки наружу открываются в ТОЙ ЖЕ вкладке. `target="_blank"` здесь был бы
+    решением за читателя: у него есть свои средства открыть ссылку рядом, а
+    отменить чужой `_blank` ему нечем. `rel="noopener"` стоит на каждой - он
+    про безопасность, а не про вкладку, и нужен независимо от неё.
+    """
+    check_essay_typography()
+    lang = 'en'
+    url = ORIGIN + '/essays/'
+    esc = C.esc
+
+    rows = []
+    for href, title, place, when, note in ESSAYS:
+        assert href.startswith('https://'), u'адрес не по https: %s' % href
+        assert note and note != title, (
+            u'аннотация пуста или повторяет заголовок: %s' % title)
+        rows.append(
+            u'<li><a class="essay-t" href="%s" rel="noopener">%s</a>'
+            u'<p class="essay-m">%s<span class="essay-dot"></span>%s</p>'
+            u'<p class="essay-n">%s</p></li>'
+            % (esc(href), esc(title), esc(place), esc(when), esc(note)))
+
+    o = ['<main class="library" id="main">',
+         '<h1>%s</h1>' % esc(ESSAYS_TITLE),
+         '<section class="lead col"><p>%s</p></section>' % esc(ESSAYS_LEAD),
+         '<ul class="essays">'] + rows + ['</ul>', '</main>']
+
+    # Структурные данные - как у библиотек документов: `CollectionPage`
+    # описывает саму страницу, вложенный `ItemList` - то, что на ней
+    # перечислено. Тип выбран по тому, чем страница является: это не статья
+    # (своего текста у неё две фразы) и не сайт, а перечень. `position` -
+    # порядок на странице, врать ему нельзя.
+    ld = {'@context': 'https://schema.org', '@type': 'CollectionPage',
+          'name': ESSAYS_TITLE, 'description': ESSAYS_LEAD,
+          'inLanguage': lang, 'url': url,
+          'publisher': {'@type': 'Organization', 'name': 'Earthlings',
+                        'url': ORIGIN},
+          'mainEntity': {
+              '@type': 'ItemList', 'numberOfItems': len(ESSAYS),
+              'itemListElement': [
+                  {'@type': 'ListItem', 'position': i + 1,
+                   'url': row[0], 'name': row[1]}
+                  for i, row in enumerate(ESSAYS)]}}
+
+    desc = (u'%d essays and articles by Earthlings, published on Paragraph '
+            u'and Medium. Links to the originals, with the opening line of '
+            u'each.' % len(ESSAYS))
+    return wrap(lang, '\n'.join(o), url,
+                '%s | Earthlings' % ESSAYS_TITLE, desc,
+                None, [], ld, lang_url=lambda c: '/%s/' % c)
+
+
+def stale(path, page):
+    u"""Отстала ли страница на диске от того, что собралось сейчас.
+
+    Сравнение побайтовое и без исключений. Нет файла - тоже отстала: это не
+    «нечего сравнивать», а «страницы нет там, где она должна быть».
+    """
+    if not os.path.isfile(path):
+        return u'нет файла'
+    have = io.open(path, encoding='utf-8').read()
+    if have == page:
+        return None
+    # Первое расхождение - по нему видно, что именно поехало.
+    n = min(len(have), len(page))
+    i = 0
+    while i < n and have[i] == page[i]:
+        i += 1
+    return u'расходится с %d-го знака: на диске %r, собралось %r' % (
+        i, have[i:i + 60], page[i:i + 60])
+
+
+def main():
+    dry = '--dry' in sys.argv
+    # Проверка вместо записи: страница считается устаревшей, если пересборка
+    # её меняет. Никаких временных деревьев - сборка уже в памяти, нужен
+    # только другой конец.
+    #
+    # Зачем это вообще. «Мастер против страницы» (verify_md_html.py) сверяет
+    # 225 страниц корпуса; девять главных и девять Обращений в неё не входят,
+    # и их устаревание не ловилось ничем. 2026-09-06 это стоило дефекта:
+    # девятнадцать страниц были собраны прежней версией генератора - строка
+    # описания шла без закрывающей скобки и втягивала следующую строку внутрь
+    # <meta>, а текст полос отстал от мастеров на две редакции. Нашлось
+    # глазами, за день до подмены.
+    check = '--check' in sys.argv
+    # Только страницы Обращения, без языковых главных. Нужно, когда Обращение
+    # правится отдельно от корпуса: главная берёт отрывки из мастеров
+    # документов и сверяет их с русским блок в блок, поэтому она не соберётся,
+    # пока русская правка документа не разнесена по переводам. Страница
+    # Обращения этой сверкой не пользуется и собирается всегда.
+    only_address = '--address' in sys.argv
+    args = [a for a in sys.argv[1:] if not a.startswith('--')]
+    langs = args or [l for l in ALL_LANGS if os.path.isfile(
+        os.path.join(ADDRESS_DIR, '%s-address.md' % l))]
+    assert langs, u'нет ни одного мастера Обращения'
+
+    # Анонсы читаются и сверяются до первой записанной страницы: остановка
+    # посреди прогона оставила бы часть главных на новом тексте, часть на
+    # прежнем.
+    #
+    # Анонсы есть - главные переходят на них в один прогон: собрать главную
+    # одного языка значит оставить восемь на прежнем тексте и прежней кнопке.
+    # Проверено на себе: одиночный прогон `build_home_v2.py ru` ровно это и
+    # сделал.
+    ann = load_announces()
+    if any(ann[l] for l in ALL_LANGS) and not only_address:
+        assert len(langs) == len(ALL_LANGS), (
+            u'анонсы есть, а прогон охватывает %d язык(ов) из %d. Главные '
+            u'переходят на анонс все разом: соберите без имени языка либо '
+            u'добавьте --address, если нужны только страницы Обращения.'
+            % (len(langs), len(ALL_LANGS)))
+
+    old = []                       # что отстало от мастеров, для --check
+    for lang in langs:
+        assert lang in SLUGS, (
+            u'для языка %r не заданы слаги: ссылки с главной на документы '
+            u'легли бы мимо' % lang)
+        d = os.path.join(OUT, lang)
+        if not os.path.isdir(d) and not dry and not check:
+            guard.makedirs(d)
+        pages = ([('address.html', build_address(lang))] if only_address
+                 else [('index.html', build_index(lang)),
+                       ('address.html', build_address(lang))])
+        # Главная и Обращение - две разные индексируемые страницы, и описание
+        # у них обязано быть разное. Проверка стоит здесь, а не в глазах: до
+        # 2026-09-06 они девять языков подряд несли одно и то же описание, и
+        # заметить это удалось только измерением живого сайта.
+        if len(pages) == 2:
+            got = [re.search(r'<meta name="description" content="(.*?)">',
+                             p, re.S) for _, p in pages]
+            assert all(got), u'на странице нет описания вовсе (%s)' % lang
+            assert got[0].group(1) != got[1].group(1), (
+                u'у главной и Обращения (%s) одно и то же описание - для '
+                u'поисковика это дубль двух страниц' % lang)
+        for name, page in pages:
+            dst = os.path.join(d, name)
+            if check:
+                why = stale(dst, page)
+                if why:
+                    old.append(('%s/%s' % (lang, name), why))
+                continue
+            guard.write(dst, page, dry=dry)
+            text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
+                          page.split('<body', 1)[1])).strip()
+            print('OK   _v2/%s/%-14s %3d КБ, текста без JS: %5d знаков'
+                  % (lang, name, len(page.encode('utf-8')) // 1024, len(text)))
+
+    # Корень собирается, только когда собраны ВСЕ девять: он ведёт на девять
+    # языковых главных, и на неполном прогоне часть ссылок легла бы в 404.
+    if not only_address and len(langs) == len([l for l in ALL_LANGS if os.path.isfile(
+            os.path.join(ADDRESS_DIR, '%s-address.md' % l))]):
+        page = build_root()
+        missing = [c for c in ALL_LANGS
+                   if not os.path.isfile(os.path.join(OUT, c, 'index.html'))]
+        assert not missing, (
+            u'нет языковых главных: %s. Корень ведёт на все девять, и эти '
+            u'ссылки отдали бы 404 на боевом адресе.' % ', '.join(missing))
+        if check:
+            why = stale(os.path.join(OUT, 'index.html'), page)
+            if why:
+                old.append(('index.html', why))
+        else:
+            guard.write(os.path.join(OUT, 'index.html'), page, dry=dry)
+            text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
+                          page.split('<body', 1)[1])).strip()
+            print('OK   _v2/index.html      %3d КБ, текста без JS: %5d знаков, '
+                  'языков 9' % (len(page.encode('utf-8')) // 1024, len(text)))
+
+        # Страница статей собирается тем же полным прогоном, что и корень.
+        # Языков у неё нет, но подвал у неё общий: ссылка на неё стоит в
+        # FOOTER_ESSAYS и появляется на всех девяти языках разом. Собирать её
+        # отдельно от девятки значило бы пустить в подвал ссылку раньше, чем
+        # появится страница.
+        page = build_essays()
+        d = os.path.join(OUT, 'essays')
+        if check:
+            why = stale(os.path.join(d, 'index.html'), page)
+            if why:
+                old.append(('essays/index.html', why))
+        else:
+            if not os.path.isdir(d) and not dry:
+                guard.makedirs(d)
+            guard.write(os.path.join(d, 'index.html'), page, dry=dry)
+            text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ',
+                          page.split('<body', 1)[1])).strip()
+            print('OK   _v2/essays/index.html %1d КБ, текста без JS: %5d '
+                  'знаков, статей %d'
+                  % (len(page.encode('utf-8')) // 1024, len(text), len(ESSAYS)))
+    elif not check:
+        print('корень не собран: прогон неполный (%d языков из 9)' % len(langs))
+
+    if check:
+        # Считается ВСЁ, что собирает этот генератор: девять главных, девять
+        # Обращений, корень и страница статей. Ноль проверенных страниц - это
+        # не «всё хорошо», а поломка проверки, поэтому здесь assert, а не
+        # тихий выход.
+        n = len(langs) * (1 if only_address else 2) + (0 if only_address else 2)
+        assert n >= 3, u'проверять нечего: страниц %d' % n
+        for name, why in old:
+            print(u'ОТСТАЛА  _v2/%s  %s' % (name, why))
+        print(u'главные и Обращение: проверено %d, отстало %d' % (n, len(old)))
+        return 1 if old else 0
+    return 0
+
+
+if __name__ == '__main__':
+    # Отказ замка печатается человеку, а не трассировкой: произошло
+    # ровно то, ради чего он поставлен, и это не поломка скрипта.
+    try:
+        sys.exit(main())
+    except guard.LegacyWriteRefused as e:
+        sys.exit(guard.die(e))
+    except AnnounceError as e:
+        # Файлы анонсов правит автор текста, и отказ адресован ему: что не так
+        # и в каком файле, без трассировки.
+        msg = u'ОСТАНОВЛЕНО: анонсы главной не собраны.\n\n  %s\n' % e
+        try:
+            sys.stderr.write(msg)
+        except UnicodeEncodeError:
+            sys.stderr.buffer.write(msg.encode('utf-8'))
+        sys.exit(2)
