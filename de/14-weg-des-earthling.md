@@ -2,7 +2,7 @@
 
 **Eine praktische Anleitung**
 
-> Dieses Dokument beschreibt den Ablauf des Beitritts und der Änderung des Status. Bei einer Abweichung gilt die [Charta](https://earth-lings.org/documents/de/de05-charta.html), und bei einer Abweichung der Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) gilt die Erklärung.
+> Dieses Dokument beschreibt den Ablauf des Beitritts und der Änderung des Status. Bei einer Abweichung gilt die [Charta](https://earth-lings.org/documents/de/de05-charta.html), und bei einer Abweichung der Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) gilt die Erklärung. In der Gründungsphase - vom 22. Oktober 2026 bis zur Annahme der Erklärung - sind die Unterzeichnung der Erklärung und der Eintritt in das Volk ausgesetzt: Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht. Die Identitätsprüfung wird in dieser Zeit kostenlos durchgeführt, und auf ihrer Grundlage wird ein vorläufiges Dokument des Teilnehmers der Konstituierung ausgestellt und kein Pass (Dokument „Die Gründungsphase“, Teil 2, Ziffer 5). Das vorläufige Dokument wird in demselben Vertrag ausgegeben wie der Pass (Dokument „Wo wir jetzt stehen“). Unten ist der Regelbetrieb beschrieben, der nach der Annahme der Erklärung beginnt.
 
 ---
 
@@ -18,15 +18,15 @@ Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Gesc
 
 **Der einmalige Beitrag** - der Gegenwert von 79 USD - deckt die Identitätsprüfung, die Ausgabe des Passes und die Unterhaltung der Infrastruktur. Eine Voraussetzung der Zugehörigkeit ist er nicht.
 
-> **Wenn Sie den Beitrag nicht entrichten können**, können Sie sich in eine offene Warteschlange stellen, und den Beitrag für Sie kann ein anderer Mensch oder die Schatzkammer entrichten; eine Gewähr dafür gibt es nicht. Dazu Abschnitt 9. Sie müssen nichts nachweisen und nichts erklären. Die Zugehörigkeit zum Volk kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung.
+> **Wenn Sie den Beitrag nicht entrichten können**, können Sie sich bei kostenpflichtigem Eintritt in eine offene Warteschlange stellen, und den Beitrag für Sie kann dann ein anderer Mensch oder die Schatzkammer entrichten; eine Gewähr dafür gibt es nicht. Dazu Abschnitt 9. Sie müssen nichts nachweisen und nichts erklären. Die Zugehörigkeit zum Volk kauft der Beitrag nicht: Sie entsteht durch die Unterzeichnung der Erklärung.
 
 ---
 
 ## 2. Sechs Schritte
 
-**1. Kenntnisnahme.** Lesen Sie die Erklärung, die Nutzungsbedingungen und die Datenschutzerklärung. Alle Dokumente stehen vor dem Beitritt offen und verlangen für das Lesen nichts im Gegenzug.
+**1. Kenntnisnahme.** Lesen Sie die Erklärung, die Nutzungsbedingungen, die Datenschutzerklärung und die Politik der biometrischen Prüfung. Alle Dokumente stehen vor dem Beitritt offen und verlangen für das Lesen nichts im Gegenzug.
 
-**2. Anmeldung.** E-Mail, Wohnsitzland, Pseudonym oder Name nach Ihrer Wahl.
+**2. Anmeldung.** E-Mail (wird mit einem Code bestätigt), Wohnsitzland, Vor- und Nachname in lateinischer Schrift wie im Dokument (sie werden für den Abgleich mit ihm gebraucht) und ein öffentlicher Name: ein Pseudonym oder ein Name nach Ihrer Wahl.
 
 **3. Identitätsprüfung.** Ein Gesichtsscan und der Abgleich mit einem Ausweispapier.
 
@@ -64,7 +64,7 @@ Das ist vor der Zahlung zu wissen und nicht danach.
 - **er berührt Staatsangehörigkeit, Steuern und Gerichtsstand nicht** - alles bleibt, wie es war;
 - **er gibt kein Einkommen** und ist keine Geldanlage.
 
-Innerhalb des Volkes gibt der Pass alles: eine gleiche Stimme, die Teilnahme an Entscheidungen, eine unveräußerliche Zugehörigkeit. Außerhalb sammelt sich die rechtliche Erkennbarkeit des Volkes erst an - durch Praxis, Zeit und Zahl der Teilnehmer.
+Innerhalb des Volkes haben Sie alles: eine gleiche Stimme, die Teilnahme an Entscheidungen, eine unveräußerliche Zugehörigkeit; sie entstehen durch die Unterzeichnung der Erklärung, und der Pass bestätigt sie. Außerhalb sammelt sich die rechtliche Erkennbarkeit des Volkes erst an - durch Praxis, Zeit und Zahl der Teilnehmer.
 
 ---
 
@@ -75,7 +75,7 @@ Innerhalb des Volkes gibt der Pass alles: eine gleiche Stimme, die Teilnahme an 
 - redlich an Abstimmungen teilzunehmen;
 - bei der Durchführung von Projekten durchsichtig zu sein und über die Verwendung gemeinsamer Mittel Rechenschaft abzulegen.
 
-Das sind Pflichten und keine Voraussetzungen für den Erhalt des Status: Ihre Verletzung zieht weder einen Ausschluss noch den Verlust der Stimme nach sich. Für grobe Verstöße sieht die Charta gegenüber einer Person nur eine Maßnahme vor - die Verwarnung, und sie entzieht nichts: weder die Stimme noch das Recht, Vorschläge einzubringen, noch die Teilnahme an Zellen, noch den Zugang zu Diensten, noch sonst irgendetwas. Die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle: Das Volk kann kein gemeinsames Geld mehr geben und die Nutzung seines Namens untersagen, und das berührt die Rechte einer Person nicht ([Charta, Artikel 22](https://earth-lings.org/documents/de/de05-charta.html)).
+Das sind Pflichten und keine Voraussetzungen für den Erhalt des Status: Ihre Verletzung zieht weder einen Ausschluss noch den Verlust der Stimme nach sich. Für grobe Verstöße sieht die Charta gegenüber einer Person nur eine Maßnahme vor - die Verwarnung, und sie entzieht nichts: weder die Stimme noch das Recht, Vorschläge einzubringen, noch das Recht, Zellen zu gründen und ihnen beizutreten, noch den Zugang zu Diensten, noch sonst irgendetwas. Die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle: Das Volk kann kein gemeinsames Geld mehr geben und die Nutzung seines Namens untersagen, und das berührt die Rechte einer Person nicht ([Charta, Artikel 22](https://earth-lings.org/documents/de/de05-charta.html)).
 
 ---
 
@@ -85,9 +85,9 @@ Das sind Pflichten und keine Voraussetzungen für den Erhalt des Status: Ihre Ve
 
 **Ruhend.** Eine Pause **auf Ihre eigene Entscheidung**. Der Pass bleibt erhalten, das Stimmrecht ruht auf Ihren eigenen Entschluss, die Recheneinheiten bleiben in der Geldbörse, der Zugang zu Informationen bleibt erhalten. Die Höchstdauer beträgt 12 Monate. Die Wiederaufnahme erfolgt durch eine Erklärung über den persönlichen Bereich, eine erneute Identitätsprüfung ist nicht erforderlich.
 
-**Inaktiv.** Wird selbsttätig zugewiesen, wenn Sie 12 Monate lang keine Handlungen vorgenommen und auf die Anfrage nicht geantwortet haben. Der Pass bleibt erhalten, **das Stimmrecht bleibt vollständig erhalten** und kann jederzeit ausgeübt werden; Ihre Stimme wird lediglich bei der Berechnung des Quorums nicht mehr berücksichtigt, um die Anforderungen an es für die Übrigen nicht zu erhöhen. Schon bei der ersten Handlung wird der Status selbsttätig wiederhergestellt.
+**Inaktiv.** Wird selbsttätig zugewiesen, wenn Sie 12 Monate lang keine Handlungen vorgenommen und auf die Anfrage nicht geantwortet haben. Der Pass bleibt erhalten, **das Stimmrecht bleibt vollständig erhalten** und kann jederzeit ausgeübt werden; ein inaktiver Earthling zählt nicht zu der Zahl, von der das Quorum berechnet wird, um die Anforderungen für die Übrigen nicht zu erhöhen. Schon bei der ersten Handlung wird der Status selbsttätig wiederhergestellt.
 
-**Austritt.** Eine Erklärung über den persönlichen Bereich, danach als Voreinstellung eine Pause von 72 Stunden - ein Schutz vor einem übereilten Entschluss, auf den Sie verzichten dürfen. Danach entwerten Sie den Pass **mit dem eigenen Schlüssel**: Der Server bewahrt Ihre Schlüssel nicht auf und kann den Austritt weder verhindern noch für Sie vornehmen. Der Austritt wird mit der Entwertung wirksam.
+**Austritt.** Eine Erklärung über den persönlichen Bereich, danach als Voreinstellung eine Pause von 72 Stunden - ein Schutz vor einem übereilten Entschluss, auf den Sie verzichten dürfen. Danach entwerten Sie den Pass **mit dem eigenen Schlüssel**: Der Server bewahrt Ihre Schlüssel nicht auf und kann den Austritt nicht verhindern; den Pass an Ihrer Stelle zu entwerten ist niemand befugt, doch solange die Rechte des Eigentümers des Vertrags nicht an eine Multisig übergeben sind, sind die Ausgabe und die Entwertung eines Passes technisch einem einzigen Schlüssel zugänglich (Dokument „Wo wir jetzt stehen“). Der Austritt wird mit der Entwertung wirksam, und gibt es keinen gültigen Pass - mit Ablauf der Pause oder von dem Zeitpunkt an, zu dem Sie auf sie verzichtet haben.
 
 **Rückkehr.** Zurückkehren können Sie jederzeit, indem Sie das übliche Verfahren erneut durchlaufen - die Identitätsprüfung und den Beitrag, der ihre Selbstkosten deckt. Der entwertete frühere Pass steht der Rückkehr nicht entgegen.
 

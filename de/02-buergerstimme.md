@@ -396,7 +396,7 @@ Ein Ergebnis ohne Spur ist eine Behauptung. Ein Ergebnis mit Spur ist eine Tatsa
 - die Verteilung der Teilnahme nach Ländern und Regionen, in einer Aufgliederung, die es nicht erlaubt, einen Menschen zu erkennen;
 - der Weg, auf dem jeder Mensch das Ergebnis selbst nachrechnen kann: die offenen Daten der Abstimmung, der Nachweis der Auszählung und das Programm, mit dem sich der Nachweis überprüfen lässt.
 
-Der letzte Punkt ist der wichtigste. **Die Überprüfung darf kein Vertrauen zu uns verlangen.** Die Stimme ist geheim (Erklärung, Artikel 9), und die Überprüfung ist so eingerichtet, dass sie die Stimme nicht offenlegt: Die Richtigkeit der Auszählung wird anhand offener Daten mit einem offenen Programm nachgewiesen, ohne offenzulegen, wer abgestimmt hat und wie. Wir können weder eine Stimme hinzufügen noch eine fremde fälschen, und das wird nicht durch unsere Worte überprüft, sondern durch das Nachrechnen anderer.
+Der letzte Punkt ist der wichtigste. **Die Überprüfung darf kein Vertrauen zu uns verlangen.** Die Stimme ist geheim (Erklärung, Artikel 9), und die Überprüfung ist so eingerichtet, dass sie die Stimme nicht offenlegt: Die Richtigkeit der Auszählung wird anhand offener Daten mit einem offenen Programm nachgewiesen, ohne offenzulegen, wer abgestimmt hat und wie. Eine fremde Stimme können wir nicht fälschen, und das wird nicht durch unsere Worte überprüft, sondern durch das Nachrechnen anderer; einen Abstimmenden hinzufügen lässt sich durch die Ausgabe eines Eintrags im Register: Jede Ausgabe ist im Netz sichtbar, doch der Grund einer Ausgabe lässt sich von außen nicht überprüfen.
 
 Wie es heute steht, sagen wir selbst. Ein Mittel der geheimen Abstimmung gibt es noch nicht: Es wird ausgewählt, und die Abstimmung über die Annahme der Erklärung am 17. Februar 2027 wird geheim durchgeführt. Im eingerichteten offenen Kanal sind die Stimmen mit Wallets signiert, die Adressen der Abstimmenden sind öffentlich, und das Stimmrecht bestätigt im Augenblick der Abstimmung unser Server; inhaltliche Messungen sind in ihm nicht durchgeführt worden. Ebenso ausdrücklich steht das im Dokument [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html), und dort sind auch die Stellen genannt, an denen man uns heute vertrauen muss.
 
@@ -627,7 +627,7 @@ Aber genau das bedeutet, dass **die Teilnehmer Rechte gegen den Betreiber haben*
 
 Daraus: Es wird ein Gründungstext gebraucht und keine Nutzungsbedingungen.
 
-*A people is not needed yet. An association has a charter too.*
+*Ein Volk wird noch nicht gebraucht. Eine Satzung hat auch ein Verein.*
 
 **Vierter Schritt.** Das Messinstrument muss diejenigen überdauern, die es gebaut haben, und darf nicht käuflich sein. Was sich kaufen lässt, wird früher oder später gekauft, und der Käufer erbt das Recht zu messen. Einrichtungen, deren Kapital das Vertrauen ist, überstehen einen Eigentümerwechsel nur selten, ohne dieses Vertrauen einzubüßen.
 
@@ -637,7 +637,7 @@ Daraus: Das Messinstrument darf keinen Eigentümer haben. Also müssen die Teiln
 
 Daraus: Es kann nicht einer einzigen Rechtsordnung gehören und kann keinem Staat unterstellt sein.
 
-*An association is no longer enough: it is established under the law of a single state and is subordinate to it.*
+*Ein Verein genügt nicht mehr: Er ist nach dem Recht eines einzigen Staates errichtet und diesem Staat unterstellt.*
 
 **Sechster Schritt.** Und das Letzte, Entscheidende. Wenn das Messinstrument ein Ergebnis veröffentlicht, sagt es eines von beidem:
 
@@ -896,7 +896,7 @@ Damit sich das hier Beschriebene überprüfen und nicht bloß glauben lässt, ne
 
 **Hier steht kein Versprechen eines Ergebnisses.** Wodurch das Volk gebunden ist und wodurch nicht, ist in Artikel 6 der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) festgelegt, und wir geben das hier nicht wieder, damit der Norm eine einzige Quelle bleibt. Kurz: Die Anerkennung steht nicht in seiner Macht, und das Bestehen des Volkes hängt von der Anerkennung nicht ab.
 
-**Und hier steht keine einzige Behauptung, von der heute irgendetwas abhängt.** Die Infrastruktur ist gebaut, die Gründungsphase läuft, die Erklärung wird zur Abstimmung gestellt. Wenn keine der hier beschriebenen Stufen genommen wird, hebt das nichts von dem bereits Getanen auf und macht nichts von dem sinnlos, wofür Menschen einander gewählt haben.
+**Und hier steht keine einzige Behauptung, von der heute irgendetwas abhängt.** Die Infrastruktur ist gebaut, die Gründungsphase ist ab dem 22. Oktober 2026 angesetzt, die Erklärung wird zur Abstimmung gestellt. Wenn keine der hier beschriebenen Stufen genommen wird, hebt das nichts von dem bereits Getanen auf und macht nichts von dem sinnlos, wofür Menschen einander gewählt haben.
 
 ---
 

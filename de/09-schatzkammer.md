@@ -2,7 +2,7 @@
 
 **Der dezentrale Finanzmechanismus des Volkes der Earthlings**
 
-> Dieses Dokument führt Abschnitt 03 der [Charta](https://earth-lings.org/documents/de/de05-charta.html) näher aus. Bei einer Abweichung gilt die Charta, und bei einer Abweichung der Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) gilt die Erklärung. Die Schwellen, Quoren und Fristen legt die Charta fest; dieses Dokument gibt sie wieder und kann sie nicht ändern.
+> Dieses Dokument führt Abschnitt 03 der [Charta](https://earth-lings.org/documents/de/de05-charta.html) näher aus. Bei einer Abweichung gilt die Charta, und bei einer Abweichung der Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) gilt die Erklärung. Die von der Charta festgelegten Schwellen, Quoren und Fristen gibt dieses Dokument wieder und kann sie nicht ändern; die eigenen Regeln der Schatzkammer legt es in den Grenzen der Charta fest und ändert sie im Verfahren der Artikel 38 und 39.
 
 Die Schatzkammer der Earthlings ist der Finanzmechanismus des Volkes, der über die Abstimmung der DAO-Vollversammlung und durchsichtige Verfahren verwaltet wird. Sie dient als Grundlage für die Durchführung von Projekten, die Entwicklung der Plattform, Bildungsanregungen und humanitäre Hilfe.
 
@@ -15,12 +15,12 @@ Die Schatzkammer der Earthlings ist der Finanzmechanismus des Volkes, der über 
 **Wesentliche Merkmale:**
 
 - die Verwaltung ausschließlich über die Abstimmung der DAO-Vollversammlung;
-- die Durchsichtigkeit aller Finanzvorgänge im verteilten Register;
+- die Vorgänge auf den Geldbörsen des Volkes sind im verteilten Register sichtbar, die Vorgänge in staatlicher Währung werden in der Rechenschaft der Kasse veröffentlicht;
 - die selbsttätige Ausführung der Beschlüsse nach Maßgabe der Ausrollung der Smart Contracts;
-- die verwaltenden Rechte sind möglichst gering gehalten, auf gewählte Unterzeichner verteilt und wirken über einen Timelock;
+- die verwaltenden Rechte sind möglichst gering gehalten und werden nach der Übergabe der Schlüssel auf gewählte Unterzeichner verteilt und wirken über einen Timelock (Kasten unten);
 - öffentliche Rechenschaft in Echtzeit.
 
-> **Der Zustand der Schlüssel in der Phase des Strukturaufbaus.** Die Schlüssel liegen beim Gründer. Ihre Übergabe an die Multisig der gewählten Core Nodes oder unter die Kontrolle der DAO ist der Maßstab für den Übergang zum nächsten Abschnitt des Fahrplans. Nach der Übergabe kann niemand allein über die Mittel verfügen; in der Phase des Strukturaufbaus wird diese Beschränkung verfahrensmäßig gesichert, und wir legen das unmittelbar offen, statt es zu verschweigen.
+> **Der Zustand der Schlüssel heute.** Die Schlüssel liegen beim Gründer. Ihre Übergabe an die Multisig der gewählten Core Nodes oder unter die Kontrolle der DAO ist der Maßstab für den Übergang zwischen den Abschnitten des Fahrplans. Nach der Übergabe kann niemand allein über die Mittel verfügen; bis zur Übergabe wird diese Beschränkung nur verfahrensmäßig gesichert, technisch aber ist die Verfügung über die Kasse einer einzigen Unterschrift zugänglich; bis zur Annahme der Erklärung verwaltet der Gründer die Mittel mit öffentlicher Rechenschaft (Fahrplan, Abschnitt 03), und wir legen das unmittelbar offen, statt es zu verschweigen. Die Phase des Strukturaufbaus (Charta, Artikel 39) beginnt mit der Annahme der Erklärung, mit der die Charta in Kraft tritt; bis dahin läuft die Gründungsphase (Dokument „Die Gründungsphase“).
 
 ## Artikel 2. Der Zweck
 
@@ -32,7 +32,7 @@ Die Schatzkammer der Earthlings ist der Finanzmechanismus des Volkes, der über 
 
 ## Artikel 3. Die grundlegenden Grundsätze
 
-**Durchsichtigkeit.** Die Bewegung der Mittel ist in Echtzeit von jedem Menschen ohne unser Zutun überprüfbar.
+**Durchsichtigkeit.** Die Bewegung der Mittel auf den Geldbörsen des Volkes ist in Echtzeit von jedem Menschen ohne unser Zutun überprüfbar; die Vorgänge in staatlicher Währung laufen über die Bankkanäle der juristischen Person als Werkzeug und werden in der Rechenschaft der Kasse veröffentlicht.
 
 **Demokratie.** Alle Beschlüsse über die Verteilung der Mittel fasst die DAO-Vollversammlung durch Abstimmung nach dem Grundsatz „ein Mensch - eine Stimme“. Das Gewicht der Stimme hängt unter keinen Umständen vom Umfang der eingebrachten Mittel ab.
 
@@ -40,7 +40,7 @@ Die Schatzkammer der Earthlings ist der Finanzmechanismus des Volkes, der über 
 
 **Rechenschaft.** Jedes finanzierte Projekt veröffentlicht nach dem Abschluss jedes Abschnitts Berichte über die Verwendung der Mittel.
 
-> **Der gegenwärtige Zustand.** Die Kasse wird auf einer Safe-Geldbörse im Netz Polygon geführt (`0xaEC7016218f7883bf6e47a2C932FdE6d822086C0`); ihre Vorgänge sind öffentlich und überprüfbar. Die Schwelle der Unterschriften auf dieser Geldbörse beträgt bislang eine: Der Schlüssel liegt beim Gründer, eine Multisig gibt es noch nicht. Das lässt sich von jedem Menschen an der Adresse überprüfen, und wir benennen es selbst. Der Übergang zu einer Multisig der Gewählten ist ein Maßstab für den Übergang zwischen den Abschnitten des Fahrplans. Die in Artikel 20 beschriebenen Smart Contracts der Schatzkammer werden schrittweise ausgerollt; bis zu ihrer Ausrollung werden die entsprechenden Regeln verfahrensmäßig und nicht selbsttätig ausgeführt. Die Core Nodes und der Emergency Multisig sind heute nicht gewählt.
+> **Der gegenwärtige Zustand.** Die Kasse wird auf einer Safe-Geldbörse im Netz Polygon geführt (`0xaEC7016218f7883bf6e47a2C932FdE6d822086C0`); ihre Vorgänge sind öffentlich und überprüfbar. Die Schwelle der Unterschriften auf dieser Geldbörse beträgt bislang eine: Der Schlüssel liegt beim Gründer, eine Multisig gibt es noch nicht. Das lässt sich von jedem Menschen an der Adresse überprüfen, und wir benennen es selbst. Der Übergang zu einer Multisig der Gewählten ist ein Maßstab für den Übergang zwischen den Abschnitten des Fahrplans. Die in Artikel 20 beschriebenen Smart Contracts der Schatzkammer werden schrittweise ausgerollt werden; nach der Annahme der Erklärung und bis zu ihrer Ausrollung werden die entsprechenden Regeln verfahrensmäßig und nicht selbsttätig ausgeführt. Heute ist keiner von ihnen ausgerollt, und Beschlüsse der Vollversammlung, die sie ausführen würden, gibt es ebenfalls noch nicht. Die Core Nodes und der Emergency Multisig sind heute nicht gewählt.
 
 ---
 
@@ -80,20 +80,20 @@ Die Schatzkammer kann Zuwendungen und Spenden von äußeren Organisationen unter
 - **Keine Bedingungen** - Zuwendungen dürfen keine Bedingungen enthalten, die den Grundsätzen des Volkes widersprechen;
 - **Verbot der Einflussnahme** - Spender erhalten weder eine Stimme noch Einfluss auf Beschlüsse der DAO. Die Höhe einer Spende gibt nichts außer Dank.
 
-> **Die Bekämpfung der Geldwäsche.** Die Schatzkammer erbringt keine Finanzdienstleistungen für Dritte und verfügt nur über die eigenen Mittel des Volkes, doch sie nimmt äußere Eingänge an und arbeitet über eine juristische Person als Werkzeug, unterliegt also den Anforderungen der jeweiligen Rechtsordnungen. Deshalb: Vorgänge in staatlicher Währung laufen über die Bankkanäle der juristischen Person und unterliegen ihren Verfahren zur Prüfung des Kunden; größere und ungewöhnliche Eingänge werden vor der Annahme auf ihre Quelle geprüft, und eine anonyme Spende, die die von der Vollversammlung festgelegte Schwelle übersteigt, wird nicht angenommen; Spenden von Personen und Organisationen unter Sanktionsbeschränkungen werden in keiner Form angenommen. Die Schwelle und den Ablauf der Prüfung legt ein Beschluss der Vollversammlung fest, und sie werden veröffentlicht.
+> **Die Bekämpfung der Geldwäsche.** Die Schatzkammer erbringt keine Finanzdienstleistungen für Dritte und verfügt nur über gemeinsame Mittel, an denen niemand einen Anteil hat, doch sie nimmt äußere Eingänge an und arbeitet über eine juristische Person als Werkzeug, unterliegt also den Anforderungen der jeweiligen Rechtsordnungen. Deshalb: Vorgänge in staatlicher Währung laufen über die Bankkanäle der juristischen Person und unterliegen ihren Verfahren zur Prüfung des Kunden; größere und ungewöhnliche Eingänge werden vor der Annahme auf ihre Quelle geprüft, und eine anonyme Spende, die die von der Vollversammlung festgelegte Schwelle übersteigt, wird nicht angenommen; Spenden von Personen und Organisationen unter Sanktionsbeschränkungen werden in keiner Form angenommen. Die Schwelle und den Ablauf der Prüfung legt ein Beschluss der Vollversammlung fest, und sie werden veröffentlicht.
 
 ## Artikel 6. Die Ausgabe der Recheneinheit
 
-Ein Teil der Mittel entsteht durch eine gesteuerte Ausgabe der Recheneinheit nach einem Modell, das die DAO-Vollversammlung bestätigt hat. Die Einzelheiten stehen in einem gesonderten Dokument.
+Ein Teil der Mittel wird durch eine gesteuerte Ausgabe der Recheneinheit nach einem Modell entstehen, das die DAO-Vollversammlung bestätigt; heute ist die Einheit nicht ausgegeben, und die Wirtschaft der Teilnahme wird in der inneren Buchführung der Plattform geführt (Dokument „Earthlings Coin“, Abschnitt 8). Die Einzelheiten stehen in einem gesonderten Dokument.
 
-- die Ausgabe wird durch durchsichtige Regeln geregelt, die im Smart Contract festgeschrieben sind;
+- die Ausgabe wird durchsichtigen Regeln unterliegen, die im Smart Contract festgeschrieben sind;
 - eine Änderung der Regeln verlangt eine qualifizierte Mehrheit;
 - die Mittel aus der Ausgabe fließen unmittelbar in die Schatzkammer;
 - die Ausgabe unterliegt einer öffentlichen Prüfung.
 
 ## Artikel 7. Abführungen vom Gewinn der Zellen
 
-5 Prozent des Gewinns einer Zelle fließen in die Schatzkammer.
+5 Prozent des Gewinns einer Zelle werden in die Schatzkammer fließen; das Verfahren der Erfassung des Gewinns einer Zelle und das Verfahren der Abführung werden durch Beschluss der DAO-Vollversammlung festgelegt, und heute gibt es weder das eine noch das andere (Dokument „Wo wir jetzt stehen“).
 
 - die Abführungen erfolgen über Smart Contracts nach Maßgabe ihrer Ausrollung;
 - die Berechnung ist durchsichtig und überprüfbar;
@@ -164,7 +164,7 @@ Die DAO-Vollversammlung ist das einzige Organ zur Verwaltung der Schatzkammer. A
 
 Das Ansehen ist ein Vermerk zur Auskunft über die Teilnahme eines Earthling an der Arbeit des Volkes. Es begründet keinerlei Rechte: Das Gewicht der Stimme hängt nicht von ihm ab (Artikel 12), einen Zugang zur Finanzierung eröffnet es nicht, und an der Reihenfolge ändert es nichts.
 
-**Faktoren:** die Regelmäßigkeit der Teilnahme an Abstimmungen, die erfolgreiche Durchführung finanzierter Projekte, der Beitrag zur Entwicklung der Gemeinschaft, die Güte der Vorschläge, Bewertungen durch andere Teilnehmer.
+**Faktoren:** die erfolgreiche Durchführung finanzierter Projekte, der Beitrag zur Entwicklung der Gemeinschaft, die Güte der Vorschläge, Bewertungen durch andere Teilnehmer. Die Teilnahme an Abstimmungen ist kein Faktor: Die Teilnahme eines bestimmten Menschen an einer Abstimmung wird nicht veröffentlicht (Charta, Artikel 6).
 
 **Verwendung:** Auskunft bei der Wahl eines Delegierten; die zeitliche Reihenfolge der Vorschläge, in der das Ansehen des Verfassers den Platz in der Reihenfolge nicht beeinflusst und eine Filterung nach Ansehen als Ansicht zur Verfügung steht, die jeder für sich einschaltet.
 
@@ -182,7 +182,7 @@ Earthlings können ihre Stimme in einem einzelnen Sachgebiet freiwillig einem an
 - **Delegierter kann jeder Earthling sein** - das Ansehen öffnet und verschließt den Zugang zu dieser Möglichkeit nicht;
 - die übertragenen Stimmen, die ein Delegierter abgibt, sind öffentlich; nicht veröffentlicht wird, wer dem Delegierten seine Stimme übertragen hat.
 
-**Eine Übertragung findet nicht statt** bei Abstimmungen über die Änderung der Charta und der Grundregeln der Schatzkammer, über eine Finanzierung von mehr als 100 000 EC, über die Bildung des Emergency Multisig, über die Beschränkung von Befugnissen, über die Aufhebung der Ausgabe eines Passes und über die Änderung der unabänderlichen Grundsätze.
+**Eine Übertragung findet nicht statt** bei Abstimmungen über die Änderung der Charta und der Grundregeln der Schatzkammer, über eine Finanzierung von mehr als 100 000 EC, über die Bildung des Emergency Multisig, über die Beschränkung von Befugnissen, über die Aussetzung des Stimmrechts, über die Aufhebung der Ausgabe eines Passes und über die Änderung der unabänderlichen Grundsätze. Die Übertragung erfolgt unentgeltlich: Ein Entgelt für sie, für ihre Aufrechterhaltung oder ihren Widerruf gilt als Kauf oder Verkauf einer Stimme (Charta, Artikel 7).
 
 Eine Übertragung begründet keinen zusätzlichen Einfluss: Eine übertragene Stimme ist einer Stimme gleich, und sie begründet kein Amt.
 
@@ -190,19 +190,19 @@ Eine Übertragung begründet keinen zusätzlichen Einfluss: Eine übertragene St
 
 | Beschluss | Schwelle | Quorum | Erörterung | Abstimmung |
 |---|---|---|---|---|
-| Finanzierung bis 10 000 EC | 51% | 20% | 14 Tage | 7 Tage |
-| Finanzierung 10 000 bis 100 000 EC | 67% | 20% | 14 Tage | 7 Tage |
+| Finanzierung über 1 000 bis einschließlich 10 000 EC | 51% | 20% | 14 Tage | 7 Tage |
+| Finanzierung über 10 000 bis einschließlich 100 000 EC | 67% | 20% | 14 Tage | 7 Tage |
 | Finanzierung über 100 000 EC | 67% | 25% | 21 Tage | 14 Tage |
 | Änderung der Grundregeln der Schatzkammer | 67% | 25% | 21 Tage | 14 Tage |
 | Änderung der Charta | 67% | 25% | 21 Tage | 14 Tage |
 | Technische Notbeschlüsse | 51% | 20% | - | 48 Stunden |
-| Beschleunigtes Verfahren bis 1 000 EC | 51% | 20% | 3 Tage | 3 Tage |
+| Beschleunigtes Verfahren bis einschließlich 1 000 EC | 51% | 20% | 3 Tage | 3 Tage |
 
 Die Schwellenbeträge legt ein Beschluss der DAO-Vollversammlung fest, und sie werden ohne Änderung der Charta geändert; die angeführten Werte gelten zum Zeitpunkt der Annahme des Dokuments.
 
 ## Artikel 16. Der Interessenkonflikt
 
-**Der zwingende Ausschluss von der Abstimmung.** Ein Earthling nimmt an einer Abstimmung über die Verteilung von Mitteln nicht teil, wenn er an ihrem Ausgang beteiligt ist. Die abschließende Aufzählung der Gründe des Ausschlusses und der Ablauf seiner Anzeige sind in der [Charta, Artikel 16](https://earth-lings.org/documents/de/de05-charta.html) festgelegt.
+**Der zwingende Ausschluss von der Abstimmung.** Ein Earthling nimmt an einer Abstimmung über die Verteilung von Mitteln nicht teil, wenn er der Antragsteller oder ein Mitverfasser des Antrags ist, dem Team des Projekts angehört, mit dem Antragsteller nahe verwandt ist oder ihm gegenüber vertragliche Verpflichtungen hat, die eine Vergütung vorsehen. Die Aufzählung ist abschließend; der Ablauf der Anzeige des Ausschlusses ist in der [Charta, Artikel 16](https://earth-lings.org/documents/de/de05-charta.html) festgelegt.
 
 Andere Gründe, eine Stimme auszuschließen, gibt es nicht: Durch Mehrheitsbeschluss wird die Stimme eines Earthling nicht aus der Auszählung ausgeschlossen.
 
@@ -214,7 +214,7 @@ Andere Gründe, eine Stimme auszuschließen, gibt es nicht: Durch Mehrheitsbesch
 
 **Abschnitt 1. Die Einreichung.** Jeder Earthling reicht einen Vorschlag zur Finanzierung ein. Eine vorherige Billigung und eine Schwelle der Unterstützung sind nicht erforderlich. Der Antrag enthält eine Beschreibung, die Ziele, den Haushalt, den Plan, die Zusammensetzung der Teilnehmer und die Maßstäbe des Erfolgs. Der Vorschlag wird zur offenen Erörterung veröffentlicht.
 
-**Abschnitt 2. Die Erörterung.** 14 Tage; 3 Tage für Projekte bis 1 000 EC. Fragen an die Verfasser, Rückmeldungen, die Möglichkeit der Verbesserung.
+**Abschnitt 2. Die Erörterung.** Nach den Fristen des Artikels 15: 14 Tage; 21 Tage für Projekte über 100 000 EC; 3 Tage für Projekte bis einschließlich 1 000 EC. Fragen an die Verfasser, Rückmeldungen, die Möglichkeit der Verbesserung.
 
 **Abschnitt 3. Die Abstimmung.** Nach den Fristen und Schwellen des Artikels 15. Jeder Earthling hat eine Stimme. Die Ergebnisse werden öffentlich festgehalten.
 
@@ -255,7 +255,7 @@ Eine Gruppe von bis zu 6 technischen Fachleuten, die von der DAO-Vollversammlung
 
 **Aufgaben:** die Betreuung der Plattform und der Infrastruktur; die Cybersicherheit; die technische Unterstützung der Abstimmungen; die Prüfung und Überwachung der Smart Contracts; die Behebung technischer Störungen; die technische Verwaltung der Kommunikationsmittel.
 
-**Verboten ist:** Beschlüsse im Namen des Volkes zu fassen; Teilnehmer wegen des Inhalts ihrer Äußerungen zu sperren; Finanzen zu verwalten oder die Verteilung der Mittel zu beeinflussen; ein besonderes Gewicht in Abstimmungen zu haben; in den Inhalt der Erörterungen einzugreifen - eine technische Beschränkung ist nur bei Angriffen wie Spam-Bots oder DDoS möglich.
+**Verboten ist:** Beschlüsse im Namen des Volkes zu fassen; Teilnehmer wegen des Inhalts ihrer Äußerungen zu sperren; Finanzen zu verwalten oder die Verteilung der Mittel zu beeinflussen; ein besonderes Gewicht in Abstimmungen zu haben; in den Inhalt der Erörterungen einzugreifen - eine technische Beschränkung ist nur bei Angriffen wie Spam-Bots oder DDoS möglich. Die Unterschrift der Core Nodes unter einem von der Vollversammlung gebilligten Vorgang der Kasse ist technische Ausführung und keine Verwaltung der Finanzen: Ein Unterzeichner ist nicht befugt, sie aus Gründen zu verweigern, die den Inhalt des Beschlusses betreffen.
 
 **Bildung und Kontrolle:**
 
@@ -264,7 +264,7 @@ Eine Gruppe von bis zu 6 technischen Fachleuten, die von der DAO-Vollversammlung
 - **Widerruf mit einfacher Mehrheit (51 %, Quorum 20 %) jederzeit, ohne Angabe von Gründen**;
 - zwingende monatliche öffentliche Rechenschaft.
 
-> **Die Symmetrie der Schwellen.** Die Schwelle des Widerrufs ist gleich der Schwelle der Wahl: Jemanden von einem Auftrag zu entbinden darf nicht schwerer sein, als ihn zu bestellen (Charta, Artikel 2). Die Rotation hängt nicht mit Kennzeichen des Ansehens zusammen: Das Ansehen ist weder eine Voraussetzung der Aufstellung noch des Behaltens eines Auftrags.
+> **Die Symmetrie der Schwellen.** Die Schwelle des Widerrufs ist gleich der Schwelle der Wahl: Jemanden von einem Auftrag zu entbinden darf nicht schwerer sein, als ihn zu bestellen (Charta, Artikel 2). Die Rotation hängt nicht mit Kennzeichen des Ansehens zusammen: Das Ansehen ist weder eine Voraussetzung der Aufstellung noch des Behaltens eines Auftrags. Auf die Multisig der Kasse werden die Regeln des Artikels 3 der Charta angewandt: mindestens sechs Unterzeichner, die Schwelle wird als Anteil an der Zusammensetzung festgelegt und aufgerundet, die Unterzeichner sind unabhängig - jeder mit seinem eigenen Schlüssel auf seinem eigenen Gerät -, und eine Schwelle, die mit Schlüsseln unter der Kontrolle einer einzigen Person erreicht wird, gilt als nicht erreicht.
 
 ## Artikel 22. Emergency Multisig
 
@@ -363,7 +363,7 @@ Verboten ist die Finanzierung von Projekten, die zusammenhängen mit:
 - der Finanzierung militärischer Konflikte oder terroristischer Organisationen;
 - der Verletzung der Menschenrechte oder mit Diskriminierung;
 - der Ausbeutung von Kinderarbeit oder jedem Schaden für Kinder;
-- rechtswidriger Tätigkeit in irgendwelchen Rechtsordnungen;
+- einer Tätigkeit, die nach dem Recht des Ortes rechtswidrig ist, an dem sie ausgeübt wird;
 - ökologischem Schaden;
 - der Teilnahme am politischen Kampf und der Einflussnahme auf Wahlen;
 - Betrug, Schneeballsystemen;
@@ -455,7 +455,7 @@ Die angeführten Werte sind Anhaltspunkte für die Beurteilung und keine Verpfli
 
 ## Artikel 38. Das Verfahren
 
-Das Dokument wird nur durch Abstimmung der DAO-Vollversammlung geändert: Einen Vorschlag einzubringen ist jeder Earthling befugt; das Inkrafttreten erfolgt 7 Tage nach der Billigung. Die Fristen der Erörterung, die Schwelle und das Quorum hängen von der Art der Änderung ab und sind in Artikel 39 festgelegt.
+Das Dokument wird nur durch Abstimmung der DAO-Vollversammlung geändert: Einen Vorschlag einzubringen ist jeder Earthling befugt; das Inkrafttreten erfolgt 7 Tage nach der Billigung. Die Fristen der Erörterung, die Schwelle und das Quorum hängen von der Art der Änderung ab und sind in Artikel 39 festgelegt. So wird das Dokument nach der Annahme der Erklärung geändert; in der Gründungsphase werden Änderungen nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 2) vorgenommen.
 
 ## Artikel 39. Arten von Änderungen
 
@@ -475,7 +475,7 @@ Das Folgende wird auch mit qualifizierter Mehrheit nicht geändert:
 - die Verwaltung der Schatzkammer ausschließlich über die DAO-Vollversammlung;
 - **ein Mensch - eine Stimme bei der Fassung aller finanziellen Beschlüsse**, einschließlich der Verteilung der Mittel zwischen Projekten; kein Mechanismus darf es einem Teilnehmer erlauben, in einem Beschluss mehr Gewicht abzugeben als einem anderen;
 - die Durchsichtigkeit aller Finanzvorgänge der Schatzkammer;
-- das Verbot der Finanzierung der in Artikel 30 aufgezählten Tätigkeit;
+- das Verbot, zu finanzieren, was der unabänderliche Kern der Erklärung verbietet: Gewalt und bewaffnete Strukturen, die Teilnahme am politischen Kampf und an Wahlkämpfen (Artikel 5), die Zerstörung der Bedingungen für das Bestehen des Lebens (Artikel 3); die übrigen Verbote des Artikels 30 sind Grundregeln der Schatzkammer und werden im Verfahren des Artikels 39 geändert;
 - der technische und dienende Charakter der Core Nodes und des Emergency Multisig;
 - die Unabhängigkeit der Stimme vom Umfang der eingebrachten Mittel.
 

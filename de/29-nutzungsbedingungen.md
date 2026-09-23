@@ -27,7 +27,7 @@ Diese Bedingungen beschreiben, wie die Teilnehmer des Volkes miteinander umgehen
 
 **Durchsichtigkeit.** Jede Regel wird erklärt. Kleingedrucktes gibt es nicht.
 
-Ist etwas unklar oder unannehmbar, so schreiben Sie. Vorschläge zur Änderung dieser Bedingungen werden der Vollversammlung zur Abstimmung vorgelegt.
+Ist etwas unklar oder unannehmbar, so schreiben Sie. Nach der Annahme der Erklärung werden Vorschläge zur Änderung dieser Bedingungen der Vollversammlung zur Abstimmung vorgelegt, und bis zur Annahme entscheidet über sie der Verfasser der Erklärung nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 2).
 
 ---
 
@@ -60,7 +60,7 @@ Diese Werte sind in der Architektur verkörpert und nicht nur erklärt.
 **Alter** - das Erreichen des Alters von 18 Jahren.
 **Die Unterzeichnung** der Erklärung der Earthlings.
 **Die Identitätsprüfung** über das eigene System des Volkes.
-Weitere Voraussetzungen der Zugehörigkeit gibt es nicht. **Der einmalige Beitrag** - der Gegenwert von 79 USD - deckt die Identitätsprüfung, die Ausgabe des Passes und die Unterhaltung der Infrastruktur und ist keine Voraussetzung der Zugehörigkeit. Wer ihn nicht selbst entrichten kann, kann sich in eine offene Warteschlange stellen, und den Beitrag für ihn kann eine andere Person oder die Schatzkammer entrichten, doch eine Gewähr dafür gibt es nicht; eine Befreiung vom Beitrag ist nicht vorgesehen, der Beitrag wird in jedem Fall vollständig entrichtet (Charta, Artikel 12-bis).
+Weitere Voraussetzungen der Zugehörigkeit gibt es nicht. **Der einmalige Beitrag** - der Gegenwert von 79 USD - deckt die Identitätsprüfung, die Ausgabe des Passes und die Unterhaltung der Infrastruktur und ist keine Voraussetzung der Zugehörigkeit. Wer ihn nicht selbst entrichten kann, kann sich bei kostenpflichtigem Eintritt in eine offene Warteschlange stellen, und den Beitrag für ihn kann dann eine andere Person oder die Schatzkammer entrichten, doch eine Gewähr dafür gibt es nicht; eine Befreiung vom Beitrag ist nicht vorgesehen, der Beitrag wird in jedem Fall vollständig entrichtet (Charta, Artikel 12-bis).
 
 **Was das gibt:** den Pass, das Stimmrecht, die Teilnahme an Zellen, den Zugang zur Infrastruktur.
 
@@ -84,7 +84,7 @@ Weitere Voraussetzungen der Zugehörigkeit gibt es nicht. **Der einmalige Beitra
 
 Sie haften für die Sicherheit des Passworts und der kryptografischen Schlüssel, für die von Ihrem Konto aus vorgenommenen Handlungen und für die Benachrichtigung der Unterstützung bei einem Verdacht auf Kompromittierung.
 
-**Wir können verlorene Schlüssel nicht wiederherstellen.** Sie werden bei uns in keiner Form aufbewahrt. Das ist die Kehrseite dessen, dass niemand an Ihrer Stelle über Ihren Pass verfügen kann.
+**Wir können verlorene Schlüssel nicht wiederherstellen.** Sie werden bei uns in keiner Form aufbewahrt. Das ist die Kehrseite dessen, dass wir Ihre Schlüssel nicht haben; den Pass an Ihrer Stelle zu entwerten ist niemand befugt, doch solange die Rechte des Eigentümers des Vertrags nicht an eine Multisig übergeben sind, sind die Ausgabe und die Entwertung eines Passes technisch einem einzigen Schlüssel zugänglich (Dokument „Wo wir jetzt stehen“).
 
 ## Beschränkungen: was möglich und was unmöglich ist
 
@@ -94,7 +94,7 @@ Sie haften für die Sicherheit des Passworts und der kryptografischen Schlüssel
 
 **Das Stimmrecht** kann **nur** wegen einer nachgewiesenen Untergrabung der Unversehrtheit der Abstimmung selbst ausgesetzt werden - Absprache, Kauf oder Verkauf einer Stimme, Nötigung anderer, der Versuch, die Regel „ein Mensch - ein Pass“ zu umgehen -, für eine Dauer von bis zu 6 Monaten, im Verfahren des Artikels 22-bis der Charta. Ansichten, der Inhalt der Stimmabgabe und die Ablehnung von Beschlüssen sind in keiner Darstellung ein Grund.
 
-**Was die Verwaltung ohne Beschluss der Vollversammlung tun kann.** Nur zweierlei. Erstens: den Zugang zu einem Konto bei offenkundigen Anzeichen seiner Kompromittierung oder eines technischen Angriffs aussetzen - mit sofortiger Benachrichtigung des Teilnehmers und anschließender Behandlung durch die Vollversammlung; das ist ein Schutz Ihres Kontos und keine Sanktion, und auf die Rechte eines Teilnehmers wirkt es sich nicht aus. Zweitens: ein Konto aussetzen, wenn bekannt wird, dass sich eine Person angemeldet hat, die das Alter von 18 Jahren nicht erreicht hat (Datenschutzerklärung, Abschnitt 10); der Pass wird in diesem Fall vom Inhaber selbst oder im Verfahren der Aufhebung einer unwirksamen Ausgabe entwertet (Charta, Artikel 21).
+**Was die Verwaltung ohne Beschluss der Vollversammlung tun kann.** Nur zweierlei. Erstens: den Zugang zu einem Konto bei offenkundigen Anzeichen seiner Kompromittierung oder eines technischen Angriffs aussetzen - mit sofortiger Benachrichtigung des Teilnehmers und anschließender Behandlung durch die Vollversammlung, und bis zur Annahme der Erklärung, solange es keine Vollversammlung gibt, wird die Aussetzung aufgehoben, sobald die Anzeichen der Kompromittierung oder des Angriffs beseitigt sind; das ist ein Schutz Ihres Kontos und keine Sanktion, und auf die Rechte eines Teilnehmers wirkt es sich nicht aus. Zweitens: ein Konto aussetzen, wenn bekannt wird, dass sich eine Person angemeldet hat, die das Alter von 18 Jahren nicht erreicht hat (Datenschutzerklärung, Abschnitt 10), wobei dem Menschen die Gründe und die Frist für Einwendungen mitgeteilt und die Einwendungen beantwortet werden (Erklärung, Artikel 4); ein Organ für eine Beschwerde gibt es bis zur Annahme der Erklärung nicht; der Pass wird in diesem Fall vom Inhaber selbst oder im Verfahren der Aufhebung einer unwirksamen Ausgabe entwertet (Charta, Artikel 21), und das vorläufige Dokument des Teilnehmers der Konstituierung bis zur Annahme der Erklärung im Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 5).
 
 ---
 
@@ -124,7 +124,7 @@ Sie haften für die Sicherheit des Passworts und der kryptografischen Schlüssel
 1. versuchen Sie, die Frage unmittelbar zu klären;
 2. wenden Sie sich mit Zustimmung der anderen Seite an einen unabhängigen Vermittler: Ohne Zustimmung beider Seiten findet keine Mediation statt;
 3. schwere Streitigkeiten gehen an den Unabhängigen Rat; solange der Rat nicht gebildet ist, entfällt diese Stufe, und die Fristen der Erörterung verdoppeln sich (Charta, Artikel 39);
-4. in äußersten Fällen - wenn die Mediation zu keiner Beilegung geführt hat und der Streit die Interessen der Gemeinschaft berührt oder eine grundsätzliche Entscheidung verlangt - ist jede der Seiten befugt, die Frage der Vollversammlung zur Behandlung vorzulegen.
+4. in äußersten Fällen - wenn die Mediation zu keiner Beilegung geführt hat oder die andere Seite ihr nicht zugestimmt hat und der Streit die Interessen der Gemeinschaft berührt oder eine grundsätzliche Entscheidung verlangt - ist jede der Seiten befugt, die Frage der Vollversammlung zur Behandlung vorzulegen.
 
 ---
 
@@ -154,7 +154,7 @@ Bei einer begründeten Beschwerde wird das strittige Material entfernt, und der 
 
 Eine unübertragbare digitale Kennung der Zugehörigkeit zum Volk, die in einem verteilten Register besteht.
 
-**Was er gibt:** den Nachweis des Status, das Stimmrecht, den Zugang zur Infrastruktur, die Teilnahme an Zellen.
+**Was er gibt:** den Nachweis des Status und des Stimmrechts, den Zugang zur Infrastruktur, die Teilnahme an Zellen.
 
 **Was er nicht gibt:** keine Staatsangehörigkeit, kein Einreiserecht in Länder, keinen Ersatz für einen nationalen Pass, keinen amtlichen Status in staatlichen Stellen, kein Einkommen.
 
@@ -164,7 +164,7 @@ Eine unübertragbare digitale Kennung der Zugehörigkeit zum Volk, die in einem 
 
 **Die Unübertragbarkeit.** Der Pass kann weder verkauft noch übertragen noch verschenkt noch vererbt werden; die Übertragung ist im Vertrag selbst gesperrt.
 
-**Die Unabänderlichkeit.** Der Eintrag lässt sich weder fälschen noch unbemerkt ändern.
+**Die Unabänderlichkeit.** Der Eintrag lässt sich nicht unbemerkt ändern.
 
 **Die Privatheit.** Die Tatsache, dass ein Pass besteht, ist im Register sichtbar; Ihre persönlichen Daten sind es nicht.
 
@@ -172,7 +172,7 @@ Eine unübertragbare digitale Kennung der Zugehörigkeit zum Volk, die in einem 
 
 Sie entwerten den Pass mit dem eigenen Schlüssel. Daran hindern kann niemand, auch der Gründer nicht.
 
-Die Charta (Artikel 21) legt zwei und nur zwei Fälle fest, in denen ein Pass nicht durch den Inhaber selbst entwertet wird: die Aufhebung einer unwirksamen Ausgabe durch Beschluss der Vollversammlung mit dem Recht auf Verteidigung und mit Beschwerde; die technische Neuausgabe auf Antrag des Inhabers selbst. Gegen den Willen des Inhabers wird ein Pass nur im ersten Fall entwertet. Der Tod des Inhabers ist kein Grund für eine Entwertung: Die Zugehörigkeit endet von selbst, und der Pass bleibt im Register. Die Einzelheiten stehen im Dokument [Der SBT-Pass eines Earthling](https://earth-lings.org/documents/de/de15-sbt-pass.html).
+Die Charta (Artikel 21) legt zwei und nur zwei Fälle fest, in denen ein Pass nicht durch den Inhaber selbst entwertet wird: die Aufhebung einer unwirksamen Ausgabe durch Beschluss der Vollversammlung mit dem Recht auf Verteidigung und mit Beschwerde; die technische Neuausgabe auf Antrag des Inhabers selbst. Gegen den Willen des Inhabers wird ein Pass nur im ersten Fall entwertet. Bis zur Annahme der Erklärung gibt es keine Vollversammlung (Charta, Artikel 38), und das vorläufige Dokument des Teilnehmers der Konstituierung wird gegen den Willen des Inhabers nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 5) entwertet. Der Tod des Inhabers ist kein Grund für eine Entwertung: Die Zugehörigkeit endet von selbst, und der Pass bleibt im Register. Die Einzelheiten stehen im Dokument [Der SBT-Pass eines Earthling](https://earth-lings.org/documents/de/de15-sbt-pass.html).
 
 ---
 
@@ -202,7 +202,7 @@ Die Beachtung des Rechts Ihres Landes in Bezug auf digitale Vermögenswerte; die
 
 ## Wie das eingerichtet ist
 
-Die DAO-Vollversammlung ist das **einzige Organ, das bindende Beschlüsse fasst**. Alle übrigen Strukturen leisten technische Unterstützung oder geben Empfehlungen.
+Die DAO-Vollversammlung ist das **einzige Organ, das bindende Beschlüsse fasst**. Alle übrigen Strukturen leisten technische Unterstützung oder geben Empfehlungen. Die Charta tritt mit der Annahme der Erklärung in Kraft (Charta, Artikel 38); bis dahin gibt es weder eine DAO-Vollversammlung noch Core Nodes noch einen Emergency Multisig noch einen Unabhängigen Rat, und die einzige Ermessensbefugnis der Gründungsphase hinsichtlich der Texte ist die Entscheidung des Verfassers der Erklärung über die Aufnahme von Vorschlägen in den Text (Dokument „Die Gründungsphase“).
 
 1. **Der Vorschlag.** Jeder Teilnehmer bringt einen Vorschlag ein. Eine vorherige Billigung, das Sammeln von Unterschriften und eine Schwelle der Unterstützung sind nicht erforderlich.
 2. **Die Erörterung.** Der Vorschlag wird öffentlich erörtert, präzisiert und verbessert.
@@ -224,7 +224,7 @@ Alles Wesentliche: die Änderung der Charta und der Regeln; die Verteilung gemei
 
 ## Besondere Lagen
 
-Der Emergency Multisig ist befugt, bei kritischen Angriffen sofort zu handeln und bei kritischen Schwachstellen verwundbare Smart Contracts sofort auszusetzen; seine übrigen Handlungen erfolgen über einen Timelock von 24 Stunden (Charta, Artikel 3) - mit einem öffentlichen Bericht binnen 48 Stunden und einer Bestätigung durch die Vollversammlung binnen 7 Tagen, sonst wird die Handlung aufgehoben. Jede Handlung kann von der Vollversammlung mit einfacher Mehrheit aufgehoben werden.
+Der Emergency Multisig ist befugt, bei kritischen Angriffen sofort zu handeln und bei kritischen Schwachstellen verwundbare Smart Contracts sofort auszusetzen; seine übrigen Handlungen erfolgen über einen Timelock von 24 Stunden (Charta, Artikel 3). Über jede Handlung wird binnen 48 Stunden ein Bericht veröffentlicht, und die Vollversammlung bestätigt sie binnen 7 Tagen, sonst wird die Handlung aufgehoben. Jede Handlung kann von der Vollversammlung mit einfacher Mehrheit aufgehoben werden.
 
 Ein Missbrauch führt jederzeit zum Widerruf mit einfacher Mehrheit.
 

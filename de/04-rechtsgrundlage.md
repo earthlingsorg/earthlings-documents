@@ -18,7 +18,7 @@ Bei einer Abweichung zwischen diesem Dokument und der Erklärung gilt die Erklä
 
 Damit der Leser von Anfang an sieht, was behauptet wird und was nicht.
 
-**Erstens.** Die Normen, auf die wir uns stützen, gelten heute: die Vereinigungsfreiheit (Artikel 20 der Allgemeinen Erklärung der Menschenrechte, Artikel 22 des Internationalen Paktes über bürgerliche und politische Rechte, Artikel 11 der Europäischen Konvention) und das Selbstbestimmungsrecht der Völker (Artikel 1 Ziffer 2 der Charta der Vereinten Nationen, gemeinsamer Artikel 1 der Pakte von 1966). Die Verträge, die sie verankern, sind für die Vertragsstaaten verbindlich. Keine dieser Normen ist erfunden oder „für die Zukunft“ vorgeschlagen.
+**Erstens.** Die Normen, auf die wir uns stützen, gelten heute: die Vereinigungsfreiheit (Artikel 20 der Allgemeinen Erklärung der Menschenrechte, Artikel 22 des Internationalen Paktes über bürgerliche und politische Rechte, Artikel 11 der Europäischen Konvention) und das Selbstbestimmungsrecht der Völker (gemeinsamer Artikel 1 der Pakte von 1966; als Grundsatz ist es in der Charta der Vereinten Nationen, Artikel 1 Ziffer 2, verankert). Die Pakte von 1966 und die Europäische Konvention sind für die Vertragsstaaten verbindlich; die Allgemeine Erklärung der Menschenrechte ist mit der Resolution A/RES/217(III)A der Generalversammlung angenommen worden und hat für sich genommen keine verbindliche Kraft, doch ihre Bestimmungen sind in Verträge und in die Staatenpraxis eingegangen. Keine dieser Normen ist erfunden oder „für die Zukunft“ vorgeschlagen.
 
 **Zweitens.** **Ein Erfordernis des Gebiets als Voraussetzung für das Bestehen eines Volkes enthält keine einzige verbindliche Norm.** Weder die Charta noch der gemeinsame Artikel 1 der Pakte noch irgendein Übereinkommen. Mehr noch: Eine Begriffsbestimmung des Volkes gibt es überhaupt nicht, und das ist in einem amtlichen Dokument der Vereinten Nationen festgestellt.
 
@@ -86,7 +86,7 @@ Die Aufgabe der Initiative ist nicht die Anmaßung der Stimme der Menschheit, so
 
 Genauigkeit ist hier wichtiger als ein günstiger Eindruck.
 
-**Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht.** Die Erklärung besteht als Ausgangsfassung und ist noch kein konstituierender Akt. Die Unterzeichnung der Erklärung und der Eintritt in das Volk sind für die Dauer der Gründungsphase ausgesetzt. **Die Infrastruktur ist dabei gebaut und arbeitet** - Identitätsprüfung, Pass, Register, Abstimmung, öffentliche Kasse: Nicht angenommen ist der konstituierende Text, es fehlen nicht die Mittel.
+**Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht.** Die Erklärung besteht als Ausgangsfassung und ist noch kein konstituierender Akt. Die Unterzeichnung der Erklärung und der Eintritt in das Volk sind für die Dauer der Gründungsphase ausgesetzt. **Die Infrastruktur ist dabei gebaut und arbeitet** - Identitätsprüfung, Pass, Register, Abstimmung, öffentliche Kasse; ein Mittel der geheimen Abstimmung wird ausgewählt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Woran es vor allem fehlt, ist ein angenommener konstituierender Text.
 
 Das Verfahren der Konstituierung ist im Voraus festgelegt und veröffentlicht:
 
@@ -99,7 +99,7 @@ Bis zum Tag der Annahme ist ein Mensch, der seine Identität hat prüfen lassen,
 
 **Zwei Folgen für dieses Dokument.**
 
-Die erste, ungünstige: Überall dort, wo unten Merkmale beschrieben werden, die von Zahl, Bestand und angesammelter Praxis abhängen, ist von der Konstruktion und ihrer geplanten Leistungsfähigkeit die Rede und nicht von einem erreichten Zustand. Teilnehmer gibt es nicht, Praxis gibt es nicht, der konstituierende Akt ist nicht angenommen.
+Die erste, ungünstige: Überall dort, wo unten Merkmale beschrieben werden, die von Zahl, Bestand und angesammelter Praxis abhängen, ist von der Konstruktion und ihrer geplanten Leistungsfähigkeit die Rede und nicht von einem erreichten Zustand. Noch gibt es keinen einzigen Earthling, Praxis gibt es nicht, der konstituierende Akt ist nicht angenommen.
 
 Die zweite, für die rechtliche Beurteilung wesentliche. Gewöhnlich ist der konstituierende Text einer Gemeinschaft vor ihrem Entstehen geschrieben, und der Beitritt beschränkt sich auf die Zustimmung zu einem fertigen Dokument. Hier ist die Reihenfolge umgekehrt: Der Text wird Menschen zur Abstimmung vorgelegt, von denen jeder als ein lebender Mensch geprüft ist, Vorschläge werden von jedermann angenommen und zusammen mit den Antworten veröffentlicht. **Der kollektive Wille wird damit weder unterstellt noch nachgezeichnet - er wird durch ein Verfahren hervorgebracht und bleibt in einer überprüfbaren Aufzeichnung.**
 
@@ -191,7 +191,7 @@ Das Völkerrecht zu berichtigen ist Sache der Staaten. Das Volk der Earthlings t
 
 **Der Bestand.** Es ist bekannt, wer zum Volk gehört: Hinter jedem Teilnehmer steht ein lebender Mensch, und das ist nachgewiesen. Nicht durch eine Zählung, nicht durch Brauch und nicht durch fremdes Gesetz, sondern überprüfbar und jederzeit.
 
-**Das Verfahren.** Es gibt eine Weise, in der ein Wille zum gemeinsamen Willen wird: eine Abstimmung, in der ein Mensch eine Stimme hat, in der eine Stimme nicht gekauft, angehäuft oder unwiderruflich übertragen werden kann. Die erste Anwendung dieses Verfahrens wird die Annahme des konstituierenden Textes selbst sein.
+**Das Verfahren.** Es gibt eine Weise, in der ein Wille zum gemeinsamen Willen wird: eine Abstimmung, in der ein Mensch eine Stimme hat, in der eine Stimme nicht gekauft, angehäuft oder unwiderruflich übertragen werden kann. Die erste Anwendung dieses Verfahrens wird die Abstimmung über die Annahme des konstituierenden Textes selbst sein.
 
 **Die Aufzeichnung.** Der Bestand des Volkes und die Abstimmungsergebnisse stehen jedem Menschen zur Überprüfung offen, ohne Vertrauen in den Betreiber der Infrastruktur.
 
@@ -229,7 +229,7 @@ Die Behauptung, „zum ersten Mal in der Geschichte wird eine Urkunde über die 
 | Wer kann überprüfen | Das Organ, das das Verzeichnis führt | Jeder |
 | Kann sie entzogen werden | Ja, durch Entscheidung eines Organs | Rechtlich nein; Gründe und Verfahren sind erschöpfend begrenzt |
 
-Den Vorbehalt zur letzten Zeile machen wir selbst: Die rechtlichen Gründe für die Entwertung eines Passes gegen den Willen des Inhabers beschränken sich auf einen einzigen - die Aufhebung einer unwirksamen Ausgabe in den Fällen, die Artikel 8 der Erklärung abschließend aufzählt, mit Benachrichtigung, Frist für Einwendungen und Beschwerde -, doch in der ausgerollten Fassung des Vertrags bleibt die technische Möglichkeit bestehen, dass der Inhaber der Eigentümerschlüssel einen Pass entwertet - die Beschränkung des Artikels 21 der Charta der Earthlings wirkt bislang verfahrensmäßig und nicht technisch. Die Trennung der Rechte zur Ausgabe und zur Entwertung ist in den Fahrplan aufgenommen.
+Den Vorbehalt zur letzten Zeile machen wir selbst: Die rechtlichen Gründe für die Entwertung eines Passes gegen den Willen des Inhabers beschränken sich auf einen einzigen - die Aufhebung einer unwirksamen Ausgabe in den Fällen, die Artikel 8 der Erklärung abschließend aufzählt, mit Benachrichtigung, Frist für Einwendungen und Beschwerde -, doch in der ausgerollten Fassung des Vertrags bleibt die technische Möglichkeit bestehen, dass der Inhaber der Eigentümerschlüssel einen Pass entwertet - die Beschränkung des Artikels 21 der Charta der Earthlings ist verfahrensmäßig und nicht technisch; bis zur Annahme der Erklärung gibt es weder den Unabhängigen Rat noch die Vollversammlung (Charta, Artikel 38), und das vorläufige Dokument des Teilnehmers der Konstituierung wird gegen den Willen des Inhabers nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 5) entwertet. Die Trennung der Rechte zur Ausgabe und zur Entwertung ist in den Fahrplan aufgenommen.
 
 Die genaue Behauptung lautet so: Urkunden über die Zugehörigkeit zu einem Volk gibt es, doch alle bescheinigen sie eine Zugehörigkeit, die aus der Abstammung abgeleitet und vom Staat anerkannt ist. Zum ersten Mal wird eine Zugehörigkeit durch eine Urkunde bescheinigt werden, die vom Volk selbst ausgegeben wird, weder mit einem Gebiet noch mit einer Abstammung verbunden ist, durch die Entscheidung des Menschen selbst entsteht und von jedermann überprüft werden kann.
 
@@ -317,7 +317,7 @@ Diese Reihe ist folgerichtig, und wir führen sie selbst an. Doch sie stellt gen
 
 **Viertens. Die Praxis der letzten Jahre hat den Status in einer anderen Richtung vom Gebiet getrennt.** Am 9. November 2023 haben Australien und Tuvalu den Falepili-Unionsvertrag unterzeichnet (in Kraft seit dem 28. August 2024); Artikel 2 hält die Anerkennung der Parteien fest, dass Staatlichkeit und Souveränität Tuvalus trotz der Folgen des Meeresspiegelanstiegs fortbestehen werden. Am selben Tag hat das Pazifische Inselforum eine Erklärung über die Fortdauer der Staatlichkeit angenommen; die Allianz der kleinen Inselstaaten hat am 23. September 2024 eine eigene angenommen.
 
-Im Jahr 2025 hat die Völkerrechtskommission der Vereinten Nationen den Abschlussbericht der Studiengruppe zum Meeresspiegelanstieg gebilligt: „Hinsichtlich der Staaten, die vom klimabedingten Meeresspiegelanstieg besonders betroffen sind, besteht unter den Staaten entschiedene Unterstützung für die Fortdauer der Staatlichkeit und der Souveränität und für die Erhaltung der Völkerrechtspersönlichkeit und der Mitgliedschaft in internationalen Organisationen“ (Ziffer 35). Gesondert wurde festgehalten, dass Artikel 1 des Übereinkommens von Montevideo von 1933, „dessen Kriterien allgemein für die Bestimmung eines Staates als Person oder Subjekt des Völkerrechts anerkannt sind, die Frage der Fortdauer der Staatlichkeit im Zusammenhang mit dem klimabedingten Meeresspiegelanstieg nicht behandelt“ (Ziffer 37).
+Im Jahr 2025 hat die Völkerrechtskommission der Vereinten Nationen den Abschlussbericht der Studiengruppe zum Meeresspiegelanstieg angenommen: „Hinsichtlich der Staaten, die vom klimabedingten Meeresspiegelanstieg besonders betroffen sind, besteht unter den Staaten entschiedene Unterstützung für die Fortdauer der Staatlichkeit und der Souveränität und für die Erhaltung der Völkerrechtspersönlichkeit und der Mitgliedschaft in internationalen Organisationen“ (Ziffer 35). Gesondert wurde festgehalten, dass Artikel 1 des Übereinkommens von Montevideo von 1933, „dessen Kriterien allgemein für die Bestimmung eines Staates als Person oder Subjekt des Völkerrechts anerkannt sind, die Frage der Fortdauer der Staatlichkeit im Zusammenhang mit dem klimabedingten Meeresspiegelanstieg nicht behandelt“ (Ziffer 37).
 
 > **Der genaue Umfang dieses Arguments, und er ist eng.** Die Rede ist von der **Fortdauer** und nicht von der Entstehung. Die Vermutung der Fortdauer wirkt, weil das Subjekt bereits besteht: Es war anerkannt, besaß ein Gebiet und hat es verloren. Eine Gemeinschaft, die nie ein Gebiet besessen hat, hat nichts zu bewahren. Das zeigt, dass das Gebiet nicht das ist, was einen Status im Bestehen hält, und es zeigt nicht, dass sich ein Status ohne Gebiet erwerben lässt.
 
@@ -615,7 +615,7 @@ Was gegen uns unwiderlegt bleibt:
 
 **Ein Mechanismus, Praxis in Anerkennung zu verwandeln, fehlt.** Er entsteht dann, wenn eine Gemeinschaft eine Aufgabe löst, die vor den Staaten steht; eine solche Aufgabe löst ein nichtterritoriales Volk heute nicht.
 
-**Der konstituierende Text ist nicht angenommen, und Teilnehmer gibt es nicht.** Weder Zahl noch angesammelte Praxis noch Beständigkeit der Bindung sind heute eingetretene Merkmale.
+**Der konstituierende Text ist nicht angenommen, und Earthlings gibt es noch nicht.** Weder Zahl noch angesammelte Praxis noch Beständigkeit der Bindung sind heute eingetretene Merkmale.
 
 Keinen dieser Einwände halten wir für ausgeräumt. Unter dem Druck der Argumente haben sie nicht ihre Kraft geändert, sondern ihre Gestalt: aus „unmöglich“ wurde „verfrüht“, „nicht bewiesen“, „unwahrscheinlich“. Der Unterschied zwischen diesen Wörtern ist alles, was dieses Dokument behauptet.
 

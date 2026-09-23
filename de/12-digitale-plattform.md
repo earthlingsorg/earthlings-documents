@@ -19,7 +19,7 @@ Die Plattform ist kein soziales Netz und kein weiteres Blockchain-System. Sie is
 
 Die wichtigste Aufgabe ist es, die Teilnahme praktisch, sicher und ehrlich zu machen: von der ersten Unterzeichnung der Erklärung bis zur Durchführung verwickelter internationaler Projekte.
 
-> **Die Grenzen der Plattform.** Die Plattform fasst keine Beschlüsse und kann sie nicht fassen. Bindende Beschlüsse fasst allein die DAO-Vollversammlung. Die Plattform ist die ausführende Ebene: Sie stellt die Oberfläche bereit, hält das Ergebnis fest und setzt es in Kraft. Kein Bestandteil von ihr, kein selbsttätiger Mechanismus und kein Mensch, der sie betreibt, ist befugt, einen Beschluss der Vollversammlung zu ändern, aufzuheben oder zu blockieren.
+> **Die Grenzen der Plattform.** Die Plattform fasst keine Beschlüsse und kann sie nicht fassen. Bindende Beschlüsse fasst allein die DAO-Vollversammlung. Die Plattform ist die ausführende Ebene: Sie stellt die Oberfläche bereit, hält das Ergebnis fest und setzt es in Kraft. Kein Bestandteil von ihr, kein selbsttätiger Mechanismus und kein Mensch, der sie betreibt, ist befugt, einen Beschluss der Vollversammlung zu ändern, aufzuheben oder zu blockieren. Die Charta tritt mit der Annahme der Erklärung in Kraft (Charta, Artikel 38); bis dahin gibt es weder eine DAO-Vollversammlung noch Core Nodes noch einen Emergency Multisig noch einen Unabhängigen Rat, und die einzige Ermessensbefugnis der Gründungsphase hinsichtlich der Texte ist die Entscheidung des Verfassers der Erklärung über die Aufnahme von Vorschlägen in den Text (Dokument „Die Gründungsphase“).
 
 ---
 
@@ -27,7 +27,7 @@ Die wichtigste Aufgabe ist es, die Teilnahme praktisch, sicher und ehrlich zu ma
 
 Die Architektur ist nach einem Schichtenprinzip aufgebaut. Jede Schicht löst ihre Aufgabe und greift möglichst wenig in die anderen ein.
 
-**1. Die Ebene der Darstellung.** Weboberflächen, mobile Anwendungen, Schnittstellen für äußere Einbindungen. Hier sieht ein Mensch die Erklärung, die Karte der Projekte, die Übersicht der Zellen, die Abstimmungen, den persönlichen Bereich. Vorrang haben Zugänglichkeit und Klarheit.
+**1. Die Ebene der Darstellung.** Weboberflächen; mobile Anwendungen und Schnittstellen für äußere Einbindungen - künftig. Hier sieht ein Mensch die Erklärung, die Karte der Teilnehmer nach Ländern, die Übersicht der Zellen, die Abstimmungen, den persönlichen Bereich. Vorrang haben Zugänglichkeit und Klarheit.
 
 **2. Die Ebene der Anwendungen.** Bausteine der Funktionen: Verwaltung des Profils, Einreichung von Anregungen, Arbeit der Zellen, Abstimmungen, Übertragung, Verwaltung der Fonds, unterstützende Werkzeuge künstlicher Intelligenz. Die Sachlogik ohne Speicherung von Daten auf niedriger Ebene.
 
@@ -47,15 +47,15 @@ Den technischen Betrieb sichern die **Core Nodes** - gewählte technische Koordi
 
 Der **Emergency Multisig** (Charta, Artikel 3) ist befugt, die Arbeit einzelner Smart Contracts bei der Entdeckung einer kritischen Schwachstelle oder bei einem Cyberangriff auszusetzen. Jede solche Handlung verlangt einen öffentlichen Bericht binnen 48 Stunden und eine Bestätigung durch die Vollversammlung binnen 7 Tagen, sonst wird sie aufgehoben.
 
-Andere Personen und Strukturen mit technischen Befugnissen über die Plattform gibt es nicht.
+Andere Strukturen mit technischen Befugnissen über die Plattform sieht die Charta nicht vor. Bis zur Annahme der Erklärung gibt es diese Organe nicht (Charta, Artikel 38), und nach der Annahme werden bis zur Wahl der Core Nodes und des Emergency Multisig ihre Aufgaben verfahrensmäßig wahrgenommen (Charta, Artikel 39); wo man heute denen vertrauen muss, die die Plattform betreiben, ist im Dokument „Wo wir jetzt stehen“ benannt.
 
 ### Zur künstlichen Intelligenz
 
-Auf dem anfänglichen Abschnitt verwendet die Plattform bestehende Modelle künstlicher Intelligenz zur Auswertung von Anregungen, zur Unterstützung von Projekten und zur Selbsttätigkeit bei wiederkehrenden Arbeiten. Künftig wird die Entwicklung eines eigenen Modells erwogen, das an die Aufgaben des Volkes angepasst ist.
+Zur Auswertung von Anregungen, zur Unterstützung von Projekten und zur Selbsttätigkeit bei wiederkehrenden Arbeiten wird die Plattform bestehende Modelle künstlicher Intelligenz verwenden; heute gibt es solche Werkzeuge in ihr nicht. Künftig wird die Entwicklung eines eigenen Modells erwogen, das an die Aufgaben des Volkes angepasst ist.
 
-Die Grenzen der Anwendung künstlicher Intelligenz legt Artikel 3 der Erklärung fest: Keine digitale Architektur darf eine verdeckte Beeinflussung oder die Unterdrückung der Autonomie des Menschen rechtfertigen. Daraus drei strenge Regeln, die unabhängig davon gelten, welches Modell verwendet wird:
+Die Grenzen der Anwendung künstlicher Intelligenz legt Artikel 3 der Erklärung fest: Kein Algorithmus, kein Code und kein System künstlicher Intelligenz darf die endgültige Quelle einer Entscheidung sein, die die Rechte, die Würde oder die Stellung eines Menschen berührt, und keine Technik darf zur verdeckten Beeinflussung von Menschen oder zur Unterdrückung der Autonomie des Menschen eingesetzt werden. Daraus drei strenge Regeln, die unabhängig davon gelten, welches Modell verwendet wird:
 
-- **Die künstliche Intelligenz entscheidet nichts.** Jede ihrer Schlussfolgerungen ist empfehlender Art und ist kein Grund für eine Ablehnung.
+- **Die künstliche Intelligenz entscheidet nichts endgültig** (Erklärung, Artikel 3). Ihre Schlussfolgerung über eine Anregung oder ein Projekt ist empfehlend und ist kein Grund für eine Ablehnung; die Ablehnung durch das selbsttätige System bei der Identitätsprüfung ist nicht endgültig, und die Überprüfung durch einen Menschen richtet sich nach der Politik der biometrischen Prüfung.
 - **Die Grundlagen werden offengelegt.** Ein Mensch, dessen Anregung die künstliche Intelligenz vermerkt hat, erhält eine verständliche Darlegung der Gründe und keine Ablehnung ohne Erläuterung.
 - **Eine Überprüfung durch einen Menschen ist gewährleistet.** Der Einleitende ist befugt, eine Behandlung durch einen Menschen zu verlangen, und eine solche Behandlung wird in der festgelegten Frist durchgeführt.
 
@@ -66,8 +66,8 @@ Die Grenzen der Anwendung künstlicher Intelligenz legt Artikel 3 der Erklärung
 Die Identität ist um den unübertragbaren digitalen Pass (SBT) herum aufgebaut, der mit einer nachgewiesenen Person verbunden ist. Eine strenge Trennung wird beachtet:
 
 - die biometrischen Daten und die Papiere verarbeitet das eigene System der Identitätsprüfung in Echtzeit;
-- die Plattform erhält nur die Tatsache einer erfolgreichen Prüfung und keine rohen biometrischen Daten oder Scans;
-- nach der Prüfung wird an die Adresse des Teilnehmers ein Pass ausgegeben, der seinen Status nachweist;
+- vom System der Identitätsprüfung erhält die Plattform das Ergebnis der Prüfung, die Nummer des Passeintrags, die Kennung des Teilnehmers, das Pseudonym, die Adresse der Geldbörse, die E-Mail-Adresse und das Land, aber keine biometrischen Daten, keine Aufnahmen und keine Angaben des Papiers;
+- nach der Prüfung und der Unterzeichnung der Erklärung wird an die Adresse der Geldbörse des Teilnehmers ein Pass ausgegeben, der seine Zugehörigkeit nachweist; in der Gründungsphase ist die Unterzeichnung ausgesetzt, und auf der Grundlage der Identitätsprüfung wird ein vorläufiges Dokument des Teilnehmers der Konstituierung ausgestellt (Dokument „Die Gründungsphase“, Teil 2, Ziffer 5);
 - ein Mensch - ein Pass; der Pass wird nicht übertragen, nicht verkauft und nicht entzogen.
 
 ### Die Trennung der Achsen: Identität, Stimme, Wirtschaft
@@ -80,14 +80,14 @@ Die Architektur verlangt, dass Identität, Stimme und wirtschaftliche Spur nicht
 
 ### Die Entwertung eines Passes
 
-In der Regel entwertet einen Pass nur der Inhaber selbst, mit dem eigenen Schlüssel, aus der eigenen Geldbörse. Die Plattform bewahrt die Schlüssel eines Teilnehmers nicht auf und ist technisch weder in der Lage, die Entwertung für ihn vorzunehmen, noch sie zu verhindern.
+In der Regel entwertet einen Pass nur der Inhaber selbst, mit dem eigenen Schlüssel, aus der eigenen Geldbörse. Die Plattform bewahrt die Schlüssel eines Teilnehmers nicht auf und ist technisch nicht in der Lage, die Entwertung zu verhindern; den Pass an seiner Stelle zu entwerten ist niemand befugt, doch solange die Rechte des Eigentümers des Vertrags nicht an eine Multisig übergeben sind, sind die Ausgabe und die Entwertung eines Passes technisch einem einzigen Schlüssel zugänglich (Dokument „Wo wir jetzt stehen“).
 
 Die Charta (Artikel 21) legt zwei und nur zwei Ausnahmen fest, die die Plattform unterstützen muss und nicht erweitern darf:
 
 1. **die Aufhebung einer unwirksamen Ausgabe** - wenn festgestellt ist, dass ein Pass unter Verstoß gegen die Voraussetzungen der Ausgabe ausgegeben wurde; nur durch Beschluss der Vollversammlung mit Sanktionsmehrheit, in geheimer Abstimmung, mit Beschwerderecht;
 2. **die technische Neuausgabe** - auf Antrag des Inhabers selbst bei Verlust des Zugangs zur Geldbörse oder bei einer Migration des Vertrags; die Zugehörigkeit wird nicht unterbrochen.
 
-Andere Gründe für eine Entwertung nicht durch den Inhaber selbst werden in der Plattform nicht umgesetzt, und gegen den Willen des Inhabers wird ein Pass nur bei der Aufhebung einer unwirksamen Ausgabe entwertet. Der Tod des Inhabers steht nicht unter diesen Gründen: Die Plattform verfügt über keine Angaben über einen Tod und kann nicht über sie verfügen, und das Ende der Teilnahme erfasst der Mechanismus der Inaktivität (Charta, Artikel 20).
+Andere Gründe für eine Entwertung nicht durch den Inhaber selbst werden in der Plattform nicht umgesetzt, und gegen den Willen des Inhabers wird ein Pass nur bei der Aufhebung einer unwirksamen Ausgabe entwertet. Der Tod des Inhabers steht nicht unter diesen Gründen: Die Plattform verfügt über keine Angaben über einen Tod und kann nicht über sie verfügen, und die Zugehörigkeit endet mit dem Tod von selbst, ohne jemandes Entscheidung (Erklärung, Artikel 4); der Pass bleibt im Register, und die Teilnahme, die es nicht mehr gibt, erfasst der Mechanismus der Inaktivität (Charta, Artikel 20).
 
 ---
 
@@ -98,8 +98,8 @@ Der persönliche Bereich ist der wichtigste Berührungspunkt eines Menschen mit 
 ### Die Hauptbestandteile des Profils
 
 - das Pseudonym eines Earthling - der öffentliche Name im Ökosystem;
-- das Land des Wohnsitzes oder der Zugehörigkeit - nach Wahl des Teilnehmers;
-- der Stand der Unterzeichnung der Erklärung;
+- das Wohnsitzland;
+- der Stand der Identitätsprüfung;
 - der Vermerk über das Vorliegen eines Passes, ohne Offenlegung personenbezogener Daten;
 - Interessen- und Sachgebiete - nach Wunsch.
 
@@ -114,7 +114,7 @@ Der persönliche Bereich ist der wichtigste Berührungspunkt eines Menschen mit 
 
 ### Was es im persönlichen Bereich nicht gibt
 
-Passangaben, biometrische Daten und empfindliche rechtliche Merkmale werden weder angezeigt noch gespeichert. Sie bleiben im System der Identitätsprüfung und werden nach der Prüfung nicht aufbewahrt. Die Plattform arbeitet mit dem Pseudonym, dem Vermerk über den Pass und zusammengefassten Kennzeichen der Teilnahme.
+Passangaben, biometrische Daten und empfindliche rechtliche Merkmale werden weder angezeigt noch gespeichert. Sie bleiben im System der Identitätsprüfung und werden nach der Prüfung nicht aufbewahrt. Die Plattform arbeitet mit dem Pseudonym, der E-Mail-Adresse, dem Land, der Adresse der Geldbörse, dem Vermerk über den Pass und den Angaben über die Nutzung der Plattform; die Aufzählung und die Zwecke stehen in der Datenschutzerklärung.
 
 Lichtbilder und Scans werden nicht gespeichert; die biometrischen Daten werden nur im Augenblick der Prüfung verarbeitet. Was genau zum Schutz vor einer erneuten Anmeldung gespeichert wird, steht in der [Politik der biometrischen Prüfung](https://earth-lings.org/documents/de/de16-biometrische-pruefung.html).
 
@@ -124,13 +124,13 @@ Lichtbilder und Scans werden nicht gespeichert; die biometrischen Daten werden n
 
 Die Plattform sichert den vollständigen Lauf: vom Auftauchen einer Idee bis zum Abschluss eines Projekts.
 
-**1. Der Antrag für ein Projekt.** Jeder Earthling schlägt über den persönlichen Bereich ein Projekt vor. Der Antrag umfasst die Beschreibung des Themas, des Ziels, der erwarteten Wirkung, der nötigen Sachkunde und des Horizonts der Durchführung. Die erste Auswertung nimmt die künstliche Intelligenz vor - auf Übereinstimmung mit der Erklärung, der Ethik und den Vorrängen -, und diese Auswertung ist empfehlend: Eine Ablehnung begründet sie nicht, die Grundlagen werden offengelegt, eine Behandlung durch einen Menschen ist gewährleistet (Abschnitt 02).
+**1. Der Antrag für ein Projekt.** Jeder Earthling schlägt über den persönlichen Bereich ein Projekt vor. Der Antrag umfasst die Beschreibung des Themas, des Ziels, der erwarteten Wirkung, der nötigen Sachkunde und des Horizonts der Durchführung. Die erste Auswertung kann die künstliche Intelligenz vornehmen - auf Übereinstimmung mit der Erklärung, der Ethik und den Vorrängen -, und diese Auswertung ist empfehlend: Eine Ablehnung begründet sie nicht, die Grundlagen werden offengelegt, eine Behandlung durch einen Menschen ist gewährleistet (Abschnitt 02).
 
 **2. Die Benachrichtigung der fachlich zuständigen Teilnehmer.** Nach der ersten Auswertung wird der Antrag denen zugeleitet, deren angegebene Sachkunde ihm entspricht - Juristen, Ingenieuren, Programmierern, Analytikern und anderen.
 
 **3. Die Bildung der Zelle.** Die Zelle bildet sich aus denen, die sich gemeldet haben. Die Größe beträgt 2 bis 6 Menschen (Charta, Artikel 23). Verlangt eine Aufgabe mehr Menschen, so werden mehrere verbundene Zellen gebildet und nicht eine schwerfällige.
 
-**4. Abstimmung und Durchführung.** Aufgabentafel, Zeitpläne, Kanäle der Verständigung, Rechenschaft nach Abschnitten, Einbindung von Dokumentenspeichern und unterstützenden Werkzeugen.
+**4. Abstimmung und Durchführung.** Aufgabentafel, Zeitpläne, Kanäle der Verständigung, Rechenschaft nach Abschnitten, Einbindung von Dokumentenspeichern und unterstützenden Werkzeugen. Entscheidungen innerhalb einer Zelle werden im Konsent getroffen; ist ein begründeter Einwand wegen Schadens, Undurchführbarkeit oder eines ernsten Risikos nicht ausgeräumt, so entscheidet eine Abstimmung der Zelle: Die Entscheidung ist getroffen, wenn es mehr Stimmen dafür als dagegen gibt; wer sich enthalten hat, hat an der Abstimmung teilgenommen, zählt aber weder zum Dafür noch zum Dagegen. Die Abstimmung ist nur gültig, wenn mehr als die Hälfte der Teilnehmer der Zelle teilgenommen hat (Dokument „Die Zellen“, Abschnitt 05).
 
 **5. Abschluss und Festhalten.** Die Plattform hält das Ergebnis fest, verteilt die Vergütungen, sofern sie vorgesehen sind, aktualisiert den Status der Teilnehmer und bildet den Beitrag des Projekts in der gemeinsamen Karte der Tätigkeit ab.
 
@@ -142,28 +142,28 @@ Die Plattform sichert den vollständigen Lauf: vom Auftauchen einer Idee bis zum
 
 ## Ein Earthling - eine Stimme
 
-Jeder Teilnehmer, der einen Pass hat und die Erklärung unterzeichnet hat, hat eine Stimme. Die Stimme wird weder durch die Menge an Recheneinheiten noch durch die Stellung in Zellen noch durch das Ansehen verstärkt. Wirtschaftliches Gewicht und Stimmrecht sind baulich getrennt und nicht bloß erklärt.
+Jeder Teilnehmer, der die Erklärung unterzeichnet hat, hat eine Stimme; der Pass bestätigt diese Stimme. Die Stimme wird weder durch die Menge an Recheneinheiten noch durch die Stellung in Zellen noch durch das Ansehen verstärkt. Wirtschaftliches Gewicht und Stimmrecht sind baulich getrennt und nicht bloß erklärt.
 
-**Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe oder als allgemeine Sanktion beschränkt werden** (Erklärung, Artikel 4; Charta, Artikel 17 und 37). Nach Artikel 22 der Charta gibt es gegenüber einer Person nur eine Maßnahme - die Verwarnung, und sie entzieht nichts: weder die Stimme noch den Zugang zu den Abstimmungen selbst, noch das Recht, Vorschläge einzubringen, noch die Teilnahme an Zellen, noch den Zugang zu Diensten, noch sonst irgendetwas. Die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle und berühren die Rechte einer Person nicht.
+**Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe oder als allgemeine Sanktion beschränkt werden** (Erklärung, Artikel 4; Charta, Artikel 17 und 37). Nach Artikel 22 der Charta gibt es gegenüber einer Person nur eine Maßnahme - die Verwarnung, und sie entzieht nichts: weder die Stimme noch den Zugang zu den Abstimmungen selbst, noch das Recht, Vorschläge einzubringen, noch das Recht, Zellen zu gründen und ihnen beizutreten, noch den Zugang zu Diensten, noch sonst irgendetwas. Die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle und berühren die Rechte einer Person nicht.
 
 Der einzige Fall, in dem die Plattform eine Aussetzung der Stimme ausführt, ist ein Beschluss der Vollversammlung nach Artikel 22-bis der Charta wegen einer nachgewiesenen Untergrabung der Unversehrtheit der Abstimmung, für eine Dauer von höchstens 6 Monaten. Die Plattform führt einen solchen Beschluss aus und kann ihn weder einleiten noch aus einem anderen Grund anwenden noch verlängern.
 
 ## Offenheit und Geheimnis
 
-Die persönliche Stimme ist geheim: Die Abstimmung ist so eingerichtet, dass niemand, auch nicht diejenigen, die die Plattform betreiben, erfahren kann, wie ein bestimmter Mensch abgestimmt hat, oder sich davon überzeugen kann, selbst mit dessen Zustimmung nicht. Die Teilnahme eines bestimmten Menschen an der Abstimmung wird nicht veröffentlicht.
+Die persönliche Stimme ist geheim: Die Abstimmung muss so eingerichtet sein, dass niemand, auch nicht diejenigen, die die Plattform betreiben, erfahren kann, wie ein bestimmter Mensch abgestimmt hat, oder sich davon überzeugen kann, selbst mit dessen Zustimmung nicht. Die Teilnahme eines bestimmten Menschen an der Abstimmung wird nicht veröffentlicht. Ein Mittel der geheimen Abstimmung gibt es noch nicht - es wird ausgewählt, und heute werden diese Regeln nicht überall eingehalten: Im offenen Kanal der Abstimmungen sind die Stimme und die Adresse der Geldbörse öffentlich, und die Stimmen in den Zellen bewahrt die Plattform zusammen mit dem Konto auf (Dokument „Wo wir jetzt stehen“; Datenschutzerklärung, Abschnitt 02).
 
 Die Durchsichtigkeit erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen. Deshalb muss die Plattform eine **geheime Abstimmung mit überprüfbarer Auszählung** gewährleisten: Das Ergebnis prüfen alle, die Verbindung zwischen Stimme und Abstimmendem wird niemandem offengelegt, auch denen nicht, die die Plattform betreiben. Der Ablauf - [Charta, Artikel 6](https://earth-lings.org/documents/de/de05-charta.html).
 
-Die Plattform gewährleistet außerdem:
+Die Plattform muss außerdem gewährleisten:
 
 - **bis zum Schluss der Abstimmung** - einen verborgenen Zwischenstand und die Möglichkeit, die Stimmabgabe zu wiederholen, wobei die zuletzt abgegebene Stimme gezählt wird; eine persönliche Stimme zu einer Frage hebt die Übertragung für diese Frage auf;
 - **die Offenheit der Stimmen des Delegierten** - die übertragenen Stimmen, die ein Delegierter abgibt, sind für alle sichtbar; nicht veröffentlicht wird, wer dem Delegierten seine Stimme übertragen hat.
 
-Stets werden veröffentlicht: die Frage, die Antwortmöglichkeiten, die Fristen, die Zahl der Stimmberechtigten, die Zahl der Abstimmenden, das Ergebnis, der Nachweis der Auszählung und der Weg, auf dem jeder Mensch das Ergebnis selbst nachrechnen kann.
+Die Charta verlangt, die Frage, die Antwortmöglichkeiten, die Fristen, die Zahl der Stimmberechtigten, die Zahl der Abstimmenden, das Ergebnis, den Nachweis der Auszählung und den Weg, auf dem jeder Mensch das Ergebnis selbst nachrechnen kann, zu veröffentlichen (Artikel 6). Einen Nachweis der Auszählung gibt es heute weder für die Vollversammlung noch für die Zellen: Er entsteht zusammen mit dem Mittel der geheimen Abstimmung (Dokument „Wo wir jetzt stehen“).
 
 ## Die Übertragung
 
-Die Plattform unterstützt die Übertragung der Stimme in einem einzelnen Sachgebiet an einen anderen Teilnehmer. Die Anforderungen der Charta (Artikel 7) werden technisch umgesetzt und bei jedem Vorgang geprüft:
+Die Plattform unterstützt die Übertragung der Stimme in einem einzelnen Sachgebiet an einen anderen Teilnehmer. Die Anforderungen der Charta (Artikel 7) müssen technisch umgesetzt und bei jedem Vorgang geprüft werden:
 
 - **nur nach Sachgebieten** - die Stimme für alle Fragen zugleich zu übertragen ist technisch unmöglich;
 - **Verbot der Selbstübertragung** - wird bei jedem Vorgang geprüft;
@@ -171,13 +171,13 @@ Die Plattform unterstützt die Übertragung der Stimme in einem einzelnen Sachge
 - **Obergrenze** - 5 Prozent der Teilnehmer, mindestens jedoch 10 Übertragende;
 - **eine aktive Übertragung je Sachgebiet** - eine erneute ist ohne Widerruf der vorherigen nicht möglich;
 - **Widerruf in einem Schritt** - jederzeit, ohne Angabe von Gründen und ohne Zustimmung dessen, dem die Stimme übertragen wurde;
-- **Fragen ohne Übertragung** - Änderung der Charta und der Grundregeln der Schatzkammer, Finanzierung über der festgelegten Schwelle, Bildung des Emergency Multisig, Beschränkung von Befugnissen und Aufhebung der Ausgabe eines Passes: darüber wird nur persönlich abgestimmt.
+- **Fragen ohne Übertragung** - Änderung der Charta und der Grundregeln der Schatzkammer, Finanzierung über der festgelegten Schwelle, Bildung des Emergency Multisig, Beschränkung von Befugnissen, Aussetzung des Stimmrechts, Aufhebung der Ausgabe eines Passes und Änderung der unabänderlichen Grundsätze: darüber wird nur persönlich abgestimmt.
 
 Delegierter kann jeder Earthling sein: Die einzige Auswahl ist die Wahl dessen, der überträgt (Charta, Artikel 7).
 
 ## Die Reihenfolge der Vorschläge
 
-Alle Vorschläge werden **in der zeitlichen Reihenfolge ihrer Einreichung** angezeigt. Das Ansehen des Verfassers wirkt sich auf den Platz in der Reihenfolge nicht aus. Eine Filterung nach Ansehen steht nur als Ansicht zur Verfügung, die jeder Teilnehmer für sich selbst einschaltet.
+Alle Vorschläge werden **in der zeitlichen Reihenfolge ihrer Einreichung** angezeigt. Das Ansehen des Verfassers wirkt sich auf den Platz in der Reihenfolge nicht aus. Eine Filterung nach Ansehen wird nur als Ansicht zur Verfügung stehen, die jeder Teilnehmer für sich selbst einschaltet; heute gibt es sie in der Plattform nicht.
 
 Eine selbsttätige Vorreihung von Vorschlägen bildete eine Tagesordnung ohne förmliche Verantwortung und wird deshalb in der Plattform nicht umgesetzt.
 
@@ -194,7 +194,7 @@ Die Infrastruktur auf niedriger Ebene kann beliebig sein; die Grundsätze hänge
 
 # ABSCHNITT 07. Die Recheneinheit in der Plattform
 
-Die Plattform ist die wichtigste Oberfläche für die praktische Verwendung der Recheneinheit. Die Trennung zwischen Wirtschaft und Macht wird streng beachtet.
+Die Plattform wird die wichtigste Oberfläche für die praktische Verwendung der Recheneinheit sein; heute ist die Einheit nicht ausgegeben: Die Wirtschaft der Teilnahme wird in der inneren Buchführung der Plattform geführt (Dokument „Earthlings Coin“, Abschnitt 8), und die Anwendungsfälle unten beschreiben ihren Zweck. Die Trennung zwischen Wirtschaft und Macht wird streng beachtet.
 
 ### Innere Anwendungen
 
@@ -230,17 +230,17 @@ Die Plattform wird unter Beachtung der Grundsätze der DSGVO und gleichartiger M
 
 Hier ist Ehrlichkeit nötig und kein Versprechen, das sich nicht halten lässt.
 
-Daten in den Speichern der Plattform werden auf Verlangen eines Teilnehmers berichtigt und gelöscht. Einträge in einem verteilten Register lassen sich ihrer Natur nach nicht löschen - und eben deshalb stehen keine personenbezogenen Daten in ihm: Dort stehen pseudonyme Adressen und Vermerke über Handlungen, aber kein Name, kein Papier und keine biometrischen Daten.
+Daten in den Speichern der Plattform werden auf Verlangen eines Teilnehmers berichtigt und auf sein Verlangen gelöscht - außer denen, die in der Datenschutzerklärung genannt sind; bei einem Menschen, der zum Volk gehört, erfolgt die Löschung des Kontos nur zusammen mit dem Austritt. Einträge in einem verteilten Register lassen sich ihrer Natur nach nicht löschen - und eben deshalb werden Name, Dokument, Biometrie und die Hashes der Prüfung bei der Ausgabe nicht in das Register eingetragen. Bei der Ausgabe werden in das Register die Adresse der Geldbörse, die Nummer des Passeintrags, die Kennung des Teilnehmers, über die der Eintrag mit den Daten des Systems der Identitätsprüfung verbunden ist, und die Zeit der Ausgabe eingetragen; in das Feld des Pseudonyms wird bei der Ausgabe das eine Wort „Earthling“ eingetragen, in das Feld des Hashes der Prüfung ein zufälliger Wert, der mit den Daten der Prüfung nicht verbunden ist; Ausgabe und Entwertung hinterlassen im Register Vermerke. Das sind pseudonyme Daten, die bei uns mit Ihrem Konto verbunden sind.
 
-Beim Austritt wird der Pass entwertet, und im Register bleibt ein pseudonymer Vermerk darüber, dass eine Zugehörigkeit in einem bestimmten Zeitraum bestand. Das ist eine Tatsache der Vergangenheit und keine fortdauernde Zugehörigkeit. Dieses Modell entspricht der Praxis, die sich in den europäischen Streitigkeiten über die Kirchenbücher herausgebildet hat: Der Eintrag bleibt, der Status wird vermerkt.
+Beim Austritt wird der Pass entwertet, und im Register bleibt ein pseudonymer Vermerk darüber, dass eine Zugehörigkeit in einem bestimmten Zeitraum bestand. Das ist eine Tatsache der Vergangenheit und keine fortdauernde Zugehörigkeit. Dieses Modell überwiegt in der europäischen Praxis zu den Kirchenbüchern: Der Eintrag bleibt, der Status wird vermerkt; ob dieses Modell genügt, entscheidet zurzeit der Gerichtshof der Europäischen Union (Rechtssache C-12/25).
 
 Die Tilgung der Geschichte verlangt die Vereinigungsfreiheit nicht: Der Verzicht auf eine Staatsangehörigkeit vernichtet keine staatlichen Archive.
 
 ### Identitätsprüfung und Datenschutz
 
 - die biometrischen Daten und die Papiere verarbeitet das eigene System im Augenblick der Prüfung; Aufnahmen und Scans werden nicht gespeichert;
-- die Plattform erhält nur das technische Ergebnis: erfolgreich oder nicht erfolgreich;
-- bei Anfragen staatlicher Stellen kann das Volk bei Vorliegen rechtmäßiger Grundlagen die Tatsache des Status als Teilnehmer bestätigen, legt aber keine biometrischen Daten offen, über die es nicht verfügt;
+- die Plattform erhält vom System der Identitätsprüfung weder biometrische Daten noch Angaben des Papiers, sondern das Ergebnis der Prüfung und die Angaben für das Konto (Abschnitt 03);
+- auf eine rechtskräftige gerichtliche Entscheidung oder eine ihr gleichwertige rechtmäßige Anforderung hin werden Daten nach dem Verfahren der Datenschutzerklärung herausgegeben (Abschnitt 05); biometrische Daten sind nicht darunter - sie werden nicht aufbewahrt;
 - die Einträge im Register folgen dem Grundsatz der Pseudonymität und der Sparsamkeit persönlicher Verknüpfungen.
 
 Die Plattform ist nicht als System einer umfassenden Erfassung gebaut. Sie strebt danach, ein Beispiel schonenden Umgangs mit Daten in einer Zeit zu werden, in der technisch fast alles möglich ist.
@@ -259,7 +259,7 @@ Die konkreten Techniken - Blockchains, Datenbanken, Sprachen, Rahmenwerke - kön
 
 Die Plattform ist nicht für immer an einen Technikstapel gebunden. Bei allen Migrationen bleiben die Grundsätze erhalten: die unübertragbare Identität, die gleiche unveräußerliche Stimme, die Überprüfbarkeit der Vorgänge und der Schutz des Menschen.
 
-> **Die Fähigkeit, ohne Betreiber zu bestehen.** Das Register der Pässe wird in einem verteilten Netz geführt und nicht auf den Servern der Plattform. Das bedeutet, dass der Bestand des Volkes nicht davon abhängt, wer die Plattform heute betreibt, und beim Wechsel des Betreibers, bei einer Migration der Infrastruktur und bei einer erneuten Konstituierung erhalten bleibt, die der Fahrplan als rechtmäßige Fortsetzung anerkennt.
+> **Die Fähigkeit, ohne Betreiber zu bestehen.** Das Register der Pässe wird in einem verteilten Netz geführt und nicht auf den Servern der Plattform. Deshalb bleiben die Einträge des Registers beim Wechsel des Betreibers, bei einer Migration der Infrastruktur und bei einer erneuten Konstituierung erhalten, die der Fahrplan als rechtmäßige Fortsetzung anerkennt; wo das Register heute davon abhängt, wer es betreibt, steht im Dokument „Wo wir jetzt stehen“.
 
 ---
 
@@ -268,25 +268,25 @@ Die Plattform ist nicht für immer an einen Technikstapel gebunden. Bei allen Mi
 Wesentlich ist sowohl, wie die angestrebte Architektur eingerichtet ist, als auch, wie man zu ihr gelangt.
 
 **Abschnitt 1. Der Kern - gebaut und ausgerollt.**
-Persönlicher Bereich, Unterzeichnung der Erklärung, Karte der Projekte, Stände der Zellen, Mechanismus der Abstimmung, Einbindung des eigenen Systems der Identitätsprüfung. Ein Mindestmaß an Funktionen, das für den Anfang genügt.
+Persönlicher Bereich, Karte der Teilnehmer nach Ländern, Stände der Zellen, Mechanismus der Abstimmung, Einbindung des eigenen Systems der Identitätsprüfung. Ein Mindestmaß an Funktionen, das für den Anfang genügt.
 
 **Abschnitt 2. Zellen und Projekte - gebaut und ausgerollt.**
-Der Lauf der Arbeit mit Zellen: Anträge, Bildung, Durchführung, Festhalten der Ergebnisse. Unterstützende Werkzeuge künstlicher Intelligenz zur Auswertung von Anregungen.
+Der Lauf der Arbeit mit Zellen: Anträge, Bildung, Durchführung, Festhalten der Ergebnisse.
 
 **Abschnitt 3. Die Füllung mit Praxis - steht bevor.**
-Regelmäßige inhaltliche Abstimmungen, geheime Abstimmung mit überprüfbarer Auszählung, Übertragung nach Sachgebieten, arbeitende Fonds, Erweiterung der Anwendungen der Recheneinheit. Die Füllung beginnt mit der Eröffnung des Beitritts und geschieht mit dem Wachsen der Zahl der Teilnehmer.
+Regelmäßige inhaltliche Abstimmungen, geheime Abstimmung mit überprüfbarer Auszählung, Übertragung nach Sachgebieten, Unterzeichnung der Erklärung, unterstützende Werkzeuge künstlicher Intelligenz zur Auswertung von Anregungen, arbeitende Fonds, Erweiterung der Anwendungen der Recheneinheit. Die Füllung beginnt mit der Eröffnung des Beitritts und geschieht mit dem Wachsen der Zahl der Teilnehmer.
 
 **Abschnitt 4. Der äußere Verkehr - steht bevor.**
 Der Verkehr mit internationalen Organisationen, Universitäten, Forschungseinrichtungen. Die Bereitstellung zusammengefasster Daten zur Auswertung weltweiter Vorgänge. Die Teilnahme des Volkes an der Erörterung von Fragen, die über ein Land hinausgehen.
 
 > **Zur Grenze des vierten Abschnitts.** Die Rede ist vom Recht, gehört zu werden, und nicht von Macht in der Entscheidung. Die Plattform wird nicht zu einem Ort, an dem Beschlüsse gefasst werden, die für jemanden außer den Earthlings selbst verbindlich sind, und kann es nicht werden. Die Befugnisse der Staaten werden nicht berührt (Erklärung, Artikel 6).
 
-Die Aufteilung in Gebautes und Bevorstehendes wird ehrlich angeführt: Die Infrastruktur besteht und ist in der Arbeitsumgebung geprüft, doch ihr beweisender und praktischer Wert entsteht mit dem Ansammeln von Teilnahme und nicht im Augenblick der Ausrollung.
+Die Aufteilung in Gebautes und Bevorstehendes wird ehrlich angeführt. Der Vertrag des Registers der Pässe, die Identitätsprüfung, die Zellen und die Erfassung der inneren Wirtschaft sind ausgerollt und arbeiten; der öffentliche Kanal der Abstimmungen ist ausgerollt, doch inhaltliche Abstimmungen hat es in ihm noch nicht gegeben, ein Mittel der geheimen Abstimmung wird ausgewählt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Der beweisende und praktische Wert der Infrastruktur entsteht mit dem Ansammeln von Teilnahme und nicht im Augenblick der Ausrollung.
 
 ---
 
 ## Anmerkung: die äußere rechtliche Schnittstelle
 
-Für den Verkehr mit der überkommenen rechtlichen, verwaltungsmäßigen und finanziellen Infrastruktur nutzt das Volk der Earthlings eingetragene rechtliche Werkzeuge in verschiedenen Rechtsordnungen. Solche Werkzeuge sind austauschbare betriebliche Mittel des äußeren Verkehrs und bestimmen das Volk nicht.
+Für den Verkehr mit der überkommenen rechtlichen, verwaltungsmäßigen und finanziellen Infrastruktur werden eingetragene rechtliche Werkzeuge in einer oder mehreren Rechtsordnungen genutzt. Solche Werkzeuge sind austauschbare betriebliche Mittel des äußeren Verkehrs und bestimmen das Volk nicht.
 
-Personen, die über diese Werkzeuge handeln, führen einen Auftrag der Vollversammlung aus, der jederzeit mit einfacher Mehrheit widerrufen wird, und begründen keine Ämter. Das ausführliche Rechtsmodell steht im Dokument [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html).
+Nach der Annahme der Erklärung führen Personen, die durch diese Werkzeuge handeln, einen widerruflichen Auftrag der DAO-Vollversammlung aus und begründen keine Ämter; vor der Annahme gibt es das Volk nicht, und niemand handelt in seinem Namen. Das ausführliche Rechtsmodell steht im Dokument [Die Rechtsgrundlage](https://earth-lings.org/documents/de/de04-rechtsgrundlage.html).

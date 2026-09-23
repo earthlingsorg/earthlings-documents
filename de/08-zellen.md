@@ -25,7 +25,7 @@ In der Charta werden die Zellen als die grundlegenden Träger des Handelns anges
 
 # ABSCHNITT 02. Wie die Arbeit eingerichtet wird: dauerhafte Zusammenschlüsse und Projektteams
 
-Die Charta kennt eine Form - die Zelle aus zwei bis sechs Menschen, gebildet für ein bestimmtes Projekt, eine Untersuchung oder eine Anregung. Alles unten Dargelegte ist eine **Weise, die Arbeit auf der Plattform einzurichten**, und keine gesonderte Struktur des Volkes: Sie kann durch Beschluss der Vollversammlung geändert werden und begründet weder Organe noch Befugnisse.
+Die Charta kennt eine Form - die Zelle aus zwei bis sechs Menschen, gebildet für ein bestimmtes Projekt, eine Untersuchung oder eine Anregung. Alles unten Dargelegte ist eine **Weise, die Arbeit auf der Plattform einzurichten**, und keine gesonderte Struktur des Volkes: Sie kann durch Beschluss der DAO-Vollversammlung geändert werden und begründet weder Organe noch Befugnisse.
 
 **Dauerhafte Zusammenschlüsse nach Sachkunde** - Juristen, Ingenieure, Programmierer, Analytiker und andere - bestehen unabhängig von bestimmten Projekten. Sie erhalten die Güte der Sachkunde, bereiten Empfehlungen und Standards vor und helfen Neuen, innerhalb des Volkes in ein Fach hineinzufinden.
 
@@ -55,7 +55,7 @@ Braucht ein Projekt mehr Menschen, so werden mehrere Zellen gebildet und nicht e
 
 **1. Das Auftauchen einer Idee.** Jeder Earthling reicht über den persönlichen Bereich eine Anregung ein: ein ökologisches Projekt, ein Bildungsprogramm, eine Untersuchung, eine technische Lösung. Der Antrag beschreibt das Problem, das Ziel, die erwartete Wirkung, den Zeithorizont und die nötige Sachkunde. Eine vorherige Billigung und eine Schwelle der Unterstützung sind für die Einreichung nicht erforderlich.
 
-**2. Die erste Auswertung.** Unterstützende Werkzeuge künstlicher Intelligenz prüfen die Übereinstimmung mit der Erklärung und der Ethik, das Fehlen offenkundiger Konflikte, die ungefähre Durchführbarkeit und schlagen bei Bedarf Verbesserungen der Formulierungen vor.
+**2. Die erste Auswertung.** Unterstützende Werkzeuge künstlicher Intelligenz werden die Übereinstimmung mit der Erklärung und der Ethik, das Fehlen offenkundiger Konflikte und die ungefähre Durchführbarkeit prüfen und bei Bedarf Verbesserungen der Formulierungen vorschlagen; heute gibt es solche Werkzeuge in der Plattform nicht.
 
 > **Drei Regeln, die unabhängig davon gelten, welches Modell verwendet wird** (Erklärung, Artikel 3):
 > - **die künstliche Intelligenz entscheidet nichts** - jede ihrer Schlussfolgerungen ist empfehlend und begründet keine Ablehnung;
@@ -80,13 +80,13 @@ Unterstützende Werkzeuge erleichtern die Entscheidungsfindung, treten aber nich
 
 Eine Zelle ist ein Team im menschlichen Maß, und die Entscheidungen fallen in ihr weder durch eine Mehrheit, die eine Minderheit überfährt, noch durch Einstimmigkeit, die bei einem einzigen Widersprechenden jedes Handeln einfriert.
 
-Eine Zelle arbeitet nach dem Grundsatz des **Konsents**: Eine Entscheidung gilt als getroffen, wenn kein Teilnehmer einen begründeten Einwand erhoben hat. Schweigen nach dem Abschluss der Erörterung gilt als Zustimmung - ein untätiger oder abwesender Teilnehmer blockiert die Zelle nicht, verliert aber auch seine Stimme nicht, solange die Erörterung läuft.
+Eine Zelle arbeitet nach dem Grundsatz des **Konsents**: Eine Entscheidung gilt als getroffen, wenn kein Teilnehmer einen begründeten Einwand erhoben hat. Schweigen nach dem Abschluss der Erörterung gilt als Zustimmung - ein untätiger oder abwesender Teilnehmer blockiert die Zelle nicht, verliert aber auch seine Stimme nicht, solange die Erörterung läuft. Die Fristen der Erörterung, der Pause und der Abstimmung legt die Plattform fest und gibt sie im Vorschlag selbst bekannt.
 
 Konsent bedeutet nicht, dass eine Entscheidung allen gefällt. Er bedeutet, dass niemand in ihr einen Schaden, eine Verletzung der Grundsätze oder einen Zwang sieht. Das ist eine bewusst niedrige Schwelle für das Handeln und eine hohe Schwelle für den Zwang.
 
 ## Was als begründeter Einwand gilt
 
-Ein Einwand hält eine Entscheidung nur dann auf oder ändert sie, wenn er sich auf mindestens eine der Grundlagen stützt und von einem Argument begleitet wird:
+Ein Einwand hält eine Entscheidung nur dann auf oder ändert sie, wenn er sich auf mindestens eine der Grundlagen stützt und von einem Argument begleitet wird. Die Grundlage benennt der Einwendende selbst; einen Einwand einer anderen Grundlage zuzuordnen ist nur durch eine Behandlung nach Abschnitt 10 möglich:
 
 - **Schaden** - die Entscheidung schadet der Zelle, dem Projekt oder einem Teilnehmer konkret;
 - **Verletzung der Grundsätze** - sie widerspricht der Erklärung, den roten Linien oder der Ethik;
@@ -101,8 +101,8 @@ Ein Einwand, der auf einer persönlichen Vorliebe beruht - „gefällt mir nicht
 
 Ist ein begründeter Einwand erhoben, so ist die Zelle verpflichtet, ihn zu behandeln: ihn zu berücksichtigen, durch eine Änderung auszuräumen oder begründet zu widerlegen.
 
-- Einwände auf den Grundlagen der **Verletzung der Grundsätze oder des Zwangs** sind zwingend zu befolgen: Eine Entscheidung kann nicht getroffen werden, solange sie nicht ausgeräumt sind. Das ist der Schutz des Menschen und der Grundlagen des Volkes, und er lässt sich durch Abstimmung nicht überwinden;
-- Einwände auf den Grundlagen des **Schadens oder der Undurchführbarkeit** lösen eine Runde der Beilegung aus; sind sie nach einem redlichen Versuch nicht ausgeräumt, so wird die Frage durch eine Abstimmung der Zelle entschieden - geheim, wie jede persönliche Stimme (Charta, Artikel 6) -, und das geltend gemachte Risiko wird festgehalten;
+- Einwände, die sich auf die **Verletzung der Grundsätze oder auf Zwang** stützen, sind zwingend zu beachten: Eine Entscheidung kann nicht getroffen werden, solange sie nicht ausgeräumt sind. Das ist der Schutz des Menschen und der Grundlagen des Volkes, und er lässt sich durch Abstimmung nicht überwinden;
+- Einwände, die sich auf **Schaden, Undurchführbarkeit oder ein ernstes Risiko** stützen, lösen eine Runde der Beilegung aus; sind sie nach einem redlichen Versuch nicht ausgeräumt, so wird die Frage durch eine Abstimmung der Zelle entschieden - geheim, wie jede persönliche Stimme (Charta, Artikel 6) -, und das geltend gemachte Risiko wird festgehalten. Bei einer solchen Abstimmung ist die Entscheidung getroffen, wenn es mehr Stimmen dafür als dagegen gibt; wer sich enthalten hat, hat an der Abstimmung teilgenommen, zählt aber weder zum Dafür noch zum Dagegen. Die Abstimmung ist nur gültig, wenn mehr als die Hälfte der Teilnehmer der Zelle teilgenommen hat. Ein Mittel der geheimen Abstimmung gibt es noch nicht - es wird ausgewählt, und zurzeit bewahrt die Plattform die Stimmen in den Zellen zusammen mit dem Konto auf (Dokument „Wo wir jetzt stehen“; Datenschutzerklärung, Abschnitt 02);
 - ein in der Zelle nicht beigelegter Streit geht in das in Abschnitt 10 beschriebene Verfahren über.
 
 ## Zwei verschiedene Arten von Entscheidungen
@@ -121,14 +121,14 @@ Solche Entscheidungen betreffen die Arbeit und nicht jemanden persönlich.
 
 Einem Teilnehmer eine Aufgabe mit einer bestimmten Frist übertragen. Die Regeln ändern, nach denen die Zelle lebt. Einen neuen Menschen aufnehmen. Sich von einem Teilnehmer trennen.
 
-**Die Regel:** Wen eine Entscheidung persönlich trifft, der muss ausdrücklich zustimmen - Schweigen genügt nicht.
+**Die Regel:** Wen eine Entscheidung persönlich trifft, der muss ausdrücklich zustimmen - Schweigen genügt nicht. Es gibt eine einzige Ausnahme, und sie steht unten: Bei der Trennung von einem Teilnehmer ist die Zustimmung des Ausscheidenden selbst nicht erforderlich.
 
 Gesondert zu jedem Fall:
 
 - **Eine persönliche Pflicht** - ein Auftrag, eine Frist, die Verantwortung für einen Arbeitsbereich - entsteht nur mit der ausdrücklichen Zustimmung des Menschen selbst. Niemand kann ohne sein Wort zum Verpflichteten bestimmt werden.
 - **Die Regeln der Zelle** werden nur mit der Zustimmung aller ihrer Teilnehmer geändert. Ein Mensch hat zugestimmt, nach bestimmten Regeln zu arbeiten; sie hinter seinem Rücken zu ändern ist nicht möglich.
 - **Die Aufnahme eines neuen Teilnehmers** - mit der Zustimmung aller, die bereits in der Zelle sind, und selbstverständlich des Eintretenden selbst.
-- **Die Trennung von einem Teilnehmer** - mit der Zustimmung aller übrigen Teilnehmer der Zelle, nachdem versucht wurde, die Meinungsverschiedenheit im Verfahren des Abschnitts 10 beizulegen. Die Zustimmung des Ausscheidenden selbst ist hier nicht erforderlich: Sonst wäre ein Team aus zwei bis sechs Menschen einem Einzigen ausgeliefert, und gegen den Willen der Übrigen zusammenzuarbeiten lässt sich niemand zwingen.
+- **Die Trennung von einem Teilnehmer** - mit der Zustimmung aller übrigen Teilnehmer der Zelle, nachdem versucht wurde, die Meinungsverschiedenheit im Verfahren des Abschnitts 10 beizulegen. Die Zustimmung des Ausscheidenden selbst ist hier nicht erforderlich: Sonst wäre ein Team aus zwei bis sechs Menschen einem Einzigen ausgeliefert, und gegen den Willen der Übrigen zusammenzuarbeiten lässt sich niemand zwingen. In einer Zelle aus zwei Menschen findet die Trennung keine Anwendung: „alle übrigen Teilnehmer“ ist ein einziger Mensch, und er allein entschiede über die Trennung des zweiten; es bleibt der freie Austritt nach Abschnitt 06.
 
 ### Warum das so ist
 
@@ -192,7 +192,7 @@ Das Modell passt naturgemäß zu Zellen, in denen der wesentliche Beitrag die Me
 
 ## Der Beitrag zum gemeinsamen Wohl
 
-5 Prozent des Gewinns einer Zelle fließen in die Schatzkammer der Earthlings. Die Abführung kann in der Recheneinheit, in staatlicher Währung oder in Stablecoin über durchsichtige Mechanismen erfolgen.
+5 Prozent des Gewinns einer Zelle werden in die Schatzkammer der Earthlings fließen; das Verfahren der Erfassung des Gewinns einer Zelle und das Verfahren der Abführung werden durch Beschluss der DAO-Vollversammlung festgelegt, und heute gibt es weder das eine noch das andere (Dokument „Wo wir jetzt stehen“). Die Abführung kann in der Recheneinheit, in staatlicher Währung oder in Stablecoin über durchsichtige Mechanismen erfolgen.
 
 Diese Mittel tragen die gemeinsame Infrastruktur, Bildungsanregungen, die Hilfe für beginnende Zellen und die strategischen Ziele des Volkes.
 
@@ -203,7 +203,7 @@ Die Zellen sind nicht auf das innere Ökosystem beschränkt. Sie können fachlic
 **Grundsätze:**
 
 - **durchsichtige Rechenschaft** - die Zellen erklären den Gewinn zur Berechnung der Abführung;
-- **freiwillige Ehrlichkeit** - das System beruht auf Vertrauen; das Verheimlichen von Einnahmen ist eine Verletzung der Absprachen gegenüber dem Volk;
+- **verbindliche Abführung, freiwillige Überprüfung** - die Abführung ist verbindlich, ihre Richtigkeit aber überprüft niemand: Die Berechnung beruht auf der Selbsterklärung, und das Verheimlichen von Einnahmen ist eine Verletzung der Absprachen gegenüber dem Volk;
 - **Freiheit der Ausgestaltung** - die Zellen entscheiden selbst, wie sie die rechtliche Seite der Arbeit einrichten.
 
 Der Gewinn aus äußerer Tätigkeit kann in die Entwicklung der Zelle zurückfließen, unter den Teilnehmern verteilt oder auf neue Projekte gerichtet werden.
@@ -258,7 +258,7 @@ Im System der Zellen ist die Verwendung von Kennzeichen der Güte der Arbeit zul
 >
 > - es ist keine Voraussetzung des Eintritts in eine Zelle und der Teilnahme an einem Projekt;
 > - es wirkt sich auf die Reihenfolge der Finanzierung nicht aus: Diese bestimmt die Zahl der Teilnehmer, die ein Projekt unterstützt haben, und keine Bewertung des Antragstellers (Charta, Artikel 11);
-> - es wirkt sich auf den Platz eines Vorschlags in der Reihenfolge nicht aus - die Reihenfolge ist zeitlich;
+> - es wirkt sich auf den Platz eines Vorschlags in der Reihenfolge nicht aus - die Reihenfolge ist als Voreinstellung zeitlich;
 > - es begründet keine Sanktionen: Maßnahmen werden nur im Verfahren des Artikels 22 der Charta verhängt, mit dem Recht auf Verteidigung und mit Beschwerde, und berühren die Rechte einer Person nicht.
 >
 > Das Ansehen ist ein Werkzeug der Orientierung und nichts weiter. Ein Mechanismus, in dem es den Zugang zu Mitteln öffnet, verwandelt es in ein verstecktes Stimmgewicht und ist deshalb ausgeschlossen.
@@ -272,14 +272,14 @@ Im System der Zellen ist die Verwendung von Kennzeichen der Güte der Arbeit zul
 - Achtung vor der Person jedes Teilnehmers;
 - Vorzug für Gespräch und Vermittlung;
 - durchsichtige Regeln des Eintritts, der Arbeit und des Austritts;
-- die Unmöglichkeit, sich eine Zelle anzumaßen.
+- die Unmöglichkeit, sich die Stimme des Volkes und die gemeinsamen Mittel anzumaßen.
 
 ## Die Beilegung von Konflikten
 
 - ein inneres Gespräch in der Zelle mit dem Festhalten der Positionen;
 - die Anrufung eines unabhängigen Mediators - aus anderen Zellen oder aus besonders vorbereiteten Gruppen;
 - bei schweren Verletzungen die Anrufung des Unabhängigen Rates. Bis zur Bildung des Rates entfällt dieser Abschnitt, und die Fristen der Erörterung verdoppeln sich (Charta, Artikel 39);
-- in äußersten Fällen die Auflösung oder Umgestaltung der Zelle unter Berücksichtigung der Interessen aller Teilnehmer.
+- in äußersten Fällen die Auflösung der Zelle (Charta, Artikel 25); ihre eigene Zusammensetzung umgestalten kann eine Zelle nur selbst, nach den Regeln des Abschnitts 05.
 
 ## Das Eingreifen der DAO
 
@@ -302,9 +302,9 @@ Der Austritt aus einer Zelle, der Ausschluss aus einem Projektteam und die Aufl�
 
 # ABSCHNITT 11. Daten und Privatheit
 
-**Was gespeichert wird:** die Pseudonyme der Teilnehmer und ihre Rolle in der Zelle; die Beschreibung des Projekts und sein Stand; die wesentlichen Abschnitte und Ergebnisse der Arbeit; zusammengefasste Kennzeichen der Teilnahme.
+**Was gespeichert wird:** die Pseudonyme der Teilnehmer und ihre Rolle in der Zelle; die Beschreibung des Projekts und sein Stand; die wesentlichen Abschnitte und Ergebnisse der Arbeit; zusammengefasste Kennzeichen der Teilnahme; die Stimmen in den Abstimmungen der Zelle - zusammen mit dem Konto, solange kein Mittel der geheimen Abstimmung ausgewählt ist (Abschnitt 05); das festgehaltene Nichteinverständnis, das geltend gemachte Risiko und die Positionen der Seiten des Konflikts.
 
-**Was das System nicht speichert:** biometrische Daten und Scans von Papieren; empfindliche persönliche Daten, die die Arbeit nicht betreffen; verborgene Listen, in denen Menschen ohne verständliche Gründe als unerwünscht vermerkt werden; ausführliche Aufzeichnungen persönlicher Verständigung, die mit dem Arbeitsablauf nicht zusammenhängt.
+**Was das System nicht speichert:** biometrische Daten und Scans von Papieren; empfindliche persönliche Daten, die die Arbeit nicht betreffen; verborgene Listen, in denen Menschen als unerwünscht vermerkt werden; ausführliche Aufzeichnungen persönlicher Verständigung, die mit dem Arbeitsablauf nicht zusammenhängt.
 
 ---
 
@@ -315,8 +315,8 @@ Das System der Zellen ist nicht für immer in einer Gestalt festgeschrieben. Es 
 - es können neue Weisen entstehen, die Arbeit einzurichten, wenn sie einen praktischen Sinn haben;
 - die Verfahren der Teilnahme, der Beilegung von Konflikten und der Verteilung von Mitteln können genauer gefasst werden;
 - die technischen Werkzeuge können sich ändern;
-- jede erhebliche Änderung der Regeln wird in der DAO erörtert und bestätigt.
+- jede erhebliche Änderung der Regeln wird von der DAO-Vollversammlung erörtert und bestätigt.
 
-Unverändert bleiben die Grundsätze, die im unabänderlichen Kern der Erklärung und in Artikel 37 der Charta festgelegt sind: das menschliche Maß, die Freiheit der Teilnahme, die gleiche und unveräußerliche Stimme, die Achtung vor der Person. Sie ändert weder dieses Dokument noch ein Beschluss der Vollversammlung.
+Unverändert bleiben die Grundsätze, die im unabänderlichen Kern der Erklärung und in Artikel 37 der Charta festgelegt sind: die Freiheit der Teilnahme, die gleiche und unveräußerliche Stimme, die Achtung vor der Person. Sie ändert weder dieses Dokument noch ein Beschluss der DAO-Vollversammlung. Das menschliche Maß ist in Artikel 23 der Charta festgelegt und hat diesen Schutz nicht: Die DAO-Vollversammlung ändert es im gewöhnlichen Verfahren des Artikels 36.
 
 Die Zellen der Earthlings sind kein vollkommenes Modell auf dem Papier, sondern ein Arbeitswerkzeug. Es wird genauer werden in dem Maß, in dem Menschen versuchen, sich irren, berichtigen und wieder versuchen.

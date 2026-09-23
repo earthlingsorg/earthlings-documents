@@ -294,7 +294,7 @@ Diese Erklärung wird in russischer und in englischer Sprache angenommen. Beide 
 
 Diese Erklärung wurde am \_\_\_\_\_\_\_\_\_\_ durch Abstimmung der Menschen angenommen, die ihre Identität nachgewiesen hatten, nach dem Grundsatz „ein Mensch - eine Stimme“. Die Abstimmung wurde über den russischen und den englischen Text geführt, die als gleichermaßen verbindlich anerkannt sind.
 
-Auf die Annahme entfielen \_\_\_\_\_\_ von \_\_\_\_\_\_ abgegebenen Stimmen, bei \_\_\_\_\_\_ geprüften Menschen am Tag des Abschlusses der Vorschlagsfrist.
+Auf die Annahme entfielen \_\_\_\_\_\_ von \_\_\_\_\_\_ abgegebenen Stimmen, bei \_\_\_\_\_\_ geprüften Menschen am Tag der Abstimmung.
 
 Von diesem Tag an ist das Volk der Earthlings konstituiert, und die Unterzeichner dieser Erklärung sind Earthlings.
 

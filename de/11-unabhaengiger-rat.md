@@ -4,7 +4,7 @@
 
 > Dieses Dokument führt Artikel 4 der Charta des Volkes der Earthlings näher aus, der Stellung, Befugnisse und Verfahren der Bildung des Unabhängigen Rates bestimmt. Bei einer Abweichung gilt die [Charta](https://earth-lings.org/documents/de/de05-charta.html), und bei einer Abweichung der Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) gilt die Erklärung.
 >
-> **Der Zustand von heute.** Der Rat ist in den Gründungsdokumenten vorgesehen und wird mit dem Wachsen des Volkes gebildet. Bis zu seiner Bildung entfallen die Abschnitte der Verfahren, die seine Mitwirkung vorsehen, und die Fristen der öffentlichen Beratung der entsprechenden Fragen verdoppeln sich (Charta, Artikel 39). Die Bildung des Rates ist eine der vier Voraussetzungen für den Abschluss der Phase des Strukturaufbaus.
+> **Der Zustand von heute.** Der Rat ist in den Gründungsdokumenten vorgesehen und wird nach der Annahme der Erklärung mit dem Wachsen des Volkes gebildet. Bis zu seiner Bildung entfallen die Abschnitte der Verfahren, die seine Mitwirkung vorsehen, und die Fristen der öffentlichen Beratung der entsprechenden Fragen verdoppeln sich (Charta, Artikel 39). Die Bildung des Rates ist eine der vier Voraussetzungen für den Abschluss der Phase des Strukturaufbaus (Charta, Artikel 39); diese Phase beginnt mit der Annahme der Erklärung, mit der die Charta in Kraft tritt, und bis dahin läuft die Gründungsphase (Dokument „Die Gründungsphase“).
 
 ---
 
@@ -31,11 +31,11 @@ Die Unabhängigkeit des Rates ist die Unabhängigkeit des **Urteils** und keine 
 ## Die ethische Prüfung
 
 - Beurteilung des Handelns der Strukturen und der Aufträge des Volkes nach ethischen, ökologischen und rechtlichen Maßstäben
-- Untersuchung von Fällen, die mit inneren Konflikten, Diskriminierung und Verletzung des Vertrauens zusammenhängen
+- Untersuchung von Fällen, die mit inneren Konflikten, Diskriminierung und Verletzung des Vertrauens zusammenhängen; eine fachliche Stellungnahme zu beantragen ist jeder Earthling befugt (Charta, Artikel 4)
 
 ## Die Mitwirkung an den in der Charta vorgesehenen Verfahren
 
-Das sind die einzigen Aufgaben des Rates, die in verbindliche Verfahren eingebaut sind, und beide haben den Charakter einer Stellungnahme und nicht einer Entscheidung.
+Die Charta baut den Rat in fünf Verfahren ein, und in allen gibt er eine Stellungnahme oder eine Empfehlung ab und entscheidet nicht. Zwei von ihnen sind unten beschrieben: die vorherige Behandlung von Maßnahmen nach Artikel 22 und die Stellungnahme bei der Aufhebung einer unwirksamen Ausgabe eines Passes (Artikel 21). Drei weitere sind die zwingende Stellungnahme bei der Aussetzung des Stimmrechts (Artikel 22-bis), die Empfehlungen bei einer Krise, die einen Beschluss der DAO verlangt (Artikel 33, Stufe 2), und die empfehlende Stellungnahme im Abschnitt der fachlichen Prüfung bei einer Änderung der Charta (Artikel 36). Zwingend nennt die Charta die Stellungnahme nur nach Artikel 22-bis - und das ist der einzige Fall, in dem das Stimmrecht eines Menschen ausgesetzt werden kann.
 
 **Die Vorprüfung von Maßnahmen nach Artikel 22 der Charta** - der Verwarnung und der Maßnahmen gegenüber gemeinsamen Mitteln. Der Rat prüft binnen 14 Tagen die Begründetheit der Einleitung und veröffentlicht eine Empfehlung.
 
@@ -63,7 +63,7 @@ Der Rat bezieht die weltweite wissenschaftliche, menschenrechtliche und ökologi
 
 # ABSCHNITT 03. Zusammensetzung und Bildung
 
-Der Rat besteht aus 7 bis 11 Menschen - einer ungeraden Zahl - aus dem Kreis der Earthlings mit anerkannter Sachkunde, die an der betrieblichen Verwaltung nicht mitwirken.
+Der Rat besteht aus 7 bis 11 Menschen - einer ungeraden Zahl - aus dem Kreis der Earthlings, die an der betrieblichen Verwaltung nicht mitwirken. Die anerkannte Sachkunde in einem der Bereiche der Sachkunde des Rates (Charta, Artikel 4) ist ein Anhaltspunkt für die Abstimmenden und keine Anforderung an einen Kandidaten: Die Aufstellung steht jedem Earthling offen, und jede eingebrachte Kandidatur gelangt zur Abstimmung.
 
 ## Die Bereiche der Sachkunde
 
@@ -149,7 +149,7 @@ Die Arbeitsgruppen des Rates stehen jedem Earthling zur Teilnahme offen und habe
 
 - Öffentliche Anmerkungen und Empfehlungen abzugeben
 - Öffentliche Erörterungen heikler Themen anzuregen
-- Die in den Artikeln 21 und 22 der Charta vorgesehenen Stellungnahmen zu veröffentlichen
+- Die in den Artikeln 21, 22, 22-bis, 33 und 36 der Charta vorgesehenen Stellungnahmen und Empfehlungen zu veröffentlichen
 - Der Vollversammlung eine Überprüfung der Zusammensetzung der Core Nodes, des Emergency Multisig oder anderer dienender Strukturen zu empfehlen
 - Kandidaten für die Mitgliedschaft im Rat vorzuschlagen
 
@@ -168,7 +168,7 @@ Alle aufgezählten Rechte werden in der Form einer öffentlichen Äußerung ausg
 
 # ABSCHNITT 07. Die Sicherung der Unabhängigkeit
 
-Die Unabhängigkeit wird durch die zwingende Anzeige von Interessenkonflikten, durch den Ausschluss von der Abstimmung bei persönlicher Beteiligung nach Artikel 16 der Charta, durch den Wechsel der Zusammensetzung und durch die öffentliche Offenlegung aller Stellungnahmen gesichert.
+Die Unabhängigkeit wird durch die zwingende Anzeige von Interessenkonflikten, durch den Ausschluss von der Abstimmung bei persönlicher Beteiligung nach Artikel 16 der Charta, durch den Wechsel der Zusammensetzung, durch die öffentliche Offenlegung aller Stellungnahmen und durch einen geschützten Haushalt gesichert: Die Finanzierung des Rates kann ohne qualifizierte Mehrheit nicht gekürzt werden (Charta, Artikel 4). Das Verbot, an der Verwaltung der Finanzen mitzuwirken (Abschnitt 06), betrifft den eigenen Haushalt des Rates nicht.
 
 Ein Mitglied des Rates, das an der Vorbereitung einer Stellungnahme zu einer Frage mitwirkt, die es selbst oder ihm verbundene Personen betrifft, zeigt das vor Beginn der Arbeit an und wirkt an der Vorbereitung der Stellungnahme nicht mit.
 

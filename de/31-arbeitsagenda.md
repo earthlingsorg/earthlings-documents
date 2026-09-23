@@ -16,9 +16,9 @@
 
 # Teil 0. Wie dieses Dokument zu lesen ist
 
-Zugrunde liegt eine radikale, aber ergiebige Metapher: die heutige Weltordnung - mit ihrer ganzen gesellschaftlich-politischen, wirtschaftlichen und rechtlichen Verfassung - ist ein arbeitendes, aber altes Betriebssystem. Der behelfsmäßige Name lautet „Windows XP“. Es ist nicht sinnlos: Es fährt hoch, auf ihm leben Milliarden Prozesse. Doch seine Bugs sind bereits bekannt - jene, die sich über Jahrzehnte zeigen und Menschenleben kosten.
+Zugrunde liegt eine radikale, aber ergiebige Metapher: die heutige Weltordnung - mit ihrer ganzen gesellschaftlich-politischen, wirtschaftlichen und rechtlichen Verfassung - ist ein arbeitendes, aber altes Betriebssystem. Der behelfsmäßige Name lautet „Windows XP“ (eine Marke von Microsoft; der Name ist als Metapher gewählt und nicht als Aussage über das Produkt). Es ist nicht sinnlos: Es fährt hoch, auf ihm leben Milliarden Prozesse. Doch seine Bugs sind bereits bekannt - jene, die sich über Jahrzehnte zeigen und Menschenleben kosten.
 
-Die Frage des Dokuments lautet: Wenn man einen vollständigen Stab von Entwicklern und ein leeres Blatt hätte, wie sähe die nächste Fassung aus - „Terra 1.0“? Eine ideale gibt es nicht - die Rede ist von der richtigsten und vollkommensten unter den in der heutigen Lage erreichbaren.
+Die Frage des Dokuments lautet: Wenn man einen vollständigen Stab von Entwicklern und ein leeres Blatt hätte, wie sähe das nächste System aus - „Terra 1.0“? Es geht nicht um eine weitere Veröffentlichung desselben Herstellers: Das neue System bauen andere Menschen, und einen Eigentümer hat es nicht. Ein ideales System gibt es nicht - die Rede ist von dem richtigsten und vollkommensten, das in der heutigen Lage erreichbar ist.
 
 Die Metapher des Betriebssystems ist ernst genommen. Ein Betriebssystem hat eine wirkliche Anatomie: einen Kern und Ringe der Privilegien, ein Modell der Berechtigungen, die Isolierung der Prozesse, einen Scheduler, einen Mechanismus der Aktualisierung, die Behandlung von Fehlern, die Authentifizierung. Jede dieser Achsen bildet sich erstaunlich genau auf den Aufbau der Gesellschaft ab - und wo die Abbildung bricht, bricht sie lehrreich. Am Ende (Teil IX) wird auch der Hauptmangel der Metapher selbst zerlegt: Ein Betriebssystem hat einen Eigentümer, die Menschheit aber darf keinen haben. Die Sprache der Betriebssysteme ist genau wegen dieser Genauigkeit gewählt - sie ist am nächsten und am verständlichsten, um einen solchen Aufbau zu erklären. Dabei ist „Terra 1.0“ eine Linse der Zerlegung und keine Losung: Im Modell selbst verschwindet der Staat nicht, sondern wird zu einer dünnen Schicht (Teil III), es geht also um den Umbau des ganzen Stapels als Gegenstand der Zerlegung, der die Staaten ergänzt, und nicht um ihre Abschaffung.
 
@@ -110,9 +110,9 @@ III.1
 
 ## Ein Mikrokern statt eines Monolithen
 
-Die erste Entscheidung jedes Betriebssystems: was in Ring 0 läuft (privilegiert) und was im user space, wo ein Prozess abstürzen kann, ohne das System mitzureißen. Ein Monolith ist eine schlechte Architektur. Hier ist die Architektur ein **Mikrokern**. Im Kern liegt nur das, was physisch untrennbar und rival ist, das, aus dem man nicht austreten kann:
+Die erste Entscheidung jedes Betriebssystems: was in Ring 0 läuft (privilegiert) und was im user space, wo ein Prozess abstürzen kann, ohne das System mitzureißen. Ein Monolith ist eine schlechte Architektur. Hier ist die Architektur ein **Mikrokern**. Im Kern liegt nur das, aus dem man nicht austreten kann: was physisch untrennbar und rival ist - und der Schutz derer, die keinen Beitrag leisten können (Teil II):
 
-- der Schutz der körperlichen Sicherheit und des physischen Raumes;
+- der Schutz der körperlichen Sicherheit und des physischen Raumes sowie der geschützte Boden - das gewährleistete Mindestmaß, unter das das System niemanden fallen lässt (Modul 2);
 - die planetaren Systeme der Lebenserhaltung - Klima, Ozean, Atmosphäre, Umlaufbahn, Frequenzspektrum, Wasser;
 - die Steuerung der Übertechniken, bei denen der Preis eines Fehlers die Art als Ganzes ist (künstliche Intelligenz, Bioingenieurwesen);
 - und vor allem die Aufrechterhaltung des Modells der Berechtigungen selbst - die Gewähr dafür, dass niemand zum Root wird.
@@ -191,7 +191,7 @@ Der Mensch ist zugleich **user** (Souverän über seinen Bereich) und, gemeinsam
 
 - **Den gemeinsamen Speicher nicht verderben.** Die eigenen Kosten nicht in die Biosphäre und in fremdes Leben abladen. Die Verinnerlichung externer Kosten ist weder eine Steuer noch eine Moral, sondern ein Verbot der memory corruption: Man darf keine Zerstörung in einen Speicher schreiben, den alle teilen.
 - **Den Unterhalt des Gemeinsamen tragen.** In die Kernschicht (Sicherheit, Commons, Schutz der Schwachen) einzahlen, aus der man nicht austreten kann - eben deshalb, weil man aus ihr nicht vor den Pflichten auswandern kann. Der einzige legitime Zwang zu einem Beitrag.
-- **Das System betreuen.** Die Teilnahme als maintenance. Ein Betriebssystem, das niemand betreut, verfällt. Bürger zu sein heißt zugleich einloggen und Dienst am System tun: ein Mindestmaß an Aufmerksamkeit und Arbeit, ohne das das Gemeinsame rostet.
+- **Das Gemeinsame instand halten.** Die Teilnahme als maintenance. Ein Betriebssystem, das niemand betreut, verfällt. Bürger zu sein heißt zugleich einloggen und Dienst am System tun: ein Mindestmaß an Aufmerksamkeit und Arbeit, ohne das das Gemeinsame rostet.
 
 # Teil V · Modul 1. Die Sybil-Identität: das Login eines Menschen ohne einen neuen Großen Bruder
 
@@ -225,7 +225,7 @@ Jedes wirkliche System opfert eines für zwei. Anscheinend ist das eine Struktur
 Der Schlüsselzug besteht darin, das zu entkleben, was das Wort „Identität“ zu einem Klumpen zusammengeschmolzen hat: die **Authentifizierung** (derselbe Träger), die **Einmaligkeit** (der Träger ist einer) und die **Merkmale** (der Mensch ist 18 / er gehört genau hierher / er hat das Recht X). Das Verbrechen der Passsysteme besteht darin, alle drei durch eine einzige Kennung zu treiben.
 
 - **Wer die Einmaligkeit prüft, darf nicht zum Beobachter der Tätigkeit werden.** Zwischen „wer einmalig ist“ und „was er getan hat“ steht eine kryptographische Wand: zero-knowledge und Nullifier. Der Aussteller gibt einen Beweis aus und vergisst; der proof bleibt beim Menschen.
-- **Vielfalt der Aussteller statt eines Monopols.** Viele unabhängige, k aus n genügen. Keiner ist Root, keiner ist die einzige Stelle des Ausschlusses.
+- **Vielfalt der Aussteller statt eines Monopols.** Viele unabhängige, k aus n genügen. Keiner ist Root, keiner ist die einzige Stelle des Ausschlusses. Der Preis dieses Zuges wird unmittelbar benannt: Damit ein Mensch nicht bei mehreren Ausstellern zugleich einen Beweis erhält, brauchen diese einen gemeinsamen verknüpfbaren Raum von Kennungen - und das ist derselbe Root unter anderem Namen; ohne ihn hält die Einmaligkeit nur innerhalb jedes einzelnen Ausstellers. Hier opfert das Verfahren die strenge weltweite Einmaligkeit zugunsten der Privatheit und der Dezentralisierung.
 - **Widerruflichkeit statt roher Biometrie als Schlüssel.** Der Erstschlüssel ist ein neu ausstellbares credential. Die Biometrie versagt gerade bei der Neuausstellung und kann deshalb keine Wurzel sein.
 - **Nullifier nach Zusammenhang.** Die Einmaligkeit „in dieser Wahl“ zu beweisen, ohne sie mit der Einmaligkeit „in jenem Forum“ zu verknüpfen.
 
@@ -404,7 +404,7 @@ Der Wert des Modells liegt nicht in den Antworten, sondern in der Güte der Frag
 
 > Über die Arbeit und ihre Stütze
 >
-> Jede Spur ist eine bestimmte Arbeit am Gemeinwohl, die sich als Forschung und Prototyp führen und unterstützen lässt - im Kleinen, offen, mit überprüfbaren Schritten. Eine Stütze für solche Arbeit wird nur innerhalb einer strengen Zucht angenommen: Die Stimme wird nicht gekauft, ein Beitrag gibt keine Macht über Menschen, im Voraus wird nichts versprochen. Die Durchführung einer Spur zu unterstützen ist möglich; die Richtung des Volkes zu kaufen ist es nicht.
+> Eine Spur ist eine bestimmte Arbeit am Gemeinwohl: Man kann sie selbst führen, und man kann sie mit Geld oder mit den eigenen Händen unterstützen. Die Arbeit geschieht offen, in kleinen Schritten, und jeder Schritt lässt sich überprüfen. Die Regeln der Unterstützung sind streng: Die Stimme wird nicht verkauft, die Unterstützung gibt keine Macht über Menschen, und im Voraus verspricht niemand etwas. Bei einer bestimmten Arbeit zu helfen ist möglich. Mit Geld die Richtung zu kaufen, in die das Volk geht, ist es nicht.
 
 Der abschließende Rahmen
 

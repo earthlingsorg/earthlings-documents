@@ -2,7 +2,7 @@
 
 **Grundsätze, Architektur und Verwaltung im dezentralen System des Volkes der Earthlings**
 
-> Dieses Dokument beschreibt, wie die kollektive Beschlussfassung eingerichtet ist. Die Regeln, Schwellen, Quoren und Verfahren legt die Charta der Earthlings fest; dieses Dokument erläutert sie und ändert sie nicht. Bei einer Abweichung gilt die Charta, und bei einer Abweichung der Charta von der Erklärung gilt die Erklärung.
+> Dieses Dokument beschreibt, wie die kollektive Beschlussfassung eingerichtet ist. Die Regeln, Schwellen, Quoren und Verfahren legt die Charta der Earthlings fest; dieses Dokument erläutert sie und ändert sie nicht. Bei einer Abweichung gilt die Charta, und bei einer Abweichung der Charta von der Erklärung gilt die Erklärung. Die Charta tritt mit der Annahme der Erklärung in Kraft (Charta, Artikel 38); bis dahin gibt es weder eine DAO-Vollversammlung noch Core Nodes noch einen Emergency Multisig noch einen Unabhängigen Rat, und die einzige Ermessensbefugnis der Gründungsphase hinsichtlich der Texte ist die Entscheidung des Verfassers der Erklärung über die Aufnahme von Vorschlägen in den Text (Dokument „Die Gründungsphase“).
 
 ---
 
@@ -20,7 +20,7 @@ Anders als überkommene hierarchische Systeme ruht die DAO der Earthlings auf dr
 
 ### Durchsichtigkeit
 
-Die wesentlichen Vorgänge - von Abstimmungen bis zur Verteilung der Mittel - werden in überprüfbaren Aufzeichnungen und, wo es erforderlich ist, in einem verteilten Register festgehalten. Die Regeln stehen zur Untersuchung offen, die Ergebnisse der Abstimmungen können von jedem Teilnehmer oder einem äußeren Prüfer unabhängig nachgerechnet werden. Geschlossene Verfahren und verborgene Protokolle gibt es nicht.
+Die wesentlichen Vorgänge - von Abstimmungen bis zur Verteilung der Mittel - werden in überprüfbaren Aufzeichnungen und, wo es erforderlich ist, in einem verteilten Register festgehalten. Die Regeln stehen zur Untersuchung offen, die Ergebnisse der Abstimmungen müssen ein unabhängiges Nachrechnen durch jeden Teilnehmer oder einen äußeren Prüfer zulassen (Charta, Artikel 6). Geschlossene Verfahren und verborgene Protokolle gibt es nicht; worauf die Überprüfung heute beruht und was ihr dafür noch fehlt, steht im Dokument „Wo wir jetzt stehen“.
 
 Dabei erstreckt sich die Durchsichtigkeit auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen: Die persönliche Stimme ist geheim, und die übertragenen Stimmen, die ein Delegierter abgibt, sind offen (Abschnitt 05).
 
@@ -30,7 +30,7 @@ Jeder Earthling hat nach dem Grundsatz „ein Mensch - eine Stimme“ eine gleic
 
 **Die Stimme ist unveräußerlich.** Das Stimmrecht darf nicht wegen Ansichten, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung von Beschlüssen oder als allgemeine Sanktion entzogen oder ausgesetzt werden (Erklärung, Artikel 4; Charta, Artikel 17 und 37). Die in Artikel 22 der Charta vorgesehenen Maßnahmen berühren die Rechte einer Person nicht: Nur die Verwarnung richtet sich an eine Person, und sie entzieht ihr nichts; die übrigen Maßnahmen richten sich an ein Projekt oder eine Zelle.
 
-Die einzige Ausnahme sind nachgewiesene Handlungen, die auf die Untergrabung der Unversehrtheit der Abstimmung selbst gerichtet sind: Absprache, Kauf oder Verkauf einer Stimme, Nötigung anderer, Umgehung der Regel „ein Mensch - ein Pass“ (Charta, Artikel 22-bis). Ansichten, der Inhalt der Stimmabgabe und die Ablehnung von Beschlüssen sind in keiner Darstellung ein Grund.
+Die einzige Ausnahme sind nachgewiesene Handlungen, die auf die Untergrabung der Unversehrtheit der Abstimmung selbst gerichtet sind: Absprache, Kauf oder Verkauf einer Stimme, Nötigung anderer, Umgehung der Regel „ein Mensch - ein Pass“ (Charta, Artikel 22-bis); die Aufzählung dieser Gründe ist abschließend und einer Erweiterung nicht zugänglich. Ansichten, der Inhalt der Stimmabgabe und die Ablehnung von Beschlüssen sind in keiner Darstellung ein Grund.
 
 ### Dezentralisierung
 
@@ -84,7 +84,7 @@ Die in Artikel 7 der [Charta](https://earth-lings.org/documents/de/de05-charta.h
 - **Obergrenze** - 5 Prozent der Earthlings, mindestens jedoch 10 Übertragende, deshalb bindet die Beschränkung von 5 Prozent erst bei einer Zahl von mehr als 200;
 - **eine aktive Übertragung je Sachgebiet** - eine erneute ist ohne Widerruf der vorherigen nicht möglich;
 - **Widerruf jederzeit** - in einem Schritt, ohne Gründe und ohne Zustimmung des Delegierten;
-- **Fragen ohne Übertragung** - Änderung der Charta und der Grundregeln der Schatzkammer, größere Finanzierungen, Bildung des Emergency Multisig, Beschränkung von Befugnissen, Aussetzung des Stimmrechts und Aufhebung der Ausgabe eines Passes: darüber wird nur persönlich abgestimmt.
+- **Fragen ohne Übertragung** - Änderung der Charta und der Grundregeln der Schatzkammer, Finanzierungen über 100 000 EC (Charta, Artikel 5, Kasten „Die Finanzierungsschwellen“), Bildung des Emergency Multisig, Beschränkung von Befugnissen, Aussetzung des Stimmrechts, Aufhebung der Ausgabe eines Passes und Änderung der unabänderlichen Grundsätze: darüber wird nur persönlich abgestimmt.
 
 **Delegierter kann jeder Earthling sein:** Die einzige Auswahl ist die Wahl dessen, der überträgt.
 
@@ -128,9 +128,9 @@ Eine öffentliche Stellungnahme von Fachleuten ist ein Argument in der Erörteru
 
 ## Offenheit und Abstimmungsgeheimnis
 
-Die persönliche Stimme ist geheim: Die Abstimmung ist so eingerichtet, dass niemand, auch nicht diejenigen, die die Infrastruktur betreiben, erfahren kann, wie ein bestimmter Mensch abgestimmt hat, oder sich davon überzeugen kann, selbst mit dessen Zustimmung nicht. Die Teilnahme eines bestimmten Menschen wird nicht veröffentlicht, der Zwischenstand ist bis zum Schluss verborgen, und bis zum Schluss kann die Stimmabgabe wiederholt werden - gezählt wird die zuletzt abgegebene Stimme.
+Die persönliche Stimme ist geheim: Die Abstimmung muss so eingerichtet sein, dass niemand, auch nicht diejenigen, die die Infrastruktur betreiben, erfahren kann, wie ein bestimmter Mensch abgestimmt hat, oder sich davon überzeugen kann, selbst mit dessen Zustimmung nicht. Die Teilnahme eines bestimmten Menschen wird nicht veröffentlicht, der Zwischenstand ist bis zum Schluss verborgen, und bis zum Schluss kann die Stimmabgabe wiederholt werden - gezählt wird die zuletzt abgegebene Stimme. Ein Mittel der geheimen Abstimmung gibt es noch nicht - es wird ausgewählt, und heute werden diese Regeln nicht überall eingehalten: Im offenen Kanal der Abstimmungen sind die Stimme und die Adresse der Geldbörse öffentlich, und die Stimmen in den Zellen bewahrt die Plattform zusammen mit dem Konto auf (Dokument „Wo wir jetzt stehen“; Datenschutzerklärung, Abschnitt 02).
 
-Offen sind die Beratung, das Handeln der Einrichtungen und die übertragenen Stimmen, die ein Delegierter abgibt. Das Stimmgeheimnis hebt die Überprüfung nicht auf: Veröffentlicht werden die Frage, die Zahl der Stimmberechtigten und der Abstimmenden, das Ergebnis und **der Nachweis der Auszählung**, anhand dessen jeder Mensch das Ergebnis nachrechnen kann. Der Ablauf ist in der [Charta, Artikel 6](https://earth-lings.org/documents/de/de05-charta.html) festgelegt.
+Offen sind die Beratung, das Handeln der Einrichtungen und die übertragenen Stimmen, die ein Delegierter abgibt. Das Stimmgeheimnis hebt die Überprüfung nicht auf: Die Charta verlangt, dass die Frage, die Zahl der Stimmberechtigten und der Abstimmenden, das Ergebnis und **der Nachweis der Auszählung**, anhand dessen jeder Mensch das Ergebnis nachrechnen kann, veröffentlicht werden. Einen Nachweis der Auszählung gibt es heute weder für die Vollversammlung noch für die Zellen: Er entsteht zusammen mit dem Mittel der geheimen Abstimmung (Dokument „Wo wir jetzt stehen“). Der Ablauf ist in der [Charta, Artikel 6](https://earth-lings.org/documents/de/de05-charta.html) festgelegt.
 
 Das Stimmgeheimnis ist ein Recht des Abstimmenden und keine Voraussetzung der Gültigkeit der Stimme: Technische Hilfe, die den Inhalt der Stimme nicht bestimmt, ist zulässig. Zu verlangen, dass ein Mensch zeigt, wie er abgestimmt hat, ist verboten, und eine Vergütung für einen solchen Nachweis ist Kauf einer Stimme (Charta, Artikel 22-bis).
 
@@ -154,15 +154,15 @@ Für größere Beschlüsse werden Maßstäbe zur Beurteilung der Ergebnisse auf 
 
 ## Überprüfung und Rücknahme
 
-Vorgesehen sind Verfahren zur Überprüfung von Beschlüssen, die zu unannehmbaren Ergebnissen führen: eine teilweise Rücknahme, eine Änderung der Kennwerte oder eine vollständige Aufhebung. **Einen Beschluss aufheben oder ändern kann allein die Vollversammlung.** Der Emergency Multisig kann die Arbeit einzelner Smart Contracts bei einer kritischen Schwachstelle oder einem Angriff aussetzen, doch eine solche Handlung verlangt einen öffentlichen Bericht binnen 48 Stunden und eine Bestätigung durch die Vollversammlung binnen 7 Tagen, sonst wird sie aufgehoben.
+Vorgesehen sind Verfahren zur Überprüfung von Beschlüssen, die zu unannehmbaren Ergebnissen führen: eine teilweise Rücknahme, eine Änderung der Kennwerte oder eine vollständige Aufhebung. **Einen Beschluss aufheben oder ändern kann allein die Vollversammlung.** Der Emergency Multisig kann die Arbeit einzelner Smart Contracts bei einer kritischen Schwachstelle oder einem Angriff aussetzen. Das Vorliegen des Grundes stellt er selbst fest - sonst verlöre die Dringlichkeit ihren Sinn -, und die Vollversammlung überprüft es: Eine solche Handlung verlangt einen öffentlichen Bericht binnen 48 Stunden und eine Bestätigung durch die Vollversammlung binnen 7 Tagen, sonst wird die Handlung aufgehoben.
 
 ## Der Schutz vor der Bündelung von Einfluss
 
-**Die Obergrenze der Übertragung.** Kein Teilnehmer darf mehr als 5 Prozent der übertragenen Stimmen halten, die Obergrenze liegt in jedem Fall nicht unter 10 Übertragenden, eine Selbstübertragung ist unmöglich, Ketten sind verboten. Das übersetzt den Grundsatz „ohne Parteien und Lager“ aus einer Erklärung in eine überprüfbare zahlenmäßige Beschränkung.
+**Die Obergrenze der Übertragung.** Kein Teilnehmer darf mehr übertragene Stimmen halten, als 5 Prozent der Earthlings entsprechen, und die Obergrenze liegt in jedem Fall nicht unter 10 Übertragenden; eine Selbstübertragung ist unmöglich, Ketten sind verboten. Das übersetzt den Grundsatz „ohne Parteien und Lager“ aus einer Erklärung in eine überprüfbare zahlenmäßige Beschränkung.
 
 **Der sofortige Widerruf.** Eine Übertragung begründet kein Amt und wird in einem Schritt widerrufen. Angesammelter Einfluss kann in einer Minute ohne jemandes Erlaubnis verschwinden - eben das ist der wichtigste Schutz, wirksamer als jede Rotation.
 
-**Rotation und Widerruf der Gewählten.** Die Core Nodes rotieren alle 6 Monate, der Emergency Multisig wird bei jeder Rotation um mindestens zwei Menschen erneuert. Beide Strukturen werden jederzeit mit einfacher Mehrheit widerrufen - mit derselben Schwelle, mit der sie gewählt werden: Jemanden von einem Auftrag zu entbinden darf nicht schwerer sein, als ihn zu bestellen.
+**Rotation und Widerruf der Gewählten.** Die Core Nodes rotieren alle 6 Monate, der Emergency Multisig alle 12 Monate, und bei jeder seiner Rotationen werden mindestens zwei Menschen ausgewechselt. Beide Strukturen werden jederzeit mit einfacher Mehrheit widerrufen - mit derselben Schwelle, mit der sie gewählt werden: Jemanden von einem Auftrag zu entbinden darf nicht schwerer sein, als ihn zu bestellen.
 
 **Die Kontrolle von Interessenkonflikten.** Zwingende Anzeige und Ausschluss von der Abstimmung bei Abstimmungen über die Verteilung von Mitteln (Abschnitt 11).
 
@@ -200,7 +200,7 @@ Eine digitale Infrastruktur und vorhersehbare Verfahren erlauben es, Beschlüsse
 
 Die DAO beansprucht weder den Ersatz von Staaten noch eine politische Souveränität. Sie wirkt als zusätzliche Ebene der Abstimmung dort, wo staatliche Einrichtungen eine transnationale Tätigkeit sachlich nicht erfassen: bei weltweiten Anregungen, vernetzten Vorhaben, verteilten Forschungs- und humanitären Programmen.
 
-Künftig kann das Volk der Earthlings beratende Formen der Teilnahme bei internationalen Organisationen beanspruchen - über eine juristische Person als Träger, wie es bei Völkern überall eingerichtet ist -, indem es **im Namen derjenigen auftritt, die ihm beigetreten sind**, und nicht im Namen der transnationalen Zivilgesellschaft insgesamt und nicht als Staat.
+Künftig kann das Volk der Earthlings beratende Formen der Teilnahme bei internationalen Organisationen beanspruchen - über eine juristische Person als Träger, wie es Organisationen indigener Völker und der Diasporas tun -, indem es **im Namen derjenigen auftritt, die ihm beigetreten sind**, und nicht im Namen der transnationalen Zivilgesellschaft insgesamt und nicht als Staat.
 
 ---
 
@@ -274,12 +274,12 @@ Bei technischen Störungen hat die Wiederherstellung eines richtigen Zustands Vo
 
 Die DAO stützt sich auf die Sparsamkeit der erhobenen Daten und auf den Schutz der Vertraulichkeit der Teilnehmer nach internationalen Maßstäben.
 
-**Daten im verteilten Register.** Abstimmungen, Vorgänge und Beschlüsse werden unter Verwendung pseudonymer Kennungen und kryptografischer Verfahren festgehalten. Eine dauerhafte Verbindung „Eintrag - Person“ wird nicht aufbewahrt; die Identitätsprüfung nimmt das eigene System des Volkes ohne äußere Anbieter vor. Die Verbindung zwischen der persönlichen Stimme und dem Abstimmenden wird niemandem offengelegt, wobei die Überprüfbarkeit der Auszählung erhalten bleibt; offen sind nur die übertragenen Stimmen, die ein Delegierter abgibt.
+**Daten im verteilten Register.** Abstimmungen, Vorgänge und Beschlüsse werden unter Verwendung pseudonymer Kennungen und kryptografischer Verfahren festgehalten. Im Register selbst wird die Verbindung „Eintrag - Person“ nicht aufbewahrt: Dort liegt eine pseudonyme Kennung des Teilnehmers, und die Verbindung zu den Daten der Identitätsprüfung führt das eigene System des Volkes, das ohne äußere Anbieter arbeitet. Sobald das Mittel der geheimen Abstimmung ausgewählt ist, wird die Verbindung zwischen der persönlichen Stimme und dem Abstimmenden niemandem offengelegt, wobei die Überprüfbarkeit der Auszählung erhalten bleibt; offen sind nur die übertragenen Stimmen, die ein Delegierter abgibt.
 
 **Persönliche Daten.** Die Identitätsprüfung und die Prüfung des Papiers nimmt das eigene System nach der DSGVO und anderem anwendbaren Recht vor. Das Volk und die DAO speichern keine Lichtbilder, Scans, wirklichen Namen und biometrischen Vorlagen: Die biometrischen Daten werden im Augenblick der Prüfung verarbeitet und nicht gespeichert. Was genau zum Schutz vor einer erneuten Anmeldung gespeichert wird, steht in der [Politik der biometrischen Prüfung](https://earth-lings.org/documents/de/de16-biometrische-pruefung.html). Die Daten des Kontos - E-Mail, Pseudonym, Einstellungen - werden in möglichst geringem Umfang verarbeitet.
 
 **Datensparsamkeit.** Erhoben werden nur die Daten, die für die Arbeit der Verfahren der Abstimmung, der Authentifizierung und der Oberfläche erforderlich sind. Sie werden nicht für eine verdeckte Profilbildung, für den Verkauf an Dritte und für eine geschäftliche Verwertung verwendet.
 
-**Ihre Kontrolle.** Sie können Auskunft, Berichtigung oder Löschung der von der Plattform verarbeiteten personenbezogenen Daten verlangen. Einträge in einem verteilten Register sind technisch unabänderlich - und eben deshalb stehen keine personenbezogenen Daten in ihnen: Dort stehen pseudonyme Adressen und Vermerke über Handlungen. In auswertenden und öffentlichen Darstellungen werden solche Einträge nur in anonymisierter oder zusammengefasster Form verwendet.
+**Ihre Kontrolle.** Sie können Auskunft, Berichtigung oder Löschung der von der Plattform verarbeiteten personenbezogenen Daten verlangen. Einträge in einem verteilten Register sind technisch unabänderlich - und eben deshalb werden Name, Dokument, Biometrie und die Hashes der Prüfung bei der Ausgabe nicht in das Register eingetragen. Bei der Ausgabe werden in das Register die Adresse der Geldbörse, die Nummer des Passeintrags, die Kennung des Teilnehmers, über die der Eintrag mit den Daten des Systems der Identitätsprüfung verbunden ist, und die Zeit der Ausgabe eingetragen; in das Feld des Pseudonyms wird bei der Ausgabe das eine Wort „Earthling“ eingetragen, in das Feld des Hashes der Prüfung ein zufälliger Wert, der mit den Daten der Prüfung nicht verbunden ist; Ausgabe und Entwertung hinterlassen im Register Vermerke. Das sind pseudonyme Daten, die bei uns mit Ihrem Konto verbunden sind. In auswertenden und öffentlichen Darstellungen werden solche Einträge nur in anonymisierter oder zusammengefasster Form verwendet.
 
 **Sicherheit durch Architektur.** Der Schutz wird durch die Verbindung von Kryptografie, verteilter Infrastruktur und Datensparsamkeit gesichert. Die wesentliche Logik ruht auf keinem einzelnen kritischen Punkt, was die Risiken eines Einbruchs oder einer Beschlagnahme der Infrastruktur durch eine einzige Handlung mindert.

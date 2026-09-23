@@ -52,13 +52,13 @@ Die DAO-Vollversammlung ist das einzige Organ zur Verwaltung des Volkes der Eart
 
 **Einfache Mehrheit - 51 %, Quorum 20 %**
 - Betriebliche Beschlüsse
-- Finanzierung von Projekten bis 10 000 EC
+- Finanzierung von Projekten bis einschließlich 10 000 EC
 - Wahl und Widerruf von Core Nodes und Emergency Multisig
 - Erteilung und Widerruf des rechtlichen Schutzauftrags (Artikel 33)
 - Verfahrensfragen
 
 **Erhebliche Mehrheit - 67 %, Quorum 20 %**
-- Finanzierung von Projekten von 10 000 bis 100 000 EC
+- Finanzierung von Projekten über 10 000 bis einschließlich 100 000 EC
 - Maßnahmen nach Artikel 22: die Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln
 
 **Qualifizierte Mehrheit - 67 %, Quorum 25 %**
@@ -152,7 +152,7 @@ Der Unabhängige Rat ist ein beratendes Organ. Er nimmt eine ethische Prüfung v
 - Öffentliche Empfehlungen zu schwierigen Fragen
 - Jährliche Berichte über den Zustand des Volkes
 - Fachliche Stellungnahmen auf Anfrage von Earthlings
-- Vermittlung in Konflikten
+- Stellungnahmen und Empfehlungen in den Verfahren der Artikel 21, 22, 22-bis, 33 und 36
 
 **Von entscheidender Bedeutung:**
 - Die Stellungnahmen sind nur empfehlend
@@ -192,7 +192,7 @@ Ein Mitglied des Rates ist befugt, seine Befugnisse jederzeit aus eigenem Entsch
 
 Eine Vergütung für die Einnahme eines Platzes im Rat über einen solchen Ausgleich hinaus wird nicht gezahlt.
 
-> **Der gegenwärtige Zustand der Strukturen.** Diese Charta errichtet diese Strukturen, doch ihre Zusammensetzung wird mit dem Wachsen des Volkes besetzt. Heute sind Core Nodes und Emergency Multisig nicht gewählt, der Unabhängige Rat ist nicht gebildet, und die DAO-Vollversammlung hat keine inhaltlichen Abstimmungen durchgeführt. Bis zur Wahl werden die entsprechenden Aufgaben in der Phase des Strukturaufbaus verfahrensmäßig und unter der Verantwortung der Gründer wahrgenommen; die Übergabe dieser Aufgaben an die gewählten Strukturen ist der Maßstab für den Übergang zwischen den Abschnitten des Fahrplans (Artikel 39).
+> **Der gegenwärtige Zustand der Strukturen.** Diese Charta errichtet diese Strukturen, doch ihre Zusammensetzung wird mit dem Wachsen des Volkes besetzt. Die Phase des Strukturaufbaus (Artikel 39) beginnt mit der Annahme der Erklärung, mit der die Charta in Kraft tritt; bis dahin läuft die Gründungsphase (Dokument „Die Gründungsphase“). Bis zur Annahme der Erklärung gibt es weder eine DAO-Vollversammlung noch Core Nodes noch einen Emergency Multisig noch einen Unabhängigen Rat, und die einzige Ermessensbefugnis der Gründungsphase hinsichtlich der Texte ist die Entscheidung des Verfassers der Erklärung über die Aufnahme von Vorschlägen in den Text. Nach der Annahme werden bis zur Wahl der Strukturen deren Aufgaben verfahrensmäßig und unter der Verantwortung der Gründer wahrgenommen; der Abschluss der Phase wird durch einen Beschluss der DAO-Vollversammlung festgehalten und ist der Maßstab für den Übergang zwischen den Abschnitten des Fahrplans (Artikel 39).
 
 ---
 
@@ -200,9 +200,9 @@ Eine Vergütung für die Einnahme eines Platzes im Rat über einen solchen Ausgl
 
 ## Artikel 5. Arten der Abstimmung
 
-**Einfache Mehrheit - 51 %, Quorum 20 %.** Laufende betriebliche Beschlüsse, Finanzierung von Projekten bis 10 000 EC, Wahl und Widerruf von Core Nodes und Emergency Multisig, Erteilung und Widerruf des rechtlichen Schutzauftrags, Aufhebung von Handlungen des Emergency Multisig, vorzeitige Aufhebung von Beschränkungen, Beschwerden.
+**Einfache Mehrheit - 51 %, Quorum 20 %.** Laufende betriebliche Beschlüsse, Finanzierung von Projekten bis einschließlich 10 000 EC, Wahl und Widerruf von Core Nodes und Emergency Multisig, Erteilung und Widerruf des rechtlichen Schutzauftrags, Aufhebung von Handlungen des Emergency Multisig, vorzeitige Aufhebung von Beschränkungen, Beschwerden.
 
-**Erhebliche Mehrheit - 67 %, Quorum 20 %.** Finanzierung von Projekten von 10 000 bis 100 000 EC, Maßnahmen nach Artikel 22: die Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln.
+**Erhebliche Mehrheit - 67 %, Quorum 20 %.** Finanzierung von Projekten über 10 000 bis einschließlich 100 000 EC, Maßnahmen nach Artikel 22: die Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln.
 
 **Qualifizierte Mehrheit - 67 %, Quorum 25 %.** Änderung der Charta, strategische Beschlüsse, Finanzierung von Projekten über 100 000 EC.
 
@@ -307,7 +307,7 @@ Das Verfahren der Messungen wird im Übrigen - einschließlich dessen, wer entsc
 
 ## Artikel 8-ter. Das durch Los ausgewählte Panel
 
-Der Messung des gemeinsamen Willens geht die Arbeit eines Panels voraus, das per Los aus dem Register ausgewählt wird. Das Panel fasst keine Beschlüsse und bekundet keinen gemeinsamen Willen: Es bereitet die Frage für die Messung vor.
+Der Messung des gemeinsamen Willens geht die Arbeit eines Panels voraus, das per Los aus dem Register der Pässe ausgewählt wird. Das Panel fasst keine Beschlüsse und bekundet keinen gemeinsamen Willen: Es bereitet die Frage für die Messung vor.
 
 Das Panel wird per Los aus den Inhabern des earthling-Passes ausgewählt. Das Losverfahren und die Quelle des Zufalls werden vor der Auswahl veröffentlicht, die Zusammensetzung danach, so dass ein Außenstehender die Auswahl nachprüfen kann. Die Teilnahme ist freiwillig; eine Ablehnung hat keine Folgen, und wer ausscheidet, wird durch dasselbe Los ersetzt.
 
@@ -315,7 +315,7 @@ Das Panel erhält Materialien, hört Fachleute und Vertreter entgegengesetzter P
 
 Die Arbeit des Panels wird zusammen mit der Frage veröffentlicht: die Zusammensetzung nach dem Auswahlverfahren, die geprüften Materialien, die angehörten Seiten, die dargelegten Gründe und die festgehaltenen Meinungsverschiedenheiten. Eine Veröffentlichung, die nicht nachvollziehen lässt, woher die Antwortmöglichkeiten stammen, ist keine Arbeit eines Panels.
 
-Ein Panel wird nicht einberufen, solange das Register keinen Querschnitt des Volkes durch Los ergibt. Bis zu diesem Tag wird die Messung ohne Panel durchgeführt, und das wird zusammen mit der Frage mitgeteilt; das Verschweigen des Fehlens eines Panels ist ein Mangel der Messung.
+Ein Panel wird nicht einberufen, solange das Register der Pässe keinen Querschnitt des Volkes durch Los ergibt. Bis zu diesem Tag wird die Messung ohne Panel durchgeführt, und das wird zusammen mit der Frage mitgeteilt; das Verschweigen des Fehlens eines Panels ist ein Mangel der Messung.
 
 Die Schwelle, von der an das Los einen Querschnitt ergibt, und im Übrigen das Verfahren der Arbeit des Panels werden durch Beschluss der DAO-Vollversammlung festgelegt und vor dem ersten Panel veröffentlicht.
 
@@ -354,8 +354,8 @@ Die Einzelheiten des Wirtschaftsmodells sind im Dokument [Earthlings Coin](https
 **Der Ablauf der Finanzierung:**
 
 1. **Einreichung eines Antrags** über die Plattform mit Beschreibung von Projekt, Haushalt und Team
-2. **Beratung:** 14 Tage (oder 3 Tage für Projekte bis 1 000 EC)
-3. **Abstimmung über die Billigung:** 51 % bei einem Quorum von 20 % (bis 10 000 EC); 67 % bei einem Quorum von 20 % (10 000 bis 100 000 EC); 67 % bei einem Quorum von 25 % (über 100 000 EC)
+2. **Beratung:** 14 Tage (21 Tage für Projekte über 100 000 EC, 3 Tage für Projekte bis 1 000 EC)
+3. **Abstimmung über die Billigung:** 51 % bei einem Quorum von 20 % (bis einschließlich 10 000 EC); 67 % bei einem Quorum von 20 % (über 10 000 bis einschließlich 100 000 EC); 67 % bei einem Quorum von 25 % (über 100 000 EC)
 4. **Bestimmung der Reihenfolge** - wenn die Gesamtanforderung der gebilligten Projekte die Obergrenze des Bereichs übersteigt (siehe unten)
 5. **Auszahlung:** selbsttätig durch einen Smart Contract nach Abschnitten (milestones)
 6. **Rechenschaft:** öffentlich on-chain nach Abschluss jedes Abschnitts
@@ -465,13 +465,13 @@ Jeder Earthling ist befugt, seine Teilnahme am Volk der Earthlings jederzeit fre
 **Der Ablauf des freiwilligen Austritts:**
 
 1. Der Earthling richtet eine Austrittserklärung über den persönlichen Bereich auf der Plattform der Earthlings
-2. Das System verlangt eine gesonderte Bestätigung des Entschlusses und weist auf die Folgen hin. Als Voreinstellung liegt zwischen Erklärung und Entwertung eine Pause von 72 Stunden - das ist ein Schutz vor übereilten Entschlüssen, und der Earthling ist befugt, auf sie zu verzichten. Das Volk der Earthlings kann den Austritt weder verzögern noch aufheben: Die Entwertung ist dem Earthling stets unmittelbar aus der eigenen Geldbörse zugänglich
-3. Nach der Bestätigung entwertet der Earthling den SBT-Pass mit dem eigenen Schlüssel (Funktion `burnByHolder`). Das Volk der Earthlings bewahrt keine Schlüssel eines Teilnehmers auf und kann die Entwertung weder für ihn vornehmen noch sie verhindern; der Zugang zu Abstimmungen und zu inneren Diensten endet
-4. Der Austritt wird mit der Entwertung des SBT-Passes wirksam
+2. Das System verlangt eine gesonderte Bestätigung des Entschlusses und weist auf die Folgen hin. Als Voreinstellung liegt zwischen Erklärung und Entwertung eine Pause von 72 Stunden - das ist ein Schutz vor übereilten Entschlüssen, und der Earthling ist befugt, auf sie zu verzichten. Das Volk der Earthlings ist nicht befugt, den Austritt zu verzögern oder aufzuheben: Die Entwertung eines gültigen Passes ist dem Earthling stets unmittelbar aus der eigenen Geldbörse zugänglich, und gibt es keinen gültigen Pass, so wird der Austritt nach dem Verfahren der Ziffer 4 wirksam
+3. Nach der Bestätigung entwertet der Earthling den SBT-Pass mit dem eigenen Schlüssel (Funktion `burnByHolder`). Das Volk der Earthlings bewahrt keine Schlüssel eines Teilnehmers auf, ist nicht befugt, die Entwertung für ihn vorzunehmen, und kann sie nicht verhindern; der Zugang zu Abstimmungen und zu inneren Diensten endet
+4. Der Austritt wird mit der Entwertung des SBT-Passes wirksam, und gibt es keinen gültigen Pass, so wird er mit Ablauf der in Ziffer 2 vorgesehenen Pause wirksam oder von dem Zeitpunkt an, zu dem der Earthling auf sie verzichtet hat
 
 **Earthlings Coin beim Austritt.** Die Token in der Geldbörse des austretenden Earthling bleiben sein Eigentum: Sie werden weder eingezogen noch aufgehoben. Nach dem Verlust des Status als Earthling verliert der Eigentümer das Stimmrecht in der DAO und den Zugang zu den inneren Diensten; die weitere Verwendung der Token hängt von ihrer technischen Zugänglichkeit und vom anwendbaren Recht der jeweiligen Rechtsordnung ab.
 
-**Der erneute Beitritt.** Ein Mensch, der freiwillig aus dem Volk der Earthlings ausgetreten ist, ist befugt, jederzeit erneut beizutreten, indem er das übliche Verfahren durchläuft - die Prüfung und den einmaligen Beitrag beim Beitritt, der ihre Selbstkosten deckt (der Beitrag kann auch nach Artikel 12-bis entrichtet werden) - und einen neuen SBT-Pass erhält. Der entwertete frühere Pass steht der Rückkehr nicht entgegen: Die Daten der Prüfung werden nur dazu aufbewahrt, dass ein Mensch nicht zwei gültige Pässe zugleich haben kann.
+**Der erneute Beitritt.** Ein Mensch, der freiwillig aus dem Volk der Earthlings ausgetreten ist, ist befugt, jederzeit erneut beizutreten, indem er das übliche Verfahren durchläuft - die Prüfung und den einmaligen Beitrag beim Beitritt, der ihre Selbstkosten deckt (der Beitrag kann auch nach Artikel 12-bis entrichtet werden) - und einen neuen SBT-Pass erhält. Der entwertete frühere Pass steht der Rückkehr nicht entgegen: Was nach dem Austritt aufbewahrt wird, ist in der Datenschutzerklärung (Abschnitt 08) genannt, und die Hashes der Prüfung werden nur dazu aufbewahrt, dass ein Mensch nicht zwei gültige Pässe zugleich haben kann.
 
 ## Artikel 19. Das Ruhen des Status
 
@@ -484,8 +484,8 @@ Ein Earthling ist befugt, seinen Status vorübergehend ruhen zu lassen, ohne vol
 
 **Folgen des Ruhens:**
 - Der SBT-Pass bleibt erhalten, wird aber als „ruhend“ gekennzeichnet
-- das Stimmrecht ruht auf eigenen Entschluss des Earthling
-- die Stimme eines Earthling im Ruhen wird bei der Berechnung des Quorums nicht berücksichtigt
+- für die Dauer des Ruhens, über das der Earthling selbst entscheidet, ruht sein Stimmrecht
+- ein Earthling im Ruhen zählt nicht zu der Zahl, von der das Quorum berechnet wird
 - der Zugang zu Informationsangeboten bleibt erhalten
 - Earthlings Coin bleiben ohne Beschränkungen in der Geldbörse
 
@@ -495,14 +495,14 @@ Ein Earthling ist befugt, seinen Status vorübergehend ruhen zu lassen, ohne vol
 
 ## Artikel 20. Inaktive Teilnehmer
 
-Ein Earthling wird als inaktiv angesehen, wenn er:
+Ein Earthling wird als inaktiv angesehen, wenn alle drei Voraussetzungen erfüllt sind - wenn er:
 - 12 Monate lang an keiner Abstimmung teilgenommen hat
 - 12 Monate lang keine Handlungen auf der Plattform vorgenommen hat
 - auf die Anfrage zur Bestätigung des Status nicht geantwortet hat
 
 **Folgen der Inaktivität:**
 - Der SBT-Pass bleibt erhalten, wird aber als „inaktiv“ gekennzeichnet
-- die Stimme eines inaktiven Earthling wird bei der Berechnung des Quorums nicht berücksichtigt
+- ein inaktiver Earthling zählt nicht zu der Zahl, von der das Quorum berechnet wird
 - das Stimmrecht bleibt erhalten und kann jederzeit ausgeübt werden
 - bei der ersten Handlung (Abstimmung, Anmeldung auf der Plattform) wird der Status selbsttätig wiederhergestellt
 
@@ -512,7 +512,7 @@ Der Mechanismus der Inaktivität schützt das System vor einer künstlichen Erh�
 
 In der Regel wird ein SBT-Pass nur vom Inhaber selbst entwertet (Artikel 18). Dieser Artikel legt **zwei und nur zwei** Ausnahmen von dieser Regel fest.
 
-> **Warum der Tod in dieser Aufzählung nicht steht.** Die Zugehörigkeit endet infolge des Todes eines Menschen - das ist in Artikel 4 der Erklärung festgelegt und tritt von selbst ein, ohne jemandes Entscheidung. Eine Entwertung des Passes aus diesem Grund findet nicht statt, und zwar aus den folgenden Gründen. Das Volk hat keinen Zugang zu den Sterberegistern der ganzen Welt und kann ihn nicht haben: Ein solcher Grund stützte sich auf Angaben, deren Richtigkeit sich mit nichts überprüfen lässt, und wäre die billigste Weise, einen Teilnehmer zu beseitigen - ohne Benachrichtigung, Frist für Einwendungen und Beschwerde, denn alle setzen die Anwesenheit eines Menschen voraus. Einen Schutz vor der Abstimmung mit einem fremden Schlüssel gibt die Entwertung dabei nicht: Sie kann dem Wissen vom Tod nicht zuvorkommen. Die praktische Seite deckt Artikel 20 ab: Wer nicht teilnimmt, wird als inaktiv angesehen, seine Stimme wird bei der Berechnung des Quorums nicht berücksichtigt, und der Pass bleibt erhalten. Das System muss nicht wissen, warum ein Mensch aufgehört hat teilzunehmen.
+> **Warum der Tod in dieser Aufzählung nicht steht.** Die Zugehörigkeit endet infolge des Todes eines Menschen - das ist in Artikel 4 der Erklärung festgelegt und tritt von selbst ein, ohne jemandes Entscheidung. Eine Entwertung des Passes aus diesem Grund findet nicht statt, und zwar aus den folgenden Gründen. Das Volk hat keinen Zugang zu den Sterberegistern der ganzen Welt und kann ihn nicht haben: Ein solcher Grund stützte sich auf Angaben, deren Richtigkeit sich mit nichts überprüfen lässt, und wäre die billigste Weise, einen Teilnehmer zu beseitigen - ohne Benachrichtigung, Frist für Einwendungen und Beschwerde, denn alle setzen die Anwesenheit eines Menschen voraus. Einen Schutz vor der Abstimmung mit einem fremden Schlüssel gibt die Entwertung dabei nicht: Sie kann dem Wissen vom Tod nicht zuvorkommen. Die praktische Seite deckt Artikel 20 ab: Wer nicht teilnimmt, wird als inaktiv angesehen und zählt nicht zu der Zahl, von der das Quorum berechnet wird, und der Pass bleibt erhalten. Das System muss nicht wissen, warum ein Mensch aufgehört hat teilzunehmen.
 
 ### 1. Die Aufhebung einer unwirksamen Ausgabe
 
@@ -841,7 +841,7 @@ Die folgenden Grundsätze lassen sich auch mit qualifizierter Mehrheit nicht än
 
 ## Artikel 38. Inkrafttreten und Rangfolge der Dokumente
 
-Diese Charta tritt nach ihrer Veröffentlichung auf der Website des Volkes der Earthlings earth-lings.org in Kraft.
+Diese Charta tritt zusammen mit der Erklärung der Earthlings in Kraft, am Tag ihrer Annahme. Bis zu diesem Tag wenden diejenigen, die die Infrastruktur betreiben, die Bestimmungen der Charta, auf die sich die Nutzungsbedingungen, die Datenschutzerklärung und die Politik der biometrischen Prüfung beziehen, auf sich selbst als ihre eigene Verpflichtung gegenüber dem Menschen an; Rechte gegenüber dem Menschen über das hinaus, was diese Dokumente ausdrücklich festlegen, begründen solche Bestimmungen nicht.
 
 **Die Rangfolge der Dokumente des Volkes der Earthlings:**
 
@@ -864,7 +864,7 @@ Die Phase des Strukturaufbaus dauert bis zu dem Zeitpunkt, zu dem die folgenden 
 
 Bis zum Eintritt dieses Zeitpunkts werden die Aufgaben der nicht gewählten Strukturen verfahrensmäßig und unter der Verantwortung der Gründer wahrgenommen, und die Abschnitte der Verfahren, die eine Mitwirkung des Unabhängigen Rates vorsehen, entfallen bei einer Verdopplung der Fristen der öffentlichen Beratung der entsprechenden Fragen.
 
-> **Zum Gebrauch des Wortes „Gründer“.** In dieser Charta bezeichnet es nur diejenigen, die bis zur Wahl der Strukturen deren Aufgaben verfahrensmäßig wahrnehmen, und nichts darüber hinaus. Es begründet keinerlei Rechte in der Verwaltung, kein Gewicht in der Abstimmung und keinen besonderen Status eines Teilnehmers: Eine Klasse von Gründern gibt es im Volk der Earthlings nicht, und diese Bestimmung gehört zum unabänderlichen Kern der Erklärung. Die genannten Aufgaben enden mit dem Abschluss der Phase des Strukturaufbaus und gehen nicht durch Erbfolge über.
+> **Zum Gebrauch des Wortes „Gründer“.** In dieser Charta bezeichnet es nur diejenigen, die bis zur Wahl der Strukturen deren Aufgaben verfahrensmäßig wahrnehmen, und nichts darüber hinaus. Es begründet keinerlei Rechte in der Verwaltung, kein Gewicht in der Abstimmung und keinen besonderen Status eines Teilnehmers: Eine Klasse von Gründern gibt es im Volk der Earthlings nicht (Erklärung, Artikel 8), und das folgt aus dem unabänderlichen Kern der Erklärung. Die genannten Aufgaben enden mit dem Abschluss der Phase des Strukturaufbaus und gehen nicht durch Erbfolge über.
 
 Die Gründer veröffentlichen mindestens einmal in 90 Tagen einen Bericht über den Zustand der Phase des Strukturaufbaus. Der Bericht enthält die Aufzählung der nicht erfüllten Voraussetzungen und die Gründe.
 
@@ -879,11 +879,11 @@ Diese Tabelle ordnet die Abstimmungsschwellen und die Verfahren. Bei einem Wider
 ## Beschlüsse der DAO-Vollversammlung
 
 **Laufende Fragen - 51 %, Quorum 20 %**
-Billigung von Projekten der Zellen, Verteilung von Zuwendungen bis 10 000 EC, Wahl **und Widerruf** von Core Nodes und Emergency Multisig, Erteilung und Widerruf des rechtlichen Schutzauftrags, Aufhebung von Handlungen des Emergency Multisig, vorzeitige Aufhebung von Beschränkungen, Beschwerden, Verfahrensfragen.
+Billigung von Projekten der Zellen, Verteilung von Zuwendungen bis einschließlich 10 000 EC, Wahl **und Widerruf** von Core Nodes und Emergency Multisig, Erteilung und Widerruf des rechtlichen Schutzauftrags, Aufhebung von Handlungen des Emergency Multisig, vorzeitige Aufhebung von Beschränkungen, Beschwerden, Verfahrensfragen.
 Fristen: 14 Tage Beratung + 7 Tage Abstimmung.
 
 **Erhebliche Fragen - 67 %, Quorum 20 %**
-Finanzierung von Projekten von 10 000 bis 100 000 EC, Maßnahmen nach Artikel 22: die Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln.
+Finanzierung von Projekten über 10 000 bis einschließlich 100 000 EC, Maßnahmen nach Artikel 22: die Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln.
 Fristen: 14 Tage Beratung + 7 Tage Abstimmung.
 
 **Kritische Fragen - 67 %, Quorum 25 %**
@@ -901,7 +901,7 @@ Reihenfolge der Finanzierung bereits gebilligter Projekte bei fehlenden Mitteln 
 Sie ist kein Beschluss und hat keine Schwelle: Mit ihr bekundet das Volk eine Position und beschließt nicht. Die Anforderungen sind in Artikel 8-bis festgelegt; das Verfahren wird im Übrigen durch Beschluss der DAO-Vollversammlung festgelegt.
 
 **Das durch Los ausgewählte Panel (Artikel 8-ter)**
-Es ist kein Beschluss und hat keine Schwelle: Das Panel bereitet die Frage für die Messung vor und beantwortet sie nicht. Auswahl per Los aus dem Register, freiwillige Teilnahme, die Arbeit wird zusammen mit der Frage veröffentlicht. Ein Panel wird nicht einberufen, solange das Register keinen Querschnitt des Volkes durch Los ergibt.
+Es ist kein Beschluss und hat keine Schwelle: Das Panel bereitet die Frage für die Messung vor und beantwortet sie nicht. Auswahl per Los aus dem Register der Pässe, freiwillige Teilnahme, die Arbeit wird zusammen mit der Frage veröffentlicht. Ein Panel wird nicht einberufen, solange das Register der Pässe keinen Querschnitt des Volkes durch Los ergibt.
 
 ## Die Befugnisse der ausführenden Strukturen
 

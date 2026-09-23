@@ -4,7 +4,7 @@
 
 > Dieses Dokument beschreibt den Zweck der Recheneinheit und die Regeln des Umgangs mit ihr. Bei einer Abweichung gilt die [Charta](https://earth-lings.org/documents/de/de05-charta.html), und bei einer Abweichung der Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) gilt die Erklärung. Der Ablauf der Verwaltung der gemeinsamen Mittel ist im Dokument [Die Schatzkammer der Earthlings](https://earth-lings.org/documents/de/de09-schatzkammer.html) dargelegt und wird hier nicht wiederholt.
 >
-> Das Dokument ist kein Angebot, verspricht weder eine Börseneinführung noch einen Wertzuwachs und ersetzt keine rechtlichen Dokumente.
+> Das Dokument ist kein Angebot, verspricht weder eine Börseneinführung noch einen Wertzuwachs und ersetzt keine rechtlichen Dokumente. Die Abschnitte 4 bis 7 beschreiben den angestrebten Bau und keinen erreichten Zustand; was es heute gibt, steht in Abschnitt 8.
 
 ---
 
@@ -36,13 +36,13 @@ Das ist der wichtigste Abschnitt des Dokuments.
 
 **Er kauft keine Stimme.** Der Besitz einer beliebigen Menge an EC erhöht das Gewicht eines Teilnehmers bei Entscheidungen nicht. Die Abstimmung beruht auf dem Grundsatz „ein Mensch - eine Stimme“, der an den Pass gebunden ist und nicht an einen Kontostand. Das ist als unabänderlicher Grundsatz in Artikel 37 der Charta festgelegt und wird von keiner Mehrheit aufgehoben.
 
-**Er öffnet keinen Zugang zur Teilnahme.** Weder das Stimmrecht noch das Recht, Vorschläge einzubringen, noch die Teilnahme an Zellen noch die Beilegung eines Streits verlangen den Besitz von EC, seine Sperrung oder seine Verpfändung. Das Fehlen von EC beschränkt einen Teilnehmer in nichts.
+**Er öffnet keinen Zugang zur Teilnahme.** Weder das Stimmrecht noch das Recht, Vorschläge einzubringen, noch die Teilnahme an Zellen noch die Beilegung eines Streits verlangen den Besitz von EC, seine Sperrung oder seine Verpfändung. Das Fehlen von EC beschränkt einen Teilnehmer in keinem dieser Rechte.
 
-**Er ist kein Anlageprodukt.** Versprechen über künftigen Wert, Ausschüttungen, einen Anteil an Erträgen oder eine gewährleistete Handelbarkeit werden nicht gegeben und können nicht gegeben werden.
+**Er ist kein Anlageprodukt.** Versprechen über künftigen Wert, Ausschüttungen, einen Anteil an Erträgen oder eine Handelbarkeit werden nicht gegeben.
 
-**Er wird nicht für den Beitritt gutgeschrieben.** Weder der Beitritt in das Volk noch der Beitrag noch das Durchlaufen der Identitätsprüfung erzeugen oder schreiben für sich genommen EC gut.
+**Er wird nicht für den Beitritt gutgeschrieben.** EC wird weder im Zusammenhang mit dem Beitritt zum Volk noch im Zusammenhang mit dem Beitrag oder einer anderen Zahlung beim Beitritt noch für das Durchlaufen der Identitätsprüfung gutgeschrieben.
 
-**Er ist kein Arbeitsentgelt.** Das Volk der Earthlings tritt nicht als Arbeitgeber auf, und eine Gutschrift von EC begründet kein Arbeitsverhältnis. Ob eine bestimmte Absprache als Arbeitsverhältnis anerkannt wird, bestimmt das Recht des Landes des Teilnehmers und nicht dieses Dokument.
+**Er ist kein Arbeitsentgelt.** Das Volk der Earthlings tritt nicht als Arbeitgeber auf; ob eine bestimmte Absprache als Arbeitsverhältnis anerkannt wird, bestimmt das Recht des Landes des Teilnehmers und nicht dieses Dokument.
 
 ---
 
@@ -50,9 +50,9 @@ Das ist der wichtigste Abschnitt des Dokuments.
 
 Nur für einen nachgewiesenen Beitrag: die Arbeit in Zellen, Entwicklung, Untersuchungen, Lehre, das Erstellen von Materialien und andere Ergebnisse, die durch die Verfahren der DAO anerkannt sind.
 
-Die Höhe der Vergütung bestimmen die Verfahren der DAO, und sie wird an das Ergebnis gebunden und nicht an die aufgewandte Zeit. Wer wofür wie viel erhalten hat, wird öffentlich aufgezeichnet.
+Die Höhe der Vergütung bestimmen die Verfahren der DAO, und sie wird an das Ergebnis gebunden und nicht an die aufgewandte Zeit. Wer wofür wie viel erhalten hat, wird öffentlich in pseudonymer Form aufgezeichnet (Abschnitt 12).
 
-Äußeres Kapital gibt für sich genommen keine Vorteile beim Erhalt von EC: Die Teilnahme zählt mehr als die Summe, mit der ein Mensch gekommen ist.
+Die Höhe des Kapitals, mit dem ein Teilnehmer gekommen ist, wirkt sich auf die Gutschrift von EC nicht aus.
 
 ---
 
@@ -72,14 +72,14 @@ Die konkreten Tarife und die Höhe der Vergütungen legen Beschlüsse der DAO fe
 
 ## 6. Ausgabe und Verteilung
 
-**Grundsätze, die sich nicht ändern:**
+**Grundsätze der Ausgabe:**
 
 - der Gesamtumfang der Ausgabe ist begrenzt oder steuerbar begrenzt; das Verfahren wird vor dem Beginn der Verteilungen im Smart Contract festgeschrieben;
 - verdeckte Vorabausgaben und geheime Rücklagen gibt es nicht;
 - alle größeren Verteilungen sind öffentlich sichtbar;
 - die Anteile, die mit den Gründern, dem Team und frühen Partnern zusammenhängen, werden schrittweise freigegeben, nach Regeln, die vor dem Beginn der Verteilungen veröffentlicht und im Vertrag festgeschrieben sind.
 
-**Richtungen der Verteilung:** Entwicklung der Infrastruktur und Sicherheit; Fonds der Zellen und der Anregungen; Vergütungen an Teilnehmer für Beiträge; Programme mit Universitäten, gemeinnützigen und forschenden Organisationen; die Erhaltung der Verfügbarkeit der Einheit, falls und sobald sie entsteht.
+**Richtungen der Verteilung:** Entwicklung der Infrastruktur und Sicherheit; Fonds der Zellen und der Anregungen; Vergütungen an Teilnehmer für Beiträge; Programme mit Universitäten, gemeinnützigen und forschenden Organisationen.
 
 **Zahlenwerte** - Umfang der Ausgabe, Anteile, Fristen der Freigabe - sind heute nicht bestimmt. Sie werden von der DAO-Vollversammlung bestätigt und vor dem Beginn der Verteilungen veröffentlicht. Bis zu diesem Zeitpunkt sind alle Zahlen, die im Namen des Vorhabens oder von irgendjemand anderem genannt werden, unzutreffend.
 
@@ -108,7 +108,7 @@ Die Anforderungen an die Offenlegung von Angaben über die Unterzeichner bestimm
 
 **Der Gesamtumfang der Ausgabe ist nicht bestimmt.**
 
-Alles oben Beschriebene ist der angestrebte Bau und kein erreichter Zustand. Die Adressen der Verträge, die Verweise zur Überprüfung des Codes und die Ergebnisse der Prüfungen werden vor dem Beginn jeder Tätigkeit mit der Einheit veröffentlicht.
+Was in den Abschnitten 4 bis 7 beschrieben ist, ist der angestrebte Bau und kein erreichter Zustand. Die Adressen der Verträge, die Verweise zur Überprüfung des Codes und die Ergebnisse der Prüfungen werden vor dem Beginn jeder Tätigkeit mit der Einheit veröffentlicht.
 
 ---
 
@@ -138,7 +138,7 @@ Genannt sind die, die wirklich sind, und nicht die, die man üblicherweise aufz�
 
 **Fehlende Handelbarkeit.** Die Einheit lässt sich außerhalb des Ökosystems möglicherweise gegen nichts tauschen - auch dauerhaft. Das ist eine angelegte Eigenschaft des gegenwärtigen Abschnitts und keine Störung.
 
-**Schwankungen, falls eine Handelbarkeit entsteht.** Starke Preisschwankungen in den ersten Monaten des Umlaufs sind gewöhnlich, und einen Schutz davor gibt es nicht.
+**Schwankungen, falls eine Handelbarkeit entsteht.** Beginnt der Umlauf jemals, so sind starke Preisschwankungen in seinen ersten Monaten gewöhnlich, und einen Schutz davor gibt es nicht.
 
 **Ungenügendes Wachstum des Ökosystems.** Bleiben wenige Teilnehmer, so wird der Nutzen der Einheit begrenzt sein, unabhängig von der Güte ihres Baus.
 
@@ -160,7 +160,7 @@ Genannt sind die, die wirklich sind, und nicht die, die man üblicherweise aufz�
 
 **Bei einem Vorfall:** Eingrenzung und Schutzmaßnahmen, öffentliche Benachrichtigung, Behebung und erneute Prüfung, öffentliche Untersuchung der Ursachen und Schlussfolgerungen.
 
-**Der Code der Smart Contracts** wird unter einer offenen Lizenz veröffentlicht und im Explorer der Blockchain überprüft.
+**Der Code der Smart Contracts** wird unter einer offenen Lizenz zusammen mit den Verweisen zu seiner Überprüfung im Explorer der Blockchain vor dem Beginn jeder Tätigkeit mit der Einheit veröffentlicht (Abschnitt 8); heute ist der Vertrag nicht ausgerollt.
 
 ---
 

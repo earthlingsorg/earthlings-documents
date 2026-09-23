@@ -2,16 +2,16 @@
 
 **Tritt mit der Veröffentlichung in Kraft**
 
-> Weicht diese Politik von der [Charta](https://earth-lings.org/documents/de/de05-charta.html) ab, so gilt die Charta, und weicht die Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) ab, so gilt die Erklärung. Die allgemeinen Regeln der Verarbeitung personenbezogener Daten stehen in der [Datenschutzerklärung](https://earth-lings.org/documents/de/de28-datenschutzerklaerung.html).
+> Weicht diese Politik von der [Charta](https://earth-lings.org/documents/de/de05-charta.html) ab, so gilt die Charta, und weicht die Charta von der [Erklärung](https://earth-lings.org/documents/de/de01-erklaerung.html) ab, so gilt die Erklärung. Die allgemeinen Regeln der Verarbeitung personenbezogener Daten stehen in der [Datenschutzerklärung](https://earth-lings.org/documents/de/de28-datenschutzerklaerung.html). In der Gründungsphase - vom 22. Oktober 2026 bis zur Annahme der Erklärung - sind die Unterzeichnung der Erklärung und der Eintritt in das Volk ausgesetzt: Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht. Die Identitätsprüfung wird in dieser Zeit kostenlos durchgeführt, und auf ihrer Grundlage wird ein vorläufiges Dokument des Teilnehmers der Konstituierung ausgestellt und kein Pass (Dokument „Die Gründungsphase“, Teil 2, Ziffer 5). Das vorläufige Dokument wird in demselben Vertrag ausgegeben wie der Pass (Dokument „Wo wir jetzt stehen“). Diese Politik gilt auch für eine solche Prüfung; was sie über die Unterzeichnung und den Pass sagt, betrifft den Regelbetrieb nach der Annahme der Erklärung.
 
 ## Kurz das Wichtigste
 
 - die biometrischen Daten werden im Augenblick der Prüfung verarbeitet und nicht gespeichert;
-- damit ein Mensch nicht zwei gültige Pässe haben kann, werden nur nicht umkehrbare kryptografische Hashes gespeichert;
+- damit ein Mensch nicht zwei gültige Pässe haben kann, werden nicht umkehrbare kryptografische Hashes gespeichert;
 - nach einem Austritt kann man jederzeit zurückkehren;
-- ein Pseudonym statt des wirklichen Namens ist Ihre Wahl;
+- Vor- und Nachname wie im Dokument werden für den Abgleich mit ihm gebraucht; andere Teilnehmer sehen Sie unter dem von Ihnen gewählten Pseudonym;
 - die biometrischen Daten dienen dem Vertrauen und nicht der Kontrolle;
-- ein eigenes System der Prüfung, getrennte Speicher, Datensparsamkeit.
+- ein eigenes System der Prüfung, Datensparsamkeit.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## Wozu biometrische Daten
 
-Sie dienen einem einzigen Zweck: nachzuweisen, dass hinter jeder Stimme ein lebender, einmaliger Mensch steht. Das ist die Grundlage des Vertrauens zwischen einander unbekannten Menschen - und nichts weiter. Das System ist so entworfen, dass es sich nicht zur Überwachung verwenden lässt.
+Sie dienen einem einzigen Zweck: nachzuweisen, dass hinter jeder Stimme ein lebender, einmaliger Mensch steht. Das ist die Grundlage des Vertrauens zwischen einander unbekannten Menschen - und nichts weiter. Das System ist so entworfen, dass es so wenig wie möglich speichert.
 
 ## Die Person, nicht die Papiere
 
@@ -27,19 +27,19 @@ Der Mensch ist wichtiger als die Papiere. Ihre Zugehörigkeit zum Volk bestimmt 
 
 ## Vier Grundsätze
 
-**1. Nachweis der Einmaligkeit, nicht Kontrolle.** Die Prüfung schützt das Volk vor Mehrfachanmeldungen, schafft aber keine Grundlage für eine Überwachung.
+**1. Nachweis der Einmaligkeit, nicht Kontrolle.** Die Prüfung schützt das Volk vor Mehrfachanmeldungen und wird nicht zur Überwachung verwendet.
 
 **2. Die Zugehörigkeit wird persönlich nachgewiesen.** Staatliche Papiere bleiben an ihrem Platz: Die Prüfung gleicht nur die Person ab und ersetzt nichts.
 
 **3. Vertrauen durch Prüfung.** In einer Gemeinschaft ohne zentrale Gewalt schafft eine nachgewiesene Einmaligkeit eine Grundschicht des Vertrauens. Das gewährleistet keine Redlichkeit in einem bestimmten Geschäft, beseitigt aber die anonyme Vielfachheit von Konten als Quelle von Beeinflussung.
 
-**4. Schutz vor Missbrauch.** Die Trennung der Speicher, die Verschlüsselung und die praktische Unmöglichkeit, aus den gespeicherten Daten ein Bild wiederherzustellen, sind so eingerichtet, dass sich das System nicht für eine massenhafte Beobachtung verwenden lässt.
+**4. Schutz vor Missbrauch.** Der Verzicht auf die Speicherung von Bildern und Vorlagen, die Hashes mit dem geheimen Schlüssel des Servers und die praktische Unmöglichkeit, aus den gespeicherten Daten ein Bild wiederherzustellen, sorgen dafür, dass sich das System nicht für eine massenhafte Beobachtung verwenden lässt.
 
 ---
 
 # ABSCHNITT 02. Anwendungsbereich und Einwilligung
 
-Diese Politik bestimmt die Verarbeitung biometrischer Daten bei der Unterzeichnung der Erklärung, beim Erhalt des Status als Earthling und bei der Teilnahme an der Infrastruktur des Volkes.
+Diese Politik bestimmt die Verarbeitung biometrischer Daten bei der Unterzeichnung der Erklärung, beim Erhalt des Status als Earthling und bei der Teilnahme an der Infrastruktur des Volkes und in der Gründungsphase bei der Identitätsprüfung für das vorläufige Dokument des Teilnehmers der Konstituierung.
 
 ## Die Rechtsgrundlage
 
@@ -53,12 +53,12 @@ Die Prüfung ist freiwillig. Sie sind befugt, die Einwilligung jederzeit zu wide
 
 **Was beim Widerruf geschieht:**
 
-- die Verarbeitung biometrischer Daten endet, die Ergebnisse der Prüfung und die Daten des Kontos werden gelöscht;
-- **der nicht umkehrbare Hash der Einmaligkeit bleibt erhalten, und das ist die einzige Beschränkung des Widerrufs.** Er ist aus den Angaben des Papiers berechnet und nicht aus der Biometrie, fällt deshalb nicht unter die Einwilligung nach Artikel 9 DSGVO und bleibt auf einer anderen Grundlage erhalten. Ohne ihn könnte ein Mensch einen zweiten Pass erhalten, und diese Möglichkeit hat niemand - auch er selbst nicht;
-- da die nachgewiesene Einmaligkeit eine Voraussetzung des Stimmrechts ist, wird eine weitere Teilnahme an Abstimmungen unmöglich;
-- **den Pass entwerten Sie selbst**, mit dem eigenen Schlüssel, wie bei einem gewöhnlichen freiwilligen Austritt.
+- die Verarbeitung biometrischer Daten endet (nach der Prüfung werden sie ohnehin nicht gespeichert); das Ergebnis der Prüfung (Abschnitt 04) bleibt erhalten: Dabei handelt es sich nicht um biometrische Daten;
+- **der nicht umkehrbare Hash der Einmaligkeit bleibt ebenfalls erhalten.** Er ist aus den Angaben des Dokuments berechnet und nicht aus der Biometrie, fällt deshalb nicht unter die Einwilligung nach Artikel 9 DSGVO und bleibt auf einer anderen Grundlage erhalten. Ohne ihn könnte ein Mensch mit denselben Angaben des Dokuments einen zweiten Pass erhalten: Der Hash erlaubt es, einen solchen Versuch zu erkennen, auch von seiner Seite, und ein unter Umgehung der Prüfung ausgegebener Pass wird aufgehoben (Erklärung, Artikel 8);
+- die Zugehörigkeit und das Stimmrecht berührt der Widerruf der Einwilligung nicht, und das Konto wird seinetwegen nicht gelöscht; bei einem Menschen, der zum Volk gehört, erfolgt die Löschung des Kontos nur zusammen mit dem Austritt;
+- **den Pass entwerten Sie selbst**, mit dem eigenen Schlüssel, wenn Sie austreten wollen: Der Widerruf der Einwilligung entwertet den Pass nicht.
 
-> **Wir können Ihren Pass nicht für Sie entwerten.** Die Charta (Artikel 21) lässt eine Entwertung eines Passes nicht durch den Inhaber selbst nur in zwei Fällen zu - die Aufhebung einer unwirksamen Ausgabe durch Beschluss der Vollversammlung und die technische Neuausgabe auf Ihren eigenen Antrag; gegen Ihren Willen kann der Pass nur im ersten von ihnen entwertet werden. Der Widerruf der Einwilligung steht nicht unter diesen Fällen, und die Plattform bewahrt Ihre Schlüssel nicht auf. Widerrufen Sie die Einwilligung und entwerten den Pass nicht, so löschen wir die Daten auf unserer Seite, doch der Eintrag im Register bleibt bestehen, bis Sie ihn entwerten.
+> **Wir sind nicht befugt, Ihren Pass für Sie zu entwerten.** Die Charta (Artikel 21) lässt eine Entwertung eines Passes nicht durch den Inhaber selbst nur in zwei Fällen zu - die Aufhebung einer unwirksamen Ausgabe durch Beschluss der Vollversammlung und die technische Neuausgabe auf Ihren eigenen Antrag; gegen Ihren Willen kann der Pass nur im ersten von ihnen entwertet werden. Der Widerruf der Einwilligung steht nicht unter diesen Fällen, und die Plattform bewahrt Ihre Schlüssel nicht auf; doch solange die Rechte des Eigentümers des Vertrags nicht an eine Multisig übergeben sind, sind die Ausgabe und die Entwertung eines Passes technisch einem einzigen Schlüssel zugänglich (Dokument „Wo wir jetzt stehen“). Der Eintrag im Register bleibt nach dem Widerruf der Einwilligung bestehen. Bis zur Annahme der Erklärung gibt es keine Vollversammlung (Charta, Artikel 38), und das vorläufige Dokument des Teilnehmers der Konstituierung wird gegen den Willen des Inhabers nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 5) entwertet.
 
 ---
 
@@ -67,7 +67,7 @@ Die Prüfung ist freiwillig. Sie sind befugt, die Einwilligung jederzeit zu wide
 - **Alter** - das Erreichen des Alters von 18 Jahren;
 - **Zustimmung** - die freiwillige Unterzeichnung der Erklärung;
 - **Identitätsprüfung** - der Nachweis der Einmaligkeit;
-- **Pass** - die Ausgabe eines unübertragbaren Tokens an Ihre Adresse.
+- **Pass** - die Ausgabe eines unübertragbaren Tokens an Ihre Adresse; der Pass bestätigt den Status, der durch die Unterzeichnung der Erklärung entsteht.
 
 ## Welche Daten nötig sind
 
@@ -75,9 +75,9 @@ Die vollständige Aufzählung und die Rechtsgrundlagen stehen in der Datenschutz
 
 - **ein Pseudonym** - nach Ihrer Wahl, wird im Pass und für die Anmeldung auf der Plattform verwendet;
 - **eine E-Mail-Adresse** - für die Verbindung;
-- **die Prüfung des Papiers und des Gesichts**.
+- **die Prüfung des Papiers und des Gesichts** - zusammen mit Vor- und Nachnamen in lateinischer Schrift wie im Dokument; außerdem werden das Wohnsitzland angegeben und das Alter ab 18 bestätigt.
 
-**Wirklicher Vor- und Nachname werden nicht gespeichert.** Die Angaben des Papiers werden nur im Augenblick der Prüfung verwendet - zum Abgleich des Gesichts mit dem Papier und zum Nachweis der Einmaligkeit - und nach ihrem Abschluss gelöscht. Ihr Pseudonym bleibt Ihr öffentlicher Name.
+**Der wirkliche Vor- und Nachname wird nicht gespeichert.** Die Angaben des Papiers werden nur im Augenblick der Prüfung verwendet, zum Abgleich des Gesichts mit dem Papier und zum Nachweis der Einmaligkeit; nach ihrem Abschluss bleiben von ihnen nur die Art und das Ausstellungsland des Dokuments und nicht umkehrbare Hashes. Ihr Pseudonym bleibt der Name, unter dem andere Teilnehmer Sie sehen.
 
 ## Was der Status gibt
 
@@ -92,13 +92,13 @@ Die vollständige Aufzählung und die Rechtsgrundlagen stehen in der Datenschutz
 
 # ABSCHNITT 04. Wie die Prüfung eingerichtet ist
 
-**Papier → Gesicht → Prüfung der lebenden Anwesenheit → Abgleich von Papier und Gesicht → Ergebnis → geschützte Speicherung des Ergebnisses**
+**Papier → Gesicht → Prüfung der lebenden Anwesenheit → Abgleich von Papier und Gesicht → Ergebnis → Speicherung des Ergebnisses**
 
 ## Was geprüft wird
 
 - **das Papier** - der Abgleich der Angaben mit einem amtlichen Ausweispapier;
 - **die Geometrie des Gesichts** - Schlüsselpunkte und Verhältnisse;
-- **die lebende Anwesenheit** - der Schutz vor Lichtbildern, Videoaufzeichnungen und Masken. Die Prüfung ist nach dem Modell der Erkennung von Präsentationsangriffen aufgebaut, das im Standard ISO/IEC 30107 beschrieben ist; die erklärte Stufe der Widerstandsfähigkeit und die Ergebnisse einer unabhängigen Prüfung werden bei der Inbetriebnahme des Systems veröffentlicht.
+- **die lebende Anwesenheit** - zurzeit ist das eine einfache passive Prüfung anhand einer einzigen Aufnahme des Gesichts: Sie erkennt nur einfache Fälschungen - die Aufnahme eines Lichtbildes oder eines Bildschirms -, schützt vor Videoaufzeichnungen und Masken nicht, und die Aufnahme lässt sich als Datei hochladen. Eine Prüfung nach dem Modell der Erkennung von Präsentationsangriffen, das im Standard ISO/IEC 30107 beschrieben ist, ist noch nicht eingeführt; die erklärte Stufe der Widerstandsfähigkeit und die Ergebnisse einer unabhängigen Prüfung werden bei ihrer Einführung veröffentlicht.
 
 ## Der Ablauf
 
@@ -107,13 +107,13 @@ Die vollständige Aufzählung und die Rechtsgrundlagen stehen in der Datenschutz
 3. **Gewinnung der Merkmale** - der Angaben des Papiers und der Schlüsselpunkte des Gesichts.
 4. **Bildung einer mathematischen Vorlage** - einer Zahlenreihe, die die Merkmale beschreibt. Die Vorlage besteht nur im Arbeitsspeicher während der Prüfung.
 5. **Abgleich** der biometrischen Daten mit dem Papier und Prüfung der Einmaligkeit.
-6. **Speicherung des Ergebnisses** - in verschlüsselter Form.
+6. **Speicherung des Ergebnisses** - ohne Bilder und Vorlagen.
 
-> **Was nach der Prüfung bleibt.** Lichtbilder, Scans von Papieren und biometrische Vorlagen werden **nicht gespeichert**. Es bleiben: der Status der Prüfung (bestanden oder nicht) und nicht umkehrbare kryptografische Hashes, die aus der Nummer des Papiers und aus der Verbindung des Namens mit dem Land berechnet sind.
+> **Was nach der Prüfung bleibt.** Lichtbilder, Scans von Papieren und biometrische Vorlagen werden **nicht gespeichert**. Es bleiben: der Stand der Prüfung, die Art und das Ausstellungsland des Dokuments, die Zahlenwerte der Prüfung, die Gründe der Ablehnung und nicht umkehrbare Hashes der Nummer des Dokuments sowie des Vornamens, des Nachnamens und des Geburtsdatums aus dem Dokument, berechnet mit dem geheimen Schlüssel des Servers.
 >
 > Die Hashes verbieten keine Rückkehr. Sie verhindern nur, dass ein Mensch zwei gültige Pässe zugleich hat: Bei einem erneuten Beitritt findet das System eine Übereinstimmung, vergewissert sich, dass der frühere Pass entwertet ist, und gibt einen neuen aus.
 
-> **Genau zum Status der Hashes.** Ein Hash ist nicht umkehrbar: Einen Namen oder eine Nummer eines Papiers lässt sich aus ihm nicht lesen. Doch er erlaubt es, **einen bestimmten Menschen** unter anderen herauszugreifen - sonst erfüllte er seine Aufgabe nicht. Deshalb sind das nach der DSGVO **pseudonymisierte und keine anonymen** Daten, und der Schutz personenbezogener Daten erstreckt sich in vollem Umfang auf sie. Wir nennen sie nicht anonymisiert, weil das ungenau wäre.
+> **Genau zum Status der Hashes.** Ein Hash ist nicht umkehrbar und wird mit dem geheimen Schlüssel des Servers berechnet: Ein Name oder eine Nummer eines Papiers lässt sich aus ihm nicht lesen, und ohne den Schlüssel lassen sie sich auch nicht durch Durchprobieren erraten. Doch er erlaubt es, **einen bestimmten Menschen** unter anderen herauszugreifen - sonst erfüllte er seine Aufgabe nicht. Deshalb sind das nach der DSGVO **pseudonymisierte und keine anonymen** Daten, und der Schutz personenbezogener Daten erstreckt sich in vollem Umfang auf sie. Wir nennen sie nicht anonymisiert, weil das ungenau wäre.
 
 ---
 
@@ -123,15 +123,15 @@ Die allgemeinen Maßnahmen sind in der Datenschutzerklärung beschrieben; unten 
 
 **Geschützte Übertragung.** Alle Daten werden über geschützte Kanäle mit durchgehender Verschlüsselung zwischen Ihrem Gerät und den Servern des Systems der Prüfung übertragen.
 
-**Verschlüsselung bei der Speicherung.** Die Hashes werden verschlüsselt gespeichert (AES-256). Die Entschlüsselungsschlüssel werden getrennt von den Daten aufbewahrt.
+**Der Schlüssel der Hashes.** Die Hashes werden mit dem geheimen Schlüssel des Servers berechnet (HMAC-SHA256); der Schlüssel wird außerhalb der Datenbank aufbewahrt. Eine Verschlüsselung der gespeicherten Daten auf der Ebene der Anwendung gibt es nicht.
 
-**Trennung der Speicher.** Die Hashes und die Ergebnisse der Prüfung werden getrennt von den Daten des Kontos aufbewahrt.
+**Ein Speicher.** Die Hashes und die Ergebnisse der Prüfung werden in derselben Datenbank wie die Daten des Kontos aufbewahrt; die Daten der Plattform liegen in einer gesonderten Datenbank.
 
 **Sofortige Löschung der Ausgangsmaterialien.** Lichtbilder und Scans werden sogleich nach dem Abschluss der Prüfung gelöscht.
 
-**Zugangskontrolle.** Mehrstufige Authentifizierung und Protokollierung: Alle Zugriffe auf die Daten der Prüfung werden festgehalten und können überprüft werden.
+**Zugangskontrolle.** Zugang zu den Daten der Prüfung haben nur Verwalter, mit dem Schlüssel des Verwalters; eine mehrstufige Authentifizierung gibt es noch nicht, und es werden nicht alle Zugriffe protokolliert.
 
-> **Die Philosophie der Sicherheit:** Der beste Schutz ist, wenn es nichts zu stehlen gibt. Wir speichern nicht das, was gegen Sie verwendet werden kann.
+> **Die Philosophie der Sicherheit:** Je weniger gespeichert wird, desto weniger lässt sich stehlen. Bilder, biometrische Vorlagen, den Namen und die Nummer des Dokuments speichern wir nicht; was gespeichert wird, ist in Abschnitt 09 und in der Datenschutzerklärung aufgezählt.
 
 ---
 
@@ -143,16 +143,16 @@ Die allgemeinen Rechte eines Teilnehmers stehen in der Datenschutzerklärung und
 
 **Die Prüfung erneut durchlaufen.** Hat sich das Aussehen erheblich verändert und erkennt die Prüfung Sie nicht, so durchlaufen Sie sie erneut. Die Vorlage wird dabei nicht „aktualisiert“: Sie wird nirgends aufbewahrt, der Abgleich erfolgt jedes Mal von Grund auf.
 
-**Eine Überprüfung durch einen Menschen verlangen.** Eine selbsttätige Ablehnung ist nicht endgültig (Artikel 22 der DSGVO). Sie sind befugt, Ihre Position darzulegen und das Ergebnis anzufechten. Nach zwei erfolglosen selbsttätigen Versuchen geht die Sache **ohne gesonderten Antrag** an einen Menschen über. Die Zahl der wiederholten Einreichungen ist nicht begrenzt.
+**Eine Überprüfung durch einen Menschen verlangen.** Eine selbsttätige Ablehnung ist nicht endgültig (Artikel 22 der DSGVO). Sie sind befugt, Ihre Position darzulegen und das Ergebnis anzufechten. Nach zwei erfolglosen selbsttätigen Versuchen wird die Überprüfung durch einen Menschen **ohne gesonderten Antrag** durchgeführt. Die Zahl der wiederholten Einreichungen ist nicht begrenzt.
 
 **Eine Beschwerde einreichen** bei der Aufsichtsbehörde für den Datenschutz Ihres Landes; der Ablauf steht in der Datenschutzerklärung.
 
 ## Was beim Austritt geschieht
 
-- die Verbindung zwischen den Daten der Prüfung und Ihrer Person wird getrennt;
+- die Entwertung des Passes löscht für sich genommen keine Daten: Die Daten des Kontos werden auf Ihr Verlangen gelöscht, und nach der Löschung bleiben die Adresse der Geldbörse, die Nummer des Passeintrags, das Pseudonym, das Land, das Ergebnis und die Zahlenwerte der Prüfung sowie die nicht umkehrbaren Hashes;
 - die pseudonymisierten Hashes bleiben ausschließlich dafür erhalten, dass ein Mensch nicht zwei gültige Pässe haben kann;
 - **das Recht zurückzukehren bleibt erhalten**: Bei einem erneuten Beitritt vergewissert sich das System, dass der frühere Pass entwertet ist, und gibt einen neuen aus;
-- aus den Hashes ein Bild wiederherzustellen oder eine Person festzustellen ist praktisch unmöglich.
+- aus den Hashes lässt sich kein Bild wiederherstellen; ein Name oder eine Nummer des Dokuments lässt sich aus ihnen nicht lesen, und ohne den geheimen Schlüssel des Servers lassen sie sich auch nicht durch Durchprobieren erraten.
 
 ---
 
@@ -161,12 +161,12 @@ Die allgemeinen Rechte eines Teilnehmers stehen in der Datenschutzerklärung und
 Die Aufzählung ist abschließend: Eine Verarbeitung zu anderen Zwecken findet nicht statt.
 
 - der Nachweis der Einmaligkeit bei der Anmeldung;
-- die Ausgabe des Passes;
+- die Ausgabe des Passes und in der Gründungsphase des vorläufigen Dokuments des Teilnehmers der Konstituierung;
 - der Nachweis des Status als Teilnehmer;
 - die Sicherung des Grundsatzes „ein Mensch - eine Stimme“ bei Abstimmungen;
 - der Zugang zu Diensten, die einen nachgewiesenen Status verlangen.
 
-> **Was wir nicht tun.** Wir verfolgen keinen Aufenthaltsort. Wir werten kein Verhalten aus. Wir verkaufen keine Daten an Dritte. Wir bilden keine Profile für Werbung. Wir verwenden das System nicht zur Beobachtung. Wir geben Daten an staatliche Stellen nur auf eine rechtskräftige gerichtliche Entscheidung oder eine ihr gleichwertige rechtmäßige Anforderung weiter, deren Rechtmäßigkeit in jedem Fall geprüft wird.
+> **Was wir nicht tun.** Wir verfolgen keinen Aufenthaltsort. Verhalten werten wir nicht aus, abgesehen von einer zusammengefassten Statistik der Besuche, in der auch die Schritte des Fragebogens der Prüfung erfasst werden (Datenschutzerklärung, Abschnitt 04). Wir verkaufen keine Daten an Dritte. Wir bilden keine Profile für Werbung. Wir verwenden das System nicht zur Beobachtung. Wir geben Daten an staatliche Stellen nur auf eine rechtskräftige gerichtliche Entscheidung oder eine ihr gleichwertige rechtmäßige Anforderung weiter, deren Rechtmäßigkeit in jedem Fall geprüft wird.
 >
 > Über erfüllte Anforderungen wird der Teilnehmer benachrichtigt, sofern die Entscheidung selbst das nicht verbietet. Eine Übersicht solcher Fälle wird im Transparenzbericht veröffentlicht.
 
@@ -176,7 +176,7 @@ Die Aufzählung ist abschließend: Eine Verarbeitung zu anderen Zwecken findet n
 
 ## Was offen und was verschlossen ist
 
-Der Code des Smart Contracts des Passes ist unter der Lizenz MIT offen und im Explorer des Netzes überprüfbar.
+Der Code des Smart Contracts des Passes ist unter der Lizenz MIT offen; im Explorer des Netzes ist der Vertrag nicht verifiziert, und die Übereinstimmung des Quelltextes mit dem ausgerollten Vertrag muss man selbst überprüfen (Dokument „Wo wir jetzt stehen“).
 
 **Der Code des Systems der Identitätsprüfung ist verschlossen** - eben deshalb, weil er mit personenbezogenen Daten arbeitet und seine Veröffentlichung die Umgehung des Schutzes erleichtern würde. Das ist eine bewusste Wahl und kein Verschweigen; die Aufzählung mit den Gründen steht im Dokument [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html).
 
@@ -185,13 +185,13 @@ Als Ausgleich für die Verschlossenheit übernehmen wir Folgendes:
 - **eine unabhängige Sicherheitsprüfung** ist vor der Ausweitung des Betriebs vorgesehen; der Bericht wird veröffentlicht;
 - **die technische Dokumentation** steht zur Untersuchung offen;
 - **Sicherheitsberichte** werden regelmäßig veröffentlicht;
-- **die Protokollierung der Zugriffe** auf die Daten der Prüfung wird geführt und unterliegt der Prüfung.
+- **die Protokollierung der Zugriffe** auf die Daten der Prüfung unterliegt der Prüfung; zurzeit werden nicht alle Zugriffe protokolliert.
 
 ## Die unabhängige Aufsicht
 
-Fragen der Ethik der Verarbeitung biometrischer Daten werden dem [Unabhängigen Rat](https://earth-lings.org/documents/de/de11-unabhaengiger-rat.html) zur Behandlung vorgelegt - einem Organ, das denen nicht untersteht, die die Plattform betreiben. Bis zur Bildung des Rates entfällt diese Stufe, und die Fristen der öffentlichen Beratung solcher Fragen verdoppeln sich (Charta, Artikel 39).
+Fragen der Ethik der Verarbeitung biometrischer Daten werden dem [Unabhängigen Rat](https://earth-lings.org/documents/de/de11-unabhaengiger-rat.html) zur Behandlung vorgelegt - einem Organ, das denen nicht untersteht, die die Plattform betreiben. Nach der Annahme der Erklärung entfällt diese Stufe, solange der Rat nicht gebildet ist, und die Fristen der öffentlichen Beratung solcher Fragen verdoppeln sich (Charta, Artikel 39); bis zur Annahme der Erklärung gibt es den Rat nicht (Charta, Artikel 38).
 
-Vorschläge zur Änderung dieser Politik werden der Vollversammlung zur Abstimmung vorgelegt.
+Nach der Annahme der Erklärung werden Vorschläge zur Änderung dieser Politik der Vollversammlung zur Abstimmung vorgelegt, und bis zur Annahme entscheidet über sie der Verfasser der Erklärung nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 2).
 
 ---
 
@@ -209,40 +209,40 @@ Vorschläge zur Änderung dieser Politik werden der Vollversammlung zur Abstimmu
 
 **Was nicht gespeichert wird:** wirkliche Vor- und Nachnamen; Nummern von Pässen und Papieren; genaue Geburtsdaten; Wohnanschriften; Lichtbilder und biometrische Vorlagen; Telefonnummern, außer in Fällen der Zwei-Faktor-Authentifizierung.
 
-**Was gespeichert wird:** das Pseudonym; die E-Mail-Adresse; der Nachweis des Alters ab 18; das Wohnsitzland (für die Statistik); der Status der Identitätsprüfung; die Verbindung mit dem Pass; das Datum des Erhalts des Status.
+**Was gespeichert wird:** das Pseudonym; die E-Mail-Adresse; der Nachweis des Alters ab 18; das Wohnsitzland (für die Statistik); der Status der Identitätsprüfung; die Verbindung mit dem Pass; das Datum des Erhalts des Status; die Adresse der Geldbörse; die IP-Adresse und die Art des Browsers zum Zeitpunkt der Prüfung - nicht länger als 12 Monate.
 
 ## Die Datensparsamkeit
 
-Das Register folgt dem Grundsatz der Datensparsamkeit nach der DSGVO. Gespeichert wird nur das Notwendige: die nachgewiesene Einmaligkeit, die Verbindung mit dem Pass für die Teilnahme an Entscheidungen, eine innere Kennung für die Verteilung von Vergütungen.
+Das Register folgt dem Grundsatz der Datensparsamkeit nach der DSGVO. Gespeichert wird nur das, was für den Nachweis der Einmaligkeit und für die Verbindung mit dem Pass für die Teilnahme an Entscheidungen notwendig ist; was genau gespeichert wird, steht oben, im Kasten unten und in der Datenschutzerklärung.
 
-Lichtbilder und Scans werden sogleich nach der Prüfung gelöscht, doch ihr Ergebnis bleibt gültig und überprüfbar - ähnlich wie ein Staat bei der Ausgabe eines Passes keine biometrischen Proben dauerhaft speichert, obwohl die Tatsache der Ausgabe gültig bleibt.
+Lichtbilder und Scans werden sogleich nach der Prüfung gelöscht, doch ihr Ergebnis bleibt gültig und überprüfbar.
 
-> **Die Verbindung zwischen der wirklichen Person und dem Pseudonym wird nicht aufbewahrt.** Die Angaben des Papiers werden nur im Augenblick der Prüfung verarbeitet. Im System der Identitätsprüfung bleiben das Pseudonym, der Status der Prüfung und der kryptografische Nachweis der Einmaligkeit; in das offene Register wird das Pseudonym nicht eingetragen. Diese Architektur schließt die Offenlegung der Person eines Teilnehmers aus - gegenüber anderen Teilnehmern, gegenüber Verwaltern und gegenüber Dritten -, weil es nichts offenzulegen gibt.
+> **Der wirkliche Vor- und Nachname wird nicht gespeichert.** Die Angaben des Papiers werden nur im Augenblick der Prüfung verarbeitet. Im System der Identitätsprüfung bleiben das Pseudonym, die E-Mail-Adresse, das Land, die Adresse der Geldbörse, die IP-Adresse und die Art des Browsers zum Zeitpunkt der Prüfung, und von der Prüfung der Stand der Prüfung, die Art und das Ausstellungsland des Dokuments, die Zahlenwerte der Prüfung, die Gründe der Ablehnung und nicht umkehrbare Hashes der Nummer des Dokuments sowie des Vornamens, des Nachnamens und des Geburtsdatums aus dem Dokument, berechnet mit dem geheimen Schlüssel des Servers; in das offene Register wird das Pseudonym nicht eingetragen. Deshalb lassen sich Ihr Name oder die Nummer des Dokuments weder anderen Teilnehmern noch Verwaltern noch Dritten offenlegen: Wir haben sie nicht.
 
 ---
 
 # ABSCHNITT 10. Häufige Fragen
 
 **Können Sie mein Gesicht aus dem wiederherstellen, was Sie speichern?**
-Nein. Die biometrische Vorlage wird überhaupt nicht gespeichert: Der Vergleich erfolgt im Augenblick der Prüfung, danach werden die Ausgangsdaten gelöscht. Es bleiben nicht umkehrbare Hashes, aus denen sich weder Bilder noch Angaben eines Papiers gewinnen lassen.
+Nein. Die biometrische Vorlage wird überhaupt nicht gespeichert: Der Vergleich erfolgt im Augenblick der Prüfung, danach werden die Ausgangsdaten gelöscht. Es bleiben das Ergebnis der Prüfung und nicht umkehrbare Hashes, aus denen sich keine Bilder gewinnen lassen; ein Name oder eine Nummer des Dokuments lässt sich aus ihnen nicht lesen, und ohne den geheimen Schlüssel des Servers lassen sie sich auch nicht durch Durchprobieren erraten.
 
 **Was geschieht, wenn ich mein Telefon verliere?**
-Die Daten der Prüfung sind sicher. Zur Wiederherstellung des Zugangs genügt es, die Anwendung auf einem neuen Gerät zu installieren und die Prüfung erneut zu durchlaufen.
+Die Daten der Prüfung sind sicher. Eine Anwendung gibt es nicht: Die Prüfung läuft im Browser. Ist die Geldbörse über die Anmeldung mit E-Mail, Google oder Apple angelegt, so genügt es, sich auf dem neuen Gerät auf demselben Weg anzumelden. Ist der Zugang zur Geldbörse verloren, so wird der Pass auf Ihren Antrag an eine neue Adresse neu ausgegeben, und die Zugehörigkeit wird nicht unterbrochen (Charta, Artikel 21).
 
 **Können meine biometrischen Daten entwendet werden?**
-Entwenden lassen sich nur verschlüsselte, nicht umkehrbare Hashes, die ohne die Entschlüsselungsschlüssel nutzlos sind. Aus ihnen ein Bild des Gesichts wiederherzustellen ist praktisch unmöglich.
+Biometrische Daten lassen sich nicht entwenden: Wir speichern sie nicht. Die Hashes, die wir speichern, sind mit dem geheimen Schlüssel des Servers aus den Angaben des Dokuments berechnet und nicht aus der Biometrie, und ein Bild des Gesichts steht nicht in ihnen.
 
 **Ist es verbindlich, den wirklichen Namen anzugeben?**
-Nein. Wirklicher Vor- und Nachname werden nicht gespeichert. Die Angaben des Papiers werden nur im Augenblick der Prüfung überprüft und danach gelöscht. Im täglichen Umgang sind Sie unter dem Pseudonym bekannt.
+Für die Prüfung ja: Vor- und Nachname wie im Dokument werden für den Abgleich mit ihm gebraucht. Der wirkliche Vor- und Nachname wird nicht gespeichert. Die Angaben des Papiers werden nur im Augenblick der Prüfung überprüft; danach bleiben von ihnen nur die Art und das Ausstellungsland des Dokuments und nicht umkehrbare Hashes. Im täglichen Umgang sind Sie unter dem Pseudonym bekannt.
 
 **Was geschieht mit den Daten beim Austritt?**
-Die Verbindung zwischen den Daten der Prüfung und Ihrer Person wird getrennt. Die pseudonymisierten Hashes bleiben ausschließlich dafür erhalten, dass ein Mensch nicht zwei gültige Pässe haben kann. Der Rückkehr steht das nicht entgegen.
+Die Entwertung des Passes löscht für sich genommen keine Daten: Die Daten des Kontos werden auf Ihr Verlangen gelöscht, und nach der Löschung bleiben die Adresse der Geldbörse, die Nummer des Passeintrags, das Pseudonym, das Land, das Ergebnis und die Zahlenwerte der Prüfung sowie die nicht umkehrbaren Hashes. Die pseudonymisierten Hashes bleiben ausschließlich dafür erhalten, dass ein Mensch nicht zwei gültige Pässe haben kann. Der Rückkehr steht das nicht entgegen.
 
 **Was tun, wenn sich das Aussehen erheblich verändert hat?**
 Die Prüfung erneut durchlaufen. Eine gespeicherte Vorlage, die zu aktualisieren wäre, gibt es nicht.
 
 **Was, wenn die Prüfung abgelehnt wird?**
-Sie erhalten eine Benachrichtigung über die Gründe. Nach ihrer Behebung lässt sich der Versuch wiederholen - zum Beispiel mit besseren Bildern oder einem anderen Papier. Sind Sie nicht einverstanden, so sind Sie befugt, eine Überprüfung durch einen Menschen zu verlangen, und nach zwei erfolglosen selbsttätigen Versuchen geschieht eine solche Überprüfung selbsttätig.
+Die Gründe einer selbsttätigen Ablehnung werden auf dem Bildschirm der Prüfung angezeigt - vorerst mit Dienstcodes -, und die Entscheidung nach der Überprüfung durch einen Menschen kommt per E-Mail. Nach ihrer Behebung lässt sich der Versuch wiederholen - zum Beispiel mit besseren Bildern oder einem anderen Papier. Sind Sie nicht einverstanden, so sind Sie befugt, eine Überprüfung durch einen Menschen zu verlangen, und nach zwei erfolglosen selbsttätigen Versuchen wird die Überprüfung durch einen Menschen ohne gesonderten Antrag durchgeführt.
 
 **Wem sind mein wirklicher Vor- und Nachname zugänglich?**
 Niemandem: Sie werden nicht gespeichert. Das Volk kann Daten, über die es nicht verfügt, technisch nicht offenlegen.
