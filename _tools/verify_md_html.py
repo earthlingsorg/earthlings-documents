@@ -27,7 +27,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 # падала на импорте, то есть молча не работала. Теперь путь считается теми же
 # функциями, которыми его считает сборщик: расходиться нечему.
 import build_site_docs
-from build_site_docs import (ALL_LANGS, CHAIN, SLUGS, corpus_file, doc_file,
+from build_site_docs import (ALL_LANGS, ANNEXES, CHAIN, SLUGS, corpus_file, doc_file,
                              docs_dir, has_doc, load_fragments, md_dir)
 
 # Сверяем с деревом НОВОГО сайта, а не боевого. Боевой заменяется и с
@@ -157,7 +157,7 @@ def main():
         args = args[1:]
     else:
         langs = ['ru']
-    targets = CHAIN if args == ['all'] else args
+    targets = CHAIN + ANNEXES if args == ['all'] else args
 
     checked = skipped = bad = 0
     for lang in langs:

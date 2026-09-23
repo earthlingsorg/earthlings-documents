@@ -148,7 +148,14 @@ BANDS = [
 # которое без неё повисает и указывает в пустоту. Блоки 3 и 5 самостоятельны
 # и говорят ровно о том же - Устав ООН и чего он не дал.
 POSTER_LINE_DOC = '02'
-POSTER_LINE_BLOCK = 245
+POSTER_LINE_BLOCK = 103
+# Документ 02 сокращён 2026-09-23 на русском и английском; семь остальных
+# языков до своего захода перевода держат прежнюю, несокращённую редакцию в
+# 432 блока, где та же строка стоит блоком 245. Пара «сколько блоков - какой
+# номер» живёт только на время этого расхождения: как только переводы
+# догонят, обе строки ниже удаляются, и остаётся один номер.
+POSTER_LINE_BLOCKS_LEGACY = 432
+POSTER_LINE_BLOCK_LEGACY = 245
 POSTER_LINE_ANCHOR = u'> Мы не обещаем, что вас услышат'
 
 # --- полоса «Возражения и ответы» -----------------------------------------
@@ -1117,21 +1124,30 @@ def poster_line(lang):
         % (POSTER_LINE_DOC, lang, p))
     ru = blocks(doc_master(POSTER_LINE_DOC, 'ru'))
     bs = ru if lang == 'ru' else blocks(doc_master(POSTER_LINE_DOC, lang))
-    assert len(bs) == len(ru), (
-        u'мастер %s (%s) состоит из %d блоков, а русский - из %d. Номер строки '
-        u'плаката указывает в этом языке на другой блок. Сверьте мастера.'
-        % (POSTER_LINE_DOC, lang, len(bs), len(ru)))
-    assert 1 <= POSTER_LINE_BLOCK <= len(bs), (
+    if len(bs) == len(ru):
+        block = POSTER_LINE_BLOCK
+    elif len(bs) == POSTER_LINE_BLOCKS_LEGACY:
+        # Язык отстаёт: у него несокращённый мастер, и строка лежит в нём на
+        # прежнем месте. Это законное состояние до захода перевода.
+        block = POSTER_LINE_BLOCK_LEGACY
+    else:
+        raise AssertionError(
+            u'мастер %s (%s) состоит из %d блоков: это не нынешняя русская '
+            u'редакция (%d) и не прежняя (%d). Номер строки плаката указывает '
+            u'в этом языке неизвестно куда. Сверьте мастера.'
+            % (POSTER_LINE_DOC, lang, len(bs), len(ru),
+               POSTER_LINE_BLOCKS_LEGACY))
+    assert 1 <= block <= len(bs), (
         u'в мастере %s всего %d блоков, а плакат просит №%d'
-        % (POSTER_LINE_DOC, len(bs), POSTER_LINE_BLOCK))
+        % (POSTER_LINE_DOC, len(bs), block))
     got = ru[POSTER_LINE_BLOCK - 1]
     assert got.startswith(POSTER_LINE_ANCHOR), (
         u'строка плаката разошлась с мастером %s: блок №%d начинается на %r, а '
         u'ожидалось %r. Мастер правили - выберите номер заново.'
         % (POSTER_LINE_DOC, POSTER_LINE_BLOCK, got[:60], POSTER_LINE_ANCHOR))
-    line = re.sub(r'^>\s*', '', bs[POSTER_LINE_BLOCK - 1]).strip()
+    line = re.sub(r'^>\s*', '', bs[block - 1]).strip()
     assert line, u'блок №%d мастера %s (%s) пуст после снятия маркера цитаты' % (
-        POSTER_LINE_BLOCK, POSTER_LINE_DOC, lang)
+        block, POSTER_LINE_DOC, lang)
     return line
 
 

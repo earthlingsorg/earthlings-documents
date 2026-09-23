@@ -56,7 +56,7 @@ assert os.path.isdir(os.path.join(REPO, 'ru')), (
     u'не найден каталог мастеров: %s' % os.path.join(REPO, 'ru'))
 
 LANGS = ['ru', 'en', 'de', 'es', 'fr', 'ka', 'zh', 'ar', 'hi']
-DOCS = ['02', '04']
+DOCS = ['02', '02c', '04']
 
 BASELINE = os.path.join(HERE, 'quotes-baseline.json')
 
@@ -81,8 +81,13 @@ QUOTES = {
 }
 
 
-def master(lang, doc):
+def master(lang, doc, required=True):
     f = glob.glob(os.path.join(REPO, lang, '%s-*.md' % doc))
+    # Приложения к 02 существуют только на русском и английском - двух
+    # аутентичных текстах. Для остальных семи языков отсутствие мастера
+    # приложения законно, и проверка их просто не касается.
+    if not f and not required:
+        return None
     assert len(f) == 1, u'мастер %s/%s: найдено файлов %d' % (lang, doc, len(f))
     s = io.open(f[0], encoding='utf-8').read()
     assert s.strip(), u'пустой мастер %s' % f[0]
@@ -109,7 +114,10 @@ def matched(lang):
     decl = master(lang, '01')
     hit, seen_any = [], 0
     for doc in DOCS:
-        qs = quoted(lang, master(lang, doc))
+        text = master(lang, doc, required=(len(doc) == 2))
+        if text is None:
+            continue
+        qs = quoted(lang, text)
         seen_any += len(qs)
         for q in qs:
             if q in decl:

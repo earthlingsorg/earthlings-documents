@@ -100,6 +100,9 @@ SLUGS = {
     'ru': {
         '01': 'deklaraciya',
         '02': 'grazhdanskij-golos',
+        '02a': 'slomannyj-schet',
+        '02b': 'vliyanie-bez-polnomochij',
+        '02c': 'pribor-i-narod',
         '03': 'etika',
         '04': 'pravovoe-obosnovanie',
         '05': 'ustav',
@@ -130,6 +133,9 @@ SLUGS = {
     'en': {
         '01': 'declaration',
         '02': 'civic-voice',
+        '02a': 'why-the-count-is-broken',
+        '02b': 'influence-without-powers',
+        '02c': 'why-the-instrument-needs-a-people',
         '03': 'ethics',
         '04': 'legal-basis',
         '05': 'charter',
@@ -420,6 +426,12 @@ CHAIN = ['01', '02', '05', '04', '26', '30', '12', '07', '08', '09', '10', '11',
          '14', '15', '16', '03', '27', '19', '20', '32', '31', '23',
          '22', '28', '29']
 
+# Приложения к документу 02: они входят в корпус, собираются и попадают в
+# сайтмап, но в меню, в библиотеке и в переходах «далее / назад» их нет -
+# туда ведёт только сам документ 02. Поэтому отдельный список, а не место в
+# CHAIN: CHAIN и есть меню, и любой номер, попавший туда, становится пунктом.
+ANNEXES = ['02a', '02b', '02c']
+
 # Обвязка берётся из живой страницы, но для переименованных и новых
 # документов её задаём здесь - иначе пересборка вернёт старые описания.
 OVERRIDES = {
@@ -431,6 +443,30 @@ OVERRIDES = {
         'description': u'Почему гражданский голос сегодня можно не слышать, не споря по существу, '
                        u'что Earthlings строят взамен и какими ступенями такой голос набирает вес.',
         'og_description': u'Счёт сломан, а не канал. Что это значит и что с этим делают Earthlings.',
+    },
+    '02a': {
+        'title': u'Почему счёт сломан | Народ Earthlings',
+        'og_title': u'Почему счёт сломан | Народ Earthlings',
+        'description': u'Пять поломок гражданского голоса, дело о восемнадцати миллионах '
+                       u'поддельных комментариев и математика, из-за которой распылённое '
+                       u'большинство проигрывает организованному меньшинству.',
+        'og_description': u'Приложение к «Гражданскому голосу»: почему счёт сломан.',
+    },
+    '02b': {
+        'title': u'Влияние без полномочий | Народ Earthlings',
+        'og_title': u'Влияние без полномочий | Народ Earthlings',
+        'description': u'Шесть случаев, в которых у людей не было никаких полномочий, и с ними '
+                       u'всё равно считались, и два опыта, ближе всего подошедших к тому, чтобы '
+                       u'соединить глубину с масштабом.',
+        'og_description': u'Приложение к «Гражданскому голосу»: влияние без полномочий.',
+    },
+    '02c': {
+        'title': u'Почему прибор упирается в народ | Народ Earthlings',
+        'og_title': u'Почему прибор упирается в народ | Народ Earthlings',
+        'description': u'Пять причин, по которым проверяемое измерение общей воли упирается в '
+                       u'народ, случай крупнейшего проекта, построенного без него, и девять '
+                       u'способов, которыми всё это может не состояться.',
+        'og_description': u'Приложение к «Гражданскому голосу»: почему нужен народ.',
     },
     '32': {
         'title': 'Где мы сейчас | Народ Earthlings',
@@ -633,6 +669,24 @@ OVERRIDES_EN = {
            'og_description':
            'What is broken is the count, not the channel. What that means and what '
            'the Earthlings do about it.'},
+    '02a': {'description':
+            'Five faults of the civic voice, the case of the eighteen million fake '
+            'comments, and the arithmetic by which a dispersed majority loses to an '
+            'organized minority.',
+            'og_description':
+            'An annex to Civic Voice: why the count is broken.'},
+    '02b': {'description':
+            'Six cases in which people had no powers at all and were reckoned with all '
+            'the same, and the two experiments that have come closest to joining depth '
+            'with scale.',
+            'og_description':
+            'An annex to Civic Voice: influence without powers.'},
+    '02c': {'description':
+            'Five reasons why a verifiable measurement of a common will comes up against '
+            'a people, the case of the largest project built without one, and nine ways '
+            'in which all of this may fail to come about.',
+            'og_description':
+            'An annex to Civic Voice: why the instrument needs a people.'},
     '03': {'description': _OFFICIAL % 'Earthlings Ethics'},
     '04': {'description':
            'The legal basis of the Earthlings people: freedom of association, the right of '
@@ -1314,6 +1368,15 @@ ALL_LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 # Порядок такой: сначала 25 мастеров в hi/, потом SLUGS['hi'], потом эта
 # строка - одним заходом, и сразу пересборка.
 LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
+                # Приложения заведены 2026-09-23 и существуют на русском и
+                # английском - двух аутентичных текстах по статье 11
+                # Декларации. Семь переводов появятся отдельным заходом; до
+                # тех пор страницы приложений в этих языках не собираются, и
+                # ссылок на них там нет: документ 02 в них прежней,
+                # несокращённой редакции, и выносить из него нечего.
+                '02a': ['en', 'ru'],
+                '02b': ['en', 'ru'],
+                '02c': ['en', 'ru'],
                 '20': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
                 '32': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']}
 
@@ -2325,7 +2388,9 @@ def all_titles():
         md = md_dir(lang)
         if not os.path.isdir(md):
             continue
-        for num in CHAIN:
+        for num in CHAIN + ANNEXES:
+            if num not in SLUGS[lang]:
+                continue
             if os.path.isfile(os.path.join(md, corpus_file(num, lang))):
                 seen.add(num)
     assert seen, u'мастеров не найдено ни на одном языке'
@@ -2637,7 +2702,7 @@ def write_sitemap_v2(titles, dry=False):
     # немецкого меню, месяц показывавшего чужие пункты. Цена огрубления
     # маленькая и односторонняя: дата может оказаться свежее нужного и позвать
     # краулера лишний раз, но не устареет и не смолчит о правке.
-    corpus_date = dict((c, _dated(_master_paths(c, CHAIN))) for c in built)
+    corpus_date = dict((c, _dated(_master_paths(c, CHAIN + ANNEXES))) for c in built)
     addr_date = dict((c, _dated(_master_paths(c, [], address=True)))
                      for c in built)
     # Анонсы полос лежат своими файлами (_announce/) и правятся без документов:
@@ -2685,7 +2750,7 @@ def write_sitemap_v2(titles, dry=False):
                     lastmod=_dated(['_tools/build_home_v2.py'])))
 
     docs = 0
-    for num in CHAIN:
+    for num in CHAIN + ANNEXES:
         langs = [c for c in built if has_doc(num, c) and num in titles]
         if not langs:
             continue
@@ -2810,14 +2875,16 @@ def main():
     if a.css:
         return
 
-    targets = CHAIN if (not a.docs or a.docs == ['all']) else a.docs
+    known = [d for d in CHAIN + ANNEXES if d in SLUGS.get(lang, {})]
+    targets = known if (not a.docs or a.docs == ['all']) else a.docs
     missing = [d for d in targets if not os.path.isfile(os.path.join(md, corpus_file(d, lang)))]
     if missing:
         print('нет .md-мастера: %s - пропускаю' % ', '.join(missing))
         targets = [d for d in targets if d not in missing]
 
     titles = {d: md_title(os.path.join(md, corpus_file(d, lang)))
-              for d in CHAIN if os.path.isfile(os.path.join(md, corpus_file(d, lang)))}
+              for d in known
+              if os.path.isfile(os.path.join(md, corpus_file(d, lang)))}
     # Если мастеров вдруг не видно - неверный путь, переименование, не та
     # ветка, - заглушки «Документ NN» уходят в библиотеку и затирают живые
     # названия. Так и случилось при переезде корпуса в отдельный репозиторий.
@@ -2826,7 +2893,7 @@ def main():
         'найдено мастеров: %d из %d. Ожидается почти весь корпус - проверьте '
         'каталог мастеров (%s). Сборка остановлена, чтобы не записать в '
         'библиотеку заглушки вместо названий.' % (len(titles), len(CHAIN), md))
-    for d in CHAIN:
+    for d in known:
         titles.setdefault(d, 'Документ %s' % d)
 
     for num in targets:

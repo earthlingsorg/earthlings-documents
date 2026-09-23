@@ -137,10 +137,11 @@ def main():
     args = [a for a in sys.argv[1:]]
     lang = args[-1] if args and len(args[-1]) == 2 else 'en'
     if '--all' in args:
-        nums = sorted(f[:2] for f in os.listdir(os.path.join(REPO, 'ru'))
-                      if re.match(r'^\d\d-', f))
+        nums = sorted(re.match(r'^(\d\d[a-z]?)-', f).group(1)
+                      for f in os.listdir(os.path.join(REPO, 'ru'))
+                      if re.match(r'^\d\d[a-z]?-', f))
     else:
-        nums = [a for a in args if re.match(r'^\d\d$', a)]
+        nums = [a for a in args if re.match(r'^\d\d[a-z]?$', a)]
     assert nums, 'нечего проверять: укажите номера или --all'
     bad = [n for n in nums if not check(n, lang)]
     print('---')

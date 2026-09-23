@@ -144,6 +144,15 @@ def check_audit(fast):
                % (', '.join(hard) if hard else u'ни одного'))
 
 
+# Документы, у которых расхождение разметки с русским законно и временно.
+# 2026-09-23: документ 02 сокращён вдвое на русском и английском - двух
+# аутентичных текстах по статье 11 Декларации; семь остальных языков держат
+# прежнюю редакцию до своего захода перевода, и там у него вдвое больше строк.
+# Исключение названо поимённо, с датой и причиной. Когда переводы догонят,
+# строка удаляется, и проверка снова покрывает девять языков без изъятий.
+LAYOUT_EXCEPT = {'02': ['ar', 'de', 'es', 'fr', 'hi', 'ka', 'zh']}
+
+
 def check_layout():
     u"""Одинаковое число строк у девяти языков в каждом документе.
 
@@ -159,7 +168,7 @@ def check_layout():
     if not ru:
         return Row(u'разметка совпадает у девяти языков', False,
                    u'русских мастеров не найдено')
-    bad = []
+    bad, waived = [], []
     for lang in LANGS:
         if lang == 'ru':
             continue
@@ -168,12 +177,18 @@ def check_layout():
             if num not in ru:
                 continue
             n = len(io.open(p, encoding='utf-8').read().split('\n'))
-            if n != ru[num]:
-                bad.append(u'%s%s %d/%d' % (lang, num, ru[num], n))
+            if n == ru[num]:
+                continue
+            if lang in LAYOUT_EXCEPT.get(num, []):
+                waived.append(u'%s%s' % (lang, num))
+                continue
+            bad.append(u'%s%s %d/%d' % (lang, num, ru[num], n))
     return Row(u'разметка совпадает у девяти языков', not bad,
-               u'документов у ru %d, расхождений %d%s'
+               u'документов у ru %d, расхождений %d%s%s'
                % (len(ru), len(bad),
-                  (': ' + ', '.join(bad[:4])) if bad else ''))
+                  (': ' + ', '.join(bad[:4])) if bad else '',
+                  (u'; отложено переводом: %s' % ', '.join(waived))
+                  if waived else ''))
 
 
 def check_sitemap():
