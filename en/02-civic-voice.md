@@ -109,7 +109,7 @@ The order for forming a question must therefore meet five requirements:
 
 The subject matter of a question is limited by the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html) on two sides. Article 3 draws the circle: the people speaks about what affects everyone. Article 5 sets the exception: the internal life of a particular state is not a subject of the people's decisions, that being a matter for its citizens.
 
-The boundary itself is closed; the list of questions is not. Falling under it are, for instance, the taxation of transnational profit, the rules for artificial intelligence systems, the fate of the atmosphere and the ocean, resilience to pandemics, responsibility towards future generations. Nothing from the internal politics of a particular state falls under it - on which see section 11 separately.
+The boundary itself is closed; the list of questions is not. Falling under it are, for instance, the taxation of transnational profit, the rules for artificial intelligence systems, the fate of the atmosphere and the ocean, resilience to pandemics, responsibility towards future generations. Nothing from the internal politics of a particular state falls under it - on which see section 10 separately.
 
 ### The question must touch the life of the person being asked
 
