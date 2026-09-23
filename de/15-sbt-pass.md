@@ -137,7 +137,7 @@ Der Pass bezeugt das, was er bezeugt, und das ist nicht wenig: Ein bestimmter Me
 
 Die Charta (Artikel 21) legt **zwei und nur zwei** Ausnahmen fest, und diese Aufzählung darf nicht erweitert werden.
 
-> **Zum Tod des Inhabers.** Die Zugehörigkeit endet infolge des Todes eines Menschen, doch der Pass wird dabei nicht entwertet. Das Volk hat keinen Zugang zu den Sterberegistern der ganzen Welt, deshalb stützte sich ein solcher Grund auf nicht überprüfbare Angaben und wäre die billigste Weise, einen Teilnehmer zu beseitigen. Der Pass bleibt im Register; die Teilnahme, die es nicht mehr gibt, erfasst der Mechanismus der Inaktivität (Charta, Artikel 20). Der Pass wird unter keinen Umständen vererbt und nicht übertragen.
+> **Zum Tod des Inhabers.** Die Zugehörigkeit endet infolge des Todes eines Menschen, doch der Pass wird dabei nicht entwertet. Das Volk hat keinen Zugang zu den Sterberegistern der ganzen Welt, deshalb stützte sich ein solcher Grund auf nicht überprüfbare Angaben und wäre der billigste Weg, einen Teilnehmer aus dem Register zu streichen. Der Pass bleibt im Register; die Teilnahme, die es nicht mehr gibt, erfasst der Mechanismus der Inaktivität (Charta, Artikel 20). Der Pass wird unter keinen Umständen vererbt und nicht übertragen.
 
 ### 1. Die Aufhebung einer unwirksamen Ausgabe
 
