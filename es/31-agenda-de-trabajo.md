@@ -16,11 +16,11 @@
 
 # Parte 0. Cómo leer este documento
 
-En la base hay una metáfora radical pero productiva: el orden mundial actual, con todo su régimen sociopolítico, económico y jurídico, es un sistema operativo que funciona, pero antiguo. Nombre convencional: «Windows XP». No carece de sentido: arranca, y sobre él viven miles de millones de procesos. Pero sus fallos ya se conocen: los que se manifiestan durante décadas y cuestan vidas humanas.
+En la base hay una metáfora radical pero productiva: el orden mundial actual, con todo su régimen sociopolítico, económico y jurídico, es un sistema operativo que funciona, pero antiguo. Nombre convencional: «Windows XP» (marca registrada de Microsoft; el nombre se toma como metáfora y no como afirmación sobre el producto). No carece de sentido: arranca, y sobre él viven miles de millones de procesos. Pero sus fallos ya se conocen: llevan décadas manifestándose y cuestan vidas humanas.
 
-La pregunta del documento: si se dispusiera de un cuerpo completo de desarrolladores y de una hoja en blanco, ¿cómo sería la versión siguiente, «Terra 1.0»? Una versión ideal no existe: se trata de la más correcta y acabada de las alcanzables en la situación actual.
+La pregunta del documento: si se dispusiera de un cuerpo completo de desarrolladores y de una hoja en blanco, ¿cómo sería el sistema siguiente, «Terra 1.0»? No se trata de otra entrega del mismo fabricante: el sistema nuevo lo montan otras personas, y no tiene dueño. Un sistema ideal no existe: se trata del más correcto y acabado de los alcanzables en la situación actual.
 
-La metáfora del sistema operativo se toma en serio. Un sistema operativo tiene una anatomía real: el kernel y los anillos de privilegio, el modelo de permisos, el aislamiento de procesos, el planificador, el mecanismo de actualizaciones, el tratamiento de errores, la autenticación. Cada eje se proyecta sobre la arquitectura de una sociedad con sorprendente exactitud, y allí donde la proyección se rompe, se rompe de manera instructiva. Al final (Parte IX) se examina también el defecto principal de la propia metáfora: un sistema operativo tiene dueño, y la humanidad no debe tenerlo. El lenguaje de los sistemas operativos se ha elegido precisamente por esa exactitud: es el más cercano y comprensible para explicar una arquitectura así. Con todo, «Terra 1.0» es una lente analítica y no un lema: en el modelo mismo el Estado no desaparece, sino que se convierte en una capa delgada (Parte III), de modo que se trata de rehacer toda la pila como objeto de análisis, complementando a los Estados, y no de suprimirlos.
+La metáfora del sistema operativo se toma en serio. Un sistema operativo tiene una anatomía real: el kernel y los anillos de privilegio, el modelo de permisos, el aislamiento de procesos, el planificador, el mecanismo de actualizaciones, el tratamiento de errores, la autenticación. Cada eje se proyecta sobre la arquitectura de una sociedad con sorprendente exactitud, y allí donde la proyección se rompe, se rompe de manera instructiva. Al final (Parte IX) se examina también el defecto principal de la propia metáfora: un sistema operativo tiene dueño, y la humanidad no debe tenerlo. El lenguaje de los sistemas operativos se ha elegido precisamente por esa exactitud: es el más cercano y comprensible para explicar una arquitectura así. Con todo, «Terra 1.0» es una lente analítica y no un lema: en el modelo mismo el Estado no desaparece, sino que se convierte en una capa delgada (Parte III), de modo que se trata de rehacer toda la pila como objeto de análisis, para complementar a los Estados y no para suprimirlos.
 
 Los términos técnicos especializados (kernel, user space, capability, zero-knowledge, sandbox, nullifier y semejantes) no se explican a propósito: aclarar cada uno dispararía la extensión, y su significado es fácil de encontrar en fuentes abiertas si hace falta. Aquí no importa la exactitud de la definición informática, sino el papel que el término desempeña en la arquitectura.
 
@@ -110,9 +110,9 @@ III.1
 
 ## Microkernel en lugar de monolito
 
-La primera decisión de cualquier sistema operativo: qué gira en el anillo 0 (con privilegio) y qué en el user space, donde un proceso puede caerse sin tirar el sistema. El monolito es mala arquitectura. Aquí la arquitectura es de **microkernel**. En el kernel está solo lo que es físicamente inseparable y rival, aquello de lo que no se puede salir:
+La primera decisión de cualquier sistema operativo: qué se ejecuta en el anillo 0 (privilegiado) y qué en el espacio de usuario, donde un proceso puede caerse sin tumbar el sistema. El monolito es mala arquitectura. Aquí la arquitectura es de **microkernel**. En el kernel está solo aquello de lo que no se puede salir: lo físicamente inseparable y rival, y la protección de quienes no pueden aportar (Parte II):
 
-- la protección de la seguridad física y del espacio físico;
+- la protección de la seguridad física y del espacio físico, así como el suelo protegido: el mínimo garantizado por debajo del cual el sistema no deja caer a nadie (Módulo 2);
 - los sistemas planetarios de soporte vital: clima, océano, atmósfera, órbita, espectro, agua;
 - la gestión de las supertecnologías donde el precio del error es la especie entera (inteligencia artificial, bioingeniería);
 - y sobre todo, el mantenimiento del propio modelo de permisos: la garantía de que nadie llegue a ser root.
@@ -190,8 +190,8 @@ La persona es a la vez **user** (soberano sobre su ámbito) y, colectivamente, *
 ### Deberes (el precio de la capa sin salida; sin ellos toda la construcción es utópica)
 
 - **No corromper la memoria compartida.** No volcar los costes propios en la biosfera y en la vida ajena. La internalización de las externalidades no es un impuesto ni una moral, sino la prohibición de la memory corruption: no se puede escribir destrucción en una memoria que se comparte.
-- **Sostener el mantenimiento de lo común.** Aportar a la capa del kernel (seguridad, comunes, protección de los débiles), de la que no se puede salir, precisamente porque de ella no se puede emigrar de las obligaciones. Es la única coacción legítima a aportar.
-- **Dar mantenimiento al sistema.** La participación como maintenance. Un sistema operativo al que nadie da mantenimiento se degrada. La ciudadanía es a la vez un login y una guardia del sistema: la parte mínima de atención y de trabajo sin la cual lo común se oxida.
+- **Sostener el mantenimiento de lo común.** Aportar a la capa del kernel (seguridad, comunes, protección de los débiles), de la que no se puede salir, precisamente porque salir de ella sería escapar de las obligaciones. Es la única coacción legítima a aportar.
+- **Mantener lo común en estado de funcionamiento.** La participación como maintenance. Un sistema operativo al que nadie da mantenimiento se degrada. La ciudadanía es a la vez un login y una guardia del sistema: la parte mínima de atención y de trabajo sin la cual lo común se oxida.
 
 # Parte V · Módulo 1. Identidad anti-Sybil: el login de la persona sin un nuevo Gran Hermano
 
@@ -224,8 +224,8 @@ Todo sistema real sacrifica una de las tres por las otras dos. Parece una propie
 
 El movimiento clave es despegar lo que la palabra «identidad» ha pegado en un solo bloque: la **autenticación** (el mismo sujeto), la **unicidad** (el sujeto es uno) y los **atributos** (la persona tiene 18 años / es miembro de esto / tiene el derecho X). El crimen de los sistemas de pasaporte es hacer pasar las tres por un único identificador.
 
-- **Quien comprueba la unicidad no debe convertirse en observador de la actividad.** Entre «quién es único» y «qué ha hecho» hay un muro criptográfico: zero-knowledge y nulificadores. El emisor entrega una prueba y olvida; el proof queda en manos de la persona.
-- **Pluralismo de emisores en lugar de monopolio.** Muchos independientes, basta con k de n. Ninguno es root, ninguno es punto único de exclusión.
+- **Quien comprueba la unicidad no debe convertirse en observador de la actividad.** Entre «quién es único» y «qué ha hecho» hay un muro criptográfico: zero-knowledge y nulificadores. El emisor entrega una prueba y la olvida; la prueba queda en manos de la persona.
+- **Pluralismo de emisores en lugar de monopolio.** Muchos independientes, basta con k de n. Ninguno es root, ninguno es punto único de exclusión. El precio de esta jugada se nombra sin rodeos: para que una misma persona no obtenga la prueba ante varios emisores a la vez, estos necesitan un espacio común y vinculable de identificadores, y eso es el mismo root con otro nombre; sin él la unicidad se sostiene solo dentro de cada emisor. Aquí el esquema sacrifica la unicidad global estricta en aras de la privacidad y de la descentralización.
 - **Revocabilidad en lugar de biometría en bruto como clave.** La clave primaria es una credencial reemitible. La biometría falla precisamente en la reemisión, y por eso no puede ser la raíz.
 - **Nulificadores por contexto.** Demostrar la unicidad «en estas elecciones» sin vincularla con la unicidad «en aquel foro».
 
@@ -404,7 +404,7 @@ El valor del modelo no está en las respuestas, sino en la calidad de las pregun
 
 > Sobre el trabajo y su apoyo
 >
-> Cada línea es un trabajo concreto de bien común que se puede llevar y apoyar como investigación y prototipo: en pequeño, de manera abierta, con pasos verificables. El apoyo a ese trabajo se acepta únicamente dentro de una disciplina estricta: el voto no se compra, la aportación no da poder sobre las personas, no se promete nada de antemano. Apoyar la realización de una línea, se puede; comprar el rumbo del pueblo, no.
+> Una línea es un trabajo concreto para el bien común: cada cual puede llevarla él mismo, y también se la puede apoyar con dinero o con las manos. El trabajo se hace de manera abierta, en pasos pequeños, y cada paso se puede comprobar. Las reglas del apoyo son estrictas: el voto no se vende, el apoyo no da poder sobre las personas, nadie promete nada de antemano. Ayudar a sacar adelante un trabajo concreto, se puede. Comprar con dinero el rumbo por el que va el pueblo, no.
 
 Marco final
 

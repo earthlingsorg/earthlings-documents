@@ -2,21 +2,21 @@
 
 **Acreditación digital de la pertenencia al pueblo Earthlings**
 
-> El presente documento describe la arquitectura y el significado jurídico del pasaporte. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/es/es05-carta.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. El procedimiento de adhesión está descrito en el documento [El camino del earthling](https://earth-lings.org/documents/es/es14-camino-del-earthling.html).
+> El presente documento describe la arquitectura y el significado jurídico del pasaporte. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/es/es05-carta.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. El procedimiento de adhesión está descrito en el documento [El camino del earthling](https://earth-lings.org/documents/es/es14-camino-del-earthling.html). En el período constituyente - desde el 22 de octubre de 2026 hasta la adopción de la Declaración - la firma de la Declaración y la adhesión al pueblo están suspendidas: un pueblo definido por un texto adoptado todavía no existe. La verificación de identidad en ese período se realiza gratuitamente y, como resultado, se entrega un documento temporal de participante en la constitución, y no un pasaporte (documento «El período constituyente», parte 2, apartado 5). El documento temporal se emite en el mismo contrato que el pasaporte (documento «Dónde estamos ahora»), pero no documenta la firma de la Declaración. Más abajo se describe el régimen principal, que comenzará tras la adopción de la Declaración.
 
 ---
 
 ## Qué es
 
-El pasaporte SBT earthling es un token digital intransmisible (Soulbound Token) que se expide a cada participante tras firmar la Declaración, verificar su identidad y abonar la cuota. Acredita criptográficamente la pertenencia al pueblo y se conserva en un registro distribuido como asiento único protegido frente a la falsificación.
+El pasaporte SBT earthling es un token digital intransmisible (Soulbound Token) que se expide a cada participante tras verificar su identidad, firmar la Declaración y abonar la cuota. Acredita criptográficamente la pertenencia al pueblo y se conserva en un registro distribuido como asiento único que no se puede alterar sin que se advierta.
 
 A diferencia de los pasaportes estatales, ligados a un territorio y acreditativos de la nacionalidad, este pasaporte acredita la pertenencia a un pueblo unido por valores comunes. No puede cederse a otra persona, ni venderse, ni enajenarse.
 
 **Intransmisibilidad.** El pasaporte está ligado a su monedero, y la cesión está bloqueada en el propio contrato, y no por una regla que se pueda eludir. La unicidad de la identidad está verificada en la emisión.
 
-**Protección criptográfica.** El asiento se conserva en una red distribuida y no puede falsificarse ni alterarse sin que se advierta.
+**Protección criptográfica.** El asiento se conserva en una red distribuida, y no se puede alterar sin que se advierta.
 
-**Igualdad.** Todos reciben el mismo pasaporte con los mismos derechos. No existen clases privilegiadas ni niveles de pertenencia. Una persona, un pasaporte, un voto.
+**Igualdad.** Todos reciben el mismo pasaporte con los mismos derechos. No existen clases privilegiadas ni niveles de pertenencia. Una persona, un pasaporte, un voto; el voto nace al firmar la Declaración, y el pasaporte lo acredita.
 
 ---
 
@@ -24,7 +24,7 @@ A diferencia de los pasaportes estatales, ligados a un territorio y acreditativo
 
 ### Participación en el gobierno
 
-- derecho de voto en la Asamblea DAO;
+- acreditación del derecho de voto en la Asamblea DAO;
 - presentación de propuestas e iniciativas;
 - participación en las decisiones sobre cualquier cuestión.
 
@@ -47,7 +47,7 @@ La única excepción son los actos probados dirigidos a socavar la integridad de
 
 ### Marcas de participación
 
-El historial de participación y de aportación se hace constar públicamente: proyectos concluidos, trabajo en las células. La participación en las votaciones no se publica: el voto personal es secreto (Carta, artículo 6).
+El historial de participación y de aportación es visible para los participantes en la plataforma: proyectos concluidos, trabajo en las células. La participación en las votaciones no se publica: el voto personal es secreto (Carta, artículo 6).
 
 > **Esas marcas no influyen en nada** y tienen carácter exclusivamente informativo: [Carta, artículo 8](https://earth-lings.org/documents/es/es05-carta.html).
 
@@ -61,7 +61,7 @@ El historial de participación y de aportación se hace constar públicamente: p
 
 **3. Abono de la cuota.** El equivalente a 79 USD, en criptomoneda (ETH, USDT, USDC). El destino de la cuota y el procedimiento de su gasto están en el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html).
 
-> Quien no pueda abonar la cuota por sí mismo puede entrar en una cola abierta, y su cuota puede abonarla otra persona o la Tesorería; no hay garantía de ello. El pasaporte no se diferencia en nada de los demás: en el registro no consta quién abonó la cuota. La cuota no compra la pertenencia: esta nace al firmar la Declaración.
+> Quien no pueda abonar la cuota por sí mismo podrá, cuando la entrada sea de pago, entrar en una cola abierta, y su cuota podrá abonarla otra persona o la Tesorería; no hay garantía de ello. El pasaporte no se diferencia en nada de los demás: en el registro no consta quién abonó la cuota. La cuota no compra la pertenencia: esta nace al firmar la Declaración.
 
 **4. Emisión del pasaporte.** El token se crea de manera automática y se liga a su monedero.
 
@@ -85,9 +85,9 @@ El historial de participación y de aportación se hace constar públicamente: p
 
 ### Conservación de los datos
 
-- **en el registro:** identificador y hash de la comprobación; el seudónimo no se inscribe en el registro. Los datos personales no se inscriben en el registro;
-- **fuera del registro:** los datos personales de la cuenta, cifrados y en el volumen mínimo;
-- **biometría:** no se conserva. Se conservan únicamente hashes criptográficos irreversibles, y solo para que una misma persona no pueda tener dos pasaportes en vigor;
+- **en el registro:** la dirección del monedero, el número del asiento del pasaporte, el identificador del participante por el que el asiento queda vinculado a los datos del sistema de verificación de identidad, y la hora de la emisión; en el campo del seudónimo se inscribe en la emisión una sola palabra, «Earthling», y en el campo del hash de la verificación, un valor aleatorio no relacionado con los datos de la verificación. El nombre, el documento, la biometría y los hashes de la verificación no se inscriben en el registro;
+- **fuera del registro:** los datos personales de la cuenta, en el volumen mínimo;
+- **biometría:** no se conserva. De la comprobación quedan el estado de la comprobación, el tipo y el país de expedición del documento, las puntuaciones numéricas de la comprobación, los motivos de denegación y hashes irreversibles, calculados con la clave secreta del servidor, del número del documento, del nombre, de los apellidos y de la fecha de nacimiento que figuran en el documento. Los hashes están calculados a partir de los datos del documento, y no de la biometría, y se conservan solo para que una misma persona no pueda tener dos pasaportes en vigor;
 - se diseña conforme a los principios del RGPD.
 
 ### Criptografía
@@ -119,21 +119,21 @@ El pasaporte documenta lo que documenta, y no es poco: una persona concreta ha s
 ### Protección de datos
 
 - derecho a la rectificación y a la supresión de los datos tratados por la plataforma;
-- los asientos del registro distribuido, por definición técnica, no se suprimen, y precisamente por eso no contienen datos personales: allí hay direcciones seudónimas y marcas de actos;
-- minimización del tratamiento; cifrado de los datos personales;
+- los asientos del registro distribuido, por definición técnica, no se suprimen, y precisamente por eso el nombre, el documento, la biometría y los hashes de la verificación no se inscriben en el registro en el momento de la emisión. En la emisión se inscriben en el registro la dirección del monedero, el número del asiento del pasaporte, el identificador del participante por el que el asiento queda vinculado a los datos del sistema de verificación de identidad, y la hora de la emisión; la emisión y la destrucción dejan marcas en el registro. Son datos seudónimos que nosotros tenemos vinculados a su cuenta de usuario;
+- minimización del tratamiento; cifrado en la transmisión;
 - las fotografías y los escaneos no se conservan.
 
 ### Responsabilidad y controversias
 
 - DAO Earthlings no es una persona jurídica inscrita;
 - los participantes responden individualmente del cumplimiento de las leyes de sus países;
-- las controversias internas se resuelven en la forma establecida en el documento «Ética de los Earthlings»: diálogo, mediación con el consentimiento de ambas partes, recurso al Consejo Independiente ante infracciones graves y, en casos extremos, examen por la Asamblea; hasta que el Consejo se constituya, la fase en la que este interviene se omite y los plazos de debate se duplican (Carta, artículo 39). El pueblo no suplanta a los tribunales ni a los mecanismos jurídicos estatales y no ofrece arbitraje fuera de su ecosistema.
+- las controversias internas se resuelven en la forma establecida en el documento «Ética de los Earthlings»: diálogo directo, mediación con el consentimiento de ambas partes y, si no ha servido o si la otra parte no ha consentido en ella, examen por la Asamblea; ante una amenaza para la vida y la seguridad, una infracción manifiesta de la Declaración o un delito, la persona acude de inmediato a la Asamblea, sin pasar por el diálogo ni por la mediación. El pueblo no suplanta a los tribunales ni a los mecanismos jurídicos estatales y no ofrece arbitraje fuera de su ecosistema.
 
 ---
 
 ## Extinción del pasaporte
 
-**Por regla general el pasaporte solo lo destruye usted mismo**, con su propia clave y desde su propio monedero (función `burnByHolder`). La plataforma no guarda sus claves y no puede ni ejecutar la destrucción en su lugar ni impedirla.
+**Por regla general el pasaporte solo lo destruye usted mismo**, con su propia clave y desde su propio monedero (función `burnByHolder`). La plataforma no guarda sus claves y no puede impedir la destrucción; nadie tiene derecho a destruir el pasaporte en su lugar pero, mientras los derechos del propietario del contrato no se hayan traspasado a una firma múltiple, la emisión y la destrucción del pasaporte están técnicamente al alcance de una sola clave (documento «Dónde estamos ahora»).
 
 La Carta (artículo 21) establece **dos y solo dos** excepciones, y esa lista no puede ampliarse.
 
@@ -153,7 +153,7 @@ Se aplica si se establece que el pasaporte se emitió infringiendo las condicion
 - votación de la Asamblea: **75 por ciento con quórum del 25, secreta y sin delegación**;
 - **recurso en el plazo de 30 días**, y para anular la decisión basta la mayoría simple.
 
-Las facultades técnicas del operador se limitan a ejecutar una decisión ya adoptada por la Asamblea. El operador no puede anular por sí mismo la emisión de un pasaporte.
+Las facultades del operador se limitan a ejecutar una decisión ya adoptada por la Asamblea. El operador no tiene derecho a anular por sí mismo la emisión de un pasaporte.
 
 ### 2. Reemisión técnica
 
@@ -163,22 +163,22 @@ A **solicitud del propio titular** en caso de pérdida de acceso al monedero o d
 
 Nadie puede ser privado por la fuerza de la pertenencia al pueblo. No existe procedimiento de expulsión.
 
-Al aplicarse medidas por infracciones graves de las reglas comunes, el pasaporte se conserva y **el derecho de voto se conserva íntegramente**. Sobre la persona recae una sola medida, la advertencia, y no le quita nada, ni el voto, ni el derecho a presentar propuestas, ni la participación en las células, ni el acceso a los servicios, ni otra cosa alguna. Las demás medidas recaen sobre un proyecto o una célula y no afectan a los derechos de una persona, por el procedimiento del artículo 22 de la Carta, con derecho de defensa, voto secreto y recurso.
+Al aplicarse medidas por infracciones graves de las reglas comunes, el pasaporte se conserva y **el derecho de voto se conserva íntegramente**. Sobre la persona recae una sola medida, la advertencia, y no le quita nada, ni el voto, ni el derecho a presentar propuestas, ni el derecho a crear células y a entrar en ellas, ni el acceso a los servicios, ni otra cosa alguna. Las demás medidas recaen sobre un proyecto o una célula y no afectan a los derechos de la persona; se adoptan por el procedimiento del artículo 22 de la Carta, con derecho de defensa, voto secreto y recurso.
 
 ### Qué ocurre técnicamente
 
-- la destrucción se ejecuta con la función `burn` del contrato inteligente;
+- al salir, el titular destruye el pasaporte con la función `burnByHolder`, y en la anulación y en la reemisión técnica la destrucción la ejecuta el propietario del contrato con la función `burn`;
 - los datos del pasaporte se suprimen del registro vigente del contrato;
 - en el historial inmutable queda una marca seudónima de que el pasaporte existió y fue destruido: es un hecho del pasado, y no una pertenencia continuada;
-- en el registro no hay datos personales reales;
+- el nombre, el documento, la biometría y los hashes de la verificación no se inscriben en el registro en el momento de la emisión;
 - para adherirse de nuevo se pasa el procedimiento completo y se emite un pasaporte nuevo.
 
 ---
 
 ## Sobre la financiación
 
-A día de hoy el pueblo se desarrolla con los fondos de sus participantes: no se ha captado financiación externa.
+Hasta ahora el proyecto se ha financiado con los fondos personales del autor de la Declaración (documento «Quiénes somos»): no se ha captado financiación externa.
 
-La Carta y el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html) prevén la posibilidad de aceptar subvenciones y donaciones de organizaciones externas, con publicación obligatoria de la fuente, sin condiciones contrarias a los principios del pueblo y con una prohibición expresa: el donante no obtiene ni voto ni influencia sobre las decisiones. La cuantía de una donación no da nada.
+La Carta y el documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html) prevén la posibilidad de aceptar subvenciones y donaciones de organizaciones externas, con publicación de la fuente (y, si el donante ha querido permanecer anónimo, del hecho de la recepción y de la cuantía), sin condiciones contrarias a los principios del pueblo y con una prohibición expresa: el donante no obtiene ni voto ni influencia sobre las decisiones. La cuantía de la donación no otorga derecho ni ventaja alguna.
 
-Todas las decisiones de gasto se adoptan por votación de la Asamblea DAO y se publican; las áreas de gasto y sus proporciones se establecen en el artículo 9 del documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html).
+Tras la adopción de la Declaración, las decisiones de gasto se adoptan por votación de la Asamblea DAO y se publican y, mientras el monedero de la caja no tenga firma múltiple, su única clave está en manos del autor de la Declaración (documento «Tesorería»); las áreas de gasto y sus proporciones se establecen en el artículo 9 del documento [Tesorería](https://earth-lings.org/documents/es/es09-tesoreria.html).

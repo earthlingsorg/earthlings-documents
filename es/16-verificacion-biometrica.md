@@ -2,16 +2,16 @@
 
 **En vigor desde el momento de su publicación**
 
-> En caso de discrepancia de la presente Política con la [Carta](https://earth-lings.org/documents/es/es05-carta.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. Las reglas generales de tratamiento de datos personales están en la [Política de privacidad](https://earth-lings.org/documents/es/es28-politica-de-privacidad.html).
+> En caso de discrepancia de la presente Política con la [Carta](https://earth-lings.org/documents/es/es05-carta.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. Las reglas generales de tratamiento de datos personales están en la [Política de privacidad](https://earth-lings.org/documents/es/es28-politica-de-privacidad.html). En el período constituyente - desde el 22 de octubre de 2026 hasta la adopción de la Declaración - la firma de la Declaración y la adhesión al pueblo están suspendidas: un pueblo definido por un texto adoptado todavía no existe. La verificación de identidad en ese período se realiza gratuitamente y, como resultado, se entrega un documento temporal de participante en la constitución, y no un pasaporte (documento «El período constituyente», parte 2, apartado 5). El documento temporal se emite en el mismo contrato que el pasaporte (documento «Dónde estamos ahora»). La presente Política se aplica también a esa verificación; lo que en ella se dice sobre la firma y sobre el pasaporte se refiere al régimen principal posterior a la adopción de la Declaración.
 
 ## Lo esencial, en breve
 
 - la biometría se trata en el momento de la comprobación y no se conserva;
-- para que una misma persona no pueda tener dos pasaportes en vigor, se conservan únicamente hashes criptográficos irreversibles;
+- para que una misma persona no pueda tener dos pasaportes en vigor, se conservan hashes criptográficos irreversibles;
 - se puede volver tras la salida en cualquier momento;
-- un seudónimo en lugar del nombre real: usted elige;
+- el nombre y los apellidos, tal como figuran en el documento, hacen falta para cotejarlos con él; los demás participantes le ven a usted bajo el seudónimo que haya elegido;
 - la biometría sirve a la confianza, no al control;
-- sistema propio de comprobación, separación de los almacenes, minimización de datos.
+- sistema propio de comprobación, minimización de datos.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## Para qué la biometría
 
-Sirve a un solo fin: acreditar que detrás de cada voto hay una sola persona viva y única. Es la base de la confianza entre desconocidos, y nada más. El sistema está diseñado de modo que no pueda emplearse para vigilar.
+Sirve a un solo fin: acreditar que detrás de cada voto hay una sola persona viva y única. Es la base de la confianza entre desconocidos, y nada más. El sistema está diseñado para conservar lo menos posible.
 
 ## La persona, no los documentos
 
@@ -27,19 +27,19 @@ La persona importa más que los documentos. Su pertenencia al pueblo la determin
 
 ## Cuatro principios
 
-**1. Confirmación de la unicidad, no control.** La comprobación protege al pueblo de los registros múltiples, pero no crea una base para vigilar.
+**1. Confirmación de la unicidad, no control.** La comprobación protege al pueblo frente a las inscripciones múltiples de una misma persona y no se emplea para vigilar.
 
 **2. La pertenencia se acredita personalmente.** Los documentos estatales siguen en su lugar: la comprobación se limita a cotejar la identidad, sin sustituir nada.
 
 **3. Confianza mediante la comprobación.** En una comunidad sin poder central, una unicidad acreditada crea una capa básica de confianza. Eso no garantiza la buena fe en un trato concreto, pero elimina la multiplicidad anónima de cuentas como fuente de manipulaciones.
 
-**4. Protección frente a los abusos.** La separación de los almacenes, el cifrado y la imposibilidad práctica de reconstruir una imagen a partir de los datos conservados están hechos para que el sistema no pueda emplearse para una vigilancia masiva.
+**4. Protección frente a los abusos.** La renuncia a conservar imágenes y plantillas, los hashes calculados con la clave secreta del servidor y la imposibilidad práctica de reconstruir una imagen a partir de los datos conservados tienen por finalidad impedir que el sistema pueda emplearse para una vigilancia masiva.
 
 ---
 
 # SECCIÓN 02. Ámbito de aplicación y consentimiento
 
-La presente Política determina el tratamiento de los datos biométricos al firmar la Declaración, al obtener la condición de earthling y al participar en la infraestructura del pueblo.
+La presente Política regula el tratamiento de los datos biométricos que se realiza con ocasión de la firma de la Declaración, de la obtención de la condición de earthling y de la participación en la infraestructura del pueblo y, en el período constituyente, de la verificación de identidad para el documento temporal de participante en la constitución.
 
 ## Base jurídica
 
@@ -53,12 +53,12 @@ La comprobación es voluntaria. Usted puede revocar el consentimiento en cualqui
 
 **Qué ocurre al revocarlo:**
 
-- el tratamiento de los datos biométricos cesa, los resultados de la comprobación y los datos de la cuenta se suprimen;
-- **el hash irreversible de unicidad se conserva, y esa es la única limitación de la revocación.** Está calculado a partir de los datos del documento y no de la biometría, por lo que no queda comprendido en el consentimiento del artículo 9 del RGPD y se conserva por otro fundamento. Sin él, una misma persona podría obtener un segundo pasaporte, y esa posibilidad no la tiene nadie, tampoco ella misma;
-- dado que la unicidad acreditada es condición del derecho de voto, seguir participando en las votaciones se hace imposible;
-- **el pasaporte lo destruye usted mismo**, con su propia clave, como en una salida voluntaria ordinaria.
+- el tratamiento de los datos biométricos cesa (tras la comprobación tampoco se conservan); el resultado de la comprobación (sección 04) se conserva: no es un dato biométrico;
+- **el hash irreversible de unicidad también se conserva.** Está calculado a partir de los datos del documento y no de la biometría, por lo que no queda comprendido en el consentimiento del artículo 9 del RGPD y se conserva por otro fundamento. Sin él, una misma persona podría obtener un segundo pasaporte con los mismos datos del documento: el hash permite detectar ese intento, incluso cuando provenga de usted mismo, y un pasaporte emitido eludiendo la comprobación se anula (Declaración, artículo 8);
+- la revocación del consentimiento no afecta a la pertenencia ni al derecho de voto, y la cuenta de usuario tampoco se suprime por esa revocación; para quien pertenece al pueblo, la supresión de la cuenta de usuario solo va unida a la salida;
+- **el pasaporte lo destruye usted mismo**, con su propia clave, si decide salir: la revocación del consentimiento no destruye el pasaporte.
 
-> **No podemos destruir su pasaporte en su lugar.** La Carta (artículo 21) admite la destrucción del pasaporte por persona distinta de su titular solo en dos casos: la anulación de una emisión inválida por decisión de la Asamblea y la reemisión técnica a solicitud suya; contra su voluntad el pasaporte solo puede destruirse en el primero de ellos. La revocación del consentimiento no figura entre esos casos, y la plataforma no guarda sus claves. Si usted revoca el consentimiento y no destruye el pasaporte, suprimiremos los datos por nuestra parte, pero el asiento del registro permanecerá hasta que usted lo destruya.
+> **No tenemos derecho a destruir su pasaporte en su lugar.** La Carta (artículo 21) admite la destrucción del pasaporte por persona distinta de su titular solo en dos casos: la anulación de una emisión inválida por decisión de la Asamblea y la reemisión técnica a solicitud suya; contra su voluntad el pasaporte solo puede destruirse en el primero de ellos. La revocación del consentimiento no figura entre esos casos, y la plataforma no guarda sus claves; pero, mientras los derechos del propietario del contrato no se hayan traspasado a una firma múltiple, la emisión y la destrucción del pasaporte están técnicamente al alcance de una sola clave (documento «Dónde estamos ahora»). El asiento del registro permanece tras la revocación del consentimiento. Hasta la adopción de la Declaración no hay Asamblea (Carta, artículo 38), y el documento temporal de participante en la constitución se destruye contra la voluntad de su titular en la forma prevista en el documento «El período constituyente» (parte 2, apartado 5).
 
 ---
 
@@ -67,7 +67,7 @@ La comprobación es voluntaria. Usted puede revocar el consentimiento en cualqui
 - **edad**: haber cumplido 18 años;
 - **consentimiento**: firma voluntaria de la Declaración;
 - **verificación de identidad**: confirmación de la unicidad;
-- **pasaporte**: emisión de un token intransmisible en su dirección.
+- **pasaporte**: emisión de un token intransmisible a su dirección; el pasaporte acredita la condición que nace al firmar la Declaración.
 
 ## Qué datos hacen falta
 
@@ -75,9 +75,9 @@ La lista completa y las bases jurídicas están en la Política de privacidad. P
 
 - **seudónimo**: a su elección, se emplea en el pasaporte y para entrar en la plataforma;
 - **dirección de correo electrónico**: para el contacto;
-- **comprobación del documento y del rostro**.
+- **comprobación del documento y del rostro**, junto con el nombre y los apellidos en alfabeto latino tal como figuran en el documento; además, se indica el país de residencia y se confirma la edad de 18 años o más.
 
-**El nombre y los apellidos reales no se conservan.** Los datos del documento se emplean solo en el momento de la comprobación - para cotejar el rostro con el documento y confirmar la unicidad - y tras concluir esta se suprimen. Su seudónimo sigue siendo su nombre público.
+**El nombre y los apellidos reales no se conservan.** Los datos del documento se emplean solo en el momento de la comprobación, para cotejar el rostro con el documento y confirmar la unicidad; tras concluir esta, de ellos solo quedan el tipo y el país de expedición del documento y unos hashes irreversibles. Su seudónimo sigue siendo el nombre bajo el que le ven los demás participantes.
 
 ## Qué da la condición de earthling
 
@@ -92,13 +92,13 @@ La lista completa y las bases jurídicas están en la Política de privacidad. P
 
 # SECCIÓN 04. Cómo funciona la comprobación
 
-**Documento → rostro → comprobación de presencia viva → cotejo del documento y el rostro → resultado → conservación protegida del resultado**
+**Documento → rostro → comprobación de presencia viva → cotejo del documento y el rostro → resultado → conservación del resultado**
 
 ## Qué se comprueba
 
 - **el documento**: cotejo de los datos con un documento oficial acreditativo de la identidad;
 - **la geometría del rostro**: puntos clave y proporciones;
-- **la presencia viva**: protección frente a fotografías, grabaciones de vídeo y máscaras. La comprobación se construye según el modelo de detección de ataques de presentación descrito en la norma ISO/IEC 30107; el nivel de resistencia declarado y los resultados de la comprobación independiente se publican al entrar el sistema en explotación industrial.
+- **la presencia viva**: por ahora es una comprobación pasiva básica sobre una sola imagen del rostro: está concebida para detectar falsificaciones simples - la captura de una fotografía impresa o de la imagen de una pantalla -; no protege frente a grabaciones de vídeo ni frente a máscaras, y la imagen se puede subir como archivo. La comprobación según el modelo de detección de ataques de presentación descrito en la norma ISO/IEC 30107 todavía no está implantada; el nivel de resistencia declarado y los resultados de la comprobación independiente se publicarán cuando se implante.
 
 ## Procedimiento
 
@@ -107,13 +107,13 @@ La lista completa y las bases jurídicas están en la Política de privacidad. P
 3. **Extracción de rasgos**: datos del documento y puntos clave del rostro.
 4. **Construcción de una plantilla matemática**: un conjunto de números que describe las características. La plantilla existe únicamente en la memoria durante la comprobación.
 5. **Cotejo** de la biometría con el documento y comprobación de la unicidad.
-6. **Conservación del resultado**, cifrado.
+6. **Conservación del resultado**, sin imágenes ni plantillas.
 
-> **Qué queda tras la comprobación.** Las fotografías, los escaneos de los documentos y las plantillas biométricas **no se conservan**. Quedan: el estado de la comprobación (superada o no) y unos hashes criptográficos irreversibles calculados a partir del número del documento y de la combinación del nombre con el país.
+> **Qué queda tras la comprobación.** Las fotografías, los escaneos de los documentos y las plantillas biométricas **no se conservan**. Quedan: el estado de la comprobación, el tipo y el país de expedición del documento, las puntuaciones numéricas de la comprobación, los motivos de denegación y hashes irreversibles, calculados con la clave secreta del servidor, del número del documento, del nombre, de los apellidos y de la fecha de nacimiento que figuran en el documento.
 >
 > Los hashes no impiden volver. Solo impiden que una misma persona tenga dos pasaportes en vigor a la vez: al adherirse de nuevo, el sistema encuentra la coincidencia, comprueba que el pasaporte anterior está destruido y emite uno nuevo.
 
-> **Con precisión, sobre la condición de los hashes.** Un hash es irreversible: de él no se puede leer ni el nombre ni el número del documento. Pero permite **distinguir a una persona concreta** entre otras; de lo contrario no cumpliría su tarea. Por eso, conforme al RGPD, son datos **seudonimizados y no anónimos**, y la protección de datos personales se les aplica en su totalidad. No los llamamos anonimizados porque sería inexacto.
+> **Con precisión, sobre la condición de los hashes.** Un hash es irreversible y se calcula con la clave secreta del servidor: de él no se puede leer ni el nombre ni el número del documento y, sin la clave, tampoco se pueden obtener por fuerza bruta. Pero permite **distinguir a una persona concreta** entre otras; de lo contrario no cumpliría su tarea. Por eso, conforme al RGPD, son datos **seudonimizados y no anónimos**, y la protección de datos personales se les aplica en su totalidad. No los llamamos anonimizados porque sería inexacto.
 
 ---
 
@@ -123,15 +123,15 @@ Las medidas generales están descritas en la Política de privacidad; a continua
 
 **Transmisión protegida.** Todos los datos se transmiten por canales protegidos con cifrado de extremo a extremo entre su dispositivo y los servidores del sistema de comprobación.
 
-**Cifrado en la conservación.** Los hashes se conservan cifrados (AES-256). Las claves de descifrado se conservan aparte de los datos.
+**La clave de los hashes.** Los hashes se calculan con la clave secreta del servidor (HMAC-SHA256); la clave se conserva fuera de la base de datos. En el nivel de la aplicación no se cifran los datos conservados.
 
-**Separación de los almacenes.** Los hashes y los resultados de la comprobación se conservan aparte de los datos de la cuenta.
+**Un solo almacén.** Los hashes y los resultados de la comprobación se conservan en la misma base que los datos de la cuenta de usuario; los datos de la plataforma están en una base aparte.
 
 **Supresión inmediata de los materiales originales.** Las fotografías y los escaneos se suprimen en cuanto concluye la comprobación.
 
-**Control de acceso.** Autenticación de varios niveles y registro: todos los accesos a los datos de la comprobación quedan registrados y pueden verificarse.
+**Control de acceso.** Solo los administradores tienen acceso a los datos de la comprobación, mediante la clave de administrador; todavía no hay autenticación de varios niveles, y no se registran todos los accesos.
 
-> **Filosofía de la seguridad:** la mejor protección es que no haya nada que robar. No conservamos aquello que pueda emplearse contra usted.
+> **Filosofía de la seguridad:** cuanto menos se conserva, menos se puede robar. No conservamos imágenes, plantillas biométricas, el nombre ni el número del documento; lo que se conserva está enumerado en la sección 09 y en la Política de privacidad.
 
 ---
 
@@ -143,16 +143,16 @@ Los derechos generales del participante están en la Política de privacidad y e
 
 **Pasar la comprobación de nuevo.** Si su aspecto ha cambiado mucho y la comprobación no lo reconoce, usted la pasa de nuevo. La plantilla no se «actualiza» con ello: no se conserva en ninguna parte, y el cotejo se realiza cada vez desde cero.
 
-**Exigir la revisión por una persona.** Una denegación automática no es definitiva (artículo 22 del RGPD). Usted puede exponer su posición e impugnar el resultado. Tras dos intentos automáticos fallidos, el asunto pasa a una persona **sin necesidad de solicitarlo**. El número de solicitudes reiteradas no está limitado.
+**Exigir la revisión por una persona.** Una denegación automática no es definitiva (artículo 22 del RGPD). Usted puede exponer su posición e impugnar el resultado. Tras dos intentos automáticos fallidos, la revisión por una persona se realiza **sin necesidad de solicitarla**. El número de solicitudes reiteradas no está limitado.
 
 **Presentar una reclamación** ante la autoridad de control de protección de datos de su país; el procedimiento está en la Política de privacidad.
 
 ## Qué ocurre al salir
 
-- el vínculo entre los datos de la comprobación y su identidad se rompe;
+- la destrucción del pasaporte no suprime por sí sola los datos: los datos de la cuenta de usuario se suprimen a petición suya y, tras la supresión, quedan la dirección del monedero, el número del asiento del pasaporte, el seudónimo, el país, el resultado y las puntuaciones de la comprobación y los hashes irreversibles;
 - los hashes seudonimizados se conservan exclusivamente para que una misma persona no pueda tener dos pasaportes en vigor;
 - **el derecho a volver se conserva**: al adherirse de nuevo, el sistema comprueba que el pasaporte anterior está destruido y emite uno nuevo;
-- reconstruir una imagen a partir de los hashes o establecer una identidad es prácticamente imposible.
+- a partir de los hashes no se puede reconstruir una imagen; de ellos no se puede leer ni el nombre ni el número del documento y, sin la clave secreta del servidor, tampoco se pueden obtener por fuerza bruta.
 
 ---
 
@@ -161,12 +161,12 @@ Los derechos generales del participante están en la Política de privacidad y e
 La lista es exhaustiva: no se realiza tratamiento con otros fines.
 
 - confirmación de la unicidad al registrarse;
-- emisión del pasaporte;
+- emisión del pasaporte y, en el período constituyente, del documento temporal de participante en la constitución;
 - acreditación de la condición de participante;
 - aseguramiento del principio «una persona, un voto» en las votaciones;
 - acceso a los servicios que exigen una condición acreditada.
 
-> **Qué no hacemos.** No seguimos la localización. No analizamos el comportamiento. No vendemos datos a terceros. No elaboramos perfiles para publicidad. No empleamos el sistema para vigilar. No entregamos datos a los órganos del Estado si no es por una resolución judicial firme o un requerimiento legal equivalente, cuya legitimidad se comprueba en cada caso.
+> **Qué no hacemos.** No seguimos la localización. No analizamos el comportamiento, salvo en la estadística agregada de visitas, en la que se cuentan también los pasos del formulario de comprobación (Política de privacidad, sección 04). No vendemos datos a terceros. No elaboramos perfiles para publicidad. No empleamos el sistema para vigilar. No entregamos datos a los órganos del Estado si no es por una resolución judicial firme o un requerimiento legal equivalente, cuya legitimidad se comprueba en cada caso.
 >
 > De los requerimientos atendidos se informa al participante, salvo que la propia resolución lo prohíba. Un resumen de tales casos se publica en el informe de transparencia.
 
@@ -176,7 +176,7 @@ La lista es exhaustiva: no se realiza tratamiento con otros fines.
 
 ## Qué es abierto y qué es cerrado
 
-El código del contrato inteligente del pasaporte es abierto bajo licencia MIT y verificable en el explorador de la red.
+El código del contrato inteligente del pasaporte es abierto bajo licencia MIT; en el explorador de la red el contrato no está verificado, y la correspondencia entre el código fuente y el contrato desplegado hay que comprobarla por cuenta propia (documento «Dónde estamos ahora»).
 
 **El código del sistema de verificación de identidad es cerrado**, precisamente porque trabaja con datos personales y su publicación facilitaría eludir la protección. Es una elección consciente y no un silencio; la lista con sus motivos está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html).
 
@@ -185,13 +185,13 @@ A cambio de esa opacidad asumimos lo siguiente:
 - **auditoría independiente de seguridad**: prevista antes de ampliar las operaciones; el informe se publica;
 - **documentación técnica**: accesible para su estudio;
 - **informes de seguridad**: se publican con regularidad;
-- **registro de los accesos** a los datos de comprobación: se lleva y está sujeto a auditoría.
+- **registro de los accesos** a los datos de comprobación: está sujeto a auditoría; por ahora no se registran todos los accesos.
 
 ## Supervisión independiente
 
-Las cuestiones de ética en el tratamiento de datos biométricos se someten al [Consejo Independiente](https://earth-lings.org/documents/es/es11-consejo-independiente.html), órgano no subordinado a quienes operan la plataforma. Hasta que el Consejo se constituya, esta fase se omite, y los plazos de debate público de tales cuestiones se duplican (Carta, artículo 39).
+Las cuestiones de ética en el tratamiento de datos biométricos se someten al [Consejo Independiente](https://earth-lings.org/documents/es/es11-consejo-independiente.html), órgano no subordinado a quienes operan la plataforma. Tras la adopción de la Declaración, mientras el Consejo no esté constituido, esta fase se omite y los plazos de debate público de tales cuestiones se duplican (Carta, artículo 39); hasta la adopción de la Declaración no hay Consejo (Carta, artículo 38).
 
-Las propuestas de modificación de la presente Política se someten a votación de la Asamblea.
+Tras la adopción de la Declaración, las propuestas de modificación de la presente Política se someten a votación de la Asamblea y, antes de la adopción de la Declaración, decide sobre ellas el autor de la Declaración en la forma prevista en el documento «El período constituyente» (parte 2, apartado 2).
 
 ---
 
@@ -209,40 +209,40 @@ Las propuestas de modificación de la presente Política se someten a votación 
 
 **Qué no se conserva:** nombres y apellidos reales; números de pasaporte y de documentos; fechas exactas de nacimiento; domicilios; fotografías y plantillas biométricas; números de teléfono, salvo en los casos de autenticación de dos factores.
 
-**Qué se conserva:** el seudónimo; la dirección de correo electrónico; la confirmación de ser mayor de 18 años; el país de residencia (para estadística); el estado de la verificación de identidad; el vínculo con el pasaporte; la fecha de obtención de la condición.
+**Qué se conserva:** el seudónimo; la dirección de correo electrónico; la confirmación de ser mayor de 18 años; el país de residencia (para estadística); el estado de la verificación de identidad; el vínculo con el pasaporte; la fecha de obtención de la condición; la dirección del monedero; la dirección IP y el tipo de navegador en el momento de la comprobación, durante no más de 12 meses.
 
 ## Minimización
 
-El registro sigue el principio de minimización de datos conforme al RGPD. Se conserva únicamente lo necesario: la unicidad acreditada, el vínculo con el pasaporte para participar en las decisiones y un identificador interno para distribuir las remuneraciones.
+El registro sigue el principio de minimización de datos conforme al RGPD. Se conserva únicamente lo necesario para confirmar la unicidad y para el vínculo con el pasaporte que permite participar en las decisiones; lo que se conserva exactamente se detalla más arriba, en el recuadro siguiente y en la Política de privacidad.
 
-Las fotografías y los escaneos se suprimen en cuanto concluye la comprobación, pero su resultado sigue siendo válido y verificable, del mismo modo que un Estado no conserva de manera permanente las muestras biométricas al expedir un pasaporte, aunque el hecho de la expedición siga siendo válido.
+Las fotografías y los escaneos se suprimen en cuanto concluye la comprobación, pero su resultado sigue siendo válido y verificable.
 
-> **El vínculo entre la identidad real y el seudónimo no se conserva.** Los datos del documento se tratan solo en el momento de la comprobación. En el sistema de verificación de identidad quedan el seudónimo, el estado de la comprobación y la confirmación criptográfica de la unicidad; el seudónimo no se inscribe en el registro abierto. Esa arquitectura excluye que se revele la identidad de un participante - a otros participantes, a los administradores y a terceros - porque no hay nada que revelar.
+> **El nombre y los apellidos reales no se conservan.** Los datos del documento se tratan solo en el momento de la comprobación. En el sistema de verificación de identidad quedan el seudónimo, la dirección de correo, el país, la dirección del monedero, la dirección IP y el tipo de navegador en el momento de la comprobación y, de la comprobación, el estado de la comprobación, el tipo y el país de expedición del documento, las puntuaciones numéricas de la comprobación, los motivos de denegación y hashes irreversibles, calculados con la clave secreta del servidor, del número del documento, del nombre, de los apellidos y de la fecha de nacimiento que figuran en el documento; el seudónimo no se inscribe en el registro abierto. Por eso su nombre o el número de su documento no se pueden revelar ni a otros participantes, ni a los administradores, ni a terceros: no los tenemos.
 
 ---
 
 # SECCIÓN 10. Preguntas frecuentes
 
 **¿Pueden reconstruir mi rostro a partir de lo que conservan?**
-No. La plantilla biométrica no se conserva en absoluto: la comparación se realiza en el momento de la comprobación, tras lo cual los datos originales se suprimen. Quedan hashes irreversibles de los que no se puede obtener ni una imagen ni los datos del documento.
+No. La plantilla biométrica no se conserva en absoluto: la comparación se realiza en el momento de la comprobación, tras lo cual los datos originales se suprimen. Quedan el resultado de la comprobación y unos hashes irreversibles de los que no se puede obtener una imagen; de ellos no se puede leer ni el nombre ni el número del documento y, sin la clave secreta del servidor, tampoco se pueden obtener por fuerza bruta.
 
 **¿Qué ocurre si pierdo el teléfono?**
-Los datos de la comprobación están a salvo. Para recuperar el acceso basta con instalar la aplicación en un dispositivo nuevo y pasar la comprobación de nuevo.
+Los datos de la comprobación están a salvo. No hay aplicación: la comprobación se pasa en el navegador. Si el monedero se creó entrando con el correo, con Google o con Apple, basta con entrar del mismo modo en el dispositivo nuevo. Si se pierde el acceso al monedero, el pasaporte se reemite a una dirección nueva a solicitud suya, y la pertenencia no se interrumpe (Carta, artículo 21).
 
 **¿Pueden robar mi biometría?**
-Solo se pueden robar hashes cifrados e irreversibles, inútiles sin las claves de descifrado. Reconstruir a partir de ellos una imagen del rostro es prácticamente imposible.
+La biometría no se puede robar: no la conservamos. Los hashes que conservamos están calculados con la clave secreta del servidor a partir de los datos del documento, y no de la biometría, y no contienen imagen alguna del rostro.
 
 **¿Es obligatorio indicar el nombre verdadero?**
-No. El nombre y los apellidos reales no se conservan. Los datos del documento se comprueban solo en el momento de la comprobación y después se suprimen. En la relación cotidiana se le conoce por su seudónimo.
+Para la comprobación, sí: el nombre y los apellidos, tal como figuran en el documento, hacen falta para cotejarlos con él. El nombre y los apellidos reales no se conservan. Los datos del documento se comprueban solo en el momento de la comprobación; después de ella, de ellos solo quedan el tipo y el país de expedición del documento y unos hashes irreversibles. En la relación cotidiana se le conoce por su seudónimo.
 
 **¿Qué ocurre con los datos al salir?**
-El vínculo entre los datos de la comprobación y su identidad se rompe. Los hashes seudonimizados se conservan exclusivamente para que una misma persona no pueda tener dos pasaportes en vigor. Eso no impide volver.
+La destrucción del pasaporte no suprime por sí sola los datos: los datos de la cuenta de usuario se suprimen a petición suya y, tras la supresión, quedan la dirección del monedero, el número del asiento del pasaporte, el seudónimo, el país, el resultado y las puntuaciones de la comprobación y los hashes irreversibles. Los hashes seudonimizados se conservan exclusivamente para que una misma persona no pueda tener dos pasaportes en vigor. Eso no impide volver.
 
 **¿Qué hacer si mi aspecto ha cambiado mucho?**
 Pasar la comprobación de nuevo. No existe una plantilla conservada que hubiera que actualizar.
 
 **¿Y si la comprobación se rechaza?**
-Recibirá un aviso con los motivos. Se puede repetir el intento tras subsanarlos, por ejemplo con imágenes de mejor calidad o con otro documento. Si no está de acuerdo, puede exigir la revisión por una persona, y tras dos intentos automáticos fallidos esa revisión se produce de manera automática.
+Los motivos de la denegación automática se muestran en la pantalla de comprobación, por ahora con códigos de servicio, y la decisión posterior a la revisión por una persona llega por correo. Se puede repetir el intento una vez subsanados los defectos señalados, por ejemplo con imágenes de mejor calidad o con otro documento. Si no está de acuerdo, puede exigir la revisión por una persona y, tras dos intentos automáticos fallidos, la revisión por una persona se realiza sin necesidad de solicitarla.
 
 **¿Quién puede ver mi nombre y mis apellidos reales?**
 Nadie: no se conservan. El pueblo no puede técnicamente revelar datos de los que no dispone.

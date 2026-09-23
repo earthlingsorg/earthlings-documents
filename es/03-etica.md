@@ -2,11 +2,11 @@
 
 **Cómo el pueblo resuelve sus desacuerdos y a qué trato se atiene**
 
-> El presente documento es derivado. En caso de discrepancia con la [Carta](https://earth-lings.org/documents/es/es05-carta.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración.
+> El presente documento es derivado. En caso de discrepancia con la [Carta](https://earth-lings.org/documents/es/es05-carta.html) se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. La Carta entra en vigor con la adopción de la Declaración (Carta, artículo 38); hasta entonces no existen ni la Asamblea DAO ni el Consejo Independiente, y lo que sobre ellos se dice más abajo describe el régimen posterior a la adopción.
 >
 > **El presente documento no establece fundamentos para medida alguna.** La lista cerrada de esos fundamentos está en los artículos 22 y 22 bis de la Carta y no es ampliable, ni por el presente documento, ni por decisión, ni por práctica asentada.
 
-Lo que sigue se divide en dos partes, y la diferencia entre ellas es esencial. Las reglas de resolución de controversias describen un procedimiento al que el pueblo se atiene. Todo lo demás es aquello a lo que el pueblo aspira y que ayuda a aprender; de no ajustarse a ello no se sigue consecuencia alguna, nunca.
+Lo que sigue se divide en dos partes, y la diferencia entre ellas es esencial. Las reglas de resolución de controversias describen un procedimiento al que el pueblo se atiene. Todo lo demás, salvo las reglas que el presente documento impone al propio pueblo, a sus órganos y a la plataforma, es aquello a lo que el pueblo aspira y que ayuda a aprender; para la persona, de no ajustarse a ello no se sigue consecuencia alguna, nunca.
 
 ---
 
@@ -14,7 +14,7 @@ Lo que sigue se divide en dos partes, y la diferencia entre ellas es esencial. L
 
 Los desacuerdos entre personas son inevitables y nacen de la diferencia de experiencias, valores e intereses. El conflicto en sí no es el problema: el problema es no saber resolverlo.
 
-El pueblo Earthlings elige el enfoque restaurativo en lugar del punitivo: el fin del examen es restablecer la relación y reparar las consecuencias, no castigar.
+El pueblo Earthlings elige el enfoque restaurativo en lugar del punitivo: el fin del examen del desacuerdo es restablecer la relación y reparar las consecuencias, no castigar.
 
 ## Fase 1. Diálogo directo
 
@@ -28,35 +28,35 @@ Si el diálogo directo no ha llevado a una solución, las partes pueden acudir a
 
 La mediación es un proceso voluntario en el que una persona neutral ayuda a las partes a encontrar una solución mutuamente aceptable. **El mediador no dicta una decisión y no establece quién tiene razón.** Su tarea es crear las condiciones para la conversación.
 
-**Quién puede ser mediador.** Cualquier earthling en quien confíen ambas partes y que no tenga interés en el desenlace. El pueblo lleva un registro de quienes han recibido formación en mediación; elegir del registro no es obligatorio, y las partes pueden acordar cualquier otro participante.
+**Quién puede ser mediador.** Cualquier earthling en quien confíen ambas partes y que no tenga interés personal en el desenlace de la controversia; las partes lo acuerdan entre sí.
 
 **Procedimiento:**
 
-1. una de las partes envía una solicitud a través de la plataforma;
-2. la segunda parte da su consentimiento; sin el consentimiento de ambas partes no hay mediación;
+1. una de las partes propone la mediación a la otra;
+2. la segunda parte confirma su consentimiento - sin el consentimiento de ambas partes no hay mediación;
 3. las partes eligen conjuntamente al mediador;
 4. el mediador organiza el encuentro y conduce el proceso;
 5. el acuerdo alcanzado se hace constar por escrito.
 
 El acuerdo tiene fuerza moral: las partes asumen la obligación voluntaria de cumplirlo. El pueblo no dispone de ejecución forzosa ni la prevé.
 
-**Confidencialidad.** El contenido de la mediación no lo divulgan ni el mediador ni las partes. Se publica solo el hecho de haberse celebrado y su resultado: si hubo acuerdo o no lo hubo.
+**Confidencialidad.** El contenido de la mediación no lo divulgan ni el mediador ni las partes. El hecho de haberse celebrado y su resultado - si hubo acuerdo o no lo hubo - se publican solo con el consentimiento de ambas partes; para elevar la cuestión a la Asamblea, una parte puede comunicar que hubo mediación y que no resolvió la controversia, y nada más allá de eso.
 
 **Plazo.** Treinta días desde el consentimiento de la segunda parte; de común acuerdo el plazo puede prorrogarse.
 
-**La negativa a participar en la mediación no acarrea consecuencia alguna.** No querer participar no es una infracción, no se valora y no se tiene en cuenta en ningún examen posterior.
+**La negativa a participar en la mediación no acarrea consecuencia alguna.** No querer participar no es una infracción, no se valora y no se tiene en cuenta en ningún examen posterior (Declaración, artículo 4).
 
 ## Fase 3. Elevación a la Asamblea DAO
 
-Si la mediación no ha llevado a una solución y la controversia afecta a los intereses de la comunidad o exige una decisión de principio, cualquiera de las partes puede elevar la cuestión a la Asamblea.
+Si la mediación no ha llevado a una solución y la controversia afecta a los intereses de la comunidad o exige una decisión de principio, cualquiera de las partes puede elevar la cuestión a la Asamblea. La falta de consentimiento de la otra parte a la mediación se equipara a que la mediación no haya llevado a una solución.
 
-Es una medida extrema. Resulta pertinente cuando el conflicto afecta a la interpretación de las reglas del pueblo, cuando se requiere una decisión que siente pauta para casos futuros o cuando una de las partes actúa de manera sistemática en contra de los principios asumidos por el pueblo.
+Es una medida extrema. Resulta pertinente cuando el conflicto afecta a la interpretación de las reglas del pueblo, cuando se requiere una decisión que siente pauta para casos futuros o cuando la conducta de una de las partes constituye por sí misma un fundamento previsto en el artículo 22 o 22 bis de la Carta.
 
-El examen se rige por los procedimientos de la Carta. **La Asamblea no puede expulsar a nadie del pueblo en ninguna circunstancia** (Declaración, artículo 4); las medidas aplicables y su procedimiento se establecen en el artículo 22 de la Carta.
+El examen se rige por los procedimientos de la Carta. **La Asamblea no puede expulsar a nadie del pueblo en ninguna circunstancia** (Declaración, artículo 4); las medidas aplicables y su procedimiento se establecen en los artículos 22 y 22 bis de la Carta.
 
 ## Qué no se somete a mediación
 
-La mediación no se aplica:
+Ni el diálogo directo ni la mediación se aplican - la persona acude de inmediato, sin pasar por las fases 1 y 2, a la Asamblea (fase 3) o a los órganos de la jurisdicción correspondiente, a los que el pueblo no sustituye:
 
 - ante amenazas directas a la vida y a la seguridad;
 - ante infracciones manifiestas de la Declaración;
@@ -66,7 +66,7 @@ La mediación no se aplica:
 
 # SECCIÓN 02. El trato
 
-Lo expuesto en la presente sección es aquello a lo que el pueblo aspira. No crea deberes y no acarrea consecuencias.
+Lo expuesto en la presente sección es aquello a lo que el pueblo aspira, como se dice al comienzo del documento. No crea deberes y no acarrea consecuencias.
 
 ## Base
 
@@ -86,7 +86,7 @@ Renunciar al sarcasmo y a la pulla en el espacio común hace la conversación m�
 
 ## Dónde pasa la frontera
 
-Las amenazas, la calumnia y la coacción son incompatibles con la pertenencia al pueblo. Si tal conducta constituye un fundamento previsto en el artículo 22 de la Carta, se aplican las medidas y el procedimiento que este establece.
+Las amenazas, la calumnia y la coacción quedan al otro lado de esta frontera, pero no privan de la pertenencia al pueblo (Declaración, artículo 4). Si tal conducta constituye un fundamento previsto en el artículo 22 o 22 bis de la Carta, se aplican las medidas y el procedimiento de ese artículo.
 
 **La aspereza, la ironía, el desacuerdo y la crítica incómoda no acarrean nunca consecuencias**, ni directamente ni bajo apariencia de otro fundamento (Declaración, artículo 4).
 
@@ -118,7 +118,7 @@ La valoración de las aportaciones se hace con criterios abiertos y conocidos de
 
 Cada cual tiene derecho a un espacio donde no se le desprecie ni se le ataque por una idea expresada.
 
-El pueblo Earthlings aspira a un entorno en el que no dé miedo proponer una idea, equivocarse y cambiar de opinión. Los datos sobre las circunstancias personales de alguien no se divulgan. Las células de apoyo mutuo están previstas en la arquitectura de la comunidad.
+El pueblo Earthlings aspira a un entorno en el que no dé miedo proponer una idea, equivocarse y cambiar de opinión. No se divulgan los datos sobre las circunstancias personales de nadie.
 
 ---
 
@@ -128,7 +128,7 @@ Un earthling que habla en público habla en nombre propio, salvo que la Asamblea
 
 El pueblo no participa en propaganda, en la difusión de datos deliberadamente falsos ni en la incitación al odio.
 
-Cuando el pueblo crece en regiones nuevas, el respeto al contexto y a las tradiciones locales es obligatorio. La adhesión es siempre voluntaria; las diferencias culturales se consideran un enriquecimiento y no un obstáculo.
+Cuando el pueblo crece en regiones nuevas, trata el contexto y las tradiciones locales con un respeto que no obliga a aceptar un trato inadmisible según la sección 02. La adhesión es siempre voluntaria; las diferencias culturales se consideran un enriquecimiento y no un obstáculo.
 
 El cuidado de la humanidad y del planeta, la consideración de los intereses de las generaciones futuras y la renuncia a la violencia son fundamentos expuestos en la Declaración; el presente documento no los completa.
 
@@ -148,7 +148,7 @@ El pueblo Earthlings ofrece la posibilidad de aprender aquello que hace más fá
 
 **El pueblo no exige esas destrezas, no comprueba que se tengan y no vincula a ellas los derechos de nadie.** Ninguna destreza es condición de pertenencia, de participación o de voto (Declaración, artículo 8).
 
-Los errores se consideran parte del aprendizaje y no motivo de sanción.
+Los errores se consideran parte del aprendizaje y no motivo de sanción (Declaración, artículo 4).
 
 ---
 
@@ -166,6 +166,6 @@ La composición, el modo de formación, los fundamentos de revocación y las con
 
 Lo expuesto aquí no es dogma. Cualquier earthling puede proponer modificaciones, que se introducen mediante debate abierto en la forma establecida por la Carta.
 
-Los límites son invariables: nada en el presente documento puede contradecir a la Declaración, restringir las garantías que ella da ni crear fundamentos para medidas que ella no prevé.
+Los límites son invariables: nada en el presente documento puede contradecir la Declaración, restringir las garantías que ella da ni crear fundamentos para medidas más allá de la lista cerrada de los artículos 22 y 22 bis de la Carta.
 
 Si una disposición del presente documento resulta poco clara, se interpreta a favor de la persona.

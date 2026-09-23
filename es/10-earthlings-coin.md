@@ -4,7 +4,7 @@
 
 > El presente documento describe la finalidad de la unidad de cuenta y las reglas para operar con ella. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/es/es05-carta.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. El modo de gestionar los fondos comunes está expuesto en el documento [Tesorería de los Earthlings](https://earth-lings.org/documents/es/es09-tesoreria.html) y aquí no se repite.
 >
-> El documento no es una oferta, no promete cotización ni aumento de valor y no sustituye a los documentos jurídicos.
+> El documento no es una oferta, no promete cotización ni aumento de valor y no sustituye a los documentos jurídicos. Las secciones 4-7 describen la arquitectura de destino, y no un estado alcanzado; lo que hay hoy está en la sección 8.
 
 ---
 
@@ -36,13 +36,13 @@ Es la sección más importante del documento.
 
 **No compra el voto.** Tener cualquier cantidad de EC no aumenta el peso de un participante en las decisiones. La votación se levanta sobre el principio «una persona, un voto», ligado al pasaporte y no al saldo. Está consagrado como principio intangible en el artículo 37 de la Carta y no lo deroga mayoría alguna.
 
-**No abre el acceso a la participación.** Ni el derecho de voto, ni el derecho a presentar propuestas, ni la participación en las células, ni la resolución de una controversia exigen tener EC, bloquearlo o pignorarlo. No tener EC no limita al participante en nada.
+**No abre el acceso a la participación.** Ni el derecho de voto, ni el derecho a presentar propuestas, ni la participación en las células, ni la resolución de una controversia exigen tener EC, bloquearlo o pignorarlo. No tener EC no limita al participante en ninguno de esos derechos.
 
-**No es un producto de inversión.** No se da ni puede darse promesa alguna de valor futuro, de dividendos, de participación en ingresos o de liquidez garantizada.
+**No es un producto de inversión.** No se da promesa alguna de valor futuro, de dividendos, de participación en ingresos o de liquidez.
 
-**No se asigna por adherirse.** Ni la adhesión al pueblo, ni la cuota, ni pasar la verificación de identidad crean o asignan EC por sí mismos.
+**No se asigna por adherirse.** El EC no se asigna ni en relación con la adhesión al pueblo, ni en relación con la cuota u otro pago al adherirse, ni por pasar la verificación de identidad.
 
-**No es un salario.** El pueblo Earthlings no actúa como empleador, y la asignación de EC no constituye una relación laboral. Si un acuerdo concreto se reconoce como relación laboral lo determina la legislación del país del participante, y no el presente documento.
+**No es un salario.** El pueblo Earthlings no actúa como empleador; si un acuerdo concreto se reconoce como relación laboral lo determina la legislación del país del participante, y no el presente documento.
 
 ---
 
@@ -50,9 +50,9 @@ Es la sección más importante del documento.
 
 Únicamente por una aportación acreditada: trabajo en las células, desarrollo, investigación, formación, creación de materiales y otros resultados reconocidos por los procedimientos de la DAO.
 
-La cuantía de la remuneración la determinan los procedimientos de la DAO y se liga al resultado, no al tiempo empleado. Quién ha recibido qué y por qué se hace constar públicamente.
+La cuantía de la remuneración la determinan los procedimientos de la DAO y se liga al resultado, no al tiempo empleado. Se hace constar públicamente, en forma seudónima, quién ha recibido qué y por qué (sección 12).
 
-El capital externo no da por sí mismo ventaja alguna para obtener EC: la participación vale más que la cantidad con la que una persona llega.
+La cuantía del capital con el que un participante llega no influye en la asignación de EC.
 
 ---
 
@@ -72,14 +72,14 @@ Las tarifas concretas y las cuantías de las remuneraciones las establecen decis
 
 ## 6. Emisión y distribución
 
-**Principios que no cambian:**
+**Principios de la emisión:**
 
 - el volumen total de emisión está limitado o limitado de manera controlada; el procedimiento queda fijado en el contrato inteligente antes de que empiecen las distribuciones;
 - no hay preminados ocultos ni reservas secretas;
 - todas las distribuciones grandes son visibles públicamente;
 - las partes vinculadas a los fundadores, al equipo y a los socios tempranos se desbloquean por etapas, conforme a reglas publicadas antes de que empiecen las distribuciones y fijadas en el contrato.
 
-**Áreas de distribución:** desarrollo de la infraestructura y seguridad; fondos de las células y de las iniciativas; remuneraciones a los participantes por su aportación; programas con universidades y con organizaciones sin ánimo de lucro y de investigación; mantenimiento de la accesibilidad de la unidad, si llega a existir y cuando llegue.
+**Áreas de distribución:** desarrollo de la infraestructura y seguridad; fondos de las células y de las iniciativas; remuneraciones a los participantes por su aportación; programas con universidades y con organizaciones sin ánimo de lucro y de investigación.
 
 **Los parámetros numéricos** - volumen de emisión, partes, plazos de desbloqueo - no están determinados a día de hoy. Los aprueba la Asamblea DAO y se publican antes de que empiecen las distribuciones. Hasta ese momento, cualquier cifra que se diga en nombre del proyecto o por parte de cualquier otro no es fiable.
 
@@ -108,7 +108,7 @@ Las exigencias de divulgación de datos sobre los firmantes las determina la Asa
 
 **El volumen total de emisión no está determinado.**
 
-Todo lo descrito más arriba es la arquitectura de destino, y no un estado alcanzado. Las direcciones de los contratos, los enlaces para comprobar el código y los resultados de las auditorías se publicarán antes de que empiece cualquier actividad con la unidad.
+Lo descrito en las secciones 4-7 es la arquitectura de destino, y no un estado alcanzado. Las direcciones de los contratos, los enlaces para comprobar el código y los resultados de las auditorías se publicarán antes de que empiece cualquier actividad con la unidad.
 
 ---
 
@@ -138,7 +138,7 @@ Se nombran los que son reales, y no los que se suelen enumerar.
 
 **Falta de liquidez.** Puede resultar imposible intercambiar la unidad por algo fuera del ecosistema, incluso de manera permanente. Es una propiedad prevista de la etapa actual, y no un fallo.
 
-**Volatilidad, si aparece liquidez.** Las oscilaciones bruscas de precio en los primeros meses de circulación son un fenómeno habitual, y no hay protección frente a ellas.
+**Volatilidad, si aparece liquidez.** Si la circulación llega a empezar alguna vez, las oscilaciones bruscas de precio en los primeros meses de circulación son un fenómeno habitual, y no hay protección frente a ellas.
 
 **Crecimiento insuficiente del ecosistema.** Si los participantes siguen siendo pocos, la utilidad de la unidad será limitada con independencia de la calidad de su arquitectura.
 
@@ -160,7 +160,7 @@ Se nombran los que son reales, y no los que se suelen enumerar.
 
 **Ante un incidente:** contención y medidas de protección, aviso público, corrección y nueva comprobación, análisis público de las causas y conclusiones.
 
-**El código de los contratos inteligentes** se publica bajo licencia abierta y se comprueba en el explorador de la cadena de bloques.
+**El código de los contratos inteligentes** se publicará bajo licencia abierta, junto con los enlaces para comprobarlo en el explorador de la cadena de bloques, antes de que empiece cualquier actividad con la unidad (sección 8); hoy el contrato no está desplegado.
 
 ---
 

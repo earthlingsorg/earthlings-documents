@@ -4,7 +4,7 @@
 
 > El presente documento detalla el artículo 4 de la Carta del pueblo Earthlings, que define la condición, las facultades y el modo de formación del Consejo Independiente. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/es/es05-carta.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración.
 >
-> **Estado a día de hoy.** El Consejo está previsto en los documentos constitutivos y se forma a medida que crece el pueblo. Hasta su formación, las fases de los procedimientos que prevén su intervención se omiten, y los plazos de debate público de las cuestiones correspondientes se duplican (Carta, artículo 39). La formación del Consejo es una de las cuatro condiciones para concluir la etapa de formación de las estructuras.
+> **Estado a día de hoy.** El Consejo está previsto en los documentos constitutivos y se forma tras la adopción de la Declaración, a medida que crece el pueblo. Hasta su formación, las fases de los procedimientos que prevén su intervención se omiten, y los plazos de debate público de las cuestiones correspondientes se duplican (Carta, artículo 39). La formación del Consejo es una de las cuatro condiciones para concluir la etapa de formación de las estructuras (Carta, artículo 39); esa etapa comienza con la adopción de la Declaración, con la que entra en vigor la Carta, y hasta entonces transcurre el período constituyente (documento «El período constituyente»).
 
 ---
 
@@ -30,12 +30,12 @@ La independencia del Consejo es independencia de **juicio**, y no independencia 
 
 ## Auditoría ética
 
-- Valoración de los actos de las estructuras y de los encargos del pueblo desde el punto de vista de los estándares éticos, ambientales y jurídicos
-- Análisis de los casos relacionados con conflictos internos, discriminación y quiebra de la confianza
+- Valoración de los actos de las estructuras y de quienes desempeñan encargos del pueblo desde el punto de vista de los estándares éticos, ambientales y jurídicos
+- Análisis de los casos relacionados con conflictos internos, discriminación y quiebra de la confianza; la solicitud de un dictamen de expertos puede presentarla cualquier earthling (Carta, artículo 4)
 
 ## Intervención en los procedimientos previstos por la Carta
 
-Son las únicas funciones del Consejo integradas en procedimientos obligatorios, y ambas tienen carácter de dictamen y no de decisión.
+La Carta integra al Consejo en cinco procedimientos, y en todos ellos el Consejo emite un dictamen o una recomendación, y no una decisión. Dos de ellos se describen más abajo: el examen previo de las medidas del artículo 22 y el dictamen en la anulación de una emisión inválida de un pasaporte (artículo 21). Los otros tres son el dictamen obligatorio en la suspensión del derecho de voto (artículo 22 bis), las recomendaciones en una crisis que exija una decisión de la DAO (artículo 33, nivel 2) y el dictamen de carácter recomendatorio en la fase de peritaje de la modificación de la Carta (artículo 36). La Carta llama obligatorio al dictamen solo en el artículo 22 bis, y es el único caso en que a una persona se le puede suspender el derecho de voto.
 
 **Examen previo de las medidas previstas en el artículo 22 de la Carta**: la advertencia y las medidas sobre los recursos comunes. El Consejo examina la fundamentación de la iniciativa en el plazo de 14 días y publica una recomendación.
 
@@ -63,7 +63,7 @@ El Consejo implica en el debate de las cuestiones del pueblo a la comunidad cien
 
 # SECCIÓN 03. Composición y formación
 
-El Consejo se compone de 7 a 11 personas - número impar - de entre los Earthlings con competencia reconocida que no participen en la gestión operativa.
+El Consejo se compone de 7 a 11 personas - número impar - de entre los Earthlings que no participen en la gestión operativa. La competencia reconocida en alguno de los ámbitos de competencia del Consejo (Carta, artículo 4) es una orientación para quienes votan, y no un requisito del candidato: la presentación de candidaturas está abierta a cualquier earthling, y toda candidatura presentada llega a la votación.
 
 ## Ámbitos de competencia
 
@@ -149,7 +149,7 @@ Los grupos de trabajo del Consejo están abiertos a la participación de cualqui
 
 - Formular observaciones y recomendaciones públicas
 - Promover debates públicos sobre temas espinosos
-- Publicar los dictámenes previstos en los artículos 21 y 22 de la Carta
+- Publicar los dictámenes y recomendaciones previstos en los artículos 21, 22, 22 bis, 33 y 36 de la Carta
 - Recomendar a la Asamblea la revisión de la composición de los Core Nodes, del Emergency Multisig o de otras estructuras de servicio
 - Proponer candidatos a miembros del Consejo
 
@@ -168,7 +168,7 @@ Todos los derechos enumerados se ejercen en forma de pronunciamiento público. N
 
 # SECCIÓN 07. Garantía de la independencia
 
-La independencia se asegura con la declaración obligatoria de los conflictos de intereses, con la abstención en caso de interés personal conforme al artículo 16 de la Carta, con la renovación de la composición y con la publicación de todos los dictámenes.
+La independencia se asegura con la declaración obligatoria de los conflictos de intereses, con la abstención en caso de interés personal conforme al artículo 16 de la Carta, con la renovación de la composición, con la publicación de todos los dictámenes y con un presupuesto protegido: la financiación del Consejo no puede recortarse sin mayoría cualificada (Carta, artículo 4). La prohibición de participar en la gestión de las finanzas (sección 06) no alcanza al presupuesto propio del Consejo.
 
 El miembro del Consejo que participe en la preparación de un dictamen sobre una cuestión que le afecte a él o a personas vinculadas a él lo declara antes de empezar el trabajo y no participa en la preparación del dictamen.
 

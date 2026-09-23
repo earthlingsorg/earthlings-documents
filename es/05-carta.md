@@ -52,13 +52,13 @@ La Asamblea DAO es el único órgano de gobierno del pueblo Earthlings. Comprend
 
 **Mayoría simple - 51%, quórum 20%**
 - Decisiones operativas
-- Financiación de proyectos de hasta 10 000 EC
+- Financiación de proyectos de hasta 10 000 EC inclusive
 - Elección y revocación de Core Nodes y Emergency Multisig
 - Otorgamiento y revocación del encargo jurídico de defensa (artículo 33)
 - Cuestiones de procedimiento
 
 **Mayoría relevante - 67%, quórum 20%**
-- Financiación de proyectos de 10 000 a 100 000 EC
+- Financiación de proyectos de más de 10 000 y hasta 100 000 EC inclusive
 - Medidas conforme al artículo 22: la advertencia y las medidas sobre los recursos comunes
 
 **Mayoría cualificada - 67%, quórum 25%**
@@ -152,7 +152,7 @@ El Consejo Independiente es un órgano consultivo. Realiza la auditoría ética 
 - Recomendaciones públicas sobre cuestiones complejas
 - Informes anuales sobre el estado del pueblo
 - Dictámenes de expertos a petición de los Earthlings
-- Mediación en los conflictos
+- Dictámenes y recomendaciones en los procedimientos de los artículos 21, 22, 22 bis, 33 y 36
 
 **Cuestión crítica:**
 - Los dictámenes son solo de recomendación
@@ -192,7 +192,7 @@ Un miembro del Consejo puede renunciar por decisión propia en cualquier momento
 
 No se abona remuneración alguna por ocupar un puesto en el Consejo más allá de esa compensación.
 
-> **Estado actual de las estructuras.** La Carta crea estas estructuras, pero su composición se cubre a medida que crece el pueblo. A día de hoy los Core Nodes y el Emergency Multisig no están elegidos, el Consejo Independiente no está constituido y la Asamblea DAO no ha celebrado votaciones de fondo. Hasta su elección, las funciones correspondientes se ejercen en la etapa de formación de las estructuras de manera procedimental y bajo la responsabilidad de los fundadores; el traspaso de esas funciones a las estructuras elegidas es el criterio de tránsito entre las fases de la Hoja de ruta (artículo 39).
+> **Estado actual de las estructuras.** La Carta crea estas estructuras, pero su composición se cubre a medida que crece el pueblo. La etapa de formación de las estructuras (artículo 39) comienza con la adopción de la Declaración, con la que entra en vigor la Carta; hasta entonces transcurre el período constituyente (documento «El período constituyente»). Hasta la adopción de la Declaración no existen ni la Asamblea DAO, ni los Core Nodes, ni el Emergency Multisig, ni el Consejo Independiente, y la única facultad discrecional del período constituyente respecto de los textos es la decisión del autor de la Declaración de incorporar propuestas al texto. Tras la adopción, hasta la elección de las estructuras, sus funciones se ejercen de manera procedimental y bajo la responsabilidad de los fundadores; la conclusión de la etapa se hace constar por decisión de la Asamblea DAO y es el criterio de tránsito entre las fases de la Hoja de ruta (artículo 39).
 
 ---
 
@@ -200,9 +200,9 @@ No se abona remuneración alguna por ocupar un puesto en el Consejo más allá d
 
 ## Artículo 5. Tipos de votación
 
-**Mayoría simple - 51%, quórum 20%.** Decisiones operativas corrientes, financiación de proyectos de hasta 10 000 EC, elección y revocación de Core Nodes y Emergency Multisig, otorgamiento y revocación del encargo jurídico de defensa, anulación de actos del Emergency Multisig, levantamiento anticipado de limitaciones, recursos.
+**Mayoría simple - 51%, quórum 20%.** Decisiones operativas corrientes, financiación de proyectos de hasta 10 000 EC inclusive, elección y revocación de Core Nodes y Emergency Multisig, otorgamiento y revocación del encargo jurídico de defensa, anulación de actos del Emergency Multisig, levantamiento anticipado de limitaciones, recursos.
 
-**Mayoría relevante - 67%, quórum 20%.** Financiación de proyectos de 10 000 a 100 000 EC, medidas conforme al artículo 22: la advertencia y las medidas sobre los recursos comunes.
+**Mayoría relevante - 67%, quórum 20%.** Financiación de proyectos de más de 10 000 y hasta 100 000 EC inclusive, medidas conforme al artículo 22: la advertencia y las medidas sobre los recursos comunes.
 
 **Mayoría cualificada - 67%, quórum 25%.** Modificación de la Carta, decisiones estratégicas, financiación de proyectos de más de 100 000 EC.
 
@@ -307,7 +307,7 @@ En lo demás, el procedimiento de realización de las mediciones - incluido qui�
 
 ## Artículo 8 ter. El panel elegido por sorteo
 
-La medición de la voluntad común va precedida del trabajo de un panel elegido por sorteo del registro. El panel no adopta decisiones ni expresa la voluntad común: prepara la pregunta para la medición.
+La medición de la voluntad común va precedida del trabajo de un panel elegido por sorteo a partir del registro de pasaportes. El panel no adopta decisiones ni expresa la voluntad común: prepara la pregunta para la medición.
 
 El panel se elige por sorteo entre los titulares del pasaporte earthling. El procedimiento del sorteo y la fuente del azar se publican antes de la elección, y la composición después de ella, de modo que una persona ajena pueda comprobar el sorteo. La participación es voluntaria; la negativa no acarrea consecuencias, y quien se retira es sustituido por el mismo sorteo.
 
@@ -315,7 +315,7 @@ El panel recibe materiales, escucha a especialistas y a representantes de posici
 
 El trabajo del panel se publica junto con la pregunta: la composición según el procedimiento de sorteo, los materiales estudiados, las partes escuchadas, los argumentos expuestos y los desacuerdos consignados. Una publicación que no permite rastrear de dónde salieron las opciones no es trabajo de un panel.
 
-El panel no se convoca mientras el registro no permita obtener por sorteo un corte transversal del pueblo. Hasta ese día la medición se realiza sin panel, y así se hace saber junto con la pregunta; callar la ausencia de panel es un defecto de la medición.
+El panel no se convoca mientras el registro de pasaportes no permita obtener por sorteo un corte transversal del pueblo. Hasta ese día la medición se realiza sin panel, y así se hace saber junto con la pregunta; callar la ausencia de panel es un defecto de la medición.
 
 El umbral a partir del cual el sorteo da un corte transversal, y en lo demás el procedimiento de trabajo del panel, los establece una decisión de la Asamblea DAO y se publican antes del primer panel.
 
@@ -354,8 +354,8 @@ Los detalles del modelo económico están descritos en el documento [Earthlings 
 **Proceso de financiación:**
 
 1. **Presentación de la solicitud** a través de la plataforma, con descripción del proyecto, del presupuesto y del equipo
-2. **Debate:** 14 días (o 3 días para proyectos de hasta 1 000 EC)
-3. **Votación de aprobación:** 51% con quórum del 20% (hasta 10 000 EC); 67% con quórum del 20% (de 10 000 a 100 000 EC); 67% con quórum del 25% (más de 100 000 EC)
+2. **Debate:** 14 días (21 días para proyectos de más de 100 000 EC, 3 días para proyectos de hasta 1 000 EC)
+3. **Votación de aprobación:** 51% con quórum del 20% (hasta 10 000 EC inclusive); 67% con quórum del 20% (de más de 10 000 hasta 100 000 EC inclusive); 67% con quórum del 25% (más de 100 000 EC)
 4. **Determinación del orden**, si la suma solicitada por los proyectos aprobados excede el límite del área (véase más abajo)
 5. **Pago:** automático mediante contrato inteligente por etapas (milestones)
 6. **Rendición de cuentas:** pública y on-chain al concluir cada etapa
@@ -464,14 +464,14 @@ Todo earthling puede poner fin voluntariamente a su participación en el pueblo 
 
 **Procedimiento de salida voluntaria:**
 
-1. El earthling presenta una declaración de salida desde su área personal en la plataforma Earthlings
-2. El sistema pide una confirmación aparte de la decisión y advierte de sus consecuencias. Por defecto, entre la declaración y la destrucción media una pausa de 72 horas: es una protección frente a las decisiones impulsivas, y el earthling puede renunciar a ella. El pueblo Earthlings no puede ni retrasar la salida ni anularla: la destrucción está siempre a disposición del earthling directamente desde su propio monedero
-3. Tras la confirmación, el earthling destruye el pasaporte SBT con su propia clave (función `burnByHolder`). El pueblo Earthlings no guarda las claves del participante y no puede ni ejecutar la destrucción en su lugar ni impedirla; el acceso a las votaciones y a los servicios internos cesa
-4. La salida surte efecto desde el momento de la destrucción del pasaporte SBT
+1. El earthling presenta una solicitud de salida desde su área personal en la plataforma Earthlings
+2. El sistema pide una confirmación aparte de la decisión y advierte de sus consecuencias. Por defecto, entre la solicitud y la destrucción media una pausa de 72 horas: es una protección frente a las decisiones impulsivas, y el earthling puede renunciar a ella. El pueblo Earthlings no puede ni retrasar la salida ni anularla: la destrucción de un pasaporte en vigor está siempre a disposición del earthling directamente desde su propio monedero y, si no hay pasaporte en vigor, la salida surte efecto en la forma del apartado 4
+3. Tras la confirmación, el earthling destruye el pasaporte SBT con su propia clave (función `burnByHolder`). El pueblo Earthlings no guarda las claves del participante, no tiene derecho a ejecutar la destrucción en su lugar y no puede impedirla; el acceso a las votaciones y a los servicios internos cesa
+4. La salida surte efecto desde el momento de la destrucción del pasaporte SBT o, si no hay pasaporte en vigor, al concluir la pausa prevista en el apartado 2 o desde el momento en que el earthling ha renunciado a ella
 
 **Los Earthlings Coin al salir.** Los tokens que se encuentran en el monedero del earthling saliente siguen siendo de su propiedad: no se confiscan ni se anulan. Tras perder la condición de earthling, su titular pierde el derecho de voto en la DAO y el acceso a los servicios internos; el uso posterior de los tokens depende de su accesibilidad técnica y de la legislación aplicable de la jurisdicción correspondiente.
 
-**Nueva adhesión.** Quien haya salido voluntariamente del pueblo Earthlings puede adherirse de nuevo en cualquier momento pasando el procedimiento estándar - la verificación y la cuota única de entrada que cubre su coste (la cuota puede abonarse también en la forma del artículo 12 bis) - y obteniendo un nuevo pasaporte SBT. El pasaporte anterior destruido no impide el regreso: los datos de verificación se conservan solo para que una misma persona no pueda tener dos pasaportes en vigor a la vez.
+**Nueva adhesión.** Quien haya salido voluntariamente del pueblo Earthlings puede adherirse de nuevo en cualquier momento pasando el procedimiento estándar - la verificación y la cuota única de entrada que cubre el coste de esa verificación (la cuota puede abonarse también en la forma del artículo 12 bis) - y obteniendo un nuevo pasaporte SBT. El pasaporte anterior destruido no impide el regreso: lo que se conserva tras la salida está señalado en la Política de privacidad (sección 08), y los hashes de la verificación se conservan solo para que una misma persona no pueda tener dos pasaportes en vigor a la vez.
 
 ## Artículo 19. Suspensión de la condición
 
@@ -484,8 +484,8 @@ Un earthling puede suspender temporalmente su condición sin salir del todo.
 
 **Consecuencias de la suspensión:**
 - el pasaporte SBT se conserva, pero se marca como «suspendido»
-- el derecho de voto queda suspendido por decisión propia del earthling
-- el voto del earthling suspendido no se computa al calcular el quórum
+- mientras dura la suspensión, sobre la que el earthling decide por sí mismo, su derecho de voto queda suspendido
+- el earthling suspendido no entra en el número sobre el que se calcula el quórum
 - se conserva el acceso a los recursos de información
 - los Earthlings Coin permanecen en el monedero sin limitaciones
 
@@ -495,14 +495,14 @@ Un earthling puede suspender temporalmente su condición sin salir del todo.
 
 ## Artículo 20. Participantes inactivos
 
-Se considera inactivo al earthling que:
+Se considera inactivo al earthling en quien concurran las tres condiciones siguientes:
 - no ha participado en ninguna votación durante 12 meses
 - no ha realizado ninguna acción en la plataforma durante 12 meses
 - no ha respondido a la consulta de confirmación de su condición
 
 **Consecuencias de la inactividad:**
 - el pasaporte SBT se conserva, pero se marca como «inactivo»
-- el voto del earthling inactivo no se computa al calcular el quórum
+- el earthling inactivo no entra en el número sobre el que se calcula el quórum
 - el derecho de voto se conserva y puede ejercerse en cualquier momento
 - con la primera acción (votar, entrar en la plataforma) la condición se restablece automáticamente
 
@@ -512,7 +512,7 @@ El mecanismo de inactividad protege al sistema frente a una elevación artificia
 
 Por regla general el pasaporte SBT solo lo destruye su propio titular (artículo 18). El presente artículo establece **dos y solo dos** excepciones a esa regla.
 
-> **Por qué el fallecimiento no figura en esta lista.** La pertenencia cesa por el fallecimiento de la persona: así lo establece el artículo 4 de la Declaración, y se produce por sí mismo, sin decisión de nadie. La destrucción del pasaporte por ese fundamento no se realiza, y por las siguientes razones. El pueblo no tiene ni puede tener acceso a los registros de defunción de todo el mundo: tal fundamento se apoyaría en datos cuya veracidad no hay con qué comprobar y se convertiría en el modo más barato de retirar a un participante, sin notificación, sin plazo para objetar y sin recurso, pues todos ellos presuponen la presencia de la persona. Protección frente al voto con la clave ajena la destrucción tampoco da: no puede adelantarse al conocimiento del fallecimiento. El aspecto práctico lo cubre el artículo 20: quien no participa se considera inactivo, su voto no se computa al calcular el quórum y el pasaporte se conserva. El sistema no necesita saber por qué una persona ha dejado de participar.
+> **Por qué el fallecimiento no figura en esta lista.** La pertenencia cesa por el fallecimiento de la persona, por sí sola y sin decisión de nadie: así lo establece el artículo 4 de la Declaración. La destrucción del pasaporte por ese fundamento no se realiza, y por las siguientes razones. El pueblo no tiene ni puede tener acceso a los registros de defunción de todo el mundo: tal fundamento se apoyaría en datos cuya veracidad no hay con qué comprobar y se convertiría en el modo más barato de retirar a un participante, sin notificación, sin plazo para objetar y sin recurso, pues todos ellos presuponen la presencia de la persona. Protección frente al voto con la clave ajena la destrucción tampoco da: no puede adelantarse al conocimiento del fallecimiento. El aspecto práctico lo cubre el artículo 20: quien no participa se considera inactivo y no entra en el número sobre el que se calcula el quórum, y el pasaporte se conserva. El sistema no necesita saber por qué una persona ha dejado de participar.
 
 ### 1. Anulación de una emisión inválida
 
@@ -841,7 +841,7 @@ Los siguientes principios no pueden modificarse ni siquiera por mayoría cualifi
 
 ## Artículo 38. Entrada en vigor y jerarquía de los documentos
 
-La presente Carta entra en vigor tras su publicación en el sitio del pueblo Earthlings earth-lings.org.
+La presente Carta entra en vigor junto con la Declaración Earthlings, el día de su adopción. Hasta ese día, quienes operan la infraestructura se aplican a sí mismos las disposiciones de la Carta a las que remiten las Condiciones de uso, la Política de privacidad y la Política de verificación biométrica, como su propio compromiso ante la persona; tales disposiciones no crean, para quienes operan la infraestructura, derechos frente a la persona que vayan más allá de lo que esos documentos establecen expresamente.
 
 **Jerarquía de los documentos del pueblo Earthlings:**
 
@@ -864,7 +864,7 @@ La etapa de formación de las estructuras continúa hasta el momento en que se c
 
 Hasta que llegue ese momento, las funciones de las estructuras no elegidas se ejercen de manera procedimental y bajo la responsabilidad de los fundadores, y las fases de los procedimientos que prevén la intervención del Consejo Independiente se omiten duplicando los plazos de debate público de las cuestiones correspondientes.
 
-> **Sobre el uso de la palabra «fundadores».** En la presente Carta designa únicamente a quienes, antes de la elección de las estructuras, ejercen sus funciones de manera procedimental, y nada más. No crea derecho alguno en el gobierno, ni peso en la votación, ni condición especial de participante: en el pueblo Earthlings no existe una clase de fundadores, y esa disposición forma parte del núcleo intangible de la Declaración. Las funciones señaladas cesan al concluir la etapa de formación de las estructuras y no se transmiten por sucesión.
+> **Sobre el uso de la palabra «fundadores».** En la presente Carta designa únicamente a quienes, antes de la elección de las estructuras, ejercen sus funciones de manera procedimental, y nada más. No crea derecho alguno en el gobierno, ni peso en la votación, ni condición especial de participante: en el pueblo Earthlings no existe una clase de fundadores (Declaración, artículo 8), y ello se desprende de su núcleo intangible. Las funciones señaladas cesan al concluir la etapa de formación de las estructuras y no se transmiten por sucesión.
 
 Los fundadores publican un informe sobre el estado de la etapa de formación de las estructuras al menos una vez cada 90 días. El informe contiene la lista de condiciones no cumplidas y sus causas.
 
@@ -879,11 +879,11 @@ El presente cuadro sistematiza los umbrales de votación y los procedimientos. E
 ## Decisiones de la Asamblea DAO
 
 **Cuestiones corrientes - 51%, quórum 20%**
-Aprobación de proyectos de células, distribución de subvenciones de hasta 10 000 EC, elección **y revocación** de Core Nodes y Emergency Multisig, otorgamiento y revocación del encargo jurídico de defensa, anulación de actos del Emergency Multisig, levantamiento anticipado de limitaciones, recursos, cuestiones de procedimiento.
+Aprobación de proyectos de células, distribución de subvenciones de hasta 10 000 EC inclusive, elección **y revocación** de Core Nodes y Emergency Multisig, otorgamiento y revocación del encargo jurídico de defensa, anulación de actos del Emergency Multisig, levantamiento anticipado de limitaciones, recursos, cuestiones de procedimiento.
 Plazos: 14 días de debate + 7 días de votación.
 
 **Cuestiones relevantes - 67%, quórum 20%**
-Financiación de proyectos de 10 000 a 100 000 EC, medidas conforme al artículo 22: la advertencia y las medidas sobre los recursos comunes.
+Financiación de proyectos de más de 10 000 y hasta 100 000 EC inclusive, medidas conforme al artículo 22: la advertencia y las medidas sobre los recursos comunes.
 Plazos: 14 días de debate + 7 días de votación.
 
 **Cuestiones críticas - 67%, quórum 25%**
@@ -901,7 +901,7 @@ Orden de financiación de los proyectos ya aprobados cuando faltan fondos del á
 No es una decisión y no tiene umbral: con ella el pueblo expresa una posición, no adopta decisiones. Los requisitos se establecen en el artículo 8 bis; el procedimiento en lo demás lo establece una decisión de la Asamblea DAO.
 
 **El panel elegido por sorteo (artículo 8 ter)**
-No es una decisión y no tiene umbral: el panel prepara la pregunta para la medición, no la responde. Elección por sorteo del registro, participación voluntaria, trabajo publicado junto con la pregunta. El panel no se convoca mientras el registro no permita obtener por sorteo un corte transversal del pueblo.
+No es una decisión y no tiene umbral: el panel prepara la pregunta para la medición, no la responde. Elección por sorteo a partir del registro de pasaportes, participación voluntaria, trabajo publicado junto con la pregunta. El panel no se convoca mientras el registro de pasaportes no permita obtener por sorteo un corte transversal del pueblo.
 
 ## Facultades de las estructuras de ejecución
 

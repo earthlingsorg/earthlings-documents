@@ -2,7 +2,7 @@
 
 **Mecanismo financiero descentralizado del pueblo Earthlings**
 
-> El presente documento detalla la sección 03 de la [Carta](https://earth-lings.org/documents/es/es05-carta.html). En caso de discrepancia se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. Los umbrales, quórums y plazos los establece la Carta; el presente documento los reproduce y no puede modificarlos.
+> El presente documento detalla la sección 03 de la [Carta](https://earth-lings.org/documents/es/es05-carta.html). En caso de discrepancia se aplica la Carta, y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. Los umbrales, quórums y plazos establecidos por la Carta los reproduce el presente documento y no puede modificarlos; las reglas propias de la Tesorería las establece dentro de los límites de la Carta y las modifica en la forma de los artículos 38 y 39.
 
 La Tesorería de los Earthlings es el mecanismo financiero del pueblo, gestionado mediante la votación de la Asamblea DAO y procedimientos transparentes. Sirve de base para la realización de proyectos, el desarrollo de la plataforma, las iniciativas educativas y la ayuda humanitaria.
 
@@ -15,12 +15,12 @@ La Tesorería de los Earthlings es el mecanismo financiero del pueblo, gestionad
 **Características clave:**
 
 - gestión exclusivamente mediante la votación de la Asamblea DAO;
-- transparencia de todas las transacciones financieras en el registro distribuido;
+- las operaciones en los monederos del pueblo son visibles en el registro distribuido, y las operaciones en moneda fiduciaria se publican en las cuentas de la caja;
 - ejecución automática de las decisiones a medida que se despliegan los contratos inteligentes;
-- derechos administrativos reducidos al mínimo, repartidos entre firmantes elegidos y sujetos a bloqueo temporal;
+- derechos administrativos reducidos al mínimo, que tras el traspaso de las claves se reparten entre firmantes elegidos y se ejercen mediante bloqueo temporal (recuadro más abajo);
 - rendición de cuentas pública en tiempo real.
 
-> **Estado de las claves en la etapa de formación de las estructuras.** Las claves están en manos del fundador. Su traspaso a una firma múltiple de Core Nodes elegidos o al control de la DAO es el criterio de tránsito a la fase siguiente de la Hoja de ruta. Tras el traspaso, nadie podrá disponer de los fondos por sí solo; en la etapa de formación de las estructuras esa limitación se asegura de manera procedimental, y lo decimos de manera expresa en lugar de callarlo.
+> **Estado de las claves hoy.** Las claves están en manos del fundador. Su traspaso a una firma múltiple de Core Nodes elegidos o al control de la DAO es el criterio de tránsito entre las fases de la Hoja de ruta. Tras el traspaso, nadie podrá disponer de los fondos por sí solo; hasta el traspaso esa limitación se asegura solo de manera procedimental, y técnicamente la disposición de la caja está al alcance de una sola firma; hasta la adopción de la Declaración los fondos los gestiona el fundador con rendición de cuentas pública (Hoja de ruta, sección 03), y lo decimos de manera expresa en lugar de callarlo. La etapa de formación de las estructuras (Carta, artículo 39) comienza con la adopción de la Declaración, con la que entra en vigor la Carta; hasta entonces transcurre el período constituyente (documento «El período constituyente»).
 
 ## Artículo 2. Finalidad
 
@@ -32,7 +32,7 @@ La Tesorería de los Earthlings es el mecanismo financiero del pueblo, gestionad
 
 ## Artículo 3. Principios fundamentales
 
-**Transparencia.** El movimiento de los fondos es verificable en tiempo real por cualquier persona, sin intervención nuestra.
+**Transparencia.** El movimiento de los fondos en los monederos del pueblo es verificable en tiempo real por cualquier persona, sin intervención nuestra; las operaciones en moneda fiduciaria pasan por los canales bancarios de la persona jurídica instrumental y se publican en las cuentas de la caja.
 
 **Democracia.** Todas las decisiones sobre distribución de fondos se adoptan por votación de la Asamblea DAO conforme al principio «una persona, un voto». El peso del voto no depende del volumen de fondos aportados en ninguna circunstancia.
 
@@ -40,7 +40,7 @@ La Tesorería de los Earthlings es el mecanismo financiero del pueblo, gestionad
 
 **Rendición de cuentas.** Cada proyecto financiado publica informes sobre el gasto de los fondos al concluir cada etapa.
 
-> **Estado actual.** La caja se lleva en un monedero Safe de la red Polygon (`0xaEC7016218f7883bf6e47a2C932FdE6d822086C0`); sus transacciones son públicas y verificables. El umbral de firmas de ese monedero es por ahora de una: la clave está en manos del fundador y todavía no hay firma múltiple. Eso lo puede comprobar cualquiera en la dirección indicada, y lo decimos nosotros mismos. El paso a una firma múltiple de personas elegidas es criterio de tránsito entre las fases de la Hoja de ruta. Los contratos inteligentes de la Tesorería descritos en el artículo 20 se despliegan por etapas; hasta su despliegue, las reglas correspondientes se ejecutan de manera procedimental y no automática. Los Core Nodes y el Emergency Multisig no están elegidos a día de hoy.
+> **Estado actual.** La caja se lleva en un monedero Safe de la red Polygon (`0xaEC7016218f7883bf6e47a2C932FdE6d822086C0`); sus transacciones son públicas y verificables. El umbral de firmas de ese monedero es por ahora de una: la clave está en manos del fundador y todavía no hay firma múltiple. Eso lo puede comprobar cualquiera en la dirección indicada, y lo decimos nosotros mismos. El paso a una firma múltiple de personas elegidas es criterio de tránsito entre las fases de la Hoja de ruta. Los contratos inteligentes de la Tesorería descritos en el artículo 20 se desplegarán por etapas; tras la adopción de la Declaración, y hasta su despliegue, las reglas correspondientes se ejecutan de manera procedimental y no automática. Hoy no está desplegado ninguno de ellos, y tampoco hay todavía decisiones de la Asamblea pendientes de ejecución. Los Core Nodes y el Emergency Multisig no están elegidos a día de hoy.
 
 ---
 
@@ -80,20 +80,20 @@ La Tesorería puede aceptar subvenciones y donaciones de organizaciones externas
 - **Ausencia de condiciones**: las subvenciones no deben contener condiciones contrarias a los principios del pueblo;
 - **Prohibición de influencia**: los donantes no obtienen ni voto ni influencia sobre las decisiones de la DAO. La cuantía de una donación no da nada más que agradecimiento.
 
-> **Prevención del blanqueo de capitales.** La Tesorería no presta servicios financieros a terceros y dispone únicamente de los fondos propios del pueblo, pero acepta ingresos externos y opera a través de una persona jurídica instrumental, de modo que queda sujeta a las exigencias de las jurisdicciones correspondientes. Por eso: las operaciones en moneda fiduciaria pasan por los canales bancarios de la persona jurídica y se someten a sus procedimientos de conocimiento del cliente; los ingresos grandes y atípicos se comprueban en cuanto a su origen antes de aceptarlos, y una donación anónima que supere el umbral fijado por la Asamblea no se acepta; las donaciones de personas y organizaciones sujetas a restricciones sancionadoras no se aceptan en forma alguna. El umbral y el procedimiento de comprobación los establece una decisión de la Asamblea y se publican.
+> **Prevención del blanqueo de capitales.** La Tesorería no presta servicios financieros a terceros y dispone únicamente de los fondos comunes, en los que nadie tiene participación alguna, pero acepta ingresos externos y opera a través de una persona jurídica instrumental, de modo que queda sujeta a las exigencias de las jurisdicciones correspondientes. Por eso: las operaciones en moneda fiduciaria pasan por los canales bancarios de la persona jurídica y se someten a sus procedimientos de conocimiento del cliente; se comprueba el origen de los ingresos grandes y atípicos antes de aceptarlos, y una donación anónima que supere el umbral fijado por la Asamblea no se acepta; las donaciones de personas y organizaciones sujetas a restricciones sancionadoras no se aceptan en forma alguna. El umbral y el procedimiento de comprobación los establece una decisión de la Asamblea y se publican.
 
 ## Artículo 6. Emisión de la unidad de cuenta
 
-Una parte de los fondos se forma mediante la emisión controlada de la unidad de cuenta conforme al modelo aprobado por la Asamblea DAO. Los detalles están en un documento aparte.
+Una parte de los fondos se formará mediante la emisión controlada de la unidad de cuenta conforme al modelo que apruebe la Asamblea DAO; hoy la unidad no está emitida, y la economía de la participación se lleva en la contabilidad interna de la plataforma (documento «Earthlings Coin», sección 8). Los detalles están en un documento aparte.
 
-- la emisión se rige por reglas transparentes inscritas en un contrato inteligente;
+- la emisión se regirá por reglas transparentes inscritas en un contrato inteligente;
 - modificar las reglas exige mayoría cualificada;
 - los fondos procedentes de la emisión ingresan directamente en la Tesorería;
 - la emisión está sujeta a auditoría pública.
 
 ## Artículo 7. Detracciones del beneficio de las células
 
-El 5 por ciento del beneficio de una célula se destina a la Tesorería.
+El 5 por ciento del beneficio de una célula se destinará a la Tesorería; el modo de contabilizar el beneficio de la célula y el modo de la detracción los establece una decisión de la Asamblea DAO, y hoy no existe ni lo uno ni lo otro (documento «Dónde estamos ahora»).
 
 - las detracciones se realizan mediante contratos inteligentes a medida que se despliegan;
 - el cálculo es transparente y verificable;
@@ -164,7 +164,7 @@ La Asamblea DAO es el único órgano de gobierno de la Tesorería. Todas las dec
 
 La reputación es una anotación de referencia sobre la participación del earthling en el trabajo del pueblo. No da derecho a nada: el peso del voto no depende de ella (artículo 12), no abre el acceso a la financiación y no altera el orden.
 
-**Factores:** regularidad de la participación en las votaciones, realización lograda de los proyectos financiados, aportación al desarrollo de la comunidad, calidad de las propuestas, valoraciones de otros participantes.
+**Factores:** realización lograda de los proyectos financiados, aportación al desarrollo de la comunidad, calidad de las propuestas, valoraciones de otros participantes. La participación en las votaciones no es un factor: la participación de una persona concreta en la votación no se publica (Carta, artículo 6).
 
 **Uso:** información de referencia al elegir delegado; lista cronológica de propuestas, en la que la reputación del autor no influye en el lugar de la propuesta y el filtrado por reputación está disponible como modo de visualización que cada cual activa para sí.
 
@@ -182,7 +182,7 @@ Los Earthlings pueden ceder voluntariamente su voto en un ámbito concreto a otr
 - **delegado puede ser cualquier earthling**: la reputación no abre ni cierra el acceso a esa posibilidad;
 - los votos cedidos que emite el delegado son públicos; no se publica quién ha cedido su voto al delegado.
 
-**La delegación no se aplica** en las votaciones sobre la modificación de la Carta y de las reglas básicas de la Tesorería, sobre financiación de más de 100 000 EC, sobre la formación del Emergency Multisig, sobre limitación de facultades, sobre anulación de la emisión de un pasaporte y sobre la modificación de los principios intangibles.
+**La delegación no se aplica** en las votaciones sobre la modificación de la Carta y de las reglas básicas de la Tesorería, sobre financiación de más de 100 000 EC, sobre la formación del Emergency Multisig, sobre limitación de facultades, sobre suspensión del derecho de voto, sobre anulación de la emisión de un pasaporte y sobre la modificación de los principios intangibles. La delegación se confiere a título gratuito: el pago por ella, por su mantenimiento o por su revocación se considera compra o venta de un voto (Carta, artículo 7).
 
 La delegación no crea influencia adicional: un voto delegado equivale a un voto, y no constituye cargo.
 
@@ -190,19 +190,19 @@ La delegación no crea influencia adicional: un voto delegado equivale a un voto
 
 | Decisión | Umbral | Quórum | Debate | Votación |
 |---|---|---|---|---|
-| Financiación de hasta 10 000 EC | 51% | 20% | 14 días | 7 días |
-| Financiación de 10 000 a 100 000 EC | 67% | 20% | 14 días | 7 días |
+| Financiación de más de 1 000 hasta 10 000 EC inclusive | 51% | 20% | 14 días | 7 días |
+| Financiación de más de 10 000 hasta 100 000 EC inclusive | 67% | 20% | 14 días | 7 días |
 | Financiación de más de 100 000 EC | 67% | 25% | 21 días | 14 días |
 | Modificación de las reglas básicas de la Tesorería | 67% | 25% | 21 días | 14 días |
 | Modificación de la Carta | 67% | 25% | 21 días | 14 días |
 | Decisiones técnicas de emergencia | 51% | 20% | - | 48 horas |
-| Procedimiento acelerado hasta 1 000 EC | 51% | 20% | 3 días | 3 días |
+| Procedimiento acelerado hasta 1 000 EC inclusive | 51% | 20% | 3 días | 3 días |
 
 Las cantidades umbral las establece una decisión de la Asamblea DAO y se modifican sin reformar la Carta; los valores indicados rigen en el momento de la adopción del documento.
 
 ## Artículo 16. Conflicto de intereses
 
-**Abstención obligatoria.** Un earthling no participa en una votación sobre distribución de fondos si tiene interés en su resultado. La lista cerrada de fundamentos de abstención y el modo de declararla están establecidos en la [Carta, artículo 16](https://earth-lings.org/documents/es/es05-carta.html).
+**Abstención obligatoria.** Un earthling no participa en una votación sobre distribución de fondos si es el solicitante o coautor de la solicitud, forma parte del equipo del proyecto, tiene parentesco cercano con el solicitante o tiene frente a él obligaciones contractuales que prevean una remuneración. La lista es cerrada; el modo de declarar la abstención está establecido en la [Carta, artículo 16](https://earth-lings.org/documents/es/es05-carta.html).
 
 No existen otros fundamentos para excluir un voto: por decisión de la mayoría el voto de un earthling no se excluye del recuento.
 
@@ -214,7 +214,7 @@ No existen otros fundamentos para excluir un voto: por decisión de la mayoría 
 
 **Fase 1. Presentación.** Cualquier earthling presenta una propuesta de financiación. No se requieren aprobación previa ni umbral de apoyo. La solicitud contiene la descripción, los fines, el presupuesto, el plan, la composición de los participantes y las métricas de éxito. La propuesta se publica para debate abierto.
 
-**Fase 2. Debate.** 14 días; 3 días para los proyectos de hasta 1 000 EC. Preguntas a los autores, comentarios, posibilidad de mejorar la propuesta.
+**Fase 2. Debate.** Con los plazos del artículo 15: 14 días; 21 días para los proyectos de más de 100 000 EC; 3 días para los proyectos de hasta 1 000 EC inclusive. Preguntas a los autores, comentarios, posibilidad de mejorar la propuesta.
 
 **Fase 3. Votación.** Con los plazos y umbrales del artículo 15. Cada earthling tiene un voto. Los resultados se hacen constar públicamente.
 
@@ -255,7 +255,7 @@ Grupo de hasta 6 especialistas técnicos elegidos por la Asamblea DAO para asegu
 
 **Funciones:** mantenimiento de la plataforma y de la infraestructura; ciberseguridad; soporte técnico de las votaciones; auditoría y supervisión de los contratos inteligentes; corrección de fallos técnicos; administración técnica de los medios de comunicación.
 
-**Está prohibido:** adoptar decisiones en nombre del pueblo; bloquear a participantes por el contenido de lo que dicen; gestionar las finanzas o influir en la distribución de los fondos; tener un peso especial en las votaciones; intervenir en el contenido de los debates - una limitación técnica solo es posible ante ataques, como bots de spam o DDoS.
+**Está prohibido:** adoptar decisiones en nombre del pueblo; bloquear a participantes por el contenido de lo que dicen; gestionar las finanzas o influir en la distribución de los fondos; tener un peso especial en las votaciones; intervenir en el contenido de los debates - una limitación técnica solo es posible ante ataques, como bots de spam o DDoS. La firma de los Core Nodes en una transacción de la caja aprobada por la Asamblea es ejecución técnica y no gestión de las finanzas: el firmante no puede negarse a firmar por razones de fondo.
 
 **Formación y control:**
 
@@ -264,7 +264,7 @@ Grupo de hasta 6 especialistas técnicos elegidos por la Asamblea DAO para asegu
 - **revocación por mayoría simple (51%, quórum 20%) en cualquier momento, sin explicar los motivos**;
 - rendición de cuentas pública mensual obligatoria.
 
-> **Simetría de los umbrales.** El umbral de revocación es igual al de elección: retirar un encargo no puede ser más difícil que otorgarlo (Carta, artículo 2). La rotación no está ligada a indicadores de reputación: la reputación no es condición ni para presentarse ni para conservar un encargo.
+> **Simetría de los umbrales.** El umbral de revocación es igual al de elección: retirar un encargo no puede ser más difícil que otorgarlo (Carta, artículo 2). La rotación no está ligada a indicadores de reputación: la reputación no es condición ni para presentarse ni para conservar un encargo. A la firma múltiple de la caja se le aplican las reglas del artículo 3 de la Carta: los firmantes no son menos de seis, el umbral se fija como una proporción de la composición redondeada al alza, y los firmantes son independientes - cada uno con su propia clave en su propio dispositivo -, y un umbral alcanzado con claves bajo el control de una sola persona se considera no alcanzado.
 
 ## Artículo 22. Emergency Multisig
 
@@ -363,7 +363,7 @@ Está prohibido financiar proyectos relacionados con:
 - la financiación de conflictos armados o de organizaciones terroristas;
 - la vulneración de derechos humanos o la discriminación;
 - la explotación del trabajo infantil o cualquier daño a la infancia;
-- actividades ilícitas en cualquier jurisdicción;
+- actividades ilícitas según el derecho del lugar en que se llevan a cabo;
 - daño ambiental;
 - la participación en la lucha política y la influencia en las elecciones;
 - el fraude o los esquemas piramidales;
@@ -455,7 +455,7 @@ Los valores indicados son referencias para la evaluación, y no compromisos del 
 
 ## Artículo 38. Procedimiento
 
-El documento se modifica únicamente por votación de la Asamblea DAO: la propuesta puede presentarla cualquier earthling; la entrada en vigor se produce a los 7 días de la aprobación. Los plazos de debate, el umbral y el quórum dependen del tipo de modificación y se establecen en el artículo 39.
+El documento se modifica únicamente por votación de la Asamblea DAO: la propuesta puede presentarla cualquier earthling; la entrada en vigor se produce a los 7 días de la aprobación. Los plazos de debate, el umbral y el quórum dependen del tipo de modificación y se establecen en el artículo 39. Así se modifica el documento tras la adopción de la Declaración; en el período constituyente las modificaciones se introducen en la forma prevista en el documento «El período constituyente» (parte 2, apartado 2).
 
 ## Artículo 39. Tipos de modificación
 
@@ -475,7 +475,7 @@ Lo siguiente no se modifica ni siquiera por mayoría cualificada:
 - el gobierno de la Tesorería exclusivamente a través de la Asamblea DAO;
 - **una persona, un voto en la adopción de cualquier decisión financiera**, incluida la distribución de fondos entre proyectos; ningún mecanismo puede permitir que un participante aporte en una misma decisión más peso que otro;
 - la transparencia de todas las transacciones financieras de la Tesorería;
-- la prohibición de financiar las actividades enumeradas en el artículo 30;
+- la prohibición de financiar lo que prohíbe el núcleo intangible de la Declaración: la violencia y las estructuras armadas, la participación en la lucha política y en las campañas electorales (artículo 5), la destrucción de las condiciones de existencia de la vida (artículo 3); las demás prohibiciones del artículo 30 son reglas básicas de la Tesorería y se modifican en la forma del artículo 39;
 - el carácter técnico y de servicio de los Core Nodes y del Emergency Multisig;
 - la independencia del voto respecto del volumen de fondos aportados.
 

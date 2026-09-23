@@ -25,7 +25,7 @@ En la Carta las células se consideran los soportes básicos de la acción: es a
 
 # SECCIÓN 02. Cómo se organiza el trabajo: agrupaciones permanentes y equipos de proyecto
 
-La Carta conoce una sola forma: la célula de dos a seis personas, creada para un proyecto, una investigación o una iniciativa concretos. Todo lo expuesto a continuación es un **modo de organizar el trabajo en la plataforma**, y no una estructura aparte del pueblo: puede modificarse por decisión de la Asamblea y no crea órganos ni facultades.
+La Carta prevé una sola forma: la célula de dos a seis personas, creada para un proyecto, una investigación o una iniciativa concretos. Todo lo expuesto a continuación es un **modo de organizar el trabajo en la plataforma**, y no una estructura aparte del pueblo: puede modificarse por decisión de la Asamblea DAO y no crea órganos ni facultades.
 
 **Las agrupaciones permanentes por competencias** - juristas, ingenieros, programadores, analistas y otras - existen con independencia de los proyectos concretos. Sostienen la calidad de la competencia experta, preparan recomendaciones y estándares y ayudan a los recién llegados a entrar en la profesión dentro del pueblo.
 
@@ -55,10 +55,10 @@ Si un proyecto necesita más personas, se crean varias células y no una estruct
 
 **1. Aparición de la idea.** Cualquier earthling presenta desde su área personal una iniciativa: un proyecto ambiental, un programa educativo, una investigación, una solución tecnológica. La solicitud describe el problema, el fin, el efecto esperado, el horizonte temporal y las competencias necesarias. No se requieren aprobación previa ni umbral de apoyo para presentarla.
 
-**2. Análisis inicial.** Herramientas auxiliares de IA comprueban la conformidad con la Declaración y con la ética, la ausencia de conflictos manifiestos y la viabilidad aproximada, y si es necesario proponen mejoras de redacción.
+**2. Análisis inicial.** Las herramientas auxiliares de IA comprobarán la conformidad con la Declaración y con la ética, la ausencia de conflictos manifiestos y la viabilidad aproximada, y si es necesario propondrán mejoras de redacción; hoy la plataforma no dispone de tales herramientas.
 
 > **Tres reglas que rigen con independencia del modelo que se emplee** (Declaración, artículo 3):
-> - **la IA no decide nada**: cualquier conclusión suya es de recomendación y no constituye denegación;
+> - **la IA no decide nada**: cualquier conclusión suya tiene carácter de recomendación y no constituye denegación;
 > - **los fundamentos se revelan**: quien presenta la iniciativa recibe una exposición de los motivos en forma comprensible, y no una marca sin explicación;
 > - **la revisión humana está garantizada**: quien presenta la iniciativa puede exigir el examen por una persona, y este se realiza en el plazo establecido.
 >
@@ -80,13 +80,13 @@ Las herramientas auxiliares facilitan la toma de decisiones, pero no suplantan a
 
 Una célula es un equipo a escala humana, y las decisiones no se adoptan en ella por una mayoría que aplasta a la minoría ni por unanimidad, que congela cualquier acto en cuanto hay un solo disidente.
 
-La célula trabaja con el principio del **consentimiento** (consent): una decisión se adopta si ningún participante ha formulado una objeción fundada. El silencio tras concluir el debate se considera consentimiento: un participante inactivo o ausente no bloquea la célula, pero tampoco pierde su voz mientras el debate continúa.
+La célula trabaja con el principio del **consentimiento** (consent): una decisión se adopta si ningún participante ha formulado una objeción fundada. El silencio tras concluir el debate se considera consentimiento: un participante inactivo o ausente no bloquea la célula, pero tampoco pierde su voz mientras el debate continúa. Los plazos del debate, de la pausa y de la votación los fija la plataforma y los anuncia en la propia propuesta.
 
 El consentimiento no significa que la decisión guste a todos. Significa que nadie ve en ella daño, infracción de principios o coacción. Es un umbral deliberadamente bajo para actuar y alto para coaccionar.
 
 ## Qué se considera objeción fundada
 
-Una objeción detiene o modifica una decisión solo si se apoya al menos en uno de estos fundamentos y va acompañada de un argumento:
+Una objeción detiene o modifica una decisión solo si se apoya al menos en uno de estos fundamentos y va acompañada de un argumento. El fundamento lo nombra quien objeta; asignar una objeción a otro fundamento solo cabe mediante el examen previsto en la sección 10:
 
 - **Daño**: la decisión perjudica en concreto a la célula, al proyecto o a un participante;
 - **Infracción de principios**: contradice la Declaración, las líneas rojas o la ética;
@@ -101,8 +101,8 @@ Una objeción basada en una preferencia personal - «no me gusta», «yo lo habr
 
 Si se formula una objeción fundada, la célula está obligada a examinarla: atenderla, resolverla con una enmienda o refutarla de manera razonada.
 
-- las objeciones fundadas en **infracción de principios o coacción** son de cumplimiento obligatorio: la decisión no puede adoptarse mientras no se resuelvan. Es la protección de la persona y de los fundamentos del pueblo, y no se supera con una votación;
-- las objeciones fundadas en **daño o inviabilidad** abren una ronda de resolución; si tras un intento de buena fe no se resuelven, la cuestión se decide por votación de la célula - secreta, como todo voto personal (Carta, artículo 6) - y el riesgo señalado se hace constar;
+- las objeciones fundadas en **infracción de principios o coacción** son vinculantes: la decisión no puede adoptarse mientras no se resuelvan. Es la protección de la persona y de los fundamentos del pueblo, y no se supera con una votación;
+- las objeciones fundadas en **daño, inviabilidad o riesgo grave** abren una ronda de resolución; si tras un intento de buena fe no se resuelven, la cuestión se decide por votación de la célula - secreta, como todo voto personal (Carta, artículo 6) - y el riesgo señalado se hace constar. En esa votación la decisión se adopta si hay más votos a favor que en contra; quienes se abstengan participan en la votación, pero no cuentan ni a favor ni en contra. La votación es válida si ha participado en ella más de la mitad de los participantes de la célula. Todavía no existe un medio de votación secreta: se está eligiendo, y por ahora los votos emitidos en las células la plataforma los guarda junto con la cuenta de usuario (documento «Dónde estamos ahora»; Política de privacidad, sección 02);
 - una controversia no resuelta en la célula se remite al procedimiento descrito en la sección 10.
 
 ## Dos clases distintas de decisiones
@@ -121,14 +121,14 @@ Tales decisiones afectan al trabajo, no personalmente a nadie.
 
 Encargar a un participante una tarea con un plazo concreto. Cambiar las reglas por las que vive la célula. Admitir a alguien nuevo. Separarse de un participante.
 
-**Regla:** aquel sobre quien la decisión recae personalmente debe consentir de manera expresa; el silencio no basta.
+**Regla:** aquel sobre quien la decisión recae personalmente debe consentir de manera expresa; el silencio no basta. La excepción es una sola, y está más abajo: para la separación de un participante no se requiere el consentimiento de aquel a quien se separa.
 
 Por separado, para cada caso:
 
 - **Una obligación personal** - un encargo, un plazo, la responsabilidad de un área de trabajo - nace solo con el consentimiento expreso de la propia persona. Nadie puede quedar obligado sin su palabra.
 - **Las reglas de la célula** se cambian solo con el consentimiento de todos sus participantes. Una persona aceptó trabajar con unas reglas; cambiarlas a sus espaldas no cabe.
 - **La admisión de un nuevo participante**, con el consentimiento de todos los que ya están en la célula y, naturalmente, del propio entrante.
-- **La separación de un participante**, con el consentimiento de todos los demás participantes de la célula, después de haber intentado resolver el desacuerdo conforme a la sección 10. Aquí no se requiere el consentimiento de aquel a quien se separa: de otro modo un equipo de dos a seis personas quedaría rehén de una sola, y a trabajar juntos contra la voluntad de los demás no se puede obligar.
+- **La separación de un participante**, con el consentimiento de todos los demás participantes de la célula, después de haber intentado resolver el desacuerdo conforme a la sección 10. Aquí no se requiere el consentimiento de aquel a quien se separa: de otro modo un equipo de dos a seis personas quedaría rehén de una sola, y a trabajar juntos contra la voluntad de los demás no se puede obligar. En una célula de dos personas la separación no se aplica: «todos los demás participantes» es una sola persona, que separaría a la segunda por sí sola; queda la salida libre de la sección 06.
 
 ### Por qué así
 
@@ -192,7 +192,7 @@ El modelo se ajusta de manera natural a las células cuya aportación principal 
 
 ## Aportación al bien común
 
-El 5 por ciento del beneficio de la célula se destina a la Tesorería de los Earthlings. La detracción puede realizarse en la unidad de cuenta, en moneda fiduciaria o en stablecoin mediante mecanismos transparentes.
+El 5 por ciento del beneficio de la célula se destinará a la Tesorería de los Earthlings; el modo de contabilizar el beneficio de la célula y el modo de la detracción los establece una decisión de la Asamblea DAO, y hoy no existe ni lo uno ni lo otro (documento «Dónde estamos ahora»). La detracción puede realizarse en la unidad de cuenta, en moneda fiduciaria o en stablecoin mediante mecanismos transparentes.
 
 Esos fondos sostienen la infraestructura común, las iniciativas educativas, la ayuda a las células que empiezan y los fines estratégicos del pueblo.
 
@@ -203,7 +203,7 @@ Las células no están limitadas al ecosistema interno. Pueden prestar servicios
 **Principios:**
 
 - **rendición de cuentas transparente**: las células declaran el beneficio para calcular la detracción;
-- **honestidad voluntaria**: el sistema se levanta sobre la confianza; ocultar ingresos es incumplir los acuerdos con el pueblo;
+- **detracción obligatoria, comprobación voluntaria**: la detracción es obligatoria, y su exactitud no la comprueba nadie: el cálculo se apoya en la autodeclaración, y ocultar ingresos es incumplir los acuerdos con el pueblo;
 - **libertad de estructuración**: las células deciden por sí mismas cómo organizar el aspecto jurídico de su trabajo.
 
 El beneficio de la actividad externa puede reinvertirse en el desarrollo de la célula, repartirse entre los participantes o destinarse a proyectos nuevos.
@@ -254,14 +254,14 @@ En el sistema de células se admite el uso de indicadores de calidad del trabajo
 
 **Cómo se emplea:** para navegar, a quién es más sencillo proponer una tarea compleja; para aprender, dónde hacen falta programas de apoyo y de mentoría; para la transparencia, para ver cómo evolucionan las células y qué aprenden.
 
-> **Qué no hace la reputación.** Conforme al artículo 8 de la Carta, no influye en el peso del voto y no abre el acceso a ningún papel. Aplicado a las células, eso significa en concreto lo siguiente:
+> **Qué no hace la reputación.** Conforme al artículo 8 de la Carta, no influye en el peso del voto y no abre el acceso a ningún cargo. Aplicado a las células, eso significa en concreto lo siguiente:
 >
 > - no es condición para entrar en una célula ni para participar en un proyecto;
 > - no influye en el orden de financiación: este lo determina el número de participantes que apoyan el proyecto, y no la calificación del solicitante (Carta, artículo 11);
-> - no influye en el lugar de una propuesta en la lista: la lista es cronológica;
-> - no constituye fundamento de sanción alguna: las medidas se aplican solo conforme al artículo 22 de la Carta, con derecho de defensa y recurso, y no se refieren a los derechos de una persona.
+> - no influye en el lugar de una propuesta en la lista: la lista es cronológica por defecto;
+> - no constituye fundamento de sanción alguna: las medidas se aplican solo conforme al artículo 22 de la Carta, con derecho de defensa y recurso, y no afectan a los derechos de la persona.
 >
-> La reputación es un instrumento de navegación y nada más. Un mecanismo en el que abra el acceso a los recursos la convierte en un peso del voto encubierto y por ello queda excluido.
+> La reputación es un instrumento de navegación y nada más. Todo mecanismo por el que la reputación abriera el acceso a los recursos la convertiría en un peso del voto encubierto, y por ello queda excluido.
 
 ---
 
@@ -272,14 +272,14 @@ En el sistema de células se admite el uso de indicadores de calidad del trabajo
 - respeto a la persona de cada participante;
 - preferencia por el diálogo y la mediación;
 - reglas transparentes de entrada, de trabajo y de salida;
-- imposibilidad de usurpar una célula.
+- imposibilidad de usurpar el voto del pueblo y los fondos comunes.
 
 ## Resolución de los conflictos
 
 - diálogo interno en la célula con constancia de las posiciones;
 - recurso a un mediador independiente, de otras células o de grupos preparados al efecto;
 - ante infracciones graves, recurso al Consejo Independiente. Hasta que el Consejo se constituya, esta fase se omite y los plazos de debate se duplican (Carta, artículo 39);
-- en casos extremos, disolución o reconfiguración de la célula atendiendo a los intereses de todos los participantes.
+- en casos extremos, disolución de la célula (Carta, artículo 25); reconfigurar su propia composición solo puede hacerlo la célula misma, conforme a las reglas de la sección 05.
 
 ## Intervención de la DAO
 
@@ -302,9 +302,9 @@ La salida de una célula, la exclusión de un equipo de proyecto y la disolució
 
 # SECCIÓN 11. Datos y privacidad
 
-**Qué se conserva:** los seudónimos de los participantes y su papel en la célula; la descripción del proyecto y su estado; las etapas principales y los resultados del trabajo; indicadores agregados de participación.
+**Qué se conserva:** los seudónimos de los participantes y su papel en la célula; la descripción del proyecto y su estado; las etapas principales y los resultados del trabajo; indicadores agregados de participación; los votos emitidos en las votaciones de la célula, junto con la cuenta de usuario mientras no se haya elegido un medio de votación secreta (sección 05); el desacuerdo que consta, el riesgo señalado y las posiciones de las partes en conflicto.
 
-**Qué no conserva el sistema:** datos biométricos ni escaneos de documentos; datos personales sensibles ajenos al trabajo; listas ocultas en las que se marque a personas como no deseadas sin fundamentos comprensibles; registros detallados de comunicaciones personales no ligadas al proceso de trabajo.
+**Qué no conserva el sistema:** datos biométricos ni escaneos de documentos; datos personales sensibles ajenos al trabajo; listas ocultas en las que se marque a personas como no deseadas; registros detallados de comunicaciones personales no ligadas al proceso de trabajo.
 
 ---
 
@@ -315,8 +315,8 @@ El sistema de células no está fijado para siempre en una forma. Cambiará junt
 - pueden aparecer nuevos modos de organizar el trabajo si tienen sentido práctico;
 - pueden precisarse los procedimientos de participación, de resolución de conflictos y de distribución de recursos;
 - pueden cambiar las herramientas técnicas;
-- cada cambio relevante de las reglas se debate y se aprueba en la DAO.
+- cada cambio relevante de las reglas se debate y lo aprueba la Asamblea DAO.
 
-Quedan invariables los principios consagrados en el núcleo intangible de la Declaración y en el artículo 37 de la Carta: la escala humana, la libertad de participación, el voto igual e inalienable, el respeto a la persona. No los modifican ni el presente documento ni una decisión de la Asamblea.
+Quedan invariables los principios consagrados en el núcleo intangible de la Declaración y en el artículo 37 de la Carta: la libertad de participación, el voto igual e inalienable, el respeto a la persona. No los modifican ni el presente documento ni una decisión de la Asamblea DAO. La escala humana está establecida en el artículo 23 de la Carta y no goza de esa protección: la Asamblea DAO la modifica por el procedimiento ordinario del artículo 36.
 
 Las células de los Earthlings no son un modelo ideal sobre el papel, sino una herramienta de trabajo. Se hará más precisa a medida que las personas prueben, se equivoquen, corrijan y vuelvan a probar.

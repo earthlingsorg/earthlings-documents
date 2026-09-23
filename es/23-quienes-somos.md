@@ -4,46 +4,46 @@
 
 ## Panorama
 
-Earthlings es la realización operativa, ya en funcionamiento, de un pueblo no territorial voluntariamente autoorganizado, apoyada en el principio de la libre determinación.
+Earthlings es la base operativa, ya construida, de un pueblo no territorial voluntariamente autoorganizado, apoyada en el principio de la libre determinación; el pueblo mismo se constituye mediante la adopción de la Declaración.
 
-Los documentos constitutivos del proyecto describen ese modelo como la arquitectura de una sociedad en la que no existe el poder de unas personas sobre otras y nadie ocupa una posición por encima de otra persona. Earthlings reúne a personas de distintos países en torno a la Declaración Earthlings - un núcleo constitutivo intangible que ninguna mayoría puede reescribir - y a una infraestructura digital que asegura una participación verificada conforme al principio «una persona, un voto» a escala planetaria.
+Los documentos constitutivos del proyecto describen ese modelo como la arquitectura de una sociedad en la que no existe el poder de unas personas sobre otras y nadie ocupa una posición por encima de otra persona. Earthlings reúne a personas de distintos países en torno a la Declaración Earthlings - ninguna mayoría puede derogar ni restringir los principios de su núcleo intangible - y a una infraestructura digital que asegura una participación verificada conforme al principio «una persona, un voto» a escala planetaria.
 
-La arquitectura de Earthlings está diseñada como un sistema institucional unitario, y no ensamblada con componentes ya hechos. Para relacionarse con el sistema jurídico existente, el pueblo emplea, a través de representantes autorizados, estructuras jurídicas inscritas y otros instrumentos jurídicos: interfaces externas de relación sustituibles. El pueblo mismo se gobierna mediante su propia infraestructura DAO.
+La arquitectura de Earthlings está diseñada como un sistema institucional unitario, y no ensamblada con componentes ya hechos. Para relacionarse con el sistema jurídico existente se emplean estructuras jurídicas inscritas y otros instrumentos jurídicos: interfaces externas de relación sustituibles. Tras la adopción de la Declaración, las personas que actúan a través de instrumentos jurídicos ejecutan un encargo revocable de la Asamblea DAO; antes de la adopción no hay pueblo, y nadie actúa en su nombre. El pueblo mismo se gobernará mediante su propia infraestructura DAO.
 
 Veinticinco documentos fundacionales en nueve lenguas, la identidad on-chain y una caja públicamente verificable constituyen el estado institucional actual de Earthlings. El ciclo operativo completo lo aseguran cuatro plataformas de producción desplegadas desde abril de 2025:
 
 - los documentos constitutivos;
-- la identificación biométrica y la emisión de pasaportes SBT;
+- la verificación de identidad y la emisión de asientos del registro (en el período constituyente, de documentos temporales de participantes en la constitución);
 - la plataforma del ecosistema;
 - el sitio satélite de contenido filosófico.
 
-La infraestructura de autogobierno - registro, verificación de identidad, votación, células, economía interna y tesorería - está construida, desplegada y comprobada en entorno de producción. El pueblo se encuentra en su fase constituyente: las adhesiones se abren, y desde el primer día toda la práctica de autogobierno - votaciones, decisiones, movimientos de fondos - queda fijada en una crónica pública. El órgano que por su naturaleza exige una composición ya formada, el Consejo Independiente, se constituye una vez reunidos sus miembros; hasta entonces está previsto en los documentos constitutivos.
+El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, el medio de votación secreta se está eligiendo y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). La constitución del pueblo está en curso: las adhesiones se abrirán si la Declaración se adopta, y desde el primer día toda la práctica de autogobierno - votaciones, decisiones, movimientos de fondos - quedará fijada en una crónica pública.
 
 El nivel económico está deliberadamente separado del gobierno y de la identificación. Cada Earthling posee tres atributos distinguibles por arquitectura:
 
-- un pasaporte SBT intransmisible (identidad);
-- un voto en la DAO con independencia de cualesquiera otros activos (gobierno);
+- un pasaporte SBT intransmisible, una vez emitido (identidad);
+- un voto en la DAO con independencia de cualesquiera otros activos (gobierno): el voto nace al firmar la Declaración, y el pasaporte lo acredita;
 - una huella económica medible, expresada en Earthlings Coin (EC).
 
-El EC es un token de utilidad del ecosistema: da acceso a los servicios de la plataforma, remunera la aportación en las células y se emplea para financiar iniciativas colectivas.
+El EC es la unidad de cuenta interna del ecosistema. Por su diseño, paga los servicios de la plataforma, refleja la aportación en las células y sirve para financiar iniciativas colectivas; hoy la unidad no está emitida: la economía de la participación se lleva en la contabilidad interna de la plataforma (documento «Earthlings Coin», sección 8).
 
 La cantidad de EC no se traduce en ningún caso en influencia sobre el gobierno. La riqueza y el voto existen como ejes arquitectónicos separados, y no se funden en una única variable ponderada por tokens, como en la mayoría de los modelos de DAO.
 
 El EC no es un valor negociable ni un instrumento de inversión. No es moneda de curso legal ni dinero electrónico; dentro del ecosistema sirve de unidad de cuenta por servicios y aportaciones.
 
-Earthlings no ofrece un manifiesto con tecnología adjunta, sino una institución en funcionamiento: se puede estudiar, se puede verificar y uno puede adherirse a ella.
+Earthlings no ofrece un manifiesto con tecnología adjunta, sino una institución en funcionamiento: se puede estudiar, se puede verificar y, si la Declaración se adopta, uno puede adherirse al pueblo.
 
 ## Autoría del corpus
 
-El corpus constitutivo lo ha escrito Artur Arakelyan. Es una versión propuesta al debate, y no un texto cerrado que solo reste adoptar.
+El corpus constitutivo lo ha escrito Artur Arakelyan, autor de la Declaración. Es una versión propuesta al debate, y no un texto cerrado que solo reste adoptar.
 
-Cualquiera puede proponer una enmienda a cualquier documento, y los textos adquieren fuerza no por su autoría, sino por la votación: este pueblo no lo constituirá quien redactó los documentos, sino quienes voten a favor de ellos. El procedimiento está descrito en el documento [El período constituyente](/documents/es/es20-periodo-constituyente.html).
+Cualquiera puede proponer una enmienda a cualquier documento, y la Declaración adquiere fuerza no por su autoría, sino por la votación: este pueblo no será obra de quien redactó los documentos, sino de quienes adopten y firmen la Declaración. El procedimiento está descrito en el documento [El período constituyente](/documents/es/es20-periodo-constituyente.html).
 
 ## Arquitectura de gobierno
 
-La arquitectura institucional de Earthlings consta de tres elementos estructurales distintos, diseñados para relacionarse en paralelo y no de manera jerárquica.
+La arquitectura institucional de Earthlings consta de tres elementos estructurales distintos, ninguno de los cuales tiene poder sobre la persona.
 
-Ese principio es fundamental: cada elemento resuelve tareas que los demás no pueden asumir por su propia estructura, y a la vez ninguno tiene la facultad de adoptar decisiones en lugar de otro.
+Ese principio es fundamental: cada elemento resuelve tareas que los demás no pueden asumir por su propia estructura, pero las decisiones las adopta solo la Asamblea DAO; los instrumentos jurídicos ejecutan su encargo revocable, el Consejo la asesora, y ningún elemento tiene poder sobre la persona.
 
 El resultado es una arquitectura en la que nadie ocupa una posición por encima de otra persona y las facultades están repartidas, son revocables y están reducidas al mínimo.
 
@@ -60,7 +60,7 @@ Los Core Nodes aseguran la coordinación técnica y se renuevan por rotación.
 
 El Emergency Multisig asegura la protección de la infraestructura frente a exploits y amenazas críticas, también con rotación.
 
-El Consejo Independiente formula recomendaciones de expertos y dictámenes consultivos ([más detalles](https://earth-lings.org/documents/es/es11-consejo-independiente.html)).
+El Consejo Independiente formula recomendaciones de expertos y dictámenes consultivos ([más detalles](https://earth-lings.org/documents/es/es11-consejo-independiente.html)). La Carta entra en vigor con la adopción de la Declaración (Carta, artículo 38); hasta entonces no existen ni la Asamblea DAO, ni los Core Nodes, ni el Emergency Multisig, ni el Consejo Independiente, y la única facultad discrecional del período constituyente respecto de los textos es la decisión del autor de la Declaración de incorporar propuestas al texto (documento «El período constituyente»).
 
 Si se mira no a los papeles internos, sino a aquello con lo que Earthlings actúa hacia fuera, los elementos clave son tres: la DAO, los instrumentos jurídicos y el Consejo Independiente. Aseguran el autogobierno colectivo, la relación jurídica externa y la consulta experta.
 
@@ -79,7 +79,7 @@ La DAO asegura:
 
 La DAO se apoya en tres principios fundamentales:
 
-- la unicidad de cada participante acreditada biométricamente;
+- la unicidad acreditada de cada participante;
 - el principio «una persona, un voto»;
 - unas reglas de procedimiento transparentes, aplicables por igual a todos.
 
@@ -87,7 +87,7 @@ La descripción detallada de la arquitectura de la DAO, de los niveles de partic
 
 ### Los instrumentos jurídicos (interfaz jurídica externa)
 
-Para relacionarse con el sistema jurídico existente, Earthlings emplea, a través de representantes autorizados, estructuras jurídicas inscritas y otros instrumentos jurídicos en distintas jurisdicciones.
+Para relacionarse con el sistema jurídico existente se emplean estructuras jurídicas inscritas en una o varias jurisdicciones y otros instrumentos jurídicos.
 
 Sus funciones están limitadas a:
 
@@ -103,7 +103,7 @@ Tales estructuras sirven exclusivamente de medios operativos sustituibles de rel
 - no gestionan la caja de la DAO y no adoptan decisiones de gobierno en lugar del pueblo;
 - siguen siendo sustituibles y externas: pueden constituirse, sustituirse y extinguirse sin afectar a la continuidad ni a la identidad del pueblo.
 
-Los fondos benéficos y de subvención externos, cuando se reciben, pasan por un patrocinador fiscal independiente como receptor jurídico; las estructuras jurídicas de Earthlings no aceptan ni retienen tales fondos en nombre del pueblo.
+Las subvenciones y donaciones se aceptan conforme a las reglas de la Tesorería (documento «Tesorería», artículos 5 y 28); las operaciones en moneda fiduciaria pasan por una persona jurídica instrumental, que tributa de forma independiente en su jurisdicción. Cuando lo exige el otorgante de la subvención o la ley, la subvención puede recibirse a través de un patrocinador fiscal independiente.
 
 El modelo jurídico detallado está expuesto en el documento [Base jurídica](/documents/es/es04-base-juridica.html).
 
@@ -128,7 +128,7 @@ El Consejo no tiene derecho de veto sobre las decisiones de la DAO.
 
 Su autoridad es reputacional, y no formal.
 
-La creación del Consejo se considera la siguiente etapa institucional del desarrollo de Earthlings.
+El Consejo Independiente se constituye tras la adopción de la Declaración, a medida que crece el pueblo (documento «Consejo Independiente de los Earthlings»).
 
 El principio clave de formación del Consejo es que sus miembros deben ser personas que hayan estudiado a fondo el modelo Earthlings, y no figuras públicas invitadas exclusivamente por su condición o su prestigio.
 
@@ -144,7 +144,7 @@ Los detalles están expuestos en el documento [Base jurídica](/documents/es/es0
 
 ## Transparencia de la caja
 
-La caja on-chain del proyecto se custodia en un Safe Multisig de la red Polygon.
+La caja on-chain se custodia en un monedero Safe de la red Polygon; el umbral de firmas es por ahora de una (documento «Dónde estamos ahora»).
 
 Cada transacción está disponible para auditoría pública.
 
@@ -158,8 +158,8 @@ Cada transacción está disponible para auditoría pública.
 
 ## Verificación pública
 
-Toda la infraestructura institucional de Earthlings está disponible para su verificación pública.
+Lo enumerado a continuación se puede comprobar sin nosotros; qué está cerrado y dónde hay que confiar hoy en nosotros está señalado en el documento «Dónde estamos ahora».
 
 - Contrato inteligente SBT en Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
-- Caja Safe Multisig en Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
+- Monedero de la caja Safe en Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
 - Corpus documental: 25 documentos institucionales en nueve lenguas ([todos los documentos](/es/)).

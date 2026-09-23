@@ -2,7 +2,7 @@
 
 **Principios, arquitectura y gobierno en el sistema descentralizado del pueblo Earthlings**
 
-> El presente documento describe cómo está organizada la adopción colectiva de decisiones. Las reglas, umbrales, quórums y procedimientos están establecidos en la Carta de los Earthlings; el presente documento los explica y no los modifica. En caso de discrepancia se aplica la Carta, y en caso de discrepancia de la Carta con la Declaración, la Declaración.
+> El presente documento describe cómo está organizada la adopción colectiva de decisiones. Las reglas, umbrales, quórums y procedimientos están establecidos en la Carta de los Earthlings; el presente documento los explica y no los modifica. En caso de discrepancia se aplica la Carta, y en caso de discrepancia de la Carta con la Declaración, la Declaración. La Carta entra en vigor con la adopción de la Declaración (Carta, artículo 38); hasta entonces no existen ni la Asamblea DAO, ni los Core Nodes, ni el Emergency Multisig, ni el Consejo Independiente, y la única facultad discrecional del período constituyente respecto de los textos es la decisión del autor de la Declaración de incorporar propuestas al texto (documento «El período constituyente»).
 
 ---
 
@@ -20,7 +20,7 @@ A diferencia de los sistemas jerárquicos clásicos, DAO Earthlings se levanta s
 
 ### Transparencia
 
-Los procesos clave - desde las votaciones hasta la distribución de recursos - quedan fijados en registros verificables y, donde se requiere, en un registro distribuido. Las reglas están abiertas al análisis, y los resultados de las votaciones puede volver a comprobarlos de manera independiente cualquier participante o auditor externo. No hay procedimientos cerrados ni protocolos ocultos.
+Los procesos clave - desde las votaciones hasta la distribución de recursos - quedan fijados en registros verificables y, donde se requiere, en un registro distribuido. Las reglas están abiertas al análisis, y los resultados de las votaciones deben admitir que cualquier participante o auditor externo vuelva a comprobarlos de manera independiente (Carta, artículo 6). No hay procedimientos cerrados ni protocolos ocultos; con qué está asegurada hoy la verificación y qué le falta todavía se expone en el documento «Dónde estamos ahora».
 
 Con todo, la transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas: el voto personal es secreto, y los votos cedidos que emite el delegado son abiertos (sección 05).
 
@@ -30,7 +30,7 @@ Cada earthling dispone de un voto igual conforme al principio «una persona, un 
 
 **El voto es inalienable.** El derecho de voto no puede retirarse ni suspenderse por las opiniones, por el sentido del voto, por el desacuerdo con las decisiones o como medida general de responsabilidad (Declaración, artículo 4; Carta, artículos 17 y 37). Las medidas previstas en el artículo 22 de la Carta no afectan a los derechos de una persona: la única medida que recae sobre la persona es la advertencia, y no le quita nada; las demás recaen sobre un proyecto o una célula.
 
-La única excepción son los actos probados dirigidos a socavar la integridad de la votación misma: concierto, compra o venta de un voto, coacción a otros, elusión de la regla «una persona, un pasaporte» (Carta, artículo 22 bis). Las opiniones, el sentido del voto y el desacuerdo con las decisiones no son fundamento, sea cual sea su presentación.
+La única excepción son los actos probados dirigidos a socavar la integridad de la votación misma: concierto, compra o venta de un voto, coacción a otros, elusión de la regla «una persona, un pasaporte» (Carta, artículo 22 bis); la lista de estos fundamentos es cerrada y no es ampliable. Las opiniones, el sentido del voto y el desacuerdo con las decisiones no son fundamento, sea cual sea su presentación.
 
 ### Descentralización
 
@@ -84,7 +84,7 @@ Límites establecidos en el artículo 7 de la [Carta](https://earth-lings.org/do
 - **techo**: el 5 por ciento de los Earthlings, y no menos de 10 delegantes, por lo que la limitación del 5 por ciento solo empieza a vincular cuando el número supera los 200;
 - **una sola delegación activa por ámbito**: no cabe repetirla sin revocar la anterior;
 - **revocación en cualquier momento**: en un solo paso, sin motivos y sin el consentimiento del delegado;
-- **cuestiones sin delegación**: la modificación de la Carta y de las reglas básicas de la tesorería, la financiación de gran cuantía, la formación del Emergency Multisig, la limitación de facultades, la suspensión del derecho de voto y la anulación de la emisión de un pasaporte: en ellas se vota solo personalmente.
+- **cuestiones sin delegación**: la modificación de la Carta y de las reglas básicas de la tesorería, la financiación de más de 100 000 EC (Carta, artículo 5, recuadro «Umbrales de financiación»), la formación del Emergency Multisig, la limitación de facultades, la suspensión del derecho de voto, la anulación de la emisión de un pasaporte y la modificación de los principios intangibles: en ellas se vota solo personalmente.
 
 **Delegado puede ser cualquier earthling:** la única selección es la elección de quien delega.
 
@@ -128,9 +128,9 @@ Un dictamen público de expertos es un argumento en el debate, con el peso que l
 
 ## Apertura y secreto del voto
 
-El voto personal es secreto: la votación está organizada de modo que nadie, incluidos quienes operan la infraestructura, pueda saber cómo ha votado una persona concreta, ni cerciorarse de ello aun con su consentimiento. La participación de una persona concreta no se publica, el recuento parcial permanece oculto hasta el cierre, y hasta el cierre se puede volver a votar: se computa el último voto emitido.
+El voto personal es secreto: la votación debe estar organizada de modo que nadie, incluidos quienes operan la infraestructura, pueda saber cómo ha votado una persona concreta, ni cerciorarse de ello aun con su consentimiento. La participación de una persona concreta no se publica, el recuento parcial permanece oculto hasta el cierre, y hasta el cierre se puede volver a votar: se computa el último voto emitido. Todavía no existe un medio de votación secreta: se está eligiendo, y hoy estas reglas no se cumplen en todas partes: en el canal abierto de votaciones el voto y la dirección del monedero son públicos, y los votos emitidos en las células la plataforma los guarda junto con la cuenta de usuario (documento «Dónde estamos ahora»; Política de privacidad, sección 02).
 
-Son abiertos el debate, los actos de las instituciones y los votos cedidos que emite el delegado. El secreto no suprime la verificación: se publican la cuestión, el número de quienes tenían derecho a voto y el de votantes, el resultado y la **prueba del recuento**, a partir de la cual cualquier persona puede rehacer el recuento. El procedimiento está establecido en la [Carta, artículo 6](https://earth-lings.org/documents/es/es05-carta.html).
+Son abiertos el debate, los actos de las instituciones y los votos cedidos que emite el delegado. El secreto no suprime la verificación: la Carta exige publicar la cuestión, el número de quienes tenían derecho a voto y el de votantes, el resultado y la **prueba del recuento**, a partir de la cual cualquier persona puede rehacer el recuento. Hoy no hay prueba del recuento ni para la Asamblea ni para las células: aparecerá junto con el medio de votación secreta (documento «Dónde estamos ahora»). El procedimiento está establecido en la [Carta, artículo 6](https://earth-lings.org/documents/es/es05-carta.html).
 
 El secreto es un derecho de quien vota, y no una condición de validez del voto: la asistencia técnica que no determina el contenido del voto es admisible. Queda prohibido exigir que una persona muestre cómo ha votado, y cualquier remuneración a cambio de tal prueba es compra de un voto (Carta, artículo 22 bis).
 
@@ -154,15 +154,15 @@ Para las decisiones de gran alcance se fijan criterios de evaluación de los res
 
 ## Revisión y reversión
 
-Están previstos procedimientos de revisión de las decisiones que conducen a resultados inaceptables: reversión parcial, cambio de parámetros o anulación completa. **Anular o modificar una decisión solo puede hacerlo la Asamblea.** El Emergency Multisig puede suspender el funcionamiento de determinados contratos inteligentes ante una vulnerabilidad crítica o un ataque, pero tal acto exige un informe público en el plazo de 48 horas y la confirmación de la Asamblea en el plazo de 7 días; de lo contrario queda anulado.
+Están previstos procedimientos de revisión de las decisiones que conducen a resultados inaceptables: reversión parcial, cambio de parámetros o anulación completa. **Anular o modificar una decisión solo puede hacerlo la Asamblea.** El Emergency Multisig puede suspender el funcionamiento de determinados contratos inteligentes ante una vulnerabilidad crítica o un ataque. El fundamento lo acredita él mismo - de lo contrario la urgencia perdería su sentido - y lo comprueba la Asamblea: tal acto exige un informe público en el plazo de 48 horas y la confirmación de la Asamblea en el plazo de 7 días; de lo contrario queda anulado.
 
 ## Protección frente a la concentración de influencia
 
-**Techo de delegación.** Ningún participante puede tener más del 5 por ciento de los votos delegados; el techo no baja en ningún caso de 10 delegantes; la autodelegación es imposible; las cadenas están prohibidas. Eso traduce el principio «sin partidos ni facciones» de una declaración a una limitación cuantitativa verificable.
+**Techo de delegación.** Ningún participante puede tener más votos delegados que el 5 por ciento de los Earthlings, y el techo no baja en ningún caso de 10 delegantes; la autodelegación es imposible, las cadenas están prohibidas. Eso convierte el principio «sin partidos ni facciones» de declaración en limitación cuantitativa verificable.
 
 **Revocabilidad instantánea.** La delegación no constituye cargo y se revoca en un solo paso. La influencia acumulada puede desaparecer en un minuto sin autorización de nadie: esa es la protección principal, más eficaz que cualquier rotación.
 
-**Rotación y revocación de los elegidos.** Los Core Nodes rotan cada 6 meses; el Emergency Multisig se renueva en no menos de dos personas en cada rotación. Ambas estructuras se revocan por mayoría simple en cualquier momento, con el mismo umbral con el que se eligen: retirar un encargo no puede ser más difícil que otorgarlo.
+**Rotación y revocación de los elegidos.** Los Core Nodes rotan cada 6 meses; el Emergency Multisig, cada 12 meses, y en cada una de sus rotaciones se renueva en no menos de dos personas. Ambas estructuras se revocan por mayoría simple en cualquier momento, con el mismo umbral con el que se eligen: retirar un encargo no puede ser más difícil que otorgarlo.
 
 **Control de los conflictos de intereses.** Declaración obligatoria y abstención en las votaciones sobre distribución de fondos (sección 11).
 
@@ -200,7 +200,7 @@ La infraestructura digital y los procedimientos previsibles permiten adoptar dec
 
 La DAO no pretende sustituir a los Estados ni obtener soberanía política. Actúa como un nivel adicional de coordinación allí donde las instituciones estatales objetivamente no abarcan la actividad transnacional: iniciativas globales, proyectos en red, programas de investigación y humanitarios distribuidos.
 
-En perspectiva, el pueblo Earthlings puede aspirar a formatos consultivos de participación ante las organizaciones internacionales - a través de una persona jurídica soporte, como está organizado para los pueblos por todas partes -, interviniendo **en nombre de quienes se han adherido a él**, y no en nombre de la sociedad civil transnacional en su conjunto ni como Estado.
+Más adelante, el pueblo Earthlings podrá aspirar a formatos consultivos de participación ante las organizaciones internacionales - a través de una persona jurídica de soporte, como lo hacen las organizaciones de pueblos indígenas y de diásporas -, interviniendo **en nombre de quienes se han adherido a él**, y no en nombre de la sociedad civil transnacional en su conjunto ni como Estado.
 
 ---
 
@@ -274,12 +274,12 @@ Ante fallos técnicos, la prioridad es restablecer el estado correcto y, si es n
 
 La DAO se apoya en la minimización de los datos recabados y en la protección de la confidencialidad de los participantes conforme a los estándares internacionales.
 
-**Datos en el registro distribuido.** Las votaciones, transacciones y decisiones se fijan empleando identificadores seudónimos y métodos criptográficos. No se conserva un vínculo permanente «asiento - identidad»; la verificación de identidad la realiza el sistema propio del pueblo, sin proveedores externos. El vínculo entre el voto personal y quien vota no se revela a nadie, conservando la verificabilidad del recuento; solo son abiertos los votos cedidos que emite el delegado.
+**Datos en el registro distribuido.** Las votaciones, transacciones y decisiones se hacen constar mediante identificadores seudónimos y métodos criptográficos. En el propio registro no se conserva el vínculo «asiento - identidad»: en él figura un identificador seudónimo del participante, y el vínculo con los datos de la verificación de identidad lo lleva el sistema propio del pueblo, que funciona sin proveedores externos. Cuando se haya elegido el medio de votación secreta, el vínculo entre el voto personal y quien vota no se revelará a nadie, conservando la verificabilidad del recuento; solo son abiertos los votos cedidos que emite el delegado.
 
 **Datos personales.** La verificación de identidad y la comprobación del documento las realiza el sistema propio conforme al RGPD y a la demás legislación aplicable. El pueblo y la DAO no conservan fotografías, escaneos, nombres reales ni plantillas biométricas: la biometría se trata en el momento de la comprobación y no se conserva. Qué se conserva exactamente para impedir un registro repetido está en la [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html). Los datos de la cuenta - correo electrónico, seudónimo, ajustes - se tratan en el volumen mínimo.
 
 **Minimización.** Se recaban únicamente los datos necesarios para el funcionamiento de los procedimientos de votación, de autenticación y de la interfaz. No se emplean para elaborar perfiles de manera encubierta, para venderlos a terceros ni para monetización comercial.
 
-**Su control.** Usted puede solicitar el acceso, la rectificación o la supresión de los datos personales tratados por la plataforma. Los asientos del registro distribuido son inmutables por definición técnica, y precisamente por eso no contienen datos personales: allí hay direcciones seudónimas y marcas de actos. En las presentaciones analíticas y públicas, tales asientos se emplean solo de forma anonimizada o agregada.
+**Su control.** Usted puede solicitar el acceso, la rectificación o la supresión de los datos personales tratados por la plataforma. Los asientos del registro distribuido son inmutables por definición técnica, y precisamente por eso el nombre, el documento, la biometría y los hashes de la verificación no se inscriben en ellos en el momento de la emisión. En la emisión se inscriben en el registro la dirección del monedero, el número del asiento del pasaporte, el identificador del participante por el que el asiento queda vinculado a los datos del sistema de verificación de identidad, y la hora de la emisión; en el campo del seudónimo se inscribe en la emisión una sola palabra, «Earthling», y en el campo del hash de la verificación, un valor aleatorio no relacionado con los datos de la verificación; la emisión y la destrucción dejan marcas en el registro. Son datos seudónimos que nosotros tenemos vinculados a su cuenta de usuario. En las presentaciones analíticas y públicas, tales asientos se emplean solo de forma anonimizada o agregada.
 
 **Seguridad por arquitectura.** La protección se asegura combinando criptografía, infraestructura distribuida y minimización de datos. La lógica clave no se apoya en un único punto crítico, lo que reduce los riesgos de intrusión o de incautación de la infraestructura con un solo acto.

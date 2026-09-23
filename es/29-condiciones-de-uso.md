@@ -27,7 +27,7 @@ Las presentes condiciones describen cómo se relacionan entre sí los participan
 
 **Transparencia.** Cada regla se explica. No hay cláusulas en letra pequeña.
 
-Si algo no está claro o resulta inaceptable, escríbanos. Las propuestas de modificación de estas Condiciones se someten a votación de la Asamblea.
+Si algo no está claro o resulta inaceptable, escríbanos. Tras la adopción de la Declaración, las propuestas de modificación de estas Condiciones se someten a votación de la Asamblea y, antes de la adopción, decide sobre ellas el autor de la Declaración en la forma prevista en el documento «El período constituyente» (parte 2, apartado 2).
 
 ---
 
@@ -60,7 +60,7 @@ Estos valores están encarnados en la arquitectura, y no solo declarados.
 **Edad** - haber cumplido 18 años.
 **Firma** de la Declaración Earthlings.
 **Verificación de identidad** mediante el sistema propio del pueblo.
-No existen otras condiciones de pertenencia. **La cuota única** - el equivalente a 79 USD - cubre la verificación de identidad, la emisión del pasaporte y el sostenimiento de la infraestructura, y no es condición de pertenencia. Quien no pueda abonarla por sí mismo puede entrar en una cola abierta, y su cuota puede abonarla otra persona o la Tesorería, pero no hay garantía de ello; no se prevé exención de la cuota, que se abona íntegra en todo caso (Carta, artículo 12 bis).
+No existen otras condiciones de pertenencia. **La cuota única** - el equivalente a 79 USD - cubre la verificación de identidad, la emisión del pasaporte y el sostenimiento de la infraestructura, y no es condición de pertenencia. Quien no pueda abonarla por sí mismo podrá, cuando la entrada sea de pago, entrar en una cola abierta, y su cuota podrá abonarla otra persona o la Tesorería, pero no hay garantía de ello; no se prevé exención de la cuota, que se abona íntegra en todo caso (Carta, artículo 12 bis).
 
 **Qué da:** pasaporte, derecho de voto, participación en las células, acceso a la infraestructura.
 
@@ -84,7 +84,7 @@ No existen otras condiciones de pertenencia. **La cuota única** - el equivalent
 
 Usted responde de la custodia de la contraseña y de las claves criptográficas, de los actos realizados desde su cuenta y de avisar al soporte si sospecha que ha sido comprometida.
 
-**No podemos recuperar unas claves perdidas.** No están en nuestro poder en forma alguna. Es la otra cara de que nadie pueda disponer de su pasaporte en su lugar.
+**No podemos recuperar unas claves perdidas.** No están en nuestro poder en forma alguna. Es la otra cara de que no tengamos sus claves; nadie tiene derecho a destruir el pasaporte en su lugar pero, mientras los derechos del propietario del contrato no se hayan traspasado a una firma múltiple, la emisión y la destrucción del pasaporte están técnicamente al alcance de una sola clave (documento «Dónde estamos ahora»).
 
 ## Límites: qué es posible y qué no
 
@@ -94,7 +94,7 @@ Usted responde de la custodia de la contraseña y de las claves criptográficas,
 
 **El derecho de voto** puede suspenderse **únicamente** por socavamiento probado de la integridad de la votación misma - concierto, compra o venta de un voto, coacción a otros, intento de eludir la regla «una persona, un pasaporte» -, por un plazo de hasta 6 meses y por el procedimiento del artículo 22 bis de la Carta. Las opiniones, el sentido del voto y el desacuerdo con las decisiones no son fundamento, sea cual sea su presentación.
 
-**Qué puede hacer la administración sin decisión de la Asamblea.** Solo dos cosas. La primera: suspender el acceso a una cuenta ante indicios manifiestos de que ha sido comprometida o de un ataque técnico, con aviso inmediato al participante y examen posterior por la Asamblea; es una protección de su cuenta, no una medida de responsabilidad, y no afecta a los derechos del participante. La segunda: suspender la cuenta si se llega a saber que se ha registrado una persona que no ha cumplido 18 años (Política de privacidad, sección 10); en ese caso el pasaporte lo destruye su propio titular o se destruye por la vía de la anulación de una emisión inválida (Carta, artículo 21).
+**Qué puede hacer la administración sin decisión de la Asamblea.** Solo dos cosas. La primera: suspender el acceso a una cuenta ante indicios manifiestos de que ha sido comprometida o de un ataque técnico, con aviso inmediato al participante y examen posterior por la Asamblea. Hasta la adopción de la Declaración, mientras no hay Asamblea, la suspensión se levanta en cuanto los indicios de compromiso o de ataque se han subsanado. Es una protección de su cuenta, no una medida de responsabilidad, y no afecta a los derechos del participante. La segunda: suspender la cuenta si se llega a saber que se ha registrado una persona que no ha cumplido 18 años (Política de privacidad, sección 10), comunicando a la persona los fundamentos y el plazo para objetar y dando respuesta a las objeciones (Declaración, artículo 4); hasta la adopción de la Declaración no hay órgano ante el que recurrir; en ese caso el pasaporte lo destruye su propio titular o se destruye por la vía de la anulación de una emisión inválida (Carta, artículo 21), y el documento temporal de participante en la constitución, hasta la adopción de la Declaración, en la forma prevista en el documento «El período constituyente» (parte 2, apartado 5).
 
 ---
 
@@ -124,7 +124,7 @@ Usted responde de la custodia de la contraseña y de las claves criptográficas,
 1. intente resolver la cuestión directamente;
 2. con el consentimiento de la otra parte, acuda a una persona mediadora independiente: sin el consentimiento de ambas partes no hay mediación;
 3. las controversias graves se remiten al Consejo Independiente; hasta que el Consejo se constituya, esta fase se omite y los plazos de debate se duplican (Carta, artículo 39);
-4. en casos extremos - si la mediación no ha llevado a una solución y la controversia afecta a los intereses de la comunidad o exige una decisión de principio -, cualquiera de las partes puede elevar la cuestión a la Asamblea.
+4. en casos extremos - si la mediación no ha llevado a una solución o si la otra parte no ha consentido en ella, y la controversia afecta a los intereses de la comunidad o exige una decisión de principio -, cualquiera de las partes puede elevar la cuestión a la Asamblea.
 
 ---
 
@@ -154,7 +154,7 @@ Ante una reclamación fundada, el material controvertido se retira, y su autor r
 
 Un identificador digital intransmisible de la pertenencia al pueblo, que existe en un registro distribuido.
 
-**Qué da:** acreditación de la condición, derecho de voto, acceso a la infraestructura, participación en las células.
+**Qué da:** acreditación de la condición y del derecho de voto, acceso a la infraestructura, participación en las células.
 
 **Qué no da:** nacionalidad, derecho de entrada en países, sustitución de un pasaporte nacional, condición oficial ante instituciones estatales, rendimiento.
 
@@ -164,7 +164,7 @@ Un identificador digital intransmisible de la pertenencia al pueblo, que existe 
 
 **Intransmisibilidad.** El pasaporte no se puede vender, ceder, regalar ni heredar; la cesión está bloqueada en el propio contrato.
 
-**Inmutabilidad.** El asiento no se puede falsificar ni alterar sin que se advierta.
+**Inmutabilidad.** El asiento no se puede alterar sin que quede constancia de ello.
 
 **Privacidad.** El hecho de tener pasaporte es visible en el registro; sus datos personales, no.
 
@@ -172,7 +172,7 @@ Un identificador digital intransmisible de la pertenencia al pueblo, que existe 
 
 Usted destruye el pasaporte con su propia clave. Nadie puede impedirlo, incluido el fundador.
 
-La Carta (artículo 21) establece dos y solo dos casos en los que el pasaporte lo destruye una persona distinta de su titular: la anulación de una emisión inválida por decisión de la Asamblea con derecho de defensa y recurso; y la reemisión técnica a solicitud del propio titular. Contra la voluntad de su titular el pasaporte solo se destruye en el primer caso. El fallecimiento del titular no es fundamento de destrucción: la pertenencia cesa por sí misma y el pasaporte permanece en el registro. Los detalles están en el documento [Pasaporte SBT earthling](https://earth-lings.org/documents/es/es15-pasaporte-sbt.html).
+La Carta (artículo 21) establece dos y solo dos casos en los que el pasaporte lo destruye una persona distinta de su titular: la anulación de una emisión inválida por decisión de la Asamblea con derecho de defensa y recurso; y la reemisión técnica a solicitud del propio titular. Contra la voluntad de su titular el pasaporte solo se destruye en el primer caso. Hasta la adopción de la Declaración no hay Asamblea (Carta, artículo 38), y el documento temporal de participante en la constitución se destruye contra la voluntad de su titular en la forma prevista en el documento «El período constituyente» (parte 2, apartado 5). El fallecimiento del titular no es fundamento de destrucción: la pertenencia cesa por sí misma y el pasaporte permanece en el registro. Los detalles están en el documento [Pasaporte SBT earthling](https://earth-lings.org/documents/es/es15-pasaporte-sbt.html).
 
 ---
 
@@ -202,7 +202,7 @@ El cumplimiento de la legislación de su país en materia de activos digitales; 
 
 ## Cómo funciona
 
-La Asamblea DAO es el **único órgano que adopta decisiones vinculantes**. Todas las demás estructuras prestan apoyo técnico o formulan recomendaciones.
+La Asamblea DAO es el **único órgano que adopta decisiones vinculantes**. Todas las demás estructuras prestan apoyo técnico o formulan recomendaciones. La Carta entra en vigor con la adopción de la Declaración (Carta, artículo 38); hasta entonces no existen ni la Asamblea DAO, ni los Core Nodes, ni el Emergency Multisig, ni el Consejo Independiente, y la única facultad discrecional del período constituyente respecto de los textos es la decisión del autor de la Declaración de incorporar propuestas al texto (documento «El período constituyente»).
 
 1. **Propuesta.** Cualquier participante presenta una propuesta. No se requieren aprobación previa, recogida de firmas ni umbral de apoyo.
 2. **Debate.** La propuesta se debate públicamente, se precisa y se mejora.
@@ -224,7 +224,7 @@ Todo lo sustancial: la modificación de la Carta y de las reglas; la distribuci�
 
 ## Situaciones especiales
 
-Ante ataques críticos, el Emergency Multisig puede actuar de inmediato, y ante vulnerabilidades críticas, suspender de inmediato los contratos inteligentes vulnerables; sus demás actos requieren el bloqueo temporal de 24 horas (Carta, artículo 3), con informe público en el plazo de 48 horas y confirmación de la Asamblea en el plazo de 7 días; de lo contrario el acto queda anulado. Cualquier acto puede ser anulado por la Asamblea por mayoría simple.
+Ante ataques críticos, el Emergency Multisig puede actuar de inmediato, y ante vulnerabilidades críticas, suspender de inmediato los contratos inteligentes vulnerables; sus demás actos requieren el bloqueo temporal de 24 horas (Carta, artículo 3). De cada acto se publica un informe en el plazo de 48 horas, y la Asamblea lo confirma en el plazo de 7 días; de lo contrario el acto queda anulado. Cualquier acto puede ser anulado por la Asamblea por mayoría simple.
 
 El abuso conlleva la revocación por mayoría simple en cualquier momento.
 

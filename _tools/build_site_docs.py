@@ -262,6 +262,9 @@ SLUGS = {
     'es': {
         '01': 'declaracion',
         '02': 'voz-ciudadana',
+        '02a': 'recuento-roto',
+        '02b': 'influencia-sin-facultades',
+        '02c': 'instrumento-y-pueblo',
         '03': 'etica',
         '04': 'base-juridica',
         '05': 'carta',
@@ -929,6 +932,24 @@ OVERRIDES_ES = {
            'og_description':
            'Lo roto es el recuento, no el canal. Qué significa y qué hacen los '
            'Earthlings al respecto.'},
+    '02a': {'description':
+            'Cinco averías de la voz ciudadana, el caso de los dieciocho millones de '
+            'comentarios falsos y la aritmética por la que una mayoría dispersa pierde '
+            'ante una minoría organizada.',
+            'og_description':
+            'Un anexo de Voz ciudadana: por qué el recuento está roto.'},
+    '02b': {'description':
+            'Seis casos en los que las personas no tenían facultad alguna y aun así se '
+            'contó con ellas, y las dos experiencias que más se han acercado a unir la '
+            'profundidad con la escala.',
+            'og_description':
+            'Un anexo de Voz ciudadana: influencia sin facultades.'},
+    '02c': {'description':
+            'Cinco razones por las que una medición verificable de la voluntad común no '
+            'puede prescindir de un pueblo, el caso del mayor proyecto construido sin él '
+            'y nueve maneras en que todo esto puede no llegar a producirse.',
+            'og_description':
+            'Un anexo de Voz ciudadana: por qué hace falta un pueblo.'},
     '03': {'description': _OFFICIAL_ES % 'La ética de los Earthlings'},
     '04': {'description':
            'La base jurídica del pueblo Earthlings: la libertad de asociación, el derecho '
@@ -1395,9 +1416,9 @@ LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
                 # тех пор страницы приложений в этих языках не собираются, и
                 # ссылок на них там нет: документ 02 в них прежней,
                 # несокращённой редакции, и выносить из него нечего.
-                '02a': ['de', 'en', 'ru'],
-                '02b': ['de', 'en', 'ru'],
-                '02c': ['de', 'en', 'ru'],
+                '02a': ['de', 'en', 'es', 'ru'],
+                '02b': ['de', 'en', 'es', 'ru'],
+                '02c': ['de', 'en', 'es', 'ru'],
                 '20': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
                 '32': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']}
 

@@ -2,7 +2,7 @@
 
 **Guía práctica**
 
-> El presente documento describe el procedimiento de adhesión y de cambio de condición. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/es/es05-carta.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración.
+> El presente documento describe el procedimiento de adhesión y de cambio de condición. En caso de discrepancia se aplica la [Carta](https://earth-lings.org/documents/es/es05-carta.html), y en caso de discrepancia de la Carta con la [Declaración](https://earth-lings.org/documents/es/es01-declaracion.html), la Declaración. En el período constituyente - desde el 22 de octubre de 2026 hasta la adopción de la Declaración - la firma de la Declaración y la adhesión al pueblo están suspendidas: un pueblo definido por un texto adoptado todavía no existe. La verificación de identidad en ese período se realiza gratuitamente y, como resultado, se entrega un documento temporal de participante en la constitución, y no un pasaporte (documento «El período constituyente», parte 2, apartado 5). El documento temporal se emite en el mismo contrato que el pasaporte (documento «Dónde estamos ahora»). Más abajo se describe el régimen principal, que comenzará tras la adopción de la Declaración.
 
 ---
 
@@ -18,15 +18,15 @@ No existen otras condiciones. La adscripción étnica, la raza, la religión, el
 
 **La cuota única** - el equivalente a 79 USD - cubre la verificación de identidad, la emisión del pasaporte y el sostenimiento de la infraestructura. No es condición de pertenencia.
 
-> **Si usted no puede abonar la cuota**, puede entrar en una cola abierta, y la cuota puede abonarla por usted otra persona o la Tesorería; no hay garantía de ello. De eso trata la sección 9. No hará falta demostrar ni explicar nada. La cuota no compra la pertenencia al pueblo: esta nace al firmar la Declaración.
+> **Si usted no puede abonar la cuota**, cuando la entrada sea de pago podrá entrar en una cola abierta, y su cuota podrá abonarla otra persona o la Tesorería; no hay garantía de ello. De eso trata la sección 9. No hará falta demostrar ni explicar nada. La cuota no compra la pertenencia al pueblo: esta nace al firmar la Declaración.
 
 ---
 
 ## 2. Seis pasos
 
-**1. Lectura.** Lea la Declaración, las Condiciones de uso y la Política de privacidad. Todos los documentos están abiertos antes de adherirse y no exigen nada a cambio de leerlos.
+**1. Lectura.** Lea la Declaración, las Condiciones de uso, la Política de privacidad y la Política de verificación biométrica. Todos los documentos son accesibles antes de la adhesión y para leerlos no se exige nada.
 
-**2. Registro.** Correo electrónico, país de residencia, seudónimo o nombre a su elección.
+**2. Registro.** Correo electrónico (se confirma con un código), país de residencia, nombre y apellidos en alfabeto latino tal como figuran en el documento (hacen falta para cotejarlos con él) y un nombre público: un seudónimo o un nombre a su elección.
 
 **3. Verificación de identidad.** Escaneo del rostro y cotejo con un documento acreditativo de la identidad.
 
@@ -64,7 +64,7 @@ Esto importa saberlo antes de pagar, y no después.
 - **no afecta a la nacionalidad, a los impuestos ni al fuero**: todo queda como estaba;
 - **no da rendimiento** y no es una inversión financiera.
 
-Dentro del pueblo el pasaporte lo da todo: voto igual, participación en las decisiones, pertenencia inalienable. Fuera de él, la discernibilidad jurídica del pueblo apenas se está acumulando, con la práctica, el tiempo y el número de participantes.
+Dentro del pueblo usted lo tiene todo: voto igual, participación en las decisiones, pertenencia inalienable; nacen al firmar la Declaración, y el pasaporte los acredita. Fuera de él, la discernibilidad jurídica del pueblo apenas se está acumulando, con la práctica, el tiempo y el número de participantes.
 
 ---
 
@@ -75,7 +75,7 @@ Dentro del pueblo el pasaporte lo da todo: voto igual, participación en las dec
 - participar de buena fe en las votaciones;
 - actuar con transparencia en la realización de los proyectos y rendir cuentas del uso de los fondos comunes.
 
-Son deberes, y no condiciones para conservar su condición de earthling: infringirlos no acarrea ni expulsión ni pérdida del voto. Por infracciones graves hay una sola medida que recae sobre la persona: la advertencia, y no le quita nada, ni el voto, ni el derecho a presentar propuestas, ni la participación en las células, ni el acceso a los servicios, ni otra cosa alguna. Las demás recaen sobre un proyecto o una célula: el pueblo puede dejar de destinar los fondos comunes y retirar su nombre, y eso no afecta a los derechos de una persona ([Carta, artículo 22](https://earth-lings.org/documents/es/es05-carta.html)).
+Son deberes, y no condiciones para conservar su condición de earthling: infringirlos no acarrea ni expulsión ni pérdida del voto. Por infracciones graves hay una sola medida que recae sobre la persona: la advertencia, y no le quita nada, ni el voto, ni el derecho a presentar propuestas, ni el derecho a crear células y a entrar en ellas, ni el acceso a los servicios, ni otra cosa alguna. Las demás recaen sobre un proyecto o una célula: el pueblo puede dejar de destinar fondos comunes al proyecto y retirarle su respaldo nominal, y eso no afecta a los derechos de una persona ([Carta, artículo 22](https://earth-lings.org/documents/es/es05-carta.html)).
 
 ---
 
@@ -85,9 +85,9 @@ Son deberes, y no condiciones para conservar su condición de earthling: infring
 
 **Suspendida.** Una pausa **por decisión suya**. El pasaporte se conserva, el derecho de voto lo suspende usted mismo, las unidades de cuenta permanecen en el monedero, el acceso a la información se conserva. El plazo máximo es de 12 meses. La reanudación se hace con una declaración desde el área personal, y no se requiere una nueva verificación de identidad.
 
-**Inactiva.** Se asigna de manera automática si usted no ha realizado ninguna acción durante 12 meses y no ha respondido a la consulta. El pasaporte se conserva, **el derecho de voto se conserva íntegramente** y puede ejercerse en cualquier momento; su voto solo deja de computarse al calcular el quórum, para no elevar sus exigencias para los demás. Con la primera acción, la condición se restablece de manera automática.
+**Inactiva.** Se asigna de manera automática si usted no ha realizado ninguna acción durante 12 meses y no ha respondido a la consulta. El pasaporte se conserva, **el derecho de voto se conserva íntegramente** y puede ejercerse en cualquier momento; el earthling inactivo no entra en el número sobre el que se calcula el quórum, para no elevar las exigencias a los demás. Con la primera acción, la condición se restablece de manera automática.
 
-**Salida.** Declaración desde el área personal y después una pausa de 72 horas por defecto, protección frente a una decisión impulsiva a la que usted puede renunciar. A continuación destruye el pasaporte **con su propia clave**: el servidor no guarda sus claves y no puede ni impedir la salida ni realizarla en su lugar. La salida surte efecto desde el momento de la destrucción.
+**Salida.** Solicitud de salida desde el área personal y después una pausa de 72 horas por defecto, como protección frente a una decisión impulsiva; usted puede renunciar a esa pausa. A continuación destruye el pasaporte **con su propia clave**: el servidor no guarda sus claves y no puede impedir la salida; nadie tiene derecho a destruir el pasaporte en su lugar pero, mientras los derechos del propietario del contrato no se hayan traspasado a una firma múltiple, la emisión y la destrucción del pasaporte están técnicamente al alcance de una sola clave (documento «Dónde estamos ahora»). La salida surte efecto desde el momento de la destrucción y, si no hay pasaporte en vigor, al concluir la pausa o desde el momento en que usted ha renunciado a ella.
 
 **Regreso.** Se puede volver en cualquier momento pasando de nuevo el procedimiento estándar: la verificación de identidad y la cuota que cubre su coste. El pasaporte anterior destruido no impide el regreso.
 

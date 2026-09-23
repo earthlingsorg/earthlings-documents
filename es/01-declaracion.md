@@ -294,7 +294,7 @@ La presente Declaración se adopta en lengua rusa y en lengua inglesa. Ambos tex
 
 La presente Declaración fue adoptada el \_\_\_\_\_\_\_\_\_\_ mediante votación de las personas que habían verificado su identidad, conforme al principio «una persona, un voto». La votación se celebró sobre los textos ruso e inglés, reconocidos como igualmente auténticos.
 
-A favor de la adopción se emitieron \_\_\_\_\_\_ votos de los \_\_\_\_\_\_ emitidos, con \_\_\_\_\_\_ personas verificadas el día del cierre de la recepción de propuestas.
+A favor de la adopción se emitieron \_\_\_\_\_\_ votos de los \_\_\_\_\_\_ emitidos, siendo \_\_\_\_\_\_ el número total de personas verificadas a fecha de la votación.
 
 Desde ese día el pueblo Earthlings queda constituido, y quienes han firmado la presente Declaración son earthlings.
 

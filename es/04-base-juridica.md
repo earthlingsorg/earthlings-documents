@@ -18,7 +18,7 @@ En caso de discrepancia entre el presente documento y la Declaración se aplica 
 
 Para que el lector vea desde el principio qué se afirma y qué no.
 
-**Primera.** Las normas en las que nos apoyamos están vigentes hoy: la libertad de asociación (artículo 20 de la Declaración Universal de Derechos Humanos, artículo 22 del Pacto Internacional de Derechos Civiles y Políticos, artículo 11 del Convenio Europeo) y el derecho de libre determinación de los pueblos (artículo 1.2 de la Carta de las Naciones Unidas, artículo 1 común de los Pactos de 1966). Los tratados que las consagran son obligatorios para los Estados partes. Ninguna de ellas está inventada ni propuesta «para el futuro».
+**Primera.** Las normas en las que nos apoyamos están vigentes hoy: la libertad de asociación (artículo 20 de la Declaración Universal de Derechos Humanos, artículo 22 del Pacto Internacional de Derechos Civiles y Políticos, artículo 11 del Convenio Europeo) y el derecho de libre determinación de los pueblos (artículo 1 común de los Pactos de 1966; como principio está consagrado en la Carta de las Naciones Unidas, artículo 1.2). Los Pactos de 1966 y el Convenio Europeo son obligatorios para los Estados partes; la Declaración Universal de Derechos Humanos fue adoptada por la resolución A/RES/217(III)A de la Asamblea General y por sí misma no tiene fuerza obligatoria, pero sus disposiciones han pasado a los tratados y a la práctica de los Estados. Ninguna de ellas está inventada ni propuesta «para el futuro».
 
 **Segunda.** **La exigencia de un territorio como condición de la existencia de un pueblo no figura en ninguna norma obligatoria.** Ni en la Carta, ni en el artículo 1 común de los Pactos, ni en convenio alguno. Es más: no existe en absoluto una definición de pueblo, y así se ha constatado en un documento oficial de la Organización de las Naciones Unidas.
 
@@ -86,7 +86,7 @@ La tarea de la iniciativa no es usurpar la voz de la humanidad, sino crear un me
 
 Aquí la exactitud importa más que una impresión favorable.
 
-**El pueblo definido por un texto adoptado todavía no existe.** La Declaración existe como versión inicial y aún no es un acto constitutivo. La firma de la Declaración y la adhesión al pueblo están suspendidas mientras dura el período constituyente. **La infraestructura, con todo, está construida y funciona**: verificación de la identidad, pasaporte, registro, votación, caja pública. Lo que falta es la adopción del texto constitutivo, no los medios.
+**El pueblo definido por un texto adoptado todavía no existe.** La Declaración existe como versión inicial y aún no es un acto constitutivo. La firma de la Declaración y la adhesión al pueblo están suspendidas mientras dura el período constituyente. **La infraestructura, con todo, está construida y funciona**: verificación de la identidad, pasaporte, registro, votación, caja común; el medio de votación secreta se está eligiendo y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). Lo que falta principalmente es un texto constitutivo adoptado.
 
 El procedimiento de constitución está establecido y publicado de antemano:
 
@@ -99,7 +99,7 @@ Hasta el día de la adopción, quien ha verificado su identidad es **participant
 
 **Dos consecuencias para el presente documento.**
 
-La primera, desfavorable: en todos los lugares en que más abajo se describen rasgos que dependen del número, de la composición y de la práctica acumulada, se habla de la construcción y de su capacidad de diseño, y no de un estado alcanzado. No hay participantes, no hay práctica, el acto constitutivo no está adoptado.
+La primera, desfavorable: en todos los lugares en que más abajo se describen rasgos que dependen del número, de la composición y de la práctica acumulada, se habla de la construcción y de su capacidad de diseño, y no de un estado alcanzado. Todavía no hay ni un solo earthling, no hay práctica, el acto constitutivo no está adoptado.
 
 La segunda, sustancial para la valoración jurídica. Habitualmente el texto constitutivo de una comunidad se escribe antes de que ella aparezca, y la adhesión se reduce a estar de acuerdo con un documento ya hecho. Aquí el orden es el inverso: el texto se somete a votación de personas cada una de las cuales está verificada como una sola persona viva, las propuestas se aceptan de cualquiera y se publican junto con las respuestas. **La voluntad colectiva no se presume ni se reconstruye: la produce un procedimiento y queda en un asiento verificable.**
 
@@ -191,7 +191,7 @@ Corregir el derecho internacional es cosa de los Estados. El pueblo Earthlings h
 
 **La composición.** Se sabe quién forma parte del pueblo: detrás de cada participante hay una sola persona viva, y está verificado. No por un censo, ni por la costumbre, ni por una ley ajena, sino de manera verificable y en cualquier momento.
 
-**El procedimiento.** Existe un modo por el que la voluntad se convierte en voluntad común: una votación en la que una persona es un voto, en la que el voto no se puede comprar, acumular ni ceder de manera irrevocable. La primera aplicación de ese procedimiento será la adopción del propio texto constitutivo.
+**El procedimiento.** Existe un modo por el que la voluntad se convierte en voluntad común: una votación en la que una persona es un voto, en la que el voto no se puede comprar ni acumular, ni cederse de manera irrevocable. La primera aplicación de ese procedimiento será la votación sobre la adopción del propio texto constitutivo.
 
 **El asiento.** La composición del pueblo y los resultados de las votaciones están abiertos a la verificación por cualquier persona, sin confiar en el operador de la infraestructura.
 
@@ -229,7 +229,7 @@ La afirmación de que «por primera vez en la historia se expide un documento de
 | Quién puede verificar | El órgano que lleva el censo | Cualquiera |
 | Puede retirarse | Sí, por decisión de un órgano | Por derecho, no; los fundamentos y el procedimiento están limitados de manera exhaustiva |
 
-La salvedad a la última fila la hacemos nosotros mismos: los fundamentos jurídicos de la destrucción del pasaporte contra la voluntad de su titular se reducen a uno solo - la anulación de una emisión inválida en los casos cuya lista cerrada figura en el artículo 8 de la Declaración, con notificación, plazo para objetar y recurso -, pero en la versión desplegada del contrato se conserva la posibilidad técnica de destruir un pasaporte para quien tenga las claves del propietario: la limitación del artículo 21 de la Carta rige por ahora de manera procedimental y no técnica. La separación de los derechos de emisión y de destrucción está incorporada a la hoja de ruta.
+La salvedad a la última fila la hacemos nosotros mismos: los fundamentos jurídicos de la destrucción del pasaporte contra la voluntad de su titular se reducen a uno solo - la anulación de una emisión inválida en los casos cuya lista cerrada figura en el artículo 8 de la Declaración, con notificación, plazo para objetar y recurso -, pero en la versión desplegada del contrato subsiste la posibilidad técnica de que quien disponga de las claves del propietario destruya un pasaporte: la limitación del artículo 21 de la Carta es procedimental y no técnica; hasta la adopción de la Declaración no existen ni el Consejo ni la Asamblea (Carta, artículo 38), y el documento temporal de participante en la constitución se destruye contra la voluntad de su titular en la forma prevista en el documento «El período constituyente» (parte 2, apartado 5). La separación de los derechos de emisión y de destrucción está incorporada a la hoja de ruta.
 
 La afirmación exacta suena así: los documentos de pertenencia a un pueblo existen, pero todos ellos acreditan una pertenencia derivada de la descendencia y reconocida por el Estado. Por primera vez la pertenencia se acreditará con un documento expedido por el propio pueblo, no ligado ni al territorio ni a la descendencia, que nace por decisión de la propia persona y que puede verificar cualquiera.
 
@@ -317,7 +317,7 @@ Esta línea es coherente, y la aducimos nosotros mismos. Pero establece exactame
 
 **Cuarto. La práctica de los últimos años ha separado la condición del territorio en otra dirección.** El 9 de noviembre de 2023 Australia y Tuvalu firmaron el Tratado de Unión Falepili (en vigor desde el 28 de agosto de 2024); su artículo 2 recoge el reconocimiento por las partes de que la condición de Estado y la soberanía de Tuvalu se mantendrán pese a las consecuencias de la subida del nivel del mar. Ese mismo día el Foro de las Islas del Pacífico adoptó una Declaración sobre la continuidad de la condición de Estado; la Alianza de los Pequeños Estados Insulares adoptó la suya el 23 de septiembre de 2024.
 
-En 2025 la Comisión de Derecho Internacional de las Naciones Unidas aprobó el informe final del Grupo de Estudio sobre la elevación del nivel del mar: «en cuanto a los Estados especialmente afectados por la elevación del nivel del mar relacionada con el cambio climático, los Estados apoyan con firmeza la continuidad de la condición de Estado y la soberanía, y la preservación de la personalidad jurídica internacional y de la membresía en organizaciones internacionales» (párrafo 35). Se señaló aparte que el artículo 1 de la Convención de Montevideo de 1933, «cuyos criterios gozan de aceptación general a los efectos de considerar un Estado como persona o sujeto de derecho internacional, no aborda la cuestión de la continuidad de la condición de Estado en el contexto de la elevación del nivel del mar relacionada con el cambio climático» (párrafo 37).
+En 2025 la Comisión de Derecho Internacional de las Naciones Unidas adoptó el informe final del Grupo de Estudio sobre la elevación del nivel del mar: «en cuanto a los Estados especialmente afectados por la elevación del nivel del mar relacionada con el cambio climático, los Estados apoyan con firmeza la continuidad de la condición de Estado y la soberanía, y la preservación de la personalidad jurídica internacional y de la membresía en organizaciones internacionales» (párrafo 35). Se señaló aparte que el artículo 1 de la Convención de Montevideo de 1933, «cuyos criterios gozan de aceptación general a los efectos de considerar un Estado como persona o sujeto de derecho internacional, no aborda la cuestión de la continuidad de la condición de Estado en el contexto de la elevación del nivel del mar relacionada con el cambio climático» (párrafo 37).
 
 > **El alcance exacto de este argumento, y es estrecho.** Se trata de la **continuidad**, no del nacimiento. La presunción de continuidad opera porque el sujeto ya existe: fue reconocido, tuvo territorio y lo perdió. Una comunidad que nunca tuvo territorio no tiene nada que conservar. Esto muestra que el territorio no es lo que mantiene la condición en existencia, y no muestra que la condición pueda adquirirse sin él.
 
@@ -529,7 +529,7 @@ De ahí el término con que los documentos del pueblo designan lo que se busca. 
 
 Es ilustrativo el camino de Palestina: admisión en la UNESCO como Estado miembro el 31 de octubre de 2011; condición de Estado observador no miembro por la resolución 67/19 de la Asamblea General, de 29 de noviembre de 2012; condición de Estado parte en el Estatuto de Roma desde el 1 de abril de 2015, y decisión de la Sala de Cuestiones Preliminares I de la Corte Penal Internacional de 5 de febrero de 2021, que reconoció a Palestina como el Estado en cuyo territorio tuvo lugar la conducta a los efectos del artículo 12.2.a del Estatuto.
 
-Las primeras puertas existen también para una iniciativa de este tipo: las contribuciones escritas al examen periódico universal y a los procedimientos especiales de las Naciones Unidas están abiertas a cualquier sociedad civil; la condición consultiva ante el ECOSOC es alcanzable a través de una persona jurídica soporte, como participa el Consejo Saami, inscrito en la Lista (Roster), pese a que a nadie se le ocurre considerar al pueblo saami una organización no gubernamental; y más allá, los foros multilaterales y las condiciones de observador.
+Las primeras puertas existen también para una iniciativa de este tipo: las contribuciones escritas al examen periódico universal y a los procedimientos especiales de las Naciones Unidas están abiertas a cualquier sociedad civil; la condición consultiva ante el ECOSOC es alcanzable a través de una persona jurídica de soporte, como participa el Consejo Saami, inscrito en la Lista (Roster), pese a que a nadie se le ocurre considerar al pueblo saami una organización no gubernamental; y más allá, los foros multilaterales y las condiciones de observador.
 
 La posibilidad de alcanzar el punto final está confirmada de forma contundente: la obligación de los Estados de consultar a los pueblos indígenas recorrió, en la memoria de una sola generación, el camino desde la mera exigencia de buscar su colaboración (Convenio núm. 107 de la OIT, 1957, artículo 5) hasta la obligación escrita de consultar (Convenio núm. 169 de la OIT, artículo 6; Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas, artículos 18 y 19; *Pueblo Saramaka c. Surinam*, 2007).
 
@@ -615,7 +615,7 @@ Qué queda sin refutar en contra nuestra:
 
 **Falta el mecanismo que convierte la práctica en reconocimiento.** Aparece cuando una comunidad resuelve una tarea que los Estados tienen planteada; un pueblo no territorial no resuelve hoy tal tarea.
 
-**El texto constitutivo no está adoptado y no hay participantes.** Ni el número, ni la práctica acumulada, ni la solidez del vínculo son rasgos consumados a día de hoy.
+**El texto constitutivo no está adoptado y todavía no hay earthlings.** Ni el número, ni la práctica acumulada, ni la solidez del vínculo son rasgos consumados a día de hoy.
 
 Ninguna de estas objeciones la damos por resuelta. Bajo la presión de los argumentos no han cambiado de fuerza, sino de aspecto: de «imposible» han pasado a «prematuro», «no demostrado», «poco probable». La diferencia entre esas palabras es todo lo que el presente documento afirma.
 

@@ -32,7 +32,7 @@ El derecho internacional sabe constatar que un sujeto colectivo existe y sabe de
 
 Es precisamente esa zona - la constitución voluntaria de la condición de sujeto colectivo - la que cualquier caso contemporáneo planteado en serio descubre como zona vacía.
 
-> **Una ilustración de la práctica de los últimos años.** En noviembre de 2023 Australia y Tuvalu firmaron el Tratado de Unión Falepili, en vigor desde agosto de 2024: su artículo 2 recoge el reconocimiento por las partes de que la condición de Estado y la soberanía de Tuvalu se mantendrán pese a las consecuencias de la subida del nivel del mar. El Foro de las Islas del Pacífico y la Alianza de los Pequeños Estados Insulares adoptaron declaraciones sobre la continuidad de la condición de Estado; en 2025 la Comisión de Derecho Internacional de las Naciones Unidas aprobó el informe final del Grupo de Estudio sobre la elevación del nivel del mar: según el texto del informe, entre los Estados existe un firme apoyo a la continuidad de la condición de Estado y a la preservación de la personalidad jurídica internacional, y el artículo 1 de la Convención de Montevideo no aborda la cuestión de la continuidad de la condición de Estado en el contexto de la elevación del nivel del mar.
+> **Una ilustración de la práctica de los últimos años.** En noviembre de 2023 Australia y Tuvalu firmaron el Tratado de Unión Falepili, en vigor desde agosto de 2024: su artículo 2 recoge el reconocimiento por las partes de que la condición de Estado y la soberanía de Tuvalu se mantendrán pese a las consecuencias de la subida del nivel del mar. El Foro de las Islas del Pacífico y la Alianza de los Pequeños Estados Insulares adoptaron declaraciones sobre la continuidad de la condición de Estado; en 2025 la Comisión de Derecho Internacional de las Naciones Unidas adoptó el informe final del Grupo de Estudio sobre la elevación del nivel del mar: según el texto del informe, entre los Estados existe un firme apoyo a la continuidad de la condición de Estado y a la preservación de la personalidad jurídica internacional, y el artículo 1 de la Convención de Montevideo no aborda la cuestión de la continuidad de la condición de Estado en el contexto de la elevación del nivel del mar.
 >
 > El derecho, puesto ante la necesidad, elaboró en dos años la separación entre la condición y el territorio, y lo hizo **para conservar** un sujeto ya existente. La cuestión de qué significa esa separación **para el nacimiento** de un sujeto no se planteó: la comunidad de Estados no tuvo ocasión de plantearla.
 >
@@ -44,15 +44,15 @@ Es precisamente esa zona - la constitución voluntaria de la condición de sujet
 
 **La cuestión de la constitución voluntaria de un pueblo no territorial ya se planteó ante el derecho internacional, y se planteó de manera expresa.**
 
-En julio de 2000, en el Quinto Congreso Mundial Gitano celebrado en Praga, la Unión Romaní Internacional adoptó una Declaración de la nación que proclamaba a los roma nación no territorial; el documento se transmitió al Secretario General de las Naciones Unidas. La pretensión no se refería a la condición de Estado, sino a la representación: la posibilidad de tener voz propia en las instituciones internacionales. En veinticinco años no se ha reconocido nada.
+En julio de 2000, en el Quinto Congreso Mundial Gitano celebrado en Praga, la Unión Romaní Internacional adoptó una Declaración de la nación que proclamaba a los roma nación no territorial. La pretensión no se refería a la condición de Estado, sino a la representación: la posibilidad de tener voz propia en las instituciones internacionales. En veinticinco años no se ha reconocido nada.
 
-Los motivos están expuestos en un material analítico del Centro Europeo de Derechos de los Roma, una organización que deseaba el éxito de esa pretensión. Se nombran dos: la falta de continuidad geográfica y la falta de organización a nivel estatal, es decir, la imposibilidad de establecer quién forma parte de la comunidad y quién habla en su nombre.
+El obstáculo jurídico está nombrado en un material analítico del Centro Europeo de Derechos de los Roma, una organización que deseaba el éxito de esa pretensión (Morag Goodwin, «The Romani Claim to Non-Territorial Nation Status», 2004): el derecho entiende el pueblo como el conjunto de la población de un Estado ya formado, y una comunidad dispersa por muchos Estados no queda comprendida en ese concepto. El segundo obstáculo es de demostrabilidad, y esta ya es una observación nuestra: la imposibilidad de establecer quién forma parte de la comunidad y quién habla en su nombre.
 
-**El segundo motivo no se refiere al derecho, sino a la demostrabilidad.** La pertenencia dentro de una población dispersa de millones de personas no podía establecerse en absoluto, no por culpa de quienes formulaban la pretensión, sino porque no existían medios para ello. La pretensión se formuló, pero no había nada que presentar en su apoyo: ni una composición verificada, ni una práctica de autogobierno registrable, ni un asiento que no se pudiera reescribir.
+**El segundo obstáculo no se refiere al derecho, sino a la demostrabilidad.** La pertenencia dentro de una población dispersa de millones de personas no podía establecerse en absoluto, no por culpa de quienes formulaban la pretensión, sino porque no existían medios para ello. La pretensión se formuló, pero no había nada que presentar en su apoyo: ni una composición verificada, ni una práctica de autogobierno registrable, ni un asiento que no se pudiera reescribir.
 
 De ahí la formulación exacta de la pregunta, que sustituye a otra más burda. Lo nuevo no es **la pregunta, sino la posibilidad de responderla**. La pregunta se planteó también antes; por primera vez aparecen los medios que permiten confirmar o refutar lo declarado, y no solo declararlo.
 
-Los dos casos expuestos más arriba delimitan la zona vacía por dos lados. Tuvalu muestra que el derecho es capaz de separar la condición jurídica del territorio cuando surge la necesidad. Los romaníes muestran que, planteada la misma cuestión para un sujeto naciente, el asunto se detuvo no en la norma, sino en la imposibilidad de probar nada. A continuación siguen siete tesis sobre por qué esa zona ha permanecido vacía y qué significaría llenarla.
+Los dos casos expuestos más arriba delimitan la zona vacía por dos lados. Tuvalu muestra que el derecho es capaz de separar la condición jurídica del territorio cuando surge la necesidad. Los romaníes muestran que, planteada la misma cuestión para un sujeto naciente, el asunto no chocó solo con la norma, sino con la imposibilidad de probar nada. A continuación siguen siete tesis sobre por qué esa zona ha permanecido vacía y qué significaría llenarla.
 
 ---
 
@@ -60,7 +60,7 @@ Los dos casos expuestos más arriba delimitan la zona vacía por dos lados. Tuva
 
 Una laguna en la doctrina no hace ilícito el nacimiento de un pueblo: la licitud del acto no descansa en la existencia de una teoría especial, sino en una norma vigente, la libertad de asociación, consagrada en tratados que ya hoy son obligatorios para los Estados partes.
 
-La falta de una teoría elaborada nunca significó ilicitud: de otro modo, el primer caso de cualquier forma jurídica quedaría fuera de la ley, y la plataforma continental, reivindicada en 1945 pese al silencio completo de las normas, habría sido una infracción y no una norma futura. Para los particulares que ejercen una libertad reconocida rige el principio de que lo no prohibido está permitido.
+La falta de una teoría elaborada nunca significó ilicitud: de otro modo, el primer caso de cualquier forma jurídica quedaría fuera de la ley, y la reivindicación de la plataforma continental en 1945, cuando ninguna norma preveía tal pretensión, habría sido una infracción y no el germen de una norma futura. Para los particulares que ejercen una libertad reconocida rige el principio de que lo no prohibido está permitido.
 
 > **Y con igual claridad, qué no significa la laguna en el otro sentido.** El silencio permisivo se refiere a la **acción**: las personas pueden asociarse y pueden declarar qué consideran ser. No atribuye al resultado una condición. Una laguna es un trabajo inacabado del derecho, y no una respuesta hecha a favor de nadie.
 
@@ -116,13 +116,13 @@ Por eso la doctrina respondía a una sola pregunta: cómo un pueblo ya existente
 
 La conclusión no es que «la teoría sea incompleta», sino algo más preciso: está especializada. Toda teoría desarrollada tiene un ámbito de aplicación; el objeto de la teoría de la libre determinación se situaba históricamente en otro plano.
 
-La especialización se ve no solo en el tono de la doctrina, sino en los textos. La resolución 1541 (XV) de la Asamblea General, de 1960, califica un territorio como no autónomo por su separación geográfica y por su diferencia étnica o cultural respecto del Estado que lo administra: el rasgo calificador es el territorio, y no el grupo. La resolución 2625 (XXV), de 1970, habla en su cláusula de salvaguardia de un gobierno que represente a «la totalidad del pueblo **perteneciente al territorio**»; el texto inglés, igualmente oficial, dice lo mismo: «the whole people belonging to the territory». El vínculo del pueblo con el territorio queda aquí fijado expresamente con palabras.
+La especialización se ve no solo en el tono de la doctrina, sino en los textos. La resolución 1541 (XV) de la Asamblea General, de 1960, establece en su principio IV que la obligación de transmitir información existe prima facie respecto de un territorio que está geográficamente separado y es distinto, étnica y/o culturalmente, del país que lo administra: el rasgo es el territorio, y no el grupo. La resolución 2625 (XXV), de 1970, habla en su cláusula de salvaguardia de un gobierno que represente a «la totalidad del pueblo **perteneciente al territorio**»; el texto inglés, igualmente oficial, dice lo mismo: «the whole people belonging to the territory». El vínculo del pueblo con el territorio queda aquí fijado expresamente con palabras.
 
 Esto precisa la tesis de manera notable. La territorialidad en la doctrina de la libre determinación no es un efecto colateral de la época que pudiera atribuirse al tono: está inscrita en los textos. Pero está inscrita allí donde se resolvía la delimitación entre Estados y territorios coloniales, y ninguno de esos textos contiene una definición de pueblo como tal. Describen en qué condiciones queda protegida la integridad territorial, no qué es un pueblo.
 
-Vincula expresamente el pueblo con el territorio un texto que no es una norma, pero que se publicó como documento oficial de las Naciones Unidas: el estudio de Aureliu Cristescu, relator especial de la Subcomisión de las Naciones Unidas (1981). No da una definición de pueblo, pero nombra elementos de la definición que «no se pueden ni deben ignorar»: el pueblo es una entidad social con identidad manifiesta y características propias, y presupone una relación con un territorio **aunque el pueblo de que se trate haya sido injustamente expulsado de él y reemplazado artificialmente por otra población**. La formulación conserva el vínculo territorial para un pueblo que ha perdido el territorio, y con ello no deja lugar a una comunidad que nunca lo tuvo. Es la objeción más precisa de cuantas existen, y al plantear la cuestión no se la puede rodear.
+Vincula expresamente el pueblo con el territorio un texto que no es una norma, pero que se publicó como documento oficial de las Naciones Unidas: el estudio de Aureliu Cristescu, relator especial de la Subcomisión de las Naciones Unidas (1981). No da una definición de pueblo, pero nombra elementos de la definición que «no se pueden ni deben ignorar»: el pueblo es una entidad social con identidad manifiesta y características propias, y presupone una relación con un territorio **aunque el pueblo de que se trate haya sido injustamente expulsado de él y reemplazado artificialmente por otra población**. La formulación conserva el vínculo territorial para un pueblo que ha perdido el territorio, y no examina el caso de una comunidad que nunca tuvo territorio. Es la objeción más precisa de cuantas existen, y, una vez planteada la cuestión, no se la puede eludir.
 
-La falta de una respuesta elaborada a la cuestión del nacimiento de un pueblo no atestigua la imposibilidad de tal respuesta, sino la ausencia previa de una demanda histórica de ella.
+La falta de una respuesta elaborada a la cuestión del nacimiento de un pueblo no atestigua la imposibilidad de tal respuesta: la demanda de ella se formuló (el caso de los roma, examinado más arriba), pero no había material verificable con que respaldarla.
 
 ---
 
@@ -138,7 +138,7 @@ No cambió el ordenamiento jurídico ni sus principios. Cambió el objeto de obs
 
 ---
 
-## Tesis 6. Por primera vez el nacimiento de un sujeto colectivo se ha hecho observable
+## Tesis 6. Por primera vez el nacimiento de un sujeto colectivo se hace observable
 
 El cambio principal no es internet ni ninguna tecnología concreta; esos son solo instrumentos. Lo principal es que la constitución colectiva se hace observable por primera vez.
 
@@ -170,23 +170,23 @@ Estas tesis no son un ejercicio académico. Detrás de ellas hay una cuestión p
 
 **Primera cuestión: ¿es lícita la acción misma?** ¿Pueden personas de distintos Estados asociarse voluntariamente, declararse pueblo y construir instituciones de autogobierno sin infringir el derecho internacional?
 
-A esta pregunta la Base jurídica responde afirmativamente, apoyándose en la libertad de asociación, norma consagrada en tratados que ya hoy son obligatorios para los Estados partes, y que no limita ni los fines ni las formas de la asociación. En el derecho internacional no hay prohibición de tal acción.
+A esta pregunta la Base jurídica responde afirmativamente, apoyándose en la libertad de asociación, norma consagrada en tratados que ya hoy son obligatorios para los Estados partes; ninguno de esos tratados establece una lista exhaustiva de las formas o de los fines admisibles de la asociación. En el derecho internacional no hay prohibición de tal acción.
 
 **Segunda cuestión: ¿es la comunidad nacida un pueblo en sentido jurídico?**
 
 A esta pregunta no existe respuesta hecha, y la Base jurídica no la da. La cuestión la resuelve quien aplica el derecho, por los rasgos y por la práctica, cuando surge una pretensión concreta; y es precisamente la teoría general de esa resolución la que falta en el derecho internacional.
 
-El presente documento añade un segundo estrato: muestra que detrás del caso concreto hay una laguna general de la doctrina, y que esa laguna no es la debilidad de la posición de nadie, sino la consecuencia natural de la historia del propio derecho.
+El presente documento añade un segundo estrato: muestra que detrás del caso concreto hay una laguna general de la doctrina, y que esa laguna no es una respuesta ya hecha a favor de nadie, sino la consecuencia natural de la historia del propio derecho.
 
 ### Cuestiones que sometemos a debate
 
 Las sometemos abiertamente, sin pretender una respuesta hecha:
 
-- ¿Es el vínculo territorial un rasgo esencial del pueblo, o una condición históricamente dominante de su formación? Si el derecho internacional ya ha reconocido que la pérdida del territorio no extingue la condición de Estado, ¿qué trabajo hace el territorio en la comprobación del nacimiento de una condición?
+- ¿Es el vínculo territorial un rasgo esencial del pueblo, o una condición históricamente dominante de su formación? Si los Estados ya reconocen que la pérdida del territorio no extingue la condición de Estado, ¿qué papel desempeña el territorio a la hora de comprobar el nacimiento de esa condición?
 - ¿Es la capacidad de coaccionar una condición necesaria de un orden normativo estable, o una de las tecnologías para mantenerlo?
 - ¿Existen criterios jurídicos generales del tránsito desde la asociación voluntaria de personas hasta la condición de sujeto colectivo? Si no existen, ¿sobre qué fundamentos se resolvería una controversia que surgiera mañana?
 - Si el nacimiento de un sujeto colectivo se hace observable por primera vez, ¿debe la teoría del pueblo seguir siendo exclusivamente retrospectiva?
-- ¿Cambia algo para la valoración jurídica el hecho de que uno de los dos motivos de rechazo en un precedente conocido se refiriera a la demostrabilidad y no al contenido de la norma?
+- ¿Cambia algo para la valoración jurídica el hecho de que la pretensión de los roma chocara no solo con la norma, sino con la imposibilidad de probar nada?
 
 Afirmamos que estas preguntas están correctamente planteadas, que el derecho internacional vigente no da a ellas una respuesta hecha y que merecen un debate profesional serio, y no ser relegadas a la utopía.
 
