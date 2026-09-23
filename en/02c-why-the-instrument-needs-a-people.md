@@ -126,7 +126,7 @@ The other side of this has to be said too, because it matters just as much: **if
 
 **What else is being done.** The share of those who voted is always published, and published first, including when it is low. Turnout will not be hidden behind absolute numbers.
 
-**What follows from this.** **The share of those who answer is the chief indicator of the project's vitality, more important than the number of participants.** A people of ten million with a turnout of forty per cent weighs incomparably more than a people of a hundred million with a turnout of four per cent.
+**What follows from this.** **The share of those who answer is the chief indicator of the project's vitality, more important than the number of participants.** A people of ten million with a turnout of forty per cent weighs incomparably more than a people of a hundred million with a turnout of four per cent, although in both cases the number who answered is the same - four million.
 
 **What we do not guarantee.** That a suitable question will always be found. The boundary is deliberately narrow, and questions that are at once planetary and close to individual lives are fewer than one would like. We shall not widen it for the sake of turnout: a people that has started asking about anything and everything in order to get a better hearing has ceased to be what it was created for.
 

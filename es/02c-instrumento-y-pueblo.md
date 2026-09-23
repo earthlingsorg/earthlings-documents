@@ -126,7 +126,7 @@ Digamos también lo contrario, porque es del mismo orden: **si las preguntas dej
 
 **Qué se hace además.** La participación se publica siempre y en primer lugar, incluidos los casos en que es baja. La participación no se va a esconder detrás de cifras absolutas.
 
-**Qué se sigue de esto.** **La participación es el principal indicador vital del proyecto, más importante que el número de participantes.** Un pueblo de diez millones con una participación del cuarenta por ciento pesa incomparablemente más que un pueblo de cien millones con una participación del cuatro por ciento.
+**Qué se sigue de esto.** **La participación es el principal indicador vital del proyecto, más importante que el número de participantes.** Un pueblo de diez millones con una participación del cuarenta por ciento pesa incomparablemente más que un pueblo de cien millones con una participación del cuatro por ciento, aunque en ambos casos el número de quienes han respondido es el mismo - cuatro millones.
 
 **Qué no garantizamos.** Que siempre se encuentre una pregunta apta. El límite es estrecho a propósito, y preguntas que sean a la vez planetarias y cercanas a la persona hay menos de las que quisiéramos. No vamos a ampliarlo en aras de la participación: un pueblo que se puso a preguntar de todo para que lo escucharan mejor dejó de ser aquello para lo que se creó.
 

@@ -126,7 +126,7 @@ Sagen wir auch das Umgekehrte, denn es ist von derselben Ordnung: **Wenn die Fra
 
 **Was sonst getan wird.** Der Anteil der Abstimmenden wird immer und an erster Stelle veröffentlicht, auch in den Fällen, in denen er niedrig ist. Die Beteiligung wird nicht hinter absoluten Zahlen versteckt.
 
-**Was daraus folgt.** **Der Anteil der Antwortenden ist die wichtigste Lebenskennzahl des Vorhabens, wichtiger als die Zahl der Teilnehmer.** Ein Volk von zehn Millionen mit einer Beteiligung von vierzig Prozent wiegt unvergleichlich mehr als ein Volk von einhundert Millionen mit einer Beteiligung von vier Prozent.
+**Was daraus folgt.** **Der Anteil der Antwortenden ist die wichtigste Lebenskennzahl des Vorhabens, wichtiger als die Zahl der Teilnehmer.** Ein Volk von zehn Millionen mit einer Beteiligung von vierzig Prozent wiegt unvergleichlich mehr als ein Volk von einhundert Millionen mit einer Beteiligung von vier Prozent, obwohl in beiden Fällen gleich viele geantwortet haben - vier Millionen.
 
 **Was wir nicht gewährleisten.** Dass sich immer eine passende Frage findet. Die Grenze ist mit Absicht eng, und Fragen, die zugleich planetar und dem Menschen nahe sind, gibt es weniger, als man sich wünschte. Um der Beteiligung willen werden wir sie nicht erweitern: Ein Volk, das anfängt, nach allem Möglichen zu fragen, damit man ihm besser zuhört, hat aufgehört, das zu sein, wofür es geschaffen wurde.
 

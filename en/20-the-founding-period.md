@@ -167,7 +167,7 @@ Proposals are accepted from 22 October 2026 to 20 January 2027 inclusive.
 
 Any person is entitled to submit a proposal. Entering the people, verifying identity, making payments, and agreeing with the provisions of the Declaration are not required for this.
 
-A proposal is accepted in respect of any document of the corpus. It is desirable to name the document and the place in it; if they are not named, the document is determined from the content of the proposal, and a proposal is not rejected on grounds of form.
+A proposal is accepted in respect of any document of the corpus. It is desirable to name the document and the place in it; if they are not named, the document is determined from the content of the proposal, and a proposal is not rejected on grounds of form. The place is named by the Russian or the English text: these are recognized as authentic (Declaration, Article 11). A proposal about a translation names the place in the language it concerns - the numbering of sections and paragraphs in translations may differ.
 
 A proposal is accepted in writing at the address given in the section "Where to send them". No particular format is required. Anonymous proposals are accepted and considered on the same footing as the rest.
 

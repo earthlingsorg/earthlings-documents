@@ -167,7 +167,7 @@ Las propuestas se aceptan desde el 22 de octubre de 2026 hasta el 20 de enero de
 
 Puede presentar una propuesta cualquier persona. Para ello no se requieren adhesión, verificación de identidad, pagos ni conformidad con las disposiciones de la Declaración.
 
-Se acepta una propuesta a cualquier documento del corpus. Es deseable nombrar el documento y el lugar dentro de él; si no consta, el documento se determina por el contenido de la propuesta, y la propuesta no se rechaza por su forma.
+Se acepta una propuesta a cualquier documento del corpus. Es deseable nombrar el documento y el lugar dentro de él; si no consta, el documento se determina por el contenido de la propuesta, y la propuesta no se rechaza por su forma. El lugar se indica por el texto ruso o por el inglés: están reconocidos como auténticos (Declaración, artículo 11). Una propuesta sobre una traducción indica el lugar en la lengua de que se trate - la numeración de las secciones y los párrafos puede diferir en las traducciones.
 
 La propuesta se acepta por escrito en la dirección indicada en la sección «Adónde enviarlas». La forma de exposición es libre. Las propuestas anónimas se aceptan y se examinan en igualdad con las demás.
 

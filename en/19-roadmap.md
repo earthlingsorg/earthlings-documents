@@ -131,7 +131,7 @@ Reports are published no less than once every 90 days from the date the Charter 
 
 ## Principles of development
 
-**Reproducibility.** The registry of passports lives on a distributed network, not on our servers: if, after the Declaration is adopted, its implementation becomes impossible as a result of a seizure of governance, the shutdown of infrastructure, or other circumstances, confirmed earthlings will be able to continue the people in existence on a different technical or organizational basis against the same registry (Declaration, Article 11). The list of what is open and what is closed, with the reasons, is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html).
+**Reproducibility.** The registry of passports lives on a distributed network, not on our servers: if, after the Declaration is adopted, its implementation becomes impossible as a result of a seizure of governance, the shutdown of infrastructure, or other circumstances, confirmed earthlings will be able to continue the people in existence on a different technical or organizational basis, relying on the same registry (Declaration, Article 11). The list of what is open and what is closed, with the reasons, is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html).
 
 **Modularity.** Components are replaceable without rebuilding the whole system.
 
@@ -189,7 +189,7 @@ Once the Declaration is adopted, the principles of its Part I are not repealed o
 
 ## The guarantor is not a guardian but the right to leave
 
-The ultimate protection of the transition is the same as that of a mature people: voluntariness and a registry on a public network. If, after the Declaration is adopted, its implementation becomes impossible as a result of a seizure of governance, the shutdown of infrastructure, or other circumstances, confirmed earthlings will be able to continue the people in existence on a different technical or organizational basis against the same registry, and the founders' consent is not required for this.
+The ultimate protection of the transition is the same as that of a mature people: voluntariness and a registry on a public network. If, after the Declaration is adopted, its implementation becomes impossible as a result of a seizure of governance, the shutdown of infrastructure, or other circumstances, confirmed earthlings will be able to continue the people in existence on a different technical or organizational basis, relying on the same registry, and the founders' consent is not required for this.
 
 To be precise: not all of the system is reproducible. Passports and the records of them lie on a public network, the passport contract code is open, and the rules, thresholds, and procedures are described in these documents - following them, a new platform can be built against the same registry. But the record of signing the Declaration and the hashes by which a person's uniqueness is checked are kept not in the registry but on our servers, so a new platform will have to build its own identity verification (the document "Where We Are Now"). The code of the platform itself and of the identity verification system is closed, because they work with personal data (Charter, Article 30). The continuation of the people rests on the registry and on the published specification, not on the ability to copy our servers.
 
@@ -213,7 +213,7 @@ Therefore a capture cannot pass itself off as the people, nor can a split for th
 
 **The problem.** The founders might not wish to hand over functions and keys.
 
-**The protection.** Examined in section 07: the founders' power only narrows, the unamendable core is beyond their reach, and if, after the Declaration is adopted, its implementation becomes impossible, confirmed earthlings will be able to continue the people against the same registry without the founders' consent (Declaration, Article 11); even so, a self-proclaimed copy cannot appropriate the people's name. The gain from capture is not zero today: until the contract owner's rights are transferred to a multisignature, and while the treasury's signature threshold is one, whoever seizes these keys will be able to issue and burn entries in the same registry and dispose of the treasury (the document "Where We Are Now").
+**The protection.** Examined in section 07: the founders' power only narrows, the unamendable core is beyond their reach, and if, after the Declaration is adopted, its implementation becomes impossible, confirmed earthlings will be able to continue the people, relying on the same registry, without the founders' consent (Declaration, Article 11); even so, a self-proclaimed copy cannot appropriate the people's name. The gain from capture is not zero today: until the contract owner's rights are transferred to a multisignature, and while the treasury's signature threshold is one, whoever seizes these keys will be able to issue and burn entries in the same registry and dispose of the treasury (the document "Where We Are Now").
 
 ## Technical errors
 

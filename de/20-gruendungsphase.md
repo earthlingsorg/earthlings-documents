@@ -167,7 +167,7 @@ Vorschläge werden vom 22. Oktober 2026 bis zum 20. Januar 2027 einschließlich 
 
 Einen Vorschlag einzubringen ist jeder Mensch befugt. Beitritt, Identitätsprüfung, Zahlungen und Zustimmung zu den Bestimmungen der Erklärung sind dafür nicht erforderlich.
 
-Ein Vorschlag wird zu jedem Dokument des Bestandes angenommen. Es ist erwünscht, das Dokument und die Stelle darin zu nennen; fehlt das, so wird das Dokument nach dem Inhalt des Vorschlags bestimmt, und wegen der Form wird ein Vorschlag nicht abgelehnt.
+Ein Vorschlag wird zu jedem Dokument des Bestandes angenommen. Es ist erwünscht, das Dokument und die Stelle darin zu nennen; fehlt das, so wird das Dokument nach dem Inhalt des Vorschlags bestimmt, und wegen der Form wird ein Vorschlag nicht abgelehnt. Die Stelle wird nach dem russischen oder dem englischen Text genannt: Diese sind als authentisch anerkannt (Erklärung, Artikel 11). Ein Vorschlag zu einer Übersetzung nennt die Stelle in der Sprache, um die es geht - die Nummerierung der Abschnitte und Absätze kann in den Übersetzungen abweichen.
 
 Ein Vorschlag wird in schriftlicher Form an die im Abschnitt „Wohin senden“ angegebene Adresse angenommen. Die Form der Darstellung ist frei. Anonyme Vorschläge werden angenommen und gleichrangig mit den übrigen behandelt.
 
