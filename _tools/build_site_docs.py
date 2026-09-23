@@ -199,6 +199,9 @@ SLUGS = {
     'de': {
         '01': 'erklaerung',
         '02': 'buergerstimme',
+        '02a': 'kaputte-zaehlung',
+        '02b': 'einfluss-ohne-befugnisse',
+        '02c': 'messinstrument-und-volk',
         '03': 'ethik',
         '04': 'rechtsgrundlage',
         '05': 'charta',
@@ -762,6 +765,24 @@ OVERRIDES_DE = {
            'og_description':
            'Kaputt ist die Zählung, nicht der Kanal. Was das heißt und was die '
            'Earthlings damit tun.'},
+    '02a': {'description':
+            'Fünf Defekte der Bürgerstimme, der Fall der achtzehn Millionen gefälschten '
+            'Kommentare und die Mathematik, nach der eine zerstreute Mehrheit gegen eine '
+            'organisierte Minderheit verliert.',
+            'og_description':
+            'Ein Anhang zur Bürgerstimme: warum die Zählung kaputt ist.'},
+    '02b': {'description':
+            'Sechs Fälle, in denen Menschen keinerlei Befugnisse hatten und mit denen '
+            'dennoch gerechnet wurde, und die beiden Versuche, die dem am nächsten '
+            'gekommen sind, Tiefe mit Maßstab zu verbinden.',
+            'og_description':
+            'Ein Anhang zur Bürgerstimme: Einfluss ohne Befugnisse.'},
+    '02c': {'description':
+            'Fünf Gründe, weshalb eine überprüfbare Messung des gemeinsamen Willens '
+            'ohne Volk nicht auskommt, der Fall des größten Vorhabens, das ohne ein '
+            'solches gebaut wurde, und neun Arten, auf die das alles nicht zustande kommt.',
+            'og_description':
+            'Ein Anhang zur Bürgerstimme: warum ein Volk gebraucht wird.'},
     '03': {'description': _OFFICIAL_DE % 'Die Ethik der Earthlings'},
     '04': {'description':
            'Die Rechtsgrundlage des Volkes der Earthlings: die Vereinigungsfreiheit, das '
@@ -1374,9 +1395,9 @@ LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
                 # тех пор страницы приложений в этих языках не собираются, и
                 # ссылок на них там нет: документ 02 в них прежней,
                 # несокращённой редакции, и выносить из него нечего.
-                '02a': ['en', 'ru'],
-                '02b': ['en', 'ru'],
-                '02c': ['en', 'ru'],
+                '02a': ['de', 'en', 'ru'],
+                '02b': ['de', 'en', 'ru'],
+                '02c': ['de', 'en', 'ru'],
                 '20': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
                 '32': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']}
 
