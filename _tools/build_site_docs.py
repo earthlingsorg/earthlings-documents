@@ -333,6 +333,9 @@ SLUGS = {
     'zh': {
         '01': 'declaration',
         '02': 'civic-voice',
+        '02a': 'why-the-count-is-broken',
+        '02b': 'influence-without-powers',
+        '02c': 'why-the-instrument-needs-a-people',
         '03': 'ethics',
         '04': 'legal-basis',
         '05': 'charter',
@@ -1119,6 +1122,21 @@ OVERRIDES_ZH = {
            '来代替；以及这样的声音经由哪些台阶获得分量。',
            'og_description':
            '坏掉的是计数，不是渠道。这是什么意思，Earthlings 又做了什么。'},
+    '02a': {'description':
+            '公民声音的五种失灵、一千八百万条伪造评论的案件，以及使分散的多数'
+            '输给有组织的少数的那道算术。',
+            'og_description':
+            '《公民的声音》的附件：为什么计数失灵了。'},
+    '02b': {'description':
+            '六个案例：人们毫无权限，而人们仍然要把他们算在内；以及最接近把'
+            '深度与规模结合起来的两次尝试。',
+            'og_description':
+            '《公民的声音》的附件：没有权限的影响。'},
+    '02c': {'description':
+            '共同意志的可核实测量离不开人民的五个理由、不靠人民建起的最大一个'
+            '项目的案例，以及这件事落空的九种方式。',
+            'og_description':
+            '《公民的声音》的附件：为什么仪器离不开人民。'},
     '03': {'description': _OFFICIAL_ZH % 'Earthlings 伦理准则'},
     '04': {'description':
            'Earthlings 人民的法律依据：结社自由、自决权、人民的特征，以及国际法上'
@@ -1437,9 +1455,9 @@ LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
                 # выкладывать нельзя. Остальные четыре языка приложений пока
                 # не собирают, и ссылок на них там нет: документ 02 в них
                 # прежней, несокращённой редакции, и выносить из него нечего.
-                '02a': ['de', 'en', 'es', 'fr', 'ru'],
-                '02b': ['de', 'en', 'es', 'fr', 'ru'],
-                '02c': ['de', 'en', 'es', 'fr', 'ru'],
+                '02a': ['de', 'en', 'es', 'fr', 'ru', 'zh'],
+                '02b': ['de', 'en', 'es', 'fr', 'ru', 'zh'],
+                '02c': ['de', 'en', 'es', 'fr', 'ru', 'zh'],
                 '20': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
                 '32': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']}
 
