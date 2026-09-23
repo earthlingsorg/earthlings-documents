@@ -294,7 +294,7 @@ La présente Déclaration est adoptée en langues russe et anglaise. Les deux te
 
 La présente Déclaration a été adoptée le \_\_\_\_\_\_\_\_\_\_ par le vote de personnes ayant fait vérifier leur identité, selon le principe « une personne - une voix ». Le vote a porté sur les textes russe et anglais, reconnus comme faisant également foi.
 
-\_\_\_\_\_\_ voix se sont prononcées pour l'adoption sur \_\_\_\_\_\_ voix exprimées, \_\_\_\_\_\_ personnes vérifiées étant recensées au jour de la clôture de la réception des propositions.
+\_\_\_\_\_\_ voix se sont prononcées pour l'adoption sur \_\_\_\_\_\_ voix exprimées, \_\_\_\_\_\_ personnes vérifiées étant recensées au jour du vote.
 
 À compter de ce jour, le peuple des Earthlings est constitué, et les signataires de la présente Déclaration sont des earthlings.
 

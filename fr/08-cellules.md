@@ -25,7 +25,7 @@ Dans la Charte, les cellules sont envisagées comme les supports de base de l'ac
 
 # SECTION 02. Comment le travail s'organise: groupements permanents et équipes de projet
 
-La Charte ne connaît qu'une forme: la cellule de deux à six personnes, créée pour un projet, une recherche ou une initiative déterminés. Tout ce qui est exposé ci-dessous est une **manière d'organiser le travail sur la plateforme**, et non une structure distincte du peuple: elle peut être modifiée par une décision de l'Assemblée, ne crée ni organe ni pouvoir.
+La Charte ne connaît qu'une forme: la cellule de deux à six personnes, créée pour un projet, une recherche ou une initiative déterminés. Tout ce qui est exposé ci-dessous est une **manière d'organiser le travail sur la plateforme**, et non une structure distincte du peuple: elle peut être modifiée par une décision de l'Assemblée DAO, ne crée ni organe ni pouvoir.
 
 **Les groupements permanents par compétence** - juristes, ingénieurs, développeurs, analystes et autres - existent indépendamment des projets particuliers. Ils entretiennent la qualité de l'expertise, préparent des recommandations et des normes, aident les nouveaux venus à entrer dans le métier au sein du peuple.
 
@@ -55,7 +55,7 @@ Si un projet exige davantage de personnes, on crée plusieurs cellules plutôt q
 
 **1. Naissance de l'idée.** Tout earthling dépose une initiative depuis son espace personnel: projet écologique, programme éducatif, recherche, solution technologique. La demande décrit le problème, le but, l'effet attendu, l'horizon de temps et les compétences nécessaires. Aucune approbation préalable et aucun seuil de soutien ne sont exigés pour le dépôt.
 
-**2. Analyse initiale.** Des outils d'IA auxiliaires vérifient la conformité à la Déclaration et à l'éthique, l'absence de conflits manifestes, la faisabilité approximative et proposent au besoin des améliorations de rédaction.
+**2. Analyse initiale.** Des outils d'IA auxiliaires vérifieront la conformité à la Déclaration et à l'éthique, l'absence de conflits manifestes, la faisabilité approximative et proposeront au besoin des améliorations de rédaction; aujourd'hui, la plateforme ne dispose pas de tels outils.
 
 > **Trois règles valables quel que soit le modèle utilisé** (Déclaration, article 3):
 > - **l'IA ne décide de rien** - toute conclusion qu'elle formule est consultative et ne constitue pas un refus;
@@ -80,13 +80,13 @@ Les outils auxiliaires facilitent la décision, mais ne se substituent pas aux p
 
 Une cellule est une équipe à échelle humaine, et les décisions n'y sont prises ni par une majorité qui force la minorité, ni par une unanimité qui gèle toute action dès qu'une personne n'est pas d'accord.
 
-Une cellule fonctionne sur le principe du **consentement** (consent): une décision est prise si aucun participant n'a formulé d'objection motivée. Le silence après la clôture du débat vaut consentement: un participant inactif ou absent ne bloque pas la cellule, mais il n'est pas non plus privé de voix tant que le débat se poursuit.
+Une cellule fonctionne sur le principe du **consentement** (consent): une décision est prise si aucun participant n'a formulé d'objection motivée. Le silence après la clôture du débat vaut consentement: un participant inactif ou absent ne bloque pas la cellule, mais il n'est pas non plus privé de voix tant que le débat se poursuit. Les délais de débat, de pause et de vote sont fixés par la plateforme, qui les annonce dans la proposition elle-même.
 
 Le consentement ne signifie pas que la décision plaise à tous. Il signifie que personne n'y voit de dommage, de violation des principes ou de contrainte. C'est un seuil délibérément bas pour agir et un seuil élevé pour contraindre.
 
 ## Ce qui constitue une objection motivée
 
-Une objection n'arrête ou ne modifie une décision que si elle repose sur au moins l'un des motifs suivants et s'accompagne d'un argument:
+Une objection n'arrête ou ne modifie une décision que si elle repose sur au moins l'un des motifs suivants et s'accompagne d'un argument. Le motif est nommé par celui qui objecte; rattacher une objection à un autre motif n'est possible que par l'examen prévu à la section 10:
 
 - **Dommage** - la décision nuit concrètement à la cellule, au projet ou à un participant;
 - **Violation des principes** - elle contredit la Déclaration, les lignes rouges ou l'éthique;
@@ -102,7 +102,7 @@ Une objection fondée sur une préférence personnelle - « je n'aime pas », «
 Si une objection motivée est formulée, la cellule est tenue de l'examiner: en tenir compte, la lever par un amendement ou la réfuter avec des arguments.
 
 - les objections fondées sur la **violation des principes ou la contrainte** s'imposent: la décision ne peut être prise tant qu'elles ne sont pas levées. C'est une protection de la personne et des fondements du peuple, et elle ne se surmonte pas par un vote;
-- les objections fondées sur le **dommage ou l'impossibilité d'exécution** ouvrent un tour de règlement; si, après une tentative de bonne foi, elles ne sont pas levées, la question se règle par un vote de la cellule - secret, comme tout vote personnel (Charte, article 6) -, et le risque signalé est consigné;
+- les objections fondées sur le **dommage, l'impossibilité d'exécution ou un risque sérieux** ouvrent un tour de règlement; si, après une tentative de bonne foi, elles ne sont pas levées, la question se règle par un vote de la cellule - secret, comme tout vote personnel (Charte, article 6) -, et le risque signalé est consigné. Lors d'un tel vote, la décision est prise s'il y a plus de voix pour que de voix contre; ceux qui se sont abstenus ont participé au vote, mais n'entrent pas dans le compte des voix pour et contre. Le vote est valable si plus de la moitié des participants de la cellule y ont pris part. L'outil de vote secret n'existe pas encore - il est en cours de sélection, et pour l'instant la plateforme conserve les votes exprimés dans les cellules en les reliant au compte (document « Où nous en sommes »; Politique de confidentialité, section 02);
 - un différend non réglé dans la cellule est renvoyé à la procédure décrite à la section 10.
 
 ## Deux types de décisions différents
@@ -121,14 +121,14 @@ Ces décisions concernent le travail et non quelqu'un personnellement.
 
 Confier à un participant une tâche assortie d'un délai. Modifier les règles selon lesquelles vit la cellule. Accueillir une nouvelle personne. Se séparer d'un participant.
 
-**Règle:** celui sur qui la décision pèse personnellement doit y consentir expressément - le silence ne suffit pas.
+**Règle:** celui sur qui la décision pèse personnellement doit y consentir expressément - le silence ne suffit pas. Il y a une seule exception, et elle figure ci-dessous: pour la séparation d'avec un participant, le consentement de celui qui s'en va n'est pas requis.
 
 Cas par cas:
 
 - **Une obligation personnelle** - une mission, un délai, la responsabilité d'un domaine de travail - ne naît qu'avec le consentement exprès de la personne elle-même. Nul ne peut être désigné comme obligé sans sa parole.
 - **Les règles de la cellule** ne se modifient qu'avec le consentement de tous ses participants. Une personne a accepté de travailler selon certaines règles; on ne peut pas les changer dans son dos.
 - **L'accueil d'un nouveau participant** se fait avec le consentement de tous ceux qui sont déjà dans la cellule et, bien entendu, de l'entrant lui-même.
-- **La séparation d'avec un participant** se fait avec le consentement de tous les autres participants de la cellule, après que le désaccord a été soumis à la procédure de la section 10. Le consentement de celui qui s'en va n'est pas requis ici: sinon, une équipe de deux à six personnes serait l'otage d'une seule, et l'on ne peut pas obliger les autres à travailler ensemble contre leur volonté.
+- **La séparation d'avec un participant** se fait avec le consentement de tous les autres participants de la cellule, après que le désaccord a été soumis à la procédure de la section 10. Le consentement de celui qui s'en va n'est pas requis ici: sinon, une équipe de deux à six personnes serait l'otage d'une seule, et l'on ne peut pas obliger les autres à travailler ensemble contre leur volonté. Dans une cellule de deux personnes, la séparation ne s'applique pas: « tous les autres participants » se réduit à une seule personne, qui écarterait la seconde à elle seule; reste la sortie libre prévue à la section 06.
 
 ### Pourquoi ainsi
 
@@ -192,7 +192,7 @@ Le modèle convient naturellement aux cellules dont l'apport principal est les p
 
 ## La contribution au bien commun
 
-5 pour cent du bénéfice d'une cellule sont versés à la Trésorerie des Earthlings. Le prélèvement peut se faire en unité de compte, en monnaie fiduciaire ou en stablecoin, par des mécanismes transparents.
+5 pour cent du bénéfice d'une cellule seront versés à la Trésorerie des Earthlings; les modalités de comptabilisation du bénéfice d'une cellule et les modalités du prélèvement sont établies par une décision de l'Assemblée DAO, et aujourd'hui ni les unes ni les autres n'existent (document « Où nous en sommes »). Le prélèvement peut se faire en unité de compte, en monnaie fiduciaire ou en stablecoin, par des mécanismes transparents.
 
 Ces fonds soutiennent l'infrastructure commune, les initiatives éducatives, l'aide aux cellules qui débutent et les objectifs stratégiques du peuple.
 
@@ -203,7 +203,7 @@ Les cellules ne sont pas limitées à l'écosystème interne. Elles peuvent four
 **Principes:**
 
 - **une comptabilité transparente** - les cellules déclarent leur bénéfice pour le calcul du prélèvement;
-- **une honnêteté volontaire** - le système est bâti sur la confiance; dissimuler des revenus est un manquement aux engagements pris envers le peuple;
+- **un prélèvement obligatoire, une vérification volontaire** - le prélèvement est obligatoire, et son exactitude n'est vérifiée par personne: le calcul repose sur la déclaration que fait la cellule elle-même, et dissimuler des revenus est un manquement aux engagements pris envers le peuple;
 - **la liberté de structuration** - les cellules décident elles-mêmes comment organiser l'aspect juridique de leur travail.
 
 Le bénéfice tiré de l'activité extérieure peut être réinvesti dans le développement de la cellule, réparti entre les participants ou affecté à de nouveaux projets.
@@ -258,7 +258,7 @@ Dans le système des cellules, l'usage d'indicateurs de qualité du travail est 
 >
 > - elle n'est pas une condition d'entrée dans une cellule ni de participation à un projet;
 > - elle n'influe pas sur l'ordre de financement: celui-ci est déterminé par le nombre de participants qui ont soutenu le projet, et non par la note de son auteur (Charte, article 11);
-> - elle n'influe pas sur la place d'une proposition dans le fil - le fil est chronologique;
+> - elle n'influe pas sur la place d'une proposition dans le fil - le fil est chronologique par défaut;
 > - elle ne constitue pas une mesure de responsabilité: les mesures ne s'appliquent que dans les conditions prévues à l'article 22 de la Charte, avec droit de se défendre et recours, et ne portent aucune atteinte aux droits d'une personne.
 >
 > La réputation est un instrument de repérage et rien de plus. Un mécanisme dans lequel elle ouvre l'accès aux ressources la transforme en poids de vote dissimulé et est pour cette raison exclu.
@@ -272,14 +272,14 @@ Dans le système des cellules, l'usage d'indicateurs de qualité du travail est 
 - le respect de la personne de chaque participant;
 - la préférence pour le dialogue et la médiation;
 - des règles transparentes d'entrée, de travail et de sortie;
-- l'impossibilité d'usurper une cellule.
+- l'impossibilité d'usurper la voix du peuple et les fonds communs.
 
 ## Le règlement des conflits
 
 - dialogue interne dans la cellule, avec consignation des positions;
 - recours à un médiateur indépendant, venu d'autres cellules ou de groupes spécialement formés;
 - en cas de manquements graves, saisine du Conseil indépendant. Tant que le Conseil n'est pas constitué, cette étape est omise et les délais de débat sont doublés (Charte, article 39);
-- dans les cas extrêmes, dissolution ou reconfiguration de la cellule, en tenant compte des intérêts de tous les participants.
+- dans les cas extrêmes, dissolution de la cellule (Charte, article 25); la cellule ne peut reconfigurer sa composition qu'elle-même, selon les règles de la section 05.
 
 ## L'intervention de la DAO
 
@@ -302,9 +302,9 @@ La sortie d'une cellule, l'exclusion d'une équipe de projet et la dissolution d
 
 # SECTION 11. Données et vie privée
 
-**Ce qui est conservé:** les pseudonymes des participants et leur rôle dans la cellule; la description du projet et son état; les principales étapes et les résultats du travail; des indicateurs agrégés de participation.
+**Ce qui est conservé:** les pseudonymes des participants et leur rôle dans la cellule; la description du projet et son état; les principales étapes et les résultats du travail; des indicateurs agrégés de participation; les votes exprimés dans les votes de la cellule - reliés au compte tant que l'outil de vote secret n'a pas été choisi (section 05); le désaccord consigné, le risque signalé et les positions des parties à un conflit.
 
-**Ce que le système ne conserve pas:** de données biométriques ni de scans de documents; de données personnelles sensibles étrangères au travail; de listes cachées où des personnes seraient marquées comme indésirables sans motifs clairs; de journaux détaillés de communications personnelles sans lien avec le processus de travail.
+**Ce que le système ne conserve pas:** de données biométriques ni de scans de documents; de données personnelles sensibles étrangères au travail; de listes cachées où des personnes seraient marquées comme indésirables; de journaux détaillés de communications personnelles sans lien avec le processus de travail.
 
 ---
 
@@ -315,8 +315,8 @@ Le système des cellules n'est pas figé pour toujours sous une forme unique. Il
 - de nouvelles manières d'organiser le travail peuvent apparaître, si elles ont un sens pratique;
 - les procédures de participation, de règlement des conflits et de répartition des ressources peuvent être précisées;
 - les outils techniques peuvent changer;
-- toute modification significative des règles est débattue et approuvée dans la DAO.
+- toute modification significative des règles est débattue et approuvée par l'Assemblée DAO.
 
-Demeurent intangibles les principes consacrés par le noyau intangible de la Déclaration et par l'article 37 de la Charte: l'échelle humaine, la liberté de participer, une voix égale et inaliénable, le respect de la personne. Ni le présent document ni une décision de l'Assemblée ne les modifient.
+Demeurent intangibles les principes consacrés par le noyau intangible de la Déclaration et par l'article 37 de la Charte: la liberté de participer, une voix égale et inaliénable, le respect de la personne. Ni le présent document ni une décision de l'Assemblée DAO ne les modifient. L'échelle humaine est établie par l'article 23 de la Charte et ne bénéficie pas de cette protection: l'Assemblée DAO la modifie selon la procédure ordinaire de l'article 36.
 
 Les cellules des Earthlings ne sont pas un modèle parfait sur le papier, mais un outil de travail. Il gagnera en justesse à mesure que les gens essaieront, se tromperont, corrigeront et essaieront de nouveau.

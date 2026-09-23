@@ -70,13 +70,14 @@
   "04\tEl período constituyente"
  ],
  "fr": [
-  "02\tnous",
   "02\tAucune décision du peuple des Earthlings ne doit faire peser de conséquences négatives sur les générations futures.",
   "02\tnous",
-  "02\tLa voix ne peut être achetée, vendue, accumulée ni transmise de façon irrévocable",
-  "02\tnous",
+  "02c\tLa voix ne peut être achetée, vendue, accumulée ni transmise de façon irrévocable",
+  "02c\tnous",
+  "02c\tAucune décision du peuple des Earthlings ne doit faire peser de conséquences négatives sur les générations futures.",
   "04\tune personne - une voix",
   "04\tpeuples",
+  "04\tLa période constituante",
   "04\tne sont pas des biens de la personne morale, ne peuvent être cédés, vendus, donnés en gage ni aliénés d'aucune autre manière",
   "04\tn'incarnent pas le peuple",
   "04\thors",

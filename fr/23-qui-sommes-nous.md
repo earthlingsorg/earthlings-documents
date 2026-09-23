@@ -4,46 +4,46 @@
 
 ## Vue d'ensemble
 
-Les Earthlings sont la réalisation opérationnelle et effective d'un peuple non territorial volontairement auto-organisé, fondée sur le principe de l'autodétermination.
+Les Earthlings sont la base opérationnelle bâtie d'un peuple non territorial volontairement auto-organisé, fondée sur le principe de l'autodétermination; le peuple lui-même est constitué par l'adoption de la Déclaration.
 
-Les documents constitutifs du projet décrivent ce modèle comme l'architecture d'une société où le pouvoir des uns sur les autres n'existe pas et où nul n'est placé au-dessus d'une autre personne. Les Earthlings réunissent des personnes de différents pays autour de la Déclaration des Earthlings - noyau constitutif intangible qu'aucune majorité ne peut récrire - et d'une infrastructure numérique assurant une participation vérifiée selon le principe « une personne - une voix » à l'échelle planétaire.
+Les documents constitutifs du projet décrivent ce modèle comme l'architecture d'une société où le pouvoir des uns sur les autres n'existe pas et où nul n'est placé au-dessus d'une autre personne. Les Earthlings réunissent des personnes de différents pays autour de la Déclaration des Earthlings - aucune majorité ne peut abroger ni restreindre les principes de son noyau intangible - et d'une infrastructure numérique assurant une participation vérifiée selon le principe « une personne - une voix » à l'échelle planétaire.
 
-L'architecture des Earthlings est conçue comme un système institutionnel d'un seul tenant, et non assemblée à partir de composants tout faits. Pour ses relations avec le système juridique existant, le peuple agit par l'intermédiaire de représentants habilités et recourt à des structures enregistrées et à d'autres instruments de droit: des interfaces extérieures interchangeables. Le peuple lui-même se gouverne par sa propre infrastructure DAO.
+L'architecture des Earthlings est conçue comme un système institutionnel d'un seul tenant, et non assemblée à partir de composants tout faits. Pour les relations avec le système juridique existant, il est recouru à des structures juridiques enregistrées et à d'autres instruments de droit: des interfaces extérieures interchangeables. Après l'adoption de la Déclaration, les personnes qui agissent par ces instruments juridiques exécutent une mission révocable de l'Assemblée DAO; avant l'adoption, il n'y a pas de peuple, et nul n'agit en son nom. Le peuple lui-même se gouvernera par sa propre infrastructure DAO.
 
 Vingt-cinq documents fondamentaux en neuf langues, une identité on-chain et une trésorerie publiquement vérifiable forment les Earthlings dans leur état institutionnel actuel. Le cycle opérationnel complet est assuré par quatre plateformes en exploitation, déployées à partir d'avril 2025:
 
 - les documents constitutifs;
-- l'identification biométrique et la délivrance des passeports SBT;
+- la vérification d'identité et l'émission des inscriptions au registre (pendant la période constituante, des documents temporaires de participants à la constitution);
 - la plateforme de l'écosystème;
 - un site philosophique satellite.
 
-L'infrastructure d'autogouvernement - registre, vérification d'identité, vote, cellules, économie interne et trésorerie - est construite, déployée et éprouvée en conditions réelles. Le peuple se trouve dans sa phase constituante: l'adhésion est ouverte, et dès le premier jour toute la pratique d'autogouvernement - votes, décisions, mouvements de fonds - est consignée dans une chronique publique. Le Conseil indépendant, qui suppose par nature un corps de membres déjà constitué, sera formé lorsque ce corps sera réuni; jusque-là, il est prévu par les documents constitutifs.
+Le contrat du registre des passeports, la vérification d'identité, les cellules et la comptabilité de l'économie interne sont déployés et fonctionnent; le canal public de vote est déployé, mais aucun vote de fond n'y a encore eu lieu, l'outil de vote secret est en cours de sélection, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). La constitution du peuple est en cours: l'adhésion s'ouvrira si la Déclaration est adoptée, et dès le premier jour toute la pratique d'autogouvernement - votes, décisions, mouvements de fonds - sera consignée dans une chronique publique.
 
 Le niveau économique est délibérément séparé de la gouvernance et de l'identification. Chaque Earthling possède trois attributs que l'architecture distingue:
 
-- un passeport SBT intransmissible (identité);
-- une voix dans la DAO, indépendamment de tout autre actif (gouvernance);
+- un passeport SBT intransmissible, une fois celui-ci délivré (identité);
+- une voix dans la DAO, indépendamment de tout autre actif (gouvernance): la voix naît de la signature de la Déclaration, et le passeport la confirme;
 - une trace économique mesurable, exprimée en Earthlings Coin (EC).
 
-L'EC est un jeton utilitaire de l'écosystème: il donne accès aux services de la plateforme, rémunère la contribution dans les cellules et sert à financer des initiatives collectives.
+L'EC est l'unité de compte interne de l'écosystème. Par destination, elle paie les services de la plateforme, reflète l'apport dans les cellules et sert à financer des initiatives collectives; aujourd'hui, l'unité n'est pas émise: l'économie de la participation est tenue dans la comptabilité interne de la plateforme (document « Earthlings Coin », section 8).
 
 Le nombre d'EC détenus ne se convertit, par principe, en aucune influence sur la gouvernance. La richesse et la voix existent comme des axes architecturaux séparés, et ne sont pas réunies en une variable unique pondérée par les jetons, comme dans la plupart des modèles de DAO.
 
 L'EC n'est ni un titre financier ni un instrument d'investissement. Il n'a pas cours légal et n'est pas de la monnaie électronique; au sein de l'écosystème, il sert d'unité de compte pour les services et les contributions.
 
-Les Earthlings ne proposent pas un manifeste avec une technologie attachée, mais une institution en fonctionnement: on peut l'étudier, la vérifier et y adhérer.
+Les Earthlings ne proposent pas un manifeste avec une technologie attachée, mais une institution en fonctionnement: on peut l'étudier, la vérifier et, si la Déclaration est adoptée, y adhérer.
 
 ## La paternité du corpus
 
-Le corpus constitutif a été écrit par Artur Arakelyan. C'est une version proposée au débat, et non un recueil achevé qu'il ne resterait qu'à adopter.
+Le corpus constitutif a été écrit par Artur Arakelyan, auteur de la Déclaration. C'est une version proposée au débat, et non un recueil achevé qu'il ne resterait qu'à adopter.
 
-Chacun peut proposer une correction à tout document, et les textes tirent leur force non de leur auteur mais du vote: ce peuple sera constitué non par celui qui a rédigé les documents, mais par ceux qui voteront pour eux. La procédure est décrite dans le document [La période constituante](/documents/fr/fr20-periode-constituante.html).
+Chacun peut proposer une correction à tout document, et la Déclaration tire sa force non de son auteur mais du vote: ce peuple sera constitué non par celui qui a rédigé les documents, mais par ceux qui l'adopteront et la signeront. La procédure est décrite dans le document [La période constituante](/documents/fr/fr20-periode-constituante.html).
 
 ## L'architecture de gouvernance
 
-L'architecture institutionnelle des Earthlings est composée de trois éléments structurels distincts, conçus pour fonctionner en parallèle et non selon une hiérarchie.
+L'architecture institutionnelle des Earthlings est composée de trois éléments structurels distincts, dont aucun ne détient de pouvoir sur une personne.
 
-Ce principe est fondamental: chaque élément remplit des tâches structurellement inaccessibles aux autres, et aucun n'a le pouvoir de décider à la place d'un autre.
+Ce principe est fondamental: chaque élément remplit des tâches structurellement inaccessibles aux autres, mais seule l'Assemblée DAO prend les décisions; les instruments juridiques exécutent sa mission révocable, le Conseil la conseille, et aucun élément ne détient de pouvoir sur une personne.
 
 Il en résulte une architecture où nul n'est placé au-dessus d'une autre personne et où les pouvoirs sont répartis, révocables et réduits au minimum.
 
@@ -60,7 +60,7 @@ Les Core Nodes assurent la coordination technique, par rotation.
 
 L'Emergency Multisig assure la protection de l'infrastructure contre les failles exploitées et les menaces critiques, également par rotation.
 
-Le Conseil indépendant formulera des recommandations d'experts et des avis consultatifs ([en savoir plus](https://earth-lings.org/documents/fr/fr11-conseil-independant.html)).
+Le Conseil indépendant formulera des recommandations d'experts et des avis consultatifs ([en savoir plus](https://earth-lings.org/documents/fr/fr11-conseil-independant.html)). La Charte entre en vigueur avec l'adoption de la Déclaration (Charte, article 38); jusque-là, il n'y a ni Assemblée DAO, ni Core Nodes, ni Emergency Multisig, ni Conseil indépendant, et le seul pouvoir discrétionnaire de la période constituante à l'égard des textes est la décision de l'auteur de la Déclaration d'incorporer des propositions au texte (document « La période constituante »).
 
 Si l'on regarde non pas les rôles internes, mais ce par quoi les Earthlings agissent vers l'extérieur, les éléments clés sont trois: la DAO, les instruments juridiques et le Conseil indépendant. Ils portent l'autogouvernement collectif, les relations juridiques extérieures et l'expertise.
 
@@ -79,7 +79,7 @@ La DAO assure:
 
 La DAO repose sur trois principes fondamentaux:
 
-- l'unicité de chaque participant, attestée biométriquement;
+- l'unicité de chaque participant, attestée;
 - le principe « une personne - une voix »;
 - des règles de procédure transparentes, applicables de la même façon à tous.
 
@@ -87,7 +87,7 @@ On trouvera dans le document [DAO des Earthlings](/documents/fr/fr07-dao.html) l
 
 ### Les instruments juridiques (interface juridique extérieure)
 
-Pour leurs relations avec le système juridique existant, les Earthlings agissent par l'intermédiaire de représentants habilités et recourent à des structures enregistrées et à d'autres instruments de droit dans différents ordres juridiques.
+Pour les relations avec le système juridique existant, il est recouru à des structures juridiques enregistrées et à d'autres instruments de droit dans un ou plusieurs ordres juridiques.
 
 Leurs fonctions sont limitées:
 
@@ -103,7 +103,7 @@ Ces structures ne sont que des instruments opérationnels interchangeables pour 
 - elles ne gèrent pas la trésorerie de la DAO et ne prennent aucune décision de gouvernance à la place du peuple;
 - elles demeurent interchangeables et extérieures: elles peuvent être constituées, remplacées et dissoutes sans incidence sur la continuité et l'identité du peuple.
 
-Les fonds caritatifs et les subventions extérieurs, s'ils sont reçus, passent par un organisme tiers indépendant qui en est le destinataire juridique; les structures juridiques des Earthlings ne reçoivent ni ne conservent de tels fonds au nom du peuple.
+Les subventions et les dons sont acceptés selon les règles de la Trésorerie (document « Trésorerie des Earthlings », articles 5 et 28); les opérations en monnaie fiduciaire passent par une personne morale-instrument, contribuable autonome dans son ordre juridique. Lorsque le bailleur ou la loi l'exige, une subvention peut être reçue par l'intermédiaire d'un organisme tiers indépendant.
 
 Le modèle juridique détaillé est exposé dans le document [Base juridique](/documents/fr/fr04-base-juridique.html).
 
@@ -128,7 +128,7 @@ Le Conseil n'a pas de droit de veto sur les décisions de la DAO.
 
 Son autorité tient à sa réputation, non à un pouvoir formel.
 
-La création du Conseil est envisagée comme la prochaine étape institutionnelle du développement des Earthlings.
+Le Conseil indépendant sera constitué après l'adoption de la Déclaration, à mesure que le peuple grandira (document « Le Conseil indépendant »).
 
 Le principe clé de sa constitution est que ses membres doivent être des personnes ayant étudié en profondeur le modèle des Earthlings, et non des personnalités publiques invitées uniquement pour leur statut ou leur prestige.
 
@@ -144,7 +144,7 @@ Le détail est exposé dans le document [Base juridique](/documents/fr/fr04-base
 
 ## La transparence de la trésorerie
 
-La trésorerie on-chain du projet est conservée dans un Safe Multisig du réseau Polygon.
+La trésorerie on-chain est conservée dans un portefeuille Safe du réseau Polygon; le seuil de signatures est pour l'instant de une (document « Où nous en sommes »).
 
 Chaque transaction est ouverte à l'audit public.
 
@@ -158,8 +158,8 @@ Chaque transaction est ouverte à l'audit public.
 
 ## Vérification publique
 
-Toute l'infrastructure institutionnelle des Earthlings est ouverte à la vérification publique.
+Ce qui est énuméré ci-dessous peut être vérifié sans nous; ce qui est fermé et les endroits où il faut aujourd'hui nous faire confiance sont nommés dans le document « Où nous en sommes ».
 
 - Contrat intelligent SBT sur Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
-- Trésorerie Safe Multisig sur Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
+- Portefeuille du trésor Safe sur Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
 - Corpus documentaire: 25 documents institutionnels en neuf langues ([tous les documents](/fr/)).

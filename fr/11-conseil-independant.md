@@ -4,7 +4,7 @@
 
 > Le présent document détaille l'article 4 de la Charte du peuple des Earthlings, qui définit le statut, les pouvoirs et les modalités de constitution du Conseil indépendant. En cas de divergence, la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html) s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration.
 >
-> **État à ce jour.** Le Conseil est prévu par les documents constitutifs et se constituera à mesure que le peuple grandira. Tant qu'il n'est pas constitué, les étapes de procédure prévoyant sa participation sont omises, et les délais de débat public sur les questions correspondantes sont doublés (Charte, article 39). La constitution du Conseil est l'une des quatre conditions d'achèvement de l'étape de mise en place des structures.
+> **État à ce jour.** Le Conseil est prévu par les documents constitutifs et se constituera après l'adoption de la Déclaration, à mesure que le peuple grandira. Tant qu'il n'est pas constitué, les étapes de procédure prévoyant sa participation sont omises, et les délais de débat public sur les questions correspondantes sont doublés (Charte, article 39). La constitution du Conseil est l'une des quatre conditions d'achèvement de l'étape de mise en place des structures (Charte, article 39); cette étape commence avec l'adoption de la Déclaration, avec laquelle la Charte entre en vigueur, et jusque-là court la période constituante (document « La période constituante »).
 
 ---
 
@@ -31,11 +31,11 @@ L'indépendance du Conseil est une indépendance de **jugement**, non une indép
 ## L'audit éthique
 
 - Appréciation des actes des structures et des missions du peuple au regard des normes éthiques, écologiques et juridiques
-- Analyse des cas liés aux conflits internes, à la discrimination, aux atteintes à la confiance
+- Analyse des cas liés aux conflits internes, à la discrimination, aux atteintes à la confiance; la demande d'un avis d'expert peut être présentée par tout earthling (Charte, article 4)
 
 ## La participation aux procédures prévues par la Charte
 
-Ce sont les seules fonctions du Conseil intégrées à des procédures obligatoires, et toutes deux ont le caractère d'un avis, non d'une décision.
+La Charte intègre le Conseil à cinq procédures, et dans toutes il y donnera un avis ou une recommandation, et non une décision. Deux d'entre elles sont décrites ci-dessous: l'examen préalable des mesures visées à l'article 22 et l'avis rendu lors de l'annulation d'une délivrance de passeport non valable (article 21). Les trois autres sont l'avis obligatoire en cas de suspension du droit de vote (article 22 bis), les recommandations en cas de crise exigeant une décision de la DAO (article 33, niveau 2) et l'avis consultatif à l'étape d'expertise lors d'une modification de la Charte (article 36). La Charte ne qualifie d'obligatoire que l'avis visé à l'article 22 bis - et c'est le seul cas où le droit de vote d'une personne peut être suspendu.
 
 **L'examen préalable des mesures au titre de l'article 22 de la Charte** - l'avertissement et les mesures visant les ressources communes. Le Conseil examine le bien-fondé de l'initiative dans un délai de 14 jours et publie une recommandation.
 
@@ -63,7 +63,7 @@ Le Conseil associe au débat sur les questions du peuple les milieux scientifiqu
 
 # SECTION 03. Composition et constitution
 
-Le Conseil sera composé de 7 à 11 personnes - un nombre impair - choisies parmi les Earthlings dont l'expertise est reconnue et qui ne participent pas à la gestion opérationnelle.
+Le Conseil sera composé de 7 à 11 personnes - un nombre impair - choisies parmi les Earthlings qui ne participent pas à la gestion opérationnelle. Une expertise reconnue dans l'un des domaines de compétence du Conseil (Charte, article 4) est un repère pour ceux qui votent, et non une condition imposée au candidat: la présentation de candidature est ouverte à tout earthling, et toute candidature déposée est soumise au vote.
 
 ## Les domaines de compétence
 
@@ -149,7 +149,7 @@ Les groupes de travail du Conseil seront ouverts à la participation de tout ear
 
 - Formuler des observations et des recommandations publiques
 - Ouvrir des débats publics sur des sujets sensibles
-- Publier les avis visés aux articles 21 et 22 de la Charte
+- Publier les avis et les recommandations visés aux articles 21, 22, 22 bis, 33 et 36 de la Charte
 - Recommander à l'Assemblée de revoir la composition des Core Nodes, de l'Emergency Multisig ou d'autres structures de service
 - Proposer des candidats au Conseil
 
@@ -168,7 +168,7 @@ Tous ces droits s'exercent sous la forme d'une prise de parole publique. Aucun d
 
 # SECTION 07. Ce qui assure l'indépendance
 
-L'indépendance sera assurée par la déclaration obligatoire des conflits d'intérêts, le déport en cas d'intérêt personnel dans les conditions de l'article 16 de la Charte, le renouvellement de la composition et la divulgation publique de tous les avis.
+L'indépendance sera assurée par la déclaration obligatoire des conflits d'intérêts, le déport en cas d'intérêt personnel dans les conditions de l'article 16 de la Charte, le renouvellement de la composition, la divulgation publique de tous les avis et un budget protégé: le financement du Conseil ne peut être réduit sans une majorité qualifiée (Charte, article 4). L'interdiction de participer à la gestion des finances (section 06) ne s'applique pas au budget propre du Conseil.
 
 Un membre du Conseil qui participe à la préparation d'un avis sur une question le touchant personnellement ou touchant des personnes qui lui sont liées le déclare avant le début des travaux et ne participe pas à la préparation de l'avis.
 

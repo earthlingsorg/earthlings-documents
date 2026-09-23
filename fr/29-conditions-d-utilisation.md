@@ -27,7 +27,7 @@ Les présentes conditions décrivent comment les participants du peuple interagi
 
 **La transparence.** Chaque règle est expliquée. Il n'y a pas de clauses en petits caractères.
 
-Si quelque chose est obscur ou inacceptable, écrivez-nous. Les propositions de modification des Conditions sont soumises au vote de l'Assemblée.
+Si quelque chose est obscur ou inacceptable, écrivez-nous. Après l'adoption de la Déclaration, les propositions de modification des Conditions sont soumises au vote de l'Assemblée; avant l'adoption, la décision les concernant est prise par l'auteur de la Déclaration selon la procédure du document « La période constituante » (partie 2, point 2).
 
 ---
 
@@ -60,7 +60,7 @@ Ces valeurs sont incarnées dans l'architecture, elles ne sont pas seulement én
 **Âge** - avoir atteint l'âge de 18 ans.
 **Signature** de la Déclaration des Earthlings.
 **Vérification d'identité** par le système propre au peuple.
-Il n'existe pas d'autres conditions d'appartenance. La **cotisation unique** - l'équivalent de 79 USD - couvre la vérification d'identité, la délivrance du passeport et le maintien de l'infrastructure, et n'est pas une condition de l'appartenance. Celui qui ne peut pas la verser lui-même peut entrer dans une file d'attente ouverte, et la cotisation peut être versée pour lui par une autre personne ou par la Trésorerie, mais rien ne le garantit; aucune exonération n'est prévue, la cotisation est en tout état de cause versée intégralement (Charte, article 12 bis).
+Il n'existe pas d'autres conditions d'appartenance. La **cotisation unique** - l'équivalent de 79 USD - couvre la vérification d'identité, la délivrance du passeport et le maintien de l'infrastructure, et n'est pas une condition de l'appartenance. Celui qui ne peut pas la verser lui-même pourra, lorsque l'entrée sera payante, entrer dans une file d'attente ouverte, et la cotisation pourra être versée pour lui par une autre personne ou par la Trésorerie, mais rien ne le garantit; aucune exonération n'est prévue, la cotisation est en tout état de cause versée intégralement (Charte, article 12 bis).
 
 **Ce que cela donne:** le passeport, le droit de vote, la participation aux cellules, l'accès à l'infrastructure.
 
@@ -84,7 +84,7 @@ Il n'existe pas d'autres conditions d'appartenance. La **cotisation unique** - l
 
 Vous répondez de la conservation de votre mot de passe et de vos clés cryptographiques, des actes accomplis depuis votre compte, et de l'obligation d'avertir l'assistance en cas de soupçon de compromission.
 
-**Nous ne pouvons pas restaurer des clés perdues.** Elles ne sont conservées chez nous sous aucune forme. C'est le revers du fait que nul ne peut disposer de votre passeport à votre place.
+**Nous ne pouvons pas restaurer des clés perdues.** Elles ne sont conservées chez nous sous aucune forme. C'est le revers du fait que nous n'avons pas vos clés; nul n'a le droit de détruire le passeport à votre place, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une signature multiple, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »).
 
 ## Les restrictions: ce qui est possible et ce qui ne l'est pas
 
@@ -94,7 +94,7 @@ Vous répondez de la conservation de votre mot de passe et de vos clés cryptogr
 
 **Le droit de vote** ne peut être suspendu **que** pour une atteinte établie à l'intégrité du vote lui-même - entente, achat ou vente d'une voix, contrainte exercée sur d'autres, tentative de contourner la règle « une personne - un passeport » -, pour une durée maximale de 6 mois, selon la procédure de l'article 22 bis de la Charte. Les opinions, le contenu du vote et le désaccord avec les décisions ne sont un motif sous aucune présentation.
 
-**Ce que l'administration peut faire sans décision de l'Assemblée.** Deux choses seulement. La première: suspendre l'accès à un compte en cas de signes manifestes de compromission ou d'attaque technique, avec information immédiate du participant et examen ultérieur par l'Assemblée; c'est une protection de votre compte et non une sanction, et cela n'affecte pas les droits du participant. La seconde: suspendre le compte s'il apparaît qu'une personne n'ayant pas atteint l'âge de 18 ans s'est inscrite (Politique de confidentialité, section 10); le passeport est alors détruit par le titulaire lui-même ou selon la procédure d'annulation d'une délivrance non valide (Charte, article 21).
+**Ce que l'administration peut faire sans décision de l'Assemblée.** Deux choses seulement. La première: suspendre l'accès à un compte en cas de signes manifestes de compromission ou d'attaque technique, avec information immédiate du participant et examen ultérieur par l'Assemblée; avant l'adoption de la Déclaration, tant qu'il n'y a pas d'Assemblée, la suspension est levée dès que les signes de compromission ou d'attaque ont été écartés. C'est une protection de votre compte et non une sanction, et cela n'affecte pas les droits du participant. La seconde: suspendre le compte s'il apparaît qu'une personne n'ayant pas atteint l'âge de 18 ans s'est inscrite (Politique de confidentialité, section 10), en indiquant à la personne les motifs et le délai pour présenter des objections et en y répondant (Déclaration, article 4); il n'y a pas d'organe de recours avant l'adoption de la Déclaration; le passeport est alors détruit par le titulaire lui-même ou selon la procédure d'annulation d'une délivrance non valide (Charte, article 21), et le document temporaire de participant à la constitution est, avant l'adoption de la Déclaration, détruit selon la procédure du document « La période constituante » (partie 2, point 5).
 
 ---
 
@@ -124,7 +124,7 @@ Vous répondez de la conservation de votre mot de passe et de vos clés cryptogr
 1. essayez de régler la question directement;
 2. avec l'accord de l'autre partie, adressez-vous à un médiateur indépendant: il n'y a pas de médiation sans l'accord des deux parties;
 3. les différends sérieux sont transmis au Conseil indépendant; tant que le Conseil n'est pas constitué, cette étape est omise et les délais de débat sont doublés (Charte, article 39);
-4. dans les cas extrêmes - si la médiation n'a pas abouti et que le différend touche les intérêts de la communauté ou exige une décision de principe -, chacune des parties a le droit de porter la question devant l'Assemblée.
+4. dans les cas extrêmes - si la médiation n'a pas abouti ou si la seconde partie n'y a pas consenti, et que le différend touche les intérêts de la communauté ou exige une décision de principe -, chacune des parties a le droit de porter la question devant l'Assemblée.
 
 ---
 
@@ -154,7 +154,7 @@ En cas de réclamation fondée, le contenu litigieux est retiré, et son auteur 
 
 Un identifiant numérique intransmissible d'appartenance au peuple, existant dans un registre distribué.
 
-**Ce qu'il donne:** l'attestation du statut, le droit de vote, l'accès à l'infrastructure, la participation aux cellules.
+**Ce qu'il donne:** l'attestation du statut et du droit de vote, l'accès à l'infrastructure, la participation aux cellules.
 
 **Ce qu'il ne donne pas:** ni nationalité, ni droit d'entrée dans un pays, ni remplacement d'un passeport national, ni statut officiel devant les administrations, ni revenu.
 
@@ -164,7 +164,7 @@ Un identifiant numérique intransmissible d'appartenance au peuple, existant dan
 
 **Intransmissibilité.** Le passeport ne peut être ni vendu, ni transmis, ni donné, ni recueilli en succession; la transmission est bloquée dans le contrat lui-même.
 
-**Immuabilité.** L'inscription ne peut être ni falsifiée ni modifiée à l'insu de tous.
+**Immuabilité.** L'inscription ne peut être modifiée à l'insu de tous.
 
 **Confidentialité.** Le fait de détenir un passeport est visible dans le registre; vos données personnelles ne le sont pas.
 
@@ -172,7 +172,7 @@ Un identifiant numérique intransmissible d'appartenance au peuple, existant dan
 
 Vous détruisez le passeport avec votre propre clé. Nul ne peut y faire obstacle, pas même le fondateur.
 
-La Charte (article 21) établit deux cas et deux seulement dans lesquels le passeport est détruit par une personne autre que son titulaire: l'annulation d'une délivrance non valide par décision de l'Assemblée, avec droit de se défendre et recours; la réémission technique à la demande du titulaire lui-même. Contre la volonté du titulaire, le passeport n'est détruit que dans le premier cas. Le décès du titulaire n'est pas un motif de destruction: l'appartenance prend fin d'elle-même, et le passeport demeure au registre. Le détail figure dans le document [Passeport SBT de l'earthling](https://earth-lings.org/documents/fr/fr15-passeport-sbt.html).
+La Charte (article 21) établit deux cas et deux seulement dans lesquels le passeport est détruit par une personne autre que son titulaire: l'annulation d'une délivrance non valide par décision de l'Assemblée, avec droit de se défendre et recours; la réémission technique à la demande du titulaire lui-même. Contre la volonté du titulaire, le passeport n'est détruit que dans le premier cas. Avant l'adoption de la Déclaration, il n'y a pas d'Assemblée (Charte, article 38), et le document temporaire de participant à la constitution est détruit contre la volonté de son titulaire selon la procédure du document « La période constituante » (partie 2, point 5). Le décès du titulaire n'est pas un motif de destruction: l'appartenance prend fin d'elle-même, et le passeport demeure au registre. Le détail figure dans le document [Passeport SBT de l'earthling](https://earth-lings.org/documents/fr/fr15-passeport-sbt.html).
 
 ---
 
@@ -202,7 +202,7 @@ Le respect de la législation de votre pays sur les actifs numériques; l'imposi
 
 ## Comment cela fonctionne
 
-L'Assemblée DAO est le **seul organe qui prenne des décisions obligatoires**. Toutes les autres structures assurent un soutien technique ou formulent des recommandations.
+L'Assemblée DAO est le **seul organe qui prenne des décisions obligatoires**. Toutes les autres structures assurent un soutien technique ou formulent des recommandations. La Charte entre en vigueur avec l'adoption de la Déclaration (Charte, article 38); jusque-là, il n'y a ni Assemblée DAO, ni Core Nodes, ni Emergency Multisig, ni Conseil indépendant, et le seul pouvoir discrétionnaire de la période constituante à l'égard des textes est la décision de l'auteur de la Déclaration d'incorporer des propositions au texte (document « La période constituante »).
 
 1. **Proposition.** Tout participant dépose une proposition. Aucune approbation préalable, aucune collecte de signatures et aucun seuil de soutien ne sont exigés.
 2. **Débat.** La proposition est débattue publiquement, précisée et améliorée.
@@ -224,7 +224,7 @@ Tout ce qui est important: modification de la Charte et des règles; répartitio
 
 ## Les situations particulières
 
-En cas d'attaques critiques, l'Emergency Multisig a le droit d'agir immédiatement et, en cas de vulnérabilités critiques, de suspendre immédiatement les contrats intelligents vulnérables; ses autres actes sont soumis au verrou temporel de 24 heures (Charte, article 3), avec un rapport public dans les 48 heures et une confirmation par l'Assemblée dans les 7 jours, faute de quoi l'acte est annulé. Tout acte peut être annulé par l'Assemblée à la majorité simple.
+En cas d'attaques critiques, l'Emergency Multisig a le droit d'agir immédiatement et, en cas de vulnérabilités critiques, de suspendre immédiatement les contrats intelligents vulnérables; ses autres actes sont soumis au verrou temporel de 24 heures (Charte, article 3). Un rapport sur chaque acte est publié dans les 48 heures, et l'Assemblée le confirme dans les 7 jours, faute de quoi l'acte est annulé. Tout acte peut être annulé par l'Assemblée à la majorité simple.
 
 Un abus entraîne une révocation à la majorité simple à tout moment.
 

@@ -14,7 +14,7 @@ Aujourd'hui, la Déclaration existe comme version initiale, préparée pour la c
 
 Nous le disons franchement, car autrement naîtrait l'impression fausse qu'on vous invite à corriger un texte alors que les autres arriveraient tout faits. Non: tout document du corpus peut être corrigé. Ce qui diffère, ce n'est pas le droit de chacun de faire une proposition, mais ce qu'il advient ensuite d'une proposition retenue: la section 02 y est consacrée.
 
-Une fois cette période achevée, la Déclaration sera soumise à un vote commun. Si elle est adoptée, elle deviendra le document constitutif du peuple, et les principes de son noyau intangible seront à jamais inabrogeables.
+À la fin de cette période, la Déclaration sera soumise à un vote commun; la période s'achèvera lorsque le vote aura définitivement décidé si le texte est adopté ou non. Si elle est adoptée, elle deviendra le document constitutif du peuple, et les principes de son noyau intangible seront à jamais inabrogeables.
 
 C'est une question de principe.
 
@@ -22,33 +22,33 @@ Nous ne voulons pas créer d'abord un peuple avec des règles toutes faites, pui
 
 C'est pourquoi chacun peut proposer une modification. Chaque proposition sera examinée et publiée avec la réponse qui lui est faite. Et la décision définitive sera prise par les participants à la constitution eux-mêmes.
 
-Après son adoption, la Déclaration devient intangible précisément parce qu'elle a été adoptée par ceux qu'elle réunit.
+Après l'adoption, les principes de la Partie I de la Déclaration deviennent intangibles précisément parce que la Déclaration a été adoptée par ceux qu'elle réunit.
 
 Demeureront modifiables les institutions, les procédures, les mécanismes économiques et les manières de travailler ensemble. Ils doivent se développer avec le peuple.
 
-Demeure intangible sa seule base constitutive: les conditions fondamentales de l'appartenance volontaire d'une personne à ce peuple.
+Demeure intangible sa seule base constitutive: les principes établis par la Partie I de la Déclaration; c'est sur eux que repose l'appartenance volontaire d'une personne à ce peuple.
 
 C'est ainsi que nous voulons que les Earthlings soient créés non pas pour les gens, mais **par les gens eux-mêmes**.
 
-**État actuel.** L'infrastructure du peuple des Earthlings est bâtie et fonctionne: vérification d'identité, passeport, registre, vote, trésorerie ouverte. Ce qui n'est pas adopté, c'est le texte constitutif.
+**État actuel.** Le contrat du registre des passeports, la vérification d'identité, les cellules et la comptabilité de l'économie interne sont déployés et fonctionnent; le canal public de vote est déployé, mais aucun vote de fond n'y a encore eu lieu, l'outil de vote secret est en cours de sélection, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). Ce qui n'est pas adopté, c'est le texte constitutif.
 
-Du 22 octobre 2026 au 20 janvier 2027, tout le corpus est ouvert aux propositions: la Déclaration, la Charte et les vingt-trois autres documents. Toute personne peut en faire. Le 17 février 2027, le texte est approuvé par le vote de ceux qui ont fait vérifier leur identité. À compter de ce jour, les cinq principes du noyau intangible ne sont plus jamais abrogés, et le reste du texte n'est modifié que par le peuple lui-même et seulement dans le sens d'une protection accrue de la personne.
+Du 22 octobre 2026 au 20 janvier 2027, tout le corpus est ouvert aux propositions: la Déclaration, la Charte et les vingt-trois autres documents. Toute personne peut en faire. Le 17 février 2027, le texte est soumis au vote de ceux qui ont fait vérifier leur identité. À compter de son adoption, les principes de la Partie I de la Déclaration ne sont plus jamais abrogés, et leur rédaction ainsi que le reste du texte ne sont modifiés que par le peuple lui-même - aux deux tiers des voix exprimées, avec quorum, et seulement de telle sorte qu'aucun principe ne soit restreint et qu'aucune garantie donnée à la personne ne devienne plus faible.
 
 ## 01. Pourquoi nous procédons ainsi
 
-Après son adoption, la Déclaration deviendra intangible parce qu'elle aura été adoptée par ceux qu'elle réunit.
+Après l'adoption, les principes de la Partie I de la Déclaration seront intangibles parce que la Déclaration aura été adoptée par ceux qu'elle réunit.
 
-Il y a une seconde raison. Un peuple bâti sur la participation de tous ne peut pas arriver tout fait devant les gens. Tant que les textes ne sont pas adoptés, chacun a la possibilité d'agir sur eux, et cette possibilité est réelle et non décorative: ce qui entrera dans la Déclaration vaudra sans limite de durée, et ce qui entrera dans les autres documents s'appliquera aussitôt.
+Il y a une seconde raison. Un peuple bâti sur la participation de tous ne peut pas arriver tout fait devant les gens. Tant que les textes ne sont pas adoptés, chacun a la possibilité d'agir sur eux, et cette possibilité est réelle et non décorative: ce qui entrera dans la Déclaration vaudra sans limite de durée, ce qui entrera dans la Charte prendra effet en tant que Charte en même temps qu'elle, et ce qui entrera dans les autres documents s'appliquera aussitôt.
 
 ## 02. Ce qui est ouvert aux propositions
 
-Tout le corpus est ouvert. On peut faire une proposition sur n'importe quel document, et le droit d'en faire une est le même pour tous. Ce qui diffère, ce sont les conséquences, car les documents n'ont pas la même force.
+Tout le corpus est ouvert, y compris le présent document. On peut faire une proposition sur n'importe quel document, et le droit d'en faire une est le même pour tous. Ce qui diffère, ce sont les conséquences, car les documents n'ont pas la même force; les limites de la modification de la partie 2 du présent document sont établies dans cette partie elle-même (section 2).
 
 ### La Déclaration
 
-Document constitutif. Elle est adoptée par le vote du 17 février 2027.
+Document constitutif. Il est soumis au vote le 17 février 2027.
 
-Toutes ses rédactions sont ouvertes. La composition du noyau intangible l'est aussi: les propositions tendant à le compléter sont examinées au même titre que les autres si elles passent le test de la section 04. Ne sont pas examinées les seules propositions tendant à abroger ou à restreindre les principes du noyau eux-mêmes; en proposer une rédaction plus précise est possible.
+Toutes ses rédactions sont ouvertes. La composition du noyau intangible l'est aussi: les propositions tendant à le compléter sont examinées au même titre que les autres et sont retenues si elles passent le test de la section 04. Ne sont pas examinées les seules propositions tendant à abroger ou à restreindre les principes du noyau eux-mêmes; en proposer une rédaction plus précise est possible.
 
 Après l'adoption, les principes du noyau ne sont jamais abrogés, et les autres dispositions, le peuple les modifie lui-même - aux deux tiers des voix et seulement de manière qu'aucune garantie de la personne ne devienne plus faible.
 
@@ -56,7 +56,7 @@ Après l'adoption, les principes du noyau ne sont jamais abrogés, et les autres
 
 Le document d'organisation principal: âge de participation, seuils de vote, délais, procédure de recours, restriction de pouvoirs, modalités d'annulation d'une délivrance de passeport.
 
-La Déclaration charge la Charte d'établir presque tout ce qui se passe en pratique, aussi la Charte entre-t-elle en vigueur avec elle: sans elle, il n'y aurait au premier jour aucune procédure en vigueur. Elle n'est pas adoptée par un vote distinct, mais les propositions qui la visent sont reçues au même titre que celles qui visent la Déclaration et sont intégrées au texte avant le jour de l'adoption.
+La Déclaration charge la Charte d'établir presque tout ce qui se passe en pratique, aussi la Charte entre-t-elle en vigueur avec elle: sans elle, il n'y aurait au premier jour aucune procédure en vigueur. Elle n'est pas adoptée par un vote distinct, mais les propositions qui la visent sont reçues au même titre que celles qui visent la Déclaration et sont intégrées à la version publiée le 3 février 2027.
 
 Ensuite, c'est le peuple lui-même qui modifie la Charte - par une décision de l'Assemblée, à tout moment et selon la procédure que la Charte établit elle-même. Elle ne peut en aucune circonstance abaisser les exigences de la Déclaration.
 
@@ -91,7 +91,7 @@ Tout ce qui a force se trouve dans le corpus et y est intégralement ouvert aux 
 
 ## 03. Ce qui ne se discute pas
 
-Cinq dispositions ne se discutent en aucune circonstance. Un peuple auprès duquel on pourrait les négocier ne se distinguerait en rien de ce qui existe déjà.
+Cinq dispositions principales ne se discutent en aucune circonstance. Un peuple auprès duquel on pourrait les négocier ne se distinguerait en rien de ce qui existe déjà.
 
 - **Une personne, une voix.** La voix ne peut être achetée, vendue, accumulée ni transmise de façon irrévocable.
 - **Le pouvoir des uns sur les autres n'existe pas.** Nul n'est placé au-dessus d'un autre earthling; les pouvoirs sont limités, révocables et vérifiables, une mission ne devient pas une fonction.
@@ -99,7 +99,7 @@ Cinq dispositions ne se discutent en aucune circonstance. Un peuple auprès duqu
 - **La sortie est libre.** À tout moment, sans avoir à s'expliquer. L'exclusion du peuple n'existe pas.
 - **Le peuple parle, mais ne contraint pas.** La violence est exclue sans exception.
 
-Les cinq sont inscrites aux articles 3, 4 et 5 de la Déclaration, énumérées à son article 11 et forment le noyau intangible. Les propositions tendant à abroger ou à restreindre ces principes ne sont pas examinées. Les propositions tendant à préciser les rédactions et à compléter le noyau sont examinées au même titre que toutes les autres.
+Les cinq sont inscrites dans la Partie I de la Déclaration et énumérées à son article 11 comme les principaux des principes du noyau intangible, le noyau lui-même étant formé par toute la Partie I. Les propositions tendant à abroger ou à restreindre les principes de celle-ci ne sont pas examinées. Les propositions tendant à préciser les rédactions et à compléter le noyau sont examinées au même titre que toutes les autres.
 
 Ce qui est intangible, ce sont les principes eux-mêmes et non les lettres qui les écrivent. Une rédaction peut être précisée si la précision ne restreint pas le principe et n'abaisse aucune garantie de la personne; en cas de doute, elle est réputée l'abaisser et n'est pas retenue. Le reste du texte de la Déclaration, le peuple a le droit de le modifier, de le compléter et de le réduire - aux deux tiers des voix et seulement de manière qu'aucune garantie ne devienne plus faible.
 
@@ -130,7 +130,7 @@ La réponse est publiée en anglais et dans la langue de la proposition. Nous di
 
 Il y a une seconde raison d'ouvrir les neuf langues, outre l'évidente. Une personne qui lit la Déclaration dans sa langue remarque dans la traduction ce que nous ne voyons pas. Ces remarques ne valent pas moins pour nous que les objections de fond, et nous vous demandons de les envoyer.
 
-La participation à la constitution ne donne aucun avantage après elle. Il n'y aura pas de classe de fondateurs dans ce peuple: cela est inscrit à l'article 8 de la Déclaration et fait partie du noyau intangible.
+La participation à la constitution ne donne aucun avantage après elle. Il n'y aura pas de classe de fondateurs dans ce peuple: cela est inscrit à l'article 8 de la Déclaration et découle de son noyau intangible - selon l'article 4, la force de la voix ne dépend ni de la durée de la participation ni des mérites.
 
 ## 06. Ce qui se passe si vous n'êtes pas d'accord avec le texte adopté
 
@@ -144,8 +144,8 @@ Aucune décision prise avant votre accord ne vous oblige à quoi que ce soit.
 
 - **22 octobre 2026** - la réception des propositions est ouverte pour tout le corpus.
 - **20 janvier 2027** - la réception des propositions est close.
-- **3 février 2027** - le relevé est publié: toutes les propositions reçues et les réponses qui leur sont faites. Le même jour sont publiées les versions définitives de la Déclaration et de la Charte soumises au vote, en russe et en anglais.
-- **17 février 2027** - adoption de la Déclaration par un vote.
+- **3 février 2027** - le relevé est publié: toutes les propositions reçues et les réponses qui leur sont faites. Le même jour sont publiées la version définitive de la Déclaration soumise au vote et la version définitive de la Charte, qui entre en vigueur en même temps qu'elle, en russe et en anglais.
+- **17 février 2027** - vote sur l'adoption de la Déclaration.
 
 Les corrections apportées aux autres documents du corpus se font au fil de la période et non à ces dates: ils ne sont pas adoptés par un vote et n'ont aucune raison d'attendre le 17 février.
 
@@ -153,7 +153,7 @@ Les corrections apportées aux autres documents du corpus se font au fil de la p
 
 Par courriel à team@earth-lings.org. Un seul mot suffit en objet: objection.
 
-Toutes les propositions et les réponses qui leur sont faites sont tenues dans un registre ouvert: <https://github.com/earthlingsorg/earthlings-documents>. Toute personne peut le consulter sans inscription; y déposer des propositions directement est également possible, si cela vous convient mieux. Le registre contient tout le corpus, et non la seule Déclaration, et chaque modification de chaque document y est visible ligne par ligne et rattachée à la proposition qui l'a amenée.
+Toutes les propositions et les réponses qui leur sont faites sont tenues dans un registre ouvert: <https://github.com/earthlingsorg/earthlings-documents>. Toute personne peut le consulter sans inscription; y déposer des propositions directement est également possible, si cela vous convient mieux, mais cela suppose un compte GitHub; sans compte, un courriel suffit. Le registre contient tout le corpus, et non la seule Déclaration, et chaque modification de chaque document y est visible ligne par ligne et rattachée à la proposition qui l'a amenée.
 
 Nous répondons à tout et publions tout, y compris ce qui ne nous arrange pas. Tous les arguments contre notre propre construction que nous connaissons, nous les avons écrits nous-mêmes avant de le demander à d'autres.
 
@@ -167,7 +167,7 @@ Les propositions sont reçues du 22 octobre 2026 au 20 janvier 2027 inclus.
 
 Toute personne a le droit de faire une proposition. L'adhésion, la vérification d'identité, le versement de sommes et l'accord avec les dispositions de la Déclaration ne sont pas requis à cette fin.
 
-Une proposition est reçue sur n'importe quel document du corpus. Il est souhaitable de nommer le document et l'endroit visé; à défaut, le document est déterminé d'après le contenu de la proposition, et celle-ci n'est pas rejetée pour un motif de forme.
+Une proposition est reçue sur n'importe quel document du corpus. Il est souhaitable de nommer le document et l'endroit visé; à défaut, le document est déterminé d'après le contenu de la proposition, et celle-ci n'est pas rejetée pour un motif de forme. L'endroit est indiqué d'après le texte russe ou le texte anglais: ils sont reconnus comme faisant également foi (Déclaration, article 11). Une proposition portant sur une traduction indique l'endroit dans la langue qu'elle vise - la numérotation des sections et des paragraphes peut différer dans les traductions.
 
 Une proposition est reçue par écrit à l'adresse indiquée dans la section « Où envoyer ». La forme de l'exposé est libre. Les propositions anonymes sont reçues et examinées au même titre que les autres.
 
@@ -185,9 +185,9 @@ Une proposition **de traduction** signale qu'une traduction rend le sens de mani
 
 Le type auquel appartient une proposition est déterminé d'après son contenu, et non d'après la manière dont elle est intitulée. Si une proposition de traduction révèle une obscurité du texte-maître lui-même, elle est aussi examinée comme une proposition de fond.
 
-**Quel texte est l'objet du vote.** Le vote du 17 février 2027 porte sur les textes russe et anglais: ils sont reconnus comme faisant également foi (Déclaration, article 11). Les textes dans les sept autres langues sont des traductions officielles. On peut lire et voter en s'appuyant sur l'une quelconque d'entre elles, mais en cas de divergence s'applique l'interprétation qui donne à la personne la protection la plus élevée et, si elle ne résout pas la divergence, le sens du texte russe.
+**Quel texte est l'objet du vote.** Le vote du 17 février 2027 porte sur les textes russe et anglais: ils sont reconnus comme faisant également foi (Déclaration, article 11). Les textes dans les sept autres langues sont des traductions officielles. On peut lire et voter en s'appuyant sur l'une quelconque d'entre elles, mais en cas de divergence d'une traduction avec les textes russe et anglais, ce sont ces deux textes qui s'appliquent et, en cas de divergence entre eux, l'interprétation qui donne à la personne la protection la plus élevée; si la comparaison des textes ne résout pas la divergence, c'est le sens du texte russe qui s'applique.
 
-**L'état des traductions.** Le corpus dans les neuf langues est mis en conformité avec les textes-maîtres russes avant l'ouverture de la réception des propositions, le 22 octobre 2026. Les versions définitives soumises au vote sont publiées en russe et en anglais le 3 février 2027, et les traductions dans les sept autres langues le sont dans le même délai. Si, à cette date, une traduction n'est pas prête, cela est indiqué sans détour, avec la langue et le motif; nous ne ferons pas passer une traduction non prête pour prête.
+**L'état des traductions.** Le texte anglais du corpus est mis en conformité avec les textes-maîtres russes avant l'ouverture de la réception des propositions, le 22 octobre 2026; tant qu'une traduction dans une autre langue est en retard sur le texte-maître, sa page l'indique, et en cas de divergence c'est le texte-maître russe qui s'applique, sauf pour la Déclaration, où s'applique la règle exposée ci-dessus. Les versions définitives soumises au vote sont publiées en russe et en anglais le 3 février 2027, et les traductions dans les sept autres langues le sont dans le même délai. Si, à cette date, une traduction n'est pas prête, cela est indiqué sans détour, avec la langue et le motif; nous ne ferons pas passer une traduction non prête pour prête.
 
 ## 2. Publication et examen
 
@@ -195,13 +195,13 @@ Chaque proposition reçue est publiée avec la réponse qui lui est faite, qu'el
 
 La publication se fait dans le registre ouvert nommé à la section « Où envoyer ». Chaque proposition y fait l'objet d'une inscription distincte, la réponse y est rattachée, et toute correction de tout document du corpus est reliée à la proposition qui l'a provoquée. Qui a influé sur le texte et par quoi se voit dans le registre lui-même et ne dépend pas de ce que nous penserons à le dire.
 
-La décision d'intégrer une proposition au texte appartient à l'auteur de la Déclaration, pour tous les documents du corpus. C'est le seul pouvoir discrétionnaire de la période constituante, et il est nommé ici sans détour: avant l'adoption du texte, il n'existe pas de peuple qui pourrait décider à la place de l'auteur, et confier cette décision à un groupe reviendrait à faire des constituants non pas les participants, mais des invités.
+La décision d'intégrer une proposition au texte appartient à l'auteur de la Déclaration, pour tous les documents du corpus. C'est le seul pouvoir discrétionnaire de la période constituante à l'égard des textes, et il est nommé ici sans détour (les endroits où il faut, avant l'adoption, faire confiance au fondateur sont nommés dans le document « Où nous en sommes »): avant l'adoption du texte, il n'existe pas de peuple qui pourrait décider à la place de l'auteur, et confier cette décision à un groupe reviendrait à faire des constituants non pas les participants, mais des invités.
 
 Ce pouvoir est limité de trois manières: chaque rejet est publié avec son motif; chaque proposition demeure dans le relevé ouvert et peut être déposée de nouveau; le texte final de la Déclaration est adopté non par l'auteur, mais par un vote, et peut être rejeté.
 
-Une proposition retenue visant la Déclaration et la Charte entre dans la version publiée le 3 février 2027. Une proposition retenue visant les autres documents y est intégrée immédiatement, et le texte publié s'applique dès ce jour: ces documents ne sont pas adoptés par un vote, et il n'y a aucune raison de retenir une correction jusqu'au 17 février.
+Une proposition retenue visant la Déclaration et la Charte entre dans la version publiée le 3 février 2027. Une proposition retenue visant les autres documents y est intégrée immédiatement, et le texte publié s'applique dès ce jour: ces documents ne sont pas adoptés par un vote, et il n'y a aucune raison de retenir une correction jusqu'au 17 février. Une modification de la partie 2 du présent document intervenue après l'ouverture de la réception des propositions ne déplace ni la date de clôture de la réception des propositions, ni celle de la publication du relevé, ni celle de l'annonce des modalités du vote, ni celle du vote lui-même; elle ne change pas les conditions d'adoption ni de report, ne supprime ni le secret du vote ni la possibilité de démontrer le résultat, et ne restreint pas le cercle des votants; une telle modification est publiée au plus tard le 3 février 2027.
 
-Le pouvoir de l'auteur prend fin avec la période constituante. À compter de ce jour, seule l'Assemblée modifie tout document du corpus.
+Le pouvoir de l'auteur prend fin avec la période constituante. Si le texte est adopté, à compter de ce jour seule l'Assemblée modifie tout document du corpus.
 
 ## 3. Le relevé
 
@@ -209,7 +209,7 @@ Le relevé de toutes les propositions reçues et des réponses qui leur ont ét�
 
 ## 4. Ce qui n'est pas examiné
 
-Les propositions tendant à abroger ou à restreindre les principes prévus aux articles 3, 4 et 5 de la Déclaration et énumérés à son article 11 ne sont pas examinées. Les propositions tendant à préciser les rédactions de ces articles sont examinées au même titre que les autres.
+Les propositions tendant à abroger ou à restreindre les principes établis par la Partie I de la Déclaration (les principaux d'entre eux sont énumérés à son article 11) ne sont pas examinées. Les propositions tendant à préciser les rédactions de la Partie I sont examinées au même titre que les autres.
 
 Les propositions tendant à compléter le noyau intangible sont examinées au même titre que les autres et ne sont retenues que si elles satisfont aux quatre conditions du test exposé plus haut.
 
@@ -219,32 +219,32 @@ Les propositions tendant à compléter le noyau intangible sont examinées au m�
 
 La signature de la Déclaration et l'adhésion au peuple sont suspendues pour la durée de la période constituante: il n'y a encore rien à signer, et le peuple défini par un texte adopté n'existe pas encore.
 
-La vérification d'identité est gratuite et se poursuit pendant toute la période. À l'issue de la vérification est délivré un document temporaire de participant à la constitution: il ne remplace ni ne préfigure le passeport earthling, dont la délivrance commencera après l'adoption du texte, dans le cadre du régime ordinaire.
+La vérification d'identité est gratuite et se poursuit pendant toute la période. À l'issue de la vérification est délivré un document temporaire de participant à la constitution: il ne remplace ni ne préfigure le passeport earthling, dont la délivrance commencera après l'adoption du texte, dans le cadre du régime ordinaire. Il est possible de renoncer à tout moment au statut de participant à la constitution: le titulaire détruit lui-même le document temporaire, avec sa propre clé, et nul ne peut y faire obstacle. Contre la volonté de son titulaire, le document temporaire n'est détruit que pour l'un des trois motifs de l'article 8 de la Déclaration: plus d'un document valide a été délivré à une même personne (tous sont détruits, sauf celui délivré en premier), la vérification a été obtenue au moyen de renseignements falsifiés ou de l'identité d'autrui, ou le document a été délivré à une personne n'ayant pas atteint l'âge de 18 ans. La décision correspondante et, lorsque le motif est l'âge, celle de supprimer les données (Politique de confidentialité, section 10) appartiennent à l'auteur de la Déclaration: le motif et le délai pour présenter des objections sont indiqués au titulaire, il est répondu aux objections (Déclaration, article 4), et le document n'est détruit que si le motif est confirmé après leur examen; il n'y a pas d'organe de recours avant l'adoption de la Déclaration. Ce pouvoir n'est pas discrétionnaire: les motifs sont au nombre de trois, et il n'y en a pas d'autres.
 
 ## 6. L'adoption du texte
 
-Le texte est adopté par un vote le 17 février 2027. Votent les personnes ayant fait vérifier leur identité, selon le principe « une personne - une voix ». Le vote est secret: personne, y compris ceux qui exploitent l'infrastructure, ne peut établir comment un participant déterminé a voté, ni s'en assurer même avec son accord; le résultat peut néanmoins être démontré à quiconque. Les modalités du vote sont annoncées le 3 février 2027, en même temps que les versions définitives.
+Le texte est adopté par un vote le 17 février 2027. Votent les personnes ayant fait vérifier leur identité, selon le principe « une personne - une voix ». Le vote est secret: personne, y compris ceux qui exploitent l'infrastructure, ne peut établir comment un participant déterminé a voté, ni s'en assurer même avec son accord; le résultat peut néanmoins être démontré à quiconque. Les modalités du vote sont annoncées le 3 février 2027, en même temps que les versions définitives. S'il est impossible de tenir le vote au jour fixé pour une raison technique, il se tient le premier jour suivant la levée de cette raison, mais au plus tard quatorze jours après le jour fixé; la raison et le nouveau jour sont publiés avant l'ouverture du vote. Un tel déplacement n'est pas réputé report au sens de la section 7. Si la raison n'est pas levée dans les quatorze jours, le jour de l'adoption est reporté selon la section 7, et ce report compte comme l'un des deux. Si les deux reports de la section 7 sont déjà utilisés, le jour de l'adoption est reporté une fois encore, de trois mois, aux conditions que la section 7 fixe pour un vote après le second report; si, même alors, la raison technique n'est pas levée dans les quatorze jours, le texte n'est pas adopté, cela est publié au plus tard le lendemain, et avec cette publication la période constituante s'achève et le pouvoir de l'auteur prend fin.
 
 Le vote porte sur deux textes à la fois, le russe et l'anglais. Tous deux sont reçus comme faisant également foi (Déclaration, article 11); le texte anglais doit donc être prêt et publié au plus tard le jour de la publication du relevé, le 3 février 2027: on ne peut voter que sur ce que l'on peut lire à l'avance.
 
-Le texte est réputé adopté si trois conditions sont réunies en même temps:
+Le texte est réputé adopté si trois conditions sont réunies en même temps (l'exception applicable au vote après le second report figure à la section 7):
 
 1. les deux tiers au moins des voix exprimées lors du vote se sont prononcés pour l'adoption;
 2. au moins cent participants vérifiés ont pris part au vote;
-3. au moins trente pour cent du nombre total de participants vérifiés au 20 janvier 2027 ont pris part au vote.
+3. au moins trente pour cent du nombre total de participants vérifiés au jour du vote ont pris part au vote; n'entrent dans ce nombre que les titulaires d'un document temporaire en vigueur.
 
 Si aucune proposition n'est parvenue ou si aucune des propositions parvenues n'a été intégrée au texte, la présente version est soumise au vote sans modification.
 
 ## 7. Si les conditions d'adoption ne sont pas réunies
 
-Le jour de l'adoption est reporté de trois mois. Le report est admis deux fois au plus.
+Si la condition de participation (point 2 ou 3) n'est pas remplie, le jour de l'adoption est reporté de trois mois; le report est admis deux fois au plus. Si les conditions de participation sont remplies mais que moins des deux tiers des voix exprimées lors du vote se sont prononcés pour l'adoption, le texte n'est pas adopté.
 
-Si, après le second report, les conditions d'adoption ne sont pas réunies, l'exigence de participation d'au moins cent participants vérifiés cesse de s'appliquer. Le texte est réputé adopté si les deux tiers au moins des voix exprimées se sont prononcés pour lui, avec la participation d'au moins trente pour cent du nombre total de participants vérifiés au 20 janvier 2027.
+Si, même après le second report, la condition de participation n'est pas remplie, l'exigence de participation d'au moins cent participants vérifiés cesse de s'appliquer: le texte est réputé adopté si au moins trente pour cent du nombre total de participants vérifiés au jour du vote ont pris part au vote et si les deux tiers au moins des voix exprimées se sont prononcés pour lui; sinon, le texte n'est pas adopté.
 
-Les autres exigences ne sont abaissées en aucune circonstance.
+Les autres exigences ne sont abaissées en aucune circonstance. Si le texte n'est pas adopté, le résultat est publié avec les données du vote au plus tard le lendemain de la clôture du vote, et avec cette publication la période constituante s'achève et le pouvoir de l'auteur prend fin; une nouvelle constitution n'est possible que par une nouvelle période constituante, avec une nouvelle réception des propositions.
 
 ## 8. L'application des présentes règles
 
-Les présentes règles s'appliquent à compter du jour de l'ouverture de la réception des propositions et cessent de produire effet dès l'adoption du texte.
+Les présentes règles s'appliquent à compter du jour de l'ouverture de la réception des propositions et cessent de produire effet dès l'adoption du texte ou, si le texte n'est pas adopté, dès la publication constatant qu'il n'a pas été adopté.
 
 Le jour de l'adoption, l'article 12 de la Déclaration est complété par les données réelles du vote et demeure dans le texte à jamais. La section « Statut de la présente version » n'est pas reproduite dans la version adoptée.

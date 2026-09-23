@@ -2,7 +2,7 @@
 
 **Guide pratique**
 
-> Le présent document décrit les modalités d'adhésion et de changement de statut. En cas de divergence, la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html) s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration.
+> Le présent document décrit les modalités d'adhésion et de changement de statut. En cas de divergence, la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html) s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration. Pendant la période constituante - du 22 octobre 2026 jusqu'à l'adoption de la Déclaration -, la signature de la Déclaration et l'adhésion au peuple sont suspendues: le peuple défini par un texte adopté n'existe pas encore. La vérification d'identité est menée gratuitement durant cette période et donne lieu à la délivrance d'un document temporaire de participant à la constitution, et non d'un passeport (document « La période constituante », partie 2, point 5). Le document temporaire est émis dans le même contrat que le passeport (document « Où nous en sommes »). Ce qui suit décrit le régime principal, qui commencera après l'adoption de la Déclaration.
 
 ---
 
@@ -18,15 +18,15 @@ Il n'existe pas d'autres conditions. L'appartenance nationale, la race, la relig
 
 La **cotisation unique** - l'équivalent de 79 USD - couvre la vérification d'identité, la délivrance du passeport et le maintien de l'infrastructure. Elle n'est pas une condition de l'appartenance.
 
-> **Si vous ne pouvez pas verser la cotisation**, vous pouvez entrer dans une file d'attente ouverte, et la cotisation peut être versée pour vous par une autre personne ou par la Trésorerie; rien ne le garantit. La section 9 y est consacrée. Vous n'aurez ni à prouver ni à expliquer quoi que ce soit. La cotisation n'achète pas l'appartenance au peuple: celle-ci naît de la signature de la Déclaration.
+> **Si vous ne pouvez pas verser la cotisation**, lorsque l'entrée sera payante, vous pourrez entrer dans une file d'attente ouverte, et la cotisation pourra être versée pour vous par une autre personne ou par la Trésorerie; rien ne le garantit. La section 9 y est consacrée. Vous n'aurez ni à prouver ni à expliquer quoi que ce soit. La cotisation n'achète pas l'appartenance au peuple: celle-ci naît de la signature de la Déclaration.
 
 ---
 
 ## 2. Six étapes
 
-**1. Prise de connaissance.** Lisez la Déclaration, les Conditions d'utilisation et la Politique de confidentialité. Tous les documents sont ouverts avant l'adhésion et n'exigent rien en échange de leur lecture.
+**1. Prise de connaissance.** Lisez la Déclaration, les Conditions d'utilisation, la Politique de confidentialité et la Politique de vérification biométrique. Tous les documents sont ouverts avant l'adhésion et n'exigent rien en échange de leur lecture.
 
-**2. Inscription.** Adresse électronique, pays de résidence, pseudonyme ou nom, à votre choix.
+**2. Inscription.** Adresse électronique (confirmée par un code), pays de résidence, prénom et nom en caractères latins tels qu'ils figurent dans le document (ils servent à la comparaison avec celui-ci), et nom public: pseudonyme ou nom, à votre choix.
 
 **3. Vérification de l'identité.** Numérisation du visage et comparaison avec un document d'identité.
 
@@ -64,7 +64,7 @@ Il importe de le savoir avant de payer et non après.
 - **il n'affecte ni votre nationalité, ni vos impôts, ni vos juges** - tout reste comme avant;
 - **il ne rapporte aucun revenu** et n'est pas un placement financier.
 
-Au sein du peuple, le passeport donne tout: voix égale, participation aux décisions, appartenance inaliénable. Au-delà, la discernabilité juridique du peuple ne fait que s'accumuler - par la pratique, le temps et le nombre de participants.
+Au sein du peuple, vous avez tout: voix égale, participation aux décisions, appartenance inaliénable; tout cela naît de la signature de la Déclaration, et le passeport le confirme. Au-delà, la discernabilité juridique du peuple ne fait que s'accumuler - par la pratique, le temps et le nombre de participants.
 
 ---
 
@@ -75,7 +75,7 @@ Au sein du peuple, le passeport donne tout: voix égale, participation aux déci
 - participer de bonne foi aux votes;
 - être transparent dans la réalisation des projets et rendre compte de l'usage des fonds communs.
 
-Ce sont des obligations, non des conditions de conservation du statut: leur manquement n'entraîne ni exclusion ni perte de la voix. Pour manquements graves, une seule mesure s'adresse à la personne - l'avertissement, et il ne retire rien: ni la voix, ni le droit de faire des propositions, ni la participation aux cellules, ni l'accès aux services, ni quoi que ce soit d'autre. Les autres mesures s'adressent à un projet ou à une cellule: le peuple a le droit de cesser d'allouer les fonds communs et de retirer son nom, et cela ne porte aucune atteinte aux droits d'une personne ([Charte, article 22](https://earth-lings.org/documents/fr/fr05-charte.html)).
+Ce sont des obligations, non des conditions de conservation du statut: leur manquement n'entraîne ni exclusion ni perte de la voix. Pour manquements graves, une seule mesure s'adresse à la personne - l'avertissement, et il ne retire rien: ni la voix, ni le droit de faire des propositions, ni le droit de créer des cellules et d'y entrer, ni l'accès aux services, ni quoi que ce soit d'autre. Les autres mesures s'adressent à un projet ou à une cellule: le peuple a le droit de cesser d'allouer les fonds communs et de retirer son nom, et cela ne porte aucune atteinte aux droits d'une personne ([Charte, article 22](https://earth-lings.org/documents/fr/fr05-charte.html)).
 
 ---
 
@@ -85,9 +85,9 @@ Ce sont des obligations, non des conditions de conservation du statut: leur manq
 
 **Suspendu.** Une pause **par votre propre décision**. Le passeport est conservé, le droit de vote est suspendu par vous-même, les unités de compte restent sur le portefeuille, l'accès à l'information est conservé. Durée maximale: 12 mois. La reprise se fait par une déclaration depuis l'espace personnel, sans nouvelle vérification d'identité.
 
-**Inactif.** Attribué automatiquement si vous n'avez accompli aucun acte pendant 12 mois et n'avez pas répondu à la demande. Le passeport est conservé, **le droit de vote est intégralement conservé** et peut être exercé à tout moment; votre voix cesse seulement d'être prise en compte dans le calcul du quorum, afin de ne pas en élever les exigences pour les autres. Au premier acte, le statut est rétabli automatiquement.
+**Inactif.** Attribué automatiquement si vous n'avez accompli aucun acte pendant 12 mois et n'avez pas répondu à la demande. Le passeport est conservé, **le droit de vote est intégralement conservé** et peut être exercé à tout moment; un earthling inactif n'entre pas dans le nombre sur lequel le quorum est calculé, afin de ne pas en élever les exigences pour les autres. Au premier acte, le statut est rétabli automatiquement.
 
-**Sortie.** Déclaration depuis l'espace personnel, puis un délai de 72 heures par défaut - une protection contre une décision impulsive, à laquelle vous avez le droit de renoncer. Vous détruisez ensuite le passeport **avec votre propre clé**: le serveur ne conserve pas vos clés et ne peut ni empêcher la sortie ni l'accomplir à votre place. La sortie prend effet dès la destruction.
+**Sortie.** Demande depuis l'espace personnel, puis un délai de 72 heures par défaut - une protection contre une décision impulsive, à laquelle vous avez le droit de renoncer. Vous détruisez ensuite le passeport **avec votre propre clé**: le serveur ne conserve pas vos clés et ne peut pas empêcher la sortie; nul n'a le droit de détruire le passeport à votre place, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une signature multiple, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »). La sortie prend effet dès la destruction ou, s'il n'y a pas de passeport en vigueur, à l'expiration du délai ou dès le moment où vous y avez renoncé.
 
 **Retour.** Vous pouvez revenir à tout moment, en suivant à nouveau la procédure ordinaire: vérification d'identité et cotisation couvrant son prix de revient. Le passeport antérieur détruit ne fait pas obstacle au retour.
 

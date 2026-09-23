@@ -18,7 +18,7 @@ En cas de divergence entre le présent document et la Déclaration, la Déclarat
 
 Pour que le lecteur voie dès le début ce qui est affirmé et ce qui ne l'est pas.
 
-**Premièrement.** Les normes sur lesquelles nous nous appuyons sont en vigueur aujourd'hui: la liberté d'association (article 20 de la Déclaration universelle des droits de l'homme, article 22 du Pacte international relatif aux droits civils et politiques, article 11 de la Convention européenne) et le droit des peuples à disposer d'eux-mêmes (article 1(2) de la Charte des Nations Unies, article premier commun aux Pactes de 1966). Les traités qui les consacrent lient les États qui y sont parties. Aucune de ces normes n'est inventée ni proposée « pour l'avenir ».
+**Premièrement.** Les normes sur lesquelles nous nous appuyons sont en vigueur aujourd'hui: la liberté d'association (article 20 de la Déclaration universelle des droits de l'homme, article 22 du Pacte international relatif aux droits civils et politiques, article 11 de la Convention européenne) et le droit des peuples à disposer d'eux-mêmes (article premier commun aux Pactes de 1966; en tant que principe, il est consacré par la Charte des Nations Unies, article 1(2)). Les Pactes de 1966 et la Convention européenne lient les États qui y sont parties; la Déclaration universelle des droits de l'homme a été adoptée par la résolution A/RES/217(III)A de l'Assemblée générale et n'a pas par elle-même de force obligatoire, mais ses dispositions sont passées dans les traités et dans la pratique des États. Aucune de ces normes n'est inventée ni proposée « pour l'avenir ».
 
 **Deuxièmement.** **Aucune norme obligatoire ne contient l'exigence d'un territoire comme condition d'existence d'un peuple.** Ni la Charte, ni l'article premier commun aux Pactes, ni aucune convention. Bien plus, il n'existe aucune définition du peuple, et cela a été constaté dans un document officiel de l'Organisation des Nations Unies.
 
@@ -86,7 +86,7 @@ La tâche de l'initiative n'est pas d'usurper la voix de l'humanité, mais de cr
 
 L'exactitude importe ici davantage qu'une impression favorable.
 
-**Le peuple défini par un texte adopté n'existe pas encore.** La Déclaration existe comme version initiale et n'est pas encore un acte constitutif. La signature de la Déclaration et l'adhésion au peuple sont suspendues pour la durée de la période constituante. **L'infrastructure, elle, est bâtie et fonctionne** - vérification d'identité, passeport, registre, vote, trésorerie publique: ce qui manque, c'est l'adoption du texte constitutif, non les moyens.
+**Le peuple défini par un texte adopté n'existe pas encore.** La Déclaration existe comme version initiale et n'est pas encore un acte constitutif. La signature de la Déclaration et l'adhésion au peuple sont suspendues pour la durée de la période constituante. **L'infrastructure, elle, est bâtie et fonctionne** - vérification d'identité, passeport, registre, vote, trésorerie publique; l'outil de vote secret est en cours de sélection, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). Ce qui manque principalement, c'est l'adoption du texte constitutif.
 
 La procédure de constitution est établie et publiée à l'avance:
 
@@ -99,7 +99,7 @@ Jusqu'au jour de l'adoption, la personne qui a fait vérifier son identité est 
 
 **Deux conséquences pour le présent document.**
 
-La première, défavorable: partout où sont décrits ci-dessous des critères qui dépendent du nombre, de la composition et de la pratique accumulée, il s'agit de la construction et de sa capacité de projet, non d'un état atteint. Il n'y a pas de participants, il n'y a pas de pratique, l'acte constitutif n'est pas adopté.
+La première, défavorable: partout où sont décrits ci-dessous des critères qui dépendent du nombre, de la composition et de la pratique accumulée, il s'agit de la construction et de sa capacité de projet, non d'un état atteint. Il n'y a pas encore un seul earthling, il n'y a pas de pratique, l'acte constitutif n'est pas adopté.
 
 La seconde, importante pour l'appréciation juridique. D'ordinaire, le texte constitutif d'une communauté est écrit avant qu'elle n'apparaisse, et l'adhésion se réduit à un accord donné à un document tout fait. Ici l'ordre est inverse: le texte est soumis au vote de gens dont chacun est vérifié comme une seule personne vivante, les propositions sont reçues de quiconque et publiées avec les réponses. **La volonté collective n'est ainsi ni présumée ni reconstituée: elle est produite par une procédure et demeure dans une inscription vérifiable.**
 
@@ -191,7 +191,7 @@ Corriger le droit international est l'affaire des États. Le peuple des Earthlin
 
 **La composition.** On sait qui fait partie du peuple: derrière chaque participant se tient une seule personne vivante, et cela est vérifié. Non par un recensement, non par la coutume et non par la loi d'autrui, mais de façon vérifiable et à tout moment.
 
-**La procédure.** Il existe un moyen par lequel une volonté devient une volonté commune: un vote où une personne vaut une voix, où la voix ne peut être ni achetée, ni accumulée, ni transmise de façon irrévocable. La première application de cette procédure sera l'adoption du texte constitutif lui-même.
+**La procédure.** Il existe un moyen par lequel une volonté devient une volonté commune: un vote où une personne vaut une voix, où la voix ne peut être ni achetée, ni accumulée, ni transmise de façon irrévocable. La première application de cette procédure sera le vote sur l'adoption du texte constitutif lui-même.
 
 **L'inscription.** La composition du peuple et les résultats des votes sont ouverts à la vérification par toute personne, sans avoir à faire confiance à l'exploitant de l'infrastructure.
 
@@ -229,7 +229,7 @@ L'affirmation « pour la première fois dans l'histoire est délivré un documen
 | Qui peut vérifier | L'organe qui tient le registre | N'importe qui |
 | Peut-il être retiré | Oui, par décision d'un organe | En droit, non; les motifs et la procédure sont limités de façon exhaustive |
 
-Une réserve à la dernière ligne, que nous faisons nous-mêmes: les motifs juridiques de destruction du passeport contre la volonté de son titulaire se réduisent à un seul - l'annulation d'une délivrance non valide dans les cas dont la liste limitative figure à l'article 8 de la Déclaration, avec notification, délai d'objection et recours -, mais dans la version déployée du contrat la possibilité technique de détruire un passeport subsiste entre les mains du détenteur des clés du propriétaire - la limite de l'article 21 de la Charte joue pour l'instant en procédure et non en technique. La séparation des droits d'émission et de destruction est inscrite à la feuille de route.
+Une réserve à la dernière ligne, que nous faisons nous-mêmes: les motifs juridiques de destruction du passeport contre la volonté de son titulaire se réduisent à un seul - l'annulation d'une délivrance non valide dans les cas dont la liste limitative figure à l'article 8 de la Déclaration, avec notification, délai d'objection et recours -, mais dans la version déployée du contrat la possibilité technique de détruire un passeport subsiste entre les mains du détenteur des clés du propriétaire - la limite de l'article 21 de la Charte est procédurale et non technique; jusqu'à l'adoption de la Déclaration, il n'y a ni Conseil ni Assemblée (Charte, article 38), et le document temporaire de participant à la constitution est détruit contre la volonté de son titulaire selon la procédure du document « La période constituante » (partie 2, point 5). La séparation des droits d'émission et de destruction est inscrite à la feuille de route.
 
 L'affirmation exacte est la suivante: des documents d'appartenance à un peuple existent, mais tous attestent une appartenance déduite de la descendance et reconnue par un État. Pour la première fois, une appartenance sera attestée par un document délivré par le peuple lui-même, sans lien ni avec un territoire ni avec une descendance, qui naît de la décision de la personne et que n'importe qui peut vérifier.
 
@@ -317,7 +317,7 @@ Cette ligne est cohérente, et nous la citons nous-mêmes. Mais elle établit ex
 
 **Quatrièmement. La pratique de ces dernières années a séparé le statut du territoire dans une autre direction.** Le 9 novembre 2023, l'Australie et Tuvalu ont signé le Traité de l'Union Falepili (entré en vigueur le 28 août 2024); son article 2 consacre la reconnaissance par les parties du fait que la condition étatique et la souveraineté de Tuvalu subsisteront malgré les effets de l'élévation du niveau de la mer. Le même jour, le Forum des îles du Pacifique a adopté une Déclaration sur la continuité étatique; l'Alliance des petits États insulaires a adopté la sienne le 23 septembre 2024.
 
-En 2025, la Commission du droit international des Nations Unies a approuvé le rapport final de son Groupe d'étude sur l'élévation du niveau de la mer: « en ce qui concerne les États particulièrement touchés par l'élévation du niveau de la mer liée aux changements climatiques, les États soutiennent fermement la continuité de la condition étatique et de la souveraineté et la préservation de la personnalité juridique internationale et de la qualité de membre des organisations internationales » (paragraphe 35). Il est relevé à part que l'article 1 de la Convention de Montevideo de 1933, « dont les éléments sont généralement acceptés comme permettant d'identifier un État en tant que personne ou sujet de droit international, ne permet pas de répondre à la question de la continuité de la condition étatique dans le contexte de l'élévation du niveau de la mer liée aux changements climatiques » (paragraphe 37).
+En 2025, la Commission du droit international des Nations Unies a adopté le rapport final de son Groupe d'étude sur l'élévation du niveau de la mer: « en ce qui concerne les États particulièrement touchés par l'élévation du niveau de la mer liée aux changements climatiques, les États soutiennent fermement la continuité de la condition étatique et de la souveraineté et la préservation de la personnalité juridique internationale et de la qualité de membre des organisations internationales » (paragraphe 35). Il est relevé à part que l'article 1 de la Convention de Montevideo de 1933, « dont les éléments sont généralement acceptés comme permettant d'identifier un État en tant que personne ou sujet de droit international, ne permet pas de répondre à la question de la continuité de la condition étatique dans le contexte de l'élévation du niveau de la mer liée aux changements climatiques » (paragraphe 37).
 
 > **La portée exacte de cet argument, et elle est étroite.** Il s'agit de **continuité**, non de naissance. La présomption de continuité joue parce que le sujet existe déjà: il a été reconnu, il possédait un territoire et l'a perdu. Une communauté qui n'a jamais possédé de territoire n'a rien à conserver. Cela montre que le territoire n'est pas ce qui maintient un statut en existence, et ne montre pas qu'un statut puisse s'acquérir sans lui.
 
@@ -615,7 +615,7 @@ Ce qui demeure non réfuté contre nous:
 
 **Le mécanisme de conversion de la pratique en reconnaissance est absent.** Il naît lorsqu'une communauté résout un problème qui se pose aux États; un peuple non territorial ne résout pas aujourd'hui un tel problème.
 
-**Le texte constitutif n'est pas adopté et il n'y a pas de participants.** Ni l'effectif, ni la pratique accumulée, ni la solidité du lien ne sont à ce jour des critères réalisés.
+**Le texte constitutif n'est pas adopté et il n'y a pas encore d'earthlings.** Ni l'effectif, ni la pratique accumulée, ni la solidité du lien ne sont à ce jour des critères réalisés.
 
 Aucune de ces objections, nous ne la tenons pour levée. Sous la pression des arguments, elles n'ont pas changé de force, mais d'aspect: d'« impossible » elles sont devenues « prématuré », « non démontré », « peu probable ». La différence entre ces mots est tout ce que le présent document affirme.
 

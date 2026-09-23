@@ -2,21 +2,21 @@
 
 **Le titre numérique d'appartenance au peuple des Earthlings**
 
-> Le présent document décrit l'agencement et la portée juridique du passeport. En cas de divergence, la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html) s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration. Les modalités d'adhésion sont décrites dans le document [Le chemin de l'earthling](https://earth-lings.org/documents/fr/fr14-chemin-de-l-earthling.html).
+> Le présent document décrit l'agencement et la portée juridique du passeport. En cas de divergence, la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html) s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration. Les modalités d'adhésion sont décrites dans le document [Le chemin de l'earthling](https://earth-lings.org/documents/fr/fr14-chemin-de-l-earthling.html). Pendant la période constituante - du 22 octobre 2026 jusqu'à l'adoption de la Déclaration -, la signature de la Déclaration et l'adhésion au peuple sont suspendues: le peuple défini par un texte adopté n'existe pas encore. La vérification d'identité est menée gratuitement durant cette période et donne lieu à la délivrance d'un document temporaire de participant à la constitution, et non d'un passeport (document « La période constituante », partie 2, point 5). Le document temporaire est émis dans le même contrat que le passeport (document « Où nous en sommes »), mais il ne documente pas la signature de la Déclaration. Ce qui suit décrit le régime principal, qui commencera après l'adoption de la Déclaration.
 
 ---
 
 ## Ce que c'est
 
-Le passeport SBT de l'earthling est un jeton numérique intransmissible (Soulbound Token), délivré à chaque participant après la signature de la Déclaration, la vérification de son identité et le versement de la cotisation. Il atteste cryptographiquement l'appartenance au peuple et est conservé dans un registre distribué comme une inscription unique, protégée contre la falsification.
+Le passeport SBT de l'earthling est un jeton numérique intransmissible (Soulbound Token), délivré à chaque participant après la vérification de son identité, la signature de la Déclaration et le versement de la cotisation. Il atteste cryptographiquement l'appartenance au peuple et est conservé dans un registre distribué comme une inscription unique, qui ne peut être modifiée à l'insu de tous.
 
 À la différence des passeports d'État, rattachés à un territoire et attestant une nationalité, ce passeport atteste l'appartenance à un peuple réuni par des valeurs communes. Il ne peut être ni transmis à autrui, ni vendu, ni aliéné.
 
 **Intransmissibilité.** Le passeport est rattaché à votre portefeuille, et la transmission est bloquée dans le contrat lui-même, et non par une règle que l'on pourrait contourner. L'unicité de la personne a été vérifiée à la délivrance.
 
-**Protection cryptographique.** L'inscription est conservée dans un réseau distribué et ne peut être ni falsifiée ni modifiée à l'insu de tous.
+**Protection cryptographique.** L'inscription est conservée dans un réseau distribué, et il est impossible de la modifier à l'insu de tous.
 
-**Égalité.** Tous reçoivent le même passeport avec les mêmes droits. Il n'existe ni classes privilégiées ni niveaux d'appartenance. Une personne - un passeport - une voix.
+**Égalité.** Tous reçoivent le même passeport avec les mêmes droits. Il n'existe ni classes privilégiées ni niveaux d'appartenance. Une personne - un passeport - une voix; la voix naît de la signature de la Déclaration, et le passeport la confirme.
 
 ---
 
@@ -24,7 +24,7 @@ Le passeport SBT de l'earthling est un jeton numérique intransmissible (Soulbou
 
 ### La participation à la gouvernance
 
-- le droit de vote à l'Assemblée DAO;
+- l'attestation du droit de vote à l'Assemblée DAO;
 - le dépôt de propositions et d'initiatives;
 - la participation aux décisions sur chaque question.
 
@@ -47,7 +47,7 @@ La seule exception est constituée par des actes établis dirigés contre l'int�
 
 ### Les marques de participation
 
-L'historique de la participation et de l'apport est consigné publiquement: projets achevés, travail dans les cellules. La participation aux votes n'est pas publiée: le vote personnel est secret (Charte, article 6).
+L'historique de la participation et de l'apport est visible des participants sur la plateforme: projets achevés, travail dans les cellules. La participation aux votes n'est pas publiée: le vote personnel est secret (Charte, article 6).
 
 > **Ces marques n'ont aucun effet** et ont un caractère exclusivement informatif: [Charte, article 8](https://earth-lings.org/documents/fr/fr05-charte.html).
 
@@ -61,7 +61,7 @@ L'historique de la participation et de l'apport est consigné publiquement: proj
 
 **3. Versement de la cotisation.** L'équivalent de 79 USD, en cryptomonnaie (ETH, USDT, USDC). L'affectation de la cotisation et les modalités de sa dépense figurent dans le document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).
 
-> Celui qui ne peut pas verser lui-même la cotisation peut entrer dans une file d'attente ouverte, et la cotisation peut être versée pour lui par une autre personne ou par la Trésorerie; rien ne le garantit. Le passeport ne se distingue alors en rien des autres: le registre n'inscrit pas qui a versé la cotisation. La cotisation n'achète pas l'appartenance: celle-ci naît de la signature de la Déclaration.
+> Celui qui ne peut pas verser lui-même la cotisation pourra, lorsque l'entrée sera payante, entrer dans une file d'attente ouverte, et la cotisation pourra être versée pour lui par une autre personne ou par la Trésorerie; rien ne le garantit. Le passeport ne se distingue alors en rien des autres: le registre n'inscrit pas qui a versé la cotisation. La cotisation n'achète pas l'appartenance: celle-ci naît de la signature de la Déclaration.
 
 **4. Délivrance du passeport.** Le jeton est créé automatiquement et rattaché à votre portefeuille.
 
@@ -85,9 +85,9 @@ L'historique de la participation et de l'apport est consigné publiquement: proj
 
 ### La conservation des données
 
-- **dans le registre:** identifiant et empreinte de la vérification; le pseudonyme n'est pas inscrit au registre. Les données personnelles ne sont pas inscrites au registre;
-- **hors registre:** les données personnelles du compte, sous forme chiffrée et en volume minimal;
-- **biométrie:** non conservée. Ne sont conservées que des empreintes cryptographiques irréversibles, et uniquement pour qu'une même personne ne puisse pas détenir deux passeports valides;
+- **dans le registre:** l'adresse du portefeuille, le numéro de l'inscription du passeport, l'identifiant du participant par lequel l'inscription est reliée aux données du système de vérification d'identité, et l'heure de l'émission; dans le champ du pseudonyme est inscrit, lors de l'émission, le seul mot « Earthling », et dans le champ du hachage de vérification, une valeur aléatoire sans lien avec les données de la vérification. Le nom, le document, la biométrie et les hachages de vérification ne sont pas inscrits au registre;
+- **hors registre:** les données personnelles du compte, en volume minimal;
+- **biométrie:** non conservée. De la vérification subsistent l'état de la vérification, le type et le pays de délivrance du document, les scores numériques de la vérification, les motifs de refus et des hachages irréversibles, calculés avec la clé secrète du serveur, du numéro du document, du prénom, du nom et de la date de naissance figurant dans le document. Ces hachages sont calculés à partir des données du document et non de la biométrie, et ne sont conservés que pour qu'une même personne ne puisse pas détenir deux passeports valides;
 - la conception suit les principes du RGPD.
 
 ### La cryptographie
@@ -119,21 +119,21 @@ Le passeport atteste ce qu'il atteste, et ce n'est pas peu: une personne déterm
 ### La protection des données
 
 - droit à la rectification et à la suppression des données traitées par la plateforme;
-- les inscriptions dans le registre distribué ne se suppriment pas, par définition technique, et c'est précisément pour cela qu'elles ne contiennent pas de données personnelles: on y trouve des adresses pseudonymes et des marques d'actes;
-- minimisation du traitement; chiffrement des données personnelles;
+- les inscriptions dans le registre distribué ne se suppriment pas, par définition technique, et c'est précisément pour cela que le nom, le document, la biométrie et les hachages de vérification n'y sont pas inscrits lors de l'émission. Lors de l'émission, sont inscrits au registre l'adresse du portefeuille, le numéro de l'inscription du passeport, l'identifiant du participant par lequel l'inscription est reliée aux données du système de vérification d'identité, et l'heure de l'émission; l'émission et la destruction laissent des marques au registre. Ce sont des données pseudonymes que nous relions à votre compte;
+- minimisation du traitement; chiffrement lors de la transmission;
 - les photographies et les scans ne sont pas conservés.
 
 ### Responsabilité et différends
 
 - la DAO des Earthlings n'est pas une personne morale enregistrée;
 - les participants répondent individuellement du respect des lois de leurs pays;
-- les différends internes se règlent selon la procédure établie par le document « Éthique des Earthlings »: dialogue, médiation avec l'accord des deux parties, saisine du Conseil indépendant en cas de manquements graves et, dans les cas extrêmes, examen par l'Assemblée; tant que le Conseil n'est pas constitué, l'étape prévoyant sa participation est omise et les délais de débat sont doublés (Charte, article 39). Le peuple ne se substitue pas aux juridictions et aux mécanismes juridiques étatiques et n'offre pas d'arbitrage hors de son écosystème.
+- les différends internes se règlent selon la procédure établie par le document « Éthique des Earthlings »: dialogue direct, médiation avec l'accord des deux parties et, si celle-ci n'a pas abouti ou si la seconde partie n'y a pas consenti, examen par l'Assemblée; en cas de menace pour la vie et la sécurité, de violation manifeste de la Déclaration ou d'infraction pénale, la personne s'adresse directement, sans passer par le dialogue ni par la médiation. Le peuple ne se substitue pas aux juridictions et aux mécanismes juridiques étatiques et n'offre pas d'arbitrage hors de son écosystème.
 
 ---
 
 ## La fin du passeport
 
-**En règle générale, vous seul détruisez votre passeport**, avec votre propre clé, depuis votre propre portefeuille (fonction `burnByHolder`). La plateforme ne conserve pas vos clés et ne peut ni procéder à la destruction à votre place, ni y faire obstacle.
+**En règle générale, vous seul détruisez votre passeport**, avec votre propre clé, depuis votre propre portefeuille (fonction `burnByHolder`). La plateforme ne conserve pas vos clés et ne peut pas faire obstacle à la destruction; nul n'a le droit de détruire le passeport à votre place, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une signature multiple, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »).
 
 La Charte (article 21) établit **deux exceptions et deux seulement**, et cette liste ne peut pas être élargie.
 
@@ -153,7 +153,7 @@ Elle s'applique s'il est établi que le passeport a été délivré en méconnai
 - vote de l'Assemblée: **75 pour cent avec un quorum de 25, secret, sans délégation**;
 - **recours dans les 30 jours**, la majorité simple suffisant pour annuler la décision.
 
-Les pouvoirs techniques de l'exploitant se limitent à l'exécution d'une décision déjà prise par l'Assemblée. L'exploitant ne peut pas annuler la délivrance d'un passeport de sa propre initiative.
+Les pouvoirs de l'exploitant se limitent à l'exécution d'une décision déjà prise par l'Assemblée. L'exploitant n'a pas le droit d'annuler la délivrance d'un passeport de sa propre initiative.
 
 ### 2. La réémission technique
 
@@ -163,22 +163,22 @@ Sur **demande du titulaire lui-même**, en cas de perte d'accès au portefeuille
 
 Nul ne peut être privé de force de son appartenance au peuple. Il n'existe pas de procédure d'exclusion.
 
-En cas de mesures prises pour manquements graves aux règles communes, le passeport est conservé et **le droit de vote est intégralement conservé**. Une seule mesure s'adresse à la personne - l'avertissement, et il ne retire rien: ni la voix, ni le droit de faire des propositions, ni la participation aux cellules, ni l'accès aux services, ni quoi que ce soit d'autre. Les autres s'adressent à un projet ou à une cellule et ne portent aucune atteinte aux droits d'une personne - selon la procédure de l'article 22 de la Charte, avec droit de se défendre, vote secret et recours.
+En cas de mesures prises pour manquements graves aux règles communes, le passeport est conservé et **le droit de vote est intégralement conservé**. Une seule mesure s'adresse à la personne - l'avertissement, et il ne retire rien: ni la voix, ni le droit de faire des propositions, ni le droit de créer des cellules et d'y entrer, ni l'accès aux services, ni quoi que ce soit d'autre. Les autres s'adressent à un projet ou à une cellule et ne portent aucune atteinte aux droits d'une personne - selon la procédure de l'article 22 de la Charte, avec droit de se défendre, vote secret et recours.
 
 ### Ce qui se passe techniquement
 
-- la destruction est effectuée par la fonction `burn` du contrat intelligent;
+- lors de la sortie, le titulaire détruit le passeport par la fonction `burnByHolder`, tandis que, en cas d'annulation ou de réémission technique, la destruction est effectuée par le propriétaire du contrat au moyen de la fonction `burn`;
 - les données du passeport sont supprimées du registre actif du contrat;
 - il subsiste dans l'historique immuable une marque pseudonyme indiquant que le passeport a existé et a été détruit: c'est un fait du passé, non une appartenance qui dure;
-- il n'y a pas de données personnelles réelles dans le registre;
+- le nom, le document, la biométrie et les hachages de vérification ne sont pas inscrits au registre lors de l'émission;
 - pour une nouvelle adhésion, la procédure complète est suivie et un nouveau passeport est délivré.
 
 ---
 
 ## Sur le financement
 
-À ce jour, le peuple se développe sur les fonds de ses participants: aucun financement extérieur n'a été recherché.
+Jusqu'ici, le projet a été financé sur les fonds personnels de l'auteur de la Déclaration (document « Qui sommes-nous »): aucun financement extérieur n'a été recherché.
 
-La Charte et le document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html) prévoient la possibilité de recevoir des subventions et des dons d'organisations extérieures, à condition que la source soit obligatoirement publiée, qu'il n'y ait pas de conditions contraires aux principes du peuple, et avec une interdiction expresse: le donateur n'obtient ni voix ni influence sur les décisions. Le montant d'un don ne donne rien.
+La Charte et le document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html) prévoient la possibilité de recevoir des subventions et des dons d'organisations extérieures, à condition que la source soit publiée (ou, si le donateur a souhaité rester anonyme, le fait de la réception et le montant), qu'il n'y ait pas de conditions contraires aux principes du peuple, et avec une interdiction expresse: le donateur n'obtient ni voix ni influence sur les décisions. Le montant d'un don ne donne rien.
 
-Toutes les décisions de dépense sont prises par un vote de l'Assemblée DAO et publiées; les postes de dépense et leurs parts sont prévus à l'article 9 du document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).
+Après l'adoption de la Déclaration, les décisions de dépense sont prises par un vote de l'Assemblée DAO et publiées, et tant qu'il n'y a pas de signature multiple sur le portefeuille du trésor, son unique clé est chez l'auteur de la Déclaration (document « Trésorerie »); les postes de dépense et leurs parts sont prévus à l'article 9 du document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).

@@ -2,11 +2,11 @@
 
 **Comment le peuple règle ses désaccords et comment on s'y parle**
 
-> Le présent document est dérivé. En cas de divergence avec la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html), la Charte s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration.
+> Le présent document est dérivé. En cas de divergence avec la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html), la Charte s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration. La Charte entre en vigueur avec l'adoption de la Déclaration (Charte, article 38); jusque-là, il n'y a ni Assemblée DAO ni Conseil indépendant, et ce qui est dit d'eux ci-dessous décrit l'ordre des choses après l'adoption.
 >
 > **Le présent document n'établit le motif d'aucune mesure.** La liste fermée de ces motifs figure aux articles 22 et 22 bis de la Charte et ne peut être étendue, ni par le présent document, ni par une décision, ni par une pratique établie.
 
-Ce qui est exposé ci-dessous se divise en deux parties, et la différence entre elles est importante. Les règles applicables aux différends décrivent une procédure que le peuple suit. Tout le reste est ce vers quoi le peuple tend et ce qu'il aide chacun à apprendre; ne pas s'y conformer n'entraîne jamais aucune conséquence.
+Ce qui est exposé ci-dessous se divise en deux parties, et la différence entre elles est importante. Les règles applicables aux différends décrivent une procédure que le peuple suit. Tout le reste, hormis les règles que le présent document impose au peuple lui-même, à ses organes et à la plateforme, est ce vers quoi le peuple tend et ce qu'il aide chacun à apprendre; pour une personne, ne pas s'y conformer n'entraîne jamais aucune conséquence.
 
 ---
 
@@ -14,7 +14,7 @@ Ce qui est exposé ci-dessous se divise en deux parties, et la différence entre
 
 Les désaccords entre les gens sont inévitables et naissent de ce que les expériences, les valeurs et les intérêts diffèrent. Le conflit lui-même n'est pas un problème: ce qui le devient, c'est de ne pas savoir le régler.
 
-Le peuple des Earthlings choisit une approche réparatrice plutôt que punitive: le but de l'examen est de rétablir la relation et de corriger les conséquences, non de punir.
+Le peuple des Earthlings choisit une approche réparatrice plutôt que punitive: le but de l'examen du désaccord est de rétablir la relation et de corriger les conséquences, non de punir.
 
 ## Étape 1. Le dialogue direct
 
@@ -28,11 +28,11 @@ Si le dialogue direct n'a pas abouti, les parties ont le droit de recourir à la
 
 La médiation est un processus volontaire dans lequel un tiers neutre aide les parties à trouver une solution mutuellement acceptable. **Le médiateur ne rend pas de décision et n'établit pas qui a raison.** Son rôle est de créer les conditions du dialogue.
 
-**Qui peut être médiateur.** Tout earthling en qui les deux parties ont confiance et qui n'a aucun intérêt personnel dans l'issue du différend. Le peuple tient un registre de ceux qui ont suivi une formation à la médiation; le choix dans ce registre n'est pas obligatoire, et les parties ont le droit de désigner d'un commun accord tout autre participant.
+**Qui peut être médiateur.** Tout earthling en qui les deux parties ont confiance et qui n'a aucun intérêt personnel dans l'issue du différend; les parties en conviennent elles-mêmes.
 
 **Déroulement:**
 
-1. l'une des parties adresse une demande par la plateforme;
+1. l'une des parties propose la médiation à l'autre;
 2. la seconde partie donne son accord - il n'y a pas de médiation sans l'accord des deux parties;
 3. les parties choisissent ensemble un médiateur;
 4. le médiateur organise la rencontre et conduit le processus;
@@ -40,23 +40,23 @@ La médiation est un processus volontaire dans lequel un tiers neutre aide les p
 
 L'accord a une portée morale: les parties prennent l'engagement volontaire de l'exécuter. Le peuple ne dispose d'aucun moyen d'exécution forcée et n'en prévoit aucun.
 
-**Confidentialité.** Le contenu de la médiation n'est divulgué ni par le médiateur ni par les parties. Seuls sont publiés le fait qu'elle a eu lieu et son résultat: accord obtenu ou non.
+**Confidentialité.** Le contenu de la médiation n'est divulgué ni par le médiateur ni par les parties. Le fait qu'elle a eu lieu et son résultat - accord obtenu ou non - ne sont publiés qu'avec l'accord des deux parties; pour porter la question devant l'Assemblée, une partie a le droit d'indiquer qu'une médiation a eu lieu et n'a pas réglé le différend, et rien de plus.
 
 **Délai.** Trente jours à compter de l'accord de la seconde partie; d'un commun accord, le délai peut être prolongé.
 
-**Le refus de la médiation n'entraîne rien.** Ne pas vouloir y participer n'est pas un manquement, ne fait l'objet d'aucune appréciation et n'est pris en compte dans aucun examen ultérieur.
+**Le refus de la médiation n'entraîne rien.** Ne pas vouloir y participer n'est pas un manquement, ne fait l'objet d'aucune appréciation et n'est pris en compte dans aucun examen ultérieur (Déclaration, article 4).
 
 ## Étape 3. Le renvoi à l'Assemblée DAO
 
-Si la médiation n'a pas abouti et que le différend touche les intérêts de la communauté ou exige une décision de principe, chacune des parties a le droit de porter la question devant l'Assemblée.
+Si la médiation n'a pas abouti et que le différend touche les intérêts de la communauté ou exige une décision de principe, chacune des parties a le droit de porter la question devant l'Assemblée. L'absence d'accord de la seconde partie sur la médiation équivaut à une médiation qui n'a pas abouti.
 
-C'est une mesure de dernier recours. Elle convient lorsque le conflit porte sur l'interprétation des règles du peuple, lorsqu'une décision destinée à servir de modèle pour les cas futurs est nécessaire, ou lorsque l'une des parties agit systématiquement à l'encontre des principes adoptés par le peuple.
+C'est une mesure de dernier recours. Elle convient lorsque le conflit porte sur l'interprétation des règles du peuple, lorsqu'une décision destinée à servir de modèle pour les cas futurs est nécessaire, ou lorsque le comportement de l'une des parties constitue par lui-même un motif prévu à l'article 22 ou 22 bis de la Charte.
 
-L'examen se fait selon les procédures de la Charte. **L'Assemblée ne peut en aucune circonstance exclure une personne du peuple** (Déclaration, article 4); les mesures applicables et les modalités de leur application sont prévues à l'article 22 de la Charte.
+L'examen se fait selon les procédures de la Charte. **L'Assemblée ne peut en aucune circonstance exclure une personne du peuple** (Déclaration, article 4); les mesures applicables et les modalités de leur application sont prévues aux articles 22 et 22 bis de la Charte.
 
 ## Ce qui ne relève pas de la médiation
 
-La médiation ne s'applique pas:
+Ni le dialogue direct ni la médiation ne s'appliquent - la personne s'adresse directement, sans passer par les étapes 1 et 2, à l'Assemblée (étape 3) ou aux organes de la juridiction compétente, que le peuple ne supplante pas:
 
 - en cas de menaces directes pour la vie et la sécurité;
 - en cas de violations manifestes de la Déclaration;
@@ -66,7 +66,7 @@ La médiation ne s'applique pas:
 
 # SECTION 02. La manière de se parler
 
-Ce qui est exposé dans la présente section est ce vers quoi le peuple tend. Cela ne crée aucune obligation et n'entraîne aucune conséquence.
+Ce qui est exposé dans la présente section est ce vers quoi le peuple tend, comme il est dit au début du document. Cela ne crée aucune obligation et n'entraîne aucune conséquence.
 
 ## Le fondement
 
@@ -86,7 +86,7 @@ Renoncer au sarcasme et aux piques dans l'espace commun rend la conversation plu
 
 ## Où passe la limite
 
-Les menaces, la diffamation et la contrainte sont incompatibles avec l'appartenance au peuple. Si un tel comportement constitue un motif visé à l'article 22 de la Charte, les mesures qu'il établit et sa procédure s'appliquent.
+Les menaces, la diffamation et la contrainte se situent au-delà de cette limite, mais elles ne retirent pas l'appartenance au peuple (Déclaration, article 4). Si un tel comportement constitue un motif visé à l'article 22 ou 22 bis de la Charte, les mesures et la procédure de cet article s'appliquent.
 
 **La vivacité, l'ironie, le désaccord et la critique dérangeante n'entraînent jamais de conséquences** - ni directement ni sous couvert d'un autre motif (Déclaration, article 4).
 
@@ -118,7 +118,7 @@ L'appréciation de la contribution se fait selon des critères ouverts et connus
 
 Chacun a droit à un espace où l'on ne le dévalorise pas et où l'on ne l'attaque pas pour avoir exprimé une pensée.
 
-Le peuple des Earthlings tend vers un milieu où l'on n'a pas peur de proposer une idée, de se tromper et de changer d'avis. Les informations sur la situation personnelle d'une personne ne sont pas divulguées. L'organisation de la communauté prévoit des cellules d'entraide.
+Le peuple des Earthlings tend vers un milieu où l'on n'a pas peur de proposer une idée, de se tromper et de changer d'avis. Les informations sur la situation personnelle d'une personne ne sont pas divulguées.
 
 ---
 
@@ -128,7 +128,7 @@ Un earthling qui s'exprime publiquement parle en son propre nom, sauf si l'Assem
 
 Le peuple ne se livre pas à la propagande, à la diffusion d'informations sciemment fausses ni à l'incitation à la haine.
 
-Lorsque le peuple s'étend à de nouvelles régions, il est impératif d'y respecter le contexte et les traditions locales. L'adhésion est toujours volontaire; les différences culturelles sont considérées comme un enrichissement et non comme un obstacle.
+Lorsque le peuple s'étend à de nouvelles régions, il traite le contexte et les traditions locales avec un respect qui n'oblige pas à accepter un traitement inadmissible au regard de la section 02. L'adhésion est toujours volontaire; les différences culturelles sont considérées comme un enrichissement et non comme un obstacle.
 
 Le souci de l'humanité et de la planète, la prise en compte des intérêts des générations futures et le renoncement à la violence sont des fondements exposés dans la Déclaration; le présent document ne les complète pas.
 
@@ -148,7 +148,7 @@ Le peuple des Earthlings offre la possibilité d'apprendre ce qui rend le travai
 
 **Le peuple n'exige pas ces compétences, ne vérifie pas qu'on les possède et n'y subordonne les droits de personne.** Aucune aptitude n'est une condition d'appartenance, de participation ou de vote (Déclaration, article 8).
 
-Les erreurs sont considérées comme une part de l'apprentissage, non comme une occasion de sanction.
+Les erreurs sont considérées comme une part de l'apprentissage, non comme une occasion de sanction (Déclaration, article 4).
 
 ---
 
@@ -166,6 +166,6 @@ Sa composition, les modalités de sa constitution, les motifs de révocation et 
 
 Ce qui est exposé ici n'est pas un dogme. Tout earthling a le droit de proposer des modifications, et elles sont adoptées à l'issue d'un débat ouvert, dans les conditions établies par la Charte.
 
-Les limites sont intangibles: rien dans le présent document ne peut contredire la Déclaration, restreindre les garanties qu'elle donne ou créer des motifs de mesures qu'elle ne prévoit pas.
+Les limites sont intangibles: rien dans le présent document ne peut contredire la Déclaration, restreindre les garanties qu'elle donne ou créer des motifs de mesures au-delà de la liste fermée des articles 22 et 22 bis de la Charte.
 
 Toute disposition obscure du présent document s'interprète en faveur de la personne.

@@ -232,6 +232,9 @@ SLUGS = {
     'fr': {
         '01': 'declaration',
         '02': 'voix-citoyenne',
+        '02a': 'decompte-casse',
+        '02b': 'influence-sans-pouvoirs',
+        '02c': 'instrument-et-peuple',
         '03': 'ethique',
         '04': 'base-juridique',
         '05': 'charte',
@@ -859,6 +862,24 @@ OVERRIDES_FR = {
            'og_description':
            "Ce qui est cassé, c'est le compte, pas le canal. Ce que cela veut dire "
            'et ce que les Earthlings en font.'},
+    '02a': {'description':
+            "Cinq pannes de la voix citoyenne, l'affaire des dix-huit millions de "
+            "commentaires falsifiés et l'arithmétique par laquelle une majorité dispersée "
+            'perd contre une minorité organisée.',
+            'og_description':
+            'Une annexe de Voix citoyenne: pourquoi le décompte est cassé.'},
+    '02b': {'description':
+            "Six cas dans lesquels des gens n'avaient aucun pouvoir et dont on a tenu "
+            "compte malgré tout, et les deux expériences qui se sont le plus approchées "
+            "de joindre la profondeur à l'échelle.",
+            'og_description':
+            'Une annexe de Voix citoyenne: influence sans pouvoirs.'},
+    '02c': {'description':
+            'Cinq raisons pour lesquelles une mesure vérifiable de la volonté commune ne '
+            "peut se passer d'un peuple, le cas du plus grand projet bâti sans lui et neuf "
+            'manières dont tout cela peut ne pas aboutir.',
+            'og_description':
+            "Une annexe de Voix citoyenne: pourquoi un peuple est nécessaire."},
     '03': {'description': _OFFICIAL_FR % "L'éthique des Earthlings"},
     '04': {'description':
            'La base juridique du peuple des Earthlings: la liberté d\'association, le droit '
@@ -1410,15 +1431,15 @@ ALL_LANGS = ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']
 # Порядок такой: сначала 25 мастеров в hi/, потом SLUGS['hi'], потом эта
 # строка - одним заходом, и сразу пересборка.
 LANGS_BY_DOC = {'02': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
-                # Приложения заведены 2026-09-23 и существуют на русском и
-                # английском - двух аутентичных текстах по статье 11
-                # Декларации. Семь переводов появятся отдельным заходом; до
-                # тех пор страницы приложений в этих языках не собираются, и
-                # ссылок на них там нет: документ 02 в них прежней,
-                # несокращённой редакции, и выносить из него нечего.
-                '02a': ['de', 'en', 'es', 'ru'],
-                '02b': ['de', 'en', 'es', 'ru'],
-                '02c': ['de', 'en', 'es', 'ru'],
+                # Приложения заведены 2026-09-23. К немецкому, испанскому и
+                # французскому они пришли вместе с сокращённой редакцией 02:
+                # приложение и резка 02 - одно и то же изменение, порознь их
+                # выкладывать нельзя. Остальные четыре языка приложений пока
+                # не собирают, и ссылок на них там нет: документ 02 в них
+                # прежней, несокращённой редакции, и выносить из него нечего.
+                '02a': ['de', 'en', 'es', 'fr', 'ru'],
+                '02b': ['de', 'en', 'es', 'fr', 'ru'],
+                '02c': ['de', 'en', 'es', 'fr', 'ru'],
                 '20': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh'],
                 '32': ['ar', 'de', 'en', 'es', 'fr', 'hi', 'ka', 'ru', 'zh']}
 

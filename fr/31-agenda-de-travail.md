@@ -16,9 +16,9 @@
 
 # Partie 0. Comment lire ce document
 
-À la base est posée une métaphore radicale mais féconde: l'ordre du monde actuel, avec tout son régime social, politique, économique et juridique, est un système d'exploitation qui fonctionne, mais qui est ancien. Nom de convention: « Windows XP ». Il n'est pas absurde: il démarre, des milliards de processus y vivent. Mais ses bogues sont déjà connus - ceux qui se manifestent depuis des décennies et coûtent des vies humaines.
+À la base est posée une métaphore radicale mais féconde: l'ordre du monde actuel, avec tout son régime social, politique, économique et juridique, est un système d'exploitation qui fonctionne, mais qui est ancien. Nom de convention: « Windows XP » (marque de Microsoft; le nom est pris comme métaphore et non comme une affirmation sur le produit). Il n'est pas absurde: il démarre, des milliards de processus y vivent. Mais ses bogues sont déjà connus - ceux qui se manifestent depuis des décennies et coûtent des vies humaines.
 
-La question du document: si l'on disposait d'un corps complet de développeurs et d'une page blanche, à quoi ressemblerait la version suivante, « Terra 1.0 »? Il n'existe pas de version idéale: il s'agit de la plus juste et de la plus aboutie de celles qui sont atteignables dans la situation actuelle.
+La question du document: si l'on disposait d'un corps complet de développeurs et d'une page blanche, à quoi ressemblerait le système suivant, « Terra 1.0 »? Il ne s'agit pas d'une nouvelle version livrée par le même éditeur: le nouveau système est assemblé par d'autres, et il n'a pas de propriétaire. Il n'existe pas de version idéale: il s'agit de la plus juste et de la plus aboutie de celles qui sont atteignables dans la situation actuelle.
 
 La métaphore du système d'exploitation est prise au sérieux. Un système d'exploitation a une anatomie réelle: le kernel et les anneaux de privilèges, le modèle de permissions, l'isolation des processus, l'ordonnanceur, le mécanisme de mise à jour, le traitement des erreurs, l'authentification. Chaque axe se projette sur l'agencement d'une société avec une justesse étonnante - et là où la projection casse, elle casse de façon instructive. À la fin (Partie IX) est analysé le défaut principal de la métaphore elle-même: un système d'exploitation a un propriétaire, et l'humanité ne doit pas en avoir. Le langage des systèmes d'exploitation a été choisi précisément pour cette justesse: c'est le plus proche et le plus clair pour expliquer un tel agencement. Cela dit, « Terra 1.0 » est une lentille d'analyse et non un slogan: dans le modèle lui-même, l'État ne disparaît pas, il devient une couche mince (Partie III), de sorte qu'il s'agit de réagencer toute la pile comme objet d'analyse, en complément des États et non de leur suppression.
 
@@ -110,9 +110,9 @@ III.1
 
 ## Un microkernel au lieu d'un monolithe
 
-Première décision de tout système d'exploitation: ce qui tourne dans l'anneau 0 (en mode privilégié) et ce qui tourne en user space, où un processus peut tomber sans faire tomber le système. Le monolithe est une mauvaise architecture. Ici l'architecture est un **microkernel**. Dans le kernel ne se trouve que ce qui est physiquement inséparable et rival, ce dont on ne peut pas sortir:
+Première décision de tout système d'exploitation: ce qui tourne dans l'anneau 0 (en mode privilégié) et ce qui tourne en user space, où un processus peut tomber sans faire tomber le système. Le monolithe est une mauvaise architecture. Ici l'architecture est un **microkernel**. Dans le kernel ne se trouve que ce dont on ne peut pas sortir: ce qui est physiquement inséparable et rival - et la protection de ceux qui ne peuvent pas contribuer (Partie II):
 
-- la protection de la sécurité physique et de l'espace physique;
+- la protection de la sécurité physique et de l'espace physique, ainsi que le plancher protégé - le minimum garanti au-dessous duquel le système ne laisse tomber personne (Module 2);
 - les systèmes planétaires de maintien de la vie: climat, océan, atmosphère, orbite, spectre, eau;
 - la gestion des super-technologies dont le coût d'une erreur est l'espèce entière (intelligence artificielle, bio-ingénierie);
 - et surtout, le maintien du modèle de permissions lui-même: la garantie que nul ne devienne root.
@@ -191,7 +191,7 @@ La personne est à la fois **user** (souveraine sur son domaine) et, collectivem
 
 - **Ne pas abîmer la mémoire partagée.** Ne pas déverser ses coûts dans la biosphère et dans la vie d'autrui. L'internalisation des externalités n'est ni un impôt ni une morale, mais l'interdiction de la memory corruption: on ne peut pas écrire de la destruction dans une mémoire que tous partagent.
 - **Entretenir le commun.** Contribuer à la couche kernel (sécurité, communs, protection des faibles), dont on ne peut pas sortir, précisément parce qu'on ne peut pas en émigrer loin de ses obligations. C'est la seule contrainte à contribuer qui soit légitime.
-- **Entretenir le système.** La participation comme maintenance. Un système d'exploitation que personne ne maintient se dégrade. La citoyenneté est à la fois un login et une garde du système: la part minimale d'attention et de travail sans laquelle le commun rouille.
+- **Maintenir le commun en état de marche.** La participation comme maintenance. Un système d'exploitation que personne ne maintient se dégrade. La citoyenneté est à la fois un login et une garde du système: la part minimale d'attention et de travail sans laquelle le commun rouille.
 
 # Partie V · Module 1. L'identité anti-Sybil: le login de la personne sans nouveau Big Brother
 
@@ -225,7 +225,7 @@ Tout système réel sacrifie l'une pour deux. Cela semble être une propriété 
 Le geste clé est de décoller ce que le mot « identité » a aggloméré en une masse: l'**authentification** (le même sujet), l'**unicité** (le sujet est unique) et les **attributs** (la personne a 18 ans / elle est membre de ceci / elle a le droit X). Le crime des systèmes de passeports est de faire passer les trois par un identifiant unique.
 
 - **Celui qui vérifie l'unicité ne doit pas devenir observateur de l'activité.** Entre « qui est unique » et « ce qu'il a fait » se dresse un mur cryptographique: zero-knowledge et nullificateurs. L'émetteur délivre une preuve et oublie; la proof reste chez la personne.
-- **Un pluralisme d'émetteurs au lieu d'un monopole.** Beaucoup d'émetteurs indépendants, k parmi n suffisant. Aucun n'est root, aucun n'est un point unique d'exclusion.
+- **Un pluralisme d'émetteurs au lieu d'un monopole.** Beaucoup d'émetteurs indépendants, k parmi n suffisant. Aucun n'est root, aucun n'est un point unique d'exclusion. Le prix de ce choix est dit franchement: pour empêcher une même personne d'obtenir une preuve auprès de plusieurs émetteurs à la fois, il faudrait à ceux-ci un espace d'identifiants commun et reliable - c'est-à-dire le même root sous un autre nom; sans lui, l'unicité ne tient qu'à l'intérieur de chaque émetteur. Le schéma sacrifie ici l'unicité globale stricte au profit de la confidentialité et de la décentralisation.
 - **La révocabilité au lieu de la biométrie brute comme clé.** La clé primaire est un credential réémissible. La biométrie échoue précisément à la réémission, elle ne peut donc pas être une racine.
 - **Des nullificateurs par contexte.** Prouver l'unicité « dans cette élection » sans la relier à l'unicité « sur ce forum ».
 
@@ -404,7 +404,7 @@ La valeur d'un modèle ne tient pas à ses réponses, mais à la qualité des qu
 
 > Sur le travail et son soutien
 >
-> Chaque piste est un travail concret de bien commun, que l'on peut mener et soutenir comme recherche et prototype - à petite échelle, ouvertement, par étapes vérifiables. Le soutien apporté à un tel travail n'est accepté qu'à l'intérieur d'une discipline stricte: la voix ne s'achète pas, un apport ne donne aucun pouvoir sur les gens, rien n'est promis à l'avance. Soutenir la réalisation d'une piste, oui; acheter l'orientation du peuple, non.
+> Une piste est un travail concret pour le bien commun: on peut le mener soi-même, et on peut aussi le soutenir avec de l'argent ou avec ses mains. Le travail se fait ouvertement, par petites étapes, et chaque étape peut être vérifiée. Les règles du soutien sont strictes: la voix ne se vend pas, le soutien ne donne aucun pouvoir sur les gens, et personne ne promet rien à l'avance. Aider à faire un travail précis, c'est permis. Acheter avec de l'argent la direction que prend le peuple, non.
 
 Cadre de conclusion
 

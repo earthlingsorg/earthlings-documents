@@ -2,7 +2,7 @@
 
 **Le mécanisme financier décentralisé du peuple des Earthlings**
 
-> Le présent document détaille la section 03 de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html). En cas de divergence, la Charte s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration. Les seuils, les quorums et les délais sont établis par la Charte; le présent document les reproduit et ne peut les modifier.
+> Le présent document détaille la section 03 de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html). En cas de divergence, la Charte s'applique, et en cas de divergence entre la Charte et la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html), la Déclaration. Les seuils, les quorums et les délais établis par la Charte, le présent document les reproduit et ne peut les modifier; il établit les règles propres à la Trésorerie dans les limites de la Charte et les modifie selon la procédure des articles 38 et 39.
 
 La Trésorerie des Earthlings est le mécanisme financier du peuple, géré par le vote de l'Assemblée DAO et par des procédures transparentes. Elle sert de base à la réalisation des projets, au développement de la plateforme, aux initiatives éducatives et à l'aide humanitaire.
 
@@ -15,12 +15,12 @@ La Trésorerie des Earthlings est le mécanisme financier du peuple, géré par 
 **Caractéristiques principales:**
 
 - gestion exclusivement par le vote de l'Assemblée DAO;
-- transparence de toutes les transactions financières dans le registre distribué;
+- les opérations sur les portefeuilles du peuple sont visibles dans le registre distribué, et les opérations en monnaie fiduciaire sont publiées dans la reddition de comptes du trésor;
 - exécution automatique des décisions à mesure du déploiement des contrats intelligents;
-- droits administratifs réduits au minimum, répartis entre des signataires élus et soumis à un verrou temporel;
+- droits administratifs réduits au minimum et, après le transfert des clés, répartis entre des signataires élus et soumis à un verrou temporel (encadré ci-dessous);
 - reddition de comptes publique en temps réel.
 
-> **État des clés pendant l'étape de mise en place des structures.** Les clés se trouvent chez le fondateur. Leur transfert à une multisig de Core Nodes élus ou sous le contrôle de la DAO est un critère de passage à la phase suivante de la Feuille de route. Après ce transfert, nul ne pourra disposer seul des fonds; pendant l'étape de mise en place des structures, cette limite est assurée par la procédure, et nous le disons ouvertement au lieu de le taire.
+> **État des clés aujourd'hui.** Les clés se trouvent chez le fondateur. Leur transfert à une multisig de Core Nodes élus ou sous le contrôle de la DAO est un critère de passage entre les phases de la Feuille de route. Après ce transfert, nul ne pourra disposer seul des fonds; avant le transfert, cette limite n'est assurée que par la procédure, tandis que, techniquement, la disposition du trésor est accessible à une seule signature; avant l'adoption de la Déclaration, c'est le fondateur qui gère les fonds, avec une reddition de comptes publique (Feuille de route, section 03), et nous le disons ouvertement au lieu de le taire. L'étape de mise en place des structures (Charte, article 39) commence avec l'adoption de la Déclaration, avec laquelle la Charte entre en vigueur; jusque-là court la période constituante (document « La période constituante »).
 
 ## Article 2. L'objet
 
@@ -32,7 +32,7 @@ La Trésorerie des Earthlings est le mécanisme financier du peuple, géré par 
 
 ## Article 3. Les principes fondamentaux
 
-**Transparence.** Les mouvements de fonds sont vérifiables en temps réel par toute personne, sans notre intervention.
+**Transparence.** Les mouvements de fonds sur les portefeuilles du peuple sont vérifiables en temps réel par toute personne, sans notre intervention; les opérations en monnaie fiduciaire passent par les canaux bancaires de la personne morale-instrument et sont publiées dans la reddition de comptes du trésor.
 
 **Caractère démocratique.** Toutes les décisions de répartition des fonds sont prises par un vote de l'Assemblée DAO selon le principe « une personne - une voix ». Le poids de la voix ne dépend en aucune circonstance du montant des fonds apportés.
 
@@ -40,7 +40,7 @@ La Trésorerie des Earthlings est le mécanisme financier du peuple, géré par 
 
 **Reddition de comptes.** Chaque projet financé publie des rapports d'utilisation des fonds à l'achèvement de chaque étape.
 
-> **État actuel.** Le trésor est tenu sur un portefeuille Safe du réseau Polygon (`0xaEC7016218f7883bf6e47a2C932FdE6d822086C0`); ses transactions sont publiques et vérifiables. Le seuil de signatures de ce portefeuille est pour l'instant de une: la clé est chez le fondateur, il n'y a pas encore de multisig. Cela se vérifie à l'adresse par toute personne, et nous le nommons nous-mêmes. Le passage à une multisig d'élus est un critère de passage entre les phases de la Feuille de route. Les contrats intelligents de la Trésorerie décrits à l'article 20 se déploient par étapes; avant leur déploiement, les règles correspondantes sont exécutées par voie de procédure et non automatiquement. Les Core Nodes et l'Emergency Multisig ne sont pas élus à ce jour.
+> **État actuel.** Le trésor est tenu sur un portefeuille Safe du réseau Polygon (`0xaEC7016218f7883bf6e47a2C932FdE6d822086C0`); ses transactions sont publiques et vérifiables. Le seuil de signatures de ce portefeuille est pour l'instant de une: la clé est chez le fondateur, il n'y a pas encore de multisig. Cela se vérifie à l'adresse par toute personne, et nous le nommons nous-mêmes. Le passage à une multisig d'élus est un critère de passage entre les phases de la Feuille de route. Les contrats intelligents de la Trésorerie décrits à l'article 20 seront déployés par étapes; après l'adoption de la Déclaration et avant leur déploiement, les règles correspondantes sont exécutées par voie de procédure et non automatiquement. Aujourd'hui, aucun d'entre eux n'est déployé, et il n'existe pas non plus encore de décisions de l'Assemblée qu'ils exécuteraient. Les Core Nodes et l'Emergency Multisig ne sont pas élus à ce jour.
 
 ---
 
@@ -80,20 +80,20 @@ La Trésorerie peut recevoir des subventions et des dons d'organisations extéri
 - **Absence de conditions** - les subventions ne doivent pas comporter de conditions contraires aux principes du peuple;
 - **Interdiction d'influence** - les donateurs n'obtiennent ni voix ni influence sur les décisions de la DAO. Le montant d'un don ne donne rien d'autre qu'un remerciement.
 
-> **Lutte contre le blanchiment.** La Trésorerie ne fournit pas de services financiers à des tiers et ne dispose que des fonds propres du peuple, mais elle reçoit des versements extérieurs et opère par une personne morale-instrument, et relève donc des exigences des ordres juridiques concernés. Par conséquent: les opérations en monnaie fiduciaire passent par les canaux bancaires de la personne morale et sont soumises à ses procédures de vérification de la clientèle; les versements importants et atypiques font l'objet d'une vérification de leur source avant acceptation, et un don anonyme dépassant le seuil fixé par l'Assemblée n'est pas accepté; les dons de personnes et d'organisations frappées de mesures restrictives ne sont acceptés sous aucune forme. Le seuil et les modalités de vérification sont fixés par une décision de l'Assemblée et publiés.
+> **Lutte contre le blanchiment.** La Trésorerie ne fournit pas de services financiers à des tiers et ne dispose que des fonds communs, dans lesquels nul ne détient de part, mais elle reçoit des versements extérieurs et opère par une personne morale-instrument, et relève donc des exigences des ordres juridiques concernés. Par conséquent: les opérations en monnaie fiduciaire passent par les canaux bancaires de la personne morale et sont soumises à ses procédures de vérification de la clientèle; les versements importants et atypiques font l'objet d'une vérification de leur source avant acceptation, et un don anonyme dépassant le seuil fixé par l'Assemblée n'est pas accepté; les dons de personnes et d'organisations frappées de mesures restrictives ne sont acceptés sous aucune forme. Le seuil et les modalités de vérification sont fixés par une décision de l'Assemblée et publiés.
 
 ## Article 6. L'émission de l'unité de compte
 
-Une partie des fonds provient d'une émission contrôlée de l'unité de compte, selon le modèle approuvé par l'Assemblée DAO. Le détail figure dans un document distinct.
+Une partie des fonds proviendra d'une émission contrôlée de l'unité de compte, selon le modèle qu'approuve l'Assemblée DAO; aujourd'hui, l'unité n'est pas émise, et l'économie de la participation est tenue dans la comptabilité interne de la plateforme (document « Earthlings Coin », section 8). Le détail figure dans un document distinct.
 
-- l'émission est régie par des règles transparentes inscrites dans un contrat intelligent;
+- l'émission sera régie par des règles transparentes inscrites dans un contrat intelligent;
 - la modification des règles exige une majorité qualifiée;
 - les fonds issus de l'émission entrent directement à la Trésorerie;
 - l'émission est soumise à un audit public.
 
 ## Article 7. Les prélèvements sur le bénéfice des cellules
 
-5 pour cent du bénéfice d'une cellule sont versés à la Trésorerie.
+5 pour cent du bénéfice d'une cellule seront versés à la Trésorerie; les modalités de comptabilisation du bénéfice d'une cellule et les modalités du prélèvement sont établies par une décision de l'Assemblée DAO, et aujourd'hui ni les unes ni les autres n'existent (document « Où nous en sommes »).
 
 - les prélèvements sont effectués par contrats intelligents à mesure de leur déploiement;
 - le calcul est transparent et vérifiable;
@@ -164,7 +164,7 @@ L'Assemblée DAO est le seul organe de gouvernance de la Trésorerie. Toutes les
 
 La réputation est une mention de référence sur la participation de l'earthling aux travaux du peuple. Elle ne donne droit à rien: le poids de la voix n'en dépend pas (article 12), elle n'ouvre pas l'accès au financement et ne modifie pas l'ordre de passage.
 
-**Facteurs:** régularité de la participation aux votes, réalisation aboutie des projets financés, contribution au développement de la communauté, qualité des propositions, appréciations des autres participants.
+**Facteurs:** réalisation aboutie des projets financés, contribution au développement de la communauté, qualité des propositions, appréciations des autres participants. La participation aux votes n'est pas un facteur: la participation d'une personne déterminée à un vote n'est pas publiée (Charte, article 6).
 
 **Usage:** information de référence lors du choix d'un délégué; fil chronologique des propositions, où la réputation de l'auteur n'influe pas sur la place dans le fil, le filtrage par réputation étant disponible comme mode d'affichage que chacun active pour lui-même.
 
@@ -182,7 +182,7 @@ Les Earthlings peuvent confier volontairement leur voix, sur un domaine détermi
 - **tout earthling peut être délégué** - la réputation n'ouvre ni ne ferme l'accès à cette possibilité;
 - les votes exprimés par le délégué au titre des voix qui lui ont été confiées sont publics; aucune publication ne fait connaître qui a confié sa voix au délégué.
 
-**La délégation ne s'applique pas** aux votes portant sur la modification de la Charte et des règles de base de la Trésorerie, sur un financement au-delà de 100 000 EC, sur la constitution de l'Emergency Multisig, sur la restriction de pouvoirs, sur l'annulation d'une délivrance de passeport et sur la modification des principes intangibles.
+**La délégation ne s'applique pas** aux votes portant sur la modification de la Charte et des règles de base de la Trésorerie, sur un financement au-delà de 100 000 EC, sur la constitution de l'Emergency Multisig, sur la restriction de pouvoirs, sur la suspension du droit de vote, sur l'annulation d'une délivrance de passeport et sur la modification des principes intangibles. La délégation est consentie à titre gratuit: un paiement pour la consentir, la maintenir ou la révoquer est réputé achat ou vente d'une voix (Charte, article 7).
 
 La délégation ne crée aucune influence supplémentaire: une voix déléguée vaut une voix, et elle ne crée pas de fonction.
 
@@ -190,19 +190,19 @@ La délégation ne crée aucune influence supplémentaire: une voix déléguée 
 
 | Décision | Seuil | Quorum | Débat | Vote |
 |---|---|---|---|---|
-| Financement jusqu'à 10 000 EC | 51% | 20% | 14 jours | 7 jours |
-| Financement de 10 000 à 100 000 EC | 67% | 20% | 14 jours | 7 jours |
+| Financement supérieur à 1 000 et jusqu'à 10 000 EC inclus | 51% | 20% | 14 jours | 7 jours |
+| Financement supérieur à 10 000 et jusqu'à 100 000 EC inclus | 67% | 20% | 14 jours | 7 jours |
 | Financement au-delà de 100 000 EC | 67% | 25% | 21 jours | 14 jours |
 | Modification des règles de base de la Trésorerie | 67% | 25% | 21 jours | 14 jours |
 | Modification de la Charte | 67% | 25% | 21 jours | 14 jours |
 | Décisions techniques d'urgence | 51% | 20% | - | 48 heures |
-| Procédure accélérée jusqu'à 1 000 EC | 51% | 20% | 3 jours | 3 jours |
+| Procédure accélérée jusqu'à 1 000 EC inclus | 51% | 20% | 3 jours | 3 jours |
 
 Les montants-seuils sont fixés par une décision de l'Assemblée DAO et modifiés sans amendement à la Charte; les valeurs indiquées sont celles en vigueur au moment de l'adoption du document.
 
 ## Article 16. Le conflit d'intérêts
 
-**Déport obligatoire.** Un earthling ne participe pas à un vote de répartition des fonds s'il est intéressé à son issue. La liste fermée des motifs de déport et les modalités de sa déclaration sont établies par la [Charte, article 16](https://earth-lings.org/documents/fr/fr05-charte.html).
+**Déport obligatoire.** Un earthling ne participe pas à un vote de répartition des fonds s'il est le demandeur ou le coauteur de la demande, s'il fait partie de l'équipe du projet, s'il est un parent proche du demandeur ou s'il a envers celui-ci des obligations contractuelles prévoyant une rémunération. La liste est fermée; les modalités de la déclaration de déport sont établies par la [Charte, article 16](https://earth-lings.org/documents/fr/fr05-charte.html).
 
 Il n'existe pas d'autres motifs d'exclure une voix: une décision de la majorité n'exclut pas du décompte la voix d'un earthling.
 
@@ -214,7 +214,7 @@ Il n'existe pas d'autres motifs d'exclure une voix: une décision de la majorit�
 
 **Étape 1. Dépôt.** Tout earthling dépose une proposition de financement. Aucune approbation préalable et aucun seuil de soutien ne sont exigés. La demande contient une description, les buts, le budget, le plan, la composition des participants et les indicateurs de réussite. La proposition est publiée pour un débat ouvert.
 
-**Étape 2. Débat.** 14 jours; 3 jours pour les projets jusqu'à 1 000 EC. Questions aux auteurs, retours, possibilité d'améliorer.
+**Étape 2. Débat.** Selon les délais de l'article 15: 14 jours; 21 jours pour les projets au-delà de 100 000 EC; 3 jours pour les projets jusqu'à 1 000 EC inclus. Questions aux auteurs, retours, possibilité d'améliorer.
 
 **Étape 3. Vote.** Selon les délais et les seuils de l'article 15. Chaque earthling dispose d'une voix. Les résultats sont consignés publiquement.
 
@@ -255,7 +255,7 @@ Groupe de 6 spécialistes techniques au maximum, élus par l'Assemblée DAO pour
 
 **Fonctions:** soutien de la plateforme et de l'infrastructure; cybersécurité; soutien technique des votes; audit et surveillance des contrats intelligents; correction des défaillances techniques; administration technique des moyens de communication.
 
-**Il leur est interdit:** de prendre des décisions au nom du peuple; de bloquer des participants en raison du contenu de leurs propos; de gérer les finances ou d'influer sur la répartition des fonds; d'avoir un poids particulier dans les votes; d'intervenir dans le contenu des débats - une limitation technique n'est possible qu'en cas d'attaques, telles que des robots de spam ou un déni de service.
+**Il leur est interdit:** de prendre des décisions au nom du peuple; de bloquer des participants en raison du contenu de leurs propos; de gérer les finances ou d'influer sur la répartition des fonds; d'avoir un poids particulier dans les votes; d'intervenir dans le contenu des débats - une limitation technique n'est possible qu'en cas d'attaques, telles que des robots de spam ou un déni de service. La signature des Core Nodes sur une transaction du trésor approuvée par l'Assemblée est une exécution technique et non une gestion des finances: le signataire n'a pas le droit de la refuser pour des motifs tenant au fond de la décision.
 
 **Constitution et contrôle:**
 
@@ -264,7 +264,7 @@ Groupe de 6 spécialistes techniques au maximum, élus par l'Assemblée DAO pour
 - **révocation à la majorité simple (51%, quorum 20%) à tout moment, sans avoir à s'expliquer**;
 - reddition de comptes publique mensuelle obligatoire.
 
-> **Symétrie des seuils.** Le seuil de révocation est égal au seuil d'élection: retirer une mission ne peut pas être plus difficile que la confier (Charte, article 2). La rotation n'est pas liée à des indicateurs de réputation: la réputation n'est une condition ni pour se porter candidat, ni pour conserver une mission.
+> **Symétrie des seuils.** Le seuil de révocation est égal au seuil d'élection: retirer une mission ne peut pas être plus difficile que la confier (Charte, article 2). La rotation n'est pas liée à des indicateurs de réputation: la réputation n'est une condition ni pour se porter candidat, ni pour conserver une mission. Les règles de l'article 3 de la Charte s'appliquent à la multisig du trésor: au moins six signataires, seuil fixé par une part de la composition arrondie à l'entier supérieur, signataires indépendants - chacun avec sa propre clé sur son propre appareil -, et un seuil atteint par des clés se trouvant sous le contrôle d'une seule personne est réputé non atteint.
 
 ## Article 22. Emergency Multisig
 
@@ -363,7 +363,7 @@ Il est interdit de financer des projets liés:
 - au financement de conflits armés ou d'organisations terroristes;
 - à la violation des droits de l'homme ou à la discrimination;
 - à l'exploitation du travail des enfants ou à tout préjudice causé aux enfants;
-- à une activité illicite dans quelque ordre juridique que ce soit;
+- à une activité illicite au regard du droit du lieu où elle est exercée;
 - à un dommage écologique;
 - à la participation à la lutte politique et à l'influence sur des élections;
 - à la fraude et aux pyramides financières;
@@ -455,7 +455,7 @@ Les valeurs indiquées sont des repères d'appréciation et non des engagements 
 
 ## Article 38. La procédure
 
-Le document n'est modifié que par un vote de l'Assemblée DAO: tout earthling a le droit de déposer une proposition; entrée en vigueur 7 jours après l'approbation. Les délais de débat, le seuil et le quorum dépendent du type de modification et sont prévus à l'article 39.
+Le document n'est modifié que par un vote de l'Assemblée DAO: tout earthling a le droit de déposer une proposition; entrée en vigueur 7 jours après l'approbation. Les délais de débat, le seuil et le quorum dépendent du type de modification et sont prévus à l'article 39. C'est ainsi que le document est modifié après l'adoption de la Déclaration; pendant la période constituante, les modifications sont apportées selon la procédure du document « La période constituante » (partie 2, point 2).
 
 ## Article 39. Les types de modifications
 
@@ -475,7 +475,7 @@ Ce qui suit ne se modifie pas, même à la majorité qualifiée:
 - la gestion de la Trésorerie exclusivement par l'Assemblée DAO;
 - **une personne, une voix pour toute décision financière**, y compris la répartition des fonds entre projets; aucun mécanisme ne peut permettre à un participant d'exprimer, dans une même décision, plus de poids qu'un autre;
 - la transparence de toutes les transactions financières de la Trésorerie;
-- l'interdiction de financer les activités énumérées à l'article 30;
+- l'interdiction de financer ce qu'interdit le noyau intangible de la Déclaration: la violence et les structures armées, la participation à la lutte politique et aux campagnes électorales (article 5), la destruction des conditions d'existence de la vie (article 3); les autres interdictions de l'article 30 sont des règles de base de la Trésorerie et se modifient selon la procédure de l'article 39;
 - le caractère technique et de service des Core Nodes et de l'Emergency Multisig;
 - l'indépendance de la voix à l'égard du montant des fonds apportés.
 
