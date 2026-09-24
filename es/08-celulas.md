@@ -254,7 +254,7 @@ En el sistema de células se admite el uso de indicadores de calidad del trabajo
 
 **Cómo se emplea:** para navegar, a quién es más sencillo proponer una tarea compleja; para aprender, dónde hacen falta programas de apoyo y de mentoría; para la transparencia, para ver cómo evolucionan las células y qué aprenden.
 
-> **Qué no hace la reputación.** Conforme al artículo 8 de la Carta, no influye en el peso del voto y no abre el acceso a ningún cargo. Aplicado a las células, eso significa en concreto lo siguiente:
+> **Qué no hace la reputación.** Conforme al artículo 8 de la Carta, no influye en el peso del voto y no abre el acceso a ningún papel. Aplicado a las células, eso significa en concreto lo siguiente:
 >
 > - no es condición para entrar en una célula ni para participar en un proyecto;
 > - no influye en el orden de financiación: este lo determina el número de participantes que apoyan el proyecto, y no la calificación del solicitante (Carta, artículo 11);

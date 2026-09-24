@@ -14,7 +14,7 @@ La Carta de las Naciones Unidas se abre con las palabras «Nosotros los pueblos 
 
 Las decisiones se toman en unos pocos despachos, y las consecuencias recaen sobre millones de personas. Pagamos facturas emitidas sin nuestro consentimiento. Y los Estados no dan abasto con sus tareas, no porque sean malos, sino porque este trabajo no puede hacerse por entero sin una sociedad civil constructiva. Los Estados necesitan una contraparte, y hoy no existe ninguna.
 
-Cada pueblo existente está ligado a los Estados por la ciudadanía y por el territorio donde vive. Ni un solo pueblo tiene voz propia.
+Cada pueblo existente está ligado a los Estados por la nacionalidad y por el territorio donde vive. Ni un solo pueblo tiene voz propia.
 
 ## Quién controla a quienes deciden
 
@@ -32,7 +32,7 @@ Un control verdadero solo es posible desde un lugar al que no llegan ni un presu
 
 Nuestra iniciativa consiste en crear un pueblo no territorial. Para todos los que estén dispuestos a participar en la construcción de una sociedad de tipo nuevo.
 
-Será el primer pueblo que no pertenece a ningún Estado y no reclama territorio alguno. Un pueblo que determina por sí mismo su destino y expresa por sí mismo su voluntad. En el que las personas comparten valores comunes y reconocen una pertenencia común. Un pueblo en el que se entra por elección propia y meditada. Un pueblo del que se puede salir en cualquier momento sin explicar por qué. En el que nadie puede acumular poder sobre los demás, y que se apoya en la cooperación y no en la competencia. Y con todo, la persona sigue siendo ciudadana de su país, conserva su nacionalidad, su religión y su cultura, pero recibe lo que nunca tuvo: una sociedad de tipo nuevo.
+Será el primer pueblo que no pertenece a ningún Estado y no reclama territorio alguno. Un pueblo que determina por sí mismo su destino y expresa por sí mismo su voluntad. En el que las personas comparten valores comunes y reconocen una pertenencia común. Un pueblo en el que se entra por elección propia y meditada. Un pueblo del que se puede salir en cualquier momento sin explicar por qué. En el que nadie puede acumular poder sobre los demás, y que se apoya en la cooperación y no en la competencia. Y con todo, la persona sigue siendo ciudadana de su país, conserva su adscripción étnica, su religión y su cultura, pero recibe lo que nunca tuvo: una sociedad de tipo nuevo.
 
 Llamamos a este pueblo Earthlings porque todos estamos ligados al planeta en el que vivimos.
 

@@ -14,7 +14,7 @@ La Charte des Nations Unies s'ouvre par les mots « Nous, peuples des Nations Un
 
 Les décisions se prennent dans quelques bureaux, et les conséquences retombent sur des millions de gens. Nous payons des factures établies sans notre accord. Et les États n'arrivent pas à remplir leurs tâches - non parce qu'ils sont mauvais, mais parce que ce travail ne peut être mené à bien sans une société civile constructive. Les États ont besoin d'un vis-à-vis, et aujourd'hui il n'en existe aucun.
 
-Chaque peuple existant est lié aux États par la citoyenneté et par le territoire où il vit. Pas un seul peuple n'a de voix propre.
+Chaque peuple existant est lié aux États par la nationalité et par le territoire où il vit. Pas un seul peuple n'a de voix propre.
 
 ## Qui contrôle ceux qui décident
 
@@ -32,7 +32,7 @@ Un contrôle véritable n'est possible que depuis un endroit où n'atteignent ni
 
 Notre initiative consiste à créer un peuple non territorial. Pour tous ceux qui sont prêts à participer à la construction d'une société d'un type nouveau.
 
-Ce sera le premier peuple qui n'appartient à aucun État et ne revendique aucun territoire. Un peuple qui détermine lui-même son destin et exprime lui-même sa volonté. Où les gens partagent des valeurs communes et reconnaissent une appartenance commune. Un peuple dans lequel on entre par son propre choix réfléchi. Un peuple dont on peut sortir à tout moment sans avoir à s'expliquer. Où nul ne peut accumuler de pouvoir sur autrui, et qui repose sur la coopération et non sur la concurrence. Et pendant ce temps la personne reste citoyenne de son pays, garde sa nationalité, sa religion et sa culture, mais reçoit ce qu'elle n'a jamais eu: une société d'un type nouveau.
+Ce sera le premier peuple qui n'appartient à aucun État et ne revendique aucun territoire. Un peuple qui détermine lui-même son destin et exprime lui-même sa volonté. Où les gens partagent des valeurs communes et reconnaissent une appartenance commune. Un peuple dans lequel on entre par son propre choix réfléchi. Un peuple dont on peut sortir à tout moment sans avoir à s'expliquer. Où nul ne peut accumuler de pouvoir sur autrui, et qui repose sur la coopération et non sur la concurrence. Et pendant ce temps la personne reste citoyenne de son pays, garde son appartenance nationale, sa religion et sa culture, mais reçoit ce qu'elle n'a jamais eu: une société d'un type nouveau.
 
 Nous avons nommé ce peuple Earthlings, parce que nous sommes tous liés à la planète où nous vivons.
 
@@ -42,11 +42,11 @@ Parce que des gens peuvent se rassembler en peuple sans demander la permission �
 
 C'est précisément le peuple que le droit international reconnaît comme titulaire du droit à l'autodétermination - le droit de déterminer lui-même son développement et de parler en son propre nom. Ni une nation, ni un groupe ethnique, ni une population ne sont dotés de ce droit.
 
-Un peuple peut être fondé par des gens sans enregistrement étatique. Pour tout mouvement social ou toute association, cet enregistrement est obligatoire, et on peut les fermer par une décision venue du dehors. Un peuple, lui, ne peut être fermé; il existe tant qu'existent ses gens. Son existence n'exige la reconnaissance de personne, hormis celle des gens eux-mêmes.
+Un peuple peut être constitué par des gens sans enregistrement étatique. Pour tout mouvement social ou toute association, cet enregistrement est obligatoire, et on peut les fermer par une décision venue du dehors. Un peuple, lui, ne peut être fermé; il existe tant qu'existent ses gens. Son existence n'exige la reconnaissance de personne, hormis celle des gens eux-mêmes.
 
 ## Pourquoi seulement maintenant
 
-Un peuple ne peut être fondé que lorsqu'on sait qui en fait partie et que les voix peuvent être honnêtement comptées. Tant que les gens vivaient loin les uns des autres et ne pouvaient se vérifier mutuellement, ni l'un ni l'autre n'était possible. Toute liste de participants pouvait être remplie de noms inventés, et une même personne pouvait s'y inscrire plusieurs fois. Le résultat d'un vote non plus ne pouvait être vérifié.
+Un peuple ne peut être constitué que lorsqu'on sait qui en fait partie et que les voix peuvent être honnêtement comptées. Tant que les gens vivaient loin les uns des autres et ne pouvaient se vérifier mutuellement, ni l'un ni l'autre n'était possible. Toute liste de participants pouvait être remplie de noms inventés, et une même personne pouvait s'y inscrire plusieurs fois. Le résultat d'un vote non plus ne pouvait être vérifié.
 
 Aujourd'hui, cela est résolu. Une personne confirme qu'elle est vivante et unique sans révéler qui elle est. La voix n'appartient qu'à elle: elle ne peut être ni achetée ni accumulée. Le déroulement et le résultat de tout vote sont ouverts - chacun peut s'en assurer sans croire personne sur parole. Toute l'activité du peuple est elle aussi ouverte à la vérification.
 

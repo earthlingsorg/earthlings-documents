@@ -66,7 +66,7 @@ This is not a struggle against power. An auditor does not struggle against a ban
 
 The question we asked about the UN we are bound to ask about ourselves.
 
-A voice in the Earthlings people cannot be bought, accumulated or taken away. The register of participants is not under the control of a single operator. Every decision can be verified by anyone. And the five principles that protect the person from the power of the people itself cannot be repealed by a majority, by the Earthlings Charter, or by interpretation.
+A voice in the Earthlings people cannot be bought, accumulated or taken away. The registry of participants is not under the control of a single operator. Every decision can be verified by anyone. And the five principles that protect the person from the power of the people itself cannot be repealed by a majority, by the Earthlings Charter, or by interpretation.
 
 To that question we have an answer. The UN has none.
 

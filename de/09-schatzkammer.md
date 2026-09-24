@@ -383,7 +383,7 @@ Ausnahmen sind nur bei einer Billigung mit qualifizierter Mehrheit der DAO in be
 
 Die Messungen des gemeinsamen Willens (Artikel 8-bis der [Charta](https://earth-lings.org/documents/de/de05-charta.html)) werden von der Schatzkammer des Volkes getragen. Für die Teilnahme an einer Messung wird niemals ein Entgelt erhoben: Der Beitrag beim Beitritt deckt die Identitätsprüfung und die Ausgabe des Passes, nicht die Teilnahme an Abstimmungen.
 
-**Eine Messung gegen Bezahlung eines Auftraggebers findet nicht statt** - weder für einen Staat noch für ein Unternehmen noch für einen Fonds noch für eine andere Vereinigung. Bestellte Fragen, Vorrang in der Reihe für Geld und eine bezahlte Formulierung sind ausgeschlossen.
+**Eine Messung gegen Bezahlung eines Auftraggebers findet nicht statt** - weder für einen Staat noch für ein Unternehmen noch für eine Stiftung noch für eine andere Vereinigung. Bestellte Fragen, Vorrang in der Reihe für Geld und eine bezahlte Formulierung sind ausgeschlossen.
 
 **Zweckgebundene Mittel für eine bestimmte Frage werden nicht angenommen,** auch nicht eine Gabe ohne Bedingungen, die für eine bestimmte Frage eingeht. Solche Eingänge fließen entweder ohne Bindung an die Frage in die allgemeine Schatzkammer oder werden zurückgegeben.
 

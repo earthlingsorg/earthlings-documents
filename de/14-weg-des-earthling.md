@@ -50,7 +50,7 @@ Weitere Voraussetzungen gibt es nicht. Nationale Herkunft, Rasse, Religion, Gesc
 
 **Sie können jederzeit austreten** - selbst, ohne Gründe zu nennen, und daran hindern kann Sie niemand, auch der Gründer nicht.
 
-**Sie nehmen unmittelbar teil** - Sie bringen Vorschläge ein und stimmen über jede Frage ab und nicht einmal in mehreren Jahren.
+**Sie nehmen unmittelbar teil** - Sie bringen Vorschläge ein und stimmen über jede Frage ab, statt einmal alle paar Jahre.
 
 ---
 

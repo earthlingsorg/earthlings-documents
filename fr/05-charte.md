@@ -315,9 +315,9 @@ Le panel reçoit des documents, entend des spécialistes et les tenants de posit
 
 Le travail du panel est publié avec la question: la composition selon le procédé de tirage, les documents étudiés, les parties entendues, les arguments exposés et les désaccords consignés. Une publication qui ne permet pas de retracer d'où viennent les options n'est pas un travail de panel.
 
-Le panel n'est pas convoqué tant que le registre des passeports ne permet pas d'obtenir par tirage au sort une coupe du peuple. Jusqu'à ce jour, la mesure est effectuée sans panel, et cela est indiqué avec la question; taire l'absence de panel est un défaut de la mesure.
+Le panel n'est pas convoqué tant que le registre des passeports ne permet pas d'obtenir par tirage au sort une image représentative du peuple. Jusqu'à ce jour, la mesure est effectuée sans panel, et cela est indiqué avec la question; taire l'absence de panel est un défaut de la mesure.
 
-Le seuil à partir duquel le tirage donne une coupe, et pour le reste les modalités du travail du panel, sont établis par une décision de l'Assemblée DAO et publiés avant le premier panel.
+Le seuil à partir duquel le tirage donne une image représentative, et pour le reste les modalités du travail du panel, sont établis par une décision de l'Assemblée DAO et publiés avant le premier panel.
 
 ---
 
@@ -609,7 +609,7 @@ Ne peut servir de motif de suspension de la voix, sous quelque présentation que
 - le contenu de son vote et la manière dont il a voté antérieurement;
 - le désaccord avec les décisions adoptées, la critique des structures du peuple et des fondateurs;
 - le manquement aux autres règles énumérées à l'article 22;
-- une appréciation portée sur l'état mental, la capacité juridique ou la compétence d'un participant.
+- une appréciation portée sur l'état mental, la capacité d'exercice ou la compétence d'un participant.
 
 > **Pourquoi la limite est tracée exactement ici.** La voix est protégée **en tant que voix**. Celui qui attaque le mécanisme de vote lui-même attaque ce qui donne son sens à la voix de chacun, et perd donc la sienne. Celui qui vote « mal » ne porte atteinte à aucun mécanisme, et sa voix est inviolable.
 >
@@ -901,7 +901,7 @@ Ordre de financement de projets déjà approuvés lorsque les fonds du domaine s
 Elle n'est pas une décision et n'a pas de seuil: par elle, le peuple exprime une position, il ne statue pas. Les exigences sont prévues à l'article 8 bis; les modalités sont pour le reste établies par une décision de l'Assemblée DAO.
 
 **Le panel tiré au sort (article 8 ter)**
-Ce n'est pas une décision et il n'y a pas de seuil: le panel prépare la question à la mesure, il n'y répond pas. Tirage au sort dans le registre des passeports, participation volontaire, travail publié avec la question. Le panel n'est pas convoqué tant que le registre des passeports ne permet pas d'obtenir par tirage au sort une coupe du peuple.
+Ce n'est pas une décision et il n'y a pas de seuil: le panel prépare la question à la mesure, il n'y répond pas. Tirage au sort dans le registre des passeports, participation volontaire, travail publié avec la question. Le panel n'est pas convoqué tant que le registre des passeports ne permet pas d'obtenir par tirage au sort une image représentative du peuple.
 
 ## Pouvoirs des structures d'exécution
 

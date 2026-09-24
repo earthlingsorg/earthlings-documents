@@ -106,7 +106,7 @@ Está en curso un período de transición, y se reconoce abiertamente: una parte
 
 → [Hoja de ruta](https://earth-lings.org/documents/es/es19-hoja-de-ruta.html)
 
-### ¿Qué impide que un grupo reducido capture el gobierno?
+### ¿Qué impide que un grupo reducido capture la gobernanza?
 
 Capturar exige acumular, y no hay nada que acumular: el voto está ligado uno a uno a una persona verificada, no se compra y no se deriva del dinero, de la reputación ni de un cargo. El núcleo intangible está sacado fuera de cualquier votación.
 

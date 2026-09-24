@@ -731,8 +731,8 @@ OVERRIDES_EN = {
     '20': {'description':
            'The Earthlings founding period: proposals are accepted on the whole corpus of '
            'twenty-five documents - the Declaration, the Charter and the rest - from '
-           '7 September to 6 December 2026, the record on 20 December, the vote on the '
-           'Declaration on 3 January 2027. What is open to discussion, what is not up for '
+           '22 October 2026 to 20 January 2027, the record on 3 February, the vote on the '
+           'Declaration on 17 February 2027. What is open to discussion, what is not up for '
            'discussion, and how to take part.'},
     '22': {'description': _OFFICIAL % 'Legal Information'},
     '23': {'description': _OFFICIAL % 'About Us'},
@@ -824,8 +824,8 @@ OVERRIDES_DE = {
     '20': {'description':
            'Die Gründungsphase der Earthlings: Vorschläge werden zum gesamten Bestand von '
            'fünfundzwanzig Dokumenten angenommen - zur Erklärung, zur Charta und zu den '
-           'übrigen - vom 7. September bis zum 6. Dezember 2026, die Niederschrift am '
-           '20. Dezember, die Abstimmung über die Erklärung am 3. Januar 2027. Was zur '
+           'übrigen - vom 22. Oktober 2026 bis zum 20. Januar 2027, die Niederschrift am '
+           '3. Februar, die Abstimmung über die Erklärung am 17. Februar 2027. Was zur '
            'Erörterung steht, was nicht zur Erörterung steht und wie man teilnimmt.'},
     '22': {'description': _OFFICIAL_DE % 'Rechtliche Hinweise'},
     '23': {'description': _OFFICIAL_DE % 'Über uns'},
@@ -915,8 +915,8 @@ OVERRIDES_FR = {
     '20': {'description':
            'La période constituante des Earthlings: les propositions sont reçues sur '
            'l\'ensemble des vingt-cinq documents - la Déclaration, la Charte et les autres - '
-           'du 7 septembre au 6 décembre 2026, le relevé le 20 décembre, le vote sur la '
-           'Déclaration le 3 janvier 2027. Ce qui est en discussion, ce qui ne l\'est pas et '
+           'du 22 octobre 2026 au 20 janvier 2027, le relevé le 3 février, le vote sur la '
+           'Déclaration le 17 février 2027. Ce qui est en discussion, ce qui ne l\'est pas et '
            'comment participer.'},
     '22': {'description': _OFFICIAL_FR % 'Mentions légales'},
     '23': {'description': _OFFICIAL_FR % 'Qui sommes-nous'},
@@ -1005,9 +1005,9 @@ OVERRIDES_ES = {
     '19': {'description': _OFFICIAL_ES % 'La hoja de ruta del período de transición'},
     '20': {'description':
            'El período constituyente de los Earthlings: las propuestas se reciben sobre los '
-           'veinticinco documentos - la Declaración, la Carta y los demás - del 7 de '
-           'septiembre al 6 de diciembre de 2026, el compendio el 20 de diciembre, la '
-           'votación de la Declaración el 3 de enero de 2027. Qué se discute, qué no y cómo '
+           'veinticinco documentos - la Declaración, la Carta y los demás - del 22 de '
+           'octubre de 2026 al 20 de enero de 2027, el compendio el 3 de febrero, la '
+           'votación de la Declaración el 17 de febrero de 2027. Qué se discute, qué no y cómo '
            'participar.'},
     '22': {'description': _OFFICIAL_ES % 'Aviso legal'},
     '23': {'description': _OFFICIAL_ES % 'Quiénes somos'},
@@ -1099,9 +1099,9 @@ OVERRIDES_KA = {
     '19': {'description': _OFFICIAL_KA % 'გარდამავალი პერიოდის საგზაო რუკა'},
     '20': {'description':
            'Earthlings-ის დამფუძნებელი პერიოდი: წინადადებები მიიღება ოცდახუთივე '
-           'დოკუმენტზე - დეკლარაციაზე, ქარტიაზე და დანარჩენებზე - 2026 წლის 7 '
-           'სექტემბრიდან 6 დეკემბრამდე, კრებული 20 დეკემბერს, დეკლარაციის კენჭისყრა '
-           '2027 წლის 3 იანვარს. რა განიხილება, რა არა და როგორ მივიღოთ მონაწილეობა.'},
+           'დოკუმენტზე - დეკლარაციაზე, ქარტიაზე და დანარჩენებზე - 2026 წლის 22 '
+           'ოქტომბრიდან 2027 წლის 20 იანვრამდე, კრებული 3 თებერვალს, დეკლარაციის კენჭისყრა '
+           '2027 წლის 17 თებერვალს. რა განიხილება, რა არა და როგორ მივიღოთ მონაწილეობა.'},
     '22': {'description': _OFFICIAL_KA % 'იურიდიული ინფორმაცია'},
     '23': {'description': _OFFICIAL_KA % 'ჩვენ შესახებ'},
     '26': {'description':
@@ -1268,9 +1268,9 @@ OVERRIDES_AR = {
     '19': {'description': _OFFICIAL_AR % 'خارطة طريق الفترة الانتقالية'},
     '20': {'description':
            'الفترة التأسيسية لشعب Earthlings: باب المقترحات مفتوح على مجموعة الوثائق '
-           'الخمس والعشرين كلها - الإعلان والميثاق وسائرها - من 7 أيلول/سبتمبر إلى '
-           '6 كانون الأول/ديسمبر 2026، والحصيلة في 20 كانون الأول/ديسمبر، والتصويت على '
-           'الإعلان في 3 كانون الثاني/يناير 2027. ما هو مفتوح للنقاش، وما لا يخضع '
+           'الخمس والعشرين كلها - الإعلان والميثاق وسائرها - من 22 تشرين الأول/أكتوبر 2026 '
+           'إلى 20 كانون الثاني/يناير 2027، والحصيلة في 3 شباط/فبراير، والتصويت على '
+           'الإعلان في 17 شباط/فبراير 2027. ما هو مفتوح للنقاش، وما لا يخضع '
            'للنقاش، وكيف تشارك.'},
     '22': {'description': _OFFICIAL_AR % 'معلومات قانونية'},
     '23': {'description': _OFFICIAL_AR % 'من نحن'},
@@ -1327,7 +1327,7 @@ _OFFICIAL_HI = '%s - Earthlings जन का आधिकारिक दस्
 # ru/20-uchreditelnyj-period.md, раздел 07, говорит другое: приём открыт
 # 22 октября 2026, закрыт 20 января 2027, свод и окончательные редакции
 # 3 февраля 2027, голосование 17 февраля 2027. Хинди пишется по мастеру;
-# шесть языков ждут отдельной правки.
+# шесть остальных исправлены 2026-09-24 (пункт 43 списка правок мастера).
 OVERRIDES_HI = {
     '01': {'description': _OFFICIAL_HI % 'Earthlings घोषणा'},
     '02': {'description':

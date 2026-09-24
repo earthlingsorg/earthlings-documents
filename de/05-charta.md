@@ -833,7 +833,7 @@ Die folgenden Grundsätze lassen sich auch mit qualifizierter Mehrheit nicht än
 - **Widerruflichkeit jedes Auftrags.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle als der ihrer Erteilung widerrufen lässt, wird nicht erteilt
 - **Die Schwelle für die Änderung dieser Charta.** Die Schwellen des Artikels 36 können nicht durch einen Beschluss abgesenkt werden, der nach demselben Artikel gefasst wird; das ist in Artikel 9 der Erklärung festgelegt
 
-> **Das Verhältnis zur Erklärung.** Die aufgezählten Grundsätze sind der betriebliche Ausdruck des unabänderlichen Kerns der Erklärung der Earthlings - des Lebens, der Würde und der Freiheit des Menschen, der planetaren Solidarität, der Sorge für den Planeten und des Grundsatzes, dass niemand Macht über andere ausübt. Sie dürfen diesen Kern nicht einengen und werden nur zu seinen Gunsten ausgelegt.
+> **Das Verhältnis zur Erklärung.** Die aufgezählten Grundsätze sind der betriebliche Ausdruck des unabänderlichen Kerns der Erklärung der Earthlings - des Lebens, der Würde und der Freiheit des Menschen, der planetaren Solidarität, der Sorge für den Planeten und des Grundsatzes, dass es Macht von Menschen über Menschen nicht gibt. Sie dürfen diesen Kern nicht einengen und werden nur zu seinen Gunsten ausgelegt.
 
 ---
 

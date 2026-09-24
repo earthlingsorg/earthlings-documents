@@ -193,7 +193,7 @@ La anulación no es una expulsión del pueblo: significa solo que la emisión de
 
 ## Artículo 9. El autogobierno
 
-El gobierno del pueblo corresponde a los earthlings, no a las instituciones. Las instituciones y los encargos existen únicamente para ejecutar las decisiones de los earthlings.
+La gobernanza del pueblo corresponde a los earthlings, no a las instituciones. Las instituciones y los encargos existen únicamente para ejecutar las decisiones de los earthlings.
 
 Las decisiones las adoptan los earthlings directamente. El conjunto de todos los earthlings - la Asamblea - es la única fuente de las decisiones del pueblo. No existe ni puede crearse una institución situada por encima de la Asamblea o que adopte decisiones en su lugar.
 

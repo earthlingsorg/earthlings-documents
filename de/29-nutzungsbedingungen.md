@@ -47,7 +47,7 @@ Das Bestehen des Volkes mit seiner Infrastruktur, seiner Verwaltung und seiner I
 - **Freiheit und Selbstbestimmung** - jeder ist befugt, seine Zugehörigkeit zu bestimmen;
 - **die planetare Solidarität**;
 - **die Durchsichtigkeit** - die Infrastruktur steht zur Überprüfung offen, die Beschlüsse werden gemeinsam gefasst;
-- **kein Mensch hat Macht über einen anderen** - niemand nimmt eine Stellung über einem anderen Menschen ein; wir bauen einen waagerechten Aufbau.
+- **Macht von Menschen über Menschen gibt es nicht** - niemand nimmt eine Stellung über einem anderen Menschen ein; wir bauen einen waagerechten Aufbau.
 
 Diese Werte sind in der Architektur verkörpert und nicht nur erklärt.
 
