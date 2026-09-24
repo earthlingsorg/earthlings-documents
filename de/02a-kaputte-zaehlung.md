@@ -65,9 +65,9 @@ Davon war oben die Rede. Echte gesellschaftliche Eingaben von hergestellten zu u
 
 Dieser Defekt ist der tiefste und der am wenigsten bekannte, obwohl er längst beschrieben ist - vom Ökonomen Mancur Olson in der Arbeit „Die Logik des kollektiven Handelns“ aus dem Jahr 1965.
 
-Der Kern ist dieser. Nehmen wir eine Entscheidung, die zwanzig Unternehmen je hundert Millionen einbringt und zwanzig Millionen Bürgern je hundert Euro kostet. Der Gesamtgewinn der Unternehmen: zwei Milliarden. Der Gesamtverlust der Bürger: zwei Milliarden. Die Kräfte sind gleich, sollte man meinen.
+Der Kern ist dieser. Nehmen wir eine Entscheidung, die zwanzig Unternehmen je hundert Millionen einbringt und zwanzig Millionen Bürgern je hundert Dollar kostet. Der Gesamtgewinn der Unternehmen: zwei Milliarden. Der Gesamtverlust der Bürger: zwei Milliarden. Die Kräfte sind gleich, sollte man meinen.
 
-Sie sind es nicht. Für zwanzig Unternehmen ist es leicht, sich zu organisieren: Es sind wenige, jedes kennt die anderen, für jedes stehen hundert Millionen auf dem Spiel, und die Ausgaben für die Verteidigung des Interesses zahlen sich hundertfach aus. Für zwanzig Millionen Bürger ist es unmöglich, sich zu organisieren: Sie kennen einander nicht, für jeden stehen hundert Euro auf dem Spiel, und für die Verteidigung dieser hundert Euro auch nur eine Stunde der eigenen Zeit aufzuwenden lohnt sich für jeden Einzelnen nicht, obwohl es sich für alle zusammen lohnt.
+Sie sind es nicht. Für zwanzig Unternehmen ist es leicht, sich zu organisieren: Es sind wenige, jedes kennt die anderen, für jedes stehen hundert Millionen auf dem Spiel, und die Ausgaben für die Verteidigung des Interesses zahlen sich hundertfach aus. Für zwanzig Millionen Bürger ist es unmöglich, sich zu organisieren: Sie kennen einander nicht, für jeden stehen hundert Dollar auf dem Spiel, und für die Verteidigung dieser hundert Dollar auch nur eine Stunde der eigenen Zeit aufzuwenden lohnt sich für jeden Einzelnen nicht, obwohl es sich für alle zusammen lohnt.
 
 Deshalb **siegt das konzentrierte Interesse fast immer über das zerstreute** - unabhängig davon, wer recht hat, unabhängig von der Redlichkeit der Politiker und unabhängig von der Regierungsform. Das ist kein Mangel der Demokratie, sondern die Mathematik der Organisierung, und sie wirkt unter jeder Herrschaft gleich.
 

@@ -43,7 +43,7 @@ Chacun peut proposer une correction à tout document, et la Déclaration tire sa
 
 L'architecture institutionnelle des Earthlings est composée de trois éléments structurels distincts, dont aucun ne détient de pouvoir sur une personne.
 
-Ce principe est fondamental: chaque élément remplit des tâches structurellement inaccessibles aux autres, mais seule l'Assemblée DAO prend les décisions; les instruments juridiques exécutent sa mission révocable, le Conseil la conseille, et aucun élément ne détient de pouvoir sur une personne.
+Ce principe est fondamental: chaque élément remplit des tâches structurellement inaccessibles aux autres, mais seule l'Assemblée DAO prend les décisions; les instruments juridiques exécutent sa mission révocable, le Conseil la conseillera, et aucun élément ne détient de pouvoir sur une personne.
 
 Il en résulte une architecture où nul n'est placé au-dessus d'une autre personne et où les pouvoirs sont répartis, révocables et réduits au minimum.
 
@@ -62,7 +62,7 @@ L'Emergency Multisig assure la protection de l'infrastructure contre les failles
 
 Le Conseil indépendant formulera des recommandations d'experts et des avis consultatifs ([en savoir plus](https://earth-lings.org/documents/fr/fr11-conseil-independant.html)). La Charte entre en vigueur avec l'adoption de la Déclaration (Charte, article 38); jusque-là, il n'y a ni Assemblée DAO, ni Core Nodes, ni Emergency Multisig, ni Conseil indépendant, et le seul pouvoir discrétionnaire de la période constituante à l'égard des textes est la décision de l'auteur de la Déclaration d'incorporer des propositions au texte (document « La période constituante »).
 
-Si l'on regarde non pas les rôles internes, mais ce par quoi les Earthlings agissent vers l'extérieur, les éléments clés sont trois: la DAO, les instruments juridiques et le Conseil indépendant. Ils portent l'autogouvernement collectif, les relations juridiques extérieures et l'expertise.
+Si l'on regarde non pas les rôles internes, mais ce par quoi les Earthlings agissent vers l'extérieur, les éléments clés sont trois: la DAO, les instruments juridiques et le Conseil indépendant. Ils portent l'autogouvernement collectif, les relations juridiques extérieures et - une fois le Conseil constitué - l'expertise.
 
 Les fonctions de SERVICE et de SÉCURITÉ sont assurées par des organes techniques distincts, décrits en détail dans les documents [DAO des Earthlings](/documents/fr/fr07-dao.html) et [Plateforme numérique](/documents/fr/fr12-plateforme-numerique.html).
 
@@ -109,7 +109,7 @@ Le modèle juridique détaillé est exposé dans le document [Base juridique](/d
 
 ### Le Conseil indépendant
 
-Le Conseil indépendant, tel que décrit dans la « Charte des Earthlings » et dans le document spécifique [Conseil indépendant des Earthlings](/documents/fr/fr11-conseil-independant.html), est conçu comme un organe de sept à onze experts choisis parmi les Earthlings qui ne participent pas à la gestion opérationnelle du peuple. La liste des domaines de compétence est indicative et ne constitue pas un système de quotas:
+Le Conseil indépendant, tel que décrit dans la Charte des Earthlings et dans le document spécifique [Conseil indépendant des Earthlings](/documents/fr/fr11-conseil-independant.html), est conçu comme un organe de sept à onze experts choisis parmi les Earthlings qui ne participent pas à la gestion opérationnelle du peuple. La liste des domaines de compétence est indicative et ne constitue pas un système de quotas:
 
 - écologie, climat, développement durable;
 - économie et questions de la nouvelle économie;

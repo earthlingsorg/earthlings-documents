@@ -44,7 +44,7 @@ El nombre y los apellidos reales **no se conservan**.
 
 ## Datos de la verificación de identidad
 
-**Qué se conserva:** el estado de la comprobación, el tipo y el país de expedición del documento, las puntuaciones numéricas de la comprobación, los motivos de denegación y hashes irreversibles, calculados con la clave secreta del servidor, del número del documento, del nombre, de los apellidos y de la fecha de nacimiento que figuran en el documento.
+**Qué se conserva:** el estado de la comprobación, el tipo y el país de expedición del documento, las puntuaciones numéricas de la comprobación, los motivos de denegación y hashes irreversibles, calculados con la clave secreta del servidor - un hash del número del documento y un único hash conjunto del nombre, los apellidos y la fecha de nacimiento que figuran en el documento; el número del documento, el nombre, los apellidos y la fecha de nacimiento como tales no se conservan.
 
 **Qué no se conserva:** las imágenes del rostro y del documento y las plantillas biométricas. Se tratan en el momento de la comprobación y se suprimen.
 

@@ -65,9 +65,9 @@ Es de lo que se ha hablado arriba. Distinguir una aportación pública auténtic
 
 Esta avería es la más profunda y la menos conocida, aunque está descrita desde hace mucho: la describió el economista Mancur Olson en su obra de 1965 «La lógica de la acción colectiva».
 
-El fondo es el siguiente. Tomemos una decisión que le reporta a veinte empresas cien millones a cada una y que les cuesta a veinte millones de ciudadanos cien euros a cada uno. La ganancia total de las empresas son dos mil millones. La pérdida total de los ciudadanos son dos mil millones. Las fuerzas están igualadas, cabría pensar.
+El fondo es el siguiente. Tomemos una decisión que le reporta a veinte empresas cien millones a cada una y que les cuesta a veinte millones de ciudadanos cien dólares a cada uno. La ganancia total de las empresas son dos mil millones. La pérdida total de los ciudadanos son dos mil millones. Las fuerzas están igualadas, cabría pensar.
 
-No lo están. A veinte empresas les resulta fácil organizarse: son pocas, cada una conoce a las demás, cada una tiene en juego cien millones y el gasto en defender ese interés se recupera cientos de veces. A veinte millones de ciudadanos les resulta imposible organizarse: no se conocen entre sí, cada uno tiene en juego cien euros, y dedicar a defender esos cien euros aunque sea una hora del propio tiempo no le compensa a ninguno por separado, aunque les compense a todos juntos.
+No lo están. A veinte empresas les resulta fácil organizarse: son pocas, cada una conoce a las demás, cada una tiene en juego cien millones y el gasto en defender ese interés se recupera cientos de veces. A veinte millones de ciudadanos les resulta imposible organizarse: no se conocen entre sí, cada uno tiene en juego cien dólares, y dedicar a defender esos cien dólares aunque sea una hora del propio tiempo no le compensa a ninguno por separado, aunque les compense a todos juntos.
 
 Por eso **el interés concentrado vence al disperso casi siempre**, con independencia de quién tenga razón, de la honradez de los políticos y de la forma de gobierno. No es un defecto de la democracia, sino la matemática de la organización, y actúa igual bajo cualquier poder.
 

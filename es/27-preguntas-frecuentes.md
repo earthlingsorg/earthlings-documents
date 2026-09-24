@@ -54,7 +54,7 @@ Nada. La nacionalidad, los impuestos y el fuero no se ven afectados. El pasaport
 
 El nombre y los apellidos reales, los números de los documentos y las imágenes biométricas **no se conservan**. Conservamos: el seudónimo, la dirección de correo, el país, la confirmación de ser mayor de 18 años y la dirección del monedero, así como los datos técnicos y los datos sobre el uso de la plataforma enumerados en la Política de privacidad.
 
-De la verificación de identidad quedan el estado de la comprobación, el tipo y el país de expedición del documento, las puntuaciones numéricas de la comprobación, los motivos de denegación y hashes irreversibles, calculados con la clave secreta del servidor, del número del documento, del nombre, de los apellidos y de la fecha de nacimiento que figuran en el documento; los hashes se conservan exclusivamente para que una misma persona no pueda tener dos pasaportes en vigor.
+De la verificación de identidad quedan el estado de la comprobación, el tipo y el país de expedición del documento, las puntuaciones numéricas de la comprobación, los motivos de denegación y hashes irreversibles, calculados con la clave secreta del servidor - un hash del número del documento y un único hash conjunto del nombre, los apellidos y la fecha de nacimiento que figuran en el documento; el número del documento, el nombre, los apellidos y la fecha de nacimiento como tales no se conservan; los hashes se conservan exclusivamente para que una misma persona no pueda tener dos pasaportes en vigor.
 
 → [Política de verificación biométrica](https://earth-lings.org/documents/es/es16-verificacion-biometrica.html)
 
@@ -86,7 +86,7 @@ La destrucción del pasaporte no suprime por sí sola los datos: los datos de la
 
 ---
 
-# III. Poder y gobierno
+# III. Poder y gobernanza
 
 ### ¿Me pueden expulsar?
 

@@ -22,7 +22,7 @@ A diferencia de los pasaportes estatales, ligados a un territorio y acreditativo
 
 ## Qué da el pasaporte
 
-### Participación en el gobierno
+### Participación en la gobernanza
 
 - acreditación del derecho de voto en la Asamblea DAO;
 - presentación de propuestas e iniciativas;
@@ -87,7 +87,7 @@ El historial de participación y de aportación es visible para los participante
 
 - **en el registro:** la dirección del monedero, el número del asiento del pasaporte, el identificador del participante por el que el asiento queda vinculado a los datos del sistema de verificación de identidad, y la hora de la emisión; en el campo del seudónimo se inscribe en la emisión una sola palabra, «Earthling», y en el campo del hash de la verificación, un valor aleatorio no relacionado con los datos de la verificación. El nombre, el documento, la biometría y los hashes de la verificación no se inscriben en el registro;
 - **fuera del registro:** los datos personales de la cuenta, en el volumen mínimo;
-- **biometría:** no se conserva. De la comprobación quedan el estado de la comprobación, el tipo y el país de expedición del documento, las puntuaciones numéricas de la comprobación, los motivos de denegación y hashes irreversibles, calculados con la clave secreta del servidor, del número del documento, del nombre, de los apellidos y de la fecha de nacimiento que figuran en el documento. Los hashes están calculados a partir de los datos del documento, y no de la biometría, y se conservan solo para que una misma persona no pueda tener dos pasaportes en vigor;
+- **biometría:** no se conserva. De la comprobación quedan el estado de la comprobación, el tipo y el país de expedición del documento, las puntuaciones numéricas de la comprobación, los motivos de denegación y hashes irreversibles, calculados con la clave secreta del servidor - un hash del número del documento y un único hash conjunto del nombre, los apellidos y la fecha de nacimiento que figuran en el documento; el número del documento, el nombre, los apellidos y la fecha de nacimiento como tales no se conservan. Los hashes están calculados a partir de los datos del documento, y no de la biometría, y se conservan solo para que una misma persona no pueda tener dos pasaportes en vigor;
 - se diseña conforme a los principios del RGPD.
 
 ### Criptografía

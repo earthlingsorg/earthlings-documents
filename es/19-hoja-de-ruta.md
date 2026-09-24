@@ -26,7 +26,7 @@ El presente documento describe el período de transición: desde la fundación h
 
 **Transparencia.** Las decisiones y el movimiento de los fondos de la caja se documentan y son accesibles para todos; los cambios del código abierto y del corpus se ven línea por línea, y en el documento «Dónde estamos ahora» se expone qué está cerrado y por qué. No hay actas reservadas ni acuerdos secretos.
 
-**Gradualidad.** El traspaso del gobierno se produce de manera paulatina, a medida que la infraestructura está lista y crece el número de participantes.
+**Gradualidad.** El traspaso de la gobernanza se produce de manera paulatina, a medida que la infraestructura está lista y crece el número de participantes.
 
 **Reversibilidad.** En cada etapa se conserva la posibilidad de corregir el rumbo. Los errores se reconocen y se corrigen, no se ocultan.
 
@@ -63,7 +63,7 @@ El presente documento describe el período de transición: desde la fundación h
 ## Fase 3. Puesta en marcha de la DAO: pendiente
 
 - votaciones de fondo regulares conforme al principio «una persona, un voto»;
-- auditoría independiente de los contratos inteligentes de gobierno;
+- auditoría independiente de los contratos inteligentes de gobernanza;
 - práctica de la Asamblea en todas las cuestiones que la Carta le reserva;
 - traspaso del control de la caja a la comunidad.
 
@@ -77,7 +77,7 @@ El presente documento describe el período de transición: desde la fundación h
 
 ---
 
-# SECCIÓN 03. El gobierno durante el período de transición
+# SECCIÓN 03. La gobernanza durante el período de transición
 
 ## Funciones temporales
 
@@ -159,7 +159,7 @@ El tránsito se produce al cumplirse criterios objetivos, y no por decisión de 
 ## A la Fase 3 (puesta en marcha de la DAO)
 
 - se ha alcanzado un número de participantes apreciable y distribuido por países;
-- los contratos inteligentes de gobierno han pasado una auditoría independiente;
+- los contratos inteligentes de gobernanza han pasado una auditoría independiente;
 - se ha realizado con éxito una prueba de los mecanismos de votación en la práctica real;
 - están elegidos los Core Nodes y el Emergency Multisig y está constituido el Consejo Independiente.
 
@@ -229,7 +229,7 @@ Por eso ni una captura puede hacerse pasar por el pueblo, ni una escisión por l
 
 ## Apatía de la comunidad
 
-**Problema.** Los participantes pueden no participar en el gobierno.
+**Problema.** Los participantes pueden no participar en la gobernanza.
 
 **Protección.** Umbral bajo de entrada en las decisiones, desde la adopción de la Declaración: derecho de iniciativa de cada cual sin recogida de firmas, delegación revocable por ámbitos para quien no quiere entrar en todo, mecanismo de condición inactiva que no eleva el quórum para los demás; en la plataforma esto todavía no está implementado por completo.
 

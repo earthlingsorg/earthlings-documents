@@ -54,7 +54,7 @@ Nichts. Staatsangehörigkeit, Steuern und Gerichtsstand werden nicht berührt. D
 
 Wirklicher Vor- und Nachname, Nummern von Papieren und biometrische Bilder werden **nicht gespeichert**. Wir speichern: das Pseudonym, die E-Mail-Adresse, das Land, den Nachweis des Alters ab 18 und die Adresse der Geldbörse sowie die technischen Daten und die Daten über die Nutzung der Plattform, die in der Datenschutzerklärung aufgezählt sind.
 
-Von der Identitätsprüfung bleiben der Stand der Prüfung, die Art und das Ausstellungsland des Dokuments, die Zahlenwerte der Prüfung, die Gründe der Ablehnung und nicht umkehrbare Hashes der Nummer des Dokuments sowie des Vornamens, des Nachnamens und des Geburtsdatums aus dem Dokument, berechnet mit dem geheimen Schlüssel des Servers; die Hashes werden ausschließlich dafür gespeichert, dass ein Mensch nicht zwei gültige Pässe haben kann.
+Von der Identitätsprüfung bleiben der Stand der Prüfung, die Art und das Ausstellungsland des Dokuments, die Zahlenwerte der Prüfung, die Gründe der Ablehnung und nicht umkehrbare Hashes, berechnet mit dem geheimen Schlüssel des Servers - ein Hash der Nummer des Dokuments und ein einziger gemeinsamer Hash des Vornamens, des Nachnamens und des Geburtsdatums aus dem Dokument; die Nummer des Dokuments, der Vorname, der Nachname und das Geburtsdatum selbst werden nicht gespeichert; die Hashes werden ausschließlich dafür gespeichert, dass ein Mensch nicht zwei gültige Pässe haben kann.
 
 → [Die Politik der biometrischen Prüfung](https://earth-lings.org/documents/de/de16-biometrische-pruefung.html)
 

@@ -44,7 +44,7 @@ Les nom et prénom réels **ne sont pas conservés**.
 
 ## Les données de vérification d'identité
 
-**Ce qui est conservé:** l'état de la vérification, le type et le pays de délivrance du document, les scores numériques de la vérification, les motifs de refus et des hachages irréversibles, calculés avec la clé secrète du serveur, du numéro du document, du prénom, du nom et de la date de naissance figurant dans le document.
+**Ce qui est conservé:** l'état de la vérification, le type et le pays de délivrance du document, les scores numériques de la vérification, les motifs de refus et des hachages irréversibles, calculés avec la clé secrète du serveur - un hachage du numéro du document et un seul hachage commun du prénom, du nom et de la date de naissance figurant dans le document; le numéro du document, le prénom, le nom et la date de naissance eux-mêmes ne sont pas conservés.
 
 **Ce qui n'est pas conservé:** les images du visage et du document, les gabarits biométriques. Ils sont traités au moment de la vérification et supprimés.
 

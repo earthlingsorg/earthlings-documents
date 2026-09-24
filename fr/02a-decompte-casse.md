@@ -2,7 +2,7 @@
 
 **Cinq pannes de la voix citoyenne, l'affaire des dix-huit millions de commentaires falsifiés et l'arithmétique par laquelle une majorité dispersée perd contre une minorité organisée**
 
-> **Statut de la présente annexe.** C'est une annexe du document [« Voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html). Elle n'établit rien et ne crée aucune obligation: elle apporte les cas, les chiffres et les sources des affirmations de ce document. En cas de divergence, c'est « Voix citoyenne » qui s'applique; la force obligatoire appartient à la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html) et à la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html).
+> **Statut de la présente annexe.** C'est une annexe du document [« La voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html). Elle n'établit rien et ne crée aucune obligation: elle apporte les cas, les chiffres et les sources des affirmations de ce document. En cas de divergence, c'est « La voix citoyenne » qui s'applique; la force obligatoire appartient à la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html) et à la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html).
 
 On dit couramment que les gens n'ont aucun moyen d'être entendus. C'est inexact, et cette inexactitude empêche de voir le véritable problème. Les moyens de faire remonter une opinion sont aujourd'hui plus nombreux qu'à aucun moment de l'histoire. Une pétition se monte en une soirée. Une lettre à un élu part en une minute. Les auditions publiques sont ouvertes. Dans la plupart des pays existe une procédure de commentaire public des projets d'actes. Les réseaux sociaux portent n'importe quoi à n'importe qui. Les instituts de sondage mesurent les états d'esprit chaque semaine. Le rassemblement demeure licite presque partout.
 
@@ -65,9 +65,9 @@ C'est ce dont il a été question plus haut. Distinguer une contribution publiqu
 
 Cette panne est la plus profonde et la moins connue, bien qu'elle soit décrite depuis longtemps - par l'économiste Mancur Olson, dans son ouvrage de 1965 « Logique de l'action collective ».
 
-Le fond en est le suivant. Prenons une décision qui rapporte cent millions à chacune de vingt entreprises et qui coûte cent euros à chacun de vingt millions de citoyens. Le gain total des entreprises est de deux milliards. La perte totale des citoyens est de deux milliards. Les forces seraient donc égales.
+Le fond en est le suivant. Prenons une décision qui rapporte cent millions à chacune de vingt entreprises et qui coûte cent dollars à chacun de vingt millions de citoyens. Le gain total des entreprises est de deux milliards. La perte totale des citoyens est de deux milliards. Les forces seraient donc égales.
 
-Elles ne le sont pas. Pour vingt entreprises, s'organiser est facile: elles sont peu nombreuses, chacune connaît les autres, chacune a cent millions en jeu, et les dépenses de défense de l'intérêt sont remboursées au centuple. Pour vingt millions de citoyens, s'organiser est impossible: ils ne se connaissent pas, chacun a cent euros en jeu, et consacrer ne serait-ce qu'une heure de son temps à défendre ces cent euros n'est avantageux pour aucun d'eux pris séparément, quoique ce le soit pour tous ensemble.
+Elles ne le sont pas. Pour vingt entreprises, s'organiser est facile: elles sont peu nombreuses, chacune connaît les autres, chacune a cent millions en jeu, et les dépenses de défense de l'intérêt sont remboursées au centuple. Pour vingt millions de citoyens, s'organiser est impossible: ils ne se connaissent pas, chacun a cent dollars en jeu, et consacrer ne serait-ce qu'une heure de son temps à défendre ces cent dollars n'est avantageux pour aucun d'eux pris séparément, quoique ce le soit pour tous ensemble.
 
 C'est pourquoi **l'intérêt concentré l'emporte presque toujours sur l'intérêt dispersé** - indépendamment de qui a raison, de l'honnêteté des responsables politiques et de la forme du régime. Ce n'est pas un vice de la démocratie, c'est la mathématique de l'organisation, et elle agit de la même façon sous n'importe quel pouvoir.
 
@@ -85,7 +85,7 @@ La Déclaration universelle des droits de l'homme de 1948 dit, en son article 21
 
 Le droit est reconnu. La procédure par laquelle il s'exercerait directement n'existe pas. Un droit reconnu que personne n'est en mesure de faire valoir reste une norme sans application.
 
-Nous ne pensons pas que quelqu'un soit coupable. Nous pensons qu'a disparu la raison pour laquelle c'était impossible. Rapprochez les deux choses dites plus haut: le coût de la collecte a baissé jusqu'à devenir nul, et la collecte s'est en même temps dévaluée, parce que le décompte est cassé. Réparer le décompte, c'est rendre son sens à une collecte devenue gratuite, et c'est la seule des cinq pannes qui puisse se réparer par un outil et non par la politique. Ce qui en résulte, et pourquoi il a fallu pour cela constituer un peuple plutôt que bâtir un service, figure dans le document [Voix citoyenne](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html).
+Nous ne pensons pas que quelqu'un soit coupable. Nous pensons qu'a disparu la raison pour laquelle c'était impossible. Rapprochez les deux choses dites plus haut: le coût de la collecte a baissé jusqu'à devenir nul, et la collecte s'est en même temps dévaluée, parce que le décompte est cassé. Réparer le décompte, c'est rendre son sens à une collecte devenue gratuite, et c'est la seule des cinq pannes qui puisse se réparer par un outil et non par la politique. Ce qui en résulte, et pourquoi il a fallu pour cela constituer un peuple plutôt que bâtir un service, figure dans le document [La voix citoyenne](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html).
 
 ## Sources
 
@@ -97,4 +97,4 @@ Nous ne pensons pas que quelqu'un soit coupable. Nous pensons qu'a disparu la ra
 
 ---
 
-[Revenir au document « Voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html)
+[Revenir au document « La voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html)

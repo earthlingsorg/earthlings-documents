@@ -90,10 +90,10 @@ Here precision matters more than making a favourable impression.
 
 The order of founding has been established and published in advance:
 
-- **22 October 2026** - submissions open for proposals on the whole corpus: the Declaration, the Charter, and the other twenty-three documents, including this one. Any person may submit a proposal; entry, identity verification, and agreement with our conclusions are not required for it, and anonymous proposals are considered on the same footing as the rest.
+- **22 October 2026** - submissions open for proposals on the whole corpus: the Declaration, the Charter, the other twenty-three documents, including this one, and the three annexes to the document Civic Voice. Any person may submit a proposal; entry, identity verification, and agreement with our conclusions are not required for it, and anonymous proposals are considered on the same footing as the rest.
 - **20 January 2027** - submissions close.
 - **3 February 2027** - the full record of proposals and replies is published, including rejected proposals, each with the reason for its rejection; the final editions in Russian and English are published.
-- **17 February 2027** - the Declaration is adopted by a vote of confirmed participants on the principle of one person, one vote: no fewer than two thirds of the votes cast, with no fewer than one hundred confirmed participants and no fewer than thirty per cent of the total number of confirmed participants taking part.
+- **17 February 2027** - the Declaration is adopted by a vote of confirmed participants on the principle of "one person, one vote": no fewer than two thirds of the votes cast, with no fewer than one hundred confirmed participants and no fewer than thirty per cent of the total number of confirmed participants taking part.
 
 Until the day of adoption, a person who has confirmed their identity is a **participant in the founding, not an earthling**. Confirmation is free, does not constitute entry, and confers a temporary status carrying the right to vote on the day of adoption.
 

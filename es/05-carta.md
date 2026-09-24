@@ -30,7 +30,7 @@ Cada voto es igual, cada decisión es transparente, cada acto es verificable.
 
 ## Niveles
 
-**Nivel de gobierno.** Único órgano de decisión. Adopta todas las decisiones estratégicas, financieras y organizativas.
+**Nivel de gobernanza.** Único órgano de decisión. Adopta todas las decisiones estratégicas, financieras y organizativas.
 Asamblea DAO: todos los Earthlings, 1 persona = 1 voto, pasaporte SBT.
 
 **Nivel de ejecución (funciones de servicio).** Estructuras técnicas y operativas de apoyo a la DAO: Core Nodes y Emergency Multisig. No adoptan decisiones estratégicas; aseguran el funcionamiento de la infraestructura (artículos 2 y 3).
@@ -569,7 +569,7 @@ El pueblo Earthlings no está obligado a destinar los recursos comunes a quien l
 - infracción de las normas éticas del pueblo Earthlings
 - actos que causan daño reputacional al pueblo Earthlings
 
-> **Por qué los fundamentos valorativos solo se admiten aquí.** La decisión de que el pueblo ya no dé su dinero ni ponga su nombre es una disposición de lo común, y la valoración cabe en ella: el pueblo dispone de los recursos comunes a su discreción. Quitar un derecho a una persona con esa misma valoración no es posible con ninguna mayoría: el pueblo no otorga los derechos de la persona y, por ello, tampoco puede retirarlos.
+> **Por qué los fundamentos valorativos solo se admiten aquí.** La decisión de que el pueblo ya no dé su dinero ni ponga su nombre es una disposición de lo común, y la valoración cabe en ella: el pueblo dispone de los recursos comunes a su discreción. Quitar un derecho a una persona con esa misma valoración no se admite con ninguna mayoría: el pueblo no otorga los derechos de la persona y, por ello, tampoco puede retirarlos.
 
 ### Procedimiento de aplicación
 
@@ -864,7 +864,7 @@ La etapa de formación de las estructuras continúa hasta el momento en que se c
 
 Hasta que llegue ese momento, las funciones de las estructuras no elegidas se ejercen de manera procedimental y bajo la responsabilidad de los fundadores, y las fases de los procedimientos que prevén la intervención del Consejo Independiente se omiten duplicando los plazos de debate público de las cuestiones correspondientes.
 
-> **Sobre el uso de la palabra «fundadores».** En la presente Carta designa únicamente a quienes, antes de la elección de las estructuras, ejercen sus funciones de manera procedimental, y nada más. No crea derecho alguno en el gobierno, ni peso en la votación, ni condición especial de participante: en el pueblo Earthlings no existe una clase de fundadores (Declaración, artículo 8), y ello se desprende de su núcleo intangible. Las funciones señaladas cesan al concluir la etapa de formación de las estructuras y no se transmiten por sucesión.
+> **Sobre el uso de la palabra «fundadores».** En la presente Carta designa únicamente a quienes, antes de la elección de las estructuras, ejercen sus funciones de manera procedimental, y nada más. No crea derecho alguno en la gobernanza, ni peso en la votación, ni condición especial de participante: en el pueblo Earthlings no existe una clase de fundadores (Declaración, artículo 8), y ello se desprende de su núcleo intangible. Las funciones señaladas cesan al concluir la etapa de formación de las estructuras y no se transmiten por sucesión.
 
 Los fundadores publican un informe sobre el estado de la etapa de formación de las estructuras al menos una vez cada 90 días. El informe contiene la lista de condiciones no cumplidas y sus causas.
 

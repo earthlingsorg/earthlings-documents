@@ -1,6 +1,6 @@
 # Quiénes somos
 
-**Autoría, gobierno, financiación y verificación pública**
+**Autoría, gobernanza, financiación y verificación pública**
 
 ## Panorama
 
@@ -19,15 +19,15 @@ Veinticinco documentos fundacionales en nueve lenguas, la identidad on-chain y u
 
 El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, el medio de votación secreta se está eligiendo y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). La constitución del pueblo está en curso: las adhesiones se abrirán si la Declaración se adopta, y desde el primer día toda la práctica de autogobierno - votaciones, decisiones, movimientos de fondos - quedará fijada en una crónica pública.
 
-El nivel económico está deliberadamente separado del gobierno y de la identificación. Cada Earthling posee tres atributos distinguibles por arquitectura:
+El nivel económico está deliberadamente separado de la gobernanza y de la identificación. Cada Earthling posee tres atributos distinguibles por arquitectura:
 
 - un pasaporte SBT intransmisible, una vez emitido (identidad);
-- un voto en la DAO con independencia de cualesquiera otros activos (gobierno): el voto nace al firmar la Declaración, y el pasaporte lo acredita;
+- un voto en la DAO con independencia de cualesquiera otros activos (gobernanza): el voto nace al firmar la Declaración, y el pasaporte lo acredita;
 - una huella económica medible, expresada en Earthlings Coin (EC).
 
 El EC es la unidad de cuenta interna del ecosistema. Por su diseño, paga los servicios de la plataforma, refleja la aportación en las células y sirve para financiar iniciativas colectivas; hoy la unidad no está emitida: la economía de la participación se lleva en la contabilidad interna de la plataforma (documento «Earthlings Coin», sección 8).
 
-La cantidad de EC no se traduce en ningún caso en influencia sobre el gobierno. La riqueza y el voto existen como ejes arquitectónicos separados, y no se funden en una única variable ponderada por tokens, como en la mayoría de los modelos de DAO.
+La cantidad de EC no se traduce en ningún caso en influencia sobre la gobernanza. La riqueza y el voto existen como ejes arquitectónicos separados, y no se funden en una única variable ponderada por tokens, como en la mayoría de los modelos de DAO.
 
 El EC no es un valor negociable ni un instrumento de inversión. No es moneda de curso legal ni dinero electrónico; dentro del ecosistema sirve de unidad de cuenta por servicios y aportaciones.
 
@@ -39,11 +39,11 @@ El corpus constitutivo lo ha escrito Artur Arakelyan, autor de la Declaración. 
 
 Cualquiera puede proponer una enmienda a cualquier documento, y la Declaración adquiere fuerza no por su autoría, sino por la votación: este pueblo no será obra de quien redactó los documentos, sino de quienes adopten y firmen la Declaración. El procedimiento está descrito en el documento [El período constituyente](/documents/es/es20-periodo-constituyente.html).
 
-## Arquitectura de gobierno
+## Arquitectura de gobernanza
 
 La arquitectura institucional de Earthlings consta de tres elementos estructurales distintos, ninguno de los cuales tiene poder sobre la persona.
 
-Ese principio es fundamental: cada elemento resuelve tareas que los demás no pueden asumir por su propia estructura, pero las decisiones las adopta solo la Asamblea DAO; los instrumentos jurídicos ejecutan su encargo revocable, el Consejo la asesora, y ningún elemento tiene poder sobre la persona.
+Ese principio es fundamental: cada elemento resuelve tareas que los demás no pueden asumir por su propia estructura, pero las decisiones las adopta solo la Asamblea DAO; los instrumentos jurídicos ejecutan su encargo revocable, el Consejo la asesorará, y ningún elemento tiene poder sobre la persona.
 
 El resultado es una arquitectura en la que nadie ocupa una posición por encima de otra persona y las facultades están repartidas, son revocables y están reducidas al mínimo.
 
@@ -60,9 +60,9 @@ Los Core Nodes aseguran la coordinación técnica y se renuevan por rotación.
 
 El Emergency Multisig asegura la protección de la infraestructura frente a exploits y amenazas críticas, también con rotación.
 
-El Consejo Independiente formula recomendaciones de expertos y dictámenes consultivos ([más detalles](https://earth-lings.org/documents/es/es11-consejo-independiente.html)). La Carta entra en vigor con la adopción de la Declaración (Carta, artículo 38); hasta entonces no existen ni la Asamblea DAO, ni los Core Nodes, ni el Emergency Multisig, ni el Consejo Independiente, y la única facultad discrecional del período constituyente respecto de los textos es la decisión del autor de la Declaración de incorporar propuestas al texto (documento «El período constituyente»).
+El Consejo Independiente formulará recomendaciones de expertos y dictámenes consultivos ([más detalles](https://earth-lings.org/documents/es/es11-consejo-independiente.html)). La Carta entra en vigor con la adopción de la Declaración (Carta, artículo 38); hasta entonces no existen ni la Asamblea DAO, ni los Core Nodes, ni el Emergency Multisig, ni el Consejo Independiente, y la única facultad discrecional del período constituyente respecto de los textos es la decisión del autor de la Declaración de incorporar propuestas al texto (documento «El período constituyente»).
 
-Si se mira no a los papeles internos, sino a aquello con lo que Earthlings actúa hacia fuera, los elementos clave son tres: la DAO, los instrumentos jurídicos y el Consejo Independiente. Aseguran el autogobierno colectivo, la relación jurídica externa y la consulta experta.
+Si se mira no a los papeles internos, sino a aquello con lo que Earthlings actúa hacia fuera, los elementos clave son tres: la DAO, los instrumentos jurídicos y el Consejo Independiente. Aseguran el autogobierno colectivo, la relación jurídica externa y - cuando el Consejo se haya constituido - la consulta experta.
 
 Las funciones de SERVICIO y de SEGURIDAD las realizan órganos técnicos aparte, descritos con detalle en los documentos [DAO Earthlings](/documents/es/es07-dao.html) y [Plataforma digital](/documents/es/es12-plataforma-digital.html).
 
@@ -109,7 +109,7 @@ El modelo jurídico detallado está expuesto en el documento [Base jurídica](/d
 
 ### El Consejo Independiente
 
-El Consejo Independiente, según lo descrito en la «Carta de los Earthlings» y en el documento específico [Consejo Independiente de los Earthlings](/documents/es/es11-consejo-independiente.html), está concebido como un órgano de siete a once earthlings expertos que no participen en la gestión operativa del pueblo. La lista de ámbitos de competencia es orientativa y no constituye un sistema de cuotas:
+El Consejo Independiente, según lo descrito en la Carta de los Earthlings y en el documento específico [Consejo Independiente de los Earthlings](/documents/es/es11-consejo-independiente.html), está concebido como un órgano de siete a once earthlings expertos que no participen en la gestión operativa del pueblo. La lista de ámbitos de competencia es orientativa y no constituye un sistema de cuotas:
 
 - medio ambiente, clima, desarrollo sostenible;
 - economía y cuestiones de la nueva economía;

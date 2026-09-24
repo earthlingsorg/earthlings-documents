@@ -126,7 +126,7 @@ Einem Teilnehmer eine Aufgabe mit einer bestimmten Frist übertragen. Die Regeln
 Gesondert zu jedem Fall:
 
 - **Eine persönliche Pflicht** - ein Auftrag, eine Frist, die Verantwortung für einen Arbeitsbereich - entsteht nur mit der ausdrücklichen Zustimmung des Menschen selbst. Niemand kann ohne sein Wort zum Verpflichteten bestimmt werden.
-- **Die Regeln der Zelle** werden nur mit der Zustimmung aller ihrer Teilnehmer geändert. Ein Mensch hat zugestimmt, nach bestimmten Regeln zu arbeiten; sie hinter seinem Rücken zu ändern ist nicht möglich.
+- **Die Regeln der Zelle** werden nur mit der Zustimmung aller ihrer Teilnehmer geändert. Ein Mensch hat zugestimmt, nach bestimmten Regeln zu arbeiten; sie hinter seinem Rücken zu ändern ist unzulässig.
 - **Die Aufnahme eines neuen Teilnehmers** - mit der Zustimmung aller, die bereits in der Zelle sind, und selbstverständlich des Eintretenden selbst.
 - **Die Trennung von einem Teilnehmer** - mit der Zustimmung aller übrigen Teilnehmer der Zelle, nachdem versucht wurde, die Meinungsverschiedenheit im Verfahren des Abschnitts 10 beizulegen. Die Zustimmung des Ausscheidenden selbst ist hier nicht erforderlich: Sonst wäre ein Team aus zwei bis sechs Menschen einem Einzigen ausgeliefert, und gegen den Willen der Übrigen zusammenzuarbeiten lässt sich niemand zwingen. In einer Zelle aus zwei Menschen findet die Trennung keine Anwendung: „alle übrigen Teilnehmer“ ist ein einziger Mensch, und er allein entschiede über die Trennung des zweiten; es bleibt der freie Austritt nach Abschnitt 06.
 

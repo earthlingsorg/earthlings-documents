@@ -78,7 +78,7 @@ Jeder Earthling kann übertragene Stimmen anderer Teilnehmer für ein einzelnes 
 
 Die in Artikel 7 der [Charta](https://earth-lings.org/documents/de/de05-charta.html) festgelegten und technisch überprüften Beschränkungen:
 
-- **nur nach Sachgebieten** - eine thematische Gruppe oder eine einzelne Zelle; die Stimme für alle Fragen zugleich zu übertragen ist nicht möglich;
+- **nur nach Sachgebieten** - eine thematische Gruppe oder eine einzelne Zelle; die Stimme für alle Fragen zugleich zu übertragen ist unzulässig;
 - **Verbot der Selbstübertragung** - wird bei jedem Vorgang geprüft;
 - **Verbot von Ketten** - eine erhaltene übertragene Stimme kann nicht weitergegeben werden;
 - **Obergrenze** - 5 Prozent der Earthlings, mindestens jedoch 10 Übertragende, deshalb bindet die Beschränkung von 5 Prozent erst bei einer Zahl von mehr als 200;

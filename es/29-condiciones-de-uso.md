@@ -37,7 +37,7 @@ Si algo no está claro o resulta inaceptable, escríbanos. Tras la adopción de 
 
 Earthlings es un pueblo transnacional que se constituye mediante la adopción de la Declaración Earthlings. Nos unen valores comunes, y no un territorio o un origen.
 
-La existencia del pueblo, con su infraestructura, su gobierno y su identidad, no depende de cómo lo califique con el tiempo el derecho internacional: no existe para nadie un órgano que reconozca pueblos. La discernibilidad jurídica - que se trate al pueblo como pueblo allí donde surge una cuestión concreta - se acumula con la práctica, el tiempo y el número de participantes. Cómo funciona esto y qué se dice en contra nuestra: [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), [Objeciones jurídicas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html).
+La existencia del pueblo, con su infraestructura, su gobernanza y su identidad, no depende de cómo lo califique con el tiempo el derecho internacional: no existe para nadie un órgano que reconozca pueblos. La discernibilidad jurídica - que se trate al pueblo como pueblo allí donde surge una cuestión concreta - se acumula con la práctica, el tiempo y el número de participantes. Cómo funciona esto y qué se dice en contra nuestra: [Base jurídica](https://earth-lings.org/documents/es/es04-base-juridica.html), [Objeciones jurídicas](https://earth-lings.org/documents/es/es26-objeciones-y-respuestas.html).
 
 > **La pertenencia al pueblo es adicional, no sustitutiva.** No deroga su nacionalidad y no exige renunciar a ella.
 

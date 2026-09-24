@@ -131,7 +131,7 @@ Auf die Ausgabe des Passes werden Sie warten müssen, und wie lange, ist im Vora
 
 **Wie das für den aussieht, der zahlt.** Jeder Mensch - Earthling oder nicht - sieht, wie viele Menschen in der Warteschlange stehen, und kann für einen, für fünf oder für so viele zahlen, wie er will. Die Zahlung geht auf demselben Weg und an dieselbe Adresse wie für sich selbst.
 
-Einen bestimmten Menschen auszuwählen ist nicht möglich: Bezahlt wird der Kopf der Warteschlange. Das ist mit Absicht so gemacht. Sobald sich auswählen lässt, wer genau, tritt ein Gönner auf und hinter ihm eine Abhängigkeit; in einem Volk, in dem alle gleich sind, hat das keinen Platz. Wer zahlt, weiß nicht, für wen er gezahlt hat. Wer bezahlt wurde, weiß nicht, wer gezahlt hat.
+Einen bestimmten Menschen auszuwählen ist unzulässig: Bezahlt wird der Kopf der Warteschlange. Das ist mit Absicht so gemacht. Sobald sich auswählen lässt, wer genau, tritt ein Gönner auf und hinter ihm eine Abhängigkeit; in einem Volk, in dem alle gleich sind, hat das keinen Platz. Wer zahlt, weiß nicht, für wen er gezahlt hat. Wer bezahlt wurde, weiß nicht, wer gezahlt hat.
 
 Öffentlich sichtbar ist, wie viele Menschen in der Warteschlange stehen und für wie viele bereits gezahlt wurde. Der Name des Zahlenden wird nach seinem Wunsch veröffentlicht: Es geht auch anonym.
 

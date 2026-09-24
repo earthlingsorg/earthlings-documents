@@ -78,7 +78,7 @@ Tout earthling peut recevoir des voix déléguées par d'autres participants sur
 
 Les limites prévues à l'article 7 de la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html) et vérifiées techniquement:
 
-- **par domaine uniquement** - catégorie thématique ou cellule déterminée; il n'est pas possible de déléguer sa voix pour toutes les questions à la fois;
+- **par domaine uniquement** - catégorie thématique ou cellule déterminée; il n'est pas admis de déléguer sa voix pour toutes les questions à la fois;
 - **interdiction de l'auto-délégation** - vérifiée à chaque opération;
 - **interdiction des chaînes** - une voix déléguée reçue ne peut pas être transmise plus loin;
 - **plafond** - 5 pour cent des Earthlings, mais au moins 10 délégants, de sorte que la limite de 5 pour cent ne commence à lier qu'au-delà de 200;

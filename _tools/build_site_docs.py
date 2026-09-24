@@ -729,11 +729,10 @@ OVERRIDES_EN = {
     '16': {'description': _OFFICIAL % 'The Earthlings Biometric Verification Policy'},
     '19': {'description': _OFFICIAL % 'Roadmap of the Transitional Period'},
     '20': {'description':
-           'The Earthlings founding period: proposals are accepted on the whole corpus of '
-           'twenty-five documents - the Declaration, the Charter and the rest - from '
-           '22 October 2026 to 20 January 2027, the record on 3 February, the vote on the '
-           'Declaration on 17 February 2027. What is open to discussion, what is not up for '
-           'discussion, and how to take part.'},
+           'The Earthlings founding period: proposals are accepted on the whole corpus - '
+           'the Declaration, the Charter and the other documents - and then the Declaration '
+           'is put to a vote. What is open to discussion, what is not up for discussion, '
+           'and how to take part.'},
     '22': {'description': _OFFICIAL % 'Legal Information'},
     '23': {'description': _OFFICIAL % 'About Us'},
     '26': {'description':
@@ -822,11 +821,10 @@ OVERRIDES_DE = {
     '16': {'description': _OFFICIAL_DE % 'Die Richtlinie der biometrischen Prüfung der Earthlings'},
     '19': {'description': _OFFICIAL_DE % 'Der Fahrplan der Übergangszeit'},
     '20': {'description':
-           'Die Gründungsphase der Earthlings: Vorschläge werden zum gesamten Bestand von '
-           'fünfundzwanzig Dokumenten angenommen - zur Erklärung, zur Charta und zu den '
-           'übrigen - vom 22. Oktober 2026 bis zum 20. Januar 2027, die Niederschrift am '
-           '3. Februar, die Abstimmung über die Erklärung am 17. Februar 2027. Was zur '
-           'Erörterung steht, was nicht zur Erörterung steht und wie man teilnimmt.'},
+           'Die Gründungsphase der Earthlings: Vorschläge werden zum gesamten Bestand '
+           'angenommen - zur Erklärung, zur Charta und zu den übrigen Dokumenten -, danach '
+           'wird über die Erklärung abgestimmt. Was zur Erörterung steht, was nicht zur '
+           'Erörterung steht und wie man teilnimmt.'},
     '22': {'description': _OFFICIAL_DE % 'Rechtliche Hinweise'},
     '23': {'description': _OFFICIAL_DE % 'Über uns'},
     '26': {'description':
@@ -879,19 +877,19 @@ OVERRIDES_FR = {
             "commentaires falsifiés et l'arithmétique par laquelle une majorité dispersée "
             'perd contre une minorité organisée.',
             'og_description':
-            'Une annexe de Voix citoyenne: pourquoi le décompte est cassé.'},
+            'Une annexe de « La voix citoyenne »: pourquoi le décompte est cassé.'},
     '02b': {'description':
             "Six cas dans lesquels des gens n'avaient aucun pouvoir et dont on a tenu "
             "compte malgré tout, et les deux expériences qui se sont le plus approchées "
             "de joindre la profondeur à l'échelle.",
             'og_description':
-            'Une annexe de Voix citoyenne: influence sans pouvoirs.'},
+            'Une annexe de « La voix citoyenne »: influence sans pouvoirs.'},
     '02c': {'description':
             'Cinq raisons pour lesquelles une mesure vérifiable de la volonté commune ne '
             "peut se passer d'un peuple, le cas du plus grand projet bâti sans lui et neuf "
             'manières dont tout cela peut ne pas aboutir.',
             'og_description':
-            "Une annexe de Voix citoyenne: pourquoi un peuple est nécessaire."},
+            "Une annexe de « La voix citoyenne »: pourquoi un peuple est nécessaire."},
     '03': {'description': _OFFICIAL_FR % "L'éthique des Earthlings"},
     '04': {'description':
            'La base juridique du peuple des Earthlings: la liberté d\'association, le droit '
@@ -914,10 +912,9 @@ OVERRIDES_FR = {
     '19': {'description': _OFFICIAL_FR % 'La feuille de route de la période de transition'},
     '20': {'description':
            'La période constituante des Earthlings: les propositions sont reçues sur '
-           'l\'ensemble des vingt-cinq documents - la Déclaration, la Charte et les autres - '
-           'du 22 octobre 2026 au 20 janvier 2027, le relevé le 3 février, le vote sur la '
-           'Déclaration le 17 février 2027. Ce qui est en discussion, ce qui ne l\'est pas et '
-           'comment participer.'},
+           'l\'ensemble du corpus - la Déclaration, la Charte et les autres documents -, puis '
+           'la Déclaration est soumise au vote. Ce qui est en discussion, ce qui ne l\'est '
+           'pas et comment participer.'},
     '22': {'description': _OFFICIAL_FR % 'Mentions légales'},
     '23': {'description': _OFFICIAL_FR % 'Qui sommes-nous'},
     '26': {'description':
@@ -993,7 +990,7 @@ OVERRIDES_ES = {
            'Libertad de asociación, libre determinación, rasgos de un pueblo y lo que el '
            'derecho internacional no ha resuelto todavía.'},
     '05': {'description': _OFFICIAL_ES % 'La Carta de los Earthlings'},
-    '07': {'description': _OFFICIAL_ES % 'La DAO de los Earthlings: principios, arquitectura y gobierno'},
+    '07': {'description': _OFFICIAL_ES % 'La DAO de los Earthlings: principios, arquitectura y gobernanza'},
     '08': {'description': _OFFICIAL_ES % 'Las células de los Earthlings - el sistema de proyectos y de cooperación'},
     '09': {'description': _OFFICIAL_ES % 'La Tesorería de los Earthlings'},
     '10': {'description': _OFFICIAL_ES % 'Earthlings Coin: la documentación completa'},
@@ -1004,11 +1001,9 @@ OVERRIDES_ES = {
     '16': {'description': _OFFICIAL_ES % 'La política de verificación biométrica de los Earthlings'},
     '19': {'description': _OFFICIAL_ES % 'La hoja de ruta del período de transición'},
     '20': {'description':
-           'El período constituyente de los Earthlings: las propuestas se reciben sobre los '
-           'veinticinco documentos - la Declaración, la Carta y los demás - del 22 de '
-           'octubre de 2026 al 20 de enero de 2027, el compendio el 3 de febrero, la '
-           'votación de la Declaración el 17 de febrero de 2027. Qué se discute, qué no y cómo '
-           'participar.'},
+           'El período constituyente de los Earthlings: las propuestas se reciben sobre todo '
+           'el corpus - la Declaración, la Carta y los demás documentos - y después la '
+           'Declaración se somete a votación. Qué se discute, qué no y cómo participar.'},
     '22': {'description': _OFFICIAL_ES % 'Aviso legal'},
     '23': {'description': _OFFICIAL_ES % 'Quiénes somos'},
     '26': {'description':
@@ -1020,11 +1015,11 @@ OVERRIDES_ES = {
            'Las objeciones a la construcción del pueblo Earthlings y sus respuestas, '
            'incluidas las que no damos por refutadas.'},
     '27': {'description':
-           'El pueblo Earthlings responde a las preguntas frecuentes sobre el gobierno, la '
+           'El pueblo Earthlings responde a las preguntas frecuentes sobre la gobernanza, la '
            'economía, la identidad y la ética: cómo funciona, quién lo controla, cómo se '
            'protegen los datos.',
            'og_description':
-           'El pueblo Earthlings responde a las preguntas frecuentes sobre el gobierno, la '
+           'El pueblo Earthlings responde a las preguntas frecuentes sobre la gobernanza, la '
            'economía, la identidad y la ética.'},
     '28': {'description': _OFFICIAL_ES % 'La política de privacidad del pueblo Earthlings'},
     '29': {'description': _OFFICIAL_ES % 'Las condiciones de uso del pueblo Earthlings'},
@@ -1098,10 +1093,9 @@ OVERRIDES_KA = {
     '16': {'description': _OFFICIAL_KA % 'Earthlings-ის ბიომეტრიული ვერიფიკაციის პოლიტიკა'},
     '19': {'description': _OFFICIAL_KA % 'გარდამავალი პერიოდის საგზაო რუკა'},
     '20': {'description':
-           'Earthlings-ის დამფუძნებელი პერიოდი: წინადადებები მიიღება ოცდახუთივე '
-           'დოკუმენტზე - დეკლარაციაზე, ქარტიაზე და დანარჩენებზე - 2026 წლის 22 '
-           'ოქტომბრიდან 2027 წლის 20 იანვრამდე, კრებული 3 თებერვალს, დეკლარაციის კენჭისყრა '
-           '2027 წლის 17 თებერვალს. რა განიხილება, რა არა და როგორ მივიღოთ მონაწილეობა.'},
+           'Earthlings-ის დამფუძნებელი პერიოდი: წინადადებები მიიღება მთელ კორპუსზე - '
+           'დეკლარაციაზე, ქარტიაზე და დანარჩენ დოკუმენტებზე, - შემდეგ კი დეკლარაცია '
+           'კენჭისყრაზე გამოდის. რა განიხილება, რა არა და როგორ მივიღოთ მონაწილეობა.'},
     '22': {'description': _OFFICIAL_KA % 'იურიდიული ინფორმაცია'},
     '23': {'description': _OFFICIAL_KA % 'ჩვენ შესახებ'},
     '26': {'description':
@@ -1268,10 +1262,8 @@ OVERRIDES_AR = {
     '19': {'description': _OFFICIAL_AR % 'خارطة طريق الفترة الانتقالية'},
     '20': {'description':
            'الفترة التأسيسية لشعب Earthlings: باب المقترحات مفتوح على مجموعة الوثائق '
-           'الخمس والعشرين كلها - الإعلان والميثاق وسائرها - من 22 تشرين الأول/أكتوبر 2026 '
-           'إلى 20 كانون الثاني/يناير 2027، والحصيلة في 3 شباط/فبراير، والتصويت على '
-           'الإعلان في 17 شباط/فبراير 2027. ما هو مفتوح للنقاش، وما لا يخضع '
-           'للنقاش، وكيف تشارك.'},
+           'كلها - الإعلان والميثاق وسائرها - ثم يُعرض الإعلان على التصويت. ما هو '
+           'مفتوح للنقاش، وما لا يخضع للنقاش، وكيف تشارك.'},
     '22': {'description': _OFFICIAL_AR % 'معلومات قانونية'},
     '23': {'description': _OFFICIAL_AR % 'من نحن'},
     '26': {'description':
@@ -1375,11 +1367,9 @@ OVERRIDES_HI = {
     '16': {'description': _OFFICIAL_HI % 'Earthlings की बायोमेट्रिक सत्यापन नीति'},
     '19': {'description': _OFFICIAL_HI % 'संक्रमण काल की रोडमैप'},
     '20': {'description':
-           'Earthlings का स्थापना काल: प्रस्ताव पूरे पच्चीस दस्तावेज़ों के संग्रह '
-           'पर खुले हैं - घोषणा, चार्टर और शेष सभी - 22 अक्टूबर 2026 से '
-           '20 जनवरी 2027 तक; 3 फरवरी 2027 को समग्र विवरण और मतदान के लिए '
-           'अंतिम पाठ; 17 फरवरी 2027 को घोषणा पर मतदान। क्या चर्चा के लिए खुला '
-           'है, क्या चर्चा के अधीन नहीं है, और भाग कैसे लें।'},
+           'Earthlings का स्थापना काल: प्रस्ताव पूरे संग्रह पर खुले हैं - घोषणा, '
+           'चार्टर और शेष सभी दस्तावेज़ - और उसके बाद घोषणा पर मतदान होता है। क्या '
+           'चर्चा के लिए खुला है, क्या चर्चा के अधीन नहीं है, और भाग कैसे लें।'},
     '22': {'description': _OFFICIAL_HI % 'विधिक जानकारी'},
     '23': {'description': _OFFICIAL_HI % 'हमारे बारे में'},
     '26': {'description':

@@ -44,7 +44,7 @@ Real first and last names **are not retained**.
 
 ## Identity verification data
 
-**What is retained:** the verification status, the document type and issuing country, the numeric verification scores, the reasons for rejection, and irreversible hashes of the document number and of the first name, last name, and date of birth from the document, computed with the server's secret key.
+**What is retained:** the verification status, the document type and issuing country, the numeric verification scores, the reasons for rejection, and irreversible hashes computed with the server's secret key - a hash of the document number and a single combined hash of the first name, last name, and date of birth from the document; the document number, first name, last name, and date of birth themselves are not retained.
 
 **What is not retained:** images of the face and of the document, biometric templates. They are processed at the moment of verification and deleted.
 

@@ -2,7 +2,7 @@
 
 **Six cas dans lesquels des gens n'avaient aucun pouvoir - et dont on a tenu compte malgré tout; et les deux expériences qui ont été le plus près de joindre la profondeur à l'échelle**
 
-> **Statut de la présente annexe.** C'est une annexe du document [« Voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html). Elle n'établit rien et ne crée aucune obligation: elle apporte les cas, les chiffres et les sources des affirmations de ce document. En cas de divergence, c'est « Voix citoyenne » qui s'applique; la force obligatoire appartient à la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html) et à la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html).
+> **Statut de la présente annexe.** C'est une annexe du document [« La voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html). Elle n'établit rien et ne crée aucune obligation: elle apporte les cas, les chiffres et les sources des affirmations de ce document. En cas de divergence, c'est « La voix citoyenne » qui s'applique; la force obligatoire appartient à la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html) et à la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html).
 
 On pourrait croire que, sans pouvoirs, on ne peut pas influer. C'est faux, et la pratique le réfute. Voici six cas - quatre réussis et deux instructivement manqués. Ils ne sont pas cités comme preuve que quelqu'un a raison, mais comme source d'exigences envers soi-même: on y voit ce qui rend un outil coûteux à ignorer.
 
@@ -68,7 +68,7 @@ On voit de là la bifurcation devant laquelle se tiennent toutes les tentatives 
 
 De là vient aussi la valeur pratique, pour ceux qui organisent de telles assemblées, d'un registre vérifiable de personnes uniques: le point le plus faible de chacune d'elles est de savoir où prendre une liste dont nul ne contestera le caractère aléatoire du tirage. Le registre règle ce problème, et le règle de façon neutre: le tirage au sort n'a pas de position et convient également à toutes les parties.
 
-Ce qui découle de tout cela pour l'agencement de la mesure, et pourquoi la cinquième propriété s'est révélée décisive, figure dans le document [Voix citoyenne](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html).
+Ce qui découle de tout cela pour l'agencement de la mesure, et pourquoi la cinquième propriété s'est révélée décisive, figure dans le document [La voix citoyenne](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html).
 
 ## Sources
 
@@ -81,4 +81,4 @@ Ce qui découle de tout cela pour l'agencement de la mesure, et pourquoi la cinq
 
 ---
 
-[Revenir au document « Voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html)
+[Revenir au document « La voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html)

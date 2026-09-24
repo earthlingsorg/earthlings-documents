@@ -258,7 +258,9 @@ def _prohibited_typography(ctx):
 
 _WORDS = {'двадцать пять': 25, 'двадцати пяти': 25, 'двадцать четыре': 24,
           'двадцати четырёх': 24, 'двадцать три': 23, 'двадцати трёх': 23,
-          'двадцать шесть': 26, 'двадцати шести': 26}
+          'двадцать шесть': 26, 'двадцати шести': 26,
+          'двадцать семь': 27, 'двадцати семи': 27,
+          'двадцать восемь': 28, 'двадцати восьми': 28}
 
 
 def _corpus_counter(ctx):
@@ -271,8 +273,13 @@ def _corpus_counter(ctx):
         то есть на два меньше.
     Проверка ловит расхождение внутри каждой формы и несходимость между ними,
     а не сам факт, что чисел два. Иначе она кричала бы всегда.
+
+    Числительное, которого нет в _WORDS, - не повод промолчать. Раньше такое
+    место пропускалось, и проверка печатала «сходится», его не увидев: так
+    она проходила на данных, которых не видела. Теперь оно печатается и
+    попадает в итог как ВНИМАНИЕ; лечится дописыванием словаря.
     """
-    full, rest = {}, {}
+    full, rest, unknown = {}, {}, []
     for n, s in sorted(ctx.texts.items()):
         for m in re.finditer(
                 r'(остальны\w+\s+|прочи\w+\s+|)(\d{2}|двадцат\w+\s+\w+)\s+'
@@ -282,8 +289,12 @@ def _corpus_counter(ctx):
             if val is None:
                 val = int(raw) if raw.isdigit() else None
             if val is None:
+                unknown.append((raw, n))
                 continue
             (rest if m.group(1).strip() else full).setdefault(val, set()).add(n)
+
+    for raw, n in unknown:
+        print('  число словами не распознано: «%s» в %s' % (raw, n))
 
     for name, box in (('полный счёт', full), ('остальные', rest)):
         if not box:
@@ -293,6 +304,8 @@ def _corpus_counter(ctx):
             print('  %-12s %-4d %s' % (name, val, ', '.join(sorted(box[val]))[:70]))
 
     bad = []
+    if unknown:
+        bad.append('не распознано чисел словами: %d - дописать в _WORDS' % len(unknown))
     if len(full) > 1:
         bad.append('полный счёт записан разными числами')
     if len(rest) > 1:

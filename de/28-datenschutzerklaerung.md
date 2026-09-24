@@ -44,7 +44,7 @@ Der wirkliche Vor- und Nachname wird **nicht gespeichert**.
 
 ## Die Daten der Identitätsprüfung
 
-**Was gespeichert wird:** der Stand der Prüfung, die Art und das Ausstellungsland des Dokuments, die Zahlenwerte der Prüfung, die Gründe der Ablehnung und nicht umkehrbare Hashes der Nummer des Dokuments sowie des Vornamens, des Nachnamens und des Geburtsdatums aus dem Dokument, berechnet mit dem geheimen Schlüssel des Servers.
+**Was gespeichert wird:** der Stand der Prüfung, die Art und das Ausstellungsland des Dokuments, die Zahlenwerte der Prüfung, die Gründe der Ablehnung und nicht umkehrbare Hashes, berechnet mit dem geheimen Schlüssel des Servers - ein Hash der Nummer des Dokuments und ein einziger gemeinsamer Hash des Vornamens, des Nachnamens und des Geburtsdatums aus dem Dokument; die Nummer des Dokuments, der Vorname, der Nachname und das Geburtsdatum selbst werden nicht gespeichert.
 
 **Was nicht gespeichert wird:** Bilder des Gesichts und des Papiers, biometrische Vorlagen. Sie werden im Augenblick der Prüfung verarbeitet und gelöscht.
 

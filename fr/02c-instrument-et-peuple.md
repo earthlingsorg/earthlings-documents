@@ -2,7 +2,7 @@
 
 **Cinq raisons pour lesquelles une mesure vérifiable de la volonté commune ne peut se passer d'un peuple; le cas du plus grand projet bâti sans lui; neuf manières dont tout cela peut ne pas aboutir; et ceux qui n'ont aucune représentation**
 
-> **Statut de la présente annexe.** C'est une annexe du document [« Voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html). Elle n'établit rien et ne crée aucune obligation: elle apporte les cas, les chiffres et les sources des affirmations de ce document. En cas de divergence, c'est « Voix citoyenne » qui s'applique; la force obligatoire appartient à la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html) et à la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html).
+> **Statut de la présente annexe.** C'est une annexe du document [« La voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html). Elle n'établit rien et ne crée aucune obligation: elle apporte les cas, les chiffres et les sources des affirmations de ce document. En cas de divergence, c'est « La voix citoyenne » qui s'applique; la force obligatoire appartient à la [Déclaration](https://earth-lings.org/documents/fr/fr01-declaration.html) et à la [Charte](https://earth-lings.org/documents/fr/fr05-charte.html).
 
 L'essentiel d'un instrument de mesure peut se bâtir sans aucun peuple. La vérification de l'unicité d'une personne sans divulgation de son identité n'exige pas de peuple - de tels systèmes existent et fonctionnent. Un vote vérifiable par signatures de portefeuilles n'exige pas de peuple. Constituer un vivier pour le tirage au sort est une tâche statistique ordinaire. Les panels délibératifs sont organisés par des États, des universités et des organisations à but non lucratif, et cela depuis longtemps et bien.
 
@@ -174,6 +174,8 @@ Disons aussi l'inverse, car il est du même ordre: **si les questions cessent de
 
 **Ce qui est fait.** L'obligation de publier le résultat quel qu'en soit le contenu, et la trace complète de chaque mesure. Le signe du mal est visible de l'extérieur: les mesures cessent d'apporter des réponses gênantes.
 
+**Ce que nous ne garantissons pas.** Que nous nous en apercevions nous-mêmes, et à temps: de l'intérieur, une telle dérive ressemble à de la prudence.
+
 ### 9. Personne ne demandera
 
 **Ce qui se passe.** L'instrument est construit, il fonctionne parfaitement, il publie mesure après mesure - et personne ne s'en sert. Ni renvois, ni demandes, ni insertion.
@@ -190,7 +192,7 @@ Le prix de la voie choisie n'est pas modique. Une croissance plus lente: adhére
 
 Nommons donc aussi ce qui montrerait que nous nous sommes trompés. Si, dans dix ans, un sondage vérifiable émanant d'un fonds ou d'une entreprise est régulièrement cité par les organes conventionnels et par les États, et que personne ne demande alors « qui vous a habilités », c'est que le peuple était superflu et que nous avons choisi la voie coûteuse là où la voie bon marché convenait.
 
-La manière dont la mesure elle-même est agencée, les exigences qui pèsent sur elle et ce qui, parmi ce qui est décrit, est déjà bâti figurent dans le document [Voix citoyenne](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html).
+La manière dont la mesure elle-même est agencée, les exigences qui pèsent sur elle et ce qui, parmi ce qui est décrit, est déjà bâti figurent dans le document [La voix citoyenne](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html).
 
 ## Sources
 
@@ -204,4 +206,4 @@ La manière dont la mesure elle-même est agencée, les exigences qui pèsent su
 
 ---
 
-[Revenir au document « Voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html)
+[Revenir au document « La voix citoyenne »](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html)

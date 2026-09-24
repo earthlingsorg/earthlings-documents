@@ -32,7 +32,7 @@ Le présent document décrit la période de transition: de la fondation à l'aut
 
 **Reddition de comptes.** Dès l'entrée en vigueur de la Charte, les fondateurs rendent compte à la communauté; les rapports sont publiés et comportent des informations financières.
 
-**Décentralisation irréversible.** Chaque étape suivante consolide le niveau atteint. Le retour à un modèle plus centralisé contredit les règles posées et, à mesure que les clés sont transférées à la signature multiple des structures élues ou sous le contrôle de l'Assemblée, il devient aussi techniquement difficile; tant que les clés sont entre les mains d'une seule personne, cette protection tient aux règles et à l'ouverture, et non à l'architecture (document « Où nous en sommes »).
+**Décentralisation irréversible.** Chaque étape suivante consolide le niveau atteint. Le retour à un modèle plus centralisé contredit les règles posées et, à mesure que les clés sont transférées à la multisig des structures élues ou sous le contrôle de l'Assemblée, il devient aussi techniquement difficile; tant que les clés sont entre les mains d'une seule personne, cette protection tient aux règles et à l'ouverture, et non à l'architecture (document « Où nous en sommes »).
 
 ---
 
@@ -98,7 +98,7 @@ Ces fonctions sont temporaires. La Charte entre en vigueur avec l'adoption de la
 - priver des participants de leur statut, de leur appartenance ou de leur droit de vote; avant l'adoption de la Déclaration, le document temporaire de participant à la constitution est détruit contre la volonté de son titulaire selon la procédure du document « La période constituante » (partie 2, point 5);
 - prendre des décisions contraires aux valeurs du peuple;
 - utiliser les ressources de la communauté à des fins personnelles;
-- bloquer le processus de décentralisation. Ce sont des interdictions, et non une impossibilité technique: tant que les droits du propriétaire du contrat et les clés du trésor ne sont pas transférés à une signature multiple, l'émission et la destruction des inscriptions du registre restent techniquement accessibles à une seule clé, et la disposition du trésor à une seule signature (document « Où nous en sommes »).
+- bloquer le processus de décentralisation. Ce sont des interdictions, et non une impossibilité technique: tant que les droits du propriétaire du contrat et les clés du trésor ne sont pas transférés à une multisig, l'émission et la destruction des inscriptions du registre restent techniquement accessibles à une seule clé, et la disposition du trésor à une seule signature (document « Où nous en sommes »).
 
 ## Les mécanismes de contrôle
 
@@ -146,7 +146,7 @@ Elle est publiée au moins une fois tous les 90 jours à compter du jour de l'en
 | Plateforme numérique | fonctionne |
 | Système des cellules | fonctionne |
 | Mécanisme de vote | canal de vote ouvert déployé, aucun vote de fond n'a eu lieu; outil de vote secret en cours de sélection |
-| Trésorerie | le portefeuille Safe est déployé, le seuil de signatures est de une; le transfert des clés sous la signature multiple des Core Nodes élus ou sous le contrôle de l'Assemblée est un critère de passage entre les phases; les contrats intelligents ne sont pas déployés |
+| Trésorerie | le portefeuille Safe est déployé, le seuil de signatures est de une; le transfert des clés sous la multisig des Core Nodes élus ou sous le contrôle de l'Assemblée est un critère de passage entre les phases; les contrats intelligents ne sont pas déployés |
 | Core Nodes et Emergency Multisig | non élus |
 | Conseil indépendant | non constitué |
 
@@ -177,7 +177,7 @@ Le passage se fait lorsque des critères objectifs sont remplis, et non par déc
 
 # SECTION 07. Comment la transition elle-même est protégée
 
-La transition est un moment vulnérable: l'ordre ancien est rompu, le nouveau n'est pas encore fixé, et il est facile de garder le pouvoir « à titre temporaire, pour le bon ordre ». C'est pourquoi la transition est protégée par l'agencement et non par des promesses - par trois appuis, dont aucun ne se réduit à la confiance envers les fondateurs; les endroits où il faut nous faire confiance jusqu'au transfert des clés à la signature multiple sont nommés dans le document « Où nous en sommes ».
+La transition est un moment vulnérable: l'ordre ancien est rompu, le nouveau n'est pas encore fixé, et il est facile de garder le pouvoir « à titre temporaire, pour le bon ordre ». C'est pourquoi la transition est protégée par l'agencement et non par des promesses - par trois appuis, dont aucun ne se réduit à la confiance envers les fondateurs; les endroits où il faut nous faire confiance jusqu'au transfert des clés à la multisig sont nommés dans le document « Où nous en sommes ».
 
 ## Le pouvoir des fondateurs ne fait que se rétrécir, jamais s'étendre
 
@@ -213,7 +213,7 @@ Ainsi, ni une prise de contrôle ne peut se faire passer pour le peuple, ni une 
 
 **Le problème.** Les fondateurs peuvent ne pas vouloir transférer les fonctions et les clés.
 
-**La protection.** Elle est exposée à la section 07: le pouvoir des fondateurs ne fait que se rétrécir, le noyau intangible est hors de leur atteinte, et si, après l'adoption de la Déclaration, la réalisation de celle-ci devient impossible, les earthlings vérifiés pourront poursuivre le peuple en s'appuyant sur le même registre, sans l'accord des fondateurs (Déclaration, article 11); une copie usurpatrice ne peut pas pour autant s'approprier le nom du peuple. Le gain d'une prise de contrôle n'est pas nul aujourd'hui: tant que les droits du propriétaire du contrat ne sont pas transférés à une signature multiple et que le seuil du trésor est d'une seule signature, celui qui s'emparerait de ces clés pourrait émettre et détruire des inscriptions dans ce même registre et disposer du trésor (document « Où nous en sommes »).
+**La protection.** Elle est exposée à la section 07: le pouvoir des fondateurs ne fait que se rétrécir, le noyau intangible est hors de leur atteinte, et si, après l'adoption de la Déclaration, la réalisation de celle-ci devient impossible, les earthlings vérifiés pourront poursuivre le peuple en s'appuyant sur le même registre, sans l'accord des fondateurs (Déclaration, article 11); une copie usurpatrice ne peut pas pour autant s'approprier le nom du peuple. Le gain d'une prise de contrôle n'est pas nul aujourd'hui: tant que les droits du propriétaire du contrat ne sont pas transférés à une multisig et que le seuil du trésor est d'une seule signature, celui qui s'emparerait de ces clés pourrait émettre et détruire des inscriptions dans ce même registre et disposer du trésor (document « Où nous en sommes »).
 
 ## Les erreurs techniques
 

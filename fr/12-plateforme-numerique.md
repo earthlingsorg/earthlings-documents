@@ -80,7 +80,7 @@ L'architecture exige que l'identité, la voix et l'empreinte économique ne se r
 
 ### La destruction du passeport
 
-En règle générale, seul le titulaire détruit son passeport, avec sa propre clé, depuis son propre portefeuille. La plateforme ne conserve pas les clés du participant et n'est techniquement pas capable de faire obstacle à la destruction; nul n'a le droit de détruire le passeport à la place du participant, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une signature multiple, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »).
+En règle générale, seul le titulaire détruit son passeport, avec sa propre clé, depuis son propre portefeuille. La plateforme ne conserve pas les clés du participant et n'est techniquement pas capable de faire obstacle à la destruction; nul n'a le droit de détruire le passeport à la place du participant, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une multisig, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »).
 
 La Charte (article 21) établit deux exceptions et deux seulement, que la plateforme est tenue de prendre en charge et qu'elle n'a pas le droit d'élargir:
 

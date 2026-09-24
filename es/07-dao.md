@@ -1,6 +1,6 @@
 # DAO Earthlings
 
-**Principios, arquitectura y gobierno en el sistema descentralizado del pueblo Earthlings**
+**Principios, arquitectura y gobernanza en el sistema descentralizado del pueblo Earthlings**
 
 > El presente documento describe cómo está organizada la adopción colectiva de decisiones. Las reglas, umbrales, quórums y procedimientos están establecidos en la Carta de los Earthlings; el presente documento los explica y no los modifica. En caso de discrepancia se aplica la Carta, y en caso de discrepancia de la Carta con la Declaración, la Declaración. La Carta entra en vigor con la adopción de la Declaración (Carta, artículo 38); hasta entonces no existen ni la Asamblea DAO, ni los Core Nodes, ni el Emergency Multisig, ni el Consejo Independiente, y la única facultad discrecional del período constituyente respecto de los textos es la decisión del autor de la Declaración de incorporar propuestas al texto (documento «El período constituyente»).
 
@@ -54,13 +54,13 @@ Las decisiones, los debates y sus consecuencias se conservan en un contexto hist
 
 **Capa de identidad.** Cada voto está ligado a un participante verificado cuya condición se fija en un pasaporte intransmisible. Eso asegura el principio «una persona, un voto» y hace prácticamente imposible crear cuentas múltiples.
 
-**Capa de gobierno.** Los procesos de iniciativa, debate y adopción de decisiones están formalizados. Todo earthling puede presentar propuestas, participar en las votaciones e iniciar la revisión de decisiones adoptadas antes.
+**Capa de gobernanza.** Los procesos de iniciativa, debate y adopción de decisiones están formalizados. Todo earthling puede presentar propuestas, participar en las votaciones e iniciar la revisión de decisiones adoptadas antes.
 
 **Capa de incentivos.** La unidad de cuenta interna se emplea para coordinar y valorar las aportaciones. No da votos adicionales y no se convierte en fuente de poder en ninguna cantidad.
 
 **Capa de coordinación.** Las células emplean la infraestructura de la DAO para coordinar sus actuaciones. Las decisiones se forman de abajo arriba: a través de la actividad de las células y de la participación de las personas.
 
-La arquitectura está dispuesta de modo que ningún subsistema técnico - servidor, interfaz, módulo concreto - se convierta en el único punto de control. El gobierno se apoya en el procedimiento y en la condición de earthling, y no en la titularidad de la infraestructura.
+La arquitectura está dispuesta de modo que ningún subsistema técnico - servidor, interfaz, módulo concreto - se convierta en el único punto de control. La gobernanza se apoya en el procedimiento y en la condición de earthling, y no en la titularidad de la infraestructura.
 
 ---
 

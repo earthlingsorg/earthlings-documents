@@ -174,6 +174,8 @@ The other side of this has to be said too, because it matters just as much: **if
 
 **What is being done.** The duty to publish a result whatever it contains, and the full trail of every measurement. The sign of trouble is visible from outside: measurements stop producing unwelcome answers.
 
+**What we do not guarantee.** That we will notice it ourselves, and in time: from the inside, such a drift looks like prudence.
+
 ### 9. No one will ask
 
 **What happens.** The instrument is built, works flawlessly, publishes measurement after measurement - and no one uses them. No citations, no requests, no embedding.

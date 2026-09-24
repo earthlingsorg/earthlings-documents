@@ -152,7 +152,7 @@ El tamaño objetivo es el equivalente al presupuesto anual. Alcanzado ese umbral
 
 ---
 
-# SECCIÓN 04. Gobierno y votación
+# SECCIÓN 04. Gobernanza y votación
 
 ## Artículo 12. Órgano único
 
@@ -472,7 +472,7 @@ Una modificación contraria a la Carta no puede someterse a votación y, de ser 
 
 Lo siguiente no se modifica ni siquiera por mayoría cualificada:
 
-- el gobierno de la Tesorería exclusivamente a través de la Asamblea DAO;
+- la gobernanza de la Tesorería exclusivamente a través de la Asamblea DAO;
 - **una persona, un voto en la adopción de cualquier decisión financiera**, incluida la distribución de fondos entre proyectos; ningún mecanismo puede permitir que un participante aporte en una misma decisión más peso que otro;
 - la transparencia de todas las transacciones financieras de la Tesorería;
 - la prohibición de financiar lo que prohíbe el núcleo intangible de la Declaración: la violencia y las estructuras armadas, la participación en la lucha política y en las campañas electorales (artículo 5), la destrucción de las condiciones de existencia de la vida (artículo 3); las demás prohibiciones del artículo 30 son reglas básicas de la Tesorería y se modifican en la forma del artículo 39;

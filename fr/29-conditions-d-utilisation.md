@@ -84,7 +84,7 @@ Il n'existe pas d'autres conditions d'appartenance. La **cotisation unique** - l
 
 Vous répondez de la conservation de votre mot de passe et de vos clés cryptographiques, des actes accomplis depuis votre compte, et de l'obligation d'avertir l'assistance en cas de soupçon de compromission.
 
-**Nous ne pouvons pas restaurer des clés perdues.** Elles ne sont conservées chez nous sous aucune forme. C'est le revers du fait que nous n'avons pas vos clés; nul n'a le droit de détruire le passeport à votre place, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une signature multiple, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »).
+**Nous ne pouvons pas restaurer des clés perdues.** Elles ne sont conservées chez nous sous aucune forme. C'est le revers du fait que nous n'avons pas vos clés; nul n'a le droit de détruire le passeport à votre place, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une multisig, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »).
 
 ## Les restrictions: ce qui est possible et ce qui ne l'est pas
 

@@ -10,7 +10,7 @@ Por eso los Earthlings empiezan con un período constituyente.
 
 Hoy la Declaración existe como versión inicial, preparada para constituir el pueblo. Expresa los principios sobre los que proponemos crearlo, pero todavía no es el acto constitutivo definitivo.
 
-**No está abierta solo la Declaración.** Está abierto a propuestas todo el corpus: veinticinco documentos que describen al pueblo por entero: la Carta con sus procedimientos y umbrales, la arquitectura de la caja y de la unidad de cuenta, el procedimiento de verificación de identidad, el trabajo de las células, la hoja de ruta, la ética, la base jurídica. La Declaración es la principal entre ellos, pero por sí sola no describe al pueblo: establece los fundamentos y los límites, y cómo funciona todo eso día a día está escrito en los demás.
+**No está abierta solo la Declaración.** Está abierto a propuestas todo el corpus: veinticinco documentos que describen al pueblo por entero, junto con los tres anexos del documento «Voz ciudadana»: la Carta con sus procedimientos y umbrales, la arquitectura de la caja y de la unidad de cuenta, el procedimiento de verificación de identidad, el trabajo de las células, la hoja de ruta, la ética, la base jurídica. La Declaración es la principal entre ellos, pero por sí sola no describe al pueblo: establece los fundamentos y los límites, y cómo funciona todo eso día a día está escrito en los demás.
 
 Lo decimos de manera expresa porque de otro modo se crea la falsa impresión de que se invita a enmendar un texto y los demás se traerán ya hechos. No: se puede enmendar cualquier documento del corpus. Lo que difiere no es el derecho de una persona a presentar una propuesta, sino lo que ocurre después con la propuesta aceptada; de eso trata la sección 02.
 
@@ -32,7 +32,7 @@ Queremos así que los Earthlings no se creen para las personas, sino **por las p
 
 **Estado actual.** El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, el medio de votación secreta se está eligiendo y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). Lo que no está adoptado es el texto constitutivo.
 
-Del 22 de octubre de 2026 al 20 de enero de 2027 está abierto a propuestas todo el corpus: la Declaración, la Carta y los otros veintitrés documentos. Puede presentarlas cualquier persona. El 17 de febrero de 2027 el texto se somete a votación de quienes hayan verificado su identidad. Desde su adopción, los principios de la parte I de la Declaración ya no se derogan nunca, y sus formulaciones y el resto del texto los modifica únicamente el propio pueblo, por dos tercios de los votos emitidos y con quórum, y solo de modo que ningún principio quede restringido y ninguna garantía a la persona se debilite.
+Del 22 de octubre de 2026 al 20 de enero de 2027 está abierto a propuestas todo el corpus: la Declaración, la Carta, los otros veintitrés documentos y los tres anexos del documento «Voz ciudadana». Puede presentarlas cualquier persona. El 17 de febrero de 2027 el texto se somete a votación de quienes hayan verificado su identidad. Desde su adopción, los principios de la parte I de la Declaración ya no se derogan nunca, y sus formulaciones y el resto del texto los modifica únicamente el propio pueblo, por dos tercios de los votos emitidos y con quórum, y solo de modo que ningún principio quede restringido y ninguna garantía a la persona se debilite.
 
 ## 01. Por qué lo hacemos así
 
@@ -95,7 +95,7 @@ Cinco disposiciones principales no se discuten en ninguna circunstancia. Un pueb
 
 - **Una persona, un voto.** El voto no se puede comprar, vender, acumular ni ceder de manera irrevocable.
 - **No existe el poder de unas personas sobre otras.** Nadie ocupa una posición por encima de otro earthling; las facultades son limitadas, revocables y verificables, un encargo no se convierte en cargo.
-- **El dinero está separado del voto.** El patrimonio, las cuotas y las aportaciones no dan derechos adicionales en el gobierno.
+- **El dinero está separado del voto.** El patrimonio, las cuotas y las aportaciones no dan derechos adicionales en la gobernanza.
 - **La salida es libre.** En cualquier momento, sin explicar los motivos. La expulsión del pueblo no existe.
 - **El pueblo habla, pero no coacciona.** La violencia queda excluida sin excepción.
 

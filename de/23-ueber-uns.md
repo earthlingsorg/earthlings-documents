@@ -43,7 +43,7 @@ Eine Änderung zu jedem Dokument vorschlagen kann jeder, und die Erklärung erla
 
 Die einrichtungsmäßige Architektur der Earthlings besteht aus drei verschiedenen baulichen Bestandteilen, von denen keiner Macht über einen Menschen hat.
 
-Dieser Grundsatz ist grundlegend: Jeder Bestandteil löst Aufgaben, die den anderen baulich nicht zugänglich sind, doch Beschlüsse fasst allein die DAO-Vollversammlung; die rechtlichen Werkzeuge führen ihren widerruflichen Auftrag aus, der Rat berät sie, und kein Bestandteil hat Macht über einen Menschen.
+Dieser Grundsatz ist grundlegend: Jeder Bestandteil löst Aufgaben, die den anderen baulich nicht zugänglich sind, doch Beschlüsse fasst allein die DAO-Vollversammlung; die rechtlichen Werkzeuge führen ihren widerruflichen Auftrag aus, der Rat wird sie beraten, und kein Bestandteil hat Macht über einen Menschen.
 
 Das Ergebnis ist eine Architektur, in der niemand eine Stellung über einem anderen Menschen einnimmt und die Befugnisse verteilt, widerruflich und auf das notwendige Mindestmaß beschränkt sind.
 
@@ -60,9 +60,9 @@ Die Core Nodes sichern die technische Abstimmung auf der Grundlage von Rotation.
 
 Der Emergency Multisig sichert den Schutz der Infrastruktur vor Exploits und kritischen Bedrohungen - ebenfalls auf der Grundlage von Rotation.
 
-Der Unabhängige Rat gibt fachliche Empfehlungen und beratende Stellungnahmen ([näher](https://earth-lings.org/documents/de/de11-unabhaengiger-rat.html)). Die Charta tritt mit der Annahme der Erklärung in Kraft (Charta, Artikel 38); bis dahin gibt es weder eine DAO-Vollversammlung noch Core Nodes noch einen Emergency Multisig noch einen Unabhängigen Rat, und die einzige Ermessensbefugnis der Gründungsphase hinsichtlich der Texte ist die Entscheidung des Verfassers der Erklärung über die Aufnahme von Vorschlägen in den Text (Dokument „Die Gründungsphase“).
+Der Unabhängige Rat wird fachliche Empfehlungen und beratende Stellungnahmen geben ([näher](https://earth-lings.org/documents/de/de11-unabhaengiger-rat.html)). Die Charta tritt mit der Annahme der Erklärung in Kraft (Charta, Artikel 38); bis dahin gibt es weder eine DAO-Vollversammlung noch Core Nodes noch einen Emergency Multisig noch einen Unabhängigen Rat, und die einzige Ermessensbefugnis der Gründungsphase hinsichtlich der Texte ist die Entscheidung des Verfassers der Erklärung über die Aufnahme von Vorschlägen in den Text (Dokument „Die Gründungsphase“).
 
-Blickt man nicht auf die inneren Aufgabenbereiche, sondern darauf, womit die Earthlings nach außen handeln, so sind es drei Schlüsselbestandteile: die DAO, die rechtlichen Werkzeuge und der Unabhängige Rat. Sie tragen die kollektive Selbstverwaltung, den äußeren rechtlichen Verkehr und die fachliche Beratung.
+Blickt man nicht auf die inneren Aufgabenbereiche, sondern darauf, womit die Earthlings nach außen handeln, so sind es drei Schlüsselbestandteile: die DAO, die rechtlichen Werkzeuge und der Unabhängige Rat. Sie tragen die kollektive Selbstverwaltung, den äußeren rechtlichen Verkehr und - sobald der Rat gebildet ist - die fachliche Beratung.
 
 Die Aufgaben DIENST und SICHERHEIT werden von gesonderten technischen Organen wahrgenommen, die in den Dokumenten [Die DAO der Earthlings](/documents/de/de07-dao.html) und [Die Digitale Plattform](/documents/de/de12-digitale-plattform.html) ausführlich beschrieben sind.
 
@@ -109,7 +109,7 @@ Das ausführliche Rechtsmodell ist im Dokument [Die Rechtsgrundlage](/documents/
 
 ### Der Unabhängige Rat
 
-Der Unabhängige Rat ist, wie in der „Charta der Earthlings“ und in dem besonderen Dokument [Der Unabhängige Rat der Earthlings](/documents/de/de11-unabhaengiger-rat.html) beschrieben, als ein Organ aus sieben bis elf Fachleuten aus dem Kreis der Earthlings gedacht, die an der betrieblichen Verwaltung des Volkes nicht mitwirken. Die Aufzählung der Bereiche der Sachkunde ist ein Anhalt und keine Quotierung:
+Der Unabhängige Rat ist, wie in der Charta der Earthlings und in dem besonderen Dokument [Der Unabhängige Rat der Earthlings](/documents/de/de11-unabhaengiger-rat.html) beschrieben, als ein Organ aus sieben bis elf Fachleuten aus dem Kreis der Earthlings gedacht, die an der betrieblichen Verwaltung des Volkes nicht mitwirken. Die Aufzählung der Bereiche der Sachkunde ist ein Anhalt und keine Quotierung:
 
 - Ökologie, Klima, nachhaltige Entwicklung;
 - Wirtschaft und Fragen der neuen Wirtschaft;

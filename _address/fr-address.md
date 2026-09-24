@@ -72,7 +72,7 @@ Une voix dans le peuple des Earthlings ne peut être ni achetée, ni accumulée,
 
 ## Par où commencer
 
-Des gens libres et pensants peuvent bâtir ensemble un second système civique, capable de coexister pacifiquement avec celui qui existe déjà. Alors chacun aura le choix de la société dans laquelle il veut vivre. Un peuple qui aura fait la preuve de sa solidité dans la pratique aura tout fondement à devenir un sujet de plein droit du droit international.
+Des gens libres et pensants peuvent bâtir ensemble un second système civique, capable de coexister pacifiquement avec celui qui existe déjà. Alors chacun aura le choix de la société dans laquelle il veut vivre. Un peuple qui aura fait la preuve de sa solidité dans la pratique sera pleinement fondé à devenir un sujet de plein droit du droit international.
 
 Sont publiés sur ce site les documents disant à quoi cela sert, comment cela est agencé, sur quoi cela se fonde en droit, et ce que cela donne à chaque personne et à ceux qui viendront après nous.
 

@@ -65,9 +65,9 @@ This is what was discussed above. Telling genuine public input from manufactured
 
 This fault is the deepest and the least known, although it was described long ago - by the economist Mancur Olson in his 1965 work "The Logic of Collective Action".
 
-It comes to this. Take a decision that brings twenty companies a hundred million each and costs twenty million citizens a hundred roubles each. The companies' total gain is two billion. The citizens' total loss is two billion. The forces are equal, one might think.
+It comes to this. Take a decision that brings twenty companies a hundred million each and costs twenty million citizens a hundred dollars each. The companies' total gain is two billion. The citizens' total loss is two billion. The forces are equal, one might think.
 
-They are not equal. Twenty companies find it easy to organize: there are few of them, each knows the others, each has a hundred million at stake, and the outlay on defending the interest pays back hundreds of times over. Twenty million citizens find it impossible to organize: they do not know one another, each has a hundred roubles at stake, and spending even an hour of one's own time defending those hundred roubles is unprofitable for each separately, though profitable for all together.
+They are not equal. Twenty companies find it easy to organize: there are few of them, each knows the others, each has a hundred million at stake, and the outlay on defending the interest pays back hundreds of times over. Twenty million citizens find it impossible to organize: they do not know one another, each has a hundred dollars at stake, and spending even an hour of one's own time defending those hundred dollars is unprofitable for each separately, though profitable for all together.
 
 That is why **a concentrated interest defeats a dispersed one almost always** - regardless of who is right, regardless of the honesty of politicians, and regardless of the form of government. This is not a flaw of democracy but the arithmetic of organization, and it works the same way under any regime.
 

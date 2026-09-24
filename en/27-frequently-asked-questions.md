@@ -54,7 +54,7 @@ Nothing. Your citizenship, your tax obligations, and the jurisdiction to which y
 
 Real first and last names, document numbers, and biometric images **are not stored**. We store: a pseudonym, an email address, a country, confirmation that you are 18 or over, and a wallet address, as well as the technical data and platform usage data listed in the Privacy Policy.
 
-Identity verification leaves behind the verification status, the document type and issuing country, the numeric verification scores, the reasons for rejection, and irreversible hashes of the document number and of the first name, last name, and date of birth from the document, computed with the server's secret key; the hashes are stored solely so that one person cannot hold two valid passports.
+Identity verification leaves behind the verification status, the document type and issuing country, the numeric verification scores, the reasons for rejection, and irreversible hashes computed with the server's secret key - a hash of the document number and a single combined hash of the first name, last name, and date of birth from the document; the document number, first name, last name, and date of birth themselves are not retained; the hashes are stored solely so that one person cannot hold two valid passports.
 
 → [Biometric Verification Policy](https://earth-lings.org/documents/en/en16-biometric-verification.html)
 

@@ -32,7 +32,7 @@ Eine wirkliche Kontrolle ist nur von dort aus möglich, wohin weder ein Haushalt
 
 Unsere Initiative besteht darin, ein nichtterritoriales Volk zu schaffen. Für alle, die bereit sind, am Aufbau einer Gesellschaft neuer Art mitzuwirken.
 
-Es wird das erste Volk sein, das keinem Staat angehört und kein Gebiet beansprucht. Ein Volk, das sein Schicksal selbst bestimmt und seinen Willen selbst ausspricht. In dem die Menschen gemeinsame Werte teilen und eine gemeinsame Zugehörigkeit anerkennen. Ein Volk, in das man durch die eigene bewusste Wahl eintreten kann. Ein Volk, aus dem man jederzeit ohne Angabe von Gründen austreten kann. In dem niemand Macht über andere anhäufen kann und das auf Zusammenarbeit ruht und nicht auf Wettbewerb. Dabei bleibt der Mensch Bürger seines Landes, behält seine Nationalität, seine Religion und seine Kultur, gewinnt aber, was er nie hatte - eine Gesellschaft neuer Art.
+Es wird das erste Volk sein, das keinem Staat angehört und kein Gebiet beansprucht. Ein Volk, das sein Schicksal selbst bestimmt und seinen Willen selbst ausspricht. In dem die Menschen gemeinsame Werte teilen und eine gemeinsame Zugehörigkeit anerkennen. Ein Volk, in das man durch die eigene bewusste Wahl eintreten kann. Ein Volk, aus dem man jederzeit ohne Angabe von Gründen austreten kann. In dem niemand Macht über andere anhäufen kann und das auf Zusammenarbeit ruht und nicht auf Wettbewerb. Dabei bleibt der Mensch Bürger seines Landes, behält seine nationale Herkunft, seine Religion und seine Kultur, gewinnt aber, was er nie hatte - eine Gesellschaft neuer Art.
 
 Wir haben dieses Volk Earthlings genannt, weil wir alle mit dem Planeten verbunden sind, auf dem wir leben.
 

@@ -174,6 +174,8 @@ Digamos también lo contrario, porque es del mismo orden: **si las preguntas dej
 
 **Qué se hace.** El deber de publicar el resultado con independencia de su contenido y el rastro completo de cada medición. La señal de la desgracia se ve desde fuera: las mediciones dejan de traer respuestas incómodas.
 
+**Qué no garantizamos.** Que lo advirtamos nosotros mismos y a tiempo: desde dentro, una deriva así parece prudencia.
+
 ### 9. Nadie preguntará
 
 **Qué ocurre.** El instrumento está construido, funciona de manera impecable, publica una medición tras otra, y nadie las usa. Ni citas, ni peticiones, ni encaje.

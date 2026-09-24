@@ -109,7 +109,7 @@ The full list and the legal bases are in the Privacy Policy. Verification requir
 5. **Matching** the biometrics against the document and checking uniqueness.
 6. **Storing the result** - without images or templates.
 
-> **What remains after verification.** Photographs, scans of documents, and biometric templates **are not retained**. What remains: the verification status, the document type and issuing country, the numeric verification scores, the reasons for rejection, and irreversible hashes of the document number and of the first name, last name, and date of birth from the document, computed with the server's secret key.
+> **What remains after verification.** Photographs, scans of documents, and biometric templates **are not retained**. What remains: the verification status, the document type and issuing country, the numeric verification scores, the reasons for rejection, and irreversible hashes computed with the server's secret key - a hash of the document number and a single combined hash of the first name, last name, and date of birth from the document; the document number, first name, last name, and date of birth themselves are not retained.
 >
 > The hashes do not prevent anyone from returning. They only prevent one person from holding two valid passports at the same time: on re-entry the system finds a match, satisfies itself that the previous passport has been burned, and issues a new one.
 
@@ -217,7 +217,7 @@ The registry follows the principle of data minimization in accordance with the G
 
 Photographs and scans are deleted immediately after verification, but its result remains valid and verifiable.
 
-> **Real first and last names are not stored.** The document data are processed only at the moment of verification. What remains in the identity verification system are the pseudonym, the email address, the country, the wallet address, and the IP address and browser type at the time of verification, and, from verification, the verification status, the document type and issuing country, the numeric verification scores, the reasons for rejection, and irreversible hashes of the document number and of the first name, last name, and date of birth from the document, computed with the server's secret key; the pseudonym is not written to the open registry. Therefore your name or document number cannot be disclosed to other participants, to administrators, or to third parties: we do not have them.
+> **Real first and last names are not stored.** The document data are processed only at the moment of verification. What remains in the identity verification system are the pseudonym, the email address, the country, the wallet address, and the IP address and browser type at the time of verification, and, from verification, the verification status, the document type and issuing country, the numeric verification scores, the reasons for rejection, and irreversible hashes computed with the server's secret key - a hash of the document number and a single combined hash of the first name, last name, and date of birth from the document; the document number, first name, last name, and date of birth themselves are not retained; the pseudonym is not written to the open registry. Therefore your name or document number cannot be disclosed to other participants, to administrators, or to third parties: we do not have them.
 
 ---
 

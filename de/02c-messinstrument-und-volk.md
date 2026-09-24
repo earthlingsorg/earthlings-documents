@@ -174,6 +174,8 @@ Sagen wir auch das Umgekehrte, denn es ist von derselben Ordnung: **Wenn die Fra
 
 **Was getan wird.** Die Pflicht, das Ergebnis unabhängig von seinem Inhalt zu veröffentlichen, und die vollständige Spur jeder Messung. Das Anzeichen des Unglücks ist von außen sichtbar: Die Messungen hören auf, unbequeme Antworten zu bringen.
 
+**Was wir nicht gewährleisten.** Dass wir es selbst und rechtzeitig bemerken: Von innen sieht ein solches Abgleiten wie Besonnenheit aus.
+
 ### 9. Niemand fragt danach
 
 **Was geschieht.** Das Messinstrument ist gebaut, arbeitet makellos, veröffentlicht Messung um Messung - und niemand benutzt sie. Keine Verweise, keine Anfragen, kein Einbau.

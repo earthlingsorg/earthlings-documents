@@ -87,7 +87,7 @@ L'historique de la participation et de l'apport est visible des participants sur
 
 - **dans le registre:** l'adresse du portefeuille, le numéro de l'inscription du passeport, l'identifiant du participant par lequel l'inscription est reliée aux données du système de vérification d'identité, et l'heure de l'émission; dans le champ du pseudonyme est inscrit, lors de l'émission, le seul mot « Earthling », et dans le champ du hachage de vérification, une valeur aléatoire sans lien avec les données de la vérification. Le nom, le document, la biométrie et les hachages de vérification ne sont pas inscrits au registre;
 - **hors registre:** les données personnelles du compte, en volume minimal;
-- **biométrie:** non conservée. De la vérification subsistent l'état de la vérification, le type et le pays de délivrance du document, les scores numériques de la vérification, les motifs de refus et des hachages irréversibles, calculés avec la clé secrète du serveur, du numéro du document, du prénom, du nom et de la date de naissance figurant dans le document. Ces hachages sont calculés à partir des données du document et non de la biométrie, et ne sont conservés que pour qu'une même personne ne puisse pas détenir deux passeports valides;
+- **biométrie:** non conservée. De la vérification subsistent l'état de la vérification, le type et le pays de délivrance du document, les scores numériques de la vérification, les motifs de refus et des hachages irréversibles, calculés avec la clé secrète du serveur - un hachage du numéro du document et un seul hachage commun du prénom, du nom et de la date de naissance figurant dans le document; le numéro du document, le prénom, le nom et la date de naissance eux-mêmes ne sont pas conservés. Ces hachages sont calculés à partir des données du document et non de la biométrie, et ne sont conservés que pour qu'une même personne ne puisse pas détenir deux passeports valides;
 - la conception suit les principes du RGPD.
 
 ### La cryptographie
@@ -133,7 +133,7 @@ Le passeport atteste ce qu'il atteste, et ce n'est pas peu: une personne déterm
 
 ## La fin du passeport
 
-**En règle générale, vous seul détruisez votre passeport**, avec votre propre clé, depuis votre propre portefeuille (fonction `burnByHolder`). La plateforme ne conserve pas vos clés et ne peut pas faire obstacle à la destruction; nul n'a le droit de détruire le passeport à votre place, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une signature multiple, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »).
+**En règle générale, vous seul détruisez votre passeport**, avec votre propre clé, depuis votre propre portefeuille (fonction `burnByHolder`). La plateforme ne conserve pas vos clés et ne peut pas faire obstacle à la destruction; nul n'a le droit de détruire le passeport à votre place, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une multisig, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »).
 
 La Charte (article 21) établit **deux exceptions et deux seulement**, et cette liste ne peut pas être élargie.
 
@@ -181,4 +181,4 @@ Jusqu'ici, le projet a été financé sur les fonds personnels de l'auteur de la
 
 La Charte et le document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html) prévoient la possibilité de recevoir des subventions et des dons d'organisations extérieures, à condition que la source soit publiée (ou, si le donateur a souhaité rester anonyme, le fait de la réception et le montant), qu'il n'y ait pas de conditions contraires aux principes du peuple, et avec une interdiction expresse: le donateur n'obtient ni voix ni influence sur les décisions. Le montant d'un don ne donne rien.
 
-Après l'adoption de la Déclaration, les décisions de dépense sont prises par un vote de l'Assemblée DAO et publiées, et tant qu'il n'y a pas de signature multiple sur le portefeuille du trésor, son unique clé est chez l'auteur de la Déclaration (document « Trésorerie »); les postes de dépense et leurs parts sont prévus à l'article 9 du document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).
+Après l'adoption de la Déclaration, les décisions de dépense sont prises par un vote de l'Assemblée DAO et publiées, et tant qu'il n'y a pas de multisig sur le portefeuille du trésor, son unique clé est chez l'auteur de la Déclaration (document « Trésorerie »); les postes de dépense et leurs parts sont prévus à l'article 9 du document [Trésorerie](https://earth-lings.org/documents/fr/fr09-tresorerie.html).

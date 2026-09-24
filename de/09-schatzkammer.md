@@ -56,7 +56,7 @@ Den Beitrag für einen Menschen kann nicht er selbst entrichten, sondern ein and
 
 **Die offene Warteschlange.** Ein Mensch, der den Beitrag nicht selbst entrichten kann, stellt sich mit einer einzigen Handlung in eine offene Warteschlange. Weder ein Antrag noch Nachweise noch eine Begründung werden von ihm verlangt und dürfen verlangt werden. In der Warteschlange werden nur die laufende Nummer und das Datum der Aufnahme veröffentlicht; Angaben über den Menschen werden in ihr nicht veröffentlicht.
 
-**Der Ablauf der Zahlung.** Bezahlt wird der Kopf der Warteschlange. Einen bestimmten Menschen auszuwählen ist nicht möglich: Die Möglichkeit der Auswahl schafft Verhältnisse der Gönnerschaft, die mit der Gleichheit der Teilnehmer unvereinbar sind. Dem Zahlenden wird nicht mitgeteilt, für wen er gezahlt hat; dem Bezahlten wird nicht mitgeteilt, wer den Beitrag für ihn entrichtet hat.
+**Der Ablauf der Zahlung.** Bezahlt wird der Kopf der Warteschlange. Einen bestimmten Menschen auszuwählen ist unzulässig: Die Möglichkeit der Auswahl schafft Verhältnisse der Gönnerschaft, die mit der Gleichheit der Teilnehmer unvereinbar sind. Dem Zahlenden wird nicht mitgeteilt, für wen er gezahlt hat; dem Bezahlten wird nicht mitgeteilt, wer den Beitrag für ihn entrichtet hat.
 
 **Die Gleichheit der Pässe.** Im Register wird nicht festgehalten, von wem der Beitrag entrichtet wurde. Ein von einem anderen Menschen bezahlter Pass unterscheidet sich in nichts von jedem anderen, und für Status, Stimme und Teilnahme zieht die Zahlung für einen anderen keinerlei Folgen nach sich.
 

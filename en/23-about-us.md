@@ -43,7 +43,7 @@ Anyone may propose an amendment to any document, and the Declaration acquires fo
 
 The institutional architecture of Earthlings consists of three distinct structural elements, none of which holds power over a person.
 
-This principle is fundamental: each element addresses tasks structurally unavailable to the others, but decisions are taken only by the DAO Assembly; the legal instruments carry out its revocable mandate, the Council advises it, and no element holds power over a person.
+This principle is fundamental: each element addresses tasks structurally unavailable to the others, but decisions are taken only by the DAO Assembly; the legal instruments carry out its revocable mandate, the Council will advise it, and no element holds power over a person.
 
 The result is an architecture in which no one holds a position above another person, and powers are distributed, revocable, and kept to a minimum.
 
@@ -60,9 +60,9 @@ The Core Nodes provide technical coordination on a rotating basis.
 
 The Emergency Multisig protects the infrastructure from exploits and critical threats - also on a rotating basis.
 
-The Independent Council gives expert recommendations and advisory opinions ([more](https://earth-lings.org/documents/en/en11-independent-council.html)). The Charter enters into force with the adoption of the Declaration (Charter, Article 38); until then there is no DAO Assembly, no Core Nodes, no Emergency Multisig, and no Independent Council, and the only discretionary power of the founding period with regard to the texts is the decision of the author of the Declaration to include proposals in the text (the document "The Founding Period").
+The Independent Council will give expert recommendations and advisory opinions ([more](https://earth-lings.org/documents/en/en11-independent-council.html)). The Charter enters into force with the adoption of the Declaration (Charter, Article 38); until then there is no DAO Assembly, no Core Nodes, no Emergency Multisig, and no Independent Council, and the only discretionary power of the founding period with regard to the texts is the decision of the author of the Declaration to include proposals in the text (the document "The Founding Period").
 
-If one looks not at the internal roles but at the means through which Earthlings acts externally, there are three key elements: the DAO, the legal instruments, and the Independent Council. They provide collective self-government, external legal engagement, and expert advice.
+If one looks not at the internal roles but at the means through which Earthlings acts externally, there are three key elements: the DAO, the legal instruments, and the Independent Council. They provide collective self-government, external legal engagement, and - once the Council is formed - expert advice.
 
 The SERVICE and SECURITY functions are performed by separate technical bodies, described in detail in the documents [The Earthlings DAO](/documents/en/en07-dao.html) and [Digital Platform](/documents/en/en12-digital-platform.html).
 
@@ -109,7 +109,7 @@ The detailed legal model is set out in the document [Legal Basis](/documents/en/
 
 ### The Independent Council
 
-The Independent Council, as described in the "Earthlings Charter" and in the dedicated document [The Earthlings Independent Council](/documents/en/en11-independent-council.html), is conceived as a body of seven to eleven experts, drawn from among Earthlings, who take no part in the operational governance of the people. The list of areas of competence is indicative and is not a system of quotas:
+The Independent Council, as described in the Earthlings Charter and in the dedicated document [The Earthlings Independent Council](/documents/en/en11-independent-council.html), is conceived as a body of seven to eleven experts, drawn from among Earthlings, who take no part in the operational governance of the people. The list of areas of competence is indicative and is not a system of quotas:
 
 - ecology, climate, sustainable development;
 - economics and questions of the new economy;
