@@ -188,7 +188,7 @@ El sistema separa con rigor dos contabilidades independientes:
 - el capital nunca compra votos, ni control sobre la célula, ni una cuota permanente de poder;
 - las condiciones se hacen constar abiertamente antes de empezar el trabajo y forman parte del libro de economía de la célula.
 
-El modelo se ajusta de manera natural a las células cuya aportación principal son las personas y sus destrezas, y se ajusta peor a las empresas intensivas en capital con grandes activos físicos. Conceptualmente continúa la tradición de las cooperativas de trabajo y de la propiedad de responsabilidad: el capital recibe un retorno honesto y finito, pero el gobierno queda en manos de las personas.
+El modelo se ajusta de manera natural a las células cuya aportación principal son las personas y sus destrezas, y se ajusta peor a las empresas intensivas en capital con grandes activos físicos. Conceptualmente continúa la tradición de las cooperativas de trabajo y de la propiedad de responsabilidad: el capital recibe un retorno honesto y finito, pero la gobernanza queda en manos de las personas.
 
 ## Aportación al bien común
 

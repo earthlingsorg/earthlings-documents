@@ -68,7 +68,7 @@ Las funciones de SERVICIO y de SEGURIDAD las realizan órganos técnicos aparte,
 
 ### La DAO
 
-La DAO (organización autónoma descentralizada) constituye el núcleo institucional de gobierno del pueblo Earthlings.
+La DAO (organización autónoma descentralizada) constituye el núcleo institucional de la gobernanza del pueblo Earthlings.
 
 La DAO asegura:
 

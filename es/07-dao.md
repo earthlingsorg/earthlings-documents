@@ -8,7 +8,7 @@
 
 # SECCIÓN 01. Introducción
 
-DAO Earthlings es una organización autónoma descentralizada, el núcleo institucional del gobierno del pueblo Earthlings. Asegura la adopción colectiva de decisiones, la distribución transparente de recursos y la coordinación de las actuaciones entre participantes y células sin poder centralizado, sin partidos y sin titulares de cargos.
+DAO Earthlings es una organización autónoma descentralizada, el núcleo institucional de la gobernanza del pueblo Earthlings. Asegura la adopción colectiva de decisiones, la distribución transparente de recursos y la coordinación de las actuaciones entre participantes y células sin poder centralizado, sin partidos y sin titulares de cargos.
 
 La Asamblea DAO es el **único órgano que adopta decisiones vinculantes**. Todas las demás estructuras previstas en la Carta prestan apoyo técnico, protección de emergencia del sistema o formulan recomendaciones, pero no adoptan decisiones en nombre del pueblo y no pueden bloquearlas.
 

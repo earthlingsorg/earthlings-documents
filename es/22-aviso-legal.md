@@ -86,7 +86,7 @@ El pueblo habla únicamente en nombre de quienes se han adherido voluntariamente
 
 ## Gobernanza
 
-El gobierno lo ejercen directamente los participantes mediante mecanismos de autogobierno colectivo: la Asamblea DAO es el único órgano que adopta decisiones vinculantes. Las estructuras técnicas y de protección actúan bajo un encargo revocable de inmediato y no adoptan decisiones en nombre del pueblo. La Carta entra en vigor con la adopción de la Declaración (Carta, artículo 38); hasta entonces no existen ni la Asamblea DAO, ni los Core Nodes, ni el Emergency Multisig, ni el Consejo Independiente, y la única facultad discrecional del período constituyente respecto de los textos es la decisión del autor de la Declaración de incorporar propuestas al texto (documento «El período constituyente»).
+La gobernanza la ejercen directamente los participantes mediante mecanismos de autogobierno colectivo: la Asamblea DAO es el único órgano que adopta decisiones vinculantes. Las estructuras técnicas y de protección actúan bajo un encargo revocable de inmediato y no adoptan decisiones en nombre del pueblo. La Carta entra en vigor con la adopción de la Declaración (Carta, artículo 38); hasta entonces no existen ni la Asamblea DAO, ni los Core Nodes, ni el Emergency Multisig, ni el Consejo Independiente, y la única facultad discrecional del período constituyente respecto de los textos es la decisión del autor de la Declaración de incorporar propuestas al texto (documento «El período constituyente»).
 
 ## Derechos sobre los textos
 
