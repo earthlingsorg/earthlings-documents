@@ -34,7 +34,7 @@ La única excepción son los actos probados dirigidos a socavar la integridad de
 
 ### Descentralización
 
-No hay un centro de gobierno único. Las decisiones se adoptan de manera distribuida: mediante la participación de las células, la votación de los participantes y los mecanismos de procedimiento. Eso reduce los riesgos de captura del poder y hace al sistema resistente a los fallos locales.
+No hay un centro único de gobernanza. Las decisiones se adoptan de manera distribuida: mediante la participación de las células, la votación de los participantes y los mecanismos de procedimiento. Eso reduce los riesgos de captura del poder y hace al sistema resistente a los fallos locales.
 
 ### Reglas previsibles
 

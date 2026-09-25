@@ -10,7 +10,7 @@
 
 El pueblo Earthlings se constituye mediante la adopción de la Declaración. La descentralización plena es un fin, y no un punto de partida. La construimos de manera abierta, y cualquiera puede observar el proceso.
 
-El presente documento describe el período de transición: desde la fundación hasta la autonomía plena de gobierno. Fija los principios, las etapas y los mecanismos de control que aseguran la rendición de cuentas en cada paso.
+El presente documento describe el período de transición: desde la fundación hasta una gobernanza plenamente autónoma. Fija los principios, las etapas y los mecanismos de control que aseguran la rendición de cuentas en cada paso.
 
 > **Períodos que no conviene confundir.**
 >

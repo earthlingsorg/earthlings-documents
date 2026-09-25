@@ -671,7 +671,7 @@ Ninguna de estas medidas limita los derechos de los participantes en la célula 
 
 Las células pueden recibir remuneración por su trabajo tanto en Earthlings Coin como en moneda fiduciaria. Los participantes de la célula distribuyen los ingresos por sí mismos conforme a sus acuerdos.
 
-La aportación a una célula puede ser de trabajo, de conocimiento experto o de capital. El capital se computa en pie de igualdad con las demás aportaciones y recibe un retorno final justo y limitado (capped), pero nunca da voto, control sobre la célula ni renta perpetua: la gobernanza de la célula se rige siempre por el principio «una persona, un voto». El registro de gobernanza y la contabilidad económica se llevan por separado. El modelo detallado está descrito en el documento [Células de los Earthlings](https://earth-lings.org/documents/es/es08-celulas.html).
+La aportación a una célula puede ser de trabajo, de conocimiento experto o de capital. El capital se computa en pie de igualdad con las demás aportaciones y recibe un retorno final justo y limitado (capped), pero nunca da voto, control sobre la célula ni renta perpetua: la gobernanza de la célula se rige siempre por el principio «una persona, un voto». La gobernanza y la economía de la célula se contabilizan por separado. El modelo detallado está descrito en el documento [Células de los Earthlings](https://earth-lings.org/documents/es/es08-celulas.html).
 
 **Aportación obligatoria al Fondo:**
 - El 5% del beneficio de la célula se transfiere a la Tesorería de los Earthlings

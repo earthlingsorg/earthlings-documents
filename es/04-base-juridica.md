@@ -537,7 +537,7 @@ La posibilidad de alcanzar el punto final está confirmada de forma contundente:
 
 La arquitectura prevé que toda la práctica de autogobierno - las votaciones con indicación de fecha, cuestión, participación, resultado y ejecución, los movimientos de fondos de la tesorería, las adhesiones al pueblo, el trabajo de las células - quede fijada en una crónica pública inaccesible a la modificación retroactiva. La crónica empieza antes de que el pueblo se forme: su primer asiento son las propuestas al texto constitutivo, las respuestas a ellas y el resultado de la votación sobre su adopción. Ningún pueblo de la historia dispone de un registro documentado de su vida desde el primer día, porque no había con qué llevarlo.
 
-Las condiciones de legitimación están nombradas expresamente: número y distribución geográfica más allá de un círculo local; participación real y no solo firmas; calidad de los procedimientos - verificación honesta de la identidad, voto secreto con recuento verificable, protección frente a la captura de la gobernanza -; rendición de cuentas pública sobre las reglas, las finanzas, la composición y la práctica de gobierno.
+Las condiciones de legitimación están nombradas expresamente: número y distribución geográfica más allá de un círculo local; participación real y no solo firmas; calidad de los procedimientos - verificación honesta de la identidad, voto secreto con recuento verificable, protección frente a la captura de la gobernanza -; rendición de cuentas pública sobre las reglas, las finanzas, la composición y la práctica de gobernanza.
 
 Ningún indicador cuantitativo crea por sí solo una condición jurídica internacional. Para una valoración de buena fe del desarrollo cabe distinguir cuatro etapas.
 
