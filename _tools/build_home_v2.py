@@ -674,7 +674,44 @@ def home_line(ann, lang):
 
 # ------------------------------------------------------------------ страница
 
-def head(lang, url, title, desc, path, extra_css=(), ld=None):
+# Ссылки на каналы для sameAs. Сюда попадает только то, что стоит на самих
+# главных: разметка не должна обещать канал, которого на странице нет.
+# Единственная такая ссылка сегодня - Telegram (см. полосу с каналом).
+SITE_SAME_AS = ['https://t.me/earthlings_net']
+# Логотип - из manifest.json, тот же файл, что и значок приложения.
+SITE_LOGO = ORIGIN + '/images/icon-512.png'
+WEBSITE_ID = ORIGIN + '/#website'
+ORG_ID = ORIGIN + '/#organization'
+
+
+def site_ld(lang, url, title, desc):
+    u"""Разметка корня и языковых главных: WebPage, WebSite, Organization
+    одним @graph. Три узла связаны через @id: страница isPartOf сайта, сайт
+    publisher организации. Ссылка на @id, у которой нет узла, для парсера
+    тоже «валидна», поэтому совпадение @id проверяется приёмкой, а не глазами.
+
+    SearchAction нет намеренно: у сайта нет своего поиска, а SearchAction -
+    обещание строки поиска в выдаче. Объявлять то, чего нет, нельзя."""
+    return {'@context': 'https://schema.org', '@graph': [
+        {'@type': 'WebPage', 'url': url, 'name': title, 'description': desc,
+         'inLanguage': lang,
+         'isPartOf': {'@id': WEBSITE_ID},
+         'publisher': {'@id': ORG_ID}},
+        {'@type': 'WebSite', '@id': WEBSITE_ID, 'name': 'Earthlings',
+         'url': ORIGIN, 'publisher': {'@id': ORG_ID}},
+        {'@type': 'Organization', '@id': ORG_ID, 'name': 'Earthlings',
+         'url': ORIGIN,
+         'logo': {'@type': 'ImageObject', 'url': SITE_LOGO},
+         'sameAs': list(SITE_SAME_AS)}]}
+
+
+def head(lang, url, title, desc, path, extra_css=(), ld=None, site=False):
+    # site=True - страница представляет сайт целиком: корень и девять
+    # языковых главных. Только они несут разметку сайта и организации
+    # (WebSite, Organization) рядом с WebPage - тремя узлами одного @graph,
+    # связанными через @id. Страницы документов несут Article, библиотеки -
+    # CollectionPage, и им это не нужно: у них свой ld, а здесь по умолчанию
+    # всё как прежде, head() зовут все страницы.
     # path(код языка) -> адрес ЭТОЙ ЖЕ страницы на другом языке. Без него
     # hreflang на странице Обращения вёл бы на главные других языков, то есть
     # объявлял бы переводом не тот документ.
@@ -707,6 +744,8 @@ def head(lang, url, title, desc, path, extra_css=(), ld=None):
     if path is not None:
         alts += ('<link rel="alternate" hreflang="x-default" href="%s/">\n'
                  % ORIGIN)
+    if ld is None and site:
+        ld = site_ld(lang, url, title, desc)
     ld = ld or {'@context': 'https://schema.org', '@type': 'WebPage',
                 'name': title, 'description': desc, 'inLanguage': lang,
                 'url': url,
@@ -751,7 +790,7 @@ def head(lang, url, title, desc, path, extra_css=(), ld=None):
 
 
 def wrap(lang, inner, url, title, desc, path, extra_css=(), ld=None,
-         lang_url=None):
+         lang_url=None, site=False):
     href = lambda n: doc_href(n, lang)                     # noqa: E731
     have = lambda n: has_doc(n, lang)                      # noqa: E731
     # Переключатель языка в шапке и hreflang в голове - две РАЗНЫЕ вещи, и у
@@ -763,7 +802,7 @@ def wrap(lang, inner, url, title, desc, path, extra_css=(), ld=None,
     lang_url = lang_url or path
     assert lang_url, u'шапке нечего дать переключателю языка: %s' % url
     return '\n'.join([
-        head(lang, url, title, desc, path, extra_css, ld),
+        head(lang, url, title, desc, path, extra_css, ld, site=site),
         '<body>',
         C.header_html(lang, doc_href=href, lang_url=lang_url,
                       home_url='/%s/' % lang, has_doc=have),
@@ -1620,7 +1659,8 @@ def build_index(lang):
                  '<link rel="stylesheet" href="/css/langlist.css">',
                  # Единственная его работа - подсветить текущую веху шкалы.
                  # Без него шкала читается целиком, просто без подсветки.
-                 '<script defer src="/js/home.js"></script>'])
+                 '<script defer src="/js/home.js"></script>'],
+                site=True)
 
 
 def build_address(lang):
@@ -1742,7 +1782,8 @@ def build_root():
                 # Корню нужен только список языков - полос у него нет. Скрипт
                 # языка - см. ROOT_LANG_JS над функцией.
                 ['<link rel="stylesheet" href="/css/langlist.css">',
-                 '<script>%s</script>' % ROOT_LANG_JS])
+                 '<script>%s</script>' % ROOT_LANG_JS],
+                site=True)
 
 
 def check_essay_typography():
