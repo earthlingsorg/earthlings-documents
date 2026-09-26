@@ -589,16 +589,13 @@
 }
 
 /* На белой полосе карточка на тумане, при наведении белеет. На туманной
-   карточка тёмная сине-серая с белыми буквами (образец Артура 2026-09-26),
-   при наведении темнеет до navy. Название при наведении остаётся белым:
-   синий ссылки на тёмной карточке не читался бы. Стоит ДО блока is-on - у
-   правил названия одинаковый вес, и идущему туру решает порядок. */
-.band--mist .tourcard a { background: var(--slate); color: var(--ink-invert); }
+   карточка светлая стальная (выбор Артура 2026-09-26, после тёмной #293857,
+   которая выбивалась из светлой палитры): navy на ней 10.2:1, при наведении
+   белеет. Идущий тур - песком, и в стальном ряду он виден сразу. */
+.band--mist .tourcard a { background: var(--slate); }
 .band--mist .tourcard a:hover, .band--mist .tourcard a:focus-visible {
-  background: var(--navy);
+  background: var(--bg);
 }
-.band--mist .tourcard a:hover .tourcard-title,
-.band--mist .tourcard a:focus-visible .tourcard-title { color: var(--ink-invert); }
 .band--navy .tourcard a { background: var(--bg); }
 .band--navy .platform-tours-label { color: var(--ink-on-dark); }
 
