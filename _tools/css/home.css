@@ -588,11 +588,11 @@
   color: var(--link);
 }
 
-/* На белой полосе карточка на тумане, при наведении белеет; на туманной -
-   наоборот, иначе она сливалась бы с полосой. */
-.band--mist .tourcard a { background: var(--bg); }
+/* На белой полосе карточка на тумане, при наведении белеет. На туманной
+   карточка нейтрально-серая, при наведении белеет: решение Артура 2026-09-26. */
+.band--mist .tourcard a { background: var(--grey-pale); }
 .band--mist .tourcard a:hover, .band--mist .tourcard a:focus-visible {
-  background: var(--bg-alt);
+  background: var(--bg);
 }
 .band--navy .tourcard a { background: var(--bg); }
 .band--navy .platform-tours-label { color: var(--ink-on-dark); }

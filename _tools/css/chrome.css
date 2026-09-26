@@ -210,7 +210,7 @@ summary.act-link::-webkit-details-marker { display: none; }
   .dd-list li + li { margin-top: .6rem; }
   .dd-list a {
     display: block; font-family: var(--serif); font-size: 1.25rem;
-    line-height: 1.25;
+    font-weight: 600; line-height: 1.25;
   }
   .hdr-acts {
     display: flex; flex-wrap: wrap; align-items: center; gap: var(--gap-sm);
@@ -279,7 +279,7 @@ summary.act-link::-webkit-details-marker { display: none; }
   .dd-list li + li { margin-top: 3rem; }   /* epic 3.75rem при корне 13px */
   .dd-list a {
     display: block; font-family: var(--serif); font-size: var(--fs-menu);
-    font-weight: 400; line-height: 1.1;
+    font-weight: 600; line-height: 1.1;
   }
 
   .hdr-acts {
@@ -364,6 +364,19 @@ summary.act-link::-webkit-details-marker { display: none; }
   font-size: var(--fs-label); color: var(--ink-on-dark);
 }
 .ftr-legal { display: flex; flex-wrap: wrap; gap: var(--gap-md); }
+/* Правый край строки ссылок стоит там же, где кончается адрес почты в
+   последней колонке, а не на краю контейнера (решение Артура 2026-09-26).
+   Колонка подвала шириной (100% - 3 промежутка) / 4: .ftr-bottom той же
+   ширины и с теми же полями, что .ftr-in, поэтому 100% здесь - то же, что
+   там. 10.28 кегля текста - ширина `info@earth-lings.org` в Montserrat, замер
+   в Chrome: 185px при кегле 18px. Множится на --fs-body, а не на em: адрес
+   набран кеглем текста, а строка ссылок - кеглем подписи, и em здесь дал бы
+   промах в 20px. Адрес один на всех девяти языках, поэтому и число одно.
+   Сменится адрес или шрифт подвала - замерить заново. Правило только для
+   широкого экрана: там подвал гарантированно в четыре колонки. */
+@media (min-width: 78rem) {
+  .ftr-legal { margin-inline-end: calc((100% - 3 * var(--gap-lg)) / 4 - 10.28 * var(--fs-body)); }
+}
 
 /* --- ссылка «к содержанию» ------------------------------------------------
    Прячется схлопыванием в точку, а не выносом за левый край. Прежде здесь

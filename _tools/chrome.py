@@ -483,7 +483,7 @@ def header_html(lang, doc_href, lang_url, home_url=None, has_doc=None,
     # перестановка не разъезжается с тем, что видно глазом.
     a(u'<a class="brand" href="%s">'
       u'<span class="brand-name">Earthlings</span>'
-      u'<img src="/images/logo-sm.webp" alt="" width="59" height="59" '
+      u'<img src="/images/logo-sm-ink.webp" alt="" width="59" height="59" '
       u'decoding="async"></a>' % esc(home))
 
     # Бургер. На широком экране раскрыт всегда - это делает CSS, а не скрипт.
