@@ -117,6 +117,31 @@ def check_quotes():
                % (total.group(1) if total else u'?', lost))
 
 
+def check_kyc_drift():
+    u"""Копии документов внутри KYC против мастеров корпуса.
+
+    Добавлено в приёмку 2026-09-26. Прежде проверка существовала, но её никто
+    не звал: старое ТЗ и отчёты утверждали, что `preflight_all` её включает, а
+    в коде не было ни одного упоминания. Она и молчала неделями, пока копии
+    документов 01 и 29 отставали.
+
+    Копии в KYC синхронизируются ВРУЧНУЮ, поэтому правка корпуса красит эту
+    строку до тех пор, пока копию не обновят. Это не помеха, а сигнал: KYC -
+    работающая система с оплатой, и устаревший правовой текст на странице
+    регистрации виден людям.
+
+    Стоит две секунды при пятидесяти у всей приёмки.
+    """
+    name = u'копии документов в KYC против мастеров'
+    code, out = run([os.path.join('_tools', 'kyc_drift.py')])
+    m = re.search(r'разошлось: (\d+) из (\d+)', out)
+    if m is None:
+        return Row(name, False, tail(out))
+    bad, total = int(m.group(1)), int(m.group(2))
+    return Row(name, code == 0 and bad == 0,
+               u'пар %d, разошлось %d' % (total, bad))
+
+
 def check_nav():
     code, out = run([os.path.join('_tools', 'check_nav_sync.py')])
     return Row(u'меню: constants.js против chrome.py', code == 0, tail(out))
@@ -304,7 +329,7 @@ def check_launch():
 
 def main():
     fast = '--fast' in sys.argv
-    corpus = [check_verify(), check_home(), check_quotes(),
+    corpus = [check_verify(), check_home(), check_quotes(), check_kyc_drift(),
               check_layout(), check_nav(), check_audit(fast),
               check_sitemap(),
               check_site('contrast_check.py', u'контраст меню'),
