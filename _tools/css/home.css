@@ -589,11 +589,16 @@
 }
 
 /* На белой полосе карточка на тумане, при наведении белеет. На туманной
-   карточка нейтрально-серая, при наведении белеет: решение Артура 2026-09-26. */
-.band--mist .tourcard a { background: var(--grey-pale); }
+   карточка тёмная сине-серая с белыми буквами (образец Артура 2026-09-26),
+   при наведении темнеет до navy. Название при наведении остаётся белым:
+   синий ссылки на тёмной карточке не читался бы. Стоит ДО блока is-on - у
+   правил названия одинаковый вес, и идущему туру решает порядок. */
+.band--mist .tourcard a { background: var(--slate); color: var(--ink-invert); }
 .band--mist .tourcard a:hover, .band--mist .tourcard a:focus-visible {
-  background: var(--bg);
+  background: var(--navy);
 }
+.band--mist .tourcard a:hover .tourcard-title,
+.band--mist .tourcard a:focus-visible .tourcard-title { color: var(--ink-invert); }
 .band--navy .tourcard a { background: var(--bg); }
 .band--navy .platform-tours-label { color: var(--ink-on-dark); }
 

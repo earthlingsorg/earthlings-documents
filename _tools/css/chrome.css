@@ -347,12 +347,18 @@ summary.act-link::-webkit-details-marker { display: none; }
 }
 .ftr-list { list-style: none; margin: 0; padding: 0; }
 .ftr-list li { margin-bottom: .45rem; }
-/* Ссылка в подвале отличается от текста подчёркиванием, а не оттенком:
-   синий epic на тёмном даёт 4.02:1 и обычному тексту не годится. */
+/* Ссылки в подвале без подчёркивания - решение Артура 2026-09-26. Отличать
+   их от текста нечем и незачем: в подвале, кроме заголовков колонок и строки
+   прав, ссылками набрано всё. Подчёркивание появляется при наведении и
+   фокусе - это отклик, а не разметка. Оттенком ссылку не выделить: синий
+   epic на тёмном даёт 4.02:1 и обычному тексту не годится. */
 .ftr-list a, .ftr-bottom a, .ftr-copy a {
-  color: var(--link-on-dark); text-decoration: underline; text-underline-offset: .15em;
+  color: var(--link-on-dark); text-decoration: none; text-underline-offset: .15em;
 }
-.ftr-list a:hover, .ftr-bottom a:hover, .ftr-copy a:hover { text-decoration-thickness: 2px; }
+.ftr-list a:hover, .ftr-bottom a:hover, .ftr-copy a:hover,
+.ftr-list a:focus-visible, .ftr-bottom a:focus-visible, .ftr-copy a:focus-visible {
+  text-decoration: underline;
+}
 /* Нижняя строка: права слева, «О нас» и юридическая информация справа.
    space-between разводит две группы по краям; на узком экране flex-wrap
    переносит правую под левую, и тогда она встаёт по левому краю сама. */
