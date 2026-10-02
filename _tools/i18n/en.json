@@ -1,0 +1,272 @@
+{
+    "page": {
+        "title": "Earthlings - a new people"
+    },
+    "header": {
+        "slogan": "Everyone wants to save the world, they just can't agree on how"
+    },
+    "nav": {
+        "founding_period": "The Founding Period",
+        "whats_next": "What May Happen Next",
+        "awakened_code": "Awakened Code",
+        "declaration": "Declaration",
+        "civic_voice": "Civic Voice",
+        "legal_base": "Legal Framework",
+        "structure": "How it works",
+        "participation": "Participation",
+        "development": "Progress",
+        "where_we_are_doc": "Where we are now",
+        "code": "Awakened Code",
+        "become_earthling": "Join",
+        "platform_btn": "Platform",
+        "ethics": "Earthlings Ethics",
+        "legal_basis": "Legal Basis",
+        "protocol": "Charter",
+        "dao": "DAO",
+        "honeycombs": "Cells",
+        "fund": "Fund",
+        "earthlings_coin": "Earthlings Coin",
+        "council": "Independent Council",
+        "platform": "Digital Platform",
+        "roadmap": "Roadmap",
+        "working_agenda": "Working agenda",
+        "faq_legal": "Legal Questions and Answers",
+        "legal_gap": "How a Subject of Law Comes into Being",
+        "legal_info": "Legal Information",
+        "faq_general": "FAQ",
+        "path": "Path of an Earthling",
+        "sbt_passport": "SBT Passport",
+        "biometry": "Biometric Verification",
+        "home": "Home",
+        "contact_us": "Contact Us",
+        "support_text": "Support",
+        "about_us": "About Us"
+    },
+    "hero": {
+        "title": "Earthlings",
+        "subtitle": "How to launch a new civilization model to solve global crises and create a sustainable future",
+        "sign": "Sign the declaration"
+    },
+    "crisis": {
+        "title": "Crisis of Modern Civilization"
+    },
+    "stats": {
+        "temperature": "Temperature rise",
+        "hunger": "Starving",
+        "military": "Military spending",
+        "species": "Species extinction"
+    },
+    "solution": {
+        "title": "Our solution"
+    },
+    "concept": {
+        "global": {
+            "title": "Global thinking",
+            "desc": "Uniting humanity to solve common challenges"
+        },
+        "cooperation": {
+            "title": "Cooperation",
+            "desc": "Culture of trust and mutual support"
+        },
+        "innovation": {
+            "title": "Innovation",
+            "desc": "Breakthrough technologies for sustainable development"
+        },
+        "justice": {
+            "title": "Justice",
+            "desc": "Equal opportunities for all inhabitants of the planet"
+        }
+    },
+    "timeline": {
+        "title": "Development stages",
+        "foundation": {
+            "title": "Foundation (2025-2026)",
+            "desc": "Creating basic structure, attracting first participants, developing digital platform"
+        },
+        "growth": {
+            "title": "Growth (2026-2028)",
+            "desc": "Scaling community, launching first projects, international recognition"
+        },
+        "impact": {
+            "title": "Impact (2028-2030)",
+            "desc": "Global impact on solving world problems, forming new civilization model"
+        }
+    },
+    "action": {
+        "title": "Participation levels",
+        "observer": {
+            "title": "Observer",
+            "desc": "Get acquainted with project documents and ideas",
+            "time": "5 minutes"
+        },
+        "supporter": {
+            "title": "Supporter",
+            "desc": "Sign the declaration and join the community",
+            "time": "15 minutes"
+        },
+        "participant": {
+            "title": "Participant",
+            "desc": "Actively participate in projects and movement development",
+            "time": "Ongoing"
+        }
+    },
+    "modal": {
+        "declaration": {
+            "title": "Sign the declaration"
+        },
+        "success": {
+            "title": "Thank you!",
+            "message": "Your signature has been accepted. Welcome to the Earthlings people!",
+            "continue": "Continue"
+        }
+    },
+    "form": {
+        "pseudonym": "Pseudonym (your choice)",
+        "email": "Email",
+        "country": "Country",
+        "country_placeholder": "Select country",
+        "age": "Age",
+        "age_16": "I am 16 years old or older",
+        "candidate_status": "I understand that after signing the Declaration I will receive candidate status and will be able to become an Earthling after biometric verification",
+        "support_awareness": "I understand that to receive an SBT passport, I can voluntarily support the independent project with a contribution of $79",
+        "agree_documents_label": "Agreement with documents",
+        "agree_documents": "I have read and familiarized myself with",
+        "biometric_policy_link": "Biometric Verification Policy",
+        "declaration_link": "Earthlings Declaration",
+        "charter_link": "Charter",
+        "ethics_link": "Ethical Principles",
+        "passport_info_link": "About SBT Earthling Passport",
+        "funding_info_link": "Project Funding Information",
+        "project_name": "Earthlings",
+        "data_processing": "Personal data processing",
+        "data_agree": "I agree to personal data processing",
+        "newsletter": "Information newsletters",
+        "newsletter_agree": "I agree to receive information newsletters",
+        "newsletter_decline": "I don't want to receive newsletters",
+        "submit": "Sign declaration",
+        "send": "Send",
+        "informativeness": "Website informativeness",
+        "user_age": "Your age",
+        "experience": "Experience in public projects",
+        "comments": "Comments and suggestions",
+        "excellent": "Excellent",
+        "good": "Good",
+        "average": "Average",
+        "poor": "Poor",
+        "extensive": "Extensive",
+        "some": "Some",
+        "none": "None"
+    },
+    "country": {
+        "russia": "Russia",
+        "kazakhstan": "Kazakhstan",
+        "ukraine": "Ukraine",
+        "belarus": "Belarus",
+        "moldova": "Moldova",
+        "romania": "Romania",
+        "france": "France",
+        "uk": "United Kingdom",
+        "portugal": "Portugal",
+        "argentina": "Argentina",
+        "canada": "Canada",
+        "usa": "USA",
+        "germany": "Germany",
+        "other": "Other"
+    },
+    "footer": {
+        "documents": "Documents",
+        "policies": "Policies",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Use",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "email": "info@earthlings.global",
+        "version": "Version",
+        "copyright": "© 2025 Earthlings. All rights reserved."
+    },
+    "validation": {
+        "required": "This field is required",
+        "email": "Please enter a valid email address",
+        "minLength": "Minimum length: {{count}} characters",
+        "maxLength": "Maximum length: {{count}} characters",
+        "pattern": "Invalid data format"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "close": "Close",
+        "save": "Save",
+        "edit": "Edit",
+        "delete": "Delete",
+        "yes": "Yes",
+        "no": "No",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "finish": "Finish"
+    },
+    "dialog": {
+        "declaration": {
+            "title": "Sign the declaration",
+            "success": {
+                "title": "Thank You!",
+                "message": "You have successfully signed the Earthlings Declaration. You are now a candidate for joining the Earthlings people. A confirmation email has been sent to your email address.",
+                "support_message": "To receive an SBT Earthling passport, you can voluntarily support the project with a contribution of $79, which covers the costs of biometric verification and development of technical infrastructure. The project is developed exclusively through voluntary support from participants without external funding.",
+                "pay_button": "Support Project ($79)",
+                "close": "Close",
+                "ariaClose": "Close",
+                "autoCloseText": "Window will close automatically in"
+            }
+        },
+        "payment": {
+            "title": "Support Earthlings",
+            "subtitle": "Voluntary project development support",
+            "amount_label": "Support amount",
+            "amount_description": "Covers biometric verification costs and infrastructure development",
+            "email_label": "Email for confirmation",
+            "payment_method": "Payment method",
+            "card": "Credit card",
+            "crypto": "Cryptocurrency",
+            "paypal": "PayPal",
+            "project_info": "The project is developed exclusively through voluntary support from participants without external funding",
+            "pay_button": "Support project",
+            "cancel": "Cancel",
+            "processing": "Processing payment...",
+            "success_title": "Thank you for your support!",
+            "success_message": "Your support has been accepted. Biometric verification instructions have been sent to your email.",
+            "error_title": "Payment error",
+            "error_message": "Unable to process payment. Please try again or choose another payment method."
+        }
+    },
+    "stb": {
+        "passport": {
+            "title": "SBT Earthling Passport",
+            "subtitle": "Unified digital certificate of belonging to the Earthlings people",
+            "price": "$79",
+            "price_description": "Voluntary project support includes biometric verification and SBT passport issuance",
+            "features": {
+                "identity": "Identity verification",
+                "governance": "Governance participation",
+                "community": "Community access",
+                "reputation": "Reputation system",
+                "security": "Security and recovery",
+                "integration": "Technical integration"
+            },
+            "process": {
+                "title": "SBT passport acquisition process",
+                "step1": "Signing the Earthlings Declaration",
+                "step2": "Voluntary project support ($79)",
+                "step3": "Biometric verification",
+                "step4": "Receiving SBT passport"
+            },
+            "funding": {
+                "title": "Voluntary project support",
+                "description": "Earthlings is developed exclusively with funds from like-minded individuals. We do not receive funding from corporations or investors and have no financial obligations to third parties.",
+                "note": "The SBT Earthling passport is available for voluntary project support, which covers biometric verification costs and technical infrastructure development."
+            }
+        }
+    }
+}

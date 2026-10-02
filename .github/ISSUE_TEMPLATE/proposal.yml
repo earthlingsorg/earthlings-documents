@@ -1,0 +1,103 @@
+name: Proposal to a document
+description: Propose a change to any document of the corpus. No account with us, no identity check, no payment required.
+title: "[proposal] "
+labels: ["proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        You do not need to agree with anything we say to propose a change.
+        Anonymous proposals are considered like any other. If you would rather
+        not use a GitHub account, send your proposal to team@earth-lings.org
+        instead; it is filed here and answered in the same way.
+
+        Every proposal gets a public answer, including the ones we reject - with the reason stated. Answers are published within thirty days of receipt; a proposal received in the last thirty days of the submission period is answered no later than 3 February 2027, the day the record is published.
+
+  - type: dropdown
+    id: document
+    attributes:
+      label: Which document
+      description: If you are not sure, pick "not sure" and describe it below.
+      options:
+        - "01 - The Earthlings Declaration"
+        - "02 - Civic Voice"
+        - "03 - Earthlings Ethics"
+        - "04 - Legal Basis"
+        - "05 - Earthlings Charter"
+        - "07 - The Earthlings DAO"
+        - "08 - Earthlings Cells"
+        - "09 - The Earthlings Treasury"
+        - "10 - Earthlings Coin"
+        - "11 - The Earthlings Independent Council"
+        - "12 - The Earthlings Digital Platform"
+        - "14 - The Earthling Path"
+        - "15 - The earthling SBT passport"
+        - "16 - Earthlings Biometric Verification Policy"
+        - "19 - Roadmap of the Transitional Period"
+        - "20 - The Founding Period"
+        - "22 - Legal Information"
+        - "23 - About Us"
+        - "26 - Objections and Answers"
+        - "27 - Frequently Asked Questions"
+        - "28 - Privacy Policy of the Earthlings People"
+        - "29 - Terms of Use of the Earthlings People"
+        - "30 - How a Subject of Law Arises"
+        - "31 - Working Agenda"
+        - "32 - Where We Are Now"
+        - "not sure - described below"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of proposal
+      description: >
+        On the merits - it changes meaning; it goes into the Russian master,
+        then English, then the rest. On translation - a translation renders the
+        meaning inaccurately; it corrects that language alone.
+      options:
+        - "On the merits"
+        - "On translation"
+        - "Not sure"
+    validations:
+      required: true
+
+  - type: input
+    id: language
+    attributes:
+      label: Language of the text you are reading
+      description: en, ru, de, es, fr, zh, ar, hi or ka.
+      placeholder: en
+    validations:
+      required: true
+
+  - type: textarea
+    id: where
+    attributes:
+      label: Where in the document
+      description: Article, section or the sentence itself. Approximate is fine.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What you propose, and why
+      description: >
+        Write in whichever of the nine languages you prefer. You do not need to
+        translate your own proposal. The answer will be published in English and
+        in the language you wrote in.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **Two things are not open.** Proposals to abolish or narrow the
+        principles of the unamendable core - Part I of the Declaration, whose
+        five principal principles are listed in article 11 - are not
+        considered; proposals to refine their wording, or to add to Part I,
+        are. And An Address to Everyone is not part of the corpus.
+
+        Everything else is open in full, including the Declaration.
