@@ -36,7 +36,7 @@ Das Volk der Earthlings ist an kein Gebiet gebunden und beansprucht niemandes La
 
 ## Wie wir Einfluss nehmen werden
 
-In den Dokumenten schreiben wir, dass Earthlings keine Politik betreibt, und das stimmt. Wir kämpfen nicht um die Macht, stellen keine Kandidaten auf, gründen keine Parteien und beanspruchen keinen einzigen Sitz in irgendeiner Regierung. Wir wollen die Staaten nicht ersetzen und rufen zu keinem Umsturz auf. Aber schweigen werden wir nicht.
+In den Dokumenten schreiben wir, dass Earthlings keine Politik betreibt, und das stimmt. Wir kämpfen nicht um die Macht, stellen keine Kandidaten auf, gründen keine Parteien und beanspruchen keinen einzigen Sitz in irgendeiner Regierung. Wir wollen die Staaten nicht ersetzen und rufen zu keinem Umsturz auf.
 
 Wir schaffen ein Volk, um in die internationale und staatliche Agenda eine legitime und einflussreiche Bürgerstimme einzubringen, die es dort heute nicht gibt. Indem wir das Volk konstituieren, legen wir den Grund für eine neue Institution: eine unmittelbare grenzüberschreitende Stimme der Menschen, hinter der ein geprüfter lebender Mensch steht und deren Ergebnis jeder nachzählen kann. International wird diese Institution dann, wenn man mit ihr zu rechnen beginnt.
 

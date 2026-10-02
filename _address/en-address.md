@@ -36,7 +36,7 @@ The Earthlings people is not tied to a territory and lays claim to no one's land
 
 ## How we will exert influence
 
-In our documents we write that Earthlings does not engage in politics, and that is true. We do not fight for power, do not nominate candidates, do not create parties, and do not claim a single seat in any government. We do not want to replace states and do not call for any coup. But we have no intention of keeping silent.
+In our documents we write that Earthlings does not engage in politics, and that is true. We do not fight for power, do not nominate candidates, do not create parties, and do not claim a single seat in any government. We do not want to replace states and do not call for any coup.
 
 We are creating a people in order to bring into the international and national agenda a legitimate and influential civic voice that is absent from it today. By founding a people, we are laying down a new institution: a direct transnational voice of people, with a verified living person behind it and a result that anyone can recount. This institution will become international when it begins to be reckoned with.
 

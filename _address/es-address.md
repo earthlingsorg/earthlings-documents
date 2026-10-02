@@ -36,7 +36,7 @@ El pueblo Earthlings no está ligado a un territorio y no reclama la tierra de n
 
 ## Cómo vamos a influir
 
-En los documentos escribimos que Earthlings no se dedica a la política, y es verdad. No luchamos por el poder, no presentamos candidatos, no creamos partidos y no aspiramos a ningún sillón en ningún gobierno. No queremos sustituir a los Estados ni llamamos a ningún golpe de Estado. Pero no tenemos intención de callar.
+En los documentos escribimos que Earthlings no se dedica a la política, y es verdad. No luchamos por el poder, no presentamos candidatos, no creamos partidos y no aspiramos a ningún sillón en ningún gobierno. No queremos sustituir a los Estados ni llamamos a ningún golpe de Estado.
 
 Creamos un pueblo para incorporar a la agenda internacional y estatal una voz ciudadana legítima e influyente que hoy no está en ella. Al constituir un pueblo, ponemos los cimientos de una nueva institución: una voz directa y transfronteriza de las personas, detrás de la cual hay una persona viva verificada y cuyo recuento puede rehacer cualquiera. Esta institución llegará a ser internacional cuando se empiece a contar con ella.
 

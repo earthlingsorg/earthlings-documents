@@ -36,7 +36,7 @@ Le peuple des Earthlings n'est pas lié à un territoire et ne revendique la ter
 
 ## Comment nous allons peser
 
-Dans nos documents, nous écrivons qu'Earthlings ne fait pas de politique, et c'est vrai. Nous ne luttons pas pour le pouvoir, ne présentons pas de candidats, ne créons pas de partis et ne briguons aucun siège dans aucun gouvernement. Nous ne voulons pas remplacer les États et n'appelons à aucun renversement. Mais nous n'avons pas l'intention de nous taire.
+Dans nos documents, nous écrivons qu'Earthlings ne fait pas de politique, et c'est vrai. Nous ne luttons pas pour le pouvoir, ne présentons pas de candidats, ne créons pas de partis et ne briguons aucun siège dans aucun gouvernement. Nous ne voulons pas remplacer les États et n'appelons à aucun renversement.
 
 Nous créons un peuple pour inscrire à l'ordre du jour international et à celui des États une voix citoyenne légitime et influente, qui en est aujourd'hui absente. En constituant un peuple, nous posons les bases d'une institution nouvelle: une voix directe et transfrontalière des gens, derrière laquelle se tient une personne vivante vérifiée et dont chacun peut recompter le résultat. Cette institution deviendra internationale lorsqu'on commencera à compter avec elle.
 
