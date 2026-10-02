@@ -10,9 +10,6 @@
 Kriege zwischen Ländern dauern an, und keine einzige internationale Organisation kann sie beenden. Die Institutionen, die die Lage in der Welt in Ordnung bringen sollen, werden ihren Aufgaben nicht mehr in vollem Umfang gerecht. Alle wichtigen Entscheidungen treffen die Regierungen, und Menschen aus verschiedenen Ländern können keine gemeinsame Meinung äußern, um die verschiedensten Probleme zu lösen.
 
 Deshalb konstituieren wir das freiwillige und grenzüberschreitende Volk der Earthlings. Das ist eine neue Institution: eine unmittelbare Stimme der Menschen über die Grenzen hinweg. Hinter jeder Stimme darin steht ein geprüfter lebender Mensch, und das Ergebnis jeder Abstimmung kann jeder nachzählen. International wird diese Institution dann, wenn man sie hört, und das hängt von uns ab.
-
-Wir kämpfen nicht um die Macht und wollen die Staaten nicht ersetzen. Aber schweigen werden wir auch nicht.
-
 ## Декларация
 
 Mit der Erklärung konstituieren sich Menschen als Volk: als Gemeinschaft derer, die sich selbst füreinander entschieden haben und diese Zugehörigkeit gegenseitig anerkennen.
