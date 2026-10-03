@@ -216,7 +216,7 @@ La buena fe exige reunirlo en un solo lugar y no disolverlo entre las respuestas
 
 **El núcleo intangible no tiene protección judicial.** Hay verificabilidad y derecho a ramificarse; coacción no hay.
 
-**La entrada depende de un documento acreditativo de la identidad.** Una persona apátrida y sin documentos hoy no puede entrar. Esto contradice la lógica del resto de la construcción y sigue siendo una cuestión abierta.
+**La entrada depende de un documento acreditativo de la identidad.** Una persona sin documentos hoy no puede entrar. Esto contradice el artículo 8 de la Declaración y sigue siendo una cuestión abierta.
 
 **El texto constitutivo no está adoptado.** Hasta la adopción del texto no hay ni un solo earthling, no hay práctica y nadie puede hablar en nombre del pueblo.
 

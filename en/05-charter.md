@@ -53,7 +53,7 @@ The DAO Assembly is the sole organ of governance of the Earthlings people. It co
 **Simple majority - 51%, quorum 20%**
 - Operational decisions
 - Project funding up to and including 10,000 EC
-- Election and recall of Core Nodes and the Emergency Multisig
+- Election and recall of Core Nodes, the Emergency Multisig and the signatories of the treasury multisignature
 - Grant and revocation of the protective legal mandate (Article 33)
 - Procedural questions
 
@@ -200,7 +200,7 @@ No remuneration for holding a seat on the Council is paid beyond such compensati
 
 ## Article 5. Types of Vote
 
-**Simple majority - 51%, quorum 20%.** Routine operational decisions, project funding up to and including 10,000 EC, election and recall of Core Nodes and the Emergency Multisig, grant and revocation of the protective legal mandate, annulment of actions of the Emergency Multisig, early lifting of restrictions, appeals.
+**Simple majority - 51%, quorum 20%.** Routine operational decisions, project funding up to and including 10,000 EC, election and recall of Core Nodes, the Emergency Multisig and the signatories of the treasury multisignature, grant and revocation of the protective legal mandate, annulment of actions of the Emergency Multisig, early lifting of restrictions, appeals.
 
 **Significant majority - 67%, quorum 20%.** Project funding above 10,000 and up to and including 100,000 EC, measures under Article 22: a warning and measures addressed to common resources.
 
@@ -325,7 +325,7 @@ The threshold at which the draw yields a cross-section, and the order of the pan
 
 ## Article 9. The Earthlings Treasury
 
-The Earthlings Treasury is managed through smart contracts. All operations are transparent and recorded on-chain. The allocation of funds is approved by a vote of the DAO.
+The Earthlings Treasury is managed through smart contracts. All operations are transparent and recorded on-chain. The allocation of funds is approved by a vote of the DAO. The signatories of the treasury multisignature are elected, and may be recalled at any time, by the DAO Assembly by a simple majority (51%, quorum 20%), in the same way as Core Nodes and the Emergency Multisig; the rules of Article 3 apply to the composition of the treasury multisignature. The signatories execute decisions of the Assembly on the allocation of funds and have no powers of their own.
 
 **Sources of funds:**
 - Contributions on joining (the procedure and purpose are set out in the document [Earthlings Treasury](https://earth-lings.org/documents/en/en09-treasury.html))
@@ -879,7 +879,7 @@ This table brings the voting thresholds and the procedures into systematic form.
 ## Decisions of the DAO Assembly
 
 **Routine questions - 51%, quorum 20%**
-Approval of Cell projects, allocation of grants up to and including 10,000 EC, election **and recall** of Core Nodes and the Emergency Multisig, grant and revocation of the protective legal mandate, annulment of actions of the Emergency Multisig, early lifting of restrictions, appeals, procedural questions.
+Approval of Cell projects, allocation of grants up to and including 10,000 EC, election **and recall** of Core Nodes, the Emergency Multisig and the signatories of the treasury multisignature, grant and revocation of the protective legal mandate, annulment of actions of the Emergency Multisig, early lifting of restrictions, appeals, procedural questions.
 Timing: 14 days of discussion + 7 days of voting.
 
 **Significant questions - 67%, quorum 20%**

@@ -27,6 +27,17 @@ def inline(s):
         return '\x00%d\x00' % (len(code) - 1)
 
     s = re.sub(r'`([^`\n]+)`', stash, s)
+    # Автоссылку <https://...> прячем тем же приёмом и тоже до экранирования:
+    # иначе скобки становятся &lt; &gt;, и читатель видит адрес текстом, а не
+    # ссылку. Автоссылка - только http и https внутри скобок; любые другие
+    # угловые скобки экранируются, как раньше.
+    links = []
+
+    def stash_link(m):
+        links.append(m.group(1))
+        return '\x01%d\x01' % (len(links) - 1)
+
+    s = re.sub(r'<(https?://[^\s<>]+)>', stash_link, s)
     s = html.escape(s, quote=False)
     s = re.sub(r'\[([^\]]+)\]\(([^)\s]+)\)', r'<a href="\2">\1</a>', s)
     s = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', s)
@@ -37,6 +48,9 @@ def inline(s):
     s = re.sub(r'\\([!-/:-@\[-`{-~])', r'\1', s)
     s = re.sub(r'\x00(\d+)\x00',
                lambda m: '<code>%s</code>' % html.escape(code[int(m.group(1))], quote=False), s)
+    s = re.sub(r'\x01(\d+)\x01',
+               lambda m: '<a href="%s">%s</a>' % (html.escape(links[int(m.group(1))]),
+                                                  html.escape(links[int(m.group(1))], quote=False)), s)
     return s.strip()
 
 

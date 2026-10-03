@@ -53,7 +53,7 @@ L'Assemblée DAO est le seul organe de gouvernance du peuple des Earthlings. Ell
 **Majorité simple - 51%, quorum 20%**
 - Décisions opérationnelles
 - Financement de projets jusqu'à 10 000 EC inclus
-- Élection et révocation des Core Nodes et de l'Emergency Multisig
+- Élection et révocation des Core Nodes, de l'Emergency Multisig et des signataires de la multisig du trésor
 - Octroi et révocation de la mission juridique de défense (article 33)
 - Questions de procédure
 
@@ -200,7 +200,7 @@ Aucune rémunération pour l'occupation d'un siège au Conseil n'est versée au-
 
 ## Article 5. Les types de votes
 
-**Majorité simple - 51%, quorum 20%.** Décisions opérationnelles courantes, financement de projets jusqu'à 10 000 EC inclus, élection et révocation des Core Nodes et de l'Emergency Multisig, octroi et révocation de la mission juridique de défense, annulation des actes de l'Emergency Multisig, levée anticipée de restrictions, recours.
+**Majorité simple - 51%, quorum 20%.** Décisions opérationnelles courantes, financement de projets jusqu'à 10 000 EC inclus, élection et révocation des Core Nodes, de l'Emergency Multisig et des signataires de la multisig du trésor, octroi et révocation de la mission juridique de défense, annulation des actes de l'Emergency Multisig, levée anticipée de restrictions, recours.
 
 **Majorité notable - 67%, quorum 20%.** Financement de projets supérieur à 10 000 et jusqu'à 100 000 EC inclus, mesures au titre de l'article 22: l'avertissement et les mesures visant les ressources communes.
 
@@ -325,7 +325,7 @@ Le seuil à partir duquel le tirage donne une image représentative, et pour le 
 
 ## Article 9. La Trésorerie des Earthlings
 
-La Trésorerie des Earthlings est gérée par contrats intelligents. Toutes les opérations sont transparentes et inscrites on-chain. La répartition des fonds est approuvée par un vote de la DAO.
+La Trésorerie des Earthlings est gérée par contrats intelligents. Toutes les opérations sont transparentes et inscrites on-chain. La répartition des fonds est approuvée par un vote de la DAO. Les signataires de la multisig du trésor sont élus, et révocables à tout moment, par l'Assemblée DAO à la majorité simple (51%, quorum 20%), selon la même procédure que les Core Nodes et l'Emergency Multisig; les règles de l'article 3 s'appliquent à la composition de la multisig du trésor. Les signataires exécutent les décisions de l'Assemblée sur la répartition des fonds et n'ont pas de pouvoirs propres.
 
 **Sources de fonds:**
 - Cotisations d'entrée (procédure et affectation - dans le document [Trésorerie des Earthlings](https://earth-lings.org/documents/fr/fr09-tresorerie.html))
@@ -879,7 +879,7 @@ Le présent tableau systématise les seuils de vote et les procédures. En cas d
 ## Décisions de l'Assemblée DAO
 
 **Questions courantes - 51%, quorum 20%**
-Approbation des projets de cellules, attribution de subventions jusqu'à 10 000 EC inclus, élection **et révocation** des Core Nodes et de l'Emergency Multisig, octroi et révocation de la mission juridique de défense, annulation des actes de l'Emergency Multisig, levée anticipée de restrictions, recours, questions de procédure.
+Approbation des projets de cellules, attribution de subventions jusqu'à 10 000 EC inclus, élection **et révocation** des Core Nodes, de l'Emergency Multisig et des signataires de la multisig du trésor, octroi et révocation de la mission juridique de défense, annulation des actes de l'Emergency Multisig, levée anticipée de restrictions, recours, questions de procédure.
 Délais: 14 jours de débat + 7 jours de vote.
 
 **Questions notables - 67%, quorum 20%**

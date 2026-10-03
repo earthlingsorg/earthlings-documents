@@ -81,7 +81,7 @@ Les tarifs et les montants de rémunération concrets sont fixés par des décis
 
 **Axes de répartition:** développement de l'infrastructure et sécurité; fonds des cellules et des initiatives; rémunération des participants pour leur apport; programmes avec des universités et des organisations sans but lucratif et de recherche.
 
-**Les paramètres chiffrés** - volume d'émission, parts, échéances de déblocage - ne sont pas déterminés à ce jour. Ils sont adoptés par l'Assemblée DAO et publiés avant le début des répartitions. Jusque-là, tout chiffre avancé au nom du projet ou par qui que ce soit d'autre n'est pas fiable.
+**Les paramètres chiffrés** - volume d'émission, parts des axes de répartition et échéances de leur déblocage - ne sont pas déterminés à ce jour. Ils sont adoptés par l'Assemblée DAO et publiés avant le début des répartitions. Jusque-là, tout chiffre avancé au nom du projet ou par qui que ce soit d'autre n'est pas fiable.
 
 ---
 

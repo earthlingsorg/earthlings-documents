@@ -53,7 +53,7 @@ Die DAO-Vollversammlung ist das einzige Organ zur Verwaltung des Volkes der Eart
 **Einfache Mehrheit - 51 %, Quorum 20 %**
 - Betriebliche Beschlüsse
 - Finanzierung von Projekten bis einschließlich 10 000 EC
-- Wahl und Widerruf von Core Nodes und Emergency Multisig
+- Wahl und Widerruf von Core Nodes, Emergency Multisig und Unterzeichnern der Multisig der Kasse
 - Erteilung und Widerruf des rechtlichen Schutzauftrags (Artikel 33)
 - Verfahrensfragen
 
@@ -200,7 +200,7 @@ Eine Vergütung für die Einnahme eines Platzes im Rat über einen solchen Ausgl
 
 ## Artikel 5. Arten der Abstimmung
 
-**Einfache Mehrheit - 51 %, Quorum 20 %.** Laufende betriebliche Beschlüsse, Finanzierung von Projekten bis einschließlich 10 000 EC, Wahl und Widerruf von Core Nodes und Emergency Multisig, Erteilung und Widerruf des rechtlichen Schutzauftrags, Aufhebung von Handlungen des Emergency Multisig, vorzeitige Aufhebung von Beschränkungen, Beschwerden.
+**Einfache Mehrheit - 51 %, Quorum 20 %.** Laufende betriebliche Beschlüsse, Finanzierung von Projekten bis einschließlich 10 000 EC, Wahl und Widerruf von Core Nodes, Emergency Multisig und Unterzeichnern der Multisig der Kasse, Erteilung und Widerruf des rechtlichen Schutzauftrags, Aufhebung von Handlungen des Emergency Multisig, vorzeitige Aufhebung von Beschränkungen, Beschwerden.
 
 **Erhebliche Mehrheit - 67 %, Quorum 20 %.** Finanzierung von Projekten über 10 000 bis einschließlich 100 000 EC, Maßnahmen nach Artikel 22: die Verwarnung und Maßnahmen gegenüber gemeinsamen Mitteln.
 
@@ -325,7 +325,7 @@ Die Schwelle, von der an das Los einen Querschnitt ergibt, und im Übrigen das V
 
 ## Artikel 9. Die Schatzkammer der Earthlings
 
-Die Schatzkammer der Earthlings wird über Smart Contracts verwaltet. Alle Vorgänge sind durchsichtig und on-chain aufgezeichnet. Die Verteilung der Mittel wird durch Abstimmung der DAO gebilligt.
+Die Schatzkammer der Earthlings wird über Smart Contracts verwaltet. Alle Vorgänge sind durchsichtig und on-chain aufgezeichnet. Die Verteilung der Mittel wird durch Abstimmung der DAO gebilligt. Die Unterzeichner der Multisig der Kasse wählt die DAO-Vollversammlung mit einfacher Mehrheit (51 %, Quorum 20 %) und kann sie jederzeit widerrufen, im selben Verfahren wie Core Nodes und Emergency Multisig; auf die Zusammensetzung der Multisig der Kasse werden die Regeln des Artikels 3 angewandt. Die Unterzeichner führen die Beschlüsse der Vollversammlung über die Verteilung der Mittel aus und haben keine eigenen Befugnisse.
 
 **Quellen der Mittel:**
 - Beiträge beim Beitritt (Verfahren und Zweck - im Dokument [Die Schatzkammer der Earthlings](https://earth-lings.org/documents/de/de09-schatzkammer.html))
@@ -879,7 +879,7 @@ Diese Tabelle ordnet die Abstimmungsschwellen und die Verfahren. Bei einem Wider
 ## Beschlüsse der DAO-Vollversammlung
 
 **Laufende Fragen - 51 %, Quorum 20 %**
-Billigung von Projekten der Zellen, Verteilung von Zuwendungen bis einschließlich 10 000 EC, Wahl **und Widerruf** von Core Nodes und Emergency Multisig, Erteilung und Widerruf des rechtlichen Schutzauftrags, Aufhebung von Handlungen des Emergency Multisig, vorzeitige Aufhebung von Beschränkungen, Beschwerden, Verfahrensfragen.
+Billigung von Projekten der Zellen, Verteilung von Zuwendungen bis einschließlich 10 000 EC, Wahl **und Widerruf** von Core Nodes, Emergency Multisig und Unterzeichnern der Multisig der Kasse, Erteilung und Widerruf des rechtlichen Schutzauftrags, Aufhebung von Handlungen des Emergency Multisig, vorzeitige Aufhebung von Beschränkungen, Beschwerden, Verfahrensfragen.
 Fristen: 14 Tage Beratung + 7 Tage Abstimmung.
 
 **Erhebliche Fragen - 67 %, Quorum 20 %**

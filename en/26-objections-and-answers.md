@@ -216,7 +216,7 @@ Good faith requires that this be brought together in one place rather than dilut
 
 **The unamendable core has no judicial protection.** There is verifiability and a right to branch; there is no enforcement.
 
-**Entry depends on an identity document.** A person without citizenship and without documents cannot enter today. This contradicts the logic of the rest of the scheme and remains an open question.
+**Entry depends on an identity document.** A person without documents cannot enter today. This contradicts Article 8 of the Declaration and remains an open question.
 
 **The founding text has not been adopted.** Until the text is adopted there is not a single earthling, there is no practice, and no one can speak on behalf of the people.
 

@@ -216,7 +216,7 @@ La bonne foi exige de réunir cela en un seul endroit plutôt que de le diluer d
 
 **Le noyau intangible n'a pas de protection juridictionnelle.** Il y a la vérifiabilité et le droit de bifurquer; il n'y a pas de contrainte.
 
-**L'entrée dépend d'un document d'identité.** Un apatride sans documents ne peut pas entrer aujourd'hui. Cela contredit la logique du reste de la construction et demeure une question ouverte.
+**L'entrée dépend d'un document d'identité.** Une personne sans documents ne peut pas entrer aujourd'hui. Cela contredit l'article 8 de la Déclaration et demeure une question ouverte.
 
 **Le texte constitutif n'est pas adopté.** Avant l'adoption du texte, il n'y a pas un seul earthling, il n'y a pas de pratique, et nul ne peut parler au nom du peuple.
 

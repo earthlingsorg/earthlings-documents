@@ -81,7 +81,7 @@ Die konkreten Tarife und die Höhe der Vergütungen legen Beschlüsse der DAO fe
 
 **Richtungen der Verteilung:** Entwicklung der Infrastruktur und Sicherheit; Fonds der Zellen und der Anregungen; Vergütungen an Teilnehmer für Beiträge; Programme mit Universitäten, gemeinnützigen und forschenden Organisationen.
 
-**Zahlenwerte** - Umfang der Ausgabe, Anteile, Fristen der Freigabe - sind heute nicht bestimmt. Sie werden von der DAO-Vollversammlung bestätigt und vor dem Beginn der Verteilungen veröffentlicht. Bis zu diesem Zeitpunkt sind alle Zahlen, die im Namen des Vorhabens oder von irgendjemand anderem genannt werden, unzutreffend.
+**Zahlenwerte** - Umfang der Ausgabe, Anteile der Richtungen der Verteilung und Fristen ihrer Freigabe - sind heute nicht bestimmt. Sie werden von der DAO-Vollversammlung bestätigt und vor dem Beginn der Verteilungen veröffentlicht. Bis zu diesem Zeitpunkt sind alle Zahlen, die im Namen des Vorhabens oder von irgendjemand anderem genannt werden, unzutreffend.
 
 ---
 

@@ -53,7 +53,7 @@ La Asamblea DAO es el único órgano de gobierno del pueblo Earthlings. Comprend
 **Mayoría simple - 51%, quórum 20%**
 - Decisiones operativas
 - Financiación de proyectos de hasta 10 000 EC inclusive
-- Elección y revocación de Core Nodes y Emergency Multisig
+- Elección y revocación de Core Nodes, Emergency Multisig y los firmantes de la firma múltiple de la caja
 - Otorgamiento y revocación del encargo jurídico de defensa (artículo 33)
 - Cuestiones de procedimiento
 
@@ -200,7 +200,7 @@ No se abona remuneración alguna por ocupar un puesto en el Consejo más allá d
 
 ## Artículo 5. Tipos de votación
 
-**Mayoría simple - 51%, quórum 20%.** Decisiones operativas corrientes, financiación de proyectos de hasta 10 000 EC inclusive, elección y revocación de Core Nodes y Emergency Multisig, otorgamiento y revocación del encargo jurídico de defensa, anulación de actos del Emergency Multisig, levantamiento anticipado de limitaciones, recursos.
+**Mayoría simple - 51%, quórum 20%.** Decisiones operativas corrientes, financiación de proyectos de hasta 10 000 EC inclusive, elección y revocación de Core Nodes, Emergency Multisig y los firmantes de la firma múltiple de la caja, otorgamiento y revocación del encargo jurídico de defensa, anulación de actos del Emergency Multisig, levantamiento anticipado de limitaciones, recursos.
 
 **Mayoría relevante - 67%, quórum 20%.** Financiación de proyectos de más de 10 000 y hasta 100 000 EC inclusive, medidas conforme al artículo 22: la advertencia y las medidas sobre los recursos comunes.
 
@@ -325,7 +325,7 @@ El umbral a partir del cual el sorteo da un corte transversal, y en lo demás el
 
 ## Artículo 9. La Tesorería de los Earthlings
 
-La Tesorería de los Earthlings se gestiona mediante contratos inteligentes. Todas las operaciones son transparentes y quedan registradas on-chain. La distribución de los fondos se aprueba por votación de la DAO.
+La Tesorería de los Earthlings se gestiona mediante contratos inteligentes. Todas las operaciones son transparentes y quedan registradas on-chain. La distribución de los fondos se aprueba por votación de la DAO. A los firmantes de la firma múltiple de la caja los elige y los revoca en cualquier momento la Asamblea DAO por mayoría simple (51%, quórum 20%), del mismo modo que a Core Nodes y Emergency Multisig; a la composición de la firma múltiple de la caja se le aplican las reglas del artículo 3. Los firmantes ejecutan las decisiones de la Asamblea sobre la distribución de los fondos y no tienen facultades propias.
 
 **Fuentes de fondos:**
 - Cuotas de entrada (el procedimiento y su destino están en el documento [Tesorería de los Earthlings](https://earth-lings.org/documents/es/es09-tesoreria.html))
@@ -879,7 +879,7 @@ El presente cuadro sistematiza los umbrales de votación y los procedimientos. E
 ## Decisiones de la Asamblea DAO
 
 **Cuestiones corrientes - 51%, quórum 20%**
-Aprobación de proyectos de células, distribución de subvenciones de hasta 10 000 EC inclusive, elección **y revocación** de Core Nodes y Emergency Multisig, otorgamiento y revocación del encargo jurídico de defensa, anulación de actos del Emergency Multisig, levantamiento anticipado de limitaciones, recursos, cuestiones de procedimiento.
+Aprobación de proyectos de células, distribución de subvenciones de hasta 10 000 EC inclusive, elección **y revocación** de Core Nodes, Emergency Multisig y los firmantes de la firma múltiple de la caja, otorgamiento y revocación del encargo jurídico de defensa, anulación de actos del Emergency Multisig, levantamiento anticipado de limitaciones, recursos, cuestiones de procedimiento.
 Plazos: 14 días de debate + 7 días de votación.
 
 **Cuestiones relevantes - 67%, quórum 20%**

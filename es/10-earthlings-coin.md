@@ -81,7 +81,7 @@ Las tarifas concretas y las cuantías de las remuneraciones las establecen decis
 
 **Áreas de distribución:** desarrollo de la infraestructura y seguridad; fondos de las células y de las iniciativas; remuneraciones a los participantes por su aportación; programas con universidades y con organizaciones sin ánimo de lucro y de investigación.
 
-**Los parámetros numéricos** - volumen de emisión, partes, plazos de desbloqueo - no están determinados a día de hoy. Los aprueba la Asamblea DAO y se publican antes de que empiecen las distribuciones. Hasta ese momento, cualquier cifra que se diga en nombre del proyecto o por parte de cualquier otro no es fiable.
+**Los parámetros numéricos** - volumen de emisión, partes de las áreas de distribución y plazos de su desbloqueo - no están determinados a día de hoy. Los aprueba la Asamblea DAO y se publican antes de que empiecen las distribuciones. Hasta ese momento, cualquier cifra que se diga en nombre del proyecto o por parte de cualquier otro no es fiable.
 
 ---
 

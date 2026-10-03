@@ -216,7 +216,7 @@ Die Redlichkeit verlangt, dies an einer Stelle zusammenzuführen und nicht in de
 
 **Der unabänderliche Kern hat keinen gerichtlichen Schutz.** Es gibt Überprüfbarkeit und das Recht auf eine Abzweigung; Zwang gibt es nicht.
 
-**Der Eintritt hängt von einem Ausweispapier ab.** Wer staatenlos und ohne Papiere ist, kann heute nicht eintreten. Das widerspricht der Logik der übrigen Konstruktion und bleibt eine offene Frage.
+**Der Eintritt hängt von einem Ausweispapier ab.** Wer keine Papiere hat, kann heute nicht eintreten. Das widerspricht Artikel 8 der Erklärung und bleibt eine offene Frage.
 
 **Der konstituierende Text ist nicht angenommen.** Bis zur Annahme des Textes gibt es keinen einzigen Earthling, keine Praxis, und niemand kann im Namen des Volkes sprechen.
 

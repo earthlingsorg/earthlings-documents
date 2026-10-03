@@ -81,7 +81,7 @@ Specific tariffs and reward amounts are set by decisions of the DAO and publishe
 
 **Areas of distribution:** infrastructure development and security; funds for Cells and initiatives; rewards to participants for work contributed; programmes with universities and non-profit and research organizations.
 
-**Numerical parameters** - the volume of issuance, the shares, the unlock periods - are not determined as of today. They are approved by the DAO Assembly and published before distributions begin. Until then, any figures given on behalf of the project or by anyone else are unreliable.
+**Numerical parameters** - the volume of issuance, the shares of the areas of distribution and their unlock periods - are not determined as of today. They are approved by the DAO Assembly and published before distributions begin. Until then, any figures given on behalf of the project or by anyone else are unreliable.
 
 ---
 
