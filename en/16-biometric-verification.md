@@ -176,7 +176,7 @@ The list is exhaustive: no processing for other purposes takes place.
 
 ## What is open and what is closed
 
-The code of the passport smart contract is open under the MIT licence; the contract is not verified on a block explorer, and anyone who wants to confirm that the source matches the deployed contract has to check it themselves (the document "Where We Are Now").
+The code of the passport smart contract is open under the MIT licence and verified on a block explorer, which has confirmed that the source exactly matches the deployed contract (the document "Where We Are Now").
 
 **The code of the identity verification system is closed** - precisely because it works with personal data and publishing it would make it easier to circumvent the protections. This is a deliberate choice, not an omission; the list with the reasons is in the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html).
 

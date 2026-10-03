@@ -176,7 +176,7 @@ La liste est exhaustive: aucun traitement à d'autres fins n'est effectué.
 
 ## Ce qui est ouvert et ce qui est fermé
 
-Le code du contrat intelligent du passeport est ouvert sous licence MIT; dans l'explorateur du réseau, le contrat n'est pas vérifié, et la correspondance entre la source et le contrat déployé doit être vérifiée par soi-même (document « Où nous en sommes »).
+Le code du contrat intelligent du passeport est ouvert sous licence MIT et vérifié dans l'explorateur du réseau: l'explorateur a confirmé que la source correspond exactement au contrat déployé (document « Où nous en sommes »).
 
 **Le code du système de vérification d'identité est fermé**, précisément parce qu'il traite des données personnelles et que sa publication faciliterait le contournement des protections. C'est un choix assumé et non un non-dit; la liste avec les motifs figure dans le document [Où nous en sommes](https://earth-lings.org/documents/fr/fr32-ou-nous-en-sommes.html).
 

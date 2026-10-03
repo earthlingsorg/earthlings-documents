@@ -176,7 +176,7 @@ Die Aufzählung ist abschließend: Eine Verarbeitung zu anderen Zwecken findet n
 
 ## Was offen und was verschlossen ist
 
-Der Code des Smart Contracts des Passes ist unter der Lizenz MIT offen; im Explorer des Netzes ist der Vertrag nicht verifiziert, und die Übereinstimmung des Quelltextes mit dem ausgerollten Vertrag muss man selbst überprüfen (Dokument „Wo wir jetzt stehen“).
+Der Code des Smart Contracts des Passes ist unter der Lizenz MIT offen und im Explorer des Netzes verifiziert: Der Explorer hat bestätigt, dass der Quelltext genau mit dem ausgerollten Vertrag übereinstimmt (Dokument „Wo wir jetzt stehen“).
 
 **Der Code des Systems der Identitätsprüfung ist verschlossen** - eben deshalb, weil er mit personenbezogenen Daten arbeitet und seine Veröffentlichung die Umgehung des Schutzes erleichtern würde. Das ist eine bewusste Wahl und kein Verschweigen; die Aufzählung mit den Gründen steht im Dokument [Wo wir jetzt stehen](https://earth-lings.org/documents/de/de32-wo-wir-jetzt-stehen.html).
 

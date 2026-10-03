@@ -176,7 +176,7 @@ La lista es exhaustiva: no se realiza tratamiento con otros fines.
 
 ## Qué es abierto y qué es cerrado
 
-El código del contrato inteligente del pasaporte es abierto bajo licencia MIT; en el explorador de la red el contrato no está verificado, y la correspondencia entre el código fuente y el contrato desplegado hay que comprobarla por cuenta propia (documento «Dónde estamos ahora»).
+El código del contrato inteligente del pasaporte es abierto bajo licencia MIT y está verificado en el explorador de la red: el explorador ha confirmado que el código fuente corresponde exactamente al contrato desplegado (documento «Dónde estamos ahora»).
 
 **El código del sistema de verificación de identidad es cerrado**, precisamente porque trabaja con datos personales y su publicación facilitaría eludir la protección. Es una elección consciente y no un silencio; la lista con sus motivos está en el documento [Dónde estamos ahora](https://earth-lings.org/documents/es/es32-donde-estamos-ahora.html).
 
