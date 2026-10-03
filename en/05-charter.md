@@ -859,6 +859,7 @@ The structure-formation stage continues until the following conditions are satis
 
 - the technical infrastructure for voting and the treasury is deployed
 - the first Core Nodes and Emergency Multisig have been elected
+- the signatories of the treasury multisignature have been elected, or the treasury keys have been placed under the control of the DAO Assembly
 - the Independent Council has been formed
 - not fewer than three substantive votes of the DAO Assembly have been held
 

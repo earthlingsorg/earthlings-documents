@@ -859,6 +859,7 @@ La etapa de formación de las estructuras continúa hasta el momento en que se c
 
 - está desplegada la infraestructura técnica de votaciones y de tesorería
 - están elegidos los primeros Core Nodes y el Emergency Multisig
+- están elegidos los firmantes de la firma múltiple de la caja o las claves de la caja han sido traspasadas al control de la Asamblea DAO
 - está constituido el Consejo Independiente
 - se han celebrado no menos de tres votaciones de fondo de la Asamblea DAO
 

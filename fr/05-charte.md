@@ -859,6 +859,7 @@ L'étape de mise en place des structures se poursuit jusqu'au moment où les con
 
 - l'infrastructure technique des votes et de la trésorerie est déployée
 - les premiers Core Nodes et le premier Emergency Multisig sont élus
+- les signataires de la multisig du trésor sont élus, ou les clés du trésor sont placées sous le contrôle de l'Assemblée DAO
 - le Conseil indépendant est constitué
 - au moins trois votes de fond de l'Assemblée DAO ont eu lieu
 

@@ -14,7 +14,7 @@ El presente documento describe el período de transición: desde la fundación h
 
 > **Períodos que no conviene confundir.**
 >
-> **La etapa de formación de las estructuras** (Carta, artículo 39) comienza con la adopción de la Declaración, con la que entra en vigor la Carta; hasta entonces transcurre el período constituyente (documento «El período constituyente»). La etapa es corta y la determinan unas condiciones, no un plazo: concluye cuando está desplegada la infraestructura de votaciones y de tesorería, están elegidos los Core Nodes y el Emergency Multisig, está constituido el Consejo Independiente y se han celebrado no menos de tres votaciones de fondo de la Asamblea. El informe sobre su estado se publica al menos una vez cada 90 días.
+> **La etapa de formación de las estructuras** (Carta, artículo 39) comienza con la adopción de la Declaración, con la que entra en vigor la Carta; hasta entonces transcurre el período constituyente (documento «El período constituyente»). La etapa es corta y la determinan unas condiciones, no un plazo: concluye cuando está desplegada la infraestructura de votaciones y de tesorería, están elegidos los Core Nodes y el Emergency Multisig, están elegidos los firmantes de la firma múltiple de la caja o las claves de la caja han sido traspasadas al control de la Asamblea, está constituido el Consejo Independiente y se han celebrado no menos de tres votaciones de fondo de la Asamblea. El informe sobre su estado se publica al menos una vez cada 90 días.
 >
 > **El período de transición** es el camino de varios años hacia la descentralización que aquí se describe. La etapa de formación de las estructuras es su comienzo, y no su sinónimo.
 
@@ -161,7 +161,8 @@ El tránsito se produce al cumplirse criterios objetivos, y no por decisión de 
 - se ha alcanzado un número de participantes apreciable y distribuido por países;
 - los contratos inteligentes de gobernanza han pasado una auditoría independiente;
 - se ha realizado con éxito una prueba de los mecanismos de votación en la práctica real;
-- están elegidos los Core Nodes y el Emergency Multisig y está constituido el Consejo Independiente.
+- están elegidos los Core Nodes y el Emergency Multisig y está constituido el Consejo Independiente;
+- están elegidos los firmantes de la firma múltiple de la caja o las claves de la caja han sido traspasadas al control de la Asamblea.
 
 ## A la Fase 4 (descentralización plena)
 

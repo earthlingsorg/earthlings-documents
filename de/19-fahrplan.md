@@ -14,7 +14,7 @@ Dieses Dokument beschreibt den Übergang: von der Gründung bis zur vollständig
 
 > **Zeiträume, die man nicht verwechseln sollte.**
 >
-> **Die Phase des Strukturaufbaus** (Charta, Artikel 39) beginnt mit der Annahme der Erklärung, mit der die Charta in Kraft tritt; bis dahin läuft die Gründungsphase (Dokument „Die Gründungsphase“). Die Phase ist kurz und wird durch Voraussetzungen bestimmt und nicht durch eine Frist: Sie endet, wenn die Infrastruktur der Abstimmungen und der Schatzkammer ausgerollt ist, die Core Nodes und der Emergency Multisig gewählt sind, der Unabhängige Rat gebildet ist und mindestens drei inhaltliche Abstimmungen der Vollversammlung durchgeführt sind. Ein Bericht über ihren Zustand wird mindestens einmal in 90 Tagen veröffentlicht.
+> **Die Phase des Strukturaufbaus** (Charta, Artikel 39) beginnt mit der Annahme der Erklärung, mit der die Charta in Kraft tritt; bis dahin läuft die Gründungsphase (Dokument „Die Gründungsphase“). Die Phase ist kurz und wird durch Voraussetzungen bestimmt und nicht durch eine Frist: Sie endet, wenn die Infrastruktur der Abstimmungen und der Schatzkammer ausgerollt ist, die Core Nodes und der Emergency Multisig gewählt sind, die Unterzeichner der Multisig der Kasse gewählt oder die Schlüssel der Kasse unter die Kontrolle der Vollversammlung gestellt sind, der Unabhängige Rat gebildet ist und mindestens drei inhaltliche Abstimmungen der Vollversammlung durchgeführt sind. Ein Bericht über ihren Zustand wird mindestens einmal in 90 Tagen veröffentlicht.
 >
 > **Der Übergang** ist der mehrjährige Weg der Dezentralisierung, der hier beschrieben ist. Die Phase des Strukturaufbaus ist sein Beginn und nicht sein Gleichbedeutendes.
 
@@ -161,7 +161,8 @@ Der Übergang geschieht bei der Erfüllung sachlicher Maßstäbe und nicht durch
 - eine merkliche und über Länder verteilte Zahl von Teilnehmern ist erreicht;
 - die Smart Contracts der Verwaltung haben eine unabhängige Prüfung durchlaufen;
 - die Mechanismen der Abstimmung sind in der wirklichen Praxis erfolgreich erprobt worden;
-- die Core Nodes und der Emergency Multisig sind gewählt, der Unabhängige Rat ist gebildet.
+- die Core Nodes und der Emergency Multisig sind gewählt, der Unabhängige Rat ist gebildet;
+- die Unterzeichner der Multisig der Kasse sind gewählt oder die Schlüssel der Kasse sind unter die Kontrolle der Vollversammlung gestellt.
 
 ## Zu Abschnitt 4 (vollständige Dezentralisierung)
 

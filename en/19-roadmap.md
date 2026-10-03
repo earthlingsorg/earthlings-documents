@@ -14,7 +14,7 @@ This document describes the transitional period: from founding to full autonomy 
 
 > **Periods that should not be confused.**
 >
-> **The structure-formation stage** (Charter, Article 39) begins with the adoption of the Declaration, with which the Charter enters into force; until then the founding period runs (the document "The Founding Period"). The stage is short and is defined by conditions rather than by a fixed term: it ends when the voting and treasury infrastructure is deployed, the Core Nodes and the Emergency Multisig are elected, the Independent Council is formed, and no fewer than three substantive votes of the Assembly have been held. A report on its status is published no less than once every 90 days.
+> **The structure-formation stage** (Charter, Article 39) begins with the adoption of the Declaration, with which the Charter enters into force; until then the founding period runs (the document "The Founding Period"). The stage is short and is defined by conditions rather than by a fixed term: it ends when the voting and treasury infrastructure is deployed, the Core Nodes and the Emergency Multisig are elected, the signatories of the treasury multisignature are elected or the treasury keys are placed under the control of the Assembly, the Independent Council is formed, and no fewer than three substantive votes of the Assembly have been held. A report on its status is published no less than once every 90 days.
 >
 > **The transitional period** is the multi-year path to decentralization described here. The structure-formation stage is its beginning, not a synonym for it.
 
@@ -161,7 +161,8 @@ Moving to the next phase happens when objective criteria are met, not by a decis
 - an appreciable number of participants, spread across countries, has been reached;
 - the governance smart contracts have passed an independent audit;
 - the voting mechanisms have been successfully tested in real practice;
-- the Core Nodes and the Emergency Multisig are elected, and the Independent Council is formed.
+- the Core Nodes and the Emergency Multisig are elected, and the Independent Council is formed;
+- the signatories of the treasury multisignature are elected or the treasury keys are placed under the control of the Assembly.
 
 ## To Phase 4 (Full decentralization)
 

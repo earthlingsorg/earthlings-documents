@@ -859,6 +859,7 @@ Die Phase des Strukturaufbaus dauert bis zu dem Zeitpunkt, zu dem die folgenden 
 
 - die technische Infrastruktur der Abstimmungen und der Schatzkammer ist ausgerollt
 - die ersten Core Nodes und der Emergency Multisig sind gewählt
+- die Unterzeichner der Multisig der Kasse sind gewählt oder die Schlüssel der Kasse sind unter die Kontrolle der DAO-Vollversammlung gestellt
 - der Unabhängige Rat ist gebildet
 - mindestens drei inhaltliche Abstimmungen der DAO-Vollversammlung sind durchgeführt
 

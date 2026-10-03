@@ -14,7 +14,7 @@ Le présent document décrit la période de transition: de la fondation à l'aut
 
 > **Des périodes qu'il ne faut pas confondre.**
 >
-> **L'étape de mise en place des structures** (Charte, article 39) commence avec l'adoption de la Déclaration, avec laquelle la Charte entre en vigueur; jusque-là court la période constituante (document « La période constituante »). L'étape est courte et se définit par des conditions, non par une durée: elle s'achève lorsque l'infrastructure des votes et de la trésorerie est déployée, que les Core Nodes et l'Emergency Multisig sont élus, que le Conseil indépendant est constitué et qu'au moins trois votes de fond de l'Assemblée ont eu lieu. Un rapport sur son état est publié au moins une fois tous les 90 jours.
+> **L'étape de mise en place des structures** (Charte, article 39) commence avec l'adoption de la Déclaration, avec laquelle la Charte entre en vigueur; jusque-là court la période constituante (document « La période constituante »). L'étape est courte et se définit par des conditions, non par une durée: elle s'achève lorsque l'infrastructure des votes et de la trésorerie est déployée, que les Core Nodes et l'Emergency Multisig sont élus, que les signataires de la multisig du trésor sont élus ou que les clés du trésor sont placées sous le contrôle de l'Assemblée, que le Conseil indépendant est constitué et qu'au moins trois votes de fond de l'Assemblée ont eu lieu. Un rapport sur son état est publié au moins une fois tous les 90 jours.
 >
 > **La période de transition** est le chemin pluriannuel de décentralisation décrit ici. L'étape de mise en place des structures en est le début, non le synonyme.
 
@@ -161,7 +161,8 @@ Le passage se fait lorsque des critères objectifs sont remplis, et non par déc
 - un effectif notable et réparti entre pays est atteint;
 - les contrats intelligents de gouvernance ont passé un audit indépendant;
 - les mécanismes de vote ont été éprouvés avec succès dans la pratique réelle;
-- les Core Nodes et l'Emergency Multisig sont élus, le Conseil indépendant est constitué.
+- les Core Nodes et l'Emergency Multisig sont élus, le Conseil indépendant est constitué;
+- les signataires de la multisig du trésor sont élus, ou les clés du trésor sont placées sous le contrôle de l'Assemblée.
 
 ## Vers la Phase 4 (décentralisation complète)
 
