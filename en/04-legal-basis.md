@@ -86,7 +86,7 @@ The aim of the initiative is not to usurp the voice of humanity, but to create a
 
 Here precision matters more than making a favourable impression.
 
-**A people defined by an adopted text does not yet exist.** The Declaration exists in an initial edition and is not yet a founding act. Signing the Declaration and entering the people are suspended for the duration of the founding period. **The infrastructure, however, has been built and is working** - identity verification, the passport, the registry, voting, the public treasury; a tool for secret voting is being chosen, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"). What is chiefly lacking is an adopted founding text.
+**A people defined by an adopted text does not yet exist.** The Declaration exists in an initial edition and is not yet a founding act. Signing the Declaration and entering the people are suspended for the duration of the founding period. **The infrastructure, however, has been built and is working** - identity verification, the passport, the registry, voting, the public treasury; there is no tool for secret voting yet, and the founding vote will be held openly, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"). What is chiefly lacking is an adopted founding text.
 
 The order of founding has been established and published in advance:
 

@@ -86,7 +86,7 @@ Die Aufgabe der Initiative ist nicht die Anmaßung der Stimme der Menschheit, so
 
 Genauigkeit ist hier wichtiger als ein günstiger Eindruck.
 
-**Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht.** Die Erklärung besteht als Ausgangsfassung und ist noch kein konstituierender Akt. Die Unterzeichnung der Erklärung und der Eintritt in das Volk sind für die Dauer der Gründungsphase ausgesetzt. **Die Infrastruktur ist dabei gebaut und arbeitet** - Identitätsprüfung, Pass, Register, Abstimmung, öffentliche Kasse; ein Mittel der geheimen Abstimmung wird ausgewählt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Woran es vor allem fehlt, ist ein angenommener konstituierender Text.
+**Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht.** Die Erklärung besteht als Ausgangsfassung und ist noch kein konstituierender Akt. Die Unterzeichnung der Erklärung und der Eintritt in das Volk sind für die Dauer der Gründungsphase ausgesetzt. **Die Infrastruktur ist dabei gebaut und arbeitet** - Identitätsprüfung, Pass, Register, Abstimmung, öffentliche Kasse; ein Mittel der geheimen Abstimmung gibt es noch nicht, und die konstituierende Abstimmung wird offen durchgeführt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Woran es vor allem fehlt, ist ein angenommener konstituierender Text.
 
 Das Verfahren der Konstituierung ist im Voraus festgelegt und veröffentlicht:
 

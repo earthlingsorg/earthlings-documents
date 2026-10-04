@@ -17,7 +17,7 @@ Twenty-five founding documents in nine languages, an on-chain identity, and a pu
 - the ecosystem platform;
 - a philosophical companion site.
 
-The passport registry contract, identity verification, Cells, and the accounting of the internal economy are deployed and working; the public voting channel is deployed, but no substantive votes have yet been held in it, a tool for secret voting is being chosen, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"). The founding of the people is under way: entry will open if the Declaration is adopted, and from the first day the whole practice of self-government - votes, decisions, movements of funds - will be recorded in a public chronicle.
+The passport registry contract, identity verification, Cells, and the accounting of the internal economy are deployed and working; the public voting channel is deployed, but no substantive votes have yet been held in it, there is no tool for secret voting yet, and the founding vote will be held openly, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"). The founding of the people is under way: entry will open if the Declaration is adopted, and from the first day the whole practice of self-government - votes, decisions, movements of funds - will be recorded in a public chronicle.
 
 The economic level is deliberately separated from governance and from identification. Every Earthling holds three architecturally distinct attributes:
 

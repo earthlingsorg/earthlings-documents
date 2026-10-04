@@ -281,7 +281,7 @@ Relations avec les organisations internationales, les universités, les centres 
 
 > **Sur la limite de la quatrième étape.** Il s'agit du droit d'être entendu, non d'un pouvoir dans la décision. La plateforme ne devient pas et ne peut pas devenir un lieu où se prennent des décisions obligatoires pour quiconque en dehors des Earthlings eux-mêmes. Les compétences des États ne sont pas touchées (Déclaration, article 6).
 
-La distinction entre ce qui est bâti et ce qui reste à faire est présentée honnêtement. Le contrat du registre des passeports, la vérification d'identité, les cellules et la comptabilité de l'économie interne sont déployés et fonctionnent; le canal public de vote est déployé, mais aucun vote de fond n'y a encore eu lieu, l'outil de vote secret est en cours de sélection, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). La valeur probante et pratique de l'infrastructure naît à mesure que la participation s'accumule, et non au moment du déploiement.
+La distinction entre ce qui est bâti et ce qui reste à faire est présentée honnêtement. Le contrat du registre des passeports, la vérification d'identité, les cellules et la comptabilité de l'économie interne sont déployés et fonctionnent; le canal public de vote est déployé, mais aucun vote de fond n'y a encore eu lieu, l'outil de vote secret n'existe pas encore, et le vote constituant sera ouvert, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). La valeur probante et pratique de l'infrastructure naît à mesure que la participation s'accumule, et non au moment du déploiement.
 
 ---
 

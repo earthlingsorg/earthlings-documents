@@ -17,7 +17,7 @@ Vingt-cinq documents fondamentaux en neuf langues, une identité on-chain et une
 - la plateforme de l'écosystème;
 - un site philosophique satellite.
 
-Le contrat du registre des passeports, la vérification d'identité, les cellules et la comptabilité de l'économie interne sont déployés et fonctionnent; le canal public de vote est déployé, mais aucun vote de fond n'y a encore eu lieu, l'outil de vote secret est en cours de sélection, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). La constitution du peuple est en cours: l'adhésion s'ouvrira si la Déclaration est adoptée, et dès le premier jour toute la pratique d'autogouvernement - votes, décisions, mouvements de fonds - sera consignée dans une chronique publique.
+Le contrat du registre des passeports, la vérification d'identité, les cellules et la comptabilité de l'économie interne sont déployés et fonctionnent; le canal public de vote est déployé, mais aucun vote de fond n'y a encore eu lieu, l'outil de vote secret n'existe pas encore, et le vote constituant sera ouvert, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). La constitution du peuple est en cours: l'adhésion s'ouvrira si la Déclaration est adoptée, et dès le premier jour toute la pratique d'autogouvernement - votes, décisions, mouvements de fonds - sera consignée dans une chronique publique.
 
 Le niveau économique est délibérément séparé de la gouvernance et de l'identification. Chaque Earthling possède trois attributs que l'architecture distingue:
 

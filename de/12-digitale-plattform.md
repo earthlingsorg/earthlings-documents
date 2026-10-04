@@ -281,7 +281,7 @@ Der Verkehr mit internationalen Organisationen, Universitäten, Forschungseinric
 
 > **Zur Grenze des vierten Abschnitts.** Die Rede ist vom Recht, gehört zu werden, und nicht von Macht in der Entscheidung. Die Plattform wird nicht zu einem Ort, an dem Beschlüsse gefasst werden, die für jemanden außer den Earthlings selbst verbindlich sind, und kann es nicht werden. Die Befugnisse der Staaten werden nicht berührt (Erklärung, Artikel 6).
 
-Die Aufteilung in Gebautes und Bevorstehendes wird ehrlich angeführt. Der Vertrag des Registers der Pässe, die Identitätsprüfung, die Zellen und die Erfassung der inneren Wirtschaft sind ausgerollt und arbeiten; der öffentliche Kanal der Abstimmungen ist ausgerollt, doch inhaltliche Abstimmungen hat es in ihm noch nicht gegeben, ein Mittel der geheimen Abstimmung wird ausgewählt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Der beweisende und praktische Wert der Infrastruktur entsteht mit dem Ansammeln von Teilnahme und nicht im Augenblick der Ausrollung.
+Die Aufteilung in Gebautes und Bevorstehendes wird ehrlich angeführt. Der Vertrag des Registers der Pässe, die Identitätsprüfung, die Zellen und die Erfassung der inneren Wirtschaft sind ausgerollt und arbeiten; der öffentliche Kanal der Abstimmungen ist ausgerollt, doch inhaltliche Abstimmungen hat es in ihm noch nicht gegeben, ein Mittel der geheimen Abstimmung gibt es noch nicht, und die konstituierende Abstimmung wird offen durchgeführt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Der beweisende und praktische Wert der Infrastruktur entsteht mit dem Ansammeln von Teilnahme und nicht im Augenblick der Ausrollung.
 
 ---
 

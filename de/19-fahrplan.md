@@ -58,7 +58,7 @@ Dieses Dokument beschreibt den Übergang: von der Gründung bis zur vollständig
 - Bildung des Unabhängigen Rates;
 - Beginn einer inhaltlichen Praxis der Abstimmungen.
 
-> **Die Infrastruktur ist dem Abschnitt voraus, und das ist normal.** Der Vertrag des Registers der Pässe, die Identitätsprüfung, die Zellen und die Erfassung der inneren Wirtschaft sind ausgerollt und arbeiten; der öffentliche Kanal der Abstimmungen ist ausgerollt, doch inhaltliche Abstimmungen hat es in ihm noch nicht gegeben, ein Mittel der geheimen Abstimmung wird ausgewählt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Ausgerollt und in der Praxis gebraucht sind verschiedene Dinge, und wir vermengen sie nicht: Beschlüsse sind über dieses System noch nicht gefasst worden.
+> **Die Infrastruktur ist dem Abschnitt voraus, und das ist normal.** Der Vertrag des Registers der Pässe, die Identitätsprüfung, die Zellen und die Erfassung der inneren Wirtschaft sind ausgerollt und arbeiten; der öffentliche Kanal der Abstimmungen ist ausgerollt, doch inhaltliche Abstimmungen hat es in ihm noch nicht gegeben, ein Mittel der geheimen Abstimmung gibt es noch nicht, und die konstituierende Abstimmung wird offen durchgeführt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Ausgerollt und in der Praxis gebraucht sind verschiedene Dinge, und wir vermengen sie nicht: Beschlüsse sind über dieses System noch nicht gefasst worden.
 
 ## Abschnitt 3. Der Start der DAO - steht bevor
 
@@ -145,7 +145,7 @@ Wird mindestens einmal in 90 Tagen seit dem Tag des Inkrafttretens der Charta ve
 | Pässe | der Vertrag des Registers ist ausgerollt, die Pässe werden nach der Annahme der Erklärung ausgegeben; in der Gründungsphase ist die Unterzeichnung ausgesetzt, und auf der Grundlage der Identitätsprüfung wird ein vorläufiges Dokument des Teilnehmers der Konstituierung ausgestellt (Dokument „Die Gründungsphase“) |
 | Digitale Plattform | arbeitet |
 | System der Zellen | arbeitet |
-| Mechanismus der Abstimmung | der offene Kanal ist ausgerollt, inhaltliche Abstimmungen haben nicht stattgefunden; ein Mittel der geheimen Abstimmung wird ausgewählt |
+| Mechanismus der Abstimmung | der offene Kanal ist ausgerollt, inhaltliche Abstimmungen haben nicht stattgefunden; ein Mittel der geheimen Abstimmung gibt es noch nicht, und die konstituierende Abstimmung wird offen durchgeführt |
 | Schatzkammer | die Safe-Geldbörse ist ausgerollt, die Schwelle der Unterschriften beträgt eine; die Übergabe der Schlüssel an die Multisig gewählter Unterzeichner nach den Regeln des Artikels 3 der Charta oder unter die Kontrolle der Vollversammlung ist der Maßstab für den Übergang zwischen den Abschnitten; die Smart Contracts sind nicht ausgerollt |
 | Core Nodes und Emergency Multisig | nicht gewählt |
 | Unabhängiger Rat | nicht gebildet |

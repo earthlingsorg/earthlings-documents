@@ -86,7 +86,7 @@ La tarea de la iniciativa no es usurpar la voz de la humanidad, sino crear un me
 
 Aquí la exactitud importa más que una impresión favorable.
 
-**El pueblo definido por un texto adoptado todavía no existe.** La Declaración existe como versión inicial y aún no es un acto constitutivo. La firma de la Declaración y la adhesión al pueblo están suspendidas mientras dura el período constituyente. **La infraestructura, con todo, está construida y funciona**: verificación de la identidad, pasaporte, registro, votación, caja común; el medio de votación secreta se está eligiendo y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). Lo que falta principalmente es un texto constitutivo adoptado.
+**El pueblo definido por un texto adoptado todavía no existe.** La Declaración existe como versión inicial y aún no es un acto constitutivo. La firma de la Declaración y la adhesión al pueblo están suspendidas mientras dura el período constituyente. **La infraestructura, con todo, está construida y funciona**: verificación de la identidad, pasaporte, registro, votación, caja común; todavía no existe un medio de votación secreta, y la votación constituyente será abierta y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). Lo que falta principalmente es un texto constitutivo adoptado.
 
 El procedimiento de constitución está establecido y publicado de antemano:
 

@@ -17,7 +17,7 @@ Die Architektur der Earthlings ist als ein einheitliches einrichtungsmäßiges S
 - die Plattform des Ökosystems;
 - die philosophische Begleitseite.
 
-Der Vertrag des Registers der Pässe, die Identitätsprüfung, die Zellen und die Erfassung der inneren Wirtschaft sind ausgerollt und arbeiten; der öffentliche Kanal der Abstimmungen ist ausgerollt, doch inhaltliche Abstimmungen hat es in ihm noch nicht gegeben, ein Mittel der geheimen Abstimmung wird ausgewählt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Die Konstituierung des Volkes läuft: Der Beitritt wird eröffnet, wenn die Erklärung angenommen wird, und vom ersten Tag an wird die gesamte Praxis der Selbstverwaltung - Abstimmungen, Beschlüsse, Bewegungen der Mittel - in einer öffentlichen Chronik festgehalten.
+Der Vertrag des Registers der Pässe, die Identitätsprüfung, die Zellen und die Erfassung der inneren Wirtschaft sind ausgerollt und arbeiten; der öffentliche Kanal der Abstimmungen ist ausgerollt, doch inhaltliche Abstimmungen hat es in ihm noch nicht gegeben, ein Mittel der geheimen Abstimmung gibt es noch nicht, und die konstituierende Abstimmung wird offen durchgeführt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Die Konstituierung des Volkes läuft: Der Beitritt wird eröffnet, wenn die Erklärung angenommen wird, und vom ersten Tag an wird die gesamte Praxis der Selbstverwaltung - Abstimmungen, Beschlüsse, Bewegungen der Mittel - in einer öffentlichen Chronik festgehalten.
 
 Die wirtschaftliche Ebene ist von der Verwaltung und von der Identifizierung mit Absicht getrennt. Jeder Earthling verfügt über drei baulich unterscheidbare Merkmale:
 

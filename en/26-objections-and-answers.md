@@ -150,7 +150,7 @@ What remains unamendable is what protects every person from the power of the peo
 
 ### Your institutions are working software, not working self-government. Legally you are a foundation's user base.
 
-Let us be plain about the stage we are at: the founding text has not been adopted, there is not a single earthling, and there is no practice of self-government. The passport registry contract, identity verification, Cells, and the accounting of the internal economy are deployed and working; the public voting channel is deployed, but no substantive votes have yet been held in it, a tool for secret voting is being chosen, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"); practice within this infrastructure begins with the adoption of the text. We assert that the scheme works, not a scale that has been reached, and we do not pass one off as the other.
+Let us be plain about the stage we are at: the founding text has not been adopted, there is not a single earthling, and there is no practice of self-government. The passport registry contract, identity verification, Cells, and the accounting of the internal economy are deployed and working; the public voting channel is deployed, but no substantive votes have yet been held in it, there is no tool for secret voting yet, and the founding vote will be held openly, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"); practice within this infrastructure begins with the adoption of the text. We assert that the scheme works, not a scale that has been reached, and we do not pass one off as the other.
 
 Effectiveness, moreover, is judged in proportion to the claim, and the law readily recognizes the capacity of small communities.
 

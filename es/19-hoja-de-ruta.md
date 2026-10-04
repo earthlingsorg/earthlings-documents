@@ -58,7 +58,7 @@ El presente documento describe el período de transición: desde la fundación h
 - constitución del Consejo Independiente;
 - comienzo de la práctica de votaciones de fondo.
 
-> **La infraestructura va por delante de la fase, y eso es normal.** El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, el medio de votación secreta se está eligiendo y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). Estar desplegado y estar en práctica son cosas distintas, y no las mezclamos: por este sistema no se ha adoptado todavía ninguna decisión.
+> **La infraestructura va por delante de la fase, y eso es normal.** El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, todavía no existe un medio de votación secreta, y la votación constituyente será abierta y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). Estar desplegado y estar en práctica son cosas distintas, y no las mezclamos: por este sistema no se ha adoptado todavía ninguna decisión.
 
 ## Fase 3. Puesta en marcha de la DAO: pendiente
 
@@ -145,7 +145,7 @@ Se publica al menos una vez cada 90 días desde el día de entrada en vigor de l
 | Pasaportes | el contrato del registro está desplegado y los pasaportes empezarán a expedirse tras la adopción de la Declaración; en el período constituyente la firma está suspendida y, como resultado de la verificación de identidad, se entrega un documento temporal de participante en la constitución (documento «El período constituyente») |
 | Plataforma digital | funciona |
 | Sistema de células | funciona |
-| Mecanismo de votación | canal abierto desplegado; no se han celebrado votaciones de fondo; el medio de votación secreta se está eligiendo |
+| Mecanismo de votación | canal abierto desplegado; no se han celebrado votaciones de fondo; todavía no existe un medio de votación secreta, y la votación constituyente será abierta |
 | Tesorería | el monedero Safe está desplegado, el umbral de firmas es de una; el traspaso de las claves a una firma múltiple de firmantes elegidos conforme a las reglas del artículo 3 de la Carta o al control de la Asamblea es criterio de tránsito entre fases; los contratos inteligentes no están desplegados |
 | Core Nodes y Emergency Multisig | no elegidos |
 | Consejo Independiente | no constituido |

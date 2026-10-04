@@ -58,7 +58,7 @@ This document describes the transitional period: from founding to full autonomy 
 - forming the Independent Council;
 - beginning a practice of substantive voting.
 
-> **The infrastructure runs ahead of the phase, and that is normal.** The passport registry contract, identity verification, Cells, and the accounting of the internal economy are deployed and working; the public voting channel is deployed, but no substantive votes have yet been held in it, a tool for secret voting is being chosen, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"). Being deployed and being used in practice are different things, and we do not conflate them: no decisions have yet been taken through this system.
+> **The infrastructure runs ahead of the phase, and that is normal.** The passport registry contract, identity verification, Cells, and the accounting of the internal economy are deployed and working; the public voting channel is deployed, but no substantive votes have yet been held in it, there is no tool for secret voting yet, and the founding vote will be held openly, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"). Being deployed and being used in practice are different things, and we do not conflate them: no decisions have yet been taken through this system.
 
 ## Phase 3. Launch of the DAO - still ahead
 
@@ -145,7 +145,7 @@ Reports are published no less than once every 90 days from the date the Charter 
 | Passports | the registry contract is deployed, and passports will begin to be issued after the Declaration is adopted; during the founding period signing is suspended, and on completion of identity verification a temporary document of a participant in the founding is issued (the document "The Founding Period") |
 | Digital platform | working |
 | System of Cells | working |
-| Voting mechanism | open voting channel deployed, no substantive votes held; a tool for secret voting is being chosen |
+| Voting mechanism | open voting channel deployed, no substantive votes held; there is no tool for secret voting yet, and the founding vote will be held openly |
 | Treasury | the Safe wallet is deployed, the signature threshold is one; transferring the keys to a multisignature of elected signatories under the rules of Article 3 of the Charter or to the control of the Assembly is a criterion for moving between phases; the smart contracts are not deployed |
 | Core Nodes and Emergency Multisig | not elected |
 | Independent Council | not formed |

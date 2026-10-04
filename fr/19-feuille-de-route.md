@@ -58,7 +58,7 @@ Le présent document décrit la période de transition: de la fondation à l'aut
 - constitution du Conseil indépendant;
 - début d'une pratique de vote de fond.
 
-> **L'infrastructure devance la phase, et c'est normal.** Le contrat du registre des passeports, la vérification d'identité, les cellules et la comptabilité de l'économie interne sont déployés et fonctionnent; le canal public de vote est déployé, mais aucun vote de fond n'y a encore eu lieu, l'outil de vote secret est en cours de sélection, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). Être déployé et être en pratique sont deux choses différentes, et nous ne les confondons pas: aucune décision n'a encore été prise par ce système.
+> **L'infrastructure devance la phase, et c'est normal.** Le contrat du registre des passeports, la vérification d'identité, les cellules et la comptabilité de l'économie interne sont déployés et fonctionnent; le canal public de vote est déployé, mais aucun vote de fond n'y a encore eu lieu, l'outil de vote secret n'existe pas encore, et le vote constituant sera ouvert, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). Être déployé et être en pratique sont deux choses différentes, et nous ne les confondons pas: aucune décision n'a encore été prise par ce système.
 
 ## Phase 3. Le lancement de la DAO - à venir
 
@@ -145,7 +145,7 @@ Elle est publiée au moins une fois tous les 90 jours à compter du jour de l'en
 | Passeports | le contrat du registre est déployé, les passeports commenceront à être délivrés après l'adoption de la Déclaration; pendant la période constituante, la signature est suspendue et, à l'issue de la vérification d'identité, il est délivré un document temporaire de participant à la constitution (document « La période constituante ») |
 | Plateforme numérique | fonctionne |
 | Système des cellules | fonctionne |
-| Mécanisme de vote | canal de vote ouvert déployé, aucun vote de fond n'a eu lieu; outil de vote secret en cours de sélection |
+| Mécanisme de vote | canal de vote ouvert déployé, aucun vote de fond n'a eu lieu; l'outil de vote secret n'existe pas encore, et le vote constituant sera ouvert |
 | Trésorerie | le portefeuille Safe est déployé, le seuil de signatures est de une; le transfert des clés à une multisig de signataires élus selon les règles de l'article 3 de la Charte ou sous le contrôle de l'Assemblée est un critère de passage entre les phases; les contrats intelligents ne sont pas déployés |
 | Core Nodes et Emergency Multisig | non élus |
 | Conseil indépendant | non constitué |

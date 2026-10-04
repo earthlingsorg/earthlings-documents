@@ -281,7 +281,7 @@ Relación con organizaciones internacionales, universidades y centros de investi
 
 > **Sobre el límite de la cuarta etapa.** Se trata del derecho a ser oído, y no del poder en la decisión. La plataforma no se convierte ni puede convertirse en un lugar donde se adopten decisiones obligatorias para nadie que no sean los propios Earthlings. Las facultades de los Estados no se ven afectadas (Declaración, artículo 6).
 
-La división entre lo construido y lo pendiente se expone con honestidad. El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, el medio de votación secreta se está eligiendo y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). El valor probatorio y práctico de la infraestructura nace a medida que se acumula participación, y no en el momento del despliegue.
+La división entre lo construido y lo pendiente se expone con honestidad. El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, todavía no existe un medio de votación secreta, y la votación constituyente será abierta y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). El valor probatorio y práctico de la infraestructura nace a medida que se acumula participación, y no en el momento del despliegue.
 
 ---
 

@@ -86,7 +86,7 @@ La tâche de l'initiative n'est pas d'usurper la voix de l'humanité, mais de cr
 
 L'exactitude importe ici davantage qu'une impression favorable.
 
-**Le peuple défini par un texte adopté n'existe pas encore.** La Déclaration existe comme version initiale et n'est pas encore un acte constitutif. La signature de la Déclaration et l'adhésion au peuple sont suspendues pour la durée de la période constituante. **L'infrastructure, elle, est bâtie et fonctionne** - vérification d'identité, passeport, registre, vote, trésorerie publique; l'outil de vote secret est en cours de sélection, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). Ce qui manque principalement, c'est l'adoption du texte constitutif.
+**Le peuple défini par un texte adopté n'existe pas encore.** La Déclaration existe comme version initiale et n'est pas encore un acte constitutif. La signature de la Déclaration et l'adhésion au peuple sont suspendues pour la durée de la période constituante. **L'infrastructure, elle, est bâtie et fonctionne** - vérification d'identité, passeport, registre, vote, trésorerie publique; l'outil de vote secret n'existe pas encore, et le vote constituant sera ouvert, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). Ce qui manque principalement, c'est l'adoption du texte constitutif.
 
 La procédure de constitution est établie et publiée à l'avance:
 

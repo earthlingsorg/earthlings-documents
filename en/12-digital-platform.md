@@ -281,7 +281,7 @@ Engagement with international organizations, universities, and research centres.
 
 > **On the boundary of the fourth stage.** This concerns the right to be heard, not decision-making power. The platform does not become and cannot become a place where decisions binding on anyone other than Earthlings themselves are taken. The powers of states are not affected (Declaration, Article 6).
 
-The division into what is built and what is still ahead is given honestly. The passport registry contract, identity verification, Cells, and the accounting of the internal economy are deployed and working; the public voting channel is deployed, but no substantive votes have yet been held in it, a tool for secret voting is being chosen, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"). The evidentiary and practical value of the infrastructure arises as participation accumulates, not at the moment of deployment.
+The division into what is built and what is still ahead is given honestly. The passport registry contract, identity verification, Cells, and the accounting of the internal economy are deployed and working; the public voting channel is deployed, but no substantive votes have yet been held in it, there is no tool for secret voting yet, and the founding vote will be held openly, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"). The evidentiary and practical value of the infrastructure arises as participation accumulates, not at the moment of deployment.
 
 ---
 

@@ -17,7 +17,7 @@ Veinticinco documentos fundacionales en nueve lenguas, la identidad on-chain y u
 - la plataforma del ecosistema;
 - el sitio satélite de contenido filosófico.
 
-El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, el medio de votación secreta se está eligiendo y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). La constitución del pueblo está en curso: las adhesiones se abrirán si la Declaración se adopta, y desde el primer día toda la práctica de autogobierno - votaciones, decisiones, movimientos de fondos - quedará fijada en una crónica pública.
+El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, todavía no existe un medio de votación secreta, y la votación constituyente será abierta y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). La constitución del pueblo está en curso: las adhesiones se abrirán si la Declaración se adopta, y desde el primer día toda la práctica de autogobierno - votaciones, decisiones, movimientos de fondos - quedará fijada en una crónica pública.
 
 El nivel económico está deliberadamente separado de la gobernanza y de la identificación. Cada Earthling posee tres atributos distinguibles por arquitectura:
 
