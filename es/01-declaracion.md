@@ -213,7 +213,7 @@ La cesión se realiza solo por voluntad de quien cede, y este la revoca en cualq
 
 Tales personas jurídicas no encarnan al pueblo, no determinan su existencia, no tienen poder sobre él y no son fuente de su legitimidad. Pueden constituirse, sustituirse y extinguirse sin consecuencias para el pueblo. El registro de earthlings, la verificación de su identidad y los datos relacionados con ella no son patrimonio de la persona jurídica, no pueden ser transmitidos, vendidos, pignorados ni enajenados de ningún otro modo. A través de esas mismas interfaces el pueblo Earthlings responde a los requerimientos legítimos de los órganos del Estado.
 
-**Modificación de las reglas del autogobierno.** El procedimiento de debate y de adopción de decisiones, los requisitos de participación, los plazos y las demás reglas de organización del autogobierno los establece la Carta. Estas reglas no pueden modificarse por mayoría simple. El umbral de modificación de la Carta lo establece la propia Carta, y la Carta no puede rebajarlo por decisión propia.
+**Modificación de las reglas del autogobierno.** El procedimiento de debate y de adopción de decisiones, los requisitos de participación, los plazos y las demás reglas de organización del autogobierno los establece la Carta. Estas reglas no pueden modificarse por mayoría simple. El umbral de modificación de la Carta lo establece la propia Carta; ese umbral no puede rebajarse ni por decisión de la propia Carta ni por ninguna otra vía.
 
 ## Artículo 10. La infraestructura del pueblo
 

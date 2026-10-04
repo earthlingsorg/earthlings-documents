@@ -213,7 +213,7 @@ Die Übertragung geschieht allein durch den Willen dessen, der überträgt, und 
 
 Solche juristischen Personen sind nicht die Träger des Volkes, bestimmen sein Bestehen nicht, haben keine Macht über das Volk und sind keine Quelle seiner Legitimität. Sie können errichtet, ersetzt und beendet werden, ohne Folgen für das Volk. Das Register der Earthlings, die Prüfung ihrer Identität und die damit verbundenen Daten sind kein Vermögen einer juristischen Person und können nicht übertragen, verkauft, verpfändet oder auf andere Weise veräußert werden. Über dieselben Schnittstellen beantwortet das Volk der Earthlings rechtmäßige Auskunftsersuchen staatlicher Stellen.
 
-**Die Änderung der Regeln der Selbstverwaltung.** Das Verfahren der Beratung und der Beschlussfassung, die Anforderungen an die Teilnahme, die Fristen und die übrigen Regeln für die Ordnung der Selbstverwaltung legt die Charta der Earthlings fest. Diese Regeln können nicht mit einfacher Mehrheit geändert werden. Die Schwelle für die Änderung der Charta der Earthlings legt die Charta der Earthlings selbst fest, und sie kann diese Schwelle nicht durch eigenen Beschluss absenken.
+**Die Änderung der Regeln der Selbstverwaltung.** Das Verfahren der Beratung und der Beschlussfassung, die Anforderungen an die Teilnahme, die Fristen und die übrigen Regeln für die Ordnung der Selbstverwaltung legt die Charta der Earthlings fest. Diese Regeln können nicht mit einfacher Mehrheit geändert werden. Die Schwelle für die Änderung der Charta der Earthlings legt die Charta der Earthlings selbst fest; diese Schwelle kann weder durch einen Beschluss der Charta selbst noch auf irgendeinem anderen Weg abgesenkt werden.
 
 ## Artikel 10. Die Infrastruktur des Volkes
 

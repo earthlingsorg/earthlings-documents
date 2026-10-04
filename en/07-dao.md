@@ -28,7 +28,7 @@ Transparency, however, extends to the actions of institutions, not to the person
 
 Every earthling has an equal vote on the principle of "one person, one vote". Reputation, what a person has put in, and experience may be taken into account in discussion, but are not converted into additional voting weight, do not open access to any role, and create no privileged classes of participant.
 
-**The vote is inalienable.** The right to vote cannot be taken away or suspended for a person's views, for the content of a vote, for disagreement with decisions, or as a general measure of liability (Declaration, Article 4; Charter, Articles 17 and 37). The measures provided for by Article 22 of the Charter do not concern the rights of a person at all: the only measure addressed to a person is a warning, and the rest are addressed to a project or a Cell.
+**The vote is inalienable.** The right to vote cannot be taken away or suspended for a person's views, for the content of a vote, for disagreement with decisions, or as a general measure of liability (Declaration, Article 4; Charter, Articles 17 and 37). The measures provided for by Article 22 of the Charter do not concern the rights of a person at all: the only measure addressed to a person is a warning, and the rest are addressed to a project or a Cell. Transferring the casting of a vote to a delegate (Charter, Article 7) is not alienation: a transferred vote still belongs to the person who transferred it and returns to that person on revocation; the transfer can be revoked at any time.
 
 The single exception is proven acts aimed at undermining the integrity of the voting itself: collusion, buying or selling a vote, coercing others, circumventing the rule of "one person, one passport" (Charter, Article 22 bis); the list of these grounds is exhaustive and not subject to extension. Views, the content of a vote, and disagreement with decisions are not a ground on any construction whatever.
 
@@ -170,7 +170,7 @@ Procedures are provided for reviewing decisions that lead to unacceptable result
 
 ## Protection of the minority
 
-The principal protection here is not procedural but structural: **the vote is inalienable**. A majority, however qualified, cannot deprive a dissenter of the right to vote on account of their dissent, expel them from the people, or annul their belonging. The single ground for suspending a vote is proven undermining of the integrity of the voting mechanism itself (Article 22 bis of the Charter), and it is built so as to be inapplicable to a dissenter: a specific act against the mechanism must be proven, not an opinion about a person.
+The principal protection here is not procedural but structural: **the vote is inalienable**. A majority, however qualified, cannot deprive a dissenter of the right to vote on account of their dissent, expel them from the people, or annul their belonging. The single ground for suspending a vote is proven undermining of the integrity of the voting mechanism itself (Article 22 bis of the Charter), and it is built so as to be inapplicable to a dissenter: a specific act against the mechanism must be proven, not an opinion about a person. Transferring the casting of a vote to a delegate (Charter, Article 7) is not alienation: a transferred vote still belongs to the person who transferred it and returns to that person on revocation; the transfer can be revoked at any time.
 
 To this are added higher thresholds for decisions touching the foundations, and the unamendable core of the Declaration, which no majority repeals.
 
