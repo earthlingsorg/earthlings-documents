@@ -22,7 +22,7 @@ Chaque voix est égale, chaque décision est transparente, chaque acte est véri
 
 **Éthique = repère.** Le Conseil indépendant formulera des recommandations, sans gouverner.
 
-**Toute mission est révocable.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil qui n'excède pas celui de son octroi n'est pas confié dans le peuple des Earthlings. Aucune mission ne crée de fonction ni ne donne le droit exclusif d'agir. Le défaut de compte rendu est en lui-même un motif de révocation de la mission.
+**Toute mission est révocable.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil qui n'excède pas celui de son octroi (article 37) n'est pas confié dans le peuple des Earthlings. Aucune mission ne crée de fonction ni ne donne le droit exclusif d'agir. Le défaut de compte rendu est en lui-même un motif de révocation de la mission.
 
 ---
 
@@ -831,7 +831,7 @@ Les principes suivants ne peuvent être modifiés, même à la majorité qualifi
 - **Seules les personnes votent.** Les structures n'ont pas de voix collective
 - **Ouverture et transparence des décisions et des finances.** Toutes les décisions de la DAO, les résultats des votes, les transactions financières du Fonds et les actes des structures d'exécution sont publics et vérifiables. Les données personnelles et biométriques des participants ne sont pas publiques pour autant: elles sont protégées par l'article 13. La transparence porte sur les actes des institutions et non sur les données personnelles des gens; l'expression de la volonté d'une personne déterminée relève des données personnelles, et le vote personnel est secret (article 6); sont ouverts les votes exprimés par le délégué au titre des voix qui lui ont été confiées
 - **Caractère volontaire.** La participation et la sortie sont libres, l'exclusion est impossible
-- **Révocabilité de toute mission.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil qui n'excède pas celui de son octroi n'est pas confié
+- **Révocabilité de toute mission.** Un pouvoir qui ne peut être révoqué immédiatement et à un seuil qui n'excède pas celui de son octroi n'est pas confié. Dans la présente Charte, un seuil est déterminé par une paire: la part des voix exprimées et le quorum. Un seuil n'est réputé ne pas excéder un autre que si ni la part ni le quorum n'excèdent la valeur correspondante de l'autre; un seuil dont l'une des deux valeurs est plus élevée ne remplit pas cette condition, même si l'autre est plus basse
 - **Le seuil de modification de la présente Charte.** Les seuils de l'article 36 ne peuvent être abaissés par une décision prise dans les conditions de ce même article; cela est prévu à l'article 9 de la Déclaration
 
 > **Rapport avec la Déclaration.** Les principes énumérés sont l'expression opérationnelle du noyau intangible de la Déclaration des Earthlings: la vie, la dignité et la liberté de la personne, la solidarité planétaire, le souci de la planète et l'absence de tout pouvoir des uns sur les autres. Ils ne peuvent restreindre ce noyau et s'interprètent uniquement en sa faveur.

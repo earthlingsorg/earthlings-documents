@@ -22,7 +22,7 @@ Cada voto es igual, cada decisión es transparente, cada acto es verificable.
 
 **Ética = orientación.** El Consejo Independiente formula recomendaciones, pero no gobierna.
 
-**Todo encargo es revocable.** Una facultad que no pueda revocarse de inmediato y con un umbral no superior al de su otorgamiento no se otorga en el pueblo Earthlings. Ningún encargo constituye un cargo ni confiere el derecho exclusivo de actuar. La falta de rendición de cuentas es por sí sola motivo de revocación del encargo.
+**Todo encargo es revocable.** Una facultad que no pueda revocarse de inmediato y con un umbral no superior al de su otorgamiento (artículo 37) no se otorga en el pueblo Earthlings. Ningún encargo constituye un cargo ni confiere el derecho exclusivo de actuar. La falta de rendición de cuentas es por sí sola motivo de revocación del encargo.
 
 ---
 
@@ -831,7 +831,7 @@ Los siguientes principios no pueden modificarse ni siquiera por mayoría cualifi
 - **Solo votan las personas.** Las estructuras no tienen voto colectivo
 - **Apertura y transparencia de las decisiones y de las finanzas.** Todas las decisiones de la DAO, los resultados de las votaciones, las transacciones financieras del Fondo y los actos de las estructuras de ejecución son públicos y verificables. Los datos personales y biométricos de los participantes, en cambio, no son públicos: los protege el artículo 13. La transparencia alcanza a los actos de las instituciones, no a los datos personales de las personas; la expresión de la voluntad de una persona concreta pertenece a los datos personales, y el voto personal es secreto (artículo 6); son abiertos los votos cedidos que emite el delegado
 - **Voluntariedad.** La participación y la salida son libres; la expulsión es imposible
-- **Revocabilidad de todo encargo.** No se otorga una facultad que no pueda revocarse de inmediato y con un umbral no superior al de su otorgamiento
+- **Revocabilidad de todo encargo.** No se otorga una facultad que no pueda revocarse de inmediato y con un umbral no superior al de su otorgamiento. En esta Carta, un umbral se determina por un par: la parte de los votos emitidos y el quórum. Un umbral solo se considera no superior a otro cuando ni la parte ni el quórum exceden el valor correspondiente del otro; un umbral en el que cualquiera de los dos valores sea superior no cumple esta condición, aunque el otro sea inferior
 - **El umbral de modificación de esta Carta.** Los umbrales del artículo 36 no pueden rebajarse por una decisión adoptada conforme a ese mismo artículo; así lo establece el artículo 9 de la Declaración
 
 > **Relación con la Declaración.** Los principios enumerados son la expresión operativa del núcleo intangible de la Declaración Earthlings - la vida, la dignidad y la libertad de la persona, la solidaridad planetaria, el cuidado del planeta y la ausencia de todo poder de unas personas sobre otras. No pueden restringir ese núcleo y se interpretan únicamente a su favor.

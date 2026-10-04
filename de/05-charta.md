@@ -22,7 +22,7 @@ Jede Stimme ist gleich, jeder Beschluss ist durchsichtig, jede Handlung überpr�
 
 **Ethik = Richtschnur.** Der Unabhängige Rat gibt Empfehlungen, verwaltet aber nicht.
 
-**Jeder Auftrag ist widerruflich.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle als der ihrer Erteilung widerrufen lässt, wird im Volk der Earthlings nicht erteilt. Kein Auftrag begründet ein Amt und gibt kein ausschließliches Recht zu handeln. Das Ausbleiben der Rechenschaft ist für sich genommen ein Grund, den Auftrag zu widerrufen.
+**Jeder Auftrag ist widerruflich.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle als der ihrer Erteilung (Artikel 37) widerrufen lässt, wird im Volk der Earthlings nicht erteilt. Kein Auftrag begründet ein Amt und gibt kein ausschließliches Recht zu handeln. Das Ausbleiben der Rechenschaft ist für sich genommen ein Grund, den Auftrag zu widerrufen.
 
 ---
 
@@ -831,7 +831,7 @@ Die folgenden Grundsätze lassen sich auch mit qualifizierter Mehrheit nicht än
 - **Nur Menschen stimmen ab.** Strukturen haben keine kollektive Stimme
 - **Offenheit und Durchsichtigkeit der Beschlüsse und der Finanzen.** Alle Beschlüsse der DAO, die Ergebnisse der Abstimmungen, die Finanzvorgänge des Fonds und die Handlungen der ausführenden Strukturen sind öffentlich und überprüfbar. Personenbezogene und biometrische Daten der Teilnehmer sind dabei nicht öffentlich - sie sind durch Artikel 13 geschützt. Die Durchsichtigkeit erstreckt sich auf das Handeln der Einrichtungen und nicht auf die persönlichen Daten der Menschen; die Willensbekundung eines bestimmten Menschen gehört zu den persönlichen Daten, und die persönliche Stimme ist geheim (Artikel 6); offen sind die übertragenen Stimmen, die ein Delegierter abgibt
 - **Freiwilligkeit.** Teilnahme und Austritt sind frei, ein Ausschluss ist unmöglich
-- **Widerruflichkeit jedes Auftrags.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle als der ihrer Erteilung widerrufen lässt, wird nicht erteilt
+- **Widerruflichkeit jedes Auftrags.** Eine Befugnis, die sich nicht sofort und mit keiner höheren Schwelle als der ihrer Erteilung widerrufen lässt, wird nicht erteilt. Eine Schwelle wird in dieser Charta durch ein Paar bestimmt: den Anteil der abgegebenen Stimmen und das Quorum. Eine Schwelle ist nur dann nicht höher als eine andere, wenn weder der Anteil noch das Quorum den entsprechenden Wert der anderen übersteigt; eine Schwelle, bei der auch nur einer der beiden Werte höher ist, erfüllt diese Bedingung nicht, selbst wenn der andere niedriger ist
 - **Die Schwelle für die Änderung dieser Charta.** Die Schwellen des Artikels 36 können nicht durch einen Beschluss abgesenkt werden, der nach demselben Artikel gefasst wird; das ist in Artikel 9 der Erklärung festgelegt
 
 > **Das Verhältnis zur Erklärung.** Die aufgezählten Grundsätze sind der betriebliche Ausdruck des unabänderlichen Kerns der Erklärung der Earthlings - des Lebens, der Würde und der Freiheit des Menschen, der planetaren Solidarität, der Sorge für den Planeten und des Grundsatzes, dass es Macht von Menschen über Menschen nicht gibt. Sie dürfen diesen Kern nicht einengen und werden nur zu seinen Gunsten ausgelegt.

@@ -22,7 +22,7 @@ Every vote is equal, every decision is transparent, every action is verifiable.
 
 **Ethics = a reference point.** The Independent Council makes recommendations but does not govern.
 
-**Every mandate is revocable.** No power is granted in the Earthlings people that cannot be revoked immediately and at a threshold no higher than the threshold of its grant. No mandate constitutes an office and none confers an exclusive right to act. Failure to submit a report is in itself a ground for revoking the mandate.
+**Every mandate is revocable.** No power is granted in the Earthlings people that cannot be revoked immediately and at a threshold no higher than the threshold of its grant (Article 37). No mandate constitutes an office and none confers an exclusive right to act. Failure to submit a report is in itself a ground for revoking the mandate.
 
 ---
 
@@ -831,7 +831,7 @@ The following principles cannot be changed even by a qualified majority:
 - **Only people vote.** Structures hold no collective vote
 - **Openness and transparency of decisions and finances.** All decisions of the DAO, the outcomes of votes, the financial transactions of the Fund and the actions of executive structures are public and verifiable. The personal and biometric data of participants is not public - it is protected by Article 13. Transparency extends to the actions of institutions, not to the personal data of people; the expression of will of a particular person is personal data, and a personal vote is secret (Article 6); transferred votes cast by a delegate are open
 - **Voluntariness.** Participation and departure are free; expulsion is impossible
-- **Revocability of every mandate.** A power that cannot be revoked immediately and at a threshold no higher than the threshold of its grant is not granted
+- **Revocability of every mandate.** A power that cannot be revoked immediately and at a threshold no higher than the threshold of its grant is not granted. In this Charter a threshold is a pair: a share of the votes cast and a quorum. One threshold is no higher than another only where neither the share nor the quorum exceeds the corresponding value of the other; a threshold in which either of the two values is higher does not meet this condition, even if the other is lower
 - **The threshold for amending this Charter.** The thresholds set out in Article 36 cannot be lowered by a decision taken under that same Article; this is set out in Article 9 of the Declaration
 
 > **Relation to the Declaration.** The principles listed are the operational expression of the unamendable core of the Earthlings Declaration - the life, dignity and freedom of every person, planetary solidarity, care for the planet and the absence of any power of some people over others. They cannot narrow that core and are construed only in its favour.
