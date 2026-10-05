@@ -1859,7 +1859,7 @@ def head_html(num, doc_title, w, lang='ru'):
         'publisher': {'@type': 'Organization', 'name': 'Earthlings',
                       'logo': {'@type': 'ImageObject', 'url': ORIGIN + '/images/logo.png'}},
         'mainEntityOfPage': url,
-        'image': ORIGIN + '/images/og-image.jpg',
+        'image': ORIGIN + chrome.og_image(lang),
     }
 
     langs = LANGS_BY_DOC.get(num, ALL_LANGS)
@@ -1917,13 +1917,13 @@ def head_html(num, doc_title, w, lang='ru'):
         '<meta property="og:url" content="%s">' % url,
         '<meta property="og:title" content="%s">' % esc(og_title),
         '<meta property="og:description" content="%s">' % esc(og_desc),
-        '<meta property="og:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<meta property="og:image" content="%s%s">' % (ORIGIN, chrome.og_image(lang)),
         '<meta property="og:site_name" content="Earthlings">',
         '<meta property="og:locale" content="%s">' % OG_LOCALE[lang],
         '<meta name="twitter:card" content="summary_large_image">',
         '<meta name="twitter:title" content="%s">' % esc(og_title),
         '<meta name="twitter:description" content="%s">' % esc(og_desc),
-        '<meta name="twitter:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<meta name="twitter:image" content="%s%s">' % (ORIGIN, chrome.og_image(lang)),
         '<link rel="canonical" href="%s">' % url,
         '<script type="application/ld+json">',
         json.dumps(ld, ensure_ascii=False, separators=(',', ':')),
@@ -2346,13 +2346,13 @@ def write_library_v2(lang, titles, dry=False):
         '<meta property="og:url" content="%s">' % url,
         '<meta property="og:title" content="%s">' % esc(title),
         '<meta property="og:description" content="%s">' % esc(desc),
-        '<meta property="og:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<meta property="og:image" content="%s%s">' % (ORIGIN, chrome.og_image(lang)),
         '<meta property="og:site_name" content="Earthlings">',
         '<meta property="og:locale" content="%s">' % OG_LOCALE[lang],
         '<meta name="twitter:card" content="summary_large_image">',
         '<meta name="twitter:title" content="%s">' % esc(title),
         '<meta name="twitter:description" content="%s">' % esc(desc),
-        '<meta name="twitter:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<meta name="twitter:image" content="%s%s">' % (ORIGIN, chrome.og_image(lang)),
         # Структурные данные библиотеки.
         #
         # `CollectionPage` описывает саму страницу, вложенный `ItemList` -
@@ -2916,6 +2916,20 @@ def write_sitemap_v2(titles, dry=False):
     # и есть правка страницы. Второго источника у этой даты быть не может.
     body.append(url(ORIGIN + '/essays/', 'monthly', '0.6',
                     lastmod=_dated(['_tools/build_home_v2.py'])))
+
+    # Страница подписей корпуса. До 2026-10-05 на неё не вёл ни подвал, ни
+    # сайтмап, и проект, который говорит «не доверяй, проверь», прятал саму
+    # проверку. Страница одна и только на английском, поэтому hreflang у неё
+    # нет - как у эссе. Мастера нет: страницу пишет build_verification_index.py
+    # прямо в дерево сайта, и дата берётся из git сайта по самому файлу.
+    ver = os.path.join(SITE, '_v2', 'verification', 'index.html')
+    assert os.path.isfile(ver), u'нет страницы подписей: %s' % ver
+    ver_date = subprocess.run(
+        ['git', '-C', SITE, 'log', '-1', '--format=%cs', '--',
+         '_v2/verification/index.html'],
+        capture_output=True, text=True).stdout.strip()
+    body.append(url(ORIGIN + '/verification/', 'monthly', '0.5',
+                    lastmod=ver_date or None))
 
     docs = 0
     for num in CHAIN + ANNEXES:

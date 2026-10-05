@@ -178,7 +178,7 @@ def article_ld(lang, url, title, desc):
                           'logo': {'@type': 'ImageObject',
                                    'url': ORIGIN + '/images/logo.png'}},
             'mainEntityOfPage': url,
-            'image': ORIGIN + '/images/og-image.jpg'}
+            'image': ORIGIN + C.og_image(lang)}
 
 
 def hub_ld(lang, url, title, desc, items):
@@ -229,13 +229,13 @@ def head_html(lang, url, title, desc, alt_path, ld):
         '<meta property="og:url" content="%s">' % url,
         '<meta property="og:title" content="%s">' % C.esc(title),
         '<meta property="og:description" content="%s">' % C.esc(desc),
-        '<meta property="og:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<meta property="og:image" content="%s%s">' % (ORIGIN, C.og_image(lang)),
         '<meta property="og:site_name" content="Earthlings">',
         '<meta property="og:locale" content="%s">' % OG_LOCALE[lang],
         '<meta name="twitter:card" content="summary_large_image">',
         '<meta name="twitter:title" content="%s">' % C.esc(title),
         '<meta name="twitter:description" content="%s">' % C.esc(desc),
-        '<meta name="twitter:image" content="%s/images/og-image.jpg">' % ORIGIN,
+        '<meta name="twitter:image" content="%s%s">' % (ORIGIN, C.og_image(lang)),
         '<script type="application/ld+json">',
         json.dumps(ld, ensure_ascii=False, separators=(',', ':')),
         '</script>',

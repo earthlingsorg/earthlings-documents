@@ -588,6 +588,24 @@ FOOTER_ESSAYS = [
 ]
 
 
+# Картинка превью для соцсетей. У языка своя, если файл лежит в _v2/images;
+# иначе английская og-image.jpg. Условие по наличию файла, а не списком
+# языков: положили og-image-zh.jpg - и он подхватится без правки кода. Решение
+# Артура 2026-10-04: пока своих картинок пять (ru, en, de, es, fr); zh, hi, ka,
+# ar намеренно остаются на английской - их письменности требуют своих шрифтов
+# и проверки глазами. Это записанное решение, а не недоделка.
+def og_image(lang):
+    u"""Путь картинки превью от корня сайта: '/images/og-image-<lang>.jpg' или '/images/og-image.jpg'."""
+    own = 'og-image-%s.jpg' % lang
+    if os.path.isfile(os.path.join(SITE, '_v2', 'images', own)):
+        return '/images/' + own
+    return '/images/og-image.jpg'
+
+
+# Страница подписей корпуса: манифесты, подписи и записи в цепи.
+SIGNATURES_URL = u'/verification/'
+
+
 def footer_html(lang, doc_href, has_doc=None, flush=False):
     u"""Подвал. `flush=True` прижимает его вплотную к последней полосе.
 
@@ -618,13 +636,21 @@ def footer_html(lang, doc_href, has_doc=None, flush=False):
                                          ('23', 'nav.about_us'),
                                          ('22', 'nav.legal_info'))
              if has_doc(num)]
-    if about:
-        a(u'<div class="ftr-col"><h2 class="ftr-h">Earthlings</h2>'
-          u'<ul class="ftr-list">')
-        for num, key in about:
-            a(u'<li><a href="%s">%s</a></li>'
-              % (esc(doc_href(num)), esc(t(lang, key))))
-        a(u'</ul></div>')
+    # Четвёртой строкой - страница подписей корпуса. Это не документ, а
+    # внешний адрес, поэтому она идёт отдельной строкой после цикла, а не
+    # парой (номер, ключ): doc_href для неё не существует. Стоит последней -
+    # проверка подписей формальнее юридической информации. Страница только
+    # на английском, и ссылка на неё с девяти языков осознанная, как ссылка
+    # на Polygonscan в документе 32. Колонка теперь есть всегда: даже если
+    # ни одного из трёх документов нет, ссылка на подписи остаётся.
+    a(u'<div class="ftr-col"><h2 class="ftr-h">Earthlings</h2>'
+      u'<ul class="ftr-list">')
+    for num, key in about:
+        a(u'<li><a href="%s">%s</a></li>'
+          % (esc(doc_href(num)), esc(t(lang, key))))
+    a(u'<li><a href="%s">%s</a></li>'
+      % (SIGNATURES_URL, esc(t(lang, 'nav.signatures'))))
+    a(u'</ul></div>')
 
     # Колонка называется «Политики», а не «Документы»: в ней и лежат только
     # политики - конфиденциальности, пользования и биометрической проверки.
