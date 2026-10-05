@@ -30,7 +30,7 @@ Con la presente Declaración nos constituimos en pueblo para determinar nosotros
 
 # Parte I. Los fundamentos
 
-*La presente parte forma el núcleo intangible del pueblo Earthlings. Los principios que establece no pueden ser derogados, restringidos, suspendidos ni eludidos por decisión alguna.*
+*La presente parte forma el núcleo intangible del pueblo Earthlings. Los principios que establece no pueden ser derogados, restringidos, suspendidos ni eludidos.*
 
 ## Artículo 1. La constitución del pueblo
 
@@ -80,7 +80,7 @@ En el pueblo Earthlings, el gobierno del pueblo se asienta en tres condiciones, 
 
 **No existe el poder de unas personas sobre otras.** Nadie en el pueblo Earthlings ocupa una posición desde la que pueda mandar sobre otra persona. Las facultades en el pueblo Earthlings están siempre limitadas, están repartidas y son revocables y verificables. Un encargo para el desempeño de cualesquiera funciones no se convierte en cargo. Ninguna posición sitúa a una persona, a una institución o a un grupo por encima de la voluntad colectiva del pueblo.
 
-**La tecnología.** Toda tecnología sirve a la persona y a la vida. Ninguna tecnología puede emplearse para manipular de manera oculta a las personas, limitar su libertad, crear diferencias de casta o de jerarquía, someterlas digitalmente o suprimir la autonomía humana. Ningún algoritmo, código o sistema de inteligencia artificial puede ser fuente última de una decisión que afecte a los derechos, la dignidad o la situación de una persona. Toda persona tiene derecho a la protección de la privacidad de sus datos. Los requisitos que la infraestructura debe cumplir para asegurar esos derechos se establecen en el artículo 10.
+**La tecnología.** Toda tecnología sirve a la persona y a la vida. Ninguna tecnología puede emplearse para manipular a las personas, incluso de manera oculta, para limitar su libertad, crear diferencias de casta o de jerarquía, someterlas digitalmente o suprimir la autonomía humana. Ningún algoritmo, código o sistema de inteligencia artificial puede ser fuente última de una decisión que afecte a los derechos, la dignidad o la situación de una persona. Toda persona tiene derecho a la protección de la privacidad de sus datos. Los requisitos que la infraestructura debe cumplir para asegurar esos derechos se establecen en el artículo 10.
 
 ## Artículo 4. Garantías a la persona
 
@@ -104,7 +104,7 @@ La lista de estos motivos es cerrada: no cabe interpretarla de manera extensiva,
 
 ## Artículo 5. Nuestras obligaciones
 
-El pueblo Earthlings establece sus propios límites en el presente artículo. Rigen en toda circunstancia y no pueden ser derogados, restringidos, suspendidos ni eludidos por decisión alguna; las redacciones en las que están expuestos solo pueden modificarse en la forma y en las condiciones del artículo 11.
+El pueblo Earthlings establece sus propios límites en el presente artículo. Rigen en toda circunstancia y no pueden ser derogados, restringidos, suspendidos ni eludidos; las redacciones en las que están expuestos solo pueden modificarse en la forma y en las condiciones del artículo 11.
 
 **Renuncia a la violencia.** El pueblo Earthlings renuncia al empleo de la violencia como medio para alcanzar sus fines. No crea, no constituye, no financia y no apoya estructuras armadas, paramilitares, de seguridad ni de ninguna otra clase capaces de ejercer violencia, ni directamente ni a través de terceros.
 
@@ -213,7 +213,7 @@ La cesión se realiza solo por voluntad de quien cede, y este la revoca en cualq
 
 Tales personas jurídicas no encarnan al pueblo, no determinan su existencia, no tienen poder sobre él y no son fuente de su legitimidad. Pueden constituirse, sustituirse y extinguirse sin consecuencias para el pueblo. El registro de earthlings, la verificación de su identidad y los datos relacionados con ella no son patrimonio de la persona jurídica, no pueden ser transmitidos, vendidos, pignorados ni enajenados de ningún otro modo. A través de esas mismas interfaces el pueblo Earthlings responde a los requerimientos legítimos de los órganos del Estado.
 
-**Modificación de las reglas del autogobierno.** El procedimiento de debate y de adopción de decisiones, los requisitos de participación, los plazos y las demás reglas de organización del autogobierno los establece la Carta. Estas reglas no pueden modificarse por mayoría simple. El umbral de modificación de la Carta lo establece la propia Carta; ese umbral no puede rebajarse ni por una decisión adoptada conforme a la propia Carta ni por ninguna otra vía.
+**Modificación de las reglas del autogobierno.** El procedimiento de debate y de adopción de decisiones, los requisitos de participación, los plazos y las demás reglas de organización del autogobierno los establece la Carta. Estas reglas no pueden modificarse por mayoría simple. El umbral de modificación de la Carta lo establece la propia Carta; ese umbral no puede rebajarse ni por una decisión adoptada conforme a la propia Carta ni por ninguna otra vía, incluida la modificación de la base de cómputo o del quórum.
 
 ## Artículo 10. La infraestructura del pueblo
 

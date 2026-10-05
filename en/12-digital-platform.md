@@ -53,7 +53,7 @@ The Charter provides for no other structures with technical powers over the plat
 
 The platform will use existing artificial-intelligence models to analyse initiatives, support projects, and automate routine work; today it has no such tools. In the longer term, developing an in-house model adapted to the people's tasks is under consideration.
 
-The limits on the use of AI are set out in Article 3 of the Declaration: no algorithm, code or artificial-intelligence system may be the final source of a decision affecting the rights, the dignity or the position of a person, and no technology may be used to manipulate people covertly or to suppress human autonomy. Hence three strict rules that apply whichever model is used:
+The limits on the use of AI are set out in Article 3 of the Declaration: no algorithm, code or artificial-intelligence system may be the final source of a decision affecting the rights, the dignity or the position of a person, and no technology may be used to manipulate people (including covertly) or to suppress human autonomy. Hence three strict rules that apply whichever model is used:
 
 - **AI has the final say on nothing** (Declaration, Article 3). AI output on an initiative or a project is advisory and is not a ground for refusal; a refusal by the automated system during identity verification is not final, and review by a human being is carried out under the Biometric Verification Policy.
 - **Reasons are disclosed.** A person whose initiative AI has flagged receives a statement of the reasons in intelligible form, not a refusal without explanation.

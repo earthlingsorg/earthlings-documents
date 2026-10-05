@@ -30,7 +30,7 @@ By this Declaration we constitute ourselves as a people, in order to determine o
 
 # Part I. Foundations
 
-*This Part forms the unamendable core of the Earthlings people. The principles it sets out cannot be abolished, narrowed, suspended or circumvented by any decision.*
+*This Part forms the unamendable core of the Earthlings people. The principles it sets out cannot be abolished, narrowed, suspended or circumvented.*
 
 ## Article 1. Constitution of the People
 
@@ -80,7 +80,7 @@ Rule by the people within the Earthlings people rests on three conditions, and n
 
 **No Power of Some Over Others.** No one in the Earthlings people holds a position from which to command another person. Powers within the Earthlings people are at all times limited, distributed, revocable and verifiable. A mandate to carry out any function does not become an office. No position places a person, an institution or a group above the collective will of the people.
 
-**Technology.** Any technology serves every person and serves life. No technology may be used to manipulate people covertly, to limit their freedom, to create distinctions of caste or hierarchy, to subordinate people by digital means, or to suppress human autonomy. No algorithm, code or artificial-intelligence system may be the final source of a decision affecting the rights, the dignity or the position of a person. Every person has the right to protection of the privacy of their data. The requirements for infrastructure that secure these rights are set out in Article 10.
+**Technology.** Any technology serves every person and serves life. No technology may be used to manipulate people (including covertly), to limit their freedom, to create distinctions of caste or hierarchy, to subordinate people by digital means, or to suppress human autonomy. No algorithm, code or artificial-intelligence system may be the final source of a decision affecting the rights, the dignity or the position of a person. Every person has the right to protection of the privacy of their data. The requirements for infrastructure that secure these rights are set out in Article 10.
 
 ## Article 4. Guarantees to the Person
 
@@ -104,7 +104,7 @@ The list of these grounds is exhaustive: it cannot be extended by interpretation
 
 ## Article 5. Our Undertakings
 
-By this Article the Earthlings people sets limits upon itself. They apply in all circumstances and cannot be abolished, narrowed, suspended or circumvented by any decision; the wording in which they are set out may change only under Article 11 and subject to its conditions.
+By this Article the Earthlings people sets limits upon itself. They apply in all circumstances and cannot be abolished, narrowed, suspended or circumvented; the wording in which they are set out may change only under Article 11 and subject to its conditions.
 
 **Renunciation of Violence.** The Earthlings people renounces the use of violence as a means of achieving its aims. It does not create, constitute, finance or support armed, paramilitary, security or any other structures capable of using violence, whether directly or through third parties.
 
@@ -213,7 +213,7 @@ The transfer is made only at the will of the person transferring it, and can be 
 
 Such legal entities do not embody the people, do not determine its existence, hold no power over it, and are not a source of its legitimacy. They may be established, replaced and wound up without consequence for the people. The registry of earthlings, the confirmation of their identity and the data connected with it are not the property of any legal entity and cannot be transferred, sold, pledged or otherwise disposed of. Through those same interfaces the Earthlings people answers lawful requests from state authorities.
 
-**Changing the Rules of Self-Governance.** The procedure for discussion and for taking decisions, the requirements for participation, the time limits and other rules for organizing self-governance are set out in the Earthlings Charter. These rules cannot be changed by a simple majority. The threshold for amending the Earthlings Charter is set by the Earthlings Charter itself; this threshold cannot be lowered, either by a decision taken under the Charter itself or in any other way.
+**Changing the Rules of Self-Governance.** The procedure for discussion and for taking decisions, the requirements for participation, the time limits and other rules for organizing self-governance are set out in the Earthlings Charter. These rules cannot be changed by a simple majority. The threshold for amending the Earthlings Charter is set by the Earthlings Charter itself; this threshold cannot be lowered, either by a decision taken under the Charter itself or in any other way, including by changing the basis on which votes are counted or by changing the quorum.
 
 ## Article 10. The Infrastructure of the People
 

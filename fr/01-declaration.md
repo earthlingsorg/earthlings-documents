@@ -30,7 +30,7 @@ Par la présente Déclaration, nous nous constituons en un peuple, afin de déte
 
 # Partie I. Les fondements
 
-*La présente partie forme le noyau intangible du peuple des Earthlings. Les principes qu'elle établit ne peuvent être abrogés, restreints, suspendus ni contournés par aucune décision.*
+*La présente partie forme le noyau intangible du peuple des Earthlings. Les principes qu'elle établit ne peuvent être abrogés, restreints, suspendus ni contournés.*
 
 ## Article 1. La constitution du peuple
 
@@ -80,7 +80,7 @@ Au sein du peuple des Earthlings, le gouvernement du peuple repose sur trois con
 
 **Le pouvoir des uns sur les autres n'existe pas.** Nul, dans le peuple des Earthlings, n'est placé de manière à pouvoir disposer d'une autre personne. Les pouvoirs, dans le peuple des Earthlings, sont toujours limités, répartis, révocables et vérifiables. Une mission confiée pour accomplir une tâche quelconque ne devient pas une fonction. Aucune situation ne place une personne, une institution ou un groupe au-dessus de la volonté collective du peuple.
 
-**La technologie.** Toute technologie sert la personne et la vie. Aucune technologie ne peut être employée pour manipuler les gens de façon dissimulée, restreindre leur liberté, créer des distinctions de caste ou de hiérarchie, instaurer une sujétion numérique ou étouffer l'autonomie humaine. Aucun algorithme, aucun code et aucun système d'intelligence artificielle ne peut être la source ultime d'une décision touchant les droits, la dignité ou la situation d'une personne. Toute personne a droit à la protection de la confidentialité de ses données. Les exigences relatives à l'infrastructure, qui assurent ces droits, sont prévues à l'article 10.
+**La technologie.** Toute technologie sert la personne et la vie. Aucune technologie ne peut être employée pour manipuler les gens, y compris de façon dissimulée, pour restreindre leur liberté, créer des distinctions de caste ou de hiérarchie, instaurer une sujétion numérique ou étouffer l'autonomie humaine. Aucun algorithme, aucun code et aucun système d'intelligence artificielle ne peut être la source ultime d'une décision touchant les droits, la dignité ou la situation d'une personne. Toute personne a droit à la protection de la confidentialité de ses données. Les exigences relatives à l'infrastructure, qui assurent ces droits, sont prévues à l'article 10.
 
 ## Article 4. Les garanties données à la personne
 
@@ -104,7 +104,7 @@ La liste de ces motifs est fermée: elle ne peut être interprétée extensiveme
 
 ## Article 5. Nos engagements
 
-Le peuple des Earthlings fixe ses propres limites par le présent article. Elles valent en toutes circonstances et ne peuvent être abrogées, restreintes, suspendues ni contournées par aucune décision; leur rédaction ne peut être modifiée que selon la procédure et dans les conditions de l'article 11.
+Le peuple des Earthlings fixe ses propres limites par le présent article. Elles valent en toutes circonstances et ne peuvent être abrogées, restreintes, suspendues ni contournées; leur rédaction ne peut être modifiée que selon la procédure et dans les conditions de l'article 11.
 
 **La renonciation à la violence.** Le peuple des Earthlings renonce à l'emploi de la violence comme moyen d'atteindre ses fins. Il ne crée, ne constitue, ne finance et ne soutient aucune structure armée, paramilitaire ou de sécurité, ni aucune autre structure capable d'employer la violence - ni directement, ni par l'intermédiaire de tiers.
 
@@ -213,7 +213,7 @@ Le transfert ne se fait que par la volonté de celui qui transfère et est révo
 
 Ces personnes morales n'incarnent pas le peuple, ne déterminent pas son existence, n'exercent aucun pouvoir sur lui et ne sont pas la source de sa légitimité. Elles peuvent être constituées, remplacées et dissoutes sans conséquence pour le peuple. Le registre des earthlings, la vérification de leur identité et les données qui s'y rattachent ne sont pas des biens de la personne morale, ne peuvent être cédés, vendus, donnés en gage ni aliénés d'aucune autre manière. C'est par ces mêmes interfaces que le peuple des Earthlings répond aux demandes légales des organes de l'État.
 
-**La modification des règles de l'autogouvernement.** La procédure du débat, l'adoption des décisions, les conditions de participation, les délais et les autres règles d'organisation de l'autogouvernement sont établis par la Charte des Earthlings. Ces règles ne peuvent être modifiées à la majorité simple. Le seuil de modification de la Charte des Earthlings est établi par la Charte des Earthlings elle-même; ce seuil ne peut être abaissé ni par une décision prise dans les conditions de la Charte elle-même, ni par aucune autre voie.
+**La modification des règles de l'autogouvernement.** La procédure du débat, l'adoption des décisions, les conditions de participation, les délais et les autres règles d'organisation de l'autogouvernement sont établis par la Charte des Earthlings. Ces règles ne peuvent être modifiées à la majorité simple. Le seuil de modification de la Charte des Earthlings est établi par la Charte des Earthlings elle-même; ce seuil ne peut être abaissé ni par une décision prise dans les conditions de la Charte elle-même, ni par aucune autre voie, y compris par une modification de la base de calcul ou du quorum.
 
 ## Article 10. L'infrastructure du peuple
 

@@ -30,7 +30,7 @@ Mit dieser Erklärung konstituieren wir uns als ein Volk, um unser Schicksal sel
 
 # Teil I. Die Grundlagen
 
-*Dieser Teil bildet den unabänderlichen Kern des Volkes der Earthlings. Die Grundsätze, die er festlegt, können durch keinen Beschluss aufgehoben, eingeschränkt, ausgesetzt oder umgangen werden.*
+*Dieser Teil bildet den unabänderlichen Kern des Volkes der Earthlings. Die Grundsätze, die er festlegt, können nicht aufgehoben, eingeschränkt, ausgesetzt oder umgangen werden.*
 
 ## Artikel 1. Die Konstituierung des Volkes
 
@@ -80,7 +80,7 @@ Die Volksherrschaft im Volk der Earthlings beruht auf drei Voraussetzungen, und 
 
 **Macht von Menschen über Menschen gibt es nicht.** Niemand im Volk der Earthlings nimmt eine Stellung ein, aus der heraus er über einen anderen Menschen bestimmen könnte. Die Befugnisse im Volk der Earthlings sind jederzeit begrenzt, verteilt, widerruflich und überprüfbar. Ein Auftrag zur Wahrnehmung irgendwelcher Aufgaben wird nicht zum Amt. Keine Stellung stellt einen Menschen, eine Einrichtung oder eine Gruppe über den kollektiven Willen des Volkes.
 
-**Die Technik.** Jede Technik dient dem Menschen und dem Leben. Keine Technik darf zur verdeckten Beeinflussung von Menschen, zur Einschränkung ihrer Freiheit, zur Schaffung von Kasten- oder Rangunterschieden, zur digitalen Unterwerfung oder zur Unterdrückung der Autonomie des Menschen eingesetzt werden. Kein Algorithmus, kein Code und kein System künstlicher Intelligenz darf die endgültige Quelle einer Entscheidung sein, die die Rechte, die Würde oder die Stellung eines Menschen berührt. Jeder Mensch hat das Recht auf den Schutz der Vertraulichkeit seiner Daten. Die Anforderungen an die Infrastruktur, die diese Rechte sichern, sind in Artikel 10 festgelegt.
+**Die Technik.** Jede Technik dient dem Menschen und dem Leben. Keine Technik darf zur Manipulation von Menschen, einschließlich der verdeckten, zur Einschränkung ihrer Freiheit, zur Schaffung von Kasten- oder Rangunterschieden, zur digitalen Unterwerfung oder zur Unterdrückung der Autonomie des Menschen eingesetzt werden. Kein Algorithmus, kein Code und kein System künstlicher Intelligenz darf die endgültige Quelle einer Entscheidung sein, die die Rechte, die Würde oder die Stellung eines Menschen berührt. Jeder Mensch hat das Recht auf den Schutz der Vertraulichkeit seiner Daten. Die Anforderungen an die Infrastruktur, die diese Rechte sichern, sind in Artikel 10 festgelegt.
 
 ## Artikel 4. Gewährleistungen für den Menschen
 
@@ -104,7 +104,7 @@ Das Verzeichnis dieser Gründe ist abschließend: Es darf weder durch die Charta
 
 ## Artikel 5. Unsere Verpflichtungen
 
-Das Volk der Earthlings setzt sich mit diesem Artikel seine Grenzen. Sie gelten unter allen Umständen und können durch keinen Beschluss aufgehoben, eingeschränkt, ausgesetzt oder umgangen werden; die Formulierungen, in denen sie dargelegt sind, können nur in dem Verfahren und unter den Voraussetzungen des Artikels 11 geändert werden.
+Das Volk der Earthlings setzt sich mit diesem Artikel seine Grenzen. Sie gelten unter allen Umständen und können nicht aufgehoben, eingeschränkt, ausgesetzt oder umgangen werden; die Formulierungen, in denen sie dargelegt sind, können nur in dem Verfahren und unter den Voraussetzungen des Artikels 11 geändert werden.
 
 **Der Verzicht auf Gewalt.** Das Volk der Earthlings verzichtet auf die Anwendung von Gewalt als Mittel zur Erreichung seiner Ziele. Es schafft, errichtet, finanziert oder unterstützt keine bewaffneten, paramilitärischen, Sicherheits- oder sonstigen Strukturen, die Gewalt anwenden können - weder unmittelbar noch über Dritte.
 
@@ -213,7 +213,7 @@ Die Übertragung geschieht allein durch den Willen dessen, der überträgt, und 
 
 Solche juristischen Personen sind nicht die Träger des Volkes, bestimmen sein Bestehen nicht, haben keine Macht über das Volk und sind keine Quelle seiner Legitimität. Sie können errichtet, ersetzt und beendet werden, ohne Folgen für das Volk. Das Register der Earthlings, die Prüfung ihrer Identität und die damit verbundenen Daten sind kein Vermögen einer juristischen Person und können nicht übertragen, verkauft, verpfändet oder auf andere Weise veräußert werden. Über dieselben Schnittstellen beantwortet das Volk der Earthlings rechtmäßige Auskunftsersuchen staatlicher Stellen.
 
-**Die Änderung der Regeln der Selbstverwaltung.** Das Verfahren der Beratung und der Beschlussfassung, die Anforderungen an die Teilnahme, die Fristen und die übrigen Regeln für die Ordnung der Selbstverwaltung legt die Charta der Earthlings fest. Diese Regeln können nicht mit einfacher Mehrheit geändert werden. Die Schwelle für die Änderung der Charta der Earthlings legt die Charta der Earthlings selbst fest; diese Schwelle kann weder durch einen Beschluss, der gemäß der Charta selbst gefasst wird, noch auf irgendeinem anderen Weg abgesenkt werden.
+**Die Änderung der Regeln der Selbstverwaltung.** Das Verfahren der Beratung und der Beschlussfassung, die Anforderungen an die Teilnahme, die Fristen und die übrigen Regeln für die Ordnung der Selbstverwaltung legt die Charta der Earthlings fest. Diese Regeln können nicht mit einfacher Mehrheit geändert werden. Die Schwelle für die Änderung der Charta der Earthlings legt die Charta der Earthlings selbst fest; diese Schwelle kann weder durch einen Beschluss, der gemäß der Charta selbst gefasst wird, noch auf irgendeinem anderen Weg abgesenkt werden, auch nicht durch eine Änderung der Berechnungsgrundlage oder des Quorums.
 
 ## Artikel 10. Die Infrastruktur des Volkes
 
