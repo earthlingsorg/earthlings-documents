@@ -213,7 +213,7 @@ La cesión se realiza solo por voluntad de quien cede, y este la revoca en cualq
 
 Tales personas jurídicas no encarnan al pueblo, no determinan su existencia, no tienen poder sobre él y no son fuente de su legitimidad. Pueden constituirse, sustituirse y extinguirse sin consecuencias para el pueblo. El registro de earthlings, la verificación de su identidad y los datos relacionados con ella no son patrimonio de la persona jurídica, no pueden ser transmitidos, vendidos, pignorados ni enajenados de ningún otro modo. A través de esas mismas interfaces el pueblo Earthlings responde a los requerimientos legítimos de los órganos del Estado.
 
-**Modificación de las reglas del autogobierno.** El procedimiento de debate y de adopción de decisiones, los requisitos de participación, los plazos y las demás reglas de organización del autogobierno los establece la Carta. Estas reglas no pueden modificarse por mayoría simple. El umbral de modificación de la Carta lo establece la propia Carta; ese umbral no puede rebajarse ni por una decisión adoptada conforme a la propia Carta ni por ninguna otra vía, incluida la modificación de la base de cómputo o del quórum.
+**Modificación de las reglas del autogobierno.** El procedimiento de debate y de adopción de decisiones, los requisitos de participación, los plazos y las demás reglas de organización del autogobierno los establece la Carta. Estas reglas no pueden modificarse por mayoría simple. El umbral de modificación de la Carta lo establece la propia Carta; ese umbral no puede rebajarse ni por una decisión adoptada conforme a la propia Carta ni por ninguna otra vía, incluida la modificación del quórum o de la base a partir de la cual se calcula la parte.
 
 ## Artículo 10. La infraestructura del pueblo
 
@@ -254,17 +254,17 @@ La presente Declaración es el documento fundamental del pueblo Earthlings y tie
 4. la salida es libre en cualquier momento y sin explicar los motivos, y no existe la expulsión del pueblo;
 5. el pueblo habla, pero no coacciona: la violencia está excluida sin excepción.
 
-Ninguno de estos principios puede ser derogado, restringido, suspendido ni eludido, ni por decisión de la mayoría, ni por la Carta, ni por vía de interpretación, ni mediante la modificación de la base técnica. No se suspenden en ninguna circunstancia: ni en una crisis, ni en un estado de excepción, ni bajo presión externa, ni ante un ataque técnico.
+Ninguno de estos principios puede ser derogado, restringido, suspendido ni eludido, ni por decisión de la mayoría, ni por la Carta, ni por vía de interpretación, ni mediante la modificación de la base técnica, ni por ninguna otra vía. No se suspenden en ninguna circunstancia: ni en una crisis, ni en un estado de excepción, ni bajo presión externa, ni ante un ataque técnico.
 
 Las redacciones en las que estos principios están expuestos sí pueden modificarse. La modificación de una redacción solo es admisible si se cumplen a la vez dos condiciones: que no derogue ni restrinja ninguno de los principios y que no rebaje ninguna garantía de la persona. En caso de duda sobre si la modificación rebaja una garantía, se considera que la rebaja y no se adopta.
 
 Se puede completar el núcleo con un principio nuevo. Debilitar o suprimir uno existente, no. La decisión de modificar las redacciones de la parte I o de completarla con un principio nuevo se adopta en la forma establecida más abajo para la modificación de la parte II, y solo si se cumplen las condiciones enunciadas más arriba.
 
-Todo intento de eludir el núcleo mediante otro procedimiento, otra redacción u otro mecanismo jurídico constituye su infracción, cualquiera que sea la forma de la elusión. El intento de suprimir, restringir, sustituir o redefinir sus principios significa la creación de otra entidad, que no es el pueblo Earthlings, cualesquiera que sean su nombre, la composición de sus earthlings, su software y la infraestructura que emplee.
+Todo intento de eludir el núcleo, en particular mediante otro procedimiento, otra redacción u otro mecanismo jurídico, constituye su infracción, cualquiera que sea la forma de la elusión. El intento de suprimir, restringir, sustituir o redefinir sus principios significa la creación de otra entidad, que no es el pueblo Earthlings, cualesquiera que sean su nombre, la composición de sus earthlings, su software y la infraestructura que emplee.
 
 Una decisión contraria a la parte I es nula de pleno derecho desde su adopción. Ni el transcurso del tiempo, ni la ejecución de la decisión, ni la ausencia de objeciones la convalidan. Ante cualquier duda, las disposiciones de la parte I se interpretan a favor de la persona y en contra de la ampliación de las facultades de cualquier institución, encargo o procedimiento del pueblo Earthlings.
 
-**Qué es modificable.** La parte II de la presente Declaración puede modificarse, completarse o reducirse por decisión de la Asamblea que se adopte por no menos de dos tercios de los votos emitidos, con un quórum que establezca la Carta y que no puede ser inferior a la relación entre los votos emitidos y el número de personas verificadas que consta en el artículo 12.
+**Qué es modificable.** La parte II de la presente Declaración puede modificarse, completarse o reducirse por decisión de la Asamblea que se adopte por no menos de dos tercios de los votos emitidos, con un quórum que establezca la Carta y que no puede ser inferior a la relación que consta en el artículo 12 entre los votos emitidos y el número de personas verificadas.
 
 Una modificación no puede rebajar ninguna garantía de la persona establecida por la presente Declaración. La modificación adoptada con infracción de estas condiciones es nula de pleno derecho desde su adopción.
 

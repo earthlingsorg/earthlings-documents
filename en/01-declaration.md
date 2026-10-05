@@ -213,7 +213,7 @@ The transfer is made only at the will of the person transferring it, and can be 
 
 Such legal entities do not embody the people, do not determine its existence, hold no power over it, and are not a source of its legitimacy. They may be established, replaced and wound up without consequence for the people. The registry of earthlings, the confirmation of their identity and the data connected with it are not the property of any legal entity and cannot be transferred, sold, pledged or otherwise disposed of. Through those same interfaces the Earthlings people answers lawful requests from state authorities.
 
-**Changing the Rules of Self-Governance.** The procedure for discussion and for taking decisions, the requirements for participation, the time limits and other rules for organizing self-governance are set out in the Earthlings Charter. These rules cannot be changed by a simple majority. The threshold for amending the Earthlings Charter is set by the Earthlings Charter itself; this threshold cannot be lowered, either by a decision taken under the Charter itself or in any other way, including by changing the basis on which votes are counted or by changing the quorum.
+**Changing the Rules of Self-Governance.** The procedure for discussion and for taking decisions, the requirements for participation, the time limits and other rules for organizing self-governance are set out in the Earthlings Charter. These rules cannot be changed by a simple majority. The threshold for amending the Earthlings Charter is set by the Earthlings Charter itself; this threshold cannot be lowered, either by a decision taken under the Charter itself or in any other way, including by changing the quorum or by changing the base against which the share is calculated.
 
 ## Article 10. The Infrastructure of the People
 
@@ -254,17 +254,17 @@ This Declaration is the founding document of the Earthlings people and holds the
 4. leaving is free at any time and without giving reasons, and there is no expulsion from the people;
 5. the people speaks but does not compel: violence is excluded without exception.
 
-None of these principles can be abolished, narrowed, suspended or circumvented - whether by a decision of the majority, by the Earthlings Charter, by interpretation, or by a change of the technical basis. They are not suspended under any circumstances - not in a crisis, not under a state of emergency, not under external pressure, not under technical attack.
+None of these principles can be abolished, narrowed, suspended or circumvented - whether by a decision of the majority, by the Earthlings Charter, by interpretation, by a change of the technical basis, or in any other way. They are not suspended under any circumstances - not in a crisis, not under a state of emergency, not under external pressure, not under technical attack.
 
 The wording in which these principles are set out may change. A change of wording is permissible only if two conditions are both satisfied: it neither abolishes nor narrows any of the principles, and it lowers no guarantee to any person. Where there is doubt whether a change lowers a guarantee, it is deemed to lower it and is not adopted.
 
 A new principle may be added to the core. An existing one may not be weakened or removed. A change to the wording of Part I and the addition of a new principle to it are adopted in the manner set out below for changing Part II, and only if the conditions stated above are satisfied.
 
-Any attempt to circumvent the core by another procedure, another wording or another legal mechanism is a breach of it, whatever the form of circumvention. An attempt to remove, narrow, replace or redefine its principles amounts to the creation of a different body, one that is not the Earthlings people - whatever its name, whoever its earthlings, and whatever software and infrastructure it uses.
+Any attempt to circumvent the core, including by another procedure, another wording or another legal mechanism, is a breach of it, whatever the form of circumvention. An attempt to remove, narrow, replace or redefine its principles amounts to the creation of a different body, one that is not the Earthlings people - whatever its name, whoever its earthlings, and whatever software or infrastructure it uses.
 
 A decision that contradicts Part I is void from the moment it is taken. Neither the passage of time, nor the execution of the decision, nor the absence of objections cures it. In any case of doubt the provisions of Part I are construed in favour of the person and against any extension of the powers of any institution, mandate or procedure of the Earthlings people.
 
-**What Is Amendable.** Part II of this Declaration may be changed, supplemented or shortened by a decision of the Assembly taken by not less than two thirds of the votes cast, subject to a quorum set by the Earthlings Charter, which quorum cannot be lower than the ratio of votes cast to the number of confirmed people recorded in Article 12.
+**What Is Amendable.** Part II of this Declaration may be changed, supplemented or shortened by a decision of the Assembly taken by not less than two thirds of the votes cast, subject to a quorum set by the Earthlings Charter, which quorum cannot be lower than the ratio, recorded in Article 12, of votes cast to the number of confirmed people.
 
 A change cannot lower any guarantee to a person set out in this Declaration. A change adopted in breach of these conditions is void from the moment it is taken.
 
