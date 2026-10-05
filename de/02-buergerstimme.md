@@ -252,7 +252,7 @@ Der Abschnitt besteht, damit ein beitretender Mensch sich keine Erwartungen mach
 
 **Das ist keine Partei und keine Teilnahme am inneren Kampf.** Das Volk stellt keine Kandidaten auf, unterstützt sie nicht und finanziert sie nicht. Bei jeder Größe. Die Beschränkung ist konstituierend, und durch eine Abstimmung lässt sie sich nicht aufheben. Und sie ist keine Schwäche, sondern eine Bedingung des Bestehens: Eine transnationale Gemeinschaft aus Dutzenden Millionen Menschen, die sich in die Innenpolitik von Ländern einmischt, wäre schon im ersten Jahr verboten worden, und zu Recht verboten.
 
-**Das ist kein Zwang.** Das Volk spricht, aber es zwingt nicht - Gewalt ist ohne Ausnahme ausgeschlossen. Aus dem Ergebnis einer Messung folgen keine Sanktionen, keine Boykotte und keine Strafen im Namen des Volkes.
+**Das ist kein Zwang.** Das Volk spricht, aber es zwingt nicht - die Anwendung von Gewalt ist ohne Ausnahme ausgeschlossen. Aus dem Ergebnis einer Messung folgen keine Sanktionen, keine Boykotte und keine Strafen im Namen des Volkes.
 
 **Das hebt niemandes Rechte auf.** Das Bestehen des Volkes mindert nicht die Rechte derer, die ihm nicht beigetreten sind, und das Volk erhebt weder Anspruch auf ein Gebiet noch auf Macht noch auf das Recht, für die ganze Menschheit zu sprechen.
 

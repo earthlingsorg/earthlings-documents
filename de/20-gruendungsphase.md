@@ -97,7 +97,7 @@ Fünf wesentliche Bestimmungen stehen unter keinen Umständen zur Erörterung. E
 - **Macht von Menschen über Menschen gibt es nicht.** Niemand nimmt eine Stellung über einem anderen Earthling ein; Befugnisse sind begrenzt, widerruflich und überprüfbar, ein Auftrag wird nicht zum Amt.
 - **Geld ist von der Stimme getrennt.** Vermögen, Beiträge und eingebrachte Mittel geben keine zusätzlichen Rechte in der Verwaltung.
 - **Der Austritt ist frei.** Jederzeit, ohne Angabe von Gründen. Einen Ausschluss aus dem Volk gibt es nicht.
-- **Das Volk spricht, aber es zwingt nicht.** Gewalt ist ohne Ausnahme ausgeschlossen.
+- **Das Volk spricht, aber es zwingt nicht.** Die Anwendung von Gewalt ist ohne Ausnahme ausgeschlossen.
 
 Alle fünf sind in Teil I der Erklärung niedergelegt und in ihrem Artikel 11 als die wesentlichen Grundsätze des unabänderlichen Kerns aufgezählt, den Kern selbst aber bildet der ganze Teil I. Vorschläge, die auf die Aufhebung oder Einschränkung seiner Grundsätze zielen, werden nicht behandelt. Vorschläge zur Präzisierung der Formulierungen und zur Ergänzung des Kerns werden gleichrangig mit allen behandelt.
 
@@ -239,7 +239,7 @@ Sind keine Vorschläge eingegangen oder ist keiner der eingegangenen in den Text
 
 Ist die Voraussetzung der Teilnahme (Ziffer 2 oder 3) nicht erfüllt, so wird der Tag der Annahme um drei Monate verschoben; eine Verschiebung ist höchstens zweimal zulässig. Drei Monate deshalb, weil sich fehlende Teilnahme durch die Einladung von Menschen beheben lässt, und das ist Arbeit von Monaten, nicht von Wochen: Eine Verschiebung um eine kürzere Frist würde einen Versuch verbrauchen, ohne etwas zu ändern. Höchstens zweimal deshalb, weil ohne Grenze „warten wir noch ab“ nicht von „wir stellen ihn nie zur Abstimmung“ zu unterscheiden ist. Sind die Voraussetzungen der Teilnahme erfüllt, sind aber für die Annahme weniger als zwei Drittel der bei der Abstimmung abgegebenen Stimmen abgegeben worden, so ist der Text nicht angenommen.
 
-Ist auch nach der zweiten Verschiebung die Voraussetzung der Teilnahme nicht erfüllt, so wird nur das Erfordernis des Anteils gelockert: Der Text gilt als angenommen, wenn an der Abstimmung mindestens hundert geprüfte Teilnehmer und mindestens zwanzig Prozent der Gesamtzahl der geprüften Teilnehmer am Tag der Abstimmung teilgenommen haben und für ihn mindestens zwei Drittel der abgegebenen Stimmen abgegeben worden sind; sonst ist der Text nicht angenommen. Das Erfordernis der Teilnahme von mindestens hundert geprüften Teilnehmern wird unter keinen Umständen aufgehoben.
+Ist auch nach der zweiten Verschiebung die Voraussetzung der Teilnahme nicht erfüllt, so wird nur das Erfordernis des Anteils gelockert: Der Text gilt als angenommen, wenn an der Abstimmung mindestens hundert geprüfte Teilnehmer und mindestens zwanzig Prozent der Gesamtzahl der geprüften Teilnehmer am Tag der Abstimmung teilgenommen haben und für ihn mindestens zwei Drittel der abgegebenen Stimmen abgegeben worden sind; sonst ist der Text nicht angenommen. Das Erfordernis der Teilnahme von mindestens hundert geprüften Teilnehmern wird nicht aufgehoben.
 
 Andere Anforderungen werden unter keinen Umständen herabgesetzt. Ist der Text nicht angenommen, so wird das Ergebnis zusammen mit den Daten der Abstimmung spätestens am Tag nach dem Schluss der Abstimmung veröffentlicht, und mit dieser Veröffentlichung endet die Gründungsphase, und die Befugnis des Verfassers endet; eine neue Konstituierung ist nur durch eine neue Gründungsphase mit einer neuen Einreichung von Vorschlägen möglich.
 
