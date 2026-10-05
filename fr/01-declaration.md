@@ -251,7 +251,7 @@ La présente Déclaration est le document fondateur du peuple des Earthlings et 
 1. une personne - une voix; la voix ne peut être achetée, vendue, accumulée ni transmise de façon irrévocable;
 2. le pouvoir des uns sur les autres n'existe pas: nul n'est placé au-dessus d'un autre earthling; les pouvoirs sont limités, révocables et vérifiables, et une mission confiée pour accomplir une tâche quelconque ne devient pas une fonction;
 3. les biens sont séparés de la voix: ni les cotisations, ni l'apport, ni la fortune ne créent d'avantage dans la gouvernance;
-4. la sortie est libre à tout moment et sans avoir à s'expliquer, et l'exclusion du peuple n'existe pas;
+4. la sortie est libre à tout moment et sans avoir à s'expliquer, et nul ne peut être exclu du peuple;
 5. le peuple parle mais ne contraint pas: la violence est exclue sans exception.
 
 Aucun de ces principes ne peut être abrogé, restreint, suspendu ni contourné - ni par une décision de la majorité, ni par la Charte des Earthlings, ni par une interprétation, ni par une modification de la base technique, ni par aucune autre voie. Ils ne sont suspendus en aucune circonstance: ni en cas de crise, ni en état d'urgence, ni sous une pression extérieure, ni lors d'une attaque technique.

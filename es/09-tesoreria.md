@@ -425,7 +425,7 @@ La Tesorería publica un informe financiero trimestral y un informe anual consol
 
 **Métricas de proyectos:** número de proyectos aprobados y realizados con éxito; proporción de etapas cumplidas en plazo.
 
-**Métricas de participación:** proporción de quienes han participado en las votaciones; quórum medio; número de propuestas nuevas; actividad de delegación.
+**Métricas de participación:** proporción de quienes han participado en las votaciones; proporción de votaciones en las que se alcanzó el quórum; número de propuestas nuevas; actividad de delegación.
 
 **Métricas de sostenibilidad:** variación del tamaño del fondo en el período; volatilidad de las reservas; huella ambiental de los proyectos financiados.
 

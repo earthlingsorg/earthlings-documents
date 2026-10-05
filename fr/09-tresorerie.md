@@ -425,7 +425,7 @@ La Trésorerie publie un rapport financier trimestriel et un rapport de synthès
 
 **Indicateurs de projets:** nombre de projets approuvés et menés à bien; part des étapes exécutées dans les délais.
 
-**Indicateurs de participation:** part de ceux qui ont pris part aux votes; quorum moyen; nombre de nouvelles propositions; activité de délégation.
+**Indicateurs de participation:** part de ceux qui ont pris part aux votes; part des votes lors desquels le quorum a été atteint; nombre de nouvelles propositions; activité de délégation.
 
 **Indicateurs de durabilité:** évolution de la taille du fonds sur la période; volatilité des réserves; empreinte écologique des projets financés.
 

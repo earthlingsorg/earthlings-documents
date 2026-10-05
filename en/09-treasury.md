@@ -425,7 +425,7 @@ The Treasury publishes a quarterly financial report and an annual summary report
 
 **Project metrics:** the number of projects approved and successfully delivered; the share of stages completed on time.
 
-**Participation metrics:** the share of those who took part in votes; the average quorum; the number of new proposals; delegation activity.
+**Participation metrics:** the share of those who took part in votes; the share of votes in which the quorum was reached; the number of new proposals; delegation activity.
 
 **Sustainability metrics:** change in the size of the fund over the period; volatility of reserves; the environmental footprint of funded projects.
 

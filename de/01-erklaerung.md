@@ -250,9 +250,9 @@ Diese Erklärung ist das Grunddokument des Volkes der Earthlings und hat innerha
 
 1. ein Mensch - eine Stimme; eine Stimme darf nicht gekauft, verkauft, angehäuft oder unwiderruflich übertragen werden;
 2. Macht von Menschen über Menschen gibt es nicht: niemand nimmt eine Stellung über einem anderen Earthling ein; Befugnisse sind begrenzt, widerruflich und überprüfbar, und ein Auftrag zur Wahrnehmung irgendwelcher Aufgaben wird nicht zum Amt;
-3. das Vermögen ist von der Stimme getrennt: weder Beiträge noch Einsatz noch Reichtum begründen Vorteile in der Verwaltung;
+3. das Vermögen ist von der Stimme getrennt: weder Beiträge noch eingebrachte Mittel noch Reichtum begründen Vorteile in der Verwaltung;
 4. der Austritt ist jederzeit und ohne Angabe von Gründen frei, und einen Ausschluss aus dem Volk gibt es nicht;
-5. das Volk spricht, aber es zwingt nicht: Gewalt ist ohne Ausnahme ausgeschlossen.
+5. das Volk spricht, aber es zwingt nicht: die Anwendung von Gewalt ist ohne Ausnahme ausgeschlossen.
 
 Keiner dieser Grundsätze darf aufgehoben, eingeschränkt, ausgesetzt oder umgangen werden - weder durch einen Mehrheitsbeschluss noch durch die Charta der Earthlings noch durch Auslegung noch durch eine Änderung der technischen Grundlage noch auf irgendeinem anderen Weg. Sie werden unter keinen Umständen ausgesetzt - weder in einer Krise noch im Notstand noch unter äußerem Druck noch bei einem technischen Angriff.
 

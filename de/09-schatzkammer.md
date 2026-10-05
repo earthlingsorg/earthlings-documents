@@ -425,7 +425,7 @@ Die Schatzkammer veröffentlicht einen vierteljährlichen Finanzbericht und eine
 
 **Projektkennzahlen:** die Zahl der gebilligten und der erfolgreich durchgeführten Projekte; der Anteil der fristgerecht erfüllten Abschnitte.
 
-**Kennzahlen der Teilnahme:** der Anteil der an Abstimmungen Beteiligten; das mittlere Quorum; die Zahl neuer Vorschläge; die Aktivität der Übertragung.
+**Kennzahlen der Teilnahme:** der Anteil der an Abstimmungen Beteiligten; der Anteil der Abstimmungen, in denen das Quorum erreicht wurde; die Zahl neuer Vorschläge; die Aktivität der Übertragung.
 
 **Kennzahlen der Beständigkeit:** die Änderung der Größe des Fonds im Zeitraum; die Schwankung der Rücklagen; der ökologische Fußabdruck der finanzierten Projekte.
 
