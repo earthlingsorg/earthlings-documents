@@ -76,7 +76,7 @@ There are no other conditions of belonging. **The one-time contribution** - the 
 6. making the contribution;
 7. receiving the passport.
 
-> **During the founding period** - from 22 October 2026 until the Declaration is adopted - signing the Declaration and entering the people are suspended: a people defined by an adopted text does not yet exist. During this period identity verification is carried out free of charge, and on its completion a temporary document of a participant in the founding is issued, rather than a passport ([The Founding Period](https://earth-lings.org/documents/en/en20-the-founding-period.html), Part 2, section 5).
+> **During the founding period** - from 22 November 2026 until the Declaration is adopted - signing the Declaration and entering the people are suspended: a people defined by an adopted text does not yet exist. During this period identity verification is carried out free of charge, and on its completion a temporary document of a participant in the founding is issued, rather than a passport ([The Founding Period](https://earth-lings.org/documents/en/en20-the-founding-period.html), Part 2, section 5).
 
 **Accuracy of data.** Your country and age must be stated truthfully, and the document presented for verification must be genuine. Real first and last names are not retained: the document data are checked only at the moment of verification.
 
@@ -310,7 +310,7 @@ Internal disputes between participants are resolved under section 04 of these Te
 
 **Technical corrections** that do not change the meaning and do not affect your rights - correcting typographical errors, refining wording - are made, and the list of changes is published.
 
-**Any change affecting the rights and obligations of participants** is put to the Assembly for discussion and a vote. Such changes are not made unilaterally. During the founding period - from 22 October 2026 until the Declaration is adopted - amendments to these Terms are made under the procedure set out in [The Founding Period](https://earth-lings.org/documents/en/en20-the-founding-period.html) (Part 2, section 2), not under the procedure of this section.
+**Any change affecting the rights and obligations of participants** is put to the Assembly for discussion and a vote. Such changes are not made unilaterally. During the founding period - from 22 November 2026 until the Declaration is adopted - amendments to these Terms are made under the procedure set out in [The Founding Period](https://earth-lings.org/documents/en/en20-the-founding-period.html) (Part 2, section 2), not under the procedure of this section.
 
 **Notice procedure:** notice is given no fewer than 30 days before the changes take effect, by email and on the platform, together with publication of the list of changes.
 
@@ -320,7 +320,7 @@ Internal disputes between participants are resolved under section 04 of these Te
 
 # SECTION 14. Consent
 
-The principal act of consent is **signing the Earthlings Declaration**: it is by that act that belonging to the people is created and these Terms are accepted. During the founding period - from 22 October 2026 until the Declaration is adopted - signing is suspended, and you accept these Terms and confirm what is listed below by a separate consent given at registration.
+The principal act of consent is **signing the Earthlings Declaration**: it is by that act that belonging to the people is created and these Terms are accepted. During the founding period - from 22 November 2026 until the Declaration is adopted - signing is suspended, and you accept these Terms and confirm what is listed below by a separate consent given at registration.
 
 By signing the Declaration and receiving the passport you confirm that:
 

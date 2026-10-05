@@ -2,7 +2,7 @@
 
 **归属于 Earthlings 人民的数字凭证**
 
-> 本文件描述 Earthlings 护照的设计与法律意义。发生分歧时适用[Earthlings 宪章](https://earth-lings.org/documents/zh/zh05-charter.html)，而宪章与[《宣言》](https://earth-lings.org/documents/zh/zh01-declaration.html)发生分歧时适用《宣言》。加入的程序在文件[《earthling 之路》](https://earth-lings.org/documents/zh/zh14-the-earthling-path.html)中描述。在创立期——自二〇二六年十月二十二日起至《宣言》通过之时止——签署《宣言》和加入人民都已暂停：由已通过的文本所确定的人民还不存在。这一期间的身份验证免费进行，验证完成后发给创立的参与者一份临时证件，而不是护照（《创立期》文件，第二部分第 5 点）。临时证件在与护照相同的合约中发放（《我们现在在哪里》文件），但它并不记录《宣言》的签署。以下描述的是《宣言》通过之后开始的基本机制。
+> 本文件描述 Earthlings 护照的设计与法律意义。发生分歧时适用[Earthlings 宪章](https://earth-lings.org/documents/zh/zh05-charter.html)，而宪章与[《宣言》](https://earth-lings.org/documents/zh/zh01-declaration.html)发生分歧时适用《宣言》。加入的程序在文件[《earthling 之路》](https://earth-lings.org/documents/zh/zh14-the-earthling-path.html)中描述。在创立期——自二〇二六年十一月二十二日起至《宣言》通过之时止——签署《宣言》和加入人民都已暂停：由已通过的文本所确定的人民还不存在。这一期间的身份验证免费进行，验证完成后发给创立的参与者一份临时证件，而不是护照（《创立期》文件，第二部分第 5 点）。临时证件在与护照相同的合约中发放（《我们现在在哪里》文件），但它并不记录《宣言》的签署。以下描述的是《宣言》通过之后开始的基本机制。
 
 ---
 

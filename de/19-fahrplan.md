@@ -94,7 +94,7 @@ Diese Aufgaben sind vorläufig. Die Charta tritt mit der Annahme der Erklärung 
 
 ## Was die Gründer auch jetzt nicht tun dürfen
 
-- die Grundsätze des Teils I der Erklärung aufheben oder einschränken und ihren Text anders als offen ändern: Jede Änderung ist im offenen Register Zeile für Zeile sichtbar, seit dem 22. Oktober 2026 wird der Text nur durch die Aufnahme von Vorschlägen nach dem Verfahren der Gründungsphase geändert (Dokument „Die Gründungsphase“), und nach der Annahme der Erklärung kann sie allein die Vollversammlung ändern;
+- die Grundsätze des Teils I der Erklärung aufheben oder einschränken und ihren Text anders als offen ändern: Jede Änderung ist im offenen Register Zeile für Zeile sichtbar, seit dem 22. November 2026 wird der Text nur durch die Aufnahme von Vorschlägen nach dem Verfahren der Gründungsphase geändert (Dokument „Die Gründungsphase“), und nach der Annahme der Erklärung kann sie allein die Vollversammlung ändern;
 - Teilnehmern den Status, die Zugehörigkeit oder das Stimmrecht nehmen; bis zur Annahme der Erklärung wird das vorläufige Dokument des Teilnehmers der Konstituierung gegen den Willen des Inhabers nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 5) entwertet;
 - Beschlüsse fassen, die den Werten des Volkes widersprechen;
 - die Mittel der Gemeinschaft für persönliche Zwecke verwenden;

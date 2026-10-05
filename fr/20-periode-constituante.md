@@ -32,7 +32,7 @@ C'est ainsi que nous voulons que les Earthlings soient créés non pas pour les 
 
 **État actuel.** Le contrat du registre des passeports, la vérification d'identité, les cellules et la comptabilité de l'économie interne sont déployés et fonctionnent; le canal public de vote est déployé, mais aucun vote de fond n'y a encore eu lieu, l'outil de vote secret n'existe pas encore, et le vote constituant sera ouvert, et les contrats intelligents de la Trésorerie ne sont pas déployés (document « Où nous en sommes »). Ce qui n'est pas adopté, c'est le texte constitutif.
 
-Du 22 octobre 2026 au 20 janvier 2027, tout le corpus est ouvert aux propositions: la Déclaration, la Charte, les vingt-trois autres documents et les trois annexes du document « La voix citoyenne ». Toute personne peut en faire. Le 17 février 2027, le texte est soumis au vote de ceux qui ont fait vérifier leur identité. À compter de son adoption, les principes de la Partie I de la Déclaration ne sont plus jamais abrogés, et leur rédaction ainsi que le reste du texte ne sont modifiés que par le peuple lui-même - aux deux tiers des voix exprimées, avec quorum, et seulement de telle sorte qu'aucun principe ne soit restreint et qu'aucune garantie donnée à la personne ne devienne plus faible.
+Du 22 novembre 2026 au 20 février 2027, tout le corpus est ouvert aux propositions: la Déclaration, la Charte, les vingt-trois autres documents et les trois annexes du document « La voix citoyenne ». Toute personne peut en faire. Le 3 avril 2027, le texte est soumis au vote de ceux qui ont fait vérifier leur identité. À compter de son adoption, les principes de la Partie I de la Déclaration ne sont plus jamais abrogés, et leur rédaction ainsi que le reste du texte ne sont modifiés que par le peuple lui-même - aux deux tiers des voix exprimées, avec quorum, et seulement de telle sorte qu'aucun principe ne soit restreint et qu'aucune garantie donnée à la personne ne devienne plus faible.
 
 ## 01. Pourquoi nous procédons ainsi
 
@@ -46,7 +46,7 @@ Tout le corpus est ouvert, y compris le présent document. On peut faire une pro
 
 ### La Déclaration
 
-Document constitutif. Il est soumis au vote le 17 février 2027.
+Document constitutif. Il est soumis au vote le 3 avril 2027.
 
 Toutes ses rédactions sont ouvertes. La composition du noyau intangible l'est aussi: les propositions tendant à le compléter sont examinées au même titre que les autres et sont retenues si elles passent le test de la section 04. Ne sont pas examinées les seules propositions tendant à abroger ou à restreindre les principes du noyau eux-mêmes; en proposer une rédaction plus précise est possible.
 
@@ -56,7 +56,7 @@ Après l'adoption, les principes du noyau ne sont jamais abrogés, et les autres
 
 Le document d'organisation principal: âge de participation, seuils de vote, délais, procédure de recours, restriction de pouvoirs, modalités d'annulation d'une délivrance de passeport.
 
-La Déclaration charge la Charte d'établir presque tout ce qui se passe en pratique, aussi la Charte entre-t-elle en vigueur avec elle: sans elle, il n'y aurait au premier jour aucune procédure en vigueur. Elle n'est pas adoptée par un vote distinct, mais les propositions qui la visent sont reçues au même titre que celles qui visent la Déclaration et sont intégrées à la version publiée le 3 février 2027.
+La Déclaration charge la Charte d'établir presque tout ce qui se passe en pratique, aussi la Charte entre-t-elle en vigueur avec elle: sans elle, il n'y aurait au premier jour aucune procédure en vigueur. Elle n'est pas adoptée par un vote distinct, mais les propositions qui la visent sont reçues au même titre que celles qui visent la Déclaration et sont intégrées à la version publiée le 13 mars 2027.
 
 Ensuite, c'est le peuple lui-même qui modifie la Charte - par une décision de l'Assemblée, à tout moment et selon la procédure que la Charte établit elle-même. Elle ne peut en aucune circonstance abaisser les exigences de la Déclaration.
 
@@ -64,7 +64,7 @@ Ensuite, c'est le peuple lui-même qui modifie la Charte - par une décision de 
 
 Comment sont agencés et comment fonctionnent la DAO, les cellules, la trésorerie, l'unité de compte EC, le Conseil indépendant, la plateforme numérique, le passeport SBT, le chemin de l'earthling, la feuille de route et l'éthique.
 
-Ces documents ne sont pas adoptés par un vote: ils décrivent des mécanismes, et les mécanismes doivent se développer avec le peuple. Les propositions retenues y sont intégrées immédiatement, sans attendre le 17 février. Après la constitution, c'est l'Assemblée qui les modifie selon la procédure de la Charte.
+Ces documents ne sont pas adoptés par un vote: ils décrivent des mécanismes, et les mécanismes doivent se développer avec le peuple. Les propositions retenues y sont intégrées immédiatement, sans attendre le 3 avril. Après la constitution, c'est l'Assemblée qui les modifie selon la procédure de la Charte.
 
 ### Les documents tournés vers l'extérieur et les documents de référence
 
@@ -82,7 +82,7 @@ Tout ce qui a force se trouve dans le corpus et y est intégralement ouvert aux 
 
 ### En résumé
 
-| Quoi | Adopté par le vote du 17 février | Quand la correction s'applique | Qui modifie ensuite |
+| Quoi | Adopté par le vote du 3 avril | Quand la correction s'applique | Qui modifie ensuite |
 |---|---|---|---|
 | La Déclaration | oui | dès le jour de l'adoption | les principes du noyau: personne; le reste: l'Assemblée, aux deux tiers |
 | La Charte | non, elle entre en vigueur avec la Déclaration | dès le jour de l'adoption | l'Assemblée, selon la procédure de la Charte |
@@ -142,12 +142,12 @@ Aucune décision prise avant votre accord ne vous oblige à quoi que ce soit.
 
 ## 07. Le calendrier
 
-- **22 octobre 2026** - la réception des propositions est ouverte pour tout le corpus.
-- **20 janvier 2027** - la réception des propositions est close.
-- **3 février 2027** - le relevé est publié: toutes les propositions reçues et les réponses qui leur sont faites. Le même jour sont publiées la version définitive de la Déclaration soumise au vote et la version définitive de la Charte, qui entre en vigueur en même temps qu'elle, en russe et en anglais.
-- **17 février 2027** - vote sur l'adoption de la Déclaration.
+- **22 novembre 2026** - la réception des propositions est ouverte pour tout le corpus.
+- **20 février 2027** - la réception des propositions est close.
+- **13 mars 2027** - le relevé est publié: toutes les propositions reçues et les réponses qui leur sont faites. Le même jour sont publiées la version définitive de la Déclaration soumise au vote et la version définitive de la Charte, qui entre en vigueur en même temps qu'elle, en russe et en anglais.
+- **3 avril 2027** - vote sur l'adoption de la Déclaration.
 
-Les corrections apportées aux autres documents du corpus se font au fil de la période et non à ces dates: ils ne sont pas adoptés par un vote et n'ont aucune raison d'attendre le 17 février.
+Les corrections apportées aux autres documents du corpus se font au fil de la période et non à ces dates: ils ne sont pas adoptés par un vote et n'ont aucune raison d'attendre le 3 avril.
 
 ## 08. Où envoyer
 
@@ -163,7 +163,7 @@ La présente partie établit la procédure à laquelle renvoie la section « Sta
 
 ## 1. La réception des propositions
 
-Les propositions sont reçues du 22 octobre 2026 au 20 janvier 2027 inclus.
+Les propositions sont reçues du 22 novembre 2026 au 20 février 2027 inclus.
 
 Toute personne a le droit de faire une proposition. L'adhésion, la vérification d'identité, le versement de sommes et l'accord avec les dispositions de la Déclaration ne sont pas requis à cette fin.
 
@@ -185,9 +185,9 @@ Une proposition **de traduction** signale qu'une traduction rend le sens de mani
 
 Le type auquel appartient une proposition est déterminé d'après son contenu, et non d'après la manière dont elle est intitulée. Si une proposition de traduction révèle une obscurité du texte-maître lui-même, elle est aussi examinée comme une proposition de fond.
 
-**Quel texte est l'objet du vote.** Le vote du 17 février 2027 porte sur les textes russe et anglais: ils sont reconnus comme faisant également foi (Déclaration, article 11). Les textes dans les sept autres langues sont des traductions officielles. On peut lire et voter en s'appuyant sur l'une quelconque d'entre elles, mais en cas de divergence d'une traduction avec les textes russe et anglais, ce sont ces deux textes qui s'appliquent et, en cas de divergence entre eux, l'interprétation qui donne à la personne la protection la plus élevée; si la comparaison des textes ne résout pas la divergence, c'est le sens du texte russe qui s'applique.
+**Quel texte est l'objet du vote.** Le vote du 3 avril 2027 porte sur les textes russe et anglais: ils sont reconnus comme faisant également foi (Déclaration, article 11). Les textes dans les sept autres langues sont des traductions officielles. On peut lire et voter en s'appuyant sur l'une quelconque d'entre elles, mais en cas de divergence d'une traduction avec les textes russe et anglais, ce sont ces deux textes qui s'appliquent et, en cas de divergence entre eux, l'interprétation qui donne à la personne la protection la plus élevée; si la comparaison des textes ne résout pas la divergence, c'est le sens du texte russe qui s'applique.
 
-**L'état des traductions.** Le texte anglais du corpus est mis en conformité avec les textes-maîtres russes avant l'ouverture de la réception des propositions, le 22 octobre 2026; tant qu'une traduction dans une autre langue est en retard sur le texte-maître, sa page l'indique, et en cas de divergence c'est le texte-maître russe qui s'applique, sauf pour la Déclaration, où s'applique la règle exposée ci-dessus. Les versions définitives soumises au vote sont publiées en russe et en anglais le 3 février 2027, et les traductions dans les sept autres langues le sont dans le même délai. Si, à cette date, une traduction n'est pas prête, cela est indiqué sans détour, avec la langue et le motif; nous ne ferons pas passer une traduction non prête pour prête.
+**L'état des traductions.** Le texte anglais du corpus est mis en conformité avec les textes-maîtres russes avant l'ouverture de la réception des propositions, le 22 novembre 2026; tant qu'une traduction dans une autre langue est en retard sur le texte-maître, sa page l'indique, et en cas de divergence c'est le texte-maître russe qui s'applique, sauf pour la Déclaration, où s'applique la règle exposée ci-dessus. Les versions définitives soumises au vote sont publiées en russe et en anglais le 13 mars 2027, et les traductions dans les sept autres langues le sont dans le même délai. Si, à cette date, une traduction n'est pas prête, cela est indiqué sans détour, avec la langue et le motif; nous ne ferons pas passer une traduction non prête pour prête.
 
 ## 2. Publication et examen
 
@@ -199,13 +199,13 @@ La décision d'intégrer une proposition au texte appartient à l'auteur de la D
 
 Ce pouvoir est limité de trois manières: chaque rejet est publié avec son motif; chaque proposition demeure dans le relevé ouvert et peut être déposée de nouveau; le texte final de la Déclaration est adopté non par l'auteur, mais par un vote, et peut être rejeté.
 
-Une proposition retenue visant la Déclaration et la Charte entre dans la version publiée le 3 février 2027. Une proposition retenue visant les autres documents y est intégrée immédiatement, et le texte publié s'applique dès ce jour: ces documents ne sont pas adoptés par un vote, et il n'y a aucune raison de retenir une correction jusqu'au 17 février. Une modification de la partie 2 du présent document intervenue après l'ouverture de la réception des propositions ne déplace ni la date de clôture de la réception des propositions, ni celle de la publication du relevé, ni celle de l'annonce des modalités du vote, ni celle du vote lui-même; elle ne change pas les conditions d'adoption ni de report, ne supprime ni l'ouverture du vote ni la possibilité de démontrer le résultat, et ne restreint pas le cercle des votants; une telle modification est publiée au plus tard le 3 février 2027.
+Une proposition retenue visant la Déclaration et la Charte entre dans la version publiée le 13 mars 2027. Une proposition retenue visant les autres documents y est intégrée immédiatement, et le texte publié s'applique dès ce jour: ces documents ne sont pas adoptés par un vote, et il n'y a aucune raison de retenir une correction jusqu'au 3 avril. Une modification de la partie 2 du présent document intervenue après l'ouverture de la réception des propositions ne déplace ni la date de clôture de la réception des propositions, ni celle de la publication du relevé, ni celle de l'annonce des modalités du vote, ni celle du vote lui-même; elle ne change pas les conditions d'adoption ni de report, ne supprime ni l'ouverture du vote ni la possibilité de démontrer le résultat, et ne restreint pas le cercle des votants; une telle modification est publiée au plus tard le 13 mars 2027.
 
 Le pouvoir de l'auteur prend fin avec la période constituante. Si le texte est adopté, à compter de ce jour seule l'Assemblée modifie tout document du corpus.
 
 ## 3. Le relevé
 
-Le relevé de toutes les propositions reçues et des réponses qui leur ont été faites est publié le 3 février 2027 et demeure ouvert sans limite de durée. Le relevé couvre tout le corpus: les propositions visant la Déclaration, la Charte et chacun des autres documents.
+Le relevé de toutes les propositions reçues et des réponses qui leur ont été faites est publié le 13 mars 2027 et demeure ouvert sans limite de durée. Le relevé couvre tout le corpus: les propositions visant la Déclaration, la Charte et chacun des autres documents.
 
 ## 4. Ce qui n'est pas examiné
 
@@ -223,9 +223,9 @@ La vérification d'identité est gratuite et se poursuit pendant toute la pério
 
 ## 6. L'adoption du texte
 
-Le texte est adopté par un vote le 17 février 2027. Votent les personnes ayant fait vérifier leur identité, selon le principe « une personne - une voix ». Le vote est ouvert: le vote et l'adresse du votant sont visibles de tous, et chacun peut recompter lui-même le résultat, sans nous faire confiance. Ce choix est délibéré. La Déclaration (article 9) exige le secret du vote personnel, mais elle entre en vigueur avec son adoption: un acte constitutif n'est pas lié par la procédure qu'il crée lui-même. Pour ce vote, l'ouverture est d'ailleurs appropriée: la question est unique, personne n'en tire d'avantage, et la vérifiabilité de l'acte constitutif importe avant tout. Le secret du vote personnel s'applique après l'adoption. Les modalités du vote sont annoncées le 3 février 2027, en même temps que les versions définitives. S'il est impossible de tenir le vote au jour fixé pour une raison technique, il se tient le premier jour suivant la levée de cette raison, mais au plus tard quatorze jours après le jour fixé; la raison et le nouveau jour sont publiés avant l'ouverture du vote. Un tel déplacement n'est pas réputé report au sens de la section 7. Si la raison n'est pas levée dans les quatorze jours, le jour de l'adoption est reporté selon la section 7, et ce report compte comme l'un des deux. Si les deux reports de la section 7 sont déjà utilisés, le jour de l'adoption est reporté une fois encore, de trois mois, aux conditions que la section 7 fixe pour un vote après le second report; si, même alors, la raison technique n'est pas levée dans les quatorze jours, le texte n'est pas adopté, cela est publié au plus tard le lendemain, et avec cette publication la période constituante s'achève et le pouvoir de l'auteur prend fin.
+Le texte est adopté par un vote le 3 avril 2027. Votent les personnes ayant fait vérifier leur identité, selon le principe « une personne - une voix ». Le vote est ouvert: le vote et l'adresse du votant sont visibles de tous, et chacun peut recompter lui-même le résultat, sans nous faire confiance. Ce choix est délibéré. La Déclaration (article 9) exige le secret du vote personnel, mais elle entre en vigueur avec son adoption: un acte constitutif n'est pas lié par la procédure qu'il crée lui-même. Pour ce vote, l'ouverture est d'ailleurs appropriée: la question est unique, personne n'en tire d'avantage, et la vérifiabilité de l'acte constitutif importe avant tout. Le secret du vote personnel s'applique après l'adoption. Les modalités du vote sont annoncées le 13 mars 2027, en même temps que les versions définitives. S'il est impossible de tenir le vote au jour fixé pour une raison technique, il se tient le premier jour suivant la levée de cette raison, mais au plus tard quatorze jours après le jour fixé; la raison et le nouveau jour sont publiés avant l'ouverture du vote. Un tel déplacement n'est pas réputé report au sens de la section 7. Si la raison n'est pas levée dans les quatorze jours, le jour de l'adoption est reporté selon la section 7, et ce report compte comme l'un des deux. Si les deux reports de la section 7 sont déjà utilisés, le jour de l'adoption est reporté une fois encore, de trois mois, aux conditions que la section 7 fixe pour un vote après le second report; si, même alors, la raison technique n'est pas levée dans les quatorze jours, le texte n'est pas adopté, cela est publié au plus tard le lendemain, et avec cette publication la période constituante s'achève et le pouvoir de l'auteur prend fin.
 
-Le vote porte sur deux textes à la fois, le russe et l'anglais. Tous deux sont reçus comme faisant également foi (Déclaration, article 11); le texte anglais doit donc être prêt et publié au plus tard le jour de la publication du relevé, le 3 février 2027: on ne peut voter que sur ce que l'on peut lire à l'avance.
+Le vote porte sur deux textes à la fois, le russe et l'anglais. Tous deux sont reçus comme faisant également foi (Déclaration, article 11); le texte anglais doit donc être prêt et publié au plus tard le jour de la publication du relevé, le 13 mars 2027: on ne peut voter que sur ce que l'on peut lire à l'avance.
 
 Le texte est réputé adopté si trois conditions sont réunies en même temps (l'exception applicable au vote après le second report figure à la section 7):
 
@@ -237,9 +237,9 @@ Si aucune proposition n'est parvenue ou si aucune des propositions parvenues n'a
 
 ## 7. Si les conditions d'adoption ne sont pas réunies
 
-Si la condition de participation (point 2 ou 3) n'est pas remplie, le jour de l'adoption est reporté de trois mois; le report est admis deux fois au plus. Si les conditions de participation sont remplies mais que moins des deux tiers des voix exprimées lors du vote se sont prononcés pour l'adoption, le texte n'est pas adopté.
+Si la condition de participation (point 2 ou 3) n'est pas remplie, le jour de l'adoption est reporté de trois mois; le report est admis deux fois au plus. Trois mois, parce que le manque de participation se soigne en invitant des personnes, et c'est un travail de mois et non de semaines: un report plus court consommerait une tentative sans rien changer. Deux fois au plus, parce que sans limite « attendons encore » ne se distingue pas de « nous ne le mettrons jamais aux voix ». Si les conditions de participation sont remplies mais que moins des deux tiers des voix exprimées lors du vote se sont prononcés pour l'adoption, le texte n'est pas adopté.
 
-Si, même après le second report, la condition de participation n'est pas remplie, l'exigence de participation d'au moins cent participants vérifiés cesse de s'appliquer: le texte est réputé adopté si au moins trente pour cent du nombre total de participants vérifiés au jour du vote ont pris part au vote et si les deux tiers au moins des voix exprimées se sont prononcés pour lui; sinon, le texte n'est pas adopté.
+Si, même après le second report, la condition de participation n'est pas remplie, seule l'exigence de proportion est assouplie: le texte est réputé adopté si au moins cent participants vérifiés et au moins vingt pour cent du nombre total de participants vérifiés au jour du vote ont pris part au vote, et si les deux tiers au moins des voix exprimées se sont prononcés pour lui; sinon, le texte n'est pas adopté. L'exigence de participation d'au moins cent participants vérifiés n'est levée en aucune circonstance.
 
 Les autres exigences ne sont abaissées en aucune circonstance. Si le texte n'est pas adopté, le résultat est publié avec les données du vote au plus tard le lendemain de la clôture du vote, et avec cette publication la période constituante s'achève et le pouvoir de l'auteur prend fin; une nouvelle constitution n'est possible que par une nouvelle période constituante, avec une nouvelle réception des propositions.
 

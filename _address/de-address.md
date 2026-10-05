@@ -54,7 +54,7 @@ Jahrhundertelang haben sich Menschen nach Abstammung, Sprache und Land zu Völke
 
 Das ist erst der Anfang. Die Dokumente sind geschrieben und die Plattform ist gebaut, aber noch sind wenige Menschen dabei. Vieles muss noch getan werden. Der Schlüssel des Registers und der Schlüssel der Kasse liegen noch beim Gründer, und ein Mittel der geheimen Abstimmung wird noch ausgewählt. All das ist im Dokument „Wo wir jetzt stehen“ aufgeführt, zusammen damit, wie und wann sich das ändern wird.
 
-Ab dem 22. Oktober 2026 kann jeder Mensch Änderungen zu jedem Dokument vorschlagen, und am 17. Februar 2027 werden die Menschen, die ihre Identität nachgewiesen haben, die Erklärung selbst annehmen oder ablehnen. Konstituiert wird dieses Volk nicht von uns, den Verfassern der Dokumente, sondern von denen, die abstimmen werden.
+Ab dem 22. November 2026 kann jeder Mensch Änderungen zu jedem Dokument vorschlagen, und am 3. April 2027 werden die Menschen, die ihre Identität nachgewiesen haben, die Erklärung selbst annehmen oder ablehnen. Konstituiert wird dieses Volk nicht von uns, den Verfassern der Dokumente, sondern von denen, die abstimmen werden.
 
 Wenn Sie dasselbe sehen wie wir, lesen Sie die Erklärung der Earthlings und die anderen Dokumente und entscheiden Sie, ob Ihnen das nahesteht.
 

@@ -94,7 +94,7 @@ Ces fonctions sont temporaires. La Charte entre en vigueur avec l'adoption de la
 
 ## Ce que les fondateurs n'ont pas le droit de faire, même aujourd'hui
 
-- abroger ou restreindre les principes de la Partie I de la Déclaration et modifier son texte autrement qu'ouvertement: chaque correction se voit ligne par ligne dans le registre ouvert, à partir du 22 octobre 2026 le texte n'est modifié que par l'incorporation de propositions selon la procédure de la période constituante (document « La période constituante »), et après l'adoption de la Déclaration seule l'Assemblée la modifie;
+- abroger ou restreindre les principes de la Partie I de la Déclaration et modifier son texte autrement qu'ouvertement: chaque correction se voit ligne par ligne dans le registre ouvert, à partir du 22 novembre 2026 le texte n'est modifié que par l'incorporation de propositions selon la procédure de la période constituante (document « La période constituante »), et après l'adoption de la Déclaration seule l'Assemblée la modifie;
 - priver des participants de leur statut, de leur appartenance ou de leur droit de vote; avant l'adoption de la Déclaration, le document temporaire de participant à la constitution est détruit contre la volonté de son titulaire selon la procédure du document « La période constituante » (partie 2, point 5);
 - prendre des décisions contraires aux valeurs du peuple;
 - utiliser les ressources de la communauté à des fins personnelles;

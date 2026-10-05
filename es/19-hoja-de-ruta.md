@@ -94,7 +94,7 @@ Estas funciones son temporales. La Carta entra en vigor con la adopción de la D
 
 ## Qué no tienen derecho a hacer los fundadores ni siquiera ahora
 
-- derogar o restringir los principios de la parte I de la Declaración y modificar su texto de otro modo que no sea abierto: cada modificación se ve línea por línea en el registro abierto, desde el 22 de octubre de 2026 el texto se modifica solo incorporando propuestas en la forma del período constituyente (documento «El período constituyente»), y tras la adopción de la Declaración solo la modifica la Asamblea;
+- derogar o restringir los principios de la parte I de la Declaración y modificar su texto de otro modo que no sea abierto: cada modificación se ve línea por línea en el registro abierto, desde el 22 de noviembre de 2026 el texto se modifica solo incorporando propuestas en la forma del período constituyente (documento «El período constituyente»), y tras la adopción de la Declaración solo la modifica la Asamblea;
 - privar a los participantes de su condición, de su pertenencia o de su derecho de voto; hasta la adopción de la Declaración, el documento temporal de participante en la constitución se destruye contra la voluntad de su titular en la forma prevista en el documento «El período constituyente» (parte 2, apartado 5);
 - adoptar decisiones contrarias a los valores del pueblo;
 - emplear los recursos de la comunidad con fines personales;

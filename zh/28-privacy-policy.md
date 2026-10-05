@@ -2,7 +2,7 @@
 
 **自公布之时起生效**
 
-> 本政策与 [Earthlings 宪章](https://earth-lings.org/documents/zh/zh05-charter.html)不一致时，适用宪章；宪章与[宣言](https://earth-lings.org/documents/zh/zh01-declaration.html)不一致时，适用宣言。生物特征数据的处理另在[生物特征验证政策](https://earth-lings.org/documents/zh/zh16-biometric-verification.html)中说明，就这一事项发生不一致时，适用该政策。在创立期——自二〇二六年十月二十二日起至《宣言》通过之时止——签署《宣言》和加入人民都已暂停：由已通过的文本所确定的人民还不存在。这一期间的身份验证免费进行，验证完成后发给创立的参与者一份临时证件，而不是护照（《创立期》文件，第二部分第 5 点）。临时证件在与护照相同的合约中发放（《我们现在在哪里》文件）。本政策也适用于这样的验证；其中关于签署、会费和护照所说的，指的是《宣言》通过之后的基本制度。
+> 本政策与 [Earthlings 宪章](https://earth-lings.org/documents/zh/zh05-charter.html)不一致时，适用宪章；宪章与[宣言](https://earth-lings.org/documents/zh/zh01-declaration.html)不一致时，适用宣言。生物特征数据的处理另在[生物特征验证政策](https://earth-lings.org/documents/zh/zh16-biometric-verification.html)中说明，就这一事项发生不一致时，适用该政策。在创立期——自二〇二六年十一月二十二日起至《宣言》通过之时止——签署《宣言》和加入人民都已暂停：由已通过的文本所确定的人民还不存在。这一期间的身份验证免费进行，验证完成后发给创立的参与者一份临时证件，而不是护照（《创立期》文件，第二部分第 5 点）。临时证件在与护照相同的合约中发放（《我们现在在哪里》文件）。本政策也适用于这样的验证；其中关于签署、会费和护照所说的，指的是《宣言》通过之后的基本制度。
 
 ## 我们的原则
 

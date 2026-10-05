@@ -54,7 +54,7 @@ Durante siglos las personas se unieron en pueblos por la sangre, la lengua y la 
 
 Esto es solo el comienzo. Los documentos están escritos y la plataforma está construida, pero todavía hay pocas personas. Aún queda mucho por hacer. La clave del registro y la clave de la caja están por ahora en manos del fundador, y el medio de votación secreta todavía se está eligiendo. Todo esto está enumerado en el documento «Dónde estamos ahora», junto con cómo y cuándo cambiará.
 
-Desde el 22 de octubre de 2026 cualquier persona podrá proponer cambios a cualquier documento, y el 17 de febrero de 2027 la Declaración la adoptarán o la rechazarán las propias personas que hayan verificado su identidad. Este pueblo no lo constituimos nosotros, los autores de los documentos, sino quienes voten.
+Desde el 22 de noviembre de 2026 cualquier persona podrá proponer cambios a cualquier documento, y el 3 de abril de 2027 la Declaración la adoptarán o la rechazarán las propias personas que hayan verificado su identidad. Este pueblo no lo constituimos nosotros, los autores de los documentos, sino quienes voten.
 
 Si ustedes ven lo mismo que vemos nosotros, lean la Declaración Earthlings y los demás documentos, y decidan si les resulta cercano.
 

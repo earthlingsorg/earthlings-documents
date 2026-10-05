@@ -90,10 +90,10 @@ Genauigkeit ist hier wichtiger als ein günstiger Eindruck.
 
 Das Verfahren der Konstituierung ist im Voraus festgelegt und veröffentlicht:
 
-- **22. Oktober 2026** - die Einreichung von Vorschlägen zum gesamten Bestand wird eröffnet: Erklärung, Charta, die übrigen dreiundzwanzig Dokumente, dieses eingeschlossen, und die drei Anhänge zum Dokument „Die Bürgerstimme“. Einen Vorschlag einzubringen ist jeder Mensch befugt; Beitritt, Identitätsprüfung und Zustimmung zu unseren Schlüssen sind dafür nicht erforderlich, anonyme Vorschläge werden gleichrangig mit den übrigen behandelt.
-- **20. Januar 2027** - die Einreichung wird geschlossen.
-- **3. Februar 2027** - die Übersicht aller Vorschläge und Antworten wird veröffentlicht, einschließlich der abgelehnten unter Angabe des Grundes; die endgültigen Fassungen auf Russisch und Englisch werden veröffentlicht.
-- **17. Februar 2027** - die Erklärung wird durch Abstimmung der geprüften Teilnehmer nach dem Grundsatz „ein Mensch - eine Stimme“ angenommen: mindestens zwei Drittel der abgegebenen Stimmen, eine Beteiligung von mindestens hundert geprüften Teilnehmern und von mindestens dreißig Prozent ihrer Gesamtzahl.
+- **22. November 2026** - die Einreichung von Vorschlägen zum gesamten Bestand wird eröffnet: Erklärung, Charta, die übrigen dreiundzwanzig Dokumente, dieses eingeschlossen, und die drei Anhänge zum Dokument „Die Bürgerstimme“. Einen Vorschlag einzubringen ist jeder Mensch befugt; Beitritt, Identitätsprüfung und Zustimmung zu unseren Schlüssen sind dafür nicht erforderlich, anonyme Vorschläge werden gleichrangig mit den übrigen behandelt.
+- **20. Februar 2027** - die Einreichung wird geschlossen.
+- **13. März 2027** - die Übersicht aller Vorschläge und Antworten wird veröffentlicht, einschließlich der abgelehnten unter Angabe des Grundes; die endgültigen Fassungen auf Russisch und Englisch werden veröffentlicht.
+- **3. April 2027** - die Erklärung wird durch Abstimmung der geprüften Teilnehmer nach dem Grundsatz „ein Mensch - eine Stimme“ angenommen: mindestens zwei Drittel der abgegebenen Stimmen, eine Beteiligung von mindestens hundert geprüften Teilnehmern und von mindestens dreißig Prozent ihrer Gesamtzahl.
 
 Bis zum Tag der Annahme ist ein Mensch, der seine Identität hat prüfen lassen, **Teilnehmer der Konstituierung und kein Earthling**. Die Prüfung ist kostenlos, stellt keinen Beitritt dar und verleiht einen vorläufigen Status mit Stimmrecht am Tag der Annahme.
 

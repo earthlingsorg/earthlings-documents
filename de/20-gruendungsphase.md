@@ -32,7 +32,7 @@ So wollen wir, dass die Earthlings nicht für Menschen geschaffen werden, sonder
 
 **Der gegenwärtige Zustand.** Der Vertrag des Registers der Pässe, die Identitätsprüfung, die Zellen und die Erfassung der inneren Wirtschaft sind ausgerollt und arbeiten; der öffentliche Kanal der Abstimmungen ist ausgerollt, doch inhaltliche Abstimmungen hat es in ihm noch nicht gegeben, ein Mittel der geheimen Abstimmung gibt es noch nicht, und die konstituierende Abstimmung wird offen durchgeführt, und die Smart Contracts der Schatzkammer sind nicht ausgerollt (Dokument „Wo wir jetzt stehen“). Nicht angenommen ist der konstituierende Text.
 
-Vom 22. Oktober 2026 bis zum 20. Januar 2027 steht der ganze Bestand für Vorschläge offen - die Erklärung, die Charta, die übrigen dreiundzwanzig Dokumente und die drei Anhänge zum Dokument „Die Bürgerstimme“. Einbringen kann sie jeder Mensch. Am 17. Februar 2027 wird der Text denjenigen zur Abstimmung vorgelegt, die ihre Identität haben prüfen lassen. Mit seiner Annahme werden die Grundsätze des Teils I der Erklärung nie mehr aufgehoben, und ihre Formulierungen und der übrige Text werden nur vom Volk selbst geändert - mit zwei Dritteln der abgegebenen Stimmen bei einem Quorum und nur so, dass kein Grundsatz verengt und keine Gewährleistung für den Menschen schwächer wird.
+Vom 22. November 2026 bis zum 20. Februar 2027 steht der ganze Bestand für Vorschläge offen - die Erklärung, die Charta, die übrigen dreiundzwanzig Dokumente und die drei Anhänge zum Dokument „Die Bürgerstimme“. Einbringen kann sie jeder Mensch. Am 3. April 2027 wird der Text denjenigen zur Abstimmung vorgelegt, die ihre Identität haben prüfen lassen. Mit seiner Annahme werden die Grundsätze des Teils I der Erklärung nie mehr aufgehoben, und ihre Formulierungen und der übrige Text werden nur vom Volk selbst geändert - mit zwei Dritteln der abgegebenen Stimmen bei einem Quorum und nur so, dass kein Grundsatz verengt und keine Gewährleistung für den Menschen schwächer wird.
 
 ## 01. Warum wir es so machen
 
@@ -46,7 +46,7 @@ Offen ist der ganze Bestand, einschließlich dieses Dokuments. Ein Vorschlag lä
 
 ### Die Erklärung
 
-Das konstituierende Dokument. Wird am 17. Februar 2027 zur Abstimmung gestellt.
+Das konstituierende Dokument. Wird am 3. April 2027 zur Abstimmung gestellt.
 
 Offen sind die Formulierungen im Ganzen. Offen ist auch die Zusammensetzung des unabänderlichen Kerns - Vorschläge zu seiner Ergänzung werden gleichrangig mit den übrigen behandelt und aufgenommen, wenn sie den Test aus Abschnitt 04 bestehen. Nicht behandelt werden allein Vorschläge, die Grundsätze des Kerns selbst aufzuheben oder einzuschränken; ihre Formulierungen zu präzisieren kann man vorschlagen.
 
@@ -56,7 +56,7 @@ Nach der Annahme werden die Grundsätze des Kerns nie aufgehoben, und die übrig
 
 Das wichtigste organisatorische Dokument: das Alter der Teilnahme, die Schwellen der Abstimmungen, die Fristen, der Ablauf der Beschwerde, die Beschränkung von Befugnissen, der Ablauf der Aufhebung der Ausgabe eines Passes.
 
-Die Erklärung trägt der Charta auf, fast alles festzulegen, was in der Praxis geschieht, deshalb tritt die Charta zugleich mit ihr in Kraft: Ohne sie gäbe es am ersten Tag kein einziges geltendes Verfahren. Durch eine gesonderte Abstimmung wird sie nicht angenommen, doch Vorschläge zu ihr werden gleichrangig mit Vorschlägen zur Erklärung angenommen und in die am 3. Februar 2027 veröffentlichte Fassung aufgenommen.
+Die Erklärung trägt der Charta auf, fast alles festzulegen, was in der Praxis geschieht, deshalb tritt die Charta zugleich mit ihr in Kraft: Ohne sie gäbe es am ersten Tag kein einziges geltendes Verfahren. Durch eine gesonderte Abstimmung wird sie nicht angenommen, doch Vorschläge zu ihr werden gleichrangig mit Vorschlägen zur Erklärung angenommen und in die am 13. März 2027 veröffentlichte Fassung aufgenommen.
 
 Weiter ändert die Charta bereits das Volk selbst - durch Beschluss der Vollversammlung, jederzeit und in dem Verfahren, das die Charta selbst festlegt. Die Anforderungen der Erklärung herabsetzen kann sie unter keinen Umständen.
 
@@ -64,7 +64,7 @@ Weiter ändert die Charta bereits das Volk selbst - durch Beschluss der Vollvers
 
 Wie die DAO, die Zellen, die Schatzkammer, die Recheneinheit EC, der Unabhängige Rat, die Digitale Plattform, der SBT-Pass, der Weg des Earthling, der Fahrplan und die Ethik eingerichtet sind und arbeiten.
 
-Diese Dokumente werden nicht durch Abstimmung angenommen: Sie beschreiben Mechanismen, und Mechanismen müssen sich mit dem Volk entwickeln. Angenommene Vorschläge werden sogleich in sie aufgenommen, ohne den 17. Februar abzuwarten. Nach der Konstituierung ändert sie die Vollversammlung im Verfahren der Charta.
+Diese Dokumente werden nicht durch Abstimmung angenommen: Sie beschreiben Mechanismen, und Mechanismen müssen sich mit dem Volk entwickeln. Angenommene Vorschläge werden sogleich in sie aufgenommen, ohne den 3. April abzuwarten. Nach der Konstituierung ändert sie die Vollversammlung im Verfahren der Charta.
 
 ### Die Dokumente für die Außenwelt und die Nachschlagedokumente
 
@@ -82,7 +82,7 @@ Alles, was Geltung hat, liegt im Bestand und steht für Vorschläge vollständig
 
 ### Zusammengefasst
 
-| Was | Wird am 17. Februar durch Abstimmung angenommen | Wann die Änderung gilt | Wer es danach ändert |
+| Was | Wird am 3. April durch Abstimmung angenommen | Wann die Änderung gilt | Wer es danach ändert |
 |---|---|---|---|
 | Die Erklärung | ja | vom Tag der Annahme an | die Grundsätze des Kerns - niemand; das Übrige - die Vollversammlung, zwei Drittel |
 | Die Charta | nein, tritt zugleich mit der Erklärung in Kraft | vom Tag der Annahme an | die Vollversammlung im Verfahren der Charta |
@@ -142,12 +142,12 @@ Kein Beschluss, der vor Ihrer Zustimmung gefasst wurde, verpflichtet Sie zu irge
 
 ## 07. Die Fristen
 
-- **22. Oktober 2026** - die Einreichung von Vorschlägen ist für den ganzen Bestand eröffnet.
-- **20. Januar 2027** - die Einreichung von Vorschlägen ist geschlossen.
-- **3. Februar 2027** - die Übersicht wird veröffentlicht: alle eingegangenen Vorschläge und die Antworten darauf. Am selben Tag werden die endgültige Fassung der Erklärung, die zur Abstimmung gestellt wird, und die endgültige Fassung der Charta, die zugleich mit ihr in Kraft tritt, veröffentlicht - auf Russisch und auf Englisch.
-- **17. Februar 2027** - die Abstimmung über die Annahme der Erklärung.
+- **22. November 2026** - die Einreichung von Vorschlägen ist für den ganzen Bestand eröffnet.
+- **20. Februar 2027** - die Einreichung von Vorschlägen ist geschlossen.
+- **13. März 2027** - die Übersicht wird veröffentlicht: alle eingegangenen Vorschläge und die Antworten darauf. Am selben Tag werden die endgültige Fassung der Erklärung, die zur Abstimmung gestellt wird, und die endgültige Fassung der Charta, die zugleich mit ihr in Kraft tritt, veröffentlicht - auf Russisch und auf Englisch.
+- **3. April 2027** - die Abstimmung über die Annahme der Erklärung.
 
-Änderungen an den übrigen Dokumenten des Bestandes werden im Lauf der Phase aufgenommen und nicht an diesen Tagen: Sie werden nicht durch Abstimmung angenommen, und den 17. Februar abzuwarten haben sie keinen Grund.
+Änderungen an den übrigen Dokumenten des Bestandes werden im Lauf der Phase aufgenommen und nicht an diesen Tagen: Sie werden nicht durch Abstimmung angenommen, und den 3. April abzuwarten haben sie keinen Grund.
 
 ## 08. Wohin senden
 
@@ -163,7 +163,7 @@ Dieser Abschnitt legt das Verfahren fest, auf das sich der Abschnitt „Status d
 
 ## 1. Die Einreichung von Vorschlägen
 
-Vorschläge werden vom 22. Oktober 2026 bis zum 20. Januar 2027 einschließlich angenommen.
+Vorschläge werden vom 22. November 2026 bis zum 20. Februar 2027 einschließlich angenommen.
 
 Einen Vorschlag einzubringen ist jeder Mensch befugt. Beitritt, Identitätsprüfung, Zahlungen und Zustimmung zu den Bestimmungen der Erklärung sind dafür nicht erforderlich.
 
@@ -185,9 +185,9 @@ Ein Vorschlag **zur Übersetzung** weist darauf hin, dass die Übersetzung den S
 
 Zu welcher Art ein Vorschlag gehört, bestimmt sich nach seinem Inhalt und nicht danach, wie er genannt ist. Deckt ein Vorschlag zur Übersetzung eine Unklarheit des Ausgangstextes selbst auf, so wird er auch als Vorschlag zur Sache behandelt.
 
-**Welcher Text Gegenstand der Abstimmung ist.** Die Abstimmung am 17. Februar 2027 wird über den russischen und den englischen Text geführt: Sie sind als authentisch anerkannt (Erklärung, Artikel 11). Die Texte in den übrigen sieben Sprachen sind amtliche Übersetzungen. Lesen und abstimmen kann man gestützt auf jeden von ihnen, doch weicht eine Übersetzung vom russischen und vom englischen Text ab, so gelten diese beiden Texte, und weichen sie voneinander ab, so gilt die Auslegung, die dem Menschen den höheren Schutz gibt; löst der Vergleich der Texte die Abweichung nicht auf, so gilt die Bedeutung des russischen Textes.
+**Welcher Text Gegenstand der Abstimmung ist.** Die Abstimmung am 3. April 2027 wird über den russischen und den englischen Text geführt: Sie sind als authentisch anerkannt (Erklärung, Artikel 11). Die Texte in den übrigen sieben Sprachen sind amtliche Übersetzungen. Lesen und abstimmen kann man gestützt auf jeden von ihnen, doch weicht eine Übersetzung vom russischen und vom englischen Text ab, so gelten diese beiden Texte, und weichen sie voneinander ab, so gilt die Auslegung, die dem Menschen den höheren Schutz gibt; löst der Vergleich der Texte die Abweichung nicht auf, so gilt die Bedeutung des russischen Textes.
 
-**Die Fertigstellung der Übersetzungen.** Der englische Text des Bestandes wird bis zur Eröffnung der Einreichung von Vorschlägen am 22. Oktober 2026 mit den russischen Ausgangstexten in Übereinstimmung gebracht; solange eine Übersetzung in eine andere Sprache hinter dem Ausgangstext zurückbleibt, wird das auf der betreffenden Seite vermerkt, und bei einer Abweichung gilt der russische Ausgangstext, für die Erklärung aber die oben dargelegte Ordnung. Die endgültigen Fassungen, die zur Abstimmung gestellt werden, werden am 3. Februar 2027 auf Russisch und Englisch veröffentlicht, und die Übersetzungen in die übrigen sieben Sprachen in derselben Frist. Ist eine Übersetzung bis zu diesem Tag nicht fertig, so wird das unmittelbar mitgeteilt, unter Angabe der Sprache und des Grundes; eine nicht fertige Übersetzung für fertig auszugeben werden wir nicht.
+**Die Fertigstellung der Übersetzungen.** Der englische Text des Bestandes wird bis zur Eröffnung der Einreichung von Vorschlägen am 22. November 2026 mit den russischen Ausgangstexten in Übereinstimmung gebracht; solange eine Übersetzung in eine andere Sprache hinter dem Ausgangstext zurückbleibt, wird das auf der betreffenden Seite vermerkt, und bei einer Abweichung gilt der russische Ausgangstext, für die Erklärung aber die oben dargelegte Ordnung. Die endgültigen Fassungen, die zur Abstimmung gestellt werden, werden am 13. März 2027 auf Russisch und Englisch veröffentlicht, und die Übersetzungen in die übrigen sieben Sprachen in derselben Frist. Ist eine Übersetzung bis zu diesem Tag nicht fertig, so wird das unmittelbar mitgeteilt, unter Angabe der Sprache und des Grundes; eine nicht fertige Übersetzung für fertig auszugeben werden wir nicht.
 
 ## 2. Veröffentlichung und Behandlung
 
@@ -199,13 +199,13 @@ Die Entscheidung über die Aufnahme eines Vorschlags in den Text trifft der Verf
 
 Die Befugnis ist auf drei Weisen begrenzt: Jede Ablehnung wird mit ihrem Grund veröffentlicht; jeder Vorschlag bleibt in der offenen Übersicht und steht für eine erneute Einreichung offen; der endgültige Text der Erklärung wird nicht vom Verfasser angenommen, sondern durch Abstimmung, und kann abgelehnt werden.
 
-Ein aufgenommener Vorschlag zur Erklärung und zur Charta geht in die am 3. Februar 2027 veröffentlichte Fassung ein. Ein aufgenommener Vorschlag zu den übrigen Dokumenten wird sogleich eingearbeitet, und von diesem Tag an gilt der veröffentlichte Text: Diese Dokumente werden nicht durch Abstimmung angenommen, und eine Änderung bis zum 17. Februar zurückzuhalten hat keinen Grund. Eine Änderung des Teils 2 dieses Dokuments nach der Eröffnung der Einreichung von Vorschlägen verschiebt weder den Tag des Schlusses der Einreichung noch den Tag der Veröffentlichung der Übersicht noch den Tag der Bekanntgabe des Ablaufs der Abstimmung noch den Tag der Abstimmung selbst, ändert die Voraussetzungen der Annahme und der Verschiebung nicht, hebt die Offenheit der Abstimmung und die Nachweisbarkeit des Ergebnisses nicht auf und verengt den Kreis der Abstimmenden nicht; eine solche Änderung wird spätestens am 3. Februar 2027 veröffentlicht.
+Ein aufgenommener Vorschlag zur Erklärung und zur Charta geht in die am 13. März 2027 veröffentlichte Fassung ein. Ein aufgenommener Vorschlag zu den übrigen Dokumenten wird sogleich eingearbeitet, und von diesem Tag an gilt der veröffentlichte Text: Diese Dokumente werden nicht durch Abstimmung angenommen, und eine Änderung bis zum 3. April zurückzuhalten hat keinen Grund. Eine Änderung des Teils 2 dieses Dokuments nach der Eröffnung der Einreichung von Vorschlägen verschiebt weder den Tag des Schlusses der Einreichung noch den Tag der Veröffentlichung der Übersicht noch den Tag der Bekanntgabe des Ablaufs der Abstimmung noch den Tag der Abstimmung selbst, ändert die Voraussetzungen der Annahme und der Verschiebung nicht, hebt die Offenheit der Abstimmung und die Nachweisbarkeit des Ergebnisses nicht auf und verengt den Kreis der Abstimmenden nicht; eine solche Änderung wird spätestens am 13. März 2027 veröffentlicht.
 
 Die Befugnis des Verfassers endet zugleich mit der Gründungsphase. Ist der Text angenommen, so ändert von diesem Tag an jedes Dokument des Bestandes allein die Vollversammlung.
 
 ## 3. Die Übersicht
 
-Die Übersicht aller eingegangenen Vorschläge und der Antworten darauf wird am 3. Februar 2027 veröffentlicht und bleibt unbefristet offen. Die Übersicht umfasst den ganzen Bestand: die Vorschläge zur Erklärung, zur Charta und zu jedem der übrigen Dokumente.
+Die Übersicht aller eingegangenen Vorschläge und der Antworten darauf wird am 13. März 2027 veröffentlicht und bleibt unbefristet offen. Die Übersicht umfasst den ganzen Bestand: die Vorschläge zur Erklärung, zur Charta und zu jedem der übrigen Dokumente.
 
 ## 4. Was nicht behandelt wird
 
@@ -223,9 +223,9 @@ Die Identitätsprüfung erfolgt kostenlos und dauert die ganze Phase hindurch an
 
 ## 6. Die Annahme des Textes
 
-Der Text wird am 17. Februar 2027 durch Abstimmung angenommen. Es stimmen die Menschen ab, die ihre Identität haben prüfen lassen, nach dem Grundsatz „ein Mensch - eine Stimme“. Die Abstimmung ist offen: Die Stimme und die Adresse des Abstimmenden sind für alle sichtbar, und jeder Mensch kann das Ergebnis selbst nachzählen, ohne uns zu vertrauen. Das wurde bewusst so entschieden. Die Erklärung (Artikel 9) verlangt, dass die persönliche Stimme geheim ist, doch sie tritt erst mit der Annahme in Kraft: Ein konstituierender Akt ist nicht an das Verfahren gebunden, das er selbst erst schafft. Für diese Abstimmung ist die Offenheit auch angemessen - die Frage ist eine einzige, niemand zieht aus ihr einen Vorteil, und die Überprüfbarkeit des konstituierenden Aktes ist das Wichtigste. Das Geheimnis der persönlichen Stimme gilt ab der Annahme. Wie die Abstimmung abläuft, wird am 3. Februar 2027 zusammen mit den endgültigen Fassungen bekanntgegeben. Lässt sich die Abstimmung am bestimmten Tag aus einem technischen Grund nicht durchführen, so wird sie am ersten Tag nach dessen Behebung durchgeführt, spätestens jedoch vierzehn Tage nach dem bestimmten Tag; der Grund und der neue Tag werden vor dem Beginn der Abstimmung veröffentlicht. Eine solche Verschiebung gilt nicht als Verschiebung nach Ziffer 7. Ist der Grund nicht binnen vierzehn Tagen behoben, so wird der Tag der Annahme nach Ziffer 7 verschoben, und diese Verschiebung gilt als eine der beiden. Sind beide Verschiebungen der Ziffer 7 bereits gebraucht, so wird der Tag der Annahme noch ein weiteres Mal um drei Monate verschoben, unter den Voraussetzungen, die Ziffer 7 für eine Abstimmung nach der zweiten Verschiebung festlegt; ist auch dann der technische Grund nicht binnen vierzehn Tagen behoben, so ist der Text nicht angenommen, das wird spätestens am folgenden Tag veröffentlicht, und mit dieser Veröffentlichung endet die Gründungsphase, und die Befugnis des Verfassers endet.
+Der Text wird am 3. April 2027 durch Abstimmung angenommen. Es stimmen die Menschen ab, die ihre Identität haben prüfen lassen, nach dem Grundsatz „ein Mensch - eine Stimme“. Die Abstimmung ist offen: Die Stimme und die Adresse des Abstimmenden sind für alle sichtbar, und jeder Mensch kann das Ergebnis selbst nachzählen, ohne uns zu vertrauen. Das wurde bewusst so entschieden. Die Erklärung (Artikel 9) verlangt, dass die persönliche Stimme geheim ist, doch sie tritt erst mit der Annahme in Kraft: Ein konstituierender Akt ist nicht an das Verfahren gebunden, das er selbst erst schafft. Für diese Abstimmung ist die Offenheit auch angemessen - die Frage ist eine einzige, niemand zieht aus ihr einen Vorteil, und die Überprüfbarkeit des konstituierenden Aktes ist das Wichtigste. Das Geheimnis der persönlichen Stimme gilt ab der Annahme. Wie die Abstimmung abläuft, wird am 13. März 2027 zusammen mit den endgültigen Fassungen bekanntgegeben. Lässt sich die Abstimmung am bestimmten Tag aus einem technischen Grund nicht durchführen, so wird sie am ersten Tag nach dessen Behebung durchgeführt, spätestens jedoch vierzehn Tage nach dem bestimmten Tag; der Grund und der neue Tag werden vor dem Beginn der Abstimmung veröffentlicht. Eine solche Verschiebung gilt nicht als Verschiebung nach Ziffer 7. Ist der Grund nicht binnen vierzehn Tagen behoben, so wird der Tag der Annahme nach Ziffer 7 verschoben, und diese Verschiebung gilt als eine der beiden. Sind beide Verschiebungen der Ziffer 7 bereits gebraucht, so wird der Tag der Annahme noch ein weiteres Mal um drei Monate verschoben, unter den Voraussetzungen, die Ziffer 7 für eine Abstimmung nach der zweiten Verschiebung festlegt; ist auch dann der technische Grund nicht binnen vierzehn Tagen behoben, so ist der Text nicht angenommen, das wird spätestens am folgenden Tag veröffentlicht, und mit dieser Veröffentlichung endet die Gründungsphase, und die Befugnis des Verfassers endet.
 
-Die Abstimmung wird über zwei Texte zugleich geführt - den russischen und den englischen. Beide werden als authentisch angenommen (Erklärung, Artikel 11), deshalb muss der englische Text spätestens am Tag der Veröffentlichung der Übersicht, dem 3. Februar 2027, fertig und veröffentlicht sein: Abstimmen kann man nur über das, was sich vorher lesen lässt.
+Die Abstimmung wird über zwei Texte zugleich geführt - den russischen und den englischen. Beide werden als authentisch angenommen (Erklärung, Artikel 11), deshalb muss der englische Text spätestens am Tag der Veröffentlichung der Übersicht, dem 13. März 2027, fertig und veröffentlicht sein: Abstimmen kann man nur über das, was sich vorher lesen lässt.
 
 Der Text gilt als angenommen, wenn drei Voraussetzungen zugleich erfüllt sind (die Ausnahme für eine Abstimmung nach der zweiten Verschiebung steht in Ziffer 7):
 
@@ -237,9 +237,9 @@ Sind keine Vorschläge eingegangen oder ist keiner der eingegangenen in den Text
 
 ## 7. Wenn die Voraussetzungen der Annahme nicht erfüllt sind
 
-Ist die Voraussetzung der Teilnahme (Ziffer 2 oder 3) nicht erfüllt, so wird der Tag der Annahme um drei Monate verschoben; eine Verschiebung ist höchstens zweimal zulässig. Sind die Voraussetzungen der Teilnahme erfüllt, sind aber für die Annahme weniger als zwei Drittel der bei der Abstimmung abgegebenen Stimmen abgegeben worden, so ist der Text nicht angenommen.
+Ist die Voraussetzung der Teilnahme (Ziffer 2 oder 3) nicht erfüllt, so wird der Tag der Annahme um drei Monate verschoben; eine Verschiebung ist höchstens zweimal zulässig. Drei Monate deshalb, weil sich fehlende Teilnahme durch die Einladung von Menschen beheben lässt, und das ist Arbeit von Monaten, nicht von Wochen: Eine Verschiebung um eine kürzere Frist würde einen Versuch verbrauchen, ohne etwas zu ändern. Höchstens zweimal deshalb, weil ohne Grenze „warten wir noch ab“ nicht von „wir stellen ihn nie zur Abstimmung“ zu unterscheiden ist. Sind die Voraussetzungen der Teilnahme erfüllt, sind aber für die Annahme weniger als zwei Drittel der bei der Abstimmung abgegebenen Stimmen abgegeben worden, so ist der Text nicht angenommen.
 
-Ist auch nach der zweiten Verschiebung die Voraussetzung der Teilnahme nicht erfüllt, so wird das Erfordernis der Teilnahme von mindestens hundert geprüften Teilnehmern nicht mehr angewandt: Der Text gilt als angenommen, wenn an der Abstimmung mindestens dreißig Prozent der Gesamtzahl der geprüften Teilnehmer am Tag der Abstimmung teilgenommen haben und für ihn mindestens zwei Drittel der abgegebenen Stimmen abgegeben worden sind; sonst ist der Text nicht angenommen.
+Ist auch nach der zweiten Verschiebung die Voraussetzung der Teilnahme nicht erfüllt, so wird nur das Erfordernis des Anteils gelockert: Der Text gilt als angenommen, wenn an der Abstimmung mindestens hundert geprüfte Teilnehmer und mindestens zwanzig Prozent der Gesamtzahl der geprüften Teilnehmer am Tag der Abstimmung teilgenommen haben und für ihn mindestens zwei Drittel der abgegebenen Stimmen abgegeben worden sind; sonst ist der Text nicht angenommen. Das Erfordernis der Teilnahme von mindestens hundert geprüften Teilnehmern wird unter keinen Umständen aufgehoben.
 
 Andere Anforderungen werden unter keinen Umständen herabgesetzt. Ist der Text nicht angenommen, so wird das Ergebnis zusammen mit den Daten der Abstimmung spätestens am Tag nach dem Schluss der Abstimmung veröffentlicht, und mit dieser Veröffentlichung endet die Gründungsphase, und die Befugnis des Verfassers endet; eine neue Konstituierung ist nur durch eine neue Gründungsphase mit einer neuen Einreichung von Vorschlägen möglich.
 

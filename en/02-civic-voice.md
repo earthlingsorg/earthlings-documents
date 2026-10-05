@@ -165,7 +165,7 @@ A result without a trail is an assertion. A result with a trail is a fact. Every
 
 The last point is the chief one. **Verification must not require trust in us.** The vote is secret (Declaration, Article 9), and verification is arranged so as not to disclose it: the correctness of the count is proven from open data by an open program. We cannot forge someone else's vote, and this is checked by someone else's recount; a voter can be added by issuing an entry in the registry: every issuance is visible on the network, but the grounds for an issuance cannot be checked from outside.
 
-We say it ourselves: this is how things stand now. The vote of 17 February 2027 on the adoption of the Declaration will be held openly: this has been decided because what matters most about a founding act is that it can be verified, and the Declaration enters into force only upon its adoption. A tool for secret voting does not yet exist, and it is needed by the first substantive vote of the Assembly after the founding. In the open voting channel that has been deployed, votes are signed by wallets, the addresses of those who voted are public, and the right to vote is confirmed by our server; no substantive measurements have been conducted in it (the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html)).
+We say it ourselves: this is how things stand now. The vote of 3 April 2027 on the adoption of the Declaration will be held openly: this has been decided because what matters most about a founding act is that it can be verified, and the Declaration enters into force only upon its adoption. A tool for secret voting does not yet exist, and it is needed by the first substantive vote of the Assembly after the founding. In the open voting channel that has been deployed, votes are signed by wallets, the addresses of those who voted are public, and the right to vote is confirmed by our server; no substantive measurements have been conducted in it (the document [Where We Are Now](https://earth-lings.org/documents/en/en32-where-we-are-now.html)).
 
 ### If a measurement turns out to be defective
 
@@ -428,7 +428,7 @@ So that what is described here can be checked rather than taken on faith, we nam
 
 ## What is not here
 
-**There are no timelines here.** Not one rung has "in three years" written against it: the speed is set by the number of participants, by accumulated practice and by other people's decisions, not by our plan. Timelines belong elsewhere: the founding period is set to begin on 22 October 2026, and the Declaration goes to a vote ([The Founding Period](https://earth-lings.org/documents/en/en20-the-founding-period.html)).
+**There are no timelines here.** Not one rung has "in three years" written against it: the speed is set by the number of participants, by accumulated practice and by other people's decisions, not by our plan. Timelines belong elsewhere: the founding period is set to begin on 22 November 2026, and the Declaration goes to a vote ([The Founding Period](https://earth-lings.org/documents/en/en20-the-founding-period.html)).
 
 **There is no promise of a result here.** What the people is bound by and what it is not bound by is set out in Article 6 of the [Declaration](https://earth-lings.org/documents/en/en01-declaration.html), and we do not reproduce it here, so that the norm has a single source. In short: recognition is not within its power, and the existence of the people does not depend on recognition.
 

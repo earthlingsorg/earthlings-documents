@@ -94,7 +94,7 @@ These functions are temporary. The Charter enters into force with the adoption o
 
 ## What the founders are not entitled to do even now
 
-- repeal or limit the principles of Part I of the Declaration, or change its text other than openly: every edit is visible line by line in the open registry, from 22 October 2026 the text is changed only by including proposals under the procedure of the founding period (the document "The Founding Period"), and after the Declaration is adopted it is changed only by the Assembly;
+- repeal or limit the principles of Part I of the Declaration, or change its text other than openly: every edit is visible line by line in the open registry, from 22 November 2026 the text is changed only by including proposals under the procedure of the founding period (the document "The Founding Period"), and after the Declaration is adopted it is changed only by the Assembly;
 - deprive participants of status, belonging, or the right to vote; before the Declaration is adopted, against the holder's will, the temporary document of a participant in the founding is burned under the procedure set out in the document "The Founding Period" (Part 2, section 5);
 - take decisions contrary to the values of the people;
 - use the community's resources for personal ends;

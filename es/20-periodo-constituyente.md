@@ -32,7 +32,7 @@ Queremos así que los Earthlings no se creen para las personas, sino **por las p
 
 **Estado actual.** El contrato del registro de pasaportes, la verificación de identidad, las células y la contabilidad de la economía interna están desplegados y funcionan; el canal público de votación está desplegado, pero todavía no ha habido en él votaciones de fondo, todavía no existe un medio de votación secreta, y la votación constituyente será abierta y los contratos inteligentes de la Tesorería no están desplegados (documento «Dónde estamos ahora»). Lo que no está adoptado es el texto constitutivo.
 
-Del 22 de octubre de 2026 al 20 de enero de 2027 está abierto a propuestas todo el corpus: la Declaración, la Carta, los otros veintitrés documentos y los tres anexos del documento «Voz ciudadana». Puede presentarlas cualquier persona. El 17 de febrero de 2027 el texto se somete a votación de quienes hayan verificado su identidad. Desde su adopción, los principios de la parte I de la Declaración ya no se derogan nunca, y sus formulaciones y el resto del texto los modifica únicamente el propio pueblo, por dos tercios de los votos emitidos y con quórum, y solo de modo que ningún principio quede restringido y ninguna garantía a la persona se debilite.
+Del 22 de noviembre de 2026 al 20 de febrero de 2027 está abierto a propuestas todo el corpus: la Declaración, la Carta, los otros veintitrés documentos y los tres anexos del documento «Voz ciudadana». Puede presentarlas cualquier persona. El 3 de abril de 2027 el texto se somete a votación de quienes hayan verificado su identidad. Desde su adopción, los principios de la parte I de la Declaración ya no se derogan nunca, y sus formulaciones y el resto del texto los modifica únicamente el propio pueblo, por dos tercios de los votos emitidos y con quórum, y solo de modo que ningún principio quede restringido y ninguna garantía a la persona se debilite.
 
 ## 01. Por qué lo hacemos así
 
@@ -46,7 +46,7 @@ Está abierto todo el corpus, incluido el presente documento. Se puede presentar
 
 ### La Declaración
 
-Documento constitutivo. Se somete a votación el 17 de febrero de 2027.
+Documento constitutivo. Se somete a votación el 3 de abril de 2027.
 
 Están abiertas sus redacciones por completo. Está abierta también la composición del núcleo intangible: las propuestas de completarlo se examinan en igualdad con las demás y se incorporan si superan el test de la sección 04. Lo único que no se examina son las propuestas de derogar o restringir los principios del núcleo; precisar sus redacciones sí se puede proponer.
 
@@ -56,7 +56,7 @@ Tras la adopción, los principios del núcleo no se derogan nunca, y las demás 
 
 Documento organizativo principal: edad de participación, umbrales de votación, plazos, procedimiento de recurso, limitación de facultades, procedimiento de anulación de la emisión de un pasaporte.
 
-La Declaración encomienda a la Carta establecer casi todo lo que ocurre en la práctica, por eso la Carta entra en vigor junto con ella: sin ella no habría el primer día ni un solo procedimiento vigente. No se adopta en una votación aparte, pero las propuestas a ella se aceptan en igualdad con las propuestas a la Declaración y se incorporan a la versión que se publica el 3 de febrero de 2027.
+La Declaración encomienda a la Carta establecer casi todo lo que ocurre en la práctica, por eso la Carta entra en vigor junto con ella: sin ella no habría el primer día ni un solo procedimiento vigente. No se adopta en una votación aparte, pero las propuestas a ella se aceptan en igualdad con las propuestas a la Declaración y se incorporan a la versión que se publica el 13 de marzo de 2027.
 
 Después, la Carta la modifica ya el propio pueblo, por decisión de la Asamblea, en cualquier momento y en la forma que la propia Carta establece. Rebajar las exigencias de la Declaración no puede hacerlo en ninguna circunstancia.
 
@@ -64,7 +64,7 @@ Después, la Carta la modifica ya el propio pueblo, por decisión de la Asamblea
 
 Cómo están hechos y cómo funcionan la DAO, las células, la tesorería, la unidad de cuenta EC, el Consejo Independiente, la plataforma digital, el pasaporte SBT, el camino del earthling, la hoja de ruta y la ética.
 
-Estos documentos no se adoptan por votación: describen mecanismos, y los mecanismos deben evolucionar con el pueblo. Las propuestas aceptadas se incorporan a ellos de inmediato, sin esperar al 17 de febrero. Tras la constitución, los modifica la Asamblea conforme a la Carta.
+Estos documentos no se adoptan por votación: describen mecanismos, y los mecanismos deben evolucionar con el pueblo. Las propuestas aceptadas se incorporan a ellos de inmediato, sin esperar al 3 de abril. Tras la constitución, los modifica la Asamblea conforme a la Carta.
 
 ### Los documentos hacia el exterior y de consulta
 
@@ -82,7 +82,7 @@ Todo lo que tiene fuerza está en el corpus y está abierto a propuestas por com
 
 ### En resumen
 
-| Qué | Se adopta por votación el 17 de febrero | Cuándo rige la enmienda | Quién lo cambia después |
+| Qué | Se adopta por votación el 3 de abril | Cuándo rige la enmienda | Quién lo cambia después |
 |---|---|---|---|
 | La Declaración | sí | desde el día de la adopción | los principios del núcleo, nadie; lo demás, la Asamblea, por dos tercios |
 | La Carta | no, entra en vigor junto con la Declaración | desde el día de la adopción | la Asamblea conforme a la Carta |
@@ -142,12 +142,12 @@ Ninguna decisión adoptada antes de su acuerdo le obliga a nada.
 
 ## 07. Plazos
 
-- **22 de octubre de 2026** - se abre la recepción de propuestas para todo el corpus.
-- **20 de enero de 2027** - se cierra la recepción de propuestas.
-- **3 de febrero de 2027** - se publica el compendio: todas las propuestas recibidas y sus respuestas. Ese mismo día se publican la versión definitiva de la Declaración que se somete a votación y la versión definitiva de la Carta, que entra en vigor junto con ella, en ruso y en inglés.
-- **17 de febrero de 2027** - votación sobre la adopción de la Declaración.
+- **22 de noviembre de 2026** - se abre la recepción de propuestas para todo el corpus.
+- **20 de febrero de 2027** - se cierra la recepción de propuestas.
+- **13 de marzo de 2027** - se publica el compendio: todas las propuestas recibidas y sus respuestas. Ese mismo día se publican la versión definitiva de la Declaración que se somete a votación y la versión definitiva de la Carta, que entra en vigor junto con ella, en ruso y en inglés.
+- **3 de abril de 2027** - votación sobre la adopción de la Declaración.
 
-Las enmiendas a los demás documentos del corpus se incorporan a lo largo del período y no en esas fechas: no se adoptan por votación y no tienen por qué esperar al 17 de febrero.
+Las enmiendas a los demás documentos del corpus se incorporan a lo largo del período y no en esas fechas: no se adoptan por votación y no tienen por qué esperar al 3 de abril.
 
 ## 08. Adónde enviarlas
 
@@ -163,7 +163,7 @@ La presente sección establece el procedimiento al que remite la sección «Esta
 
 ## 1. Recepción de propuestas
 
-Las propuestas se aceptan desde el 22 de octubre de 2026 hasta el 20 de enero de 2027 inclusive.
+Las propuestas se aceptan desde el 22 de noviembre de 2026 hasta el 20 de febrero de 2027 inclusive.
 
 Puede presentar una propuesta cualquier persona. Para ello no se requieren adhesión, verificación de identidad, pagos ni conformidad con las disposiciones de la Declaración.
 
@@ -185,9 +185,9 @@ Una propuesta **de traducción** señala que la traducción transmite el sentido
 
 A qué clase pertenece una propuesta se determina por su contenido, y no por cómo se la denomine. Si una propuesta de traducción revela una falta de claridad del propio texto maestro, se examina también como propuesta de fondo.
 
-**Qué texto es el objeto de la votación.** La votación del 17 de febrero de 2027 se celebra sobre los textos ruso e inglés: están reconocidos como auténticos (Declaración, artículo 11). Los textos en las otras siete lenguas son traducciones oficiales. Se puede leer y votar apoyándose en cualquiera de ellos, pero en caso de discrepancia de una traducción con los textos ruso e inglés se aplican esos dos textos y, en caso de discrepancia entre ellos, la interpretación que dé a la persona mayor protección; si la comparación de los textos no resuelve la discrepancia, se aplica el sentido del texto ruso.
+**Qué texto es el objeto de la votación.** La votación del 3 de abril de 2027 se celebra sobre los textos ruso e inglés: están reconocidos como auténticos (Declaración, artículo 11). Los textos en las otras siete lenguas son traducciones oficiales. Se puede leer y votar apoyándose en cualquiera de ellos, pero en caso de discrepancia de una traducción con los textos ruso e inglés se aplican esos dos textos y, en caso de discrepancia entre ellos, la interpretación que dé a la persona mayor protección; si la comparación de los textos no resuelve la discrepancia, se aplica el sentido del texto ruso.
 
-**Preparación de las traducciones.** El texto inglés del corpus se adecua a los textos maestros rusos antes de que se abra la recepción de propuestas el 22 de octubre de 2026; mientras la traducción a otra lengua vaya por detrás del maestro, en su página se dice así, y en caso de discrepancia se aplica el texto maestro ruso y, para la Declaración, el orden expuesto más arriba. Las versiones definitivas que se someten a votación se publican en ruso y en inglés el 3 de febrero de 2027, y las traducciones a las otras siete lenguas, en el mismo plazo. Si para ese día alguna traducción no está lista, se dirá de manera expresa, indicando la lengua y el motivo; no vamos a presentar como lista una traducción que no lo esté.
+**Preparación de las traducciones.** El texto inglés del corpus se adecua a los textos maestros rusos antes de que se abra la recepción de propuestas el 22 de noviembre de 2026; mientras la traducción a otra lengua vaya por detrás del maestro, en su página se dice así, y en caso de discrepancia se aplica el texto maestro ruso y, para la Declaración, el orden expuesto más arriba. Las versiones definitivas que se someten a votación se publican en ruso y en inglés el 13 de marzo de 2027, y las traducciones a las otras siete lenguas, en el mismo plazo. Si para ese día alguna traducción no está lista, se dirá de manera expresa, indicando la lengua y el motivo; no vamos a presentar como lista una traducción que no lo esté.
 
 ## 2. Publicación y examen
 
@@ -199,13 +199,13 @@ La decisión de incluir una propuesta en el texto la adopta el autor de la Decla
 
 La facultad está limitada de tres maneras: cada rechazo se publica con su motivo; cada propuesta permanece en el compendio abierto y puede volver a presentarse; y el texto final de la Declaración lo adopta no el autor, sino una votación, y puede ser rechazado.
 
-Una propuesta incluida en la Declaración y en la Carta entra en la versión que se publica el 3 de febrero de 2027. Una propuesta incluida en los demás documentos se incorpora de inmediato, y desde ese día rige el texto publicado: esos documentos no se adoptan por votación y no tiene sentido retener una enmienda hasta el 17 de febrero. Una modificación de la parte 2 del presente documento posterior a la apertura de la recepción de propuestas no traslada las fechas del cierre de la recepción de propuestas, de la publicación del compendio, del anuncio del desarrollo de la votación ni de la votación misma, no altera las condiciones de adopción y de aplazamiento, no suprime la apertura de la votación ni la demostrabilidad del resultado y no restringe el conjunto de quienes votan; tal modificación se publica a más tardar el 3 de febrero de 2027.
+Una propuesta incluida en la Declaración y en la Carta entra en la versión que se publica el 13 de marzo de 2027. Una propuesta incluida en los demás documentos se incorpora de inmediato, y desde ese día rige el texto publicado: esos documentos no se adoptan por votación y no tiene sentido retener una enmienda hasta el 3 de abril. Una modificación de la parte 2 del presente documento posterior a la apertura de la recepción de propuestas no traslada las fechas del cierre de la recepción de propuestas, de la publicación del compendio, del anuncio del desarrollo de la votación ni de la votación misma, no altera las condiciones de adopción y de aplazamiento, no suprime la apertura de la votación ni la demostrabilidad del resultado y no restringe el conjunto de quienes votan; tal modificación se publica a más tardar el 13 de marzo de 2027.
 
 La facultad del autor cesa con el período constituyente. Si el texto se adopta, desde ese día cualquier documento del corpus lo modifica únicamente la Asamblea.
 
 ## 3. El compendio
 
-El compendio de todas las propuestas recibidas y de sus respuestas se publica el 3 de febrero de 2027 y queda abierto de manera indefinida. El compendio abarca todo el corpus: las propuestas a la Declaración, a la Carta y a cada uno de los demás documentos.
+El compendio de todas las propuestas recibidas y de sus respuestas se publica el 13 de marzo de 2027 y queda abierto de manera indefinida. El compendio abarca todo el corpus: las propuestas a la Declaración, a la Carta y a cada uno de los demás documentos.
 
 ## 4. Qué no se examina
 
@@ -223,9 +223,9 @@ La verificación de identidad se realiza de manera gratuita y continúa durante 
 
 ## 6. Adopción del texto
 
-El texto se adopta por votación el 17 de febrero de 2027. Votan las personas que han verificado su identidad, conforme al principio «una persona, un voto». La votación es abierta: el voto y la dirección de quien vota son visibles para todos, y cualquier persona puede rehacer el recuento por sí misma, sin confiar en nosotros. Así se ha decidido de forma deliberada. La Declaración (artículo 9) exige que el voto personal sea secreto, pero entra en vigor con la adopción: un acto constitutivo no está sujeto al procedimiento que él mismo crea. Para esta votación la apertura es además adecuada: la cuestión es una sola, nadie obtiene beneficio de ella y lo más importante de un acto constitutivo es que pueda verificarse. El secreto del voto personal empieza a regir tras la adopción. Cómo se desarrolla la votación se anuncia el 3 de febrero de 2027 junto con las redacciones definitivas. Si la votación no puede celebrarse el día señalado por una causa técnica, se celebra el primer día después de que esta se haya subsanado, pero no más de catorce días después del día señalado; la causa y el nuevo día se publican antes de que empiece la votación. Ese aplazamiento no se considera aplazamiento conforme a la sección 7. Si la causa no se subsana en catorce días, el día de la adopción se aplaza conforme a la sección 7, y ese aplazamiento cuenta como uno de los dos. Si los dos aplazamientos de la sección 7 ya se han empleado, el día de la adopción se aplaza una vez más, tres meses, en las condiciones que la sección 7 establece para la votación posterior al segundo aplazamiento; si tampoco entonces se subsana la causa técnica en catorce días, el texto no se adopta, así se publica a más tardar al día siguiente y, con esa publicación, concluye el período constituyente y cesa la facultad del autor.
+El texto se adopta por votación el 3 de abril de 2027. Votan las personas que han verificado su identidad, conforme al principio «una persona, un voto». La votación es abierta: el voto y la dirección de quien vota son visibles para todos, y cualquier persona puede rehacer el recuento por sí misma, sin confiar en nosotros. Así se ha decidido de forma deliberada. La Declaración (artículo 9) exige que el voto personal sea secreto, pero entra en vigor con la adopción: un acto constitutivo no está sujeto al procedimiento que él mismo crea. Para esta votación la apertura es además adecuada: la cuestión es una sola, nadie obtiene beneficio de ella y lo más importante de un acto constitutivo es que pueda verificarse. El secreto del voto personal empieza a regir tras la adopción. Cómo se desarrolla la votación se anuncia el 13 de marzo de 2027 junto con las redacciones definitivas. Si la votación no puede celebrarse el día señalado por una causa técnica, se celebra el primer día después de que esta se haya subsanado, pero no más de catorce días después del día señalado; la causa y el nuevo día se publican antes de que empiece la votación. Ese aplazamiento no se considera aplazamiento conforme a la sección 7. Si la causa no se subsana en catorce días, el día de la adopción se aplaza conforme a la sección 7, y ese aplazamiento cuenta como uno de los dos. Si los dos aplazamientos de la sección 7 ya se han empleado, el día de la adopción se aplaza una vez más, tres meses, en las condiciones que la sección 7 establece para la votación posterior al segundo aplazamiento; si tampoco entonces se subsana la causa técnica en catorce días, el texto no se adopta, así se publica a más tardar al día siguiente y, con esa publicación, concluye el período constituyente y cesa la facultad del autor.
 
-La votación se celebra sobre dos textos a la vez, el ruso y el inglés. Ambos se adoptan como auténticos (Declaración, artículo 11), por lo que el texto inglés debe estar listo y publicado no más tarde del día de publicación del compendio, el 3 de febrero de 2027: solo se puede votar aquello que se puede leer de antemano.
+La votación se celebra sobre dos textos a la vez, el ruso y el inglés. Ambos se adoptan como auténticos (Declaración, artículo 11), por lo que el texto inglés debe estar listo y publicado no más tarde del día de publicación del compendio, el 13 de marzo de 2027: solo se puede votar aquello que se puede leer de antemano.
 
 El texto se considera adoptado si se cumplen a la vez tres condiciones (la excepción para la votación posterior al segundo aplazamiento está en la sección 7):
 
@@ -237,9 +237,9 @@ Si no se han recibido propuestas o si ninguna de las recibidas se ha incluido en
 
 ## 7. Si no se cumplen las condiciones de adopción
 
-Si no se cumple la condición de participación (apartado 2 o 3), el día de la adopción se aplaza tres meses; el aplazamiento se admite un máximo de dos veces. Si se cumplen las condiciones de participación y a favor de la adopción se han emitido menos de dos tercios de los votos emitidos en la votación, el texto no se adopta.
+Si no se cumple la condición de participación (apartado 2 o 3), el día de la adopción se aplaza tres meses; el aplazamiento se admite un máximo de dos veces. Tres meses, porque la falta de participación se remedia invitando a personas, y eso es trabajo de meses, no de semanas: un aplazamiento más corto consumiría un intento sin cambiar nada. Un máximo de dos, porque sin límite «esperemos un poco más» no se distingue de «no lo someteremos nunca a votación». Si se cumplen las condiciones de participación y a favor de la adopción se han emitido menos de dos tercios de los votos emitidos en la votación, el texto no se adopta.
 
-Si tampoco tras el segundo aplazamiento se cumple la condición de participación, la exigencia de participación de no menos de cien participantes verificados deja de aplicarse: el texto se considera adoptado si han participado en la votación no menos del treinta por ciento del número total de participantes verificados el día de la votación y se han emitido a su favor no menos de dos tercios de los votos emitidos; en otro caso, el texto no se adopta.
+Si tampoco tras el segundo aplazamiento se cumple la condición de participación, únicamente se flexibiliza la exigencia de proporción: el texto se considera adoptado si han participado en la votación no menos de cien participantes verificados y no menos del veinte por ciento del número total de participantes verificados el día de la votación, y se han emitido a su favor no menos de dos tercios de los votos emitidos; en otro caso, el texto no se adopta. La exigencia de participación de no menos de cien participantes verificados no se suprime en ninguna circunstancia.
 
 Las demás exigencias no se rebajan en ninguna circunstancia. Si el texto no se adopta, el resultado se publica junto con los datos de la votación a más tardar al día siguiente del cierre de la votación y, con esa publicación, concluye el período constituyente y cesa la facultad del autor; una nueva constitución solo es posible mediante un nuevo período constituyente, con una nueva recepción de propuestas.
 

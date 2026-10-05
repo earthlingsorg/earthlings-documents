@@ -32,7 +32,7 @@ This is how we want Earthlings to be created: not for people, but **by people th
 
 **Current state.** The passport registry contract, identity verification, Cells, and the accounting of the internal economy are deployed and working; the public voting channel is deployed, but no substantive votes have yet been held in it, there is no tool for secret voting yet, and the founding vote will be held openly, and the Treasury smart contracts have not been deployed (the document "Where We Are Now"). What has not been adopted is the founding text.
 
-From 22 October 2026 to 20 January 2027 the whole corpus is open to proposals - the Declaration, the Charter, the other twenty-three documents, and the three annexes to the document Civic Voice. Any person may submit proposals. On 17 February 2027 the text is put to a vote of those who have confirmed their identity. Once it is adopted, the principles of Part I of the Declaration are never repealed, and their wording and the rest of the text are changed only by the people itself - by two thirds of the votes cast, subject to a quorum, and only so that no principle is narrowed and no guarantee to any person becomes weaker.
+From 22 November 2026 to 20 February 2027 the whole corpus is open to proposals - the Declaration, the Charter, the other twenty-three documents, and the three annexes to the document Civic Voice. Any person may submit proposals. On 3 April 2027 the text is put to a vote of those who have confirmed their identity. Once it is adopted, the principles of Part I of the Declaration are never repealed, and their wording and the rest of the text are changed only by the people itself - by two thirds of the votes cast, subject to a quorum, and only so that no principle is narrowed and no guarantee to any person becomes weaker.
 
 ## 01. Why we do it this way
 
@@ -46,7 +46,7 @@ The whole corpus is open, including this document. A proposal may be submitted t
 
 ### The Declaration
 
-The founding document. To be put to a vote on 17 February 2027.
+The founding document. To be put to a vote on 3 April 2027.
 
 The wording is open in its entirety. The composition of the unamendable core is open too - proposals to add to it are considered on the same footing as the rest and are included if they pass the test in section 04. The only proposals not considered are those to repeal or limit the principles of the core themselves; refining their wording may be proposed.
 
@@ -56,7 +56,7 @@ After adoption the principles of the core are never repealed, while the people i
 
 The principal organizational document: the age of participation, voting thresholds, time limits, the appeals procedure, the restriction of powers, the procedure for annulling the issuance of a passport.
 
-The Declaration entrusts the Charter with setting out almost everything that happens in practice, so the Charter takes effect together with it: without the Charter there would not be a single operative procedure on the first day. It is not adopted by a separate vote, but proposals to it are accepted on the same footing as proposals to the Declaration and are included in the edition published on 3 February 2027.
+The Declaration entrusts the Charter with setting out almost everything that happens in practice, so the Charter takes effect together with it: without the Charter there would not be a single operative procedure on the first day. It is not adopted by a separate vote, but proposals to it are accepted on the same footing as proposals to the Declaration and are included in the edition published on 13 March 2027.
 
 Thereafter the Charter is changed by the people itself - by decision of the Assembly, at any time and in the manner the Charter itself sets out. The Charter cannot lower the requirements of the Declaration under any circumstances.
 
@@ -64,7 +64,7 @@ Thereafter the Charter is changed by the people itself - by decision of the Asse
 
 How the DAO, the Cells, the treasury, the EC unit of account, the Independent Council, the digital platform, the SBT passport, the earthling path, the roadmap, and ethics are structured and how they work.
 
-These documents are not adopted by a vote: they describe mechanisms, and mechanisms must develop along with the people. Accepted proposals are entered into them at once, without waiting for 17 February. After the founding they are changed by the Assembly under the Charter.
+These documents are not adopted by a vote: they describe mechanisms, and mechanisms must develop along with the people. Accepted proposals are entered into them at once, without waiting for 3 April. After the founding they are changed by the Assembly under the Charter.
 
 ### Documents for the outside world and reference documents
 
@@ -82,7 +82,7 @@ Everything that has force is in the corpus and is open to proposals in full.
 
 ### In summary
 
-| What | Adopted by the vote of 17 February | When an amendment takes effect | Who changes it afterwards |
+| What | Adopted by the vote of 3 April | When an amendment takes effect | Who changes it afterwards |
 |---|---|---|---|
 | The Declaration | yes | from the day of adoption | the principles of the core - no one; the rest - the Assembly, two thirds |
 | The Charter | no, takes effect together with the Declaration | from the day of adoption | the Assembly, under the Charter |
@@ -142,12 +142,12 @@ No decision taken before you give your consent binds you to anything.
 
 ## 07. Dates
 
-- **22 October 2026** - proposals open across the whole corpus.
-- **20 January 2027** - proposals close.
-- **3 February 2027** - the record is published: all proposals received and the replies to them. On the same day the final edition of the Declaration put to the vote and the final edition of the Charter, which takes effect together with the Declaration, are published in Russian and English.
-- **17 February 2027** - the vote on the adoption of the Declaration.
+- **22 November 2026** - proposals open across the whole corpus.
+- **20 February 2027** - proposals close.
+- **13 March 2027** - the record is published: all proposals received and the replies to them. On the same day the final edition of the Declaration put to the vote and the final edition of the Charter, which takes effect together with the Declaration, are published in Russian and English.
+- **3 April 2027** - the vote on the adoption of the Declaration.
 
-Amendments to the other documents of the corpus are made in the course of the period rather than on these dates: they are not adopted by a vote, and there is no reason for them to wait for 17 February.
+Amendments to the other documents of the corpus are made in the course of the period rather than on these dates: they are not adopted by a vote, and there is no reason for them to wait for 3 April.
 
 ## 08. Where to send them
 
@@ -163,7 +163,7 @@ This section establishes the procedure referred to in the section "Status of Thi
 
 ## 1. Receipt of proposals
 
-Proposals are accepted from 22 October 2026 to 20 January 2027 inclusive.
+Proposals are accepted from 22 November 2026 to 20 February 2027 inclusive.
 
 Any person is entitled to submit a proposal. Entering the people, verifying identity, making payments, and agreeing with the provisions of the Declaration are not required for this.
 
@@ -185,9 +185,9 @@ A proposal **on translation** points out that a translation conveys the meaning 
 
 Which kind a proposal belongs to is determined by its content, not by how it is labelled. If a proposal on translation reveals an ambiguity in the master text itself, it is also considered as a proposal on the merits.
 
-**Which text is the subject of the vote.** The vote of 17 February 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where a translation diverges from the Russian and English texts, those two texts prevail, and where the two diverge from each other, the interpretation giving every person the higher protection prevails; if a comparison of the texts does not resolve the divergence, the meaning of the Russian text prevails.
+**Which text is the subject of the vote.** The vote of 3 April 2027 is held on the Russian and English texts: they are recognized as authentic (Declaration, Article 11). The texts in the other seven languages are official translations. One may read and vote relying on any of them, but where a translation diverges from the Russian and English texts, those two texts prevail, and where the two diverge from each other, the interpretation giving every person the higher protection prevails; if a comparison of the texts does not resolve the divergence, the meaning of the Russian text prevails.
 
-**Readiness of the translations.** The English text of the corpus is brought into line with the Russian master texts before proposals open on 22 October 2026; while a translation into another language lags behind the master text, its page says so, and where they diverge the Russian master text prevails, except that for the Declaration the rule set out above applies. The final editions put to the vote are published in Russian and English on 3 February 2027, and the translations into the other seven languages by the same date. If any translation is not ready by that day, this is stated plainly, with the language and the reason named; we will not pass off an unfinished translation as a finished one.
+**Readiness of the translations.** The English text of the corpus is brought into line with the Russian master texts before proposals open on 22 November 2026; while a translation into another language lags behind the master text, its page says so, and where they diverge the Russian master text prevails, except that for the Declaration the rule set out above applies. The final editions put to the vote are published in Russian and English on 13 March 2027, and the translations into the other seven languages by the same date. If any translation is not ready by that day, this is stated plainly, with the language and the reason named; we will not pass off an unfinished translation as a finished one.
 
 ## 2. Publication and consideration
 
@@ -199,13 +199,13 @@ The decision to include a proposal in the text, for every document of the corpus
 
 The power is limited in three ways: every rejection is published with the reason; every proposal remains in the open record and can be submitted again; and the final text of the Declaration is adopted not by the author but by a vote, and can be rejected.
 
-An included proposal to the Declaration or the Charter enters the edition published on 3 February 2027. An included proposal to the other documents is entered at once, and from that day the published text applies: these documents are not adopted by a vote, and there is no reason to hold back an amendment until 17 February. An amendment to Part 2 of this document made after proposals open does not move the dates of the close of proposals, the publication of the record, the announcement of how the vote is conducted, or the vote itself; it does not change the conditions of adoption or of postponement, does not remove the openness of the vote or the provability of the outcome, and does not narrow who is entitled to vote. Such an amendment is published no later than 3 February 2027.
+An included proposal to the Declaration or the Charter enters the edition published on 13 March 2027. An included proposal to the other documents is entered at once, and from that day the published text applies: these documents are not adopted by a vote, and there is no reason to hold back an amendment until 3 April. An amendment to Part 2 of this document made after proposals open does not move the dates of the close of proposals, the publication of the record, the announcement of how the vote is conducted, or the vote itself; it does not change the conditions of adoption or of postponement, does not remove the openness of the vote or the provability of the outcome, and does not narrow who is entitled to vote. Such an amendment is published no later than 13 March 2027.
 
 The author's power ends together with the founding period. If the text is adopted, from that day any document of the corpus is changed only by the Assembly.
 
 ## 3. The record
 
-The record of all proposals received and the replies to them is published on 3 February 2027 and remains open indefinitely. The record covers the whole corpus: proposals to the Declaration, to the Charter, and to each of the other documents.
+The record of all proposals received and the replies to them is published on 13 March 2027 and remains open indefinitely. The record covers the whole corpus: proposals to the Declaration, to the Charter, and to each of the other documents.
 
 ## 4. What is not considered
 
@@ -223,9 +223,9 @@ Identity verification is carried out free of charge and continues throughout the
 
 ## 6. Adoption of the text
 
-The text is adopted by a vote on 17 February 2027. Those who vote are people who have confirmed their identity, on the principle of "one person, one vote". The vote is open: each vote and the voter's address are visible to all, and anyone can recount the outcome themselves without trusting us. This has been decided deliberately. The Declaration (Article 9) requires a secret personal vote, but it enters into force upon adoption: a founding act is not bound by the procedure that it itself creates. For this vote openness is also fitting - there is one question, no one gains from it, and what matters most about a founding act is that it can be verified. The secrecy of the personal vote takes effect after adoption. How the vote is conducted is announced on 3 February 2027, together with the final editions. If the vote cannot be held on the appointed day for a technical reason, it is held on the first day after that reason has been removed, but no more than fourteen days after the appointed day; the reason and the new day are published before voting begins. Such a postponement is not counted as a postponement under section 7. If the reason is not removed within fourteen days, the day of adoption is postponed under section 7, and that postponement counts as one of the two. If both postponements under section 7 have already been used, the day of adoption is postponed once more, by three months, on the conditions that section 7 sets for a vote after the second postponement; if even then the technical reason is not removed within fourteen days, the text is not adopted, this is published no later than the following day, and with that publication the founding period ends and the author's power ends.
+The text is adopted by a vote on 3 April 2027. Those who vote are people who have confirmed their identity, on the principle of "one person, one vote". The vote is open: each vote and the voter's address are visible to all, and anyone can recount the outcome themselves without trusting us. This has been decided deliberately. The Declaration (Article 9) requires a secret personal vote, but it enters into force upon adoption: a founding act is not bound by the procedure that it itself creates. For this vote openness is also fitting - there is one question, no one gains from it, and what matters most about a founding act is that it can be verified. The secrecy of the personal vote takes effect after adoption. How the vote is conducted is announced on 13 March 2027, together with the final editions. If the vote cannot be held on the appointed day for a technical reason, it is held on the first day after that reason has been removed, but no more than fourteen days after the appointed day; the reason and the new day are published before voting begins. Such a postponement is not counted as a postponement under section 7. If the reason is not removed within fourteen days, the day of adoption is postponed under section 7, and that postponement counts as one of the two. If both postponements under section 7 have already been used, the day of adoption is postponed once more, by three months, on the conditions that section 7 sets for a vote after the second postponement; if even then the technical reason is not removed within fourteen days, the text is not adopted, this is published no later than the following day, and with that publication the founding period ends and the author's power ends.
 
-The vote is held on two texts at once - Russian and English. Both are adopted as authentic (Declaration, Article 11), so the English text must be ready and published no later than the day the record is published, 3 February 2027: one can vote only for what can be read in advance.
+The vote is held on two texts at once - Russian and English. Both are adopted as authentic (Declaration, Article 11), so the English text must be ready and published no later than the day the record is published, 13 March 2027: one can vote only for what can be read in advance.
 
 The text is deemed adopted when three conditions are met at the same time (for the exception applying to a vote after the second postponement, see section 7):
 
@@ -237,9 +237,9 @@ If no proposals are received, or if none of those received is included in the te
 
 ## 7. If the conditions of adoption are not met
 
-If the condition on participation (condition 2 or 3) is not met, the day of adoption is postponed by three months; postponement is permitted no more than twice. If the conditions on participation are met but fewer than two thirds of the votes cast are in favour of adoption, the text is not adopted.
+If the condition on participation (condition 2 or 3) is not met, the day of adoption is postponed by three months; postponement is permitted no more than twice. Three months, because a shortfall in participation is remedied by inviting people, and that is the work of months, not weeks: a shorter postponement would use up an attempt without changing anything. No more than twice, because without a limit "let us wait a little longer" is indistinguishable from "we will never put it to the vote". If the conditions on participation are met but fewer than two thirds of the votes cast are in favour of adoption, the text is not adopted.
 
-If even after the second postponement the condition on participation is not met, the requirement of participation by no fewer than one hundred confirmed participants ceases to apply: the text is deemed adopted if no fewer than thirty per cent of the total number of confirmed participants as at the day of the vote took part in the vote and no fewer than two thirds of the votes cast are in favour of it; otherwise the text is not adopted.
+If even after the second postponement the condition on participation is not met, only the requirement as to the share is relaxed: the text is deemed adopted if no fewer than one hundred confirmed participants and no fewer than twenty per cent of the total number of confirmed participants as at the day of the vote took part in the vote, and no fewer than two thirds of the votes cast are in favour of it; otherwise the text is not adopted. The requirement of participation by no fewer than one hundred confirmed participants is not waived under any circumstances.
 
 The other requirements are not lowered under any circumstances. If the text is not adopted, the outcome is published together with the details of the vote no later than the day after voting closes, and with that publication the founding period ends and the author's power ends; a new founding is possible only through a new founding period, with a new round of proposals.
 

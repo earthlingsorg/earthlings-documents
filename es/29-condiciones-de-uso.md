@@ -76,7 +76,7 @@ No existen otras condiciones de pertenencia. **La cuota única** - el equivalent
 6. abono de la cuota;
 7. obtención del pasaporte.
 
-> **Durante el período constituyente** - desde el 22 de octubre de 2026 hasta la adopción de la Declaración - la firma de la Declaración y la adhesión al pueblo están suspendidas: un pueblo definido por un texto adoptado todavía no existe. La verificación de identidad se realiza en ese período de manera gratuita y, como resultado de ella, se expide un documento temporal de participante en la constitución, y no un pasaporte ([El período constituyente](https://earth-lings.org/documents/es/es20-periodo-constituyente.html), parte 2, apartado 5).
+> **Durante el período constituyente** - desde el 22 de noviembre de 2026 hasta la adopción de la Declaración - la firma de la Declaración y la adhesión al pueblo están suspendidas: un pueblo definido por un texto adoptado todavía no existe. La verificación de identidad se realiza en ese período de manera gratuita y, como resultado de ella, se expide un documento temporal de participante en la constitución, y no un pasaporte ([El período constituyente](https://earth-lings.org/documents/es/es20-periodo-constituyente.html), parte 2, apartado 5).
 
 **Sobre la exactitud de los datos.** El país y la edad deben indicarse con veracidad, y el documento de la comprobación ha de ser auténtico. El nombre y los apellidos reales no se conservan: los datos del documento se comprueban solo en el momento de la comprobación.
 
@@ -310,7 +310,7 @@ Las controversias internas entre participantes se resuelven conforme a la secci�
 
 **Las enmiendas técnicas** que no cambian el sentido y no afectan a sus derechos - corrección de erratas, precisión de redacciones - se introducen publicando la lista de cambios.
 
-**Cualquier modificación que afecte a los derechos y obligaciones de los participantes** se somete a debate y a votación de la Asamblea. Tales modificaciones no se introducen de manera unilateral. Durante el período constituyente - desde el 22 de octubre de 2026 hasta la adopción de la Declaración - las modificaciones de las presentes Condiciones se introducen conforme al procedimiento del documento [El período constituyente](https://earth-lings.org/documents/es/es20-periodo-constituyente.html) (parte 2, apartado 2), y no conforme al de la presente sección.
+**Cualquier modificación que afecte a los derechos y obligaciones de los participantes** se somete a debate y a votación de la Asamblea. Tales modificaciones no se introducen de manera unilateral. Durante el período constituyente - desde el 22 de noviembre de 2026 hasta la adopción de la Declaración - las modificaciones de las presentes Condiciones se introducen conforme al procedimiento del documento [El período constituyente](https://earth-lings.org/documents/es/es20-periodo-constituyente.html) (parte 2, apartado 2), y no conforme al de la presente sección.
 
 **Procedimiento de aviso:** con no menos de 30 días de antelación a la entrada en vigor, por correo electrónico y en la plataforma, publicando la lista de cambios.
 
@@ -320,7 +320,7 @@ Las controversias internas entre participantes se resuelven conforme a la secci�
 
 # SECCIÓN 14. Consentimiento
 
-El acto principal de consentimiento es la **firma de la Declaración Earthlings**: es con ella con la que se crea la pertenencia al pueblo y se aceptan las condiciones de este documento. Durante el período constituyente - desde el 22 de octubre de 2026 hasta la adopción de la Declaración - la firma está suspendida, y las condiciones de este documento se aceptan y lo enumerado a continuación se confirma mediante un consentimiento separado, otorgado al registrarse.
+El acto principal de consentimiento es la **firma de la Declaración Earthlings**: es con ella con la que se crea la pertenencia al pueblo y se aceptan las condiciones de este documento. Durante el período constituyente - desde el 22 de noviembre de 2026 hasta la adopción de la Declaración - la firma está suspendida, y las condiciones de este documento se aceptan y lo enumerado a continuación se confirma mediante un consentimiento separado, otorgado al registrarse.
 
 Al firmar la Declaración y obtener el pasaporte, usted confirma que:
 

@@ -3,13 +3,13 @@
 Public registry of the founding documents of the Earthlings people, and of every
 proposal made to them.
 
-**What this repository is for.** From 22 October 2026 to 20 January 2027 these
+**What this repository is for.** From 22 November 2026 to 20 February 2027 these
 texts are open for proposals from anyone. Every proposal is filed here as an
 issue and answered in public - including the ones we reject, with the reason
 stated. Every change to a text is linked to the proposal that caused it, so
-authorship is a matter of record rather than of courtesy. On 3 February 2027 the
+authorship is a matter of record rather than of courtesy. On 13 March 2027 the
 record of all proposals and answers is published, together with the final
-edition of the Declaration. On 17 February 2027 the Declaration is put to a vote
+edition of the Declaration. On 3 April 2027 the Declaration is put to a vote
 of people who have confirmed their identity, one person one vote.
 
 The rules of that period - deadlines, how proposals are handled, what is open
@@ -82,7 +82,7 @@ Anonymous proposals are considered like any other.
 
 Every proposal is answered within thirty days of receipt. A proposal received in
 the last thirty days of the submission period is answered no later than
-3 February 2027, the day the record is published.
+13 March 2027, the day the record is published.
 
 You may write in English, Russian, German, Spanish, French, Chinese, Arabic,
 Hindi or Georgian. You do not need to translate your own proposal, and no
@@ -112,13 +112,13 @@ be empty if the text itself were locked up.
 Публичный реестр учредительных документов народа Earthlings и всех предложений
 к ним.
 
-**Зачем он нужен.** С 22 октября 2026 года по 20 января 2027 года эти тексты
+**Зачем он нужен.** С 22 ноября 2026 года по 20 февраля 2027 года эти тексты
 открыты для предложений от любого человека. Каждое предложение заводится здесь
 отдельной записью и получает публичный ответ - включая отклонённые, с указанием
 причины. Каждое изменение текста связано с предложением, которое к нему
 привело, поэтому авторство видно из самого реестра, а не держится на нашей
-любезности. 3 февраля 2027 года публикуется свод всех предложений и ответов
-вместе с окончательной редакцией Декларации. 17 февраля 2027 года Декларация
+любезности. 13 марта 2027 года публикуется свод всех предложений и ответов
+вместе с окончательной редакцией Декларации. 3 апреля 2027 года Декларация
 выносится на голосование людей, подтвердивших свою личность, по принципу
 «один человек - один голос».
 
@@ -167,7 +167,7 @@ be empty if the text itself were locked up.
 
 Ответ публикуется не позднее тридцати дней со дня поступления, а по
 предложениям, поступившим в последние тридцать дней приёма, - не позднее
-3 февраля 2027 года, дня публикации свода.
+13 марта 2027 года, дня публикации свода.
 
 ## Лицензия
 

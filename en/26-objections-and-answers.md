@@ -16,7 +16,7 @@ Answers to technical, economic, and organizational questions are collected in th
 
 Where this document diverges from the Declaration, the Declaration prevails.
 
-**The stage at which all this is said.** A people defined by an adopted text does not yet exist. The Declaration exists as an initial edition and will be put to a vote on 17 February 2027; until it is adopted, entry is suspended, and those who have confirmed their identity are participants in the founding, not earthlings. The order is set out in the document "The Founding Period". Wherever properties of the people are described below, what is meant is the scheme as built, not a state that has been reached.
+**The stage at which all this is said.** A people defined by an adopted text does not yet exist. The Declaration exists as an initial edition and will be put to a vote on 3 April 2027; until it is adopted, entry is suspended, and those who have confirmed their identity are participants in the founding, not earthlings. The order is set out in the document "The Founding Period". Wherever properties of the people are described below, what is meant is the scheme as built, not a state that has been reached.
 
 **The starting position on which all the answers converge:**
 
@@ -132,7 +132,7 @@ We make one qualification ourselves. The legal grounds for burning are exhaustiv
 
 **The core has not been adopted, and until adoption it binds no one.**
 
-The text is open to proposals from 22 October 2026 to 20 January 2027 - and not just the Declaration but the whole corpus, including the Legal Basis and this document. Any person may submit a proposal: entering, confirming identity, and agreeing with our conclusions are not required, and anonymous proposals are considered on the same footing as the rest. Each is published together with a reply - both those accepted and those rejected, with the reason for rejection given. On 3 February 2027 the record and the final editions are published. On 17 February 2027 the text is adopted by a vote of confirmed living human beings on the principle of "one person, one vote", subject to a two-thirds threshold and a quorum. The whole order, including the limits of authority for the duration of the period, is set out in the document "The Founding Period".
+The text is open to proposals from 22 November 2026 to 20 February 2027 - and not just the Declaration but the whole corpus, including the Legal Basis and this document. Any person may submit a proposal: entering, confirming identity, and agreeing with our conclusions are not required, and anonymous proposals are considered on the same footing as the rest. Each is published together with a reply - both those accepted and those rejected, with the reason for rejection given. On 13 March 2027 the record and the final editions are published. On 3 April 2027 the text is adopted by a vote of confirmed living human beings on the principle of "one person, one vote", subject to a two-thirds threshold and a quorum. The whole order, including the limits of authority for the duration of the period, is set out in the document "The Founding Period".
 
 That is, the core becomes unamendable not because someone wrote it that way, but because it was adopted by those whom it unites. Who held the pen before adoption has no legal significance: a text that was not adopted has no force, and a text that was adopted is in force regardless of who drafted it.
 

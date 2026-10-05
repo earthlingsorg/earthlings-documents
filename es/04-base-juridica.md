@@ -90,10 +90,10 @@ Aquí la exactitud importa más que una impresión favorable.
 
 El procedimiento de constitución está establecido y publicado de antemano:
 
-- **22 de octubre de 2026**: se abre la recepción de propuestas sobre todo el corpus - la Declaración, la Carta, los otros veintitrés documentos, incluido el presente, y los tres anexos del documento «Voz ciudadana». Puede presentar una propuesta cualquier persona; para ello no se requieren adhesión, verificación de identidad ni conformidad con nuestras conclusiones, y las propuestas anónimas se examinan en igualdad con las demás.
-- **20 de enero de 2027**: se cierra la recepción.
-- **3 de febrero de 2027**: se publica el compendio de todas las propuestas y respuestas, incluidas las rechazadas con indicación del motivo; se publican las versiones definitivas en ruso y en inglés.
-- **17 de febrero de 2027**: la Declaración se adopta por votación de los participantes verificados conforme al principio «una persona, un voto»: no menos de dos tercios de los votos emitidos, con la participación de no menos de cien participantes verificados y no menos del treinta por ciento de su número total.
+- **22 de noviembre de 2026**: se abre la recepción de propuestas sobre todo el corpus - la Declaración, la Carta, los otros veintitrés documentos, incluido el presente, y los tres anexos del documento «Voz ciudadana». Puede presentar una propuesta cualquier persona; para ello no se requieren adhesión, verificación de identidad ni conformidad con nuestras conclusiones, y las propuestas anónimas se examinan en igualdad con las demás.
+- **20 de febrero de 2027**: se cierra la recepción.
+- **13 de marzo de 2027**: se publica el compendio de todas las propuestas y respuestas, incluidas las rechazadas con indicación del motivo; se publican las versiones definitivas en ruso y en inglés.
+- **3 de abril de 2027**: la Declaración se adopta por votación de los participantes verificados conforme al principio «una persona, un voto»: no menos de dos tercios de los votos emitidos, con la participación de no menos de cien participantes verificados y no menos del treinta por ciento de su número total.
 
 Hasta el día de la adopción, quien ha verificado su identidad es **participante en la constitución y no earthling**. La verificación es gratuita, no constituye adhesión y confiere una condición temporal con derecho de voto el día de la adopción.
 

@@ -54,7 +54,7 @@ For centuries people united into peoples by blood, language and land. We propose
 
 This is only the beginning. The documents are written and the platform is built, but there are still few people. Much remains to be done. The registry key and the treasury key are still held by the founder, and a tool for secret voting is still being chosen. All of this is listed in the document "Where We Are Now", together with how and when it will change.
 
-From 22 October 2026 any person may propose changes to any document, and on 17 February 2027 the Declaration will be adopted or rejected by people themselves, those who have confirmed their identity. It is not we, the authors of the documents, who found this people, but those who vote.
+From 22 November 2026 any person may propose changes to any document, and on 3 April 2027 the Declaration will be adopted or rejected by people themselves, those who have confirmed their identity. It is not we, the authors of the documents, who found this people, but those who vote.
 
 If you see what we see, read the Earthlings Declaration and the other documents and decide whether this speaks to you.
 

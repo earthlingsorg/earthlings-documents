@@ -76,7 +76,7 @@ Il n'existe pas d'autres conditions d'appartenance. La **cotisation unique** - l
 6. versement de la cotisation;
 7. réception du passeport.
 
-> **Pendant la période constituante** - du 22 octobre 2026 jusqu'à l'adoption de la Déclaration - la signature de la Déclaration et l'adhésion au peuple sont suspendues: le peuple défini par un texte adopté n'existe pas encore. Pendant cette période, la vérification d'identité est gratuite, et à son issue est délivré un document temporaire de participant à la constitution, et non un passeport ([La période constituante](https://earth-lings.org/documents/fr/fr20-periode-constituante.html), partie 2, point 5).
+> **Pendant la période constituante** - du 22 novembre 2026 jusqu'à l'adoption de la Déclaration - la signature de la Déclaration et l'adhésion au peuple sont suspendues: le peuple défini par un texte adopté n'existe pas encore. Pendant cette période, la vérification d'identité est gratuite, et à son issue est délivré un document temporaire de participant à la constitution, et non un passeport ([La période constituante](https://earth-lings.org/documents/fr/fr20-periode-constituante.html), partie 2, point 5).
 
 **Sur l'exactitude des données.** Le pays et l'âge doivent être indiqués de façon véridique, et le document doit être authentique lors de la vérification. Les nom et prénom réels ne sont pas conservés: les données du document ne sont contrôlées qu'au moment de la vérification.
 
@@ -310,7 +310,7 @@ Les différends internes entre participants se règlent selon la procédure de l
 
 **Les corrections techniques** qui ne changent pas le sens et n'affectent pas vos droits - correction de fautes de frappe, précision de rédaction - sont apportées avec publication de la liste des modifications.
 
-**Toute modification affectant les droits et les obligations des participants** est soumise au débat et au vote de l'Assemblée. De telles modifications ne sont pas apportées unilatéralement. Pendant la période constituante - du 22 octobre 2026 jusqu'à l'adoption de la Déclaration - les présentes Conditions sont modifiées selon la procédure prévue par le document [La période constituante](https://earth-lings.org/documents/fr/fr20-periode-constituante.html) (partie 2, point 2), et non selon celle de la présente section.
+**Toute modification affectant les droits et les obligations des participants** est soumise au débat et au vote de l'Assemblée. De telles modifications ne sont pas apportées unilatéralement. Pendant la période constituante - du 22 novembre 2026 jusqu'à l'adoption de la Déclaration - les présentes Conditions sont modifiées selon la procédure prévue par le document [La période constituante](https://earth-lings.org/documents/fr/fr20-periode-constituante.html) (partie 2, point 2), et non selon celle de la présente section.
 
 **Modalités de notification:** au moins 30 jours avant l'entrée en vigueur, par courriel et sur la plateforme, avec publication de la liste des modifications.
 
@@ -320,7 +320,7 @@ Les différends internes entre participants se règlent selon la procédure de l
 
 # SECTION 14. Le consentement
 
-L'acte principal de consentement est la **signature de la Déclaration des Earthlings**: c'est par elle que naît l'appartenance au peuple et que sont acceptées les conditions du présent document. Pendant la période constituante - du 22 octobre 2026 jusqu'à l'adoption de la Déclaration - la signature est suspendue, et c'est par un consentement distinct donné lors de l'inscription que les conditions du présent document sont acceptées et que les éléments énumérés ci-dessous sont confirmés.
+L'acte principal de consentement est la **signature de la Déclaration des Earthlings**: c'est par elle que naît l'appartenance au peuple et que sont acceptées les conditions du présent document. Pendant la période constituante - du 22 novembre 2026 jusqu'à l'adoption de la Déclaration - la signature est suspendue, et c'est par un consentement distinct donné lors de l'inscription que les conditions du présent document sont acceptées et que les éléments énumérés ci-dessous sont confirmés.
 
 En signant la Déclaration et en recevant le passeport, vous confirmez que:
 

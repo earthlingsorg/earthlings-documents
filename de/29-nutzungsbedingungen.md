@@ -76,7 +76,7 @@ Weitere Voraussetzungen der Zugehörigkeit gibt es nicht. **Der einmalige Beitra
 6. die Entrichtung des Beitrags;
 7. der Erhalt des Passes.
 
-> **In der Gründungsphase** - vom 22. Oktober 2026 bis zur Annahme der Erklärung - sind die Unterzeichnung der Erklärung und der Beitritt zum Volk ausgesetzt: Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht. Die Identitätsprüfung erfolgt in dieser Phase kostenlos, und auf ihrer Grundlage wird nicht der Pass, sondern ein vorläufiges Dokument des Teilnehmers der Konstituierung ausgegeben ([Die Gründungsphase](https://earth-lings.org/documents/de/de20-gruendungsphase.html), Teil 2, Ziffer 5).
+> **In der Gründungsphase** - vom 22. November 2026 bis zur Annahme der Erklärung - sind die Unterzeichnung der Erklärung und der Beitritt zum Volk ausgesetzt: Ein durch einen angenommenen Text bestimmtes Volk gibt es noch nicht. Die Identitätsprüfung erfolgt in dieser Phase kostenlos, und auf ihrer Grundlage wird nicht der Pass, sondern ein vorläufiges Dokument des Teilnehmers der Konstituierung ausgegeben ([Die Gründungsphase](https://earth-lings.org/documents/de/de20-gruendungsphase.html), Teil 2, Ziffer 5).
 
 **Zur Richtigkeit der Angaben.** Land und Alter sind wahrheitsgemäß anzugeben, und das Papier muss bei der Prüfung echt sein. Wirklicher Vor- und Nachname werden nicht gespeichert: Die Angaben des Papiers werden nur im Augenblick der Prüfung überprüft.
 
@@ -310,7 +310,7 @@ Innere Streitigkeiten zwischen Teilnehmern werden im Verfahren des Abschnitts 04
 
 **Technische Änderungen**, die den Sinn nicht ändern und Ihre Rechte nicht berühren - die Berichtigung von Schreibfehlern, die Präzisierung von Formulierungen -, werden unter Veröffentlichung der Aufzählung der Änderungen eingearbeitet.
 
-**Alle Änderungen, die die Rechte und Pflichten der Teilnehmer berühren**, werden der Vollversammlung zur Erörterung und Abstimmung vorgelegt. Einseitig werden solche Änderungen nicht eingearbeitet. In der Gründungsphase - vom 22. Oktober 2026 bis zur Annahme der Erklärung - werden Änderungen dieser Bedingungen im Verfahren des Dokuments [Die Gründungsphase](https://earth-lings.org/documents/de/de20-gruendungsphase.html) (Teil 2, Ziffer 2) eingearbeitet und nicht im Verfahren dieses Abschnitts.
+**Alle Änderungen, die die Rechte und Pflichten der Teilnehmer berühren**, werden der Vollversammlung zur Erörterung und Abstimmung vorgelegt. Einseitig werden solche Änderungen nicht eingearbeitet. In der Gründungsphase - vom 22. November 2026 bis zur Annahme der Erklärung - werden Änderungen dieser Bedingungen im Verfahren des Dokuments [Die Gründungsphase](https://earth-lings.org/documents/de/de20-gruendungsphase.html) (Teil 2, Ziffer 2) eingearbeitet und nicht im Verfahren dieses Abschnitts.
 
 **Der Ablauf der Benachrichtigung:** mindestens 30 Tage vor dem Inkrafttreten, per E-Mail und auf der Plattform, unter Veröffentlichung der Aufzählung der Änderungen.
 
@@ -320,7 +320,7 @@ Innere Streitigkeiten zwischen Teilnehmern werden im Verfahren des Abschnitts 04
 
 # ABSCHNITT 14. Die Zustimmung
 
-Der wesentliche Akt der Zustimmung ist die **Unterzeichnung der Erklärung der Earthlings**: Eben durch sie wird die Zugehörigkeit zum Volk begründet und werden die Bedingungen dieser Nutzungsbedingungen angenommen. In der Gründungsphase - vom 22. Oktober 2026 bis zur Annahme der Erklärung - ist die Unterzeichnung ausgesetzt, und durch eine gesonderte Zustimmung bei der Anmeldung werden diese Bedingungen angenommen und das unten Aufgeführte bestätigt.
+Der wesentliche Akt der Zustimmung ist die **Unterzeichnung der Erklärung der Earthlings**: Eben durch sie wird die Zugehörigkeit zum Volk begründet und werden die Bedingungen dieser Nutzungsbedingungen angenommen. In der Gründungsphase - vom 22. November 2026 bis zur Annahme der Erklärung - ist die Unterzeichnung ausgesetzt, und durch eine gesonderte Zustimmung bei der Anmeldung werden diese Bedingungen angenommen und das unten Aufgeführte bestätigt.
 
 Mit der Unterzeichnung der Erklärung und dem Erhalt des Passes bestätigen Sie, dass Sie:
 
