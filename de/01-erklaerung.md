@@ -76,7 +76,7 @@ Die Volksherrschaft im Volk der Earthlings beruht auf drei Voraussetzungen, und 
 
 **Die Sorge für den Planeten.** Die Bewahrung der Umwelt, der biologischen Vielfalt und der Stabilität der Ökosysteme ist eine Pflicht der heutigen Generation gegenüber den künftigen. Keine menschliche Tätigkeit rechtfertigt die Zerstörung der Bedingungen für das Bestehen des Lebens.
 
-**Die Transparenz.** Transparent sind die Einrichtungen, nicht der Mensch. Kein Prüfverfahren darf die Offenlegung dessen verlangen, wie ein Mensch abgestimmt hat, woran er glaubt und welche Überzeugungen er vertritt.
+**Die Transparenz.** Transparent sind die Einrichtungen, nicht der Mensch. Kein Prüfverfahren darf die Offenlegung dessen verlangen, wie ein Mensch abgestimmt hat, woran er glaubt oder welche Überzeugungen er vertritt.
 
 **Macht von Menschen über Menschen gibt es nicht.** Niemand im Volk der Earthlings nimmt eine Stellung ein, aus der heraus er über einen anderen Menschen bestimmen könnte. Die Befugnisse im Volk der Earthlings sind jederzeit begrenzt, verteilt, widerruflich und überprüfbar. Ein Auftrag zur Wahrnehmung irgendwelcher Aufgaben wird nicht zum Amt. Keine Stellung stellt einen Menschen, eine Einrichtung oder eine Gruppe über den kollektiven Willen des Volkes.
 
@@ -94,7 +94,7 @@ Das hier Aufgeführte steht jedem Earthling vom Augenblick der Unterzeichnung di
 
 Das Verzeichnis dieser Gründe ist abschließend: Es darf weder durch die Charta der Earthlings noch durch einen Beschluss erweiternd ausgelegt werden.
 
-**Die gleiche Stimme.** Die Stimme jedes Earthling ist jeder anderen Stimme gleich. Ihr Gewicht hängt nicht ab von der Dauer der Teilnahme, der Vermögenslage, der Bekanntheit, von Verdiensten, von einem übernommenen Auftrag und von allen sonstigen Umständen. Eine Stimme darf nicht gekauft, verkauft, angehäuft oder unwiderruflich übertragen werden. Das Stimmrecht darf nicht wegen Überzeugungen, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung der Mehrheitsmeinung oder wegen Kritik am Volk der Earthlings eingeschränkt oder ausgesetzt werden.
+**Die gleiche Stimme.** Die Stimme jedes Earthling ist jeder anderen Stimme gleich. Ihr Gewicht hängt nicht ab von der Dauer der Teilnahme, der Vermögenslage, der Bekanntheit, von Verdiensten, von einem übernommenen Auftrag oder von irgendeinem sonstigen Umstand. Eine Stimme darf nicht gekauft, verkauft, angehäuft oder unwiderruflich übertragen werden. Das Stimmrecht darf nicht wegen Überzeugungen, wegen des Inhalts der Stimmabgabe, wegen der Ablehnung der Mehrheitsmeinung oder wegen Kritik am Volk der Earthlings eingeschränkt oder ausgesetzt werden.
 
 **Das Recht auf Teilnahme.** Jeder Earthling ist befugt, zu jeder Frage, die das Leben des Volkes betrifft, an der Beratung und an der Fassung von Beschlüssen teilzunehmen, Vorschläge einzubringen und Fragen aufzuwerfen. Die vorherige Zustimmung irgendeines anderen ist dafür nicht erforderlich.
 
@@ -106,7 +106,7 @@ Das Verzeichnis dieser Gründe ist abschließend: Es darf weder durch die Charta
 
 Das Volk der Earthlings setzt sich mit diesem Artikel seine Grenzen. Sie gelten unter allen Umständen und können durch keinen Beschluss aufgehoben, eingeschränkt, ausgesetzt oder umgangen werden; die Formulierungen, in denen sie dargelegt sind, können nur in dem Verfahren und unter den Voraussetzungen des Artikels 11 geändert werden.
 
-**Der Verzicht auf Gewalt.** Das Volk der Earthlings verzichtet auf die Anwendung von Gewalt als Mittel zur Erreichung seiner Ziele. Es schafft, errichtet, finanziert und unterstützt keine bewaffneten, paramilitärischen, Sicherheits- oder sonstigen Strukturen, die Gewalt anwenden können - weder unmittelbar noch über Dritte.
+**Der Verzicht auf Gewalt.** Das Volk der Earthlings verzichtet auf die Anwendung von Gewalt als Mittel zur Erreichung seiner Ziele. Es schafft, errichtet, finanziert oder unterstützt keine bewaffneten, paramilitärischen, Sicherheits- oder sonstigen Strukturen, die Gewalt anwenden können - weder unmittelbar noch über Dritte.
 
 **Das Wort statt des Zwanges.** Das Volk der Earthlings äußert sich, wendet sich an andere und widerspricht - und zwingt niemals. Zwang ist jede Einwirkung, die einem Menschen die Freiheit der Entscheidung nimmt: die Anwendung von Gewalt, die Androhung ihrer Anwendung, Bestechung, Erpressung, Druck über die Existenzmittel und andere Formen offenen oder verdeckten Zwanges. Eine Eingabe des Volkes an staatliche Stellen, an gesellschaftliche Einrichtungen und an internationale Organisationen sowie der Vorschlag, eine geltende Norm zu ändern, sind kein Zwang.
 
@@ -213,7 +213,7 @@ Die Übertragung geschieht allein durch den Willen dessen, der überträgt, und 
 
 Solche juristischen Personen sind nicht die Träger des Volkes, bestimmen sein Bestehen nicht, haben keine Macht über das Volk und sind keine Quelle seiner Legitimität. Sie können errichtet, ersetzt und beendet werden, ohne Folgen für das Volk. Das Register der Earthlings, die Prüfung ihrer Identität und die damit verbundenen Daten sind kein Vermögen einer juristischen Person und können nicht übertragen, verkauft, verpfändet oder auf andere Weise veräußert werden. Über dieselben Schnittstellen beantwortet das Volk der Earthlings rechtmäßige Auskunftsersuchen staatlicher Stellen.
 
-**Die Änderung der Regeln der Selbstverwaltung.** Das Verfahren der Beratung und der Beschlussfassung, die Anforderungen an die Teilnahme, die Fristen und die übrigen Regeln für die Ordnung der Selbstverwaltung legt die Charta der Earthlings fest. Diese Regeln können nicht mit einfacher Mehrheit geändert werden. Die Schwelle für die Änderung der Charta der Earthlings legt die Charta der Earthlings selbst fest; diese Schwelle kann weder durch einen Beschluss der Charta selbst noch auf irgendeinem anderen Weg abgesenkt werden.
+**Die Änderung der Regeln der Selbstverwaltung.** Das Verfahren der Beratung und der Beschlussfassung, die Anforderungen an die Teilnahme, die Fristen und die übrigen Regeln für die Ordnung der Selbstverwaltung legt die Charta der Earthlings fest. Diese Regeln können nicht mit einfacher Mehrheit geändert werden. Die Schwelle für die Änderung der Charta der Earthlings legt die Charta der Earthlings selbst fest; diese Schwelle kann weder durch einen Beschluss, der gemäß der Charta selbst gefasst wird, noch auf irgendeinem anderen Weg abgesenkt werden.
 
 ## Artikel 10. Die Infrastruktur des Volkes
 

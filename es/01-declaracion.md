@@ -76,7 +76,7 @@ En el pueblo Earthlings, el gobierno del pueblo se asienta en tres condiciones, 
 
 **El cuidado del planeta.** La conservación del medio ambiente, de la diversidad biológica y de la estabilidad de los ecosistemas es un deber de la generación actual ante las futuras. Ninguna actividad humana justifica la destrucción de las condiciones de existencia de la vida.
 
-**La transparencia.** Transparentes son las instituciones, no la persona. Ningún procedimiento de verificación puede exigir que se revele cómo ha votado una persona, en qué cree y qué convicciones sostiene.
+**La transparencia.** Transparentes son las instituciones, no la persona. Ningún procedimiento de verificación puede exigir que se revele cómo ha votado una persona, en qué cree o qué convicciones sostiene.
 
 **No existe el poder de unas personas sobre otras.** Nadie en el pueblo Earthlings ocupa una posición desde la que pueda mandar sobre otra persona. Las facultades en el pueblo Earthlings están siempre limitadas, están repartidas y son revocables y verificables. Un encargo para el desempeño de cualesquiera funciones no se convierte en cargo. Ninguna posición sitúa a una persona, a una institución o a un grupo por encima de la voluntad colectiva del pueblo.
 
@@ -213,7 +213,7 @@ La cesión se realiza solo por voluntad de quien cede, y este la revoca en cualq
 
 Tales personas jurídicas no encarnan al pueblo, no determinan su existencia, no tienen poder sobre él y no son fuente de su legitimidad. Pueden constituirse, sustituirse y extinguirse sin consecuencias para el pueblo. El registro de earthlings, la verificación de su identidad y los datos relacionados con ella no son patrimonio de la persona jurídica, no pueden ser transmitidos, vendidos, pignorados ni enajenados de ningún otro modo. A través de esas mismas interfaces el pueblo Earthlings responde a los requerimientos legítimos de los órganos del Estado.
 
-**Modificación de las reglas del autogobierno.** El procedimiento de debate y de adopción de decisiones, los requisitos de participación, los plazos y las demás reglas de organización del autogobierno los establece la Carta. Estas reglas no pueden modificarse por mayoría simple. El umbral de modificación de la Carta lo establece la propia Carta; ese umbral no puede rebajarse ni por decisión de la propia Carta ni por ninguna otra vía.
+**Modificación de las reglas del autogobierno.** El procedimiento de debate y de adopción de decisiones, los requisitos de participación, los plazos y las demás reglas de organización del autogobierno los establece la Carta. Estas reglas no pueden modificarse por mayoría simple. El umbral de modificación de la Carta lo establece la propia Carta; ese umbral no puede rebajarse ni por una decisión adoptada conforme a la propia Carta ni por ninguna otra vía.
 
 ## Artículo 10. La infraestructura del pueblo
 

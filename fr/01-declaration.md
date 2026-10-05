@@ -76,7 +76,7 @@ Au sein du peuple des Earthlings, le gouvernement du peuple repose sur trois con
 
 **Le souci de la planète.** La préservation de l'environnement, de la diversité biologique et de la stabilité des écosystèmes est une obligation de la génération présente envers les générations à venir. Aucune activité humaine ne justifie la destruction des conditions d'existence de la vie.
 
-**La transparence.** Ce sont les institutions qui sont transparentes, non la personne. Aucune procédure de vérification ne peut exiger la divulgation de la manière dont une personne a voté, de ce qu'elle croit et des convictions qu'elle professe.
+**La transparence.** Ce sont les institutions qui sont transparentes, non la personne. Aucune procédure de vérification ne peut exiger la divulgation de la manière dont une personne a voté, de ce qu'elle croit ou des convictions qu'elle professe.
 
 **Le pouvoir des uns sur les autres n'existe pas.** Nul, dans le peuple des Earthlings, n'est placé de manière à pouvoir disposer d'une autre personne. Les pouvoirs, dans le peuple des Earthlings, sont toujours limités, répartis, révocables et vérifiables. Une mission confiée pour accomplir une tâche quelconque ne devient pas une fonction. Aucune situation ne place une personne, une institution ou un groupe au-dessus de la volonté collective du peuple.
 
@@ -106,11 +106,11 @@ La liste de ces motifs est fermée: elle ne peut être interprétée extensiveme
 
 Le peuple des Earthlings fixe ses propres limites par le présent article. Elles valent en toutes circonstances et ne peuvent être abrogées, restreintes, suspendues ni contournées par aucune décision; leur rédaction ne peut être modifiée que selon la procédure et dans les conditions de l'article 11.
 
-**La renonciation à la violence.** Le peuple des Earthlings renonce à l'emploi de la violence comme moyen d'atteindre ses fins. Il ne crée, ne constitue, ne finance et ne soutient aucune structure armée, paramilitaire, de sécurité ni aucune autre structure capable d'employer la violence - ni directement, ni par l'intermédiaire de tiers.
+**La renonciation à la violence.** Le peuple des Earthlings renonce à l'emploi de la violence comme moyen d'atteindre ses fins. Il ne crée, ne constitue, ne finance et ne soutient aucune structure armée, paramilitaire ou de sécurité, ni aucune autre structure capable d'employer la violence - ni directement, ni par l'intermédiaire de tiers.
 
 **La parole au lieu de la contrainte.** Le peuple des Earthlings s'exprime, interpelle et objecte - et il ne contraint jamais. Constitue une contrainte toute action qui prive une personne de sa liberté de décision: l'emploi de la force, la menace de son emploi, la corruption, le chantage, la pression exercée par le biais des moyens de subsistance et les autres formes de pression ouverte ou dissimulée. Une démarche du peuple auprès des organes de l'État, des institutions de la société civile et des organisations internationales, ou une proposition de modifier une norme en vigueur, ne constituent pas une contrainte.
 
-**La non-ingérence dans les affaires intérieures des États.** Le peuple des Earthlings ne prend pas part à la lutte pour le pouvoir étatique. Il ne soutient pas les partis politiques, les candidats et les campagnes électorales, il ne les finance pas, il n'appelle pas à voter d'une manière déterminée et il n'appelle pas à modifier par la violence l'ordre constitutionnel d'un État quelconque. Le peuple des Earthlings ne prend aucune décision sur la vie intérieure d'un État particulier: c'est l'affaire de ses citoyens. Toutes les démarches du peuple des Earthlings se font ouvertement, publiquement et en son propre nom.
+**La non-ingérence dans les affaires intérieures des États.** Le peuple des Earthlings ne prend pas part à la lutte pour le pouvoir étatique. Il ne soutient ni les partis politiques, ni les candidats, ni les campagnes électorales, il ne les finance pas, il n'appelle pas à voter d'une manière déterminée et il n'appelle pas à modifier par la violence l'ordre constitutionnel d'un État quelconque. Le peuple des Earthlings ne prend aucune décision sur la vie intérieure d'un État particulier: c'est l'affaire de ses citoyens. Toutes les démarches du peuple des Earthlings se font ouvertement, publiquement et en son propre nom.
 
 **Les limites des pouvoirs.** Le peuple des Earthlings n'assume que les pouvoirs nécessaires à son existence. Les décisions du peuple ne concernent que les earthlings.
 
@@ -213,7 +213,7 @@ Le transfert ne se fait que par la volonté de celui qui transfère et est révo
 
 Ces personnes morales n'incarnent pas le peuple, ne déterminent pas son existence, n'exercent aucun pouvoir sur lui et ne sont pas la source de sa légitimité. Elles peuvent être constituées, remplacées et dissoutes sans conséquence pour le peuple. Le registre des earthlings, la vérification de leur identité et les données qui s'y rattachent ne sont pas des biens de la personne morale, ne peuvent être cédés, vendus, donnés en gage ni aliénés d'aucune autre manière. C'est par ces mêmes interfaces que le peuple des Earthlings répond aux demandes légales des organes de l'État.
 
-**La modification des règles de l'autogouvernement.** La procédure du débat, l'adoption des décisions, les conditions de participation, les délais et les autres règles d'organisation de l'autogouvernement sont établis par la Charte des Earthlings. Ces règles ne peuvent être modifiées à la majorité simple. Le seuil de modification de la Charte des Earthlings est établi par la Charte des Earthlings elle-même; ce seuil ne peut être abaissé ni par une décision de la Charte elle-même, ni par aucune autre voie.
+**La modification des règles de l'autogouvernement.** La procédure du débat, l'adoption des décisions, les conditions de participation, les délais et les autres règles d'organisation de l'autogouvernement sont établis par la Charte des Earthlings. Ces règles ne peuvent être modifiées à la majorité simple. Le seuil de modification de la Charte des Earthlings est établi par la Charte des Earthlings elle-même; ce seuil ne peut être abaissé ni par une décision prise dans les conditions de la Charte elle-même, ni par aucune autre voie.
 
 ## Article 10. L'infrastructure du peuple
 
