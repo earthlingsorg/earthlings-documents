@@ -30,7 +30,19 @@ PDF выглядит так же, как страница, с которой н�
 `@bottom-center`. Ставится после печати, по странице за раз.
 
 **Печатный лист** - `_v2/css/print.css`, подключён к странице. Что видит
-человек, нажав Ctrl+P, то и лежит в файле.
+человек, нажав Ctrl+P, то и лежит в файле, плюс одно добавление ниже.
+
+**Что PDF дописывает к странице** (с 2026-10-08). Файл Обращения скачивают и
+пересылают, и дальше он живёт без сайта под рукой. Поэтому под подписью
+встаёт блок адресов (Декларация, документы 20 и 32, подтверждение личности,
+почта), а под ним строка «Редакция от <дата сборки>. Актуальная версия:
+<адрес страницы>». Строка нужна, чтобы любой старый экземпляр сам вёл к
+свежему: 2 октября файлы собрали, 5-го сдвинули даты периода, и три дня по
+рукам ходили прежние даты, о чём файл никак не говорил. Блок вставляется в
+HTML на лету, в саму страницу не пишется: на сайте те же адреса стоят в меню.
+Набирает его браузер, как и остальной текст, - иначе вязь и деванагари снова
+пришлось бы шить руками. Адреса берутся из таблицы слагов и перед печатью
+проверяются ответом 200; не ответил хоть один - сборки нет.
 
 **Откуда берутся шрифты.** `_v2` не содержит ни шрифтов письменностей, ни
 картинок: в vhost для них стоит откат в общее дерево. Локальный сервер здесь
@@ -45,6 +57,9 @@ PDF выглядит так же, как страница, с которой н�
 Из внешнего нужны браузер (Chrome или Edge) и PyMuPDF.
 """
 
+import datetime
+import glob
+import html
 import io
 import os
 import re
@@ -52,9 +67,12 @@ import subprocess
 import sys
 import tempfile
 import threading
+import urllib.request
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 
 import fitz
+
+from build_site_docs import doc_href
 
 TOOLS = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(TOOLS)
@@ -83,6 +101,164 @@ FOOT_SIZE = 8.5
 FOOT_COLOR = (0x5f / 255.0, 0x66 / 255.0, 0x70 / 255.0)
 FOOT_UP = 34            # пунктов от низа листа
 
+ORIGIN = 'https://earth-lings.org'
+ID_URL = 'https://id.earth-lings.org'
+MAIL = 'team@earth-lings.org'
+AUTHOR = 'Earthlings'
+
+# Документы блока адресов. Названия - заголовки мастеров своего языка, не
+# перевод: блок обязан называть документ так же, как его назовёт сайт.
+REF_DOCS = ('01', '20', '32')
+
+# Подписи, которых в виде заголовка в корпусе нет. Слова взяты из него же:
+# «подтверждение личности» - из документа 28 («страница подтверждения
+# личности»), «предложения» - из документа 20 своего языка.
+# Порядок: подтверждение личности, предложения и вопросы, «редакция от»,
+# «актуальная версия».
+LABELS = {
+    'ru': (u'Подтверждение личности', u'Предложения и вопросы',
+           u'Редакция от {date}.', u'Актуальная версия:'),
+    'en': (u'Identity verification', u'Proposals and questions',
+           u'Edition of {date}.', u'Current version:'),
+    'de': (u'Identitätsprüfung', u'Vorschläge und Fragen',
+           u'Fassung vom {date}.', u'Aktuelle Fassung:'),
+    'fr': (u"Vérification d'identité", u'Propositions et questions',
+           u'Version du {date}.', u'Version à jour:'),
+    'es': (u'Verificación de identidad', u'Propuestas y preguntas',
+           u'Versión del {date}.', u'Versión actual:'),
+    'ka': (u'პირადობის დადასტურება', u'წინადადებები და კითხვები',
+           u'რედაქცია: {date}.', u'აქტუალური ვერსია:'),
+    'zh': (u'身份验证', u'建议和问题',
+           u'本版日期：{date}。', u'最新版本：'),
+    'ar': (u'التحقق من الهوية', u'المقترحات والأسئلة',
+           u'هذه النسخة بتاريخ {date}.', u'أحدث نسخة:'),
+    'hi': (u'पहचान सत्यापन', u'प्रस्ताव और प्रश्न',
+           u'यह संस्करण: {date}।', u'नवीनतम संस्करण:'),
+}
+
+# Даты пишутся так, как их пишет документ 20 своего языка: «22 ноября 2026
+# года», «22. November 2026», «2026 წლის 22 ნოემბერი», «二〇二六年十一月二十二日».
+MONTHS = {
+    'ru': u'января февраля марта апреля мая июня июля августа сентября '
+          u'октября ноября декабря',
+    'en': u'January February March April May June July August September '
+          u'October November December',
+    'de': u'Januar Februar März April Mai Juni Juli August September '
+          u'Oktober November Dezember',
+    'fr': u'janvier février mars avril mai juin juillet août septembre '
+          u'octobre novembre décembre',
+    'es': u'enero febrero marzo abril mayo junio julio agosto septiembre '
+          u'octubre noviembre diciembre',
+    'ka': u'იანვარი თებერვალი მარტი აპრილი მაისი ივნისი ივლისი აგვისტო '
+          u'სექტემბერი ოქტომბერი ნოემბერი დეკემბერი',
+    'ar': u'كانون_الثاني/يناير شباط/فبراير آذار/مارس نيسان/أبريل أيار/مايو '
+          u'حزيران/يونيو تموز/يوليو آب/أغسطس أيلول/سبتمبر تشرين_الأول/أكتوبر '
+          u'تشرين_الثاني/نوفمبر كانون_الأول/ديسمبر',
+    'hi': u'जनवरी फ़रवरी मार्च अप्रैल मई जून जुलाई अगस्त सितंबर अक्टूबर '
+          u'नवंबर दिसंबर',
+}
+DATE_FMT = {
+    'ru': u'{d} {m} {y} года', 'en': u'{d} {m} {y}', 'de': u'{d}. {m} {y}',
+    'fr': u'{d} {m} {y}', 'es': u'{d} de {m} de {y}', 'ka': u'{y} წლის {d} {m}',
+    'ar': u'{d} {m} {y}', 'hi': u'{d} {m} {y}',
+}
+ZH_DIGITS = u'〇一二三四五六七八九'
+
+
+def zh_number(n):
+    u"""1-31 китайскими числительными: 十, 十一, 二十二."""
+    tens, ones = divmod(n, 10)
+    return ((ZH_DIGITS[tens] if tens > 1 else '') + (u'十' if tens else '')
+            + (ZH_DIGITS[ones] if ones or not tens else ''))
+
+
+def date_text(lang, day):
+    if lang == 'zh':
+        return u'%s年%s月%s日' % (''.join(ZH_DIGITS[int(c)] for c in str(day.year)),
+                               zh_number(day.month), zh_number(day.day))
+    month = MONTHS[lang].split()[day.month - 1].replace('_', ' ')
+    d = u'1er' if lang == 'fr' and day.day == 1 else str(day.day)
+    return DATE_FMT[lang].format(d=d, m=month, y=day.year)
+
+
+def master_title(lang, num):
+    found = glob.glob(os.path.join(REPO, lang, '%s-*.md' % num))
+    assert len(found) == 1, u'мастер %s/%s: найдено %d файлов' % (lang, num, len(found))
+    for line in io.open(found[0], encoding='utf-8'):
+        if line.startswith('# '):
+            return line[2:].strip()
+    raise AssertionError(u'в мастере %s нет заголовка H1' % found[0])
+
+
+def address_url(lang):
+    return '%s/%s/address.html' % (ORIGIN, lang)
+
+
+def refs(lang):
+    u"""Строки блока адресов: (подпись, адрес ссылки, видимый текст)."""
+    id_label, mail_label = LABELS[lang][:2]
+    rows = [(master_title(lang, n), ORIGIN + doc_href(n, lang)) for n in REF_DOCS]
+    rows.append((id_label, ID_URL))
+    return ([(t, u, u) for t, u in rows]
+            + [(mail_label, 'mailto:' + MAIL, MAIL)])
+
+
+def check_urls(langs):
+    u"""Каждый адрес блока обязан отвечать 200 без переадресации."""
+    urls = sorted({u for l in langs for _, u, _ in refs(l) if u.startswith('http')}
+                  | {address_url(l) for l in langs})
+    bad = []
+    for u in urls:
+        try:
+            r = urllib.request.urlopen(
+                urllib.request.Request(u, headers={'User-Agent': 'earthlings-pdf'}),
+                timeout=30)
+            if r.status != 200 or r.geturl().rstrip('/') != u.rstrip('/'):
+                bad.append('%s -> %s %s' % (u, r.status, r.geturl()))
+        except Exception as e:
+            bad.append('%s -> %s' % (u, e))
+    assert not bad, u'адреса блока не отвечают 200:\n  ' + '\n  '.join(bad)
+    return len(urls)
+
+
+# Печатный лист сайта (doc.css) рисует таблицам рамки и дописывает после
+# каждой внешней ссылки её адрес в скобках. Для текста это верно, а в блоке
+# адресов адрес уже стоит видимым - вышел бы дважды. Поэтому блок гасит оба
+# правила у себя и только у себя.
+REFS_CSS = (
+    '.pdf-refs{margin-top:10mm;font-size:.88em;line-height:1.5;break-inside:avoid}'
+    '.pdf-refs table{border-collapse:collapse;margin:0 auto;width:auto}'
+    '.sheet .pdf-refs td{border:0;padding:.15em 0;vertical-align:top}'
+    '.sheet .pdf-refs td:first-child{padding-inline-end:1.4em;white-space:nowrap}'
+    '.sheet .pdf-refs a::after{content:none}'
+    '.pdf-refs p{margin:8mm 0 0;text-align:center;font-size:.92em}')
+
+
+def refs_html(lang, day):
+    u"""Блок адресов и строка редакции - HTML под подписью Обращения.
+
+    Стили свои: блок существует только в печати, в CSS сайта ему делать
+    нечего. Адрес обёрнут в dir="ltr", чтобы в арабском он не перевернулся.
+    """
+    esc = html.escape
+    rows = ''.join(
+        '<tr><td>%s</td><td><a href="%s" dir="ltr">%s</a></td></tr>'
+        % (esc(t), esc(u), esc(v)) for t, u, v in refs(lang))
+    edition, current = LABELS[lang][2:]
+    url = address_url(lang)
+    return (
+        '<style>%s</style><div class="pdf-refs"><table>%s</table>'
+        '<p>%s %s <a href="%s" dir="ltr">%s</a></p></div>'
+        % (REFS_CSS, rows, esc(edition.format(date=date_text(lang, day))),
+           esc(current), esc(url), esc(url)))
+
+
+def page_with_refs(src, lang, day):
+    s = io.open(src, encoding='utf-8').read()
+    m = re.search(r'<p class="sign">.*?</p>', s)
+    assert m, u'%s: в странице не найдена подпись - блоку адресов негде встать' % lang
+    return s[:m.end()] + refs_html(lang, day) + s[m.end():]
+
 CHROMES = [
     os.environ.get('EARTHLINGS_CHROME'),
     r'C:\Program Files\Google\Chrome\Application\chrome.exe',
@@ -107,6 +283,18 @@ class Handler(SimpleHTTPRequestHandler):
     u"""Отдаёт `_v2`, при промахе - боевое дерево. Тот же откат, что в vhost."""
 
     misses = []
+    pages = {}      # адрес -> HTML, отдаваемый вместо файла (блок адресов)
+
+    def do_GET(self):
+        body = Handler.pages.get(self.path.split('?', 1)[0])
+        if body is None:
+            return SimpleHTTPRequestHandler.do_GET(self)
+        data = body.encode('utf-8')
+        self.send_response(200)
+        self.send_header('Content-Type', 'text/html; charset=utf-8')
+        self.send_header('Content-Length', str(len(data)))
+        self.end_headers()
+        self.wfile.write(data)
 
     def translate_path(self, path):
         rel = path.split('?', 1)[0].split('#', 1)[0].lstrip('/')
@@ -143,12 +331,16 @@ def page_text(src):
     return re.sub(r'\s+', '', body)
 
 
-def stamp(path):
+def stamp(path, title, day):
     u"""Ставит колонтитул и приводит метаданные к постоянным.
 
     Chrome штампует в файл время печати, и один и тот же текст даёт разные
     байты при каждом прогоне. В репозитории это означало бы правку бинарника
-    на каждом запуске - в том числе из хуков.
+    на каждом запуске - в том числе из хуков. Поэтому дата создания - день
+    редакции без часов: два прогона в один день дают один файл.
+
+    `/Title` заполнен с 2026-10-08: без него почта и мессенджеры показывали
+    файл безымянным.
     """
     assert os.path.isfile(FOOT_FONT), FOOT_FONT
     doc = fitz.open(path)
@@ -161,9 +353,10 @@ def stamp(path):
             fitz.Point((page.rect.width - w) / 2, page.rect.height - FOOT_UP),
             text, fontfile=FOOT_FONT, fontname='ptserif',
             fontsize=FOOT_SIZE, color=FOOT_COLOR)
+    when = 'D:%s000000Z' % day.strftime('%Y%m%d')
     doc.set_metadata({'producer': 'earth-lings.org', 'creator': '',
-                      'title': '', 'author': '', 'subject': '',
-                      'keywords': '', 'creationDate': '', 'modDate': ''})
+                      'title': title, 'author': AUTHOR, 'subject': '',
+                      'keywords': '', 'creationDate': when, 'modDate': when})
     doc.xref_set_key(-1, 'ID', '[<00><00>]')
     # Полная пересборка файла поверх самого себя запрещена библиотекой, а
     # инкрементальная оставила бы в файле обе версии - и старую, и штампованную.
@@ -201,7 +394,31 @@ def fixed_id(path):
 
 # ------------------------------------------------------------------ сборка
 
-def build(lang, port, browser):
+# Шрифтовая лесенка сайта. Всё, что вне её, - системный шрифт, подставленный
+# браузером молча: woff2 доехал, а знака в нём нет. Блок адресов принёс в
+# печать слова, которых в тексте Обращения не было, и проверка 404 такую
+# подмену уже не ловит.
+OWN_FONTS = re.compile(r'^(Cormorant|Montserrat|Noto|PT#20Serif)')
+
+
+def font_names(doc):
+    out = set()
+    for x in range(1, doc.xref_length()):
+        o = doc.xref_object(x)
+        if '/FontDescriptor' in o and '/FontName' in o:
+            m = re.search(r'/FontName\s*/(\S+)', o)
+            out.add(re.sub(r'^[A-Z]{6}\+', '', m.group(1)))
+    return out
+
+
+def doc_title(src):
+    m = re.search(r'<h1 class="doc-title">(.*?)</h1>',
+                  io.open(src, encoding='utf-8').read())
+    assert m, u'%s: не найден заголовок Обращения' % src
+    return html.unescape(m.group(1)).strip()
+
+
+def build(lang, port, browser, day):
     src = os.path.join(V2, lang, 'address.html')
     assert os.path.isfile(src), u'нет страницы Обращения: %s' % src
     name = BY_LANG.get(lang)
@@ -214,6 +431,8 @@ def build(lang, port, browser):
         os.makedirs(os.path.dirname(out))
 
     Handler.misses[:] = []
+    Handler.pages.clear()
+    Handler.pages['/%s/address.html' % lang] = page_with_refs(src, lang, day)
     profile = tempfile.mkdtemp(prefix='earthlings-print-')
     subprocess.run(
         [browser, '--headless=new', '--disable-gpu', '--no-pdf-header-footer',
@@ -228,12 +447,32 @@ def build(lang, port, browser):
     assert os.path.isfile(out) and os.path.getsize(out) > 20000, (
         u'PDF не собрался или пуст: %s' % out)
 
-    stamp(out)
+    title = u'%s - Earthlings' % doc_title(src)
+    stamp(out, title, day)
 
     doc = fitz.open(out)
     pages = doc.page_count
     text = ''.join(p.get_text() for p in doc)
+    # Лист A4 задаёт только print.css. Пришёл Letter - браузер напечатал
+    # страницу раньше, чем доехал печатный лист, и в файл попали экранные
+    # стили с кнопкой «скачать PDF». Так было 2026-10-08 с en, один прогон
+    # из девяти; поймала это проверка шрифтов ниже, а не 404.
+    sizes = {(round(p.rect.width), round(p.rect.height)) for p in doc}
+    assert sizes == {(595, 842)}, (
+        u'%s: лист %s вместо A4 - print.css не применился' % (lang, sizes))
+    # Адрес без пути Chrome пишет со слешем: id.earth-lings.org/.
+    links = {(l.get('uri') or '').rstrip('/') for p in doc for l in p.get_links()}
+    fonts = font_names(doc)
+    meta = doc.metadata
     doc.close()
+    assert meta['title'] == title and meta['author'] == AUTHOR, (
+        u'%s: метаданные не встали: %r' % (lang, meta))
+    want_links = {u.rstrip('/') for _, u, _ in refs(lang)} | {address_url(lang)}
+    assert want_links <= links, (
+        u'%s: в PDF нет ссылок: %s' % (lang, ', '.join(sorted(want_links - links))))
+    alien = sorted(f for f in fonts if not OWN_FONTS.match(f))
+    assert fonts and not alien, (
+        u'%s: в PDF попал шрифт не с лесенки сайта: %s' % (lang, ', '.join(alien)))
     assert pages >= 2, u'%s: страниц всего %d - похоже, текст не дошёл' % (lang, pages)
     assert FOOT_TEXT in text, u'%s: колонтитул не встал' % lang
 
@@ -261,13 +500,15 @@ def main():
         u'нет общего каталога шрифтов - откат для woff2 работать не будет')
 
     browser = chrome_path()
-    srv, port = serve()
+    day = datetime.date.today()
     print('')
-    print(u'PDF ОБРАЩЕНИЯ: печать страниц браузером')
+    print(u'адреса блока: %d, все отвечают 200' % check_urls(langs))
+    srv, port = serve()
+    print(u'PDF ОБРАЩЕНИЯ: печать страниц браузером, редакция %s' % day.isoformat())
     print('=' * 62)
     try:
         for lang in langs:
-            name, pages, kb = build(lang, port, browser)
+            name, pages, kb = build(lang, port, browser, day)
             print(u'  %-3s %-32s %2d стр.  %3d КБ' % (lang, name, pages, kb))
     finally:
         srv.shutdown()
