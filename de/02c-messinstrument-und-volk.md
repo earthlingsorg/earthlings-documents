@@ -96,7 +96,7 @@ Dieser Abschnitt steht nicht des Gleichgewichts wegen hier. Jeder der aufgezähl
 
 **Was geschieht.** Das Volk - oder ein spürbarer Teil von ihm oder seine Leitung - stellt sich öffentlich auf eine der Seiten einer fremden innenpolitischen Spaltung. Von diesem Tag an ist das Messinstrument für die halbe Gesellschaft die Waffe des Gegners, und seine Anzeigen werden zusammen mit ihm zurückgewiesen.
 
-**Warum das tödlich ist.** Ein Werkzeug dieser Art lässt sich nicht wiederherstellen: Der Fall Doing Business zeigt, dass Vertrauen ganz und auf einmal verloren geht.
+**Warum das nicht umkehrbar ist.** Ein Werkzeug dieser Art lässt sich nicht wiederherstellen: Der Fall Doing Business zeigt, dass Vertrauen ganz und auf einmal verloren geht.
 
 **Was getan wird.** Das Verbot von Positionen zur Innenpolitik der Staaten steht in der Erklärung und nicht in einer Geschäftsordnung. Das Volk hat nirgends und niemals eine Meinung über Parteien, Kandidaten und Wahlen.
 
@@ -185,12 +185,6 @@ Sagen wir auch das Umgekehrte, denn es ist von derselben Ordnung: **Wenn die Fra
 **Was getan wird.** Die Chronik der Nichtantworten ist die einzige Antwort auf Gleichgültigkeit, die wir haben: Sie verwandelt das Schweigen in eine aufgezeichnete Tatsache. Sie wirkt langsam und wirkt vielleicht gar nicht.
 
 **Was wir nicht gewährleisten.** Nichts. Zum Benutzen zwingen kann man nicht.
-
-## Was das kostet und wie zu prüfen ist, ob wir unrecht haben
-
-Der Preis des gewählten Weges ist nicht klein. Langsameres Wachstum: Einem Volk beizutreten ist schwerer, als sich anzumelden. Das Angebot ist schwerer zu erklären. Eine offene Rechtsfrage, die der Gegner nutzt. Die Vorsicht der Staaten, die eine Stiftung nicht auf sich zöge. Und freiwillige Beschränkungen - keine Positionen zur Innenpolitik, kein Zwang -, die eine Stiftung nicht auf sich genommen hätte. Der Tausch ist bewusst, und er kann sich als ungünstig erweisen.
-
-Deshalb nennen wir auch die Bedingung des eigenen Irrtums. Wenn in zehn Jahren eine überprüfbare Umfrage irgendeiner Stiftung oder eines Unternehmens regelmäßig von Vertragsorganen und von Staaten zitiert wird und dabei niemand fragt, wer sie denn beauftragt habe, dann war das Volk überflüssig, und wir haben den teuren Weg dort gewählt, wo der billige getaugt hätte.
 
 Wie die Messung selbst gebaut ist, welche Anforderungen an sie gestellt werden und was von dem Beschriebenen schon gebaut ist, steht im Dokument [Die Bürgerstimme](https://earth-lings.org/documents/de/de02-buergerstimme.html).
 

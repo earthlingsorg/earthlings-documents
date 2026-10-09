@@ -15,8 +15,6 @@ Todo lo que pasa por esos canales choca con una misma pregunta, y esa pregunta e
 - «Han llegado dos millones de comentarios»: ¿de personas?
 - «Salieron cien mil personas»: ¿quién las contó y en nombre de quién salieron, aparte del suyo propio?
 
-Fíjese en cómo está hecha esa objeción. **No discute el fondo.** No dice «usted no tiene razón». Dice «no se sabe si usted existe». Y con eso basta para no responder sin perder la cara: el destinatario no ha rechazado la opinión de las personas, ha dudado de la prueba, y la duda parece prudencia y no desdén.
-
 Por eso la voz ciudadana es ignorable. No porque el poder sea malvado, sino porque **el recuento está roto**, y está roto de verdad.
 
 ## Un caso que conviene conocer entero

@@ -15,8 +15,6 @@ Alles, was durch diese Kanäle läuft, zerschellt an ein und derselben Frage, un
 - „Es sind zwei Millionen Kommentare eingegangen“ - von Menschen?
 - „Hunderttausend Menschen sind auf die Straße gegangen“ - wer hat sie gezählt, und in wessen Namen sind sie gegangen außer im eigenen?
 
-Achten Sie auf den Bau dieses Einwands. Er **streitet nicht in der Sache**. Er sagt nicht „Sie haben unrecht“. Er sagt „Es ist unbekannt, ob es Sie gibt“. Und das genügt, um nicht zu antworten, ohne das Gesicht zu verlieren: Der Adressat hat die Meinung der Menschen nicht zurückgewiesen, er hat den Nachweis bezweifelt, und ein Zweifel wirkt wie Vorsicht und nicht wie Geringschätzung.
-
 Deshalb lässt sich die Bürgerstimme übergehen. Nicht weil die Macht böse wäre, sondern weil **die Zählung kaputt ist** - und sie ist es wirklich.
 
 ## Ein Fall, den man vollständig kennen sollte

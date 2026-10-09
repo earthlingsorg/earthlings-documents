@@ -96,7 +96,7 @@ Cette section n'est pas là pour faire contrepoids. Chacune des issues énumér�
 
 **Ce qui se passe.** Le peuple - ou une part notable de lui, ou sa direction - se range publiquement du côté de l'un des camps d'une fracture politique intérieure. À partir de ce jour, l'instrument est, pour la moitié de la société, l'arme de l'adversaire, et ses relevés sont rejetés avec lui.
 
-**Pourquoi c'est mortel.** Un outil de ce type ne se rétablit pas: l'exemple de Doing Business montre que la confiance se perd en entier et d'un seul coup.
+**Pourquoi c'est irréversible.** Un outil de ce type ne se rétablit pas: l'exemple de Doing Business montre que la confiance se perd en entier et d'un seul coup.
 
 **Ce qui est fait.** L'interdiction de prendre position sur la politique intérieure des États figure dans la Déclaration, non dans un règlement. Le peuple n'a d'opinion sur les partis, les candidats et les élections nulle part et jamais.
 
@@ -185,12 +185,6 @@ Disons aussi l'inverse, car il est du même ordre: **si les questions cessent de
 **Ce qui est fait.** La chronique des non-réponses est la seule réponse à l'indifférence dont nous disposions: elle change le silence en fait consigné. Elle agit lentement et, peut-être, n'agira pas.
 
 **Ce que nous ne garantissons pas.** Rien. On ne peut obliger personne à s'en servir.
-
-## Ce que cela coûte et comment vérifier que nous avons tort
-
-Le prix de la voie choisie n'est pas modique. Une croissance plus lente: adhérer à un peuple est plus difficile que s'inscrire. Une proposition plus difficile à expliquer. Une question juridique ouverte, dont l'adversaire se sert. La méfiance des États, qu'un fonds n'aurait pas rencontrée. Et des limites volontaires - aucune position de politique intérieure, aucune contrainte - qu'un fonds ne se serait pas imposées. L'échange est assumé, et il peut se révéler désavantageux.
-
-Nommons donc aussi ce qui montrerait que nous nous sommes trompés. Si, dans dix ans, un sondage vérifiable émanant d'un fonds ou d'une entreprise est régulièrement cité par les organes conventionnels et par les États, et que personne ne demande alors « qui vous a habilités », c'est que le peuple était superflu et que nous avons choisi la voie coûteuse là où la voie bon marché convenait.
 
 La manière dont la mesure elle-même est agencée, les exigences qui pèsent sur elle et ce qui, parmi ce qui est décrit, est déjà bâti figurent dans le document [La voix citoyenne](https://earth-lings.org/documents/fr/fr02-voix-citoyenne.html).
 

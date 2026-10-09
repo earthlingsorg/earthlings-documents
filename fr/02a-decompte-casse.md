@@ -15,8 +15,6 @@ Tout ce qui passe par ces canaux se brise sur une seule et même question, et ce
 - « Deux millions de commentaires sont arrivés » - viennent-ils de personnes?
 - « Cent mille personnes sont descendues dans la rue » - qui les a comptées, et au nom de qui sont-elles sorties, en dehors du leur?
 
-Observez la mécanique de cette objection. Elle **ne discute pas du fond**. Elle ne dit pas « vous avez tort ». Elle dit « on ignore si vous existez ». Et cela suffit pour ne pas répondre sans perdre la face: le destinataire n'a pas rejeté l'opinion des gens, il a douté de la preuve, et le doute a l'air d'une prudence, non d'un mépris.
-
 Voilà pourquoi on peut ignorer la voix citoyenne. Non parce que le pouvoir serait malveillant, mais parce que **le décompte est cassé**, et cassé pour de bon.
 
 ## Un cas qu'il vaut la peine de connaître en entier

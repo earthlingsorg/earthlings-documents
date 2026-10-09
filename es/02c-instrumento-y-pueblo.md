@@ -96,7 +96,7 @@ Esta sección no está para equilibrar. Cada uno de los desenlaces enumerados es
 
 **Qué ocurre.** El pueblo - o una parte notable de él, o su dirección - se pone públicamente de uno de los lados de la fractura política interna de alguien. Desde ese día el instrumento es, para media sociedad, el arma del adversario, y sus lecturas se rechazan junto con él.
 
-**Por qué es mortal.** Una herramienta de ese tipo no se puede restablecer: el caso de Doing Business muestra que la confianza se pierde entera y de una vez.
+**Por qué es irreversible.** Una herramienta de ese tipo no se puede restablecer: el caso de Doing Business muestra que la confianza se pierde entera y de una vez.
 
 **Qué se hace.** La prohibición de tomar posición sobre la política interna de los Estados está en la Declaración y no en un reglamento. El pueblo no tiene opinión sobre partidos, candidatos ni elecciones en ninguna parte y nunca.
 
@@ -185,12 +185,6 @@ Digamos también lo contrario, porque es del mismo orden: **si las preguntas dej
 **Qué se hace.** La crónica de las no respuestas es la única respuesta a la indiferencia que tenemos: convierte el silencio en un hecho anotado. Funciona despacio y es posible que no llegue a funcionar.
 
 **Qué no garantizamos.** Nada. Obligar a usarla no se puede.
-
-## Cuánto cuesta esto y cómo comprobar que nos equivocamos
-
-El camino elegido no sale barato. Un crecimiento más lento: adherirse a un pueblo es más difícil que registrarse. Una propuesta más difícil de explicar. Una cuestión jurídica abierta de la que se sirve el adversario. El recelo de los Estados, que una fundación no habría tenido. Y unas limitaciones voluntarias - ninguna posición sobre política interna, ninguna coacción - que una fundación no habría asumido. El intercambio es consciente, y puede resultar desventajoso.
-
-Por eso nombremos también la condición de nuestro propio error. Si dentro de diez años una encuesta verificable de alguna fundación o empresa la citan con regularidad los órganos de tratados y los Estados, y nadie pregunta entretanto «quién les ha facultado a ustedes», entonces el pueblo sobraba y nosotros elegimos el camino caro donde servía el barato.
 
 Cómo está construida la medición misma, qué exigencias pesan sobre ella y qué parte de lo descrito está ya construido está en el documento [Voz ciudadana](https://earth-lings.org/documents/es/es02-voz-ciudadana.html).
 

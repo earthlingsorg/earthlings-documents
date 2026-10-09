@@ -96,7 +96,7 @@ This section is not here for the sake of balance. Every one of the outcomes list
 
 **What happens.** The people - or a noticeable part of it, or its leadership - publicly takes one of the sides in some country's domestic political divide. From that day the instrument is, for half of society, the enemy's weapon, and its readings are rejected along with it.
 
-**Why this is fatal.** A tool of this type cannot be restored: the case of Doing Business shows that trust is lost entirely and at one stroke.
+**Why this is irreversible.** A tool of this type cannot be restored: the case of Doing Business shows that trust is lost entirely and at one stroke.
 
 **What is being done.** The ban on taking positions on the domestic politics of states is written into the Declaration, not into a set of rules. The people has no opinion about parties, candidates or elections, anywhere, ever.
 
@@ -185,12 +185,6 @@ The other side of this has to be said too, because it matters just as much: **if
 **What is being done.** The chronicle of non-answers is the only answer to indifference that we have: it turns silence into a recorded fact. It works slowly and may fail.
 
 **What we do not guarantee.** Nothing. Use cannot be compelled.
-
-## What this costs and how to check that we are wrong
-
-The price of the road chosen is not a small one. Slower growth: joining a people is harder than registering. A proposal that is harder to explain. An open legal question that the opponent makes use of. The wariness of states, which a foundation would not have faced. And voluntary limits - no positions on domestic politics, no compulsion - which a foundation would not have taken on. The trade is deliberate, and it may turn out to be a bad one.
-
-So let us also name the condition under which we would be wrong. If in ten years a verifiable poll by some foundation or company is regularly cited by treaty bodies and states, and no one asks "who authorized you" - then the people was superfluous, and we chose an expensive road where a cheap one would have served.
 
 How the measurement itself works, what requirements stand over it and which parts of what is described have already been built are in the document [Civic Voice](https://earth-lings.org/documents/en/en02-civic-voice.html).
 

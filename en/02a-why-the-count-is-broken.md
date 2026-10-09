@@ -15,8 +15,6 @@ Everything that travels through those channels breaks against one and the same q
 - "Two million comments came in" - from people?
 - "A hundred thousand people turned out" - who counted them, and on whose behalf did they turn out besides their own?
 
-Note how this objection is built. It **does not argue on the merits**. It does not say "you are wrong". It says "it is not known whether you exist". And that is enough to make no reply without losing face: the addressee has not rejected the opinion of people, they have doubted the proof, and doubt looks like caution rather than contempt.
-
 That is why a civic voice can be ignored. Not because those in power are evil, but because **the count is broken**, and truly broken.
 
 ## A case worth knowing in full
