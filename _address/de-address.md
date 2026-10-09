@@ -1,6 +1,6 @@
 # Eine Ansprache an alle
 
-Wir, das Earthlings-Team, wenden uns an alle, die sehen, was mit der Welt geschieht, und sich damit nicht abfinden wollen.
+Wir, das Earthlings-Team, wenden uns an alle, die sehen, was mit der Welt geschieht, und bereit sind, das zu ändern.
 
 ## Was wir sehen
 

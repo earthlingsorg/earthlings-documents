@@ -1,6 +1,6 @@
 # An Address to Everyone
 
-We, the Earthlings team, are addressing those who see what is happening to the world and do not want to accept it.
+We, the Earthlings team, are addressing those who see what is happening to the world and are ready to change that.
 
 ## What we see
 

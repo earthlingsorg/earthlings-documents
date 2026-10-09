@@ -1,6 +1,6 @@
 # Un message à tous
 
-Nous, l'équipe Earthlings, nous adressons à ceux qui voient ce qui arrive au monde et ne veulent pas s'y résigner.
+Nous, l'équipe Earthlings, nous adressons à ceux qui voient ce qui arrive au monde et sont prêts à changer cela.
 
 ## Ce que nous voyons
 
