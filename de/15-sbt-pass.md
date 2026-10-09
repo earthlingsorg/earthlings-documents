@@ -133,7 +133,7 @@ Der Pass bezeugt das, was er bezeugt, und das ist nicht wenig: Ein bestimmter Me
 
 ## Das Ende der Geltung des Passes
 
-**In der Regel entwerten nur Sie selbst den Pass**, mit dem eigenen Schlüssel, aus der eigenen Geldbörse (Funktion `burnByHolder`). Die Plattform bewahrt Ihre Schlüssel nicht auf und kann die Entwertung nicht verhindern; den Pass an Ihrer Stelle zu entwerten ist niemand befugt.
+**In der Regel entwerten nur Sie selbst den Pass**, mit dem eigenen Schlüssel, aus der eigenen Geldbörse. Die Plattform bewahrt Ihre Schlüssel nicht auf und kann die Entwertung nicht verhindern; den Pass an Ihrer Stelle zu entwerten ist niemand befugt.
 
 Die Charta (Artikel 21) legt **zwei und nur zwei** Ausnahmen fest, und diese Aufzählung darf nicht erweitert werden.
 

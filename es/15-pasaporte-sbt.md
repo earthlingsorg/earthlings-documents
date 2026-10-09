@@ -133,7 +133,7 @@ El pasaporte documenta lo que documenta, y no es poco: una persona concreta ha s
 
 ## Extinción del pasaporte
 
-**Por regla general el pasaporte solo lo destruye usted mismo**, con su propia clave y desde su propio monedero (función `burnByHolder`). La plataforma no guarda sus claves y no puede impedir la destrucción; nadie tiene derecho a destruir el pasaporte en su lugar.
+**Por regla general el pasaporte solo lo destruye usted mismo**, con su propia clave y desde su propio monedero. La plataforma no guarda sus claves y no puede impedir la destrucción; nadie tiene derecho a destruir el pasaporte en su lugar.
 
 La Carta (artículo 21) establece **dos y solo dos** excepciones, y esa lista no puede ampliarse.
 

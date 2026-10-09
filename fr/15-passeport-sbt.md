@@ -133,7 +133,7 @@ Le passeport atteste ce qu'il atteste, et ce n'est pas peu: une personne déterm
 
 ## La fin du passeport
 
-**En règle générale, vous seul détruisez votre passeport**, avec votre propre clé, depuis votre propre portefeuille (fonction `burnByHolder`). La plateforme ne conserve pas vos clés et ne peut pas faire obstacle à la destruction; nul n'a le droit de détruire le passeport à votre place.
+**En règle générale, vous seul détruisez votre passeport**, avec votre propre clé, depuis votre propre portefeuille. La plateforme ne conserve pas vos clés et ne peut pas faire obstacle à la destruction; nul n'a le droit de détruire le passeport à votre place.
 
 La Charte (article 21) établit **deux exceptions et deux seulement**, et cette liste ne peut pas être élargie.
 

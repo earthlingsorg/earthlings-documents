@@ -133,7 +133,7 @@ The passport documents what it documents, and that is no small thing: a particul
 
 ## Termination of the passport
 
-**As a general rule you alone burn your passport**, with your own key, from your own wallet (the `burnByHolder` function). The platform does not store your keys and cannot prevent the burning; no one is entitled to burn the passport for you.
+**As a general rule you alone burn your passport**, with your own key, from your own wallet. The platform does not store your keys and cannot prevent the burning; no one is entitled to burn the passport for you.
 
 The Charter (Article 21) establishes **two and only two** exceptions, and this list cannot be extended.
 
