@@ -378,7 +378,12 @@ ESSAYS_TITLE = u'Articles and essays'
 ESSAYS_LEAD = (u'Long-form writing published elsewhere: essays on Paragraph, '
                u'articles on Medium. The texts stay where they were '
                u'published; this page keeps the list in one place, with the '
-               u'opening line of each.')
+               u'opening line of each. They were written together with '
+               u'Claude, an AI model: the ideas, the arguments and the final '
+               u'word are the author\'s; drafting and editing were shared. The '
+               u'earlier pieces describe the project as it stood when they '
+               u'were written; where they differ from the founding documents, '
+               u'the documents prevail.')
 
 
 # ------------------------------------------------------------------ мастера
