@@ -1680,6 +1680,13 @@ def build_address(lang):
     doc = md2doc.parse(md)
     assert doc['title'], u'в Обращении не найден заголовок H1'
     body = md2doc.render_body(doc)
+    # Первая фраза - обращение к читателю, набирается кеглем заголовков
+    # (.addr-open в doc.css). Она же первый абзац лида.
+    opening = '<section class="lead col"><p>'
+    assert body.count(opening) == 1, (
+        u'Обращение (%s): первый абзац лида не найден - кегль первой фразы '
+        u'не встанет' % lang)
+    body = body.replace(opening, '<section class="lead col"><p class="addr-open">')
 
     o = ['<main class="%s" id="main"><div class="sheet">' % ROOT,
          '<header class="doc-head"><h1 class="doc-title">%s</h1>'

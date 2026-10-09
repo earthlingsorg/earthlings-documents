@@ -2,8 +2,6 @@
 
 Wir, das Earthlings-Team, wenden uns an alle, die sehen, was mit der Welt geschieht, und sich damit nicht abfinden wollen.
 
-In den Dokumenten schreiben wir vorsichtig und abgewogen. Diese Ansprache ist anders. In ihr sagen wir schärfer, was wir sehen, was wir denken und warum wir diese Sache in Angriff genommen haben.
-
 ## Was wir sehen
 
 Während Politiker monate- und jahrelang ihre Positionen aushandeln, sterben Tausende Menschen unter Bomben, und Millionen leben in Not, Hunger und Krankheit. Kriege, die noch vor Kurzem unmöglich schienen, ziehen sich über Jahre hin, und keine einzige internationale Organisation kann sie beenden. Waffenstillstände werden unterzeichnet und nicht eingehalten. Ein Konflikt in einem Teil der Welt treibt die Preise für Treibstoff und Brot am anderen Ende des Planeten in die Höhe. Das Wettrüsten ist zurückgekehrt, und wieder sind Atommächte daran beteiligt. Und die Unternehmen, die künstliche Intelligenz entwickeln, räumen selbst ein, dass sie die Kontrolle über das verlieren könnten, was sie erschaffen, und bitten um Regeln, die es bis heute nicht gibt.
@@ -44,7 +42,7 @@ Wenn geprüfte Menschen aus vielen Ländern das eine sagen und die Regierungen d
 
 Diese Institution hat bereits eine Grundlage. Wir haben eine digitale Plattform gebaut, auf deren Grundlage das Volk als eine Gesellschaft leben und handeln kann. Auf ihr durchläuft ein Mensch die Identitätsprüfung und erhält einen unübertragbaren digitalen Pass, der ihm eine Stimme gibt. In ihr sind die Organe der Selbstverwaltung des Volkes angelegt: die Zellen, in denen sich Menschen für gemeinsame Vorhaben zusammenschließen, ihre Projekte führen und abstimmen, und die Vollversammlung aller Teilnehmer, die nach der Annahme der Erklärung ihre Arbeit aufnimmt. Auf der digitalen Plattform wird eine gemeinsame Wirtschaft der Teilnahme geführt, und das Volk hat seine eigene Schatzkammer, deren Bewegung der Mittel für jeden sichtbar ist.
 
-In der Welt gibt es viele vernünftige Menschen, kluge Ideen und gute Vorschläge, die verloren gehen, weil sie keinen Ort haben, an den sie gelangen könnten. Das Volk der Earthlings kann der Ort werden, an dem man sie sammelt, berät, prüft und in eine gemeinsame Stimme verwandelt, und an dem man das, was von uns selbst abhängt, gemeinsam zu tun beginnt. Wir schlagen Menschen aus verschiedenen Ländern vor, sich zusammenzuschließen und ein Werkzeug für den Aufbau einer modernen, konstruktiven Gesellschaft zu erhalten. Ein Werkzeug, das sie bis heute nicht hatten.
+In der Welt gibt es viele vernünftige Menschen, kluge Ideen und gute Vorschläge, die verloren gehen, weil sie keinen Ort haben, an den sie gelangen könnten. Das Volk der Earthlings kann der Ort werden, an dem man sie sammelt, berät, prüft und in eine gemeinsame Stimme verwandelt. Wir schlagen Menschen aus verschiedenen Ländern vor, sich zusammenzuschließen und ein Werkzeug für den Aufbau einer modernen, konstruktiven Gesellschaft zu erhalten. Ein Werkzeug, das sie bis heute nicht hatten.
 
 ## Woran wir glauben
 
@@ -52,10 +50,10 @@ Jahrhundertelang haben sich Menschen nach Abstammung, Sprache und Land zu Völke
 
 ## Wo wir jetzt stehen
 
-Das ist erst der Anfang. Die Dokumente sind geschrieben und die Plattform ist gebaut, aber noch sind wenige Menschen dabei. Vieles muss noch getan werden. Der Schlüssel des Registers und der Schlüssel der Kasse liegen noch beim Gründer, und ein Mittel der geheimen Abstimmung wird noch ausgewählt. All das ist im Dokument „Wo wir jetzt stehen“ aufgeführt, zusammen damit, wie und wann sich das ändern wird.
+Das ist erst der Anfang. Die Dokumente sind geschrieben und die Plattform ist gebaut, aber noch sind wenige Menschen dabei. Vieles muss noch getan werden. All das, auch wo man uns heute noch vertrauen muss, ist im Dokument „Wo wir jetzt stehen“ aufgeführt, zusammen damit, wie und wann sich das ändern wird.
 
-Ab dem 22. November 2026 kann jeder Mensch Änderungen zu jedem Dokument vorschlagen, und am 3. April 2027 werden die Menschen, die ihre Identität nachgewiesen haben, die Erklärung selbst annehmen oder ablehnen. Konstituiert wird dieses Volk nicht von uns, den Verfassern der Dokumente, sondern von denen, die abstimmen werden.
+Vom 22. November 2026 bis zum 20. Februar 2027 kann jeder Mensch Änderungen zu jedem Dokument vorschlagen: mit einer Nachricht an team@earth-lings.org oder im offenen Register auf GitHub. Ab demselben Tag kann man auf id.earth-lings.org seine Identität prüfen lassen. In der Gründungsphase ist das kostenlos, im offenen Register bleibt von der Prüfung nur ein Vermerk ohne Namen und ohne Dokumente, und austreten kann man jederzeit, ohne Angabe von Gründen. Am 3. April 2027 entscheiden die Menschen, die ihre Identität haben prüfen lassen, ob die Erklärung angenommen wird; für die Annahme braucht es mindestens hundert Teilnehmer. Konstituiert wird dieses Volk nicht von uns, den Verfassern der Dokumente, sondern von denen, die abstimmen werden.
 
-Wenn Sie dasselbe sehen wie wir, lesen Sie die Erklärung der Earthlings und die anderen Dokumente und entscheiden Sie, ob Ihnen das nahesteht.
+Wenn Sie dasselbe sehen wie wir, lesen Sie die Erklärung der Earthlings und entscheiden Sie, ob Ihnen das nahesteht. Und wenn Ihnen diese Ansprache wichtig erschienen ist, leiten Sie sie an jemanden weiter, dem sie ebenfalls nahestehen könnte.
 
 *Das Earthlings-Team*

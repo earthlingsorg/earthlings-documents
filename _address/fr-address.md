@@ -2,8 +2,6 @@
 
 Nous, l'équipe Earthlings, nous adressons à ceux qui voient ce qui arrive au monde et ne veulent pas s'y résigner.
 
-Dans nos documents, nous écrivons avec prudence et mesure. Ce message est différent. Nous y parlons plus crûment de ce que nous voyons, de ce que nous pensons et des raisons pour lesquelles nous nous sommes lancés dans cette entreprise.
-
 ## Ce que nous voyons
 
 Pendant que les responsables politiques passent des mois et des années à accorder leurs positions, des milliers de personnes meurent sous les bombes, et des millions vivent dans le besoin, la faim et la maladie. Des guerres qui semblaient encore récemment impossibles durent des années, et aucune organisation internationale n'est en mesure de les arrêter. Des trêves sont signées et ne sont pas respectées. Un conflit dans une partie du monde fait monter les prix du carburant et du pain à l'autre bout de la planète. La course aux armements est de retour, et les puissances nucléaires y prennent part de nouveau. Et les entreprises qui créent l'intelligence artificielle reconnaissent elles-mêmes qu'elles pourraient perdre le contrôle de ce qu'elles créent, et demandent que soient instaurées des règles qui n'existent toujours pas.
@@ -44,7 +42,7 @@ Quand des personnes vérifiées de nombreux pays diront une chose et que les gou
 
 Cette institution a déjà une base. Nous avons construit une plateforme numérique sur laquelle le peuple peut vivre et agir comme une seule société. Une personne y passe la vérification d'identité et reçoit un passeport numérique intransmissible qui lui donne une voix. Les organes d'autogouvernement du peuple y sont intégrés: les cellules, où les gens se rassemblent pour des affaires communes, mènent leurs projets et votent, et l'Assemblée de tous les participants, qui commencera ses travaux après l'adoption de la Déclaration. C'est sur la plateforme numérique qu'est tenue l'économie de participation commune, et le peuple a sa propre trésorerie, dont chacun peut voir les mouvements de fonds.
 
-Le monde compte beaucoup de personnes raisonnables, d'idées sensées et de bonnes propositions qui se perdent parce qu'elles n'ont nulle part où aller. Le peuple des Earthlings peut devenir le lieu où on les rassemblera, les discutera, les vérifiera et les transformera en une voix commune, et où ce qui dépend de nous-mêmes, on commencera à le faire ensemble. Nous proposons aux gens de différents pays de s'unir et de se doter d'un instrument pour créer une société moderne et constructive. Un instrument qu'ils n'ont encore jamais eu.
+Le monde compte beaucoup de personnes raisonnables, d'idées sensées et de bonnes propositions qui se perdent parce qu'elles n'ont nulle part où aller. Le peuple des Earthlings peut devenir le lieu où on les rassemblera, les discutera, les vérifiera et les transformera en une voix commune. Nous proposons aux gens de différents pays de s'unir et de se doter d'un instrument pour créer une société moderne et constructive. Un instrument qu'ils n'ont encore jamais eu.
 
 ## Ce en quoi nous croyons
 
@@ -52,10 +50,10 @@ Pendant des siècles, les gens se sont unis en peuples par le sang, la langue et
 
 ## Où nous en sommes
 
-Ce n'est qu'un début. Les documents sont écrits et la plateforme est construite, mais les gens sont encore peu nombreux. Il reste beaucoup à faire. La clé du registre et la clé du trésor sont encore chez le fondateur, et l'outil de vote secret est encore en cours de sélection. Tout cela est énuméré dans le document « Où nous en sommes », qui dit aussi comment et quand cela changera.
+Ce n'est qu'un début. Les documents sont écrits et la plateforme est construite, mais les gens sont encore peu nombreux. Il reste beaucoup à faire. Tout cela, y compris les endroits où il faut encore aujourd'hui nous faire confiance, est énuméré dans le document « Où nous en sommes », qui dit aussi comment et quand cela changera.
 
-À partir du 22 novembre 2026, toute personne peut proposer des modifications à n'importe quel document, et le 3 avril 2027, ce sont les personnes ayant fait vérifier leur identité qui adopteront ou rejetteront elles-mêmes la Déclaration. Ce n'est pas nous, les auteurs des documents, qui constituons ce peuple, mais ceux qui voteront.
+Du 22 novembre 2026 au 20 février 2027, toute personne peut proposer des modifications à n'importe quel document: par courriel à team@earth-lings.org ou dans le registre ouvert sur GitHub. À partir du même jour, chacun peut faire vérifier son identité sur id.earth-lings.org. Pendant la période constituante, c'est gratuit; au registre public, il ne reste de la vérification qu'une mention, sans nom ni documents; et l'on peut partir à tout moment, sans avoir à s'expliquer. Le 3 avril 2027, les personnes ayant fait vérifier leur identité décideront d'adopter ou non la Déclaration; l'adoption exige au moins cent participants. Ce n'est pas nous, les auteurs des documents, qui constituons ce peuple, mais ceux qui voteront.
 
-Si vous voyez ce que nous voyons, lisez la Déclaration des Earthlings et les autres documents, et décidez si cela vous parle.
+Si vous voyez ce que nous voyons, lisez la Déclaration des Earthlings et décidez si cela vous parle. Et si ce message vous a semblé important, transmettez-le à quelqu'un à qui il pourrait parler aussi.
 
 *L'équipe Earthlings*

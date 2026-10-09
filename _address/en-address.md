@@ -2,8 +2,6 @@
 
 We, the Earthlings team, are addressing those who see what is happening to the world and do not want to accept it.
 
-In our documents we write carefully and with measured words. This address is different. In it we speak more sharply about what we see, what we think, and why we took up this work.
-
 ## What we see
 
 While politicians spend months and years reconciling positions, thousands of people die under bombs, and millions live in want, hunger and disease. Wars that until recently seemed impossible go on for years, and no international organization can stop them. Ceasefires are signed and not observed. A conflict in one part of the world raises the price of fuel and bread on the other side of the planet. The arms race has returned, and nuclear powers are once again taking part in it. And the companies that create artificial intelligence themselves admit that they may lose control over what they are creating, and ask for rules that still do not exist.
@@ -44,7 +42,7 @@ When confirmed people from many countries say one thing and governments decide a
 
 This institution already has a foundation. We have built a digital platform on which the people can live and act as one society. On it a person goes through identity verification and receives a non-transferable digital passport, which gives them one vote. Built into it are the people's bodies of self-governance: Cells, in which people come together for common work, run their own projects and vote, and the Assembly of all participants, which will begin its work after the Declaration is adopted. The shared economy of participation is kept on the digital platform, and the people has its own treasury, whose movements of funds are visible to everyone.
 
-There are many reasonable people, sound ideas and good proposals in the world that get lost because they have nowhere to go. The Earthlings people can become the place where they are gathered, discussed, tested and turned into a common voice, and where what depends on us ourselves begins to be done together. We propose that people from different countries unite and gain an instrument for creating a modern, constructive society. An instrument they have not had until now.
+There are many reasonable people, sound ideas and good proposals in the world that get lost because they have nowhere to go. The Earthlings people can become the place where they are gathered, discussed, tested and turned into a common voice. We propose that people from different countries unite and gain an instrument for creating a modern, constructive society. An instrument they have not had until now.
 
 ## What we believe in
 
@@ -52,10 +50,10 @@ For centuries people united into peoples by blood, language and land. We propose
 
 ## Where we are now
 
-This is only the beginning. The documents are written and the platform is built, but there are still few people. Much remains to be done. The registry key and the treasury key are still held by the founder, and a tool for secret voting is still being chosen. All of this is listed in the document "Where We Are Now", together with how and when it will change.
+This is only the beginning. The documents are written and the platform is built, but there are still few people. Much remains to be done. All of this, including where we still have to be trusted today, is listed in the document "Where We Are Now", together with how and when it will change.
 
-From 22 November 2026 any person may propose changes to any document, and on 3 April 2027 the Declaration will be adopted or rejected by people themselves, those who have confirmed their identity. It is not we, the authors of the documents, who found this people, but those who vote.
+From 22 November 2026 to 20 February 2027 any person may propose changes to any document, by email to team@earth-lings.org or in the open registry on GitHub. From the same day, you can confirm your identity at id.earth-lings.org. During the founding period this is free; the open registry keeps only a mark that the check took place, with no name and no documents; and you can leave at any time, without giving reasons. On 3 April 2027 the people who have confirmed their identity will decide whether to adopt the Declaration; adoption requires no fewer than one hundred participants. It is not we, the authors of the documents, who found this people, but those who vote.
 
-If you see what we see, read the Earthlings Declaration and the other documents and decide whether this speaks to you.
+If you see what we see, read the Earthlings Declaration and decide whether this speaks to you. And if this address has felt important to you, pass it on to someone it may speak to as well.
 
 *The Earthlings team*

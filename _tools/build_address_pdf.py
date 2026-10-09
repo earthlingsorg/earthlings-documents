@@ -35,8 +35,12 @@ PDF выглядит так же, как страница, с которой н�
 **Что PDF дописывает к странице** (с 2026-10-08). Файл Обращения скачивают и
 пересылают, и дальше он живёт без сайта под рукой. Поэтому под подписью
 встаёт блок адресов (Декларация, документы 20 и 32, подтверждение личности,
-почта), а под ним строка «Редакция от <дата сборки>. Актуальная версия:
-<адрес страницы>». Строка нужна, чтобы любой старый экземпляр сам вёл к
+почта), а под ним строка «Редакция текста от <дата>. Актуальная версия:
+<адрес страницы>». Дата - день последнего коммита, менявшего мастер Обращения
+этого языка, а не день сборки (решение оркестратора 2026-10-08): строка
+отвечает на вопрос «то, что я читаю, ещё текущее?», и пересборка ради
+шрифта не должна её сдвигать. Мастер с незакоммиченной правкой - сборки нет:
+у такой правки ещё нет даты. Строка нужна, чтобы любой старый экземпляр сам вёл к
 свежему: 2 октября файлы собрали, 5-го сдвинули даты периода, и три дня по
 рукам ходили прежние даты, о чём файл никак не говорил. Блок вставляется в
 HTML на лету, в саму страницу не пишется: на сайте те же адреса стоят в меню.
@@ -117,23 +121,23 @@ REF_DOCS = ('01', '20', '32')
 # «актуальная версия».
 LABELS = {
     'ru': (u'Подтверждение личности', u'Предложения и вопросы',
-           u'Редакция от {date}.', u'Актуальная версия:'),
+           u'Редакция текста от {date}.', u'Актуальная версия:'),
     'en': (u'Identity verification', u'Proposals and questions',
-           u'Edition of {date}.', u'Current version:'),
+           u'Text last revised {date}.', u'Current version:'),
     'de': (u'Identitätsprüfung', u'Vorschläge und Fragen',
-           u'Fassung vom {date}.', u'Aktuelle Fassung:'),
+           u'Textfassung vom {date}.', u'Aktuelle Fassung:'),
     'fr': (u"Vérification d'identité", u'Propositions et questions',
-           u'Version du {date}.', u'Version à jour:'),
+           u'Texte dans sa version du {date}.', u'Version à jour:'),
     'es': (u'Verificación de identidad', u'Propuestas y preguntas',
-           u'Versión del {date}.', u'Versión actual:'),
+           u'Texto en su versión del {date}.', u'Versión actual:'),
     'ka': (u'პირადობის დადასტურება', u'წინადადებები და კითხვები',
-           u'რედაქცია: {date}.', u'აქტუალური ვერსია:'),
+           u'ტექსტის რედაქცია: {date}.', u'აქტუალური ვერსია:'),
     'zh': (u'身份验证', u'建议和问题',
-           u'本版日期：{date}。', u'最新版本：'),
+           u'文本修订日期：{date}。', u'最新版本：'),
     'ar': (u'التحقق من الهوية', u'المقترحات والأسئلة',
-           u'هذه النسخة بتاريخ {date}.', u'أحدث نسخة:'),
+           u'آخر تعديل للنص: {date}.', u'أحدث نسخة:'),
     'hi': (u'पहचान सत्यापन', u'प्रस्ताव और प्रश्न',
-           u'यह संस्करण: {date}।', u'नवीनतम संस्करण:'),
+           u'पाठ का संस्करण: {date}।', u'नवीनतम संस्करण:'),
 }
 
 # Даты пишутся так, как их пишет документ 20 своего языка: «22 ноября 2026
@@ -179,6 +183,21 @@ def date_text(lang, day):
     month = MONTHS[lang].split()[day.month - 1].replace('_', ' ')
     d = u'1er' if lang == 'fr' and day.day == 1 else str(day.day)
     return DATE_FMT[lang].format(d=d, m=month, y=day.year)
+
+
+def text_date(lang):
+    u"""День последнего коммита, менявшего мастер Обращения этого языка."""
+    rel = '_address/%s-address.md' % lang
+    git = ['git', '-C', REPO]
+    dirty = subprocess.run(git + ['status', '--porcelain', '--', rel],
+                           capture_output=True, text=True, check=True).stdout
+    assert not dirty.strip(), (
+        u'%s: мастер Обращения правлен и не закоммичен - у правки ещё нет даты '
+        u'для строки редакции. Сначала коммит мастера.' % lang)
+    out = subprocess.run(git + ['log', '-1', '--format=%cs', '--', rel],
+                         capture_output=True, text=True, check=True).stdout.strip()
+    assert out, u'%s: у мастера Обращения нет истории в git' % lang
+    return datetime.date.fromisoformat(out)
 
 
 def master_title(lang, num):
@@ -337,7 +356,8 @@ def stamp(path, title, day):
     Chrome штампует в файл время печати, и один и тот же текст даёт разные
     байты при каждом прогоне. В репозитории это означало бы правку бинарника
     на каждом запуске - в том числе из хуков. Поэтому дата создания - день
-    редакции без часов: два прогона в один день дают один файл.
+    редакции текста без часов: пока мастер не правили, прогон в любой день
+    даёт тот же файл.
 
     `/Title` заполнен с 2026-10-08: без него почта и мессенджеры показывали
     файл безымянным.
@@ -418,7 +438,8 @@ def doc_title(src):
     return html.unescape(m.group(1)).strip()
 
 
-def build(lang, port, browser, day):
+def build(lang, port, browser):
+    day = text_date(lang)
     src = os.path.join(V2, lang, 'address.html')
     assert os.path.isfile(src), u'нет страницы Обращения: %s' % src
     name = BY_LANG.get(lang)
@@ -484,7 +505,7 @@ def build(lang, port, browser, day):
     assert want and got > want * 0.8, (
         u'%s: на странице %d знаков, в PDF %d - текст дошёл не весь'
         % (lang, want, got))
-    return name, pages, os.path.getsize(out) // 1024
+    return name, pages, os.path.getsize(out) // 1024, day
 
 
 def main():
@@ -500,16 +521,16 @@ def main():
         u'нет общего каталога шрифтов - откат для woff2 работать не будет')
 
     browser = chrome_path()
-    day = datetime.date.today()
     print('')
     print(u'адреса блока: %d, все отвечают 200' % check_urls(langs))
     srv, port = serve()
-    print(u'PDF ОБРАЩЕНИЯ: печать страниц браузером, редакция %s' % day.isoformat())
+    print(u'PDF ОБРАЩЕНИЯ: печать страниц браузером')
     print('=' * 62)
     try:
         for lang in langs:
-            name, pages, kb = build(lang, port, browser, day)
-            print(u'  %-3s %-32s %2d стр.  %3d КБ' % (lang, name, pages, kb))
+            name, pages, kb, day = build(lang, port, browser)
+            print(u'  %-3s %-32s %2d стр.  %3d КБ  текст от %s'
+                  % (lang, name, pages, kb, day.isoformat()))
     finally:
         srv.shutdown()
     print('=' * 62)
