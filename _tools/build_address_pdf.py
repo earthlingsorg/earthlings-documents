@@ -272,11 +272,33 @@ def refs_html(lang, day):
            esc(current), esc(url), esc(url)))
 
 
+# Знак и слово над заголовком первой страницы (решение Артура 2026-10-09).
+# Файл ходит из рук в руки, и до этого единственным следом происхождения был
+# адрес в колонтитуле. Шапку сайта для этого не включаем: chrome.css прячет
+# .hdr в печати правильно - вместе со знаком там бургер и всё меню. Блок свой,
+# только для печати, а слово набрано тем же классом .brand-name, что в шапке.
+# Знак - чернильный вариант для светлого фона, как в шапке сайта; 120 точек в
+# коробке 15 мм дают около 200 точек на дюйм. Слово не переводится ни на один
+# язык; в RTL блок идёт по направлению страницы, как шапка.
+MARK_IMG = '/images/logo-sm-ink.webp'
+MARK_CSS = (
+    '.pdf-mark{display:flex;align-items:center;justify-content:center;'
+    'gap:.6rem;margin:0 0 8mm}'
+    '.pdf-mark img{display:block;width:15mm;height:15mm}')
+MARK_HTML = ('<style>%s</style><div class="pdf-mark">'
+             '<span class="brand-name">Earthlings</span>'
+             '<img src="%s" alt="" width="120" height="120"></div>'
+             % (MARK_CSS, MARK_IMG))
+
+
 def page_with_refs(src, lang, day):
     s = io.open(src, encoding='utf-8').read()
     m = re.search(r'<p class="sign">.*?</p>', s)
     assert m, u'%s: в странице не найдена подпись - блоку адресов негде встать' % lang
-    return s[:m.end()] + refs_html(lang, day) + s[m.end():]
+    s = s[:m.end()] + refs_html(lang, day) + s[m.end():]
+    head = '<header class="doc-head">'
+    assert s.count(head) == 1, u'%s: не найден заголовок - знаку негде встать' % lang
+    return s.replace(head, MARK_HTML + head)
 
 CHROMES = [
     os.environ.get('EARTHLINGS_CHROME'),
@@ -478,6 +500,11 @@ def build(lang, port, browser):
     # страницу раньше, чем доехал печатный лист, и в файл попали экранные
     # стили с кнопкой «скачать PDF». Так было 2026-10-08 с en, один прогон
     # из девяти; поймала это проверка шрифтов ниже, а не 404.
+    # Знак обязан лечь картинкой на первую страницу и только на неё.
+    imgs = [len(p.get_images(full=True)) for p in doc]
+    assert imgs[0] >= 1 and not any(imgs[1:]), (
+        u'%s: картинок по страницам %s - знак не встал или встал не там'
+        % (lang, imgs))
     sizes = {(round(p.rect.width), round(p.rect.height)) for p in doc}
     assert sizes == {(595, 842)}, (
         u'%s: лист %s вместо A4 - print.css не применился' % (lang, sizes))
