@@ -6,11 +6,14 @@ proposal made to them.
 **What this repository is for.** From 22 November 2026 to 20 February 2027 these
 texts are open for proposals from anyone. Every proposal is filed here as an
 issue and answered in public - including the ones we reject, with the reason
-stated. Every change to a text is linked to the proposal that caused it, so
-authorship is a matter of record rather than of courtesy. On 13 March 2027 the
-record of all proposals and answers is published, together with the final
-edition of the Declaration. On 3 April 2027 the Declaration is put to a vote
-of people who have confirmed their identity, one person one vote.
+stated. Every change to a text from that day on is linked to the proposal that
+caused it, so authorship is a matter of record rather than of courtesy. The
+history of this repository before 22 November 2026 is the author preparing the
+text: it is open and can be read in full, but no proposals stand behind it,
+because none were being accepted yet. On 13 March 2027 the record of all
+proposals and answers is published, together with the final edition of the
+Declaration. On 3 April 2027 the Declaration is put to a vote of people who
+have confirmed their identity, one person one vote.
 
 The rules of that period - deadlines, how proposals are handled, what is open
 and what is not, what the vote requires - are in
@@ -115,12 +118,14 @@ be empty if the text itself were locked up.
 **Зачем он нужен.** С 22 ноября 2026 года по 20 февраля 2027 года эти тексты
 открыты для предложений от любого человека. Каждое предложение заводится здесь
 отдельной записью и получает публичный ответ - включая отклонённые, с указанием
-причины. Каждое изменение текста связано с предложением, которое к нему
-привело, поэтому авторство видно из самого реестра, а не держится на нашей
-любезности. 13 марта 2027 года публикуется свод всех предложений и ответов
-вместе с окончательной редакцией Декларации. 3 апреля 2027 года Декларация
-выносится на голосование людей, подтвердивших свою личность, по принципу
-«один человек - один голос».
+причины. Каждое изменение текста с этого дня связано с предложением, которое
+к нему привело, поэтому авторство видно из самого реестра, а не держится на
+нашей любезности. История репозитория до 22 ноября 2026 года - подготовка
+текста автором: она открыта и читается целиком, но предложений за ней не
+стоит, потому что приём ещё не был открыт. 13 марта 2027 года публикуется
+свод всех предложений и ответов вместе с окончательной редакцией Декларации.
+3 апреля 2027 года Декларация выносится на голосование людей, подтвердивших
+свою личность, по принципу «один человек - один голос».
 
 Правила этого периода - сроки, порядок рассмотрения, что открыто и что нет,
 условия принятия - в документе
