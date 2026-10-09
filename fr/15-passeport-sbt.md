@@ -73,7 +73,7 @@ L'historique de la participation et de l'apport est visible des participants sur
 
 - réseau: Polygon Mainnet, compatibilité EVM;
 - norme: ERC-721, intransmissible (soulbound);
-- adresse du contrat des passeports: `0x20e7962878429B803E35F83ba34eD291afEC2Be4`;
+- adresse du contrat des passeports dans le réseau Polygon: `0x8B951403Aade0Ffd0647db058C00987538C6208f`;
 - les transactions sont publiques et vérifiables dans l'explorateur du réseau sans notre intervention;
 - le code source du contrat est ouvert (licence MIT).
 
@@ -133,7 +133,7 @@ Le passeport atteste ce qu'il atteste, et ce n'est pas peu: une personne déterm
 
 ## La fin du passeport
 
-**En règle générale, vous seul détruisez votre passeport**, avec votre propre clé, depuis votre propre portefeuille (fonction `burnByHolder`). La plateforme ne conserve pas vos clés et ne peut pas faire obstacle à la destruction; nul n'a le droit de détruire le passeport à votre place, mais tant que les droits du propriétaire du contrat ne sont pas transférés à une multisig, l'émission et la destruction d'un passeport restent techniquement accessibles à une seule clé (document « Où nous en sommes »).
+**En règle générale, vous seul détruisez votre passeport**, avec votre propre clé, depuis votre propre portefeuille (fonction `burnByHolder`). La plateforme ne conserve pas vos clés et ne peut pas faire obstacle à la destruction; nul n'a le droit de détruire le passeport à votre place.
 
 La Charte (article 21) établit **deux exceptions et deux seulement**, et cette liste ne peut pas être élargie.
 
@@ -167,7 +167,7 @@ En cas de mesures prises pour manquements graves aux règles communes, le passep
 
 ### Ce qui se passe techniquement
 
-- lors de la sortie, le titulaire détruit le passeport par la fonction `burnByHolder`, tandis que, en cas d'annulation ou de réémission technique, la destruction est effectuée par le propriétaire du contrat au moyen de la fonction `burn`;
+- lors de la sortie, le titulaire détruit lui-même le passeport; l'annulation d'une délivrance est d'abord annoncée au registre et n'est exécutée qu'après le délai d'objection, tandis que, en cas de réémission technique, l'inscription est déplacée vers une nouvelle adresse avec la date d'émission d'origine; la signature du titulaire n'est pas requise pour cela;
 - les données du passeport sont supprimées du registre actif du contrat;
 - il subsiste dans l'historique immuable une marque pseudonyme indiquant que le passeport a existé et a été détruit: c'est un fait du passé, non une appartenance qui dure;
 - le nom, le document, la biométrie et les hachages de vérification ne sont pas inscrits au registre lors de l'émission;

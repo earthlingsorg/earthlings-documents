@@ -160,6 +160,6 @@ Earthlings 的法律结构不作为金融中介运作：它们不提供支付服
 
 以下所列可以不通过我们来验证；哪些是封闭的、今天在哪些地方还得相信我们，见《我们现在在哪里》文件。
 
-- Polygon Mainnet 上的 SBT 智能合约：[0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
+- Polygon 网络上的 SBT 智能合约：[0x8B951403Aade0Ffd0647db058C00987538C6208f](https://polygonscan.com/address/0x8B951403Aade0Ffd0647db058C00987538C6208f)
 - Polygon 上的 Safe 共同资金钱包：[0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
 - 文件集：九种语言的 25 份制度文件（[全部文件](/zh/)）。

@@ -84,7 +84,7 @@ No existen otras condiciones de pertenencia. **La cuota única** - el equivalent
 
 Usted responde de la custodia de la contraseña y de las claves criptográficas, de los actos realizados desde su cuenta y de avisar al soporte si sospecha que ha sido comprometida.
 
-**No podemos recuperar unas claves perdidas.** No están en nuestro poder en forma alguna. Es la otra cara de que no tengamos sus claves; nadie tiene derecho a destruir el pasaporte en su lugar pero, mientras los derechos del propietario del contrato no se hayan traspasado a una firma múltiple, la emisión y la destrucción del pasaporte están técnicamente al alcance de una sola clave (documento «Dónde estamos ahora»).
+**No podemos recuperar unas claves perdidas.** No están en nuestro poder en forma alguna. Es la otra cara de que no tengamos sus claves; nadie tiene derecho a destruir el pasaporte en su lugar.
 
 ## Límites: qué es posible y qué no
 

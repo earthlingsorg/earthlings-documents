@@ -160,6 +160,6 @@ Earthlings की विधिक संरचनाएँ वित्तीय
 
 नीचे गिनाई गई चीज़ें हमारे बिना जाँची जा सकती हैं; क्या बंद है और आज कहाँ हम पर भरोसा करना पड़ता है, यह «हम अभी कहाँ हैं» दस्तावेज़ में बताया गया है।
 
-- Polygon Mainnet में SBT का स्मार्ट कॉन्ट्रैक्ट: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
+- Polygon नेटवर्क में SBT का स्मार्ट कॉन्ट्रैक्ट: [0x8B951403Aade0Ffd0647db058C00987538C6208f](https://polygonscan.com/address/0x8B951403Aade0Ffd0647db058C00987538C6208f)
 - Polygon में कोष का Safe वॉलेट: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
 - दस्तावेज़-संग्रह: नौ भाषाओं में 25 संस्थागत दस्तावेज़ ([सभी दस्तावेज़](/hi/))।

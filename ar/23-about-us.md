@@ -160,6 +160,6 @@ DAO (منظمة مستقلة لامركزية) تشكّل النواة المؤ�
 
 ما يُعدَّد أدناه يمكن التحقق منه دوننا؛ أما ما هو مغلق، وأين يتعين اليوم الوثوق بنا، فمذكور في وثيقة «أين نحن الآن».
 
-- عقد SBT الذكي على Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
+- عقد SBT الذكي في شبكة Polygon: [0x8B951403Aade0Ffd0647db058C00987538C6208f](https://polygonscan.com/address/0x8B951403Aade0Ffd0647db058C00987538C6208f)
 - محفظة Safe للأموال المشتركة على Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
 - مجموعة الوثائق: 25 وثيقة مؤسسية في تسع لغات ([كل الوثائق](/ar/)).

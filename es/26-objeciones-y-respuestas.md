@@ -126,7 +126,7 @@ El único caso en que un pasaporte se destruye contra la voluntad de su titular 
 
 La inalienabilidad de la pertenencia refleja el artículo 15 de la Declaración Universal de Derechos Humanos - «a nadie se privará arbitrariamente de su nacionalidad» - y distingue a un pueblo de cualquier servicio o club, que expulsan a su propia discreción.
 
-Una salvedad la hacemos nosotros mismos. Los fundamentos jurídicos de la destrucción están limitados de manera exhaustiva, pero en la versión desplegada del contrato se conserva la posibilidad técnica de destruir un pasaporte para quien tenga las claves del propietario: la limitación del artículo 21 de la Carta es procedimental y no técnica; hasta la adopción de la Declaración no existen ni el Consejo ni la Asamblea (Carta, artículo 38), y el documento temporal de participante en la constitución se destruye contra la voluntad de su titular en la forma prevista en el documento «El período constituyente» (parte 2, apartado 5). La separación de los derechos de emisión y de destrucción, el retardo de ejecución y el traspaso de la titularidad a una multisig están incorporados a la hoja de ruta.
+Una salvedad la hacemos nosotros mismos. Los fundamentos jurídicos de la destrucción están limitados de manera exhaustiva; hasta la adopción de la Declaración no existen ni el Consejo ni la Asamblea (Carta, artículo 38), y el documento temporal de participante en la constitución se destruye contra la voluntad de su titular en la forma prevista en el documento «El período constituyente» (parte 2, apartado 5).
 
 ### Su «núcleo intangible» lo escribió el fundador antes que el pueblo. Eso no es libre determinación, sino adhesión a un texto ajeno.
 

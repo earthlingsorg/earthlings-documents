@@ -32,7 +32,7 @@ El presente documento describe el período de transición: desde la fundación h
 
 **Rendición de cuentas.** Desde la entrada en vigor de la Carta, los fundadores rinden cuentas ante la comunidad; los informes se publican e incluyen información financiera.
 
-**Descentralización irreversible.** Cada etapa siguiente consolida el nivel alcanzado. Volver a un modelo más centralizado contradice las reglas establecidas y, a medida que las claves se traspasan a la firma múltiple de las estructuras elegidas o al control de la Asamblea, resulta además técnicamente difícil; mientras las claves estén en manos de una sola persona, esa protección se sostiene en las reglas y en la apertura, y no en la arquitectura (documento «Dónde estamos ahora»).
+**Descentralización irreversible.** Cada etapa siguiente consolida el nivel alcanzado. Volver a un modelo más centralizado contradice las reglas establecidas y, a medida que las claves se traspasan a la firma múltiple de las estructuras elegidas o al control de la Asamblea, resulta además técnicamente difícil.
 
 ---
 
@@ -98,7 +98,7 @@ Estas funciones son temporales. La Carta entra en vigor con la adopción de la D
 - privar a los participantes de su condición, de su pertenencia o de su derecho de voto; hasta la adopción de la Declaración, el documento temporal de participante en la constitución se destruye contra la voluntad de su titular en la forma prevista en el documento «El período constituyente» (parte 2, apartado 5);
 - adoptar decisiones contrarias a los valores del pueblo;
 - emplear los recursos de la comunidad con fines personales;
-- bloquear el proceso de descentralización. Son prohibiciones, y no una imposibilidad técnica: mientras los derechos del propietario del contrato y las claves de la caja no se hayan traspasado a una firma múltiple, la emisión y la destrucción de asientos del registro están técnicamente al alcance de una sola clave, y la disposición de la caja, al de una sola firma (documento «Dónde estamos ahora»).
+- bloquear el proceso de descentralización. Son prohibiciones, y no una imposibilidad técnica (documento «Dónde estamos ahora»).
 
 ## Mecanismos de control
 
@@ -170,7 +170,7 @@ El tránsito se produce al cumplirse criterios objetivos, y no por decisión de 
 - se han adoptado no menos de 100 decisiones por votación;
 - no hay incidentes críticos de seguridad sin resolver;
 - la infraestructura técnica no depende de personas concretas;
-- **la posibilidad técnica de destruir pasaportes** está traspasada a la firma múltiple de las estructuras elegidas o al control de la Asamblea, los derechos de emisión y de destrucción están separados y la destrucción se ejecuta transcurrido un plazo de espera. Los fundamentos de la destrucción por persona distinta de su titular están limitados de manera exhaustiva por el artículo 21 de la Carta, y la anulación de una emisión inválida - el único de ellos que se aplica contra la voluntad del titular - es una decisión de la Asamblea y no un acto administrativo; la Carta entra en vigor con la adopción de la Declaración y, hasta el traspaso de los derechos del propietario del contrato, esa limitación se sostiene en el procedimiento y no en el código (documento «Dónde estamos ahora»); en esta etapa se traspasa la ejecución técnica;
+- **la posibilidad técnica de destruir y trasladar pasaportes** está traspasada a la firma múltiple de las estructuras elegidas o al control de la Asamblea, los derechos de emisión y de destrucción están separados y la destrucción se ejecuta transcurrido un plazo de espera. Las dos últimas condiciones se cumplieron el 9 de octubre de 2026: crear asientos y anular una emisión solo es posible ahora con claves distintas, y la anulación es visible para todos y solo se ejecuta transcurrido el plazo para objetar. La primera no se ha cumplido: las dos claves están en manos del fundador, y a quienes las tienen no los ha elegido nadie. Los fundamentos de la destrucción por persona distinta de su titular están limitados de manera exhaustiva por el artículo 21 de la Carta, y la anulación de una emisión inválida - el único de ellos que se aplica contra la voluntad del titular - es una decisión de la Asamblea y no un acto administrativo; la Carta entra en vigor con la adopción de la Declaración; en esta etapa se traspasa la ejecución técnica;
 - **las claves de la Tesorería** están traspasadas a una firma múltiple de firmantes elegidos conforme a las reglas del artículo 3 de la Carta o al control de la Asamblea: nadie puede disponer de los fondos por sí solo;
 - la comunidad ha confirmado su disposición mediante votación.
 
@@ -178,7 +178,7 @@ El tránsito se produce al cumplirse criterios objetivos, y no por decisión de 
 
 # SECCIÓN 07. Cómo está protegido el propio tránsito
 
-El tránsito es un momento vulnerable: el orden antiguo está roto, el nuevo no está aún asentado, y el poder es fácil de retener «temporalmente, en aras del orden». Por eso el tránsito está protegido por la arquitectura y no por promesas, con tres apoyos ninguno de los cuales se reduce a confiar en los fundadores; dónde hay que confiar en nosotros hasta el traspaso de las claves a la firma múltiple está señalado en el documento «Dónde estamos ahora».
+El tránsito es un momento vulnerable: el orden antiguo está roto, el nuevo no está aún asentado, y el poder es fácil de retener «temporalmente, en aras del orden». Por eso el tránsito está protegido por la arquitectura y no por promesas, con tres apoyos ninguno de los cuales se reduce a confiar en los fundadores.
 
 ## El poder de los fundadores solo se estrecha, nunca se amplía
 
@@ -214,7 +214,7 @@ Por eso ni una captura puede hacerse pasar por el pueblo, ni una escisión por l
 
 **Problema.** Los fundadores pueden no querer traspasar las funciones y las claves.
 
-**Protección.** Está examinada en la sección 07: el poder de los fundadores solo se estrecha, el núcleo intangible está fuera de su alcance y, si tras la adopción de la Declaración la realización de esta resulta imposible, los earthlings verificados podrán continuar el pueblo, apoyándose en ese mismo registro, sin el consentimiento de los fundadores (Declaración, artículo 11); una copia autoproclamada no puede, con todo, apropiarse del nombre del pueblo. La ganancia de una captura hoy no es nula: mientras los derechos del propietario del contrato no se hayan traspasado a una firma múltiple, y mientras la caja tenga un umbral de una sola firma, quien capture esas claves podrá emitir y destruir asientos en ese mismo registro y disponer de la caja (documento «Dónde estamos ahora»).
+**Protección.** Está examinada en la sección 07: el poder de los fundadores solo se estrecha, el núcleo intangible está fuera de su alcance y, si tras la adopción de la Declaración la realización de esta resulta imposible, los earthlings verificados podrán continuar el pueblo, apoyándose en ese mismo registro, sin el consentimiento de los fundadores (Declaración, artículo 11); una copia autoproclamada no puede, con todo, apropiarse del nombre del pueblo.
 
 ## Errores técnicos
 

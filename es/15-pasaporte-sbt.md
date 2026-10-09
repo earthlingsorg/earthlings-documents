@@ -73,7 +73,7 @@ El historial de participación y de aportación es visible para los participante
 
 - red: Polygon Mainnet, compatible con EVM;
 - estándar: ERC-721, intransmisible (soulbound);
-- dirección del contrato de los pasaportes: `0x20e7962878429B803E35F83ba34eD291afEC2Be4`;
+- dirección del contrato de los pasaportes en la red Polygon: `0x8B951403Aade0Ffd0647db058C00987538C6208f`;
 - las transacciones son públicas y verificables en el explorador de la red sin intervención nuestra;
 - el código fuente del contrato es abierto (licencia MIT).
 
@@ -133,7 +133,7 @@ El pasaporte documenta lo que documenta, y no es poco: una persona concreta ha s
 
 ## Extinción del pasaporte
 
-**Por regla general el pasaporte solo lo destruye usted mismo**, con su propia clave y desde su propio monedero (función `burnByHolder`). La plataforma no guarda sus claves y no puede impedir la destrucción; nadie tiene derecho a destruir el pasaporte en su lugar pero, mientras los derechos del propietario del contrato no se hayan traspasado a una firma múltiple, la emisión y la destrucción del pasaporte están técnicamente al alcance de una sola clave (documento «Dónde estamos ahora»).
+**Por regla general el pasaporte solo lo destruye usted mismo**, con su propia clave y desde su propio monedero (función `burnByHolder`). La plataforma no guarda sus claves y no puede impedir la destrucción; nadie tiene derecho a destruir el pasaporte en su lugar.
 
 La Carta (artículo 21) establece **dos y solo dos** excepciones, y esa lista no puede ampliarse.
 
@@ -167,7 +167,7 @@ Al aplicarse medidas por infracciones graves de las reglas comunes, el pasaporte
 
 ### Qué ocurre técnicamente
 
-- al salir, el titular destruye el pasaporte con la función `burnByHolder`, y en la anulación y en la reemisión técnica la destrucción la ejecuta el propietario del contrato con la función `burn`;
+- al salir, el titular destruye el pasaporte él mismo; la anulación de una emisión se anuncia primero en el registro y solo se ejecuta transcurrido el plazo para objetar, y en la reemisión técnica el asiento se traslada a una dirección nueva con la misma fecha de emisión; para ello no se requiere la firma del titular;
 - los datos del pasaporte se suprimen del registro vigente del contrato;
 - en el historial inmutable queda una marca seudónima de que el pasaporte existió y fue destruido: es un hecho del pasado, y no una pertenencia continuada;
 - el nombre, el documento, la biometría y los hashes de la verificación no se inscriben en el registro en el momento de la emisión;

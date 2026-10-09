@@ -80,7 +80,7 @@ La arquitectura exige que la identidad, el voto y la huella económica no se fun
 
 ### Destrucción del pasaporte
 
-Por regla general el pasaporte solo lo destruye su titular, con su propia clave y desde su propio monedero. La plataforma no guarda las claves del participante y es técnicamente incapaz de impedir la destrucción; nadie tiene derecho a destruir el pasaporte en lugar del participante pero, mientras los derechos del propietario del contrato no se hayan traspasado a una firma múltiple, la emisión y la destrucción del pasaporte están técnicamente al alcance de una sola clave (documento «Dónde estamos ahora»).
+Por regla general el pasaporte solo lo destruye su titular, con su propia clave y desde su propio monedero. La plataforma no guarda las claves del participante y es técnicamente incapaz de impedir la destrucción; nadie tiene derecho a destruir el pasaporte en lugar del participante.
 
 La Carta (artículo 21) establece dos y solo dos excepciones, que la plataforma está obligada a soportar y no puede ampliar:
 

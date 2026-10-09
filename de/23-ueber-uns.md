@@ -160,6 +160,6 @@ Jeder Vorgang steht zur öffentlichen Prüfung offen.
 
 Das unten Aufgezählte lässt sich ohne uns überprüfen; was verschlossen ist und wo man uns heute vertrauen muss, ist im Dokument „Wo wir jetzt stehen“ benannt.
 
-- Smart Contract des SBT im Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
+- Smart Contract des SBT im Netz Polygon: [0x8B951403Aade0Ffd0647db058C00987538C6208f](https://polygonscan.com/address/0x8B951403Aade0Ffd0647db058C00987538C6208f)
 - Safe-Geldbörse der Kasse in Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
 - Der Dokumentenbestand: 25 einrichtungsmäßige Dokumente in neun Sprachen ([alle Dokumente](/de/)).

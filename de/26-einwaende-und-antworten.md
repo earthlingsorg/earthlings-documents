@@ -126,7 +126,7 @@ Der einzige Fall, in dem ein Pass gegen den Willen seines Inhabers entwertet wir
 
 Die Unveräußerlichkeit der Zugehörigkeit spiegelt Artikel 15 der Allgemeinen Erklärung der Menschenrechte - „Niemandem darf seine Staatsangehörigkeit willkürlich entzogen [...] werden“ - und unterscheidet ein Volk von jedem Dienst und jedem Klub, die nach eigenem Ermessen ausschließen.
 
-Eine Einschränkung machen wir selbst. Die rechtlichen Gründe der Entwertung sind erschöpfend begrenzt, doch in der ausgerollten Fassung des Vertrags bleibt die technische Möglichkeit bestehen, dass der Inhaber der Eigentümerschlüssel einen Pass entwertet: Die Beschränkung des Artikels 21 der Charta ist verfahrensmäßig und nicht technisch; bis zur Annahme der Erklärung gibt es weder den Unabhängigen Rat noch die Vollversammlung (Charta, Artikel 38), und das vorläufige Dokument des Teilnehmers der Konstituierung wird gegen den Willen des Inhabers nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 5) entwertet. Die Trennung der Rechte zur Ausgabe und zur Entwertung, eine Verzögerung bis zur Ausführung und die Übergabe der Eigentümerschaft an eine Multisig sind in den Fahrplan aufgenommen.
+Eine Einschränkung machen wir selbst. Die rechtlichen Gründe der Entwertung sind erschöpfend begrenzt; bis zur Annahme der Erklärung gibt es weder den Unabhängigen Rat noch die Vollversammlung (Charta, Artikel 38), und das vorläufige Dokument des Teilnehmers der Konstituierung wird gegen den Willen des Inhabers nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 5) entwertet.
 
 ### Ihr „unabänderlicher Kern“ wurde vom Gründer vor dem Volk geschrieben. Das ist keine Selbstbestimmung, sondern ein Beitritt zu einem fremden Text.
 

@@ -84,7 +84,7 @@ There are no other conditions of belonging. **The one-time contribution** - the 
 
 You are responsible for keeping your password and cryptographic keys safe, for actions taken through your account, and for notifying support if you suspect a compromise.
 
-**We cannot recover lost keys.** We do not keep them in any form. This is the flip side of the fact that we do not have your keys; no one is entitled to burn the passport for you, but until the contract owner's rights are transferred to a multisignature, issuing and burning a passport are technically available to a single key (the document "Where We Are Now").
+**We cannot recover lost keys.** We do not keep them in any form. This is the flip side of the fact that we do not have your keys; no one is entitled to burn the passport for you.
 
 ## Restrictions: what can and cannot happen
 

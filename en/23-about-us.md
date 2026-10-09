@@ -160,6 +160,6 @@ Every transaction is available for public audit.
 
 What is listed below can be verified without us; what is closed, and where today you have to trust us, is set out in the document "Where We Are Now".
 
-- The SBT smart contract on Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
+- The SBT smart contract on the Polygon network: [0x8B951403Aade0Ffd0647db058C00987538C6208f](https://polygonscan.com/address/0x8B951403Aade0Ffd0647db058C00987538C6208f)
 - The Safe treasury wallet on Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
 - The documentary corpus: 25 institutional documents in nine languages ([all documents](/en/)).

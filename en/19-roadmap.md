@@ -32,7 +32,7 @@ This document describes the transitional period: from founding to full autonomy 
 
 **Accountability.** Once the Charter enters into force, the founders report to the community; their reports are published and include financial information.
 
-**Irreversible decentralization.** Each subsequent stage locks in the level reached. A return to a more centralized model contradicts the rules laid down, and as the keys are transferred to a multisignature of elected structures or to the control of the Assembly, it also becomes technically difficult; while the keys are held by one person, this protection rests on rules and openness, not on architecture (the document "Where We Are Now").
+**Irreversible decentralization.** Each subsequent stage locks in the level reached. A return to a more centralized model contradicts the rules laid down, and as the keys are transferred to a multisignature of elected structures or to the control of the Assembly, it also becomes technically difficult.
 
 ---
 
@@ -98,7 +98,7 @@ These functions are temporary. The Charter enters into force with the adoption o
 - deprive participants of status, belonging, or the right to vote; before the Declaration is adopted, against the holder's will, the temporary document of a participant in the founding is burned under the procedure set out in the document "The Founding Period" (Part 2, section 5);
 - take decisions contrary to the values of the people;
 - use the community's resources for personal ends;
-- block the process of decentralization. These are prohibitions, not a technical impossibility: until the contract owner's rights and the treasury keys are transferred to a multisignature, issuing and burning registry entries are technically available to a single key, and treasury transactions to a single signature (the document "Where We Are Now").
+- block the process of decentralization. These are prohibitions, not a technical impossibility (the document "Where We Are Now").
 
 ## Oversight mechanisms
 
@@ -170,7 +170,7 @@ Moving to the next phase happens when objective criteria are met, not by a decis
 - no fewer than 100 decisions have been taken by vote;
 - there are no unresolved critical security incidents;
 - the technical infrastructure does not depend on particular people;
-- **the technical ability to burn passports** has been transferred to a multisignature of elected structures or to the control of the Assembly, the rights of issuance and burning have been separated, and burning is carried out with a delay. The grounds for burning by someone other than the holder are limited to an exhaustive list in Article 21 of the Charter, and annulment of an invalid issuance - the only one of them applied against the holder's will - is a decision of the Assembly rather than an administrative act; the Charter enters into force with the adoption of the Declaration, and until the contract owner's rights are transferred, this restriction rests on procedure, not on code (the document "Where We Are Now"); what is transferred at this stage is technical execution;
+- **the technical ability to burn and move passports** has been transferred to a multisignature of elected structures or to the control of the Assembly, the rights of issuance and burning have been separated, and burning is carried out with a delay. The last two conditions were met on 9 October 2026: creating entries and annulling an issuance now require different keys, and an annulment is visible to everyone and is carried out only after the period for objections. The first has not been met: both keys are with the founder, and no one elected their holders. The grounds for burning by someone other than the holder are limited to an exhaustive list in Article 21 of the Charter, and annulment of an invalid issuance - the only one of them applied against the holder's will - is a decision of the Assembly rather than an administrative act; the Charter enters into force with the adoption of the Declaration; what is transferred at this stage is technical execution;
 - **the Treasury keys** have been transferred to a multisignature of elected signatories under the rules of Article 3 of the Charter or to the control of the Assembly: no one can dispose of funds single-handedly;
 - the community has confirmed its readiness by a vote.
 
@@ -178,7 +178,7 @@ Moving to the next phase happens when objective criteria are met, not by a decis
 
 # SECTION 07. How the transition itself is protected
 
-A transition is a vulnerable moment: the old order is broken, the new one is not yet locked in, and power is easy to hold on to "temporarily, for the sake of order". The transition is therefore protected by design rather than by promises - by three supports, none of which comes down to trusting the founders; the places where you have to trust us until the keys are transferred to a multisignature are named in the document "Where We Are Now".
+A transition is a vulnerable moment: the old order is broken, the new one is not yet locked in, and power is easy to hold on to "temporarily, for the sake of order". The transition is therefore protected by design rather than by promises - by three supports, none of which comes down to trusting the founders.
 
 ## The founders' power only narrows, never widens
 
@@ -214,7 +214,7 @@ Therefore a capture cannot pass itself off as the people, nor can a split for th
 
 **The problem.** The founders might not wish to hand over functions and keys.
 
-**The protection.** Examined in section 07: the founders' power only narrows, the unamendable core is beyond their reach, and if, after the Declaration is adopted, its implementation becomes impossible, confirmed earthlings will be able to continue the people, relying on the same registry, without the founders' consent (Declaration, Article 11); even so, a self-proclaimed copy cannot appropriate the people's name. The gain from capture is not zero today: until the contract owner's rights are transferred to a multisignature, and while the treasury's signature threshold is one, whoever seizes these keys will be able to issue and burn entries in the same registry and dispose of the treasury (the document "Where We Are Now").
+**The protection.** Examined in section 07: the founders' power only narrows, the unamendable core is beyond their reach, and if, after the Declaration is adopted, its implementation becomes impossible, confirmed earthlings will be able to continue the people, relying on the same registry, without the founders' consent (Declaration, Article 11); even so, a self-proclaimed copy cannot appropriate the people's name.
 
 ## Technical errors
 

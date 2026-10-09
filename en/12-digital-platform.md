@@ -80,7 +80,7 @@ The architecture requires that identity, the vote, and the economic trace not me
 
 ### Burning a passport
 
-As a general rule a passport is burned only by the holder themselves, with their own key, from their own wallet. The platform stores no participant keys and is technically unable to prevent the burning; no one is entitled to burn a passport for a participant, but until the contract owner's rights are transferred to a multisignature, issuing and burning a passport are technically available to a single key (the document "Where We Are Now").
+As a general rule a passport is burned only by the holder themselves, with their own key, from their own wallet. The platform stores no participant keys and is technically unable to prevent the burning; no one is entitled to burn a passport for a participant.
 
 The Charter (Article 21) establishes two and only two exceptions, which the platform must support and must not extend:
 

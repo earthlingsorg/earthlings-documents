@@ -84,7 +84,7 @@ Weitere Voraussetzungen der Zugehörigkeit gibt es nicht. **Der einmalige Beitra
 
 Sie haften für die Sicherheit des Passworts und der kryptografischen Schlüssel, für die von Ihrem Konto aus vorgenommenen Handlungen und für die Benachrichtigung der Unterstützung bei einem Verdacht auf Kompromittierung.
 
-**Wir können verlorene Schlüssel nicht wiederherstellen.** Sie werden bei uns in keiner Form aufbewahrt. Das ist die Kehrseite dessen, dass wir Ihre Schlüssel nicht haben; den Pass an Ihrer Stelle zu entwerten ist niemand befugt, doch solange die Rechte des Eigentümers des Vertrags nicht an eine Multisig übergeben sind, sind die Ausgabe und die Entwertung eines Passes technisch einem einzigen Schlüssel zugänglich (Dokument „Wo wir jetzt stehen“).
+**Wir können verlorene Schlüssel nicht wiederherstellen.** Sie werden bei uns in keiner Form aufbewahrt. Das ist die Kehrseite dessen, dass wir Ihre Schlüssel nicht haben; den Pass an Ihrer Stelle zu entwerten ist niemand befugt.
 
 ## Beschränkungen: was möglich und was unmöglich ist
 

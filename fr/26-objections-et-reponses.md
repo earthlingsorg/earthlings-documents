@@ -126,7 +126,7 @@ Le seul cas où un passeport est détruit contre la volonté de son titulaire es
 
 L'inaliénabilité de l'appartenance fait écho à l'article 15 de la Déclaration universelle des droits de l'homme - « Nul ne peut être arbitrairement privé de sa nationalité » - et distingue un peuple de tout service ou club, qui excluent à leur gré.
 
-Une réserve, que nous faisons nous-mêmes. Les motifs juridiques de destruction sont limités de façon exhaustive, mais dans la version déployée du contrat la possibilité technique de détruire un passeport subsiste entre les mains du détenteur des clés du propriétaire: la limite de l'article 21 de la Charte est procédurale et non technique; avant l'adoption de la Déclaration, il n'y a ni Conseil ni Assemblée (Charte, article 38), et le document temporaire de participant à la constitution est détruit contre la volonté de son titulaire selon la procédure du document « La période constituante » (partie 2, point 5). La séparation des droits d'émission et de destruction, le délai d'exécution et le transfert de la propriété à une multisig sont inscrits à la feuille de route.
+Une réserve, que nous faisons nous-mêmes. Les motifs juridiques de destruction sont limités de façon exhaustive; avant l'adoption de la Déclaration, il n'y a ni Conseil ni Assemblée (Charte, article 38), et le document temporaire de participant à la constitution est détruit contre la volonté de son titulaire selon la procédure du document « La période constituante » (partie 2, point 5).
 
 ### Votre « noyau intangible » a été écrit par un fondateur avant le peuple. Ce n'est pas de l'autodétermination, c'est l'adhésion au texte d'un autre.
 

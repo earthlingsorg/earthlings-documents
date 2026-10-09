@@ -32,7 +32,7 @@ Dieses Dokument beschreibt den Übergang: von der Gründung bis zur vollständig
 
 **Rechenschaft.** Ab dem Inkrafttreten der Charta legen die Gründer der Gemeinschaft Rechenschaft ab; die Berichte werden veröffentlicht und enthalten finanzielle Angaben.
 
-**Unumkehrbare Dezentralisierung.** Jeder folgende Abschnitt schreibt die erreichte Stufe fest. Eine Rückkehr zu einem stärker zentralisierten Modell widerspricht den angelegten Regeln und wird mit der Übergabe der Schlüssel an die Multisig der gewählten Strukturen oder unter die Kontrolle der Vollversammlung auch technisch erschwert; solange die Schlüssel bei einer einzigen Person liegen, beruht dieser Schutz auf Regeln und Offenheit und nicht auf dem Bau (Dokument „Wo wir jetzt stehen“).
+**Unumkehrbare Dezentralisierung.** Jeder folgende Abschnitt schreibt die erreichte Stufe fest. Eine Rückkehr zu einem stärker zentralisierten Modell widerspricht den angelegten Regeln und wird mit der Übergabe der Schlüssel an die Multisig der gewählten Strukturen oder unter die Kontrolle der Vollversammlung auch technisch erschwert.
 
 ---
 
@@ -98,7 +98,7 @@ Diese Aufgaben sind vorläufig. Die Charta tritt mit der Annahme der Erklärung 
 - Teilnehmern den Status, die Zugehörigkeit oder das Stimmrecht nehmen; bis zur Annahme der Erklärung wird das vorläufige Dokument des Teilnehmers der Konstituierung gegen den Willen des Inhabers nach dem Verfahren des Dokuments „Die Gründungsphase“ (Teil 2, Ziffer 5) entwertet;
 - Beschlüsse fassen, die den Werten des Volkes widersprechen;
 - die Mittel der Gemeinschaft für persönliche Zwecke verwenden;
-- den Vorgang der Dezentralisierung blockieren. Das sind Verbote und keine technische Unmöglichkeit: Solange die Rechte des Eigentümers des Vertrags und die Schlüssel der Kasse nicht an eine Multisig übergeben sind, sind die Ausgabe und die Entwertung der Einträge des Registers technisch einem einzigen Schlüssel zugänglich und die Verfügung über die Kasse einer einzigen Unterschrift (Dokument „Wo wir jetzt stehen“).
+- den Vorgang der Dezentralisierung blockieren. Das sind Verbote und keine technische Unmöglichkeit (Dokument „Wo wir jetzt stehen“).
 
 ## Kontrollmechanismen
 
@@ -170,7 +170,7 @@ Der Übergang geschieht bei der Erfüllung sachlicher Maßstäbe und nicht durch
 - mindestens 100 Beschlüsse sind durch Abstimmung gefasst worden;
 - es bestehen keine nicht behobenen kritischen Sicherheitsvorfälle;
 - die technische Infrastruktur hängt von keinen bestimmten Personen ab;
-- **die technische Möglichkeit, Pässe zu entwerten**, ist an die Multisig der gewählten Strukturen oder unter die Kontrolle der Vollversammlung übergeben, die Rechte zur Ausgabe und zur Entwertung sind getrennt, und die Entwertung wird mit einer Verzögerung ausgeführt. Die Gründe der Entwertung nicht durch den Inhaber selbst sind durch Artikel 21 der Charta abschließend begrenzt, und die Aufhebung einer unwirksamen Ausgabe - der einzige Grund, der gegen den Willen des Inhabers angewandt wird - ist ein Beschluss der Vollversammlung und keine Verwaltungshandlung; die Charta tritt mit der Annahme der Erklärung in Kraft, und bis zur Übergabe der Rechte des Eigentümers des Vertrags beruht diese Beschränkung auf dem Verfahren und nicht auf dem Code (Dokument „Wo wir jetzt stehen“); auf diesem Abschnitt wird die technische Ausführung übergeben;
+- **die technische Möglichkeit, Pässe zu entwerten und zu verlegen**, ist an die Multisig der gewählten Strukturen oder unter die Kontrolle der Vollversammlung übergeben, die Rechte zur Ausgabe und zur Entwertung sind getrennt, und die Entwertung wird mit einer Verzögerung ausgeführt. Die beiden letzten Voraussetzungen sind am 9. Oktober 2026 erfüllt worden: Einträge anlegen und eine Ausgabe aufheben lässt sich jetzt nur mit verschiedenen Schlüsseln, und die Aufhebung ist für alle sichtbar und wird erst nach Ablauf der Frist für Einwendungen ausgeführt. Die erste ist nicht erfüllt: Beide Schlüssel liegen beim Gründer, und ihre Inhaber hat niemand gewählt. Die Gründe der Entwertung nicht durch den Inhaber selbst sind durch Artikel 21 der Charta abschließend begrenzt, und die Aufhebung einer unwirksamen Ausgabe - der einzige Grund, der gegen den Willen des Inhabers angewandt wird - ist ein Beschluss der Vollversammlung und keine Verwaltungshandlung; die Charta tritt mit der Annahme der Erklärung in Kraft; auf diesem Abschnitt wird die technische Ausführung übergeben;
 - **die Schlüssel der Schatzkammer** sind an die Multisig gewählter Unterzeichner nach den Regeln des Artikels 3 der Charta oder unter die Kontrolle der Vollversammlung übergeben: Über die Mittel allein verfügen kann niemand;
 - die Gemeinschaft hat ihre Bereitschaft durch Abstimmung bestätigt.
 
@@ -178,7 +178,7 @@ Der Übergang geschieht bei der Erfüllung sachlicher Maßstäbe und nicht durch
 
 # ABSCHNITT 07. Wie der Übergang selbst geschützt ist
 
-Ein Übergang ist ein verwundbarer Augenblick: Die alte Ordnung ist gebrochen, die neue noch nicht festgeschrieben, und die Macht lässt sich leicht „vorläufig, der Ordnung wegen“ behalten. Deshalb ist der Übergang durch den Bau geschützt und nicht durch Versprechen - durch drei Stützen, von denen keine sich auf das Vertrauen in die Gründer zurückführen lässt; wo man uns bis zur Übergabe der Schlüssel an eine Multisig vertrauen muss, ist im Dokument „Wo wir jetzt stehen“ benannt.
+Ein Übergang ist ein verwundbarer Augenblick: Die alte Ordnung ist gebrochen, die neue noch nicht festgeschrieben, und die Macht lässt sich leicht „vorläufig, der Ordnung wegen“ behalten. Deshalb ist der Übergang durch den Bau geschützt und nicht durch Versprechen - durch drei Stützen, von denen keine sich auf das Vertrauen in die Gründer zurückführen lässt.
 
 ## Die Macht der Gründer wird nur enger, niemals weiter
 
@@ -214,7 +214,7 @@ Deshalb kann weder eine Übernahme sich für das Volk ausgeben noch eine Spaltun
 
 **Das Problem.** Die Gründer könnten die Aufgaben und die Schlüssel nicht übergeben wollen.
 
-**Der Schutz.** Behandelt in Abschnitt 07: Die Macht der Gründer wird nur enger, der unabänderliche Kern ist außer ihrer Reichweite, und wird die Verwirklichung der Erklärung nach ihrer Annahme unmöglich, so können die geprüften Earthlings das Volk, gestützt auf dasselbe Register, ohne die Zustimmung der Gründer fortsetzen (Erklärung, Artikel 11); eine selbsternannte Kopie kann sich den Namen des Volkes dabei nicht aneignen. Der Gewinn aus einer Übernahme ist heute nicht null: Solange die Rechte des Eigentümers des Vertrags nicht an eine Multisig übergeben sind und die Kasse eine Schwelle von einer Unterschrift hat, kann derjenige, der diese Schlüssel an sich bringt, Einträge in demselben Register ausgeben und entwerten und über die Kasse verfügen (Dokument „Wo wir jetzt stehen“).
+**Der Schutz.** Behandelt in Abschnitt 07: Die Macht der Gründer wird nur enger, der unabänderliche Kern ist außer ihrer Reichweite, und wird die Verwirklichung der Erklärung nach ihrer Annahme unmöglich, so können die geprüften Earthlings das Volk, gestützt auf dasselbe Register, ohne die Zustimmung der Gründer fortsetzen (Erklärung, Artikel 11); eine selbsternannte Kopie kann sich den Namen des Volkes dabei nicht aneignen.
 
 ## Technische Fehler
 

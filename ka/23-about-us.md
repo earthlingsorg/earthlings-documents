@@ -160,6 +160,6 @@ Earthlings-ის იურიდიული სტრუქტურები 
 
 ქვემოთ ჩამოთვლილის შემოწმება ჩვენს გარეშეც შეიძლება; რა არის დახურული და სად უნდა გვენდოთ დღეს, დასახელებულია დოკუმენტში «სად ვართ ახლა».
 
-- SBT-ის სმარტ-კონტრაქტი Polygon Mainnet-ში: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
+- SBT-ის სმარტ-კონტრაქტი Polygon-ის ქსელში: [0x8B951403Aade0Ffd0647db058C00987538C6208f](https://polygonscan.com/address/0x8B951403Aade0Ffd0647db058C00987538C6208f)
 - ხაზინის Safe-საფულე Polygon-ში: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
 - დოკუმენტური კორპუსი: 25 ინსტიტუციური დოკუმენტი ცხრა ენაზე ([ყველა დოკუმენტი](/ka/)).

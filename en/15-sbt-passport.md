@@ -73,7 +73,7 @@ The history of a person's participation and of the work they have contributed is
 
 - network: Polygon Mainnet, EVM-compatible;
 - standard: ERC-721, non-transferable (soulbound);
-- passport contract address: `0x20e7962878429B803E35F83ba34eD291afEC2Be4`;
+- passport contract address on the Polygon network: `0x8B951403Aade0Ffd0647db058C00987538C6208f`;
 - transactions are public and verifiable on a block explorer without our involvement;
 - the contract source code is open (MIT licence).
 
@@ -133,7 +133,7 @@ The passport documents what it documents, and that is no small thing: a particul
 
 ## Termination of the passport
 
-**As a general rule you alone burn your passport**, with your own key, from your own wallet (the `burnByHolder` function). The platform does not store your keys and cannot prevent the burning; no one is entitled to burn the passport for you, but until the contract owner's rights are transferred to a multisignature, issuing and burning a passport are technically available to a single key (the document "Where We Are Now").
+**As a general rule you alone burn your passport**, with your own key, from your own wallet (the `burnByHolder` function). The platform does not store your keys and cannot prevent the burning; no one is entitled to burn the passport for you.
 
 The Charter (Article 21) establishes **two and only two** exceptions, and this list cannot be extended.
 
@@ -167,7 +167,7 @@ Where measures are applied for gross breaches of common rules, the passport is r
 
 ### What happens technically
 
-- on exit, the holder burns the passport with the `burnByHolder` function, while on annulment and technical reissue the burning is performed by the contract owner with the `burn` function;
+- on exit, the holder burns the passport themselves; an annulment of an issuance is first announced in the registry and is carried out only after the period for objections, while on technical reissue the entry is moved to a new address with the original date of issuance; the holder's signature is not required for this;
 - the passport data are deleted from the contract's active registry;
 - a pseudonymous mark that the passport existed and was burned remains in the unalterable history: this is a fact of the past, not a continuing belonging;
 - names, document data, biometrics, and verification hashes are not written to the ledger on issue;

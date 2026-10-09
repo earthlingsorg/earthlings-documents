@@ -160,6 +160,6 @@ Chaque transaction est ouverte à l'audit public.
 
 Ce qui est énuméré ci-dessous peut être vérifié sans nous; ce qui est fermé et les endroits où il faut aujourd'hui nous faire confiance sont nommés dans le document « Où nous en sommes ».
 
-- Contrat intelligent SBT sur Polygon Mainnet: [0x20e7962878429B803E35F83ba34eD291afEC2Be4](https://polygonscan.com/address/0x20e7962878429B803E35F83ba34eD291afEC2Be4)
+- Contrat intelligent SBT dans le réseau Polygon: [0x8B951403Aade0Ffd0647db058C00987538C6208f](https://polygonscan.com/address/0x8B951403Aade0Ffd0647db058C00987538C6208f)
 - Portefeuille du trésor Safe sur Polygon: [0xaEC7016218f7883bf6e47a2C932FdE6d822086C0](https://app.safe.global/home?safe=matic:0xaEC7016218f7883bf6e47a2C932FdE6d822086C0)
 - Corpus documentaire: 25 documents institutionnels en neuf langues ([tous les documents](/fr/)).

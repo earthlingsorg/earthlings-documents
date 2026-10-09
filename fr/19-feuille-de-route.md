@@ -32,7 +32,7 @@ Le présent document décrit la période de transition: de la fondation à l'aut
 
 **Reddition de comptes.** Dès l'entrée en vigueur de la Charte, les fondateurs rendent compte à la communauté; les rapports sont publiés et comportent des informations financières.
 
-**Décentralisation irréversible.** Chaque étape suivante consolide le niveau atteint. Le retour à un modèle plus centralisé contredit les règles posées et, à mesure que les clés sont transférées à la multisig des structures élues ou sous le contrôle de l'Assemblée, il devient aussi techniquement difficile; tant que les clés sont entre les mains d'une seule personne, cette protection tient aux règles et à l'ouverture, et non à l'architecture (document « Où nous en sommes »).
+**Décentralisation irréversible.** Chaque étape suivante consolide le niveau atteint. Le retour à un modèle plus centralisé contredit les règles posées et, à mesure que les clés sont transférées à la multisig des structures élues ou sous le contrôle de l'Assemblée, il devient aussi techniquement difficile.
 
 ---
 
@@ -98,7 +98,7 @@ Ces fonctions sont temporaires. La Charte entre en vigueur avec l'adoption de la
 - priver des participants de leur statut, de leur appartenance ou de leur droit de vote; avant l'adoption de la Déclaration, le document temporaire de participant à la constitution est détruit contre la volonté de son titulaire selon la procédure du document « La période constituante » (partie 2, point 5);
 - prendre des décisions contraires aux valeurs du peuple;
 - utiliser les ressources de la communauté à des fins personnelles;
-- bloquer le processus de décentralisation. Ce sont des interdictions, et non une impossibilité technique: tant que les droits du propriétaire du contrat et les clés du trésor ne sont pas transférés à une multisig, l'émission et la destruction des inscriptions du registre restent techniquement accessibles à une seule clé, et la disposition du trésor à une seule signature (document « Où nous en sommes »).
+- bloquer le processus de décentralisation. Ce sont des interdictions, et non une impossibilité technique (document « Où nous en sommes »).
 
 ## Les mécanismes de contrôle
 
@@ -170,7 +170,7 @@ Le passage se fait lorsque des critères objectifs sont remplis, et non par déc
 - au moins 100 décisions ont été adoptées par vote;
 - il n'existe aucun incident de sécurité critique non résolu;
 - l'infrastructure technique ne dépend d'aucune personne déterminée;
-- **la possibilité technique de détruire des passeports** est transférée à une multisig de structures élues ou sous le contrôle de l'Assemblée, les droits d'émission et de destruction sont séparés, et la destruction s'exécute avec un délai. Les motifs de destruction du passeport par une personne autre que son titulaire sont limités de façon exhaustive par l'article 21 de la Charte, et l'annulation d'une délivrance non valide - le seul d'entre eux qui s'applique contre la volonté du titulaire - est une décision de l'Assemblée et non un acte administratif; la Charte entre en vigueur avec l'adoption de la Déclaration et, jusqu'au transfert des droits du propriétaire du contrat, cette limite tient à la procédure et non au code (document « Où nous en sommes »); c'est l'exécution technique qui est transférée à cette étape;
+- **la possibilité technique de détruire et de déplacer des passeports** est transférée à une multisig de structures élues ou sous le contrôle de l'Assemblée, les droits d'émission et de destruction sont séparés, et la destruction s'exécute avec un délai. Les deux dernières conditions ont été remplies le 9 octobre 2026: créer des inscriptions et annuler une délivrance ne se fait désormais qu'avec des clés différentes, et l'annulation est visible de tous et ne s'exécute qu'après le délai d'objection. La première n'est pas remplie: les deux clés sont entre les mains du fondateur, et personne n'a élu leurs détenteurs. Les motifs de destruction du passeport par une personne autre que son titulaire sont limités de façon exhaustive par l'article 21 de la Charte, et l'annulation d'une délivrance non valide - le seul d'entre eux qui s'applique contre la volonté du titulaire - est une décision de l'Assemblée et non un acte administratif; la Charte entre en vigueur avec l'adoption de la Déclaration; c'est l'exécution technique qui est transférée à cette étape;
 - **les clés de la Trésorerie** sont transférées à une multisig de signataires élus selon les règles de l'article 3 de la Charte ou sous le contrôle de l'Assemblée: nul ne peut disposer seul des fonds;
 - la communauté a confirmé qu'elle était prête, par un vote.
 
@@ -178,7 +178,7 @@ Le passage se fait lorsque des critères objectifs sont remplis, et non par déc
 
 # SECTION 07. Comment la transition elle-même est protégée
 
-La transition est un moment vulnérable: l'ordre ancien est rompu, le nouveau n'est pas encore fixé, et il est facile de garder le pouvoir « à titre temporaire, pour le bon ordre ». C'est pourquoi la transition est protégée par l'agencement et non par des promesses - par trois appuis, dont aucun ne se réduit à la confiance envers les fondateurs; les endroits où il faut nous faire confiance jusqu'au transfert des clés à la multisig sont nommés dans le document « Où nous en sommes ».
+La transition est un moment vulnérable: l'ordre ancien est rompu, le nouveau n'est pas encore fixé, et il est facile de garder le pouvoir « à titre temporaire, pour le bon ordre ». C'est pourquoi la transition est protégée par l'agencement et non par des promesses - par trois appuis, dont aucun ne se réduit à la confiance envers les fondateurs.
 
 ## Le pouvoir des fondateurs ne fait que se rétrécir, jamais s'étendre
 
@@ -214,7 +214,7 @@ Ainsi, ni une prise de contrôle ne peut se faire passer pour le peuple, ni une 
 
 **Le problème.** Les fondateurs peuvent ne pas vouloir transférer les fonctions et les clés.
 
-**La protection.** Elle est exposée à la section 07: le pouvoir des fondateurs ne fait que se rétrécir, le noyau intangible est hors de leur atteinte, et si, après l'adoption de la Déclaration, la réalisation de celle-ci devient impossible, les earthlings vérifiés pourront poursuivre le peuple en s'appuyant sur le même registre, sans l'accord des fondateurs (Déclaration, article 11); une copie usurpatrice ne peut pas pour autant s'approprier le nom du peuple. Le gain d'une prise de contrôle n'est pas nul aujourd'hui: tant que les droits du propriétaire du contrat ne sont pas transférés à une multisig et que le seuil du trésor est d'une seule signature, celui qui s'emparerait de ces clés pourrait émettre et détruire des inscriptions dans ce même registre et disposer du trésor (document « Où nous en sommes »).
+**La protection.** Elle est exposée à la section 07: le pouvoir des fondateurs ne fait que se rétrécir, le noyau intangible est hors de leur atteinte, et si, après l'adoption de la Déclaration, la réalisation de celle-ci devient impossible, les earthlings vérifiés pourront poursuivre le peuple en s'appuyant sur le même registre, sans l'accord des fondateurs (Déclaration, article 11); une copie usurpatrice ne peut pas pour autant s'approprier le nom du peuple.
 
 ## Les erreurs techniques
 

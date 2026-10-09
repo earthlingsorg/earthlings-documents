@@ -80,7 +80,7 @@ Die Architektur verlangt, dass Identität, Stimme und wirtschaftliche Spur nicht
 
 ### Die Entwertung eines Passes
 
-In der Regel entwertet einen Pass nur der Inhaber selbst, mit dem eigenen Schlüssel, aus der eigenen Geldbörse. Die Plattform bewahrt die Schlüssel eines Teilnehmers nicht auf und ist technisch nicht in der Lage, die Entwertung zu verhindern; den Pass an seiner Stelle zu entwerten ist niemand befugt, doch solange die Rechte des Eigentümers des Vertrags nicht an eine Multisig übergeben sind, sind die Ausgabe und die Entwertung eines Passes technisch einem einzigen Schlüssel zugänglich (Dokument „Wo wir jetzt stehen“).
+In der Regel entwertet einen Pass nur der Inhaber selbst, mit dem eigenen Schlüssel, aus der eigenen Geldbörse. Die Plattform bewahrt die Schlüssel eines Teilnehmers nicht auf und ist technisch nicht in der Lage, die Entwertung zu verhindern; den Pass an seiner Stelle zu entwerten ist niemand befugt.
 
 Die Charta (Artikel 21) legt zwei und nur zwei Ausnahmen fest, die die Plattform unterstützen muss und nicht erweitern darf:
 

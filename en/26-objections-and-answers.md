@@ -126,7 +126,7 @@ The only case in which a passport is burned against the holder's will is exhaust
 
 The inalienability of belonging mirrors Article 15 of the Universal Declaration of Human Rights - "no one shall be arbitrarily deprived of his nationality" - and distinguishes a people from services and clubs, which expel at their own discretion.
 
-We make one qualification ourselves. The legal grounds for burning are exhaustively limited, but in the deployed version of the contract the technical ability to burn a passport remains with the holder of the owner keys: the restriction in Article 21 of the Charter is procedural, not technical; until the Declaration is adopted, there is no Independent Council and no Assembly (Charter, Article 38), and against the holder's will, the temporary document of a participant in the founding is burned under the procedure set out in the document "The Founding Period" (Part 2, section 5). Separating the rights of issuance and burning, a delay on execution, and transfer of ownership to a multisignature have been added to the roadmap.
+We make one qualification ourselves. The legal grounds for burning are exhaustively limited; until the Declaration is adopted, there is no Independent Council and no Assembly (Charter, Article 38), and against the holder's will, the temporary document of a participant in the founding is burned under the procedure set out in the document "The Founding Period" (Part 2, section 5).
 
 ### Your "unamendable core" was written by a founder before there was a people. That is not self-determination but accession to someone else's text.
 

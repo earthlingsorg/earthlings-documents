@@ -73,7 +73,7 @@ Die Geschichte der Teilnahme und des Beitrags ist für die Teilnehmer auf der Pl
 
 - Netz: Polygon Mainnet, EVM-verträglich;
 - Standard: ERC-721, unübertragbar (soulbound);
-- Adresse des Vertrags der Pässe: `0x20e7962878429B803E35F83ba34eD291afEC2Be4`;
+- Adresse des Vertrags der Pässe im Netz Polygon: `0x8B951403Aade0Ffd0647db058C00987538C6208f`;
 - die Vorgänge sind öffentlich und im Explorer des Netzes ohne unser Zutun überprüfbar;
 - der Quellcode des Vertrags ist offen (Lizenz MIT).
 
@@ -133,7 +133,7 @@ Der Pass bezeugt das, was er bezeugt, und das ist nicht wenig: Ein bestimmter Me
 
 ## Das Ende der Geltung des Passes
 
-**In der Regel entwerten nur Sie selbst den Pass**, mit dem eigenen Schlüssel, aus der eigenen Geldbörse (Funktion `burnByHolder`). Die Plattform bewahrt Ihre Schlüssel nicht auf und kann die Entwertung nicht verhindern; den Pass an Ihrer Stelle zu entwerten ist niemand befugt, doch solange die Rechte des Eigentümers des Vertrags nicht an eine Multisig übergeben sind, sind die Ausgabe und die Entwertung eines Passes technisch einem einzigen Schlüssel zugänglich (Dokument „Wo wir jetzt stehen“).
+**In der Regel entwerten nur Sie selbst den Pass**, mit dem eigenen Schlüssel, aus der eigenen Geldbörse (Funktion `burnByHolder`). Die Plattform bewahrt Ihre Schlüssel nicht auf und kann die Entwertung nicht verhindern; den Pass an Ihrer Stelle zu entwerten ist niemand befugt.
 
 Die Charta (Artikel 21) legt **zwei und nur zwei** Ausnahmen fest, und diese Aufzählung darf nicht erweitert werden.
 
@@ -167,7 +167,7 @@ Werden für grobe Verstöße der allgemeinen Regeln Maßnahmen verhängt, so ble
 
 ### Was technisch geschieht
 
-- beim Austritt entwertet der Inhaber den Pass mit der Funktion `burnByHolder`, bei der Aufhebung und bei einer technischen Neuausgabe nimmt die Entwertung der Eigentümer des Vertrags mit der Funktion `burn` vor;
+- beim Austritt entwertet der Inhaber den Pass selbst; eine Aufhebung der Ausgabe wird zuerst im Register bekanntgegeben und erst nach Ablauf der Frist für Einwendungen ausgeführt, und bei einer technischen Neuausgabe wird der Eintrag mit dem bisherigen Datum der Ausgabe an eine neue Adresse verlegt; eine Unterschrift des Inhabers ist dafür nicht erforderlich;
 - die Daten des Passes werden aus dem geltenden Register des Vertrags gelöscht;
 - in der unabänderlichen Geschichte bleibt ein pseudonymer Vermerk darüber, dass der Pass bestand und entwertet wurde: Das ist eine Tatsache der Vergangenheit und keine fortdauernde Zugehörigkeit;
 - Name, Dokument, Biometrie und die Hashes der Prüfung werden bei der Ausgabe nicht in das Register eingetragen;
