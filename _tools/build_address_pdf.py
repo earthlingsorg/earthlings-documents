@@ -485,7 +485,7 @@ def build(lang, port, browser):
         stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=180)
 
     assert not Handler.misses, (
-        u'браузер не получил %d файл(ов) и подставил бы системный шрифт: %s'
+        u'браузер не получил %d файл(ов): шрифт подменился бы системным, знак пропал бы: %s'
         % (len(Handler.misses), ', '.join(sorted(set(Handler.misses))[:5])))
     assert os.path.isfile(out) and os.path.getsize(out) > 20000, (
         u'PDF не собрался или пуст: %s' % out)
