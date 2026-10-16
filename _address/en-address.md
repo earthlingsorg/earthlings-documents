@@ -32,7 +32,7 @@ We searched for a long time for a form of association that could create a common
 
 A people is the bearer of the right to self-determination. International law recognizes the right of peoples to decide their own fate. The voice of a people has to be reckoned with differently from the voice of an organization. An organization can be shut down, banned or bought, but a people exists as long as the people who make it up exist. That is why what we are founding is a people, transnational and voluntary.
 
-The Earthlings people is not tied to a territory and lays claim to no one's land. It belongs to no state and sets the rules for its own internal life. People join it by their own choice, keeping their citizenship, their faith and their culture. Each person in it has one equal vote, which cannot be bought, accumulated or taken away. In this people there is no power of some people over others, so there is no one to seize it from within and nothing to seize it with.
+The Earthlings people is not tied to a territory and lays claim to no one's land. It belongs to no state and sets the rules for its own internal life. People join it by their own choice, keeping their citizenship, their faith and their culture. Each person in it has one equal vote, which cannot be bought, accumulated or taken away. In this people there is no power of some people over others, so there is no one to seize this people from within and nothing to seize it with.
 
 ## How we will exert influence
 

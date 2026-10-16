@@ -32,7 +32,7 @@ Nous avons longtemps cherché une forme d'union capable de créer une voix commu
 
 Un peuple est titulaire du droit à l'autodétermination. Le droit international reconnaît aux peuples le droit de décider eux-mêmes de leur destin. Avec la voix d'un peuple, on doit compter autrement qu'avec celle d'une organisation. Une organisation peut être fermée, interdite ou achetée, tandis qu'un peuple existe tant qu'existent les gens qui le composent. C'est pourquoi nous constituons précisément un peuple, transfrontalier et volontaire.
 
-Le peuple des Earthlings n'est pas lié à un territoire et ne revendique la terre de personne. Il n'appartient à aucun État et fixe lui-même les règles de sa vie intérieure. Les gens y entrent par leur propre choix, en conservant leur nationalité, leur foi et leur culture. Chacun y dispose d'une seule voix, égale à celle de tout autre, qui ne peut être ni achetée, ni accumulée, ni retirée. Le pouvoir des uns sur les autres n'existe pas dans ce peuple; c'est pourquoi il n'y a personne pour s'en emparer de l'intérieur, et rien avec quoi le faire.
+Le peuple des Earthlings n'est pas lié à un territoire et ne revendique la terre de personne. Il n'appartient à aucun État et fixe lui-même les règles de sa vie intérieure. Les gens y entrent par leur propre choix, en conservant leur nationalité, leur foi et leur culture. Chacun y dispose d'une seule voix, égale à celle de tout autre, qui ne peut être ni achetée, ni accumulée, ni retirée. Le pouvoir des uns sur les autres n'existe pas dans ce peuple; c'est pourquoi il n'y a personne pour s'emparer de ce peuple de l'intérieur, et rien avec quoi le faire.
 
 ## Comment nous allons peser
 

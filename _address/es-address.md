@@ -32,7 +32,7 @@ Durante mucho tiempo buscamos una forma de unión que pudiera crear una voz com�
 
 Un pueblo es titular del derecho a la libre determinación. El derecho internacional reconoce a los pueblos el derecho a determinar por sí mismos su destino. Con la voz de un pueblo hay que contar de un modo distinto que con la voz de una organización. A una organización se la puede cerrar, prohibir o comprar, y un pueblo, en cambio, existe mientras existan las personas que lo forman. Por eso constituimos precisamente un pueblo, transfronterizo y voluntario.
 
-El pueblo Earthlings no está ligado a un territorio y no reclama la tierra de nadie. No pertenece a ningún Estado y establece por sí mismo las reglas de su vida interna. Las personas entran en él por elección propia, conservando su nacionalidad, su fe y su cultura. Cada uno tiene en él un voto igual, que no puede comprarse, acumularse ni quitarse. El poder de unas personas sobre otras no existe en este pueblo, por eso no hay nadie que pueda capturarlo desde dentro, ni nada con qué hacerlo.
+El pueblo Earthlings no está ligado a un territorio y no reclama la tierra de nadie. No pertenece a ningún Estado y establece por sí mismo las reglas de su vida interna. Las personas entran en él por elección propia, conservando su nacionalidad, su fe y su cultura. Cada uno tiene en él un voto igual, que no puede comprarse, acumularse ni quitarse. El poder de unas personas sobre otras no existe en este pueblo, por eso no hay nadie que pueda capturar este pueblo desde dentro, ni nada con qué hacerlo.
 
 ## Cómo vamos a influir
 
