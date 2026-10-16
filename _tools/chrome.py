@@ -285,39 +285,52 @@ EXTRA = {
     # Это единственная строка главной, сочинённая для неё, а не взятая
     # из корпуса. Поэтому она и лежит здесь, среди строк интерфейса, а
     # не собирается из мастера: выдавать её за цитату нельзя.
-    # Фраза последней полосы. Кончается на «открыто» и ничего не
-    # предлагает сама: с 25 августа рядом стоит кнопка, и звать дважды -
-    # значит спорить с собой. Прежний хвост «...и открыто для вступления»
-    # был нужен, пока вся фраза была кнопкой.
-    # Хранится ДВУМЯ ЧАСТЯМИ, и это не прихоть вёрстки. Артур задал перенос
-    # для русского: «Всё, что нужно народу, чтобы действовать,» / «у
-    # Earthlings уже построено и открыто». Разрыв стоит на границе между тем,
-    # ЧТО нужно, и тем, ГДЕ это есть, - и такая граница есть во всех девяти
-    # языках: устройство фразы всюду одно. Поэтому правило общее - разрыв
-    # перед сказуемым, - а не русское исключение.
+    # Фраза последней полосы. Две фразы: что построено и чего ещё нет - и
+    # кто может это учредить (правка Артура 2026-10-14, сняла «и открыто»:
+    # вступление приостановлено на весь учредительный период). Текст взят с
+    # живых девяти страниц, куда правка легла руками; до 2026-10-16 словарь
+    # держал прежнюю строку, и полная сборка вернула бы её вместе с кнопкой
+    # «Вступить».
+    # Хранится ДВУМЯ ЧАСТЯМИ, и это не прихоть вёрстки: перенос задан
+    # Артуром и стоит между двумя предложениями.
     #
     # Части, а не строка с <br> внутри: разметка в словаре означала бы, что
     # строку нельзя показать нигде, кроме этого места, - ни в письме, ни в
     # заголовке страницы, ни голосом. Собирает её тот, кто показывает.
     'join_line': {
-        'ru': [u'Всё, что нужно народу, чтобы действовать,',
-               u'у Earthlings уже построено и открыто'],
-        'en': [u'Everything a people needs in order to act',
-               u'is already built at Earthlings, and it is open'],
-        'de': [u'Alles, was ein Volk zum Handeln braucht,',
-               u'ist bei Earthlings bereits gebaut und offen'],
-        'es': [u'Todo lo que un pueblo necesita para actuar',
-               u'ya está construido en Earthlings y está abierto'],
-        'fr': [u"Tout ce qu'un peuple doit avoir pour agir",
-               u"est déjà construit chez Earthlings et ouvert"],
-        'zh': [u'一个人民行动所需要的一切，',
-               u'在 Earthlings 已经建成，并且开放'],
-        'ar': [u'كل ما يحتاجه الشعب لكي يفعل',
-               u'مبنيٌّ عند Earthlings بالفعل ومفتوح'],
-        'hi': [u'किसी जन को कार्य करने के लिए जो कुछ चाहिए,',
-               u'वह Earthlings में पहले से बना है और खुला है'],
-        'ka': [u'ყველაფერი, რაც ხალხს სამოქმედოდ სჭირდება,',
-               u'Earthlings-ში უკვე აშენებულია და ღიაა']},
+        'ru': [u'Всё, что нужно народу, чтобы действовать, у Earthlings уже построено.',
+               u'Но самого народа ещё нет, и учредить его можете вы.'],
+        'en': [u'Everything a people needs in order to act is already built at Earthlings.',
+               u'But the people itself does not yet exist, and you can found it.'],
+        'de': [u'Alles, was ein Volk zum Handeln braucht, ist bei Earthlings bereits gebaut.',
+               u'Doch das Volk selbst gibt es noch nicht, und Sie können es konstituieren.'],
+        'es': [u'Todo lo que un pueblo necesita para actuar ya está construido en Earthlings.',
+               u'Pero el propio pueblo todavía no existe, y usted puede constituirlo.'],
+        'fr': [u"Tout ce qu'un peuple doit avoir pour agir est déjà construit chez Earthlings.",
+               u"Mais le peuple lui-même n'existe pas encore, et vous pouvez le constituer."],
+        'zh': [u'一个人民行动所需要的一切，在 Earthlings 已经建成。',
+               u'但人民本身尚不存在，而您可以创立它。'],
+        'ar': [u'كل ما يحتاجه الشعب لكي يفعل مبنيٌّ عند Earthlings بالفعل.',
+               u'لكن الشعب نفسه لا وجود له بعدُ، وأنت تستطيع أن تؤسسه.'],
+        'hi': [u'किसी जन को कार्य करने के लिए जो कुछ चाहिए, वह Earthlings में पहले से बना है।',
+               u'पर स्वयं जन अभी विद्यमान नहीं है, और उसकी स्थापना आप कर सकते हैं।'],
+        'ka': [u'ყველაფერი, რაც ხალხს სამოქმედოდ სჭირდება, Earthlings-ში უკვე აშენებულია.',
+               u'მაგრამ თავად ხალხი ჯერ არ არსებობს, და მისი დაფუძნება თქვენ შეგიძლიათ.']},
+    # Подпись кнопки закрывающей полосы. Ключ свой, а не nav.become_earthling:
+    # тот рисуется ещё в шапке сайта (EarthHeader.js) и на платформе, и длинная
+    # подпись, уместная в закрывающем призыве, в полосе навигации неуместна.
+    # Кнопка зовёт участвовать в учреждении, а не вступать: вступление
+    # приостановлено на весь учредительный период (правка 2026-10-14).
+    'join_cta': {
+        'ru': u'Принять участие в учреждении народа',
+        'en': u'Take part in founding the people',
+        'de': u'An der Konstituierung des Volkes teilnehmen',
+        'es': u'Participar en la constitución del pueblo',
+        'fr': u'Participer à la constitution du peuple',
+        'zh': u'参与人民的创立',
+        'ar': u'شارك في تأسيس الشعب',
+        'hi': u'जन की स्थापना में भाग लें',
+        'ka': u'მიიღეთ მონაწილეობა ხალხის დაფუძნებაში'},
     # Ссылка с полосы главной на полный текст.
     'read_more': {'ru': u'Читать целиком', 'en': u'Read in full',
                   'es': u'Leer completo', 'de': u'Vollständig lesen',
@@ -340,7 +353,8 @@ EXTRA = {
                'ka': u'ჩვენების გაგრძელება'},
 }
 
-CTA_URL = 'https://id.earth-lings.org/verification?lang=%s'
+# #participate - блок двух путей участия на странице проверки (2026-10-14).
+CTA_URL = 'https://id.earth-lings.org/verification?lang=%s#participate'
 APP_URL = 'https://app.earth-lings.org?lang=%s'
 # Строка прав в подвале. Знак копирайта уместен: авторские права на тексты
 # действительно принадлежат, и CC BY 4.0 - лицензия поверх них, а не отказ
