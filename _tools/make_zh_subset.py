@@ -30,11 +30,13 @@ SC весит 17 МБ. Путь к ним передаётся аргумент�
     python _tools/make_zh_subset.py --sans <NotoSansSC-Regular.ttf> \
                                     --serif <NotoSerifSC-Regular.ttf>
 
-Выход: _v2/fonts/zh-sans.woff2, _v2/fonts/zh-serif.woff2 и новый
-       _v2/css/fonts-zh.css на два правила вместо двухсот двух.
+Выход: _v2/fonts/zh-sans.woff2, _v2/fonts/zh-serif.woff2 и новый исходник
+       _tools/css/fonts-zh.css на два правила (адрес шрифта с ?v=<хеш>);
+       затем python _tools/build_css.py кладёт его в _v2/css/.
 """
 import argparse
 import glob
+import hashlib
 import io
 import os
 import re
@@ -154,7 +156,7 @@ FACE = u"""@font-face {
   font-style: normal;
   font-weight: %s;
   font-display: swap;
-  src: url(/fonts/%s) format('woff2');
+  src: url(/fonts/%s?v=%s) format('woff2');
 }
 """
 
@@ -199,7 +201,12 @@ def main():
             print(u'%-14s 700 - покрыт переменным файлом, пропущен' % family)
             continue
         total += size
-        faces.append(FACE % (family, axis or str(weight), name))
+        # Версия по содержимому: /fonts/ отдаётся с immutable на год, и
+        # перепечённый файл под тем же адресом не дошёл бы до тех, у кого
+        # прежний уже в кэше (2026-10-16, перепечка ради 徙 и 探).
+        with open(os.path.join(fonts_dir, name), 'rb') as fh:
+            ver = hashlib.sha256(fh.read()).hexdigest()[:8]
+        faces.append(FACE % (family, axis or str(weight), name, ver))
         print(u'%-14s %3d  %-26s -> %6.0f КБ%s%s'
               % (family, weight, os.path.basename(src), size / 1024.0,
                  u'  (переменный %s)' % axis if axis else '',
@@ -208,9 +215,14 @@ def main():
 
     assert faces, u'не испечено ни одного семейства'
     css = CSS_HEAD % len(chars) + '\n' + '\n'.join(faces)
-    guard.write(os.path.join(V2, 'css', 'fonts-zh.css'), css)
+    # Пишется ИСХОДНИК, а не выдача: _v2/css/fonts-zh.css порождает
+    # build_css.py, и прямая запись туда расходилась бы с исходником.
+    with io.open(os.path.join(HERE, 'css', 'fonts-zh.css'), 'w',
+                 encoding='utf-8', newline='\n') as fh:
+        fh.write(css)
     print(u'')
-    print(u'css/fonts-zh.css: правил %d, шрифтов %.0f КБ на весь корпус'
+    print(u'_tools/css/fonts-zh.css: правил %d, шрифтов %.0f КБ на весь корпус; '
+          u'дальше python _tools/build_css.py'
           % (len(faces), total / 1024.0))
 
 

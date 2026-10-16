@@ -1,7 +1,7 @@
 /* Письменность zh: один файл на семейство вместо ста одного среза.
 
    Испечено _tools/make_zh_subset.py по знакам, которые реально встречаются
-   в китайском корпусе (1929 штук; перепечено 2026-10-16). Руками не править: правка переживёт до
+   в китайском корпусе (1929 штук). Руками не править: правка переживёт до
    следующей сборки.
 
    Почему не нарезка по unicode-range, как у Google. Их нарезка рассчитана
@@ -18,7 +18,7 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url(/fonts/zh-sans.woff2) format('woff2');
+  src: url(/fonts/zh-sans.woff2?v=2cea0592) format('woff2');
 }
 
 @font-face {
@@ -26,5 +26,5 @@
   font-style: normal;
   font-weight: 200 900;
   font-display: swap;
-  src: url(/fonts/zh-serif.woff2) format('woff2');
+  src: url(/fonts/zh-serif.woff2?v=8603f1c1) format('woff2');
 }
