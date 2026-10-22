@@ -182,7 +182,7 @@ STYLE = u"""<style>
 
 UMAMI = ('<!--umami-start--><script defer src="https://stats.earth-lings.org/script.js" '
          'data-website-id="badb2091-1880-4933-bf4e-8d7be1f7ce44"></script>'
-         '<script defer src="/js/umami-tracker.js?v=1"></script><!--umami-end-->')
+         '<script defer src="/js/stats.js"></script><!--umami-end-->')
 
 
 def head_html():

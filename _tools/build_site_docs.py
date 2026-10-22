@@ -2034,20 +2034,24 @@ def prev_next_html(num, titles, lang='ru'):
     out = ['<!--seo-prev-next-start-->',
            '<nav class="seo-prev-next" aria-label="%s">' % ui(lang, 'nav_aria')]
     if prev:
-        out.append('<a class="pn-side" href="%s" rel="prev">'
+        out.append('<a class="pn-side" href="%s" rel="prev"'
+                   ' data-umami-event="doc-prev" data-umami-event-to="%s">'
                    '<span class="pn-label">%s</span>'
                    '<span class="pn-name">%s</span></a>'
-                   % (doc_href(prev, lang), ui(lang, 'prev'), html.escape(titles[prev])))
+                   % (doc_href(prev, lang), html.escape(str(prev)),
+                      ui(lang, 'prev'), html.escape(titles[prev])))
     else:
         out.append('<span class="pn-side"></span>')
     out.append('<a href="/documents/%s/index.html" rel="up" aria-label="%s" '
-               'title="%s">%s</a>'
+               'title="%s" data-umami-event="doc-index">%s</a>'
                % (lang, ui(lang, 'all_docs'), ui(lang, 'all_docs'), HOME_SVG))
     if nxt:
-        out.append('<a class="pn-side pn-next" href="%s" rel="next">'
+        out.append('<a class="pn-side pn-next" href="%s" rel="next"'
+                   ' data-umami-event="doc-next" data-umami-event-to="%s">'
                    '<span class="pn-label">%s</span>'
                    '<span class="pn-name">%s</span></a>'
-                   % (doc_href(nxt, lang), ui(lang, 'next'), html.escape(titles[nxt])))
+                   % (doc_href(nxt, lang), html.escape(str(nxt)),
+                      ui(lang, 'next'), html.escape(titles[nxt])))
     else:
         out.append('<span class="pn-side"></span>')
     out.append('</nav>')
