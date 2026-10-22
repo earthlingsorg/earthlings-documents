@@ -53,7 +53,9 @@ UMAMI = ('<!--umami-start--><script>if(window.self===window.top){'
          'var s=document.createElement("script");s.defer=true;'
          's.src="https://stats.earth-lings.org/script.js";'
          's.setAttribute("data-website-id","badb2091-1880-4933-bf4e-8d7be1f7ce44");'
-         'document.body.appendChild(s);}</script><!--umami-end-->')
+         'document.body.appendChild(s);}</script>'
+         '<script defer src="/js/umami-tracker.js?v=2"></script>'
+         '<!--umami-end-->')
 
 
 def meta(src, pattern):
