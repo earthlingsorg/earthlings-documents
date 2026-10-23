@@ -9,7 +9,7 @@
 
 Wars between countries go on, and no international organization can stop them. The institutions that are supposed to put things right in the world no longer fully cope with their functions. All important decisions are made by governments, while people from different countries cannot express a common opinion that would help solve various problems.
 
-That is why we are founding the voluntary and transnational Earthlings people. This is a new institution: a direct voice of people across borders. Behind every vote in it stands a verified living person, and the result of any vote can be recounted by anyone. The institution will become international when it is heard, and that depends on us.
+That is why we are founding the voluntary and transnational Earthlings people. This is a new institution: a direct voice of people across borders. Behind every vote in it stands a verified living person, and the result of any vote can be recounted by anyone. We are working for this voice to acquire international legal personality: a recognized capacity to bear rights and obligations in its own name at the international level, and to speak alongside states without replacing them. The Earthlings people exists by the will of those who belong to it and asks no one for permission to do so; the weight of its voice comes from the number of those who reckon with it, and it is built up by practice - by every objection worked through and every approach that could not be left unanswered.
 ## Декларация
 
 By the Declaration, people constitute themselves as a people: a community of those who have chosen to belong to one another and recognize that belonging mutually.

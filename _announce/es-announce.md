@@ -9,7 +9,7 @@
 
 Las guerras entre países continúan, y ninguna organización internacional es capaz de detenerlas. Las instituciones que deberían corregir la situación en el mundo ya no consiguen cumplir plenamente sus funciones. Todas las decisiones importantes las toman los gobiernos, y las personas de distintos países no pueden expresar una opinión común para resolver los diversos problemas.
 
-Por eso constituimos el pueblo Earthlings, voluntario y transfronterizo. Es una nueva institución: la voz directa de las personas por encima de las fronteras. Detrás de cada voto en él hay una persona viva verificada, y el recuento de cualquier votación puede rehacerlo cualquiera. Esta institución llegará a ser internacional cuando se la escuche, y eso depende de nosotros.
+Por eso constituimos el pueblo Earthlings, voluntario y transfronterizo. Es una nueva institución: la voz directa de las personas por encima de las fronteras. Detrás de cada voto en él hay una persona viva verificada, y el recuento de cualquier votación puede rehacerlo cualquiera. Trabajamos para que esta voz adquiera personalidad jurídica internacional: la capacidad reconocida de ser titular por sí misma de derechos y obligaciones en el plano internacional y de hablar junto a los Estados sin sustituirlos. El pueblo Earthlings existe por la voluntad de quienes le pertenecen y no pide permiso a nadie para ello; el peso de su voz lo da el número de quienes cuentan con ella, y se acumula con la práctica: con cada objeción examinada y cada llamamiento que no se pudo dejar sin respuesta.
 ## Декларация
 
 Con la Declaración, las personas se constituyen en pueblo: una comunidad de quienes han elegido por sí mismos pertenecerse unos a otros y reconocen mutuamente esa pertenencia.
